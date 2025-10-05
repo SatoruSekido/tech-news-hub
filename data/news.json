@@ -1,73 +1,87 @@
 [
   {
-    "title": "Building a Modern Network Observability Stack: Combining Prometheus, Grafana, and Loki for Deep Insight",
-    "link": "https://dev.to/gagreatprogrammer/building-a-modern-network-observability-stack-combining-prometheus-grafana-and-loki-for-deep-43f5",
-    "pubDate": "Sun, 05 Oct 2025 13:55:16 +0000",
+    "title": "Understanding Java Constructors: Types, Execution, and Differences from Methods",
+    "link": "https://dev.to/nishanthan-k/understanding-java-constructors-types-execution-and-differences-from-methods-35cm",
+    "pubDate": "Sun, 05 Oct 2025 18:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the flickering glow of a dozen monitors, the digital war room is a scene of organized chaos. An application is slow, customers are complaining, and the blame game has begun. The application team se"
+    "contentSnippet": "Understanding Constructors in Java\n\n\nA constructor in Java is similar to a method but serves a specific purpose: initializing objects. This article provides a deep dive into constructors, their execut"
   },
   {
-    "title": "10 Cool CodePen Demos (September 2025)",
-    "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2025-2i7h",
-    "pubDate": "Sun, 05 Oct 2025 13:52:36 +0000",
+    "title": "Beyond the Proxy: Building a Secure, Observable Serverless API with Amazon API Gateway",
+    "link": "https://dev.to/harshhp/beyond-the-proxy-building-a-secure-observable-serverless-api-with-amazon-api-gateway-di2",
+    "pubDate": "Sun, 05 Oct 2025 18:21:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Elastic neon radio buttons\n\n\nJosh Dillon has created many \"glitchy\" radio buttons and checkboxes. This particular example stands out for its animation (I personally wish it were a bit faster, but that"
+    "contentSnippet": "Introduction: Rethinking API Gateway\n\n\nIf you ask many developers what Amazon API Gateway is, they’ll often say,\n\n“It’s a way to trigger Lambda functions with HTTP requests.”  \nWhile that’s a common u"
   },
   {
-    "title": "I think you should let AI write your code",
-    "link": "https://dev.to/koladev/i-think-you-should-let-ai-write-your-code-2jgj",
-    "pubDate": "Sun, 05 Oct 2025 13:46:32 +0000",
+    "title": "DevOps by Doing: Deploying NGINX on Azure Kubernetes Service (AKS) with Terraform",
+    "link": "https://dev.to/johnogbonna/devops-by-doing-deploying-nginx-on-azure-kubernetes-service-aks-with-terraform-2an0",
+    "pubDate": "Sun, 05 Oct 2025 18:19:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've been skeptical about AI coding since it started gaining traction in 2022. And then, I changed my mind: I went from manually writing most of my code to having AI generate 90% of it. And honestly, "
+    "contentSnippet": "Kubernetes has become the go-to platform for deploying and managing containerized applications at scale. In this guide, we’ll walk through how to provision an AKS cluster and deploy a sample NGINX app"
   },
   {
-    "title": "If You Know These 30 JavaScript One-Liners, You’re Fast",
-    "link": "https://dev.to/ssukhpinder/if-you-know-these-30-javascript-one-liners-youre-fast-41lk",
-    "pubDate": "Sun, 05 Oct 2025 13:37:59 +0000",
+    "title": "Fundamentals metrics for Software Engineering derived from Math Statistics",
+    "link": "https://dev.to/optiklab/fundamentals-metrics-for-software-engineering-derived-from-math-statistics-38g4",
+    "pubDate": "Sun, 05 Oct 2025 18:18:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A very specific night (and a very silly bug)\n\n\n2:13 a.m. in a quiet apartment. My laptop fan sounded like a small helicopter and the last of my jasmine tea had turned into something medicinal. I was s"
+    "contentSnippet": "If you can’t measure it, you can’t improve it. – Peter Drucker\nIn software engineering, we all need to make data-driven decisions. Thus, we frequently need to be able to measure impact, performance, f"
   },
   {
-    "title": "Build a Real-Time Chat App: A Complete Node.js & Socket.IO Guide",
-    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/build-a-real-time-chat-app-a-complete-nodejs-socketio-guide-40pl",
-    "pubDate": "Sun, 05 Oct 2025 13:34:18 +0000",
+    "title": "Polyphonic: The War Songs of Greenwich Village",
+    "link": "https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j",
+    "pubDate": "Sun, 05 Oct 2025 18:08:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a Real-Time Chat Application with Node.js and Socket.IO: A Developer's Guide\n\n\nRemember the last time you saw a message pop up on WhatsApp or Slack the instant your colleague sent it? Or witn"
+    "contentSnippet": "The War Songs of Greenwich Village is basically a one-stop plug for Noah Lefevre’s new book, Century of Song: The Most Important Music of the Last 100 Years, with handy links to snag your copy at Barn"
   },
   {
-    "title": "How to Send Emails in Node.js with Nodemailer: A 2025 Guide",
-    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/how-to-send-emails-in-nodejs-with-nodemailer-a-2025-guide-1k09",
-    "pubDate": "Sun, 05 Oct 2025 13:29:26 +0000",
+    "title": "Danny Maude: I Wish a Golf Coach Had Told Me This Sooner",
+    "link": "https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-1la0",
+    "pubDate": "Sun, 05 Oct 2025 18:05:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mastering Email in Node.js with Nodemailer: A Developer's Guide\n\n\nEver wondered how your favorite web app sends you that \"Welcome\" email, a password reset link, or a monthly invoice? It’s not magic; i"
+    "contentSnippet": "TL;DR\n\n\nStruggling with a slice or never quite getting solid iron strikes? Golf coach Danny Maude reveals a simple “shift in focus” that helped his student stop overthinking, swing more inside-out, an"
   },
   {
-    "title": "Deep Dive into AWS Cloud WAN Core Network Policy: Configuration, Examples, and Strategy",
-    "link": "https://dev.to/masakiokuda/deep-dive-into-aws-cloud-wan-core-network-policy-configuration-examples-and-strategy-30eo",
-    "pubDate": "Sun, 05 Oct 2025 13:29:06 +0000",
+    "title": "The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?",
+    "link": "https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2lia",
+    "pubDate": "Sun, 05 Oct 2025 18:03:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Deep Dive into AWS Cloud WAN Core Network Policy: Configuration, Examples, and Strategy\n\n\nThank you for reading this article.\n@mob-engineer).\nThe core network policy is the heart of the Cloud WAN serv"
+    "contentSnippet": "Game Theory host MatPat dives back into Five Nights at Freddy’s: Secret of the Mimic, breaking down months of frame-by-frame sleuthing to test his original theory. He also pits his conclusions against"
   },
   {
-    "title": "How to Convert AWS Clicks into CDK/CloudFormation (The EASY Way)",
-    "link": "https://dev.to/aws-builders/how-to-convert-aws-clicks-into-cdkcloudformation-the-easy-way-14lg",
-    "pubDate": "Sun, 05 Oct 2025 13:28:51 +0000",
+    "title": "GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer",
+    "link": "https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4fhe",
+    "pubDate": "Sun, 05 Oct 2025 18:02:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Manual Grind is Over\n\n\nLet's be real: setting up infrastructure in the AWS Management Console is a right of passage. We've all been there—clicking through menus, configuring settings, and trying t"
+    "contentSnippet": "Pokémon Legends: Z-A Overview\n\n\nPokémon Legends: Z-A launches on October 16, 2025, for Nintendo Switch and Nintendo Switch 2. Dive into Lumiose City, where you can catch, battle, and Mega Evolve your "
   },
   {
-    "title": "🧙‍♂️ The Ultimate Git Wizard Guide — Time-Saving Tricks, Hidden Powers & Tools That Make You Unstoppable",
-    "link": "https://dev.to/charan_gutti_cf60c6185074/the-ultimate-git-wizard-guide-time-saving-tricks-hidden-powers-tools-that-make-you-2l9e",
-    "pubDate": "Sun, 05 Oct 2025 13:14:58 +0000",
+    "title": "GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations",
+    "link": "https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-157h",
+    "pubDate": "Sun, 05 Oct 2025 18:02:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "“Git doesn’t just track code — it tracks your journey as a developer.”\nMost developers know how to git add . and git push.\ncontrolling time.\nGit is your time machine, your safety net, and your creativ"
+    "contentSnippet": "Ghost of Yōtei – The Most Stylish Armor Combinations\n\n\nDrowning in vanity gear but can’t find a look that clicks? This quick guide dishes out a handful of killer outfit ideas you can copy or tweak to "
   },
   {
-    "title": "Angular Create App Loader Directive",
-    "link": "https://dev.to/adamclayd/angular-create-app-loader-directive-4gm2",
-    "pubDate": "Sun, 05 Oct 2025 13:14:15 +0000",
+    "title": "GameSpot: skate. | Early Access Season 1 Overview Trailer",
+    "link": "https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-5gd0",
+    "pubDate": "Sun, 05 Oct 2025 18:02:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Here I will be demonstrating how to create loader directive that has a back drop and an animated loading indicator that can be placed on any element and that does not use the CDK overlay.\nThe back dro"
+    "contentSnippet": "skate. Season 1 Early Access Overview\n\n\nskate. Season 1 is live, free to play on PS4, PS5, Xbox One, Xbox Series X|S and PC (EA App, Epic, Steam). Dive into a buzzing social world of dynamic skate spo"
+  },
+  {
+    "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
+    "link": "https://www.publickey1.jp/blog/25/mcpa2aaimicrosoft_agent_framewok.html",
+    "pubDate": "2025-10-05T15:06:36.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは、MCP（Model Context Protocol）やA2A（Agent to Agent）プロトコルなどの業界標準に対応したAIエージェントや、複数のAIエージェントのオーケストレーションの開発を容易にする「Microsoft Agent Framewok」をプレビュー公開しました。 Agent Frameworkは2つのフレームワークを1つに統合 マイクロソフトはこれまで、"
+  },
+  {
+    "title": "ガートナー「先進テクノロジーのハイプサイクル 2025年版」発表。人に代わるマシン・カスタマー、プログラマブル・マネーなど注目",
+    "link": "https://www.publickey1.jp/blog/25/_2025.html",
+    "pubDate": "2025-10-05T15:03:11.000Z",
+    "source": "Publickey",
+    "contentSnippet": "米調査会社のガートナーは、「先進テクノロジーのハイプサイクル 2025年版」を9月に発表しています（ガートナージャパンの発表）。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説明したものです。5つのステージは、「黎明期」から始まり、「『過度な期待』のピーク期」「幻滅期」「啓発期」「生産性の安定期」まで。この途中で消えていく技術もあります。 今回発表されたハイプサイク"
   },
   {
     "title": "testing/synctestはGoランタイムの世界を改変していた",
@@ -264,19 +278,5 @@
     "pubDate": "2025-09-28T15:38:30.000Z",
     "source": "Publickey",
     "contentSnippet": "コマンドラインから生成AIによるコーディングの支援を得られる「GitHub Copilot CLI」がパブリックプレビューとなりました。 GitHub MCPサーバと一緒に提供 GitHub Copilot CLIはコマンドラインにネイティブに対応したGitHub Copilotです。 開発者はコマンドラインから離れることなく、生成AIに指示することでコードの生成や編集、ビルド、デバッグ、リファク"
-  },
-  {
-    "title": "GraalVMは今後Javaとは独立してバージョンアップへ。Java以外のPythonやJavaScriptに注力する方針を発表",
-    "link": "https://www.publickey1.jp/blog/25/graalvmjavajavapythonjavascript.html",
-    "pubDate": "2025-09-24T15:38:44.000Z",
-    "source": "Publickey",
-    "contentSnippet": "オラクルはGraalVMの新たな方向性として、これまでJavaと同期させていたバージョンアップのタイミングを見直してGraalVM単独のタイミングでバージョンアップをすること、そして今後はJava以外の言語、例えばPython（GraalPy）やJavaScript（GraalJS）などに注力することを明らかにしました。 GraalVMはJavaエコシステムトレインに乗っていた GraalVMはO"
-  },
-  {
-    "title": "マイクロソフト、.NET STS版のサポート期間を2年に延長、バージョン間の移行がスムーズに",
-    "link": "https://www.publickey1.jp/blog/25/net_standard2.html",
-    "pubDate": "2025-09-24T15:34:48.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは、.NET Standard Term Suport（STS：通常サポート期間）版のサポート期間をこれまでの18カ月から6カ月延長し、24カ月にすることを発表しました。 これにより、.NETユーザーにとって、どのバージョンから別のバージョンへ移行するとしてもサポートの空白期間が途切れることがなくなり、これまでよりスムーズに移行できることが期待されます。 .NETは2年ごとにLTSが"
   }
 ]

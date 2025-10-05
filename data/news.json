@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Structured output comparison across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock",
+    "link": "https://dev.to/rosgluk/structured-output-comparison-across-popular-llm-providers-openai-gemini-anthropic-mistral-and-k26",
+    "pubDate": "Sun, 05 Oct 2025 09:19:04 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Here’s a side-by-side support comparison of structured output across popular LLM providers, plus minimal Python examples.\nstructured output from the LLM hosted on Ollama. Here we review how to request"
+  },
+  {
+    "title": "Python. Project Structure (IX)",
+    "link": "https://dev.to/elferrer/python-project-structure-ix-3d80",
+    "pubDate": "Sun, 05 Oct 2025 09:17:36 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Índice:\n\n\n\nSección A. Estructurar un proyecto: apartado I, apartado II, apartado III, apartado IV, apartado V, apartado VI, apartado VII, apartado VIII, apartado IX.\nEn este artículo daremos un breve "
+  },
+  {
+    "title": "The Django-CFG Manifesto — or, How I Stopped Worshiping settings.py and Let AI Build My Apps",
+    "link": "https://dev.to/markin/the-django-cfg-manifesto-or-how-i-stopped-worshiping-settingspy-and-let-ai-build-my-apps-3n0d",
+    "pubDate": "Sun, 05 Oct 2025 09:14:20 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "“Every framework starts as a tool.\n\nThen it becomes a ritual.\n\nFinally, it becomes a religion.”\n\n— Anonymous Senior Developer, 2011\nsettings.py\n\n\nEvery Django developer remembers their first encounter"
+  },
+  {
+    "title": "Water Intake Tracker – A Small but Impactful React Project",
+    "link": "https://dev.to/himanshna/water-intake-tracker-a-small-but-impactful-react-project-3cnf",
+    "pubDate": "Sun, 05 Oct 2025 09:14:10 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Water Intake Tracker:  A Small but Impactful React Project\n\n\nI just wrapped up a small but meaningful project: Water Intake Tracker A web app that helps me stay hydrated while keeping my coding moment"
+  },
+  {
+    "title": "Desvendando o Sistema de Plugins do WordPress: Um Guia Prático para Desenvolvedores",
+    "link": "https://dev.to/matheussesso/desvendando-o-sistema-de-plugins-do-wordpress-um-guia-pratico-para-desenvolvedores-2ncp",
+    "pubDate": "Sun, 05 Oct 2025 09:13:04 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Após anos desenvolvendo para WordPress, afirmo: entender profundamente o sistema de plugins é o diferencial entre um iniciante e um profissional neste sistema. Neste artigo, você vamos aprender na prá"
+  },
+  {
+    "title": "Deciphering the Code What Phone Numbers",
+    "link": "https://dev.to/rakibhasan32/deciphering-the-code-what-phone-numbers-53lk",
+    "pubDate": "Sun, 05 Oct 2025 09:02:53 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "A phone number is like a secret code. It has several parts that tell a story. Specifically, the number starts with a Country Code. This code tells you what country the phone number belongs to. The Uni"
+  },
+  {
+    "title": "Building a Robust Plumbing Service Platform: Challenges, Innovations, and Future Goals",
+    "link": "https://dev.to/ella_rose/building-a-robust-plumbing-service-platform-challenges-innovations-and-future-goals-1749",
+    "pubDate": "Sun, 05 Oct 2025 09:01:57 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "In the dynamic landscape of Singapore's service industry, establishing a reliable and efficient online presence is paramount. The website PlumberSingapore.org\nThe Genesis of PlumberSingapore.org\nThe i"
+  },
+  {
+    "title": "Web Performance Best Practices in 2025: A Developer’s Guide ⚡",
+    "link": "https://dev.to/service_maxsell_64ece3f66/web-performance-best-practices-in-2025-a-developers-guide-376g",
+    "pubDate": "Sun, 05 Oct 2025 09:00:59 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Web Performance Best Practices in 2025: A Developer’s Guide ⚡\nspeed and efficiency are critical. A slow website means lost users, lower conversions, and weaker SEO visibility.\nlatest best practices fo"
+  },
+  {
+    "title": "Whoops something went wrongtitle",
+    "link": "https://dev.to/rakibhasan32/whoops-something-went-wrongtitle-23pg",
+    "pubDate": "Sun, 05 Oct 2025 09:00:02 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Think about your phone number. It is just a short sequence of digits. It might not look like much. However, that small number is very powerful. It holds a lot of important information. \nand family far"
+  },
+  {
+    "title": "Kafka Self-Healing Cluster:",
+    "link": "https://dev.to/bhavya_thakkar_203f9c2f66/kafka-self-healing-cluster-p4d",
+    "pubDate": "Sun, 05 Oct 2025 08:57:18 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Hey there, welcome back to the 2nd episode of the monthly misadventures of a regular dev. Thanks for sticking around, especially after how rough the last one was. Let’s get straight to the point, have"
+  },
+  {
+    "title": "freqAI-LSTM トレーディングモデル完全ガイド",
+    "link": "https://qiita.com/tikeda123/items/eeeaf29932b2d8817fd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T16:15:34.000Z",
+    "source": "Qiita",
+    "contentSnippet": "freqAI-LSTM トレーディングモデル完全ガイド\n\n初心者から上級者まで徹底解説\n\n第1章: はじめに - このシステムは何をするのか\n\n1.1 プロジェクトの全体像\nfreqAI-LSTMは、暗号通貨の自動取引を行うための人工知能システムです。このシステムは、ま..."
+  },
+  {
+    "title": "古のMS-OfficeファイルをSnowflakeであれこれしてAI-Readyにしたい",
+    "link": "https://qiita.com/myu65/items/8b4de7b6dea547167b85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T15:58:25.000Z",
+    "source": "Qiita",
+    "contentSnippet": "最近Snowflakeで仕事していることの多いこのごろです。\nわけあってdocファイルとかxlsファイルとかpptファイルが大量にでてきたけど、これ読み込めないじゃんと困ってていろいろ調べたまとめです。\n\nなにができたらうれしいか\nとりあえずいろんな文書をMarkdownに..."
+  },
+  {
+    "title": "CloudFormation で閉域 VPC、TGW、Route 53 Resolver の検証環境を一気呵成に構築する",
+    "link": "https://qiita.com/takeda_h/items/41c486e461460b933b81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T15:37:23.000Z",
+    "source": "Qiita",
+    "contentSnippet": "最近ガバメントクラウド関係の業務で CloudFormation のテンプレートを読む機会がありました。\nそこで、勉強がてら、これまでガバメントクラウド環境の勉強としてよく作ってきた閉域 VPC や Transit Gateway (TGW)、Route 53 インバウンド..."
+  },
+  {
+    "title": "老いるAI人格育成エンジンを自作する",
+    "link": "https://zenn.dev/saldra/articles/fa8ea14b5a1880",
+    "pubDate": "Sat, 04 Oct 2025 14:26:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n世の中にはAIキャラクターというジャンルがあります。キャラクターの行動・応答をLLMで生成したりすることで、自律的な存在を制作するジャンルです。ChatGPTの登場以降、技術は急速に発展し、今ではAIに配信をさせる「AITuber」と呼ばれるものまで誕生しています。\n近年までは「あらかじめ開発者やユーザーが設定したキャラクター像に則り動作する」AIキャラクターが標準でした。これは制作者意"
+  },
+  {
+    "title": "JavaScriptでハングルを分解してタイピングソフトを作る",
+    "link": "https://qiita.com/ishi720/items/e253170afb94c5297969?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T14:22:48.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n過去に 自作の「かな入力」のタイピングソフト を作成しました。\n\nそこで気になったのが、韓国語（ハングル）のキーボードってどんなのなんだろうと思い、ハングル配列のキーボードを作ってみました。\n\nハングルの仕組みについて\nハングル文字も母音と子音があるようです..."
+  },
+  {
+    "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
+    "link": "https://qiita.com/minorun365/items/deb10c8e7a6b1219e595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T12:27:26.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事は人力で書きました。\n\nこのイベント用の手順書ですが、本記事を読めば1時間ぐらいで誰でも試せます！\n\nClaude Codeなど、AIエージェントを「使う」人はかなり増えてきました。\nもはや、AI使うのは全員やって当たり前。\n僕らは一歩進んで、AIエージェ..."
+  },
+  {
+    "title": "pointermoveで真面目なドラッグ",
+    "link": "https://zenn.dev/nishinoshake/articles/ef76a7a740f4de",
+    "pubDate": "Sat, 04 Oct 2025 09:54:17 GMT",
+    "source": "Zenn",
+    "contentSnippet": "コードconst target = document.querySelector('.draggable') as HTMLElement\nconst startScroll = { x: 0, y: 0 }\nconst currentScroll = { x: 0, y: 0 }\nconst originPosition = { x: 0, y: 0 }\nconst startPosition "
+  },
+  {
+    "title": "本屋さんを開催する技術（Kaigi on Rails 2025）",
+    "link": "https://zenn.dev/ko1/articles/69d8db0227b40a",
+    "pubDate": "Sat, 04 Oct 2025 09:19:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "技術イベントにおいて趣味で本屋をやっているささだです。\nさて、レポート7回目です（過去の記録はこちらから → @. bookstore | @. bookstore site）。\n今回は Kaigi on Rails 2025 で出店させていただきました。初めて本屋をさせていただいたのが Kaigi on Rails 2024 なので、だいたい1年たったことになります（その時のレポート: 本屋さん"
+  },
+  {
+    "title": "CodeXとClaude Code、「今のところ」どっちがストレスなくタスクを頼める？",
+    "link": "https://zenn.dev/manabu/articles/f2f6b90f95c039",
+    "pubDate": "Sat, 04 Oct 2025 09:05:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "最近、AIのアウトプット。ストレス溜まってないかい？\n最近、Claude Codeが頭悪いって言われてたり、Codexが良くなってきたという話を聞きます。\nただ、比較してみたという記事を見ても、抽象的な内容が多いです。\nパフォーマンスとか品質とか、そういうのを見たいんじゃなくて、\n出てくるアウトプットが、どれだけ\n「俺様をイラつかせない程度には作ってきてくれるのか？」\nという方がみなさんも気になる"
+  },
+  {
+    "title": "J-RAGBench：日本企業でRAGするときの落とし穴とは",
+    "link": "https://zenn.dev/neoai/articles/0998f81c39a583",
+    "pubDate": "Sat, 04 Oct 2025 08:53:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nはじめまして。株式会社neoAIの研究開発組織 (neoAI Research) の山本勇太です。\n昨今、RAG（Retrieval-Augmented Generation）の実用化が急速に進展しています。RAGは、入力クエリをもとに検索器（Retriever）が文書データから関連文書群を取得し、それに基づき大規模言語モデル（LLM）などの生成器（Generator）が回答を作成する手"
+  },
+  {
+    "title": "今からNeovimを始める人のLSP最短設定 (0.11, 2025-10-04現在)",
+    "link": "https://zenn.dev/ras96/articles/4d9d9493d29c06",
+    "pubDate": "Sat, 04 Oct 2025 08:40:09 GMT",
+    "source": "Zenn",
+    "contentSnippet": "巷にはNeovimのLSPの設定をまとめた記事が多くあり、この記事もその1つです。\nしかし、既存の記事は情報が古かったり、既にLSPを設定したユーザー向けの移行ガイドであることが多いです。\nこの記事は、2025年10月に今からNeovimを始める方向けのガイドです。\nいずれこの記事も昔のものとなりますが、現時点で最短でLSPの設定を行うための手順を解説します。\n既に古いバージョンのNeovimを使"
+  },
+  {
+    "title": "投資で破産しないための数学：ケリー基準を理解する",
+    "link": "https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T06:50:42.000Z",
+    "source": "Qiita",
+    "contentSnippet": "投資で破産しないための数学：ケリー基準を理解する\n\nはじめに：なぜ優秀なトレーダーも破産するのか\n投資の世界には不思議な現象があります。勝率が55%もある、つまり負けるより勝つ方が多いトレーダーが、なぜか破産してしまうのです。一方で、同じ勝率でも着実に資産を増やし続ける投..."
+  },
+  {
+    "title": "小手先に見えるテクニックでも、実はReact的に考えられる",
+    "link": "https://zenn.dev/uhyo/articles/react-key-techniques",
+    "pubDate": "Sat, 04 Oct 2025 01:52:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "皆さんこんにちは。React、使っていますか？　Reactを″正しく”使うことは難しいと感じる方も多いのではないでしょうか。\n特に筆者はReactの正しい使い方に厳しく、こんな記事も出しています。熟練のReact使いでもなければ、この記事を読んで難しいと思うのも仕方がありません。\nhttps://zenn.dev/uhyo/articles/useeffect-taught-by-extremis"
+  },
+  {
+    "title": "OSの入った物理ディスクをコピーしてEC2で動かしてみた",
+    "link": "https://qiita.com/tarekatsu_eng/items/00de2123c3d90fc95251?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T22:46:02.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは！社会人一年目?のタレカツです!\n今回は自宅で動作しているOSをAWS上に移行して、最近自宅のディスクが壊れることがあり、今回は検証ということで、物理マシンで動作しているLinuxサーバをEC2で動作させてみました。移行はできたのですが、実際に試す際は..."
+  },
+  {
+    "title": "Claude Code 2.0.0 のメジャーアップデートについて",
+    "link": "https://zenn.dev/oikon/articles/claude-code-2",
+    "pubDate": "Fri, 03 Oct 2025 22:02:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n2025年10月3日時点のClaude Code v2.0.0 - v2.0.5の内容です\n\nOikonです。普段はAIツール、特にClaude Codeで遊んでいます。\nClaude Codeが2.0.0にメジャーアップデートされました！2025年5月23日の1.0.0以来のメジャーアップデートです。この間にClaude Codeは1.0.126までアップデートを重ねています。\nhttps:"
+  },
+  {
+    "title": "BedrockにCohere Embed v4が来てたので試してみた",
+    "link": "https://qiita.com/yakumo_09/items/52baa89df0ff88c57fbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T21:39:35.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nCohere Embed v4が新しくAmazon Bedrockで利用可能になったようです。\nということで少し触ってみました。今回はStrandsAgentsから呼び出しています。\n\nこの記事は触ってみた所感であり詳細な設計や比較は省いていることをご留..."
+  },
+  {
+    "title": "LLM用宣言的プログラミング言語 DSPy",
+    "link": "https://zenn.dev/cybernetics/articles/f879e10b53c2db",
+    "pubDate": "Fri, 03 Oct 2025 16:24:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nタイトルは聞きなれないかもしれないが、「DSPyは、宣言型自己改善型Python（Declarative Self-improving Python）の略」とのことであるのでこのようにした。\nhttps://github.com/stanfordnlp/dspy\n実際、触ってみて、なるほど確かに、と思う部分があったので「宣言的」の部分に着目して説明したいと思う。いくつかのコード例を確認し"
+  },
+  {
+    "title": "freee株式会社実務インターン記",
+    "link": "https://zenn.dev/mire0726/articles/d89f89ef558b20",
+    "pubDate": "Fri, 03 Oct 2025 09:30:55 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n本記事では、2025年9月1日から9月12日までの10営業日で参加したfreee summer internship2025の学びを書いていこうと思います。\n2週間という短い実務インターンでしたが、いろんな人に助けていただきとても充実したインターンシップでした！\n\n 参加までの流れ\n2024年の夏前ぐらいにあったfreee技術の日2024というイベントが最初にfreeeさんに興味を持った"
+  },
+  {
+    "title": "React 19.2 完全ガイド - 新機能の紹介と実践的な使い方",
+    "link": "https://qiita.com/bsj-sasugadayo/items/fb6431aefafaafa67876?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T05:19:07.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n2025年10月1日、ReactチームがReact 19.2をリリースしました。\n2024年12月のReact 19、2025年6月のReact 19.1に続く3回目のメジャーアップデートですね。\n\nなぜReact 19.2が重要なのか？\nこれまでのReact開..."
+  },
+  {
+    "title": "コードの常識、世界の非常識？ C#数値フォーマット「N0」が秘める力",
+    "link": "https://qiita.com/futayubi5656/items/0a6e32308cf52855eb3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T00:12:35.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nWeb開発やアプリケーション制作において、数値を画面に表示する機会があります。\n特に金額を表示する際、「12345円」よりも「12,345円」のように、\n3桁区切りのカンマを入れることがほとんどだと思います。\n\n概要：\nC#では、数値を文字列に変換する際に ..."
+  },
+  {
+    "title": "AWSのナレッジを生成AIで参照できる「AWS Knowledge MCP Server」正式版が登場。公式のドキュメントやAPIリファレンス、アーキテクチャガイダンスなど情報源に",
+    "link": "https://www.publickey1.jp/blog/25/awsaiaws_knowledge_mcp_serverapi.html",
+    "pubDate": "2025-10-02T15:53:34.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Servicesは、生成AIでAWSのさまざまなナレッジを参照できる「AWS Knowledge MCP Server」正式版のリリースを発表しました。 生成AIを用いて目的の情報をすぐに参照できる AWS Knowledge MCP Serverは、AWSの公式ドキュメント、APIリファレンス、ブログ記事、新着情報、アーキテクチャガイダンスなどを生成AIから参照できるように"
+  },
+  {
+    "title": "Webブラウザ上にLinux/Node.sベースのWebアプリ開発環境をWebAssemblyで実装した「BrowserPod」発表。ブラウザ内サーバに別タブからアクセス可能",
+    "link": "https://www.publickey1.jp/blog/25/weblinuxnodeswebwebassemblybrowserpod.html",
+    "pubDate": "2025-10-02T15:51:37.000Z",
+    "source": "Publickey",
+    "contentSnippet": "LearningTechnologiesは、Node.jsによるサーバサイドJavaScriptの実行環境とコードエディタなどの開発環境をWebAssemblyを用いてWebブラウザ上で実行可能にした「BrowserPod」を発表しました。 これによりサーバと接続することなく、WebブラウザだけでフルスタックのWebアプリケーション開発が可能になります。下記の画面にあるように、ViteやSvelt"
+  },
+  {
+    "title": "外部リンクへの接続などを高速化する「dns-prefetch」、安定して使えるWeb標準「Baseline」に",
+    "link": "https://www.publickey1.jp/blog/25/dns-prefetchwebbaseline.html",
+    "pubDate": "2025-10-01T16:01:34.000Z",
+    "source": "Publickey",
+    "contentSnippet": "主要なWebブラウザで安定して利用できるWeb標準としてラベル付けされる「Baseline」に、「dns-prefetch」が入ったことが発表されました。 外部ドメインの名前解決をあらかじめ実行 通常、HTML内で外部ドメインなどへのリンクが記述されている場合、リンクがクリックされた時点など、そのリンクへの参照が開始される場面でドメイン名の名前解決が行われ、接続が開始されます。 一方で、今回Bas"
+  },
+  {
+    "title": "マイクロソフト、ワンクリックで本番環境に対応したKubernetesクラスタを簡単にデプロイ、「Azure Kubernetes Service Automatic」正式リリース",
+    "link": "https://www.publickey1.jp/blog/25/kubernetesazure_kubernetes_service_automatic.html",
+    "pubDate": "2025-10-01T15:57:29.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは、Kubernetesを用いたクラスタの最適な構築と運用を自動的に実現してくれる新サービス「Azure Kubernetes Service Automatic」（AKS Automatic）正式版をリリースしました。 Introducing AKS Automatic—the fastest path to production for AI and cloud-native a"
+  },
+  {
+    "title": "Googleドライブに新機能、AIによるランサムウェア検出と復元機能を統合、Windows/macOS版で",
+    "link": "https://www.publickey1.jp/blog/25/googleaiwindowsmacos.html",
+    "pubDate": "2025-09-30T15:31:16.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Googleは、WindowsとmacOSに対応したデスクトップ版Googleドライブの新機能として、AIを用いたリアルタイムのランサムウェアの検出機能と、感染したファイルを感染前のバージョンに戻す復元機能を9月30日からベータ公開すると発表しました。 ランサムウェアの検出とファイルの復元をGoogle Driveに統合 従来のランサムウェア対策として一般的に用いられているアンチウイルスソフトウェ"
+  },
+  {
+    "title": "Windows上でローカルAIの実行基盤となる「Windows ML」正式版に。CPU/GPU/NPUなどのハードウェアを抽象化した上でさまざまなAIモデルを実行",
+    "link": "https://www.publickey1.jp/blog/25/windowsaiwindows_mlcpugpunpuai.html",
+    "pubDate": "2025-09-30T15:28:55.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは、Windows上でローカルAIを実行するための基盤となる「Windows ML」の正式版リリースを発表しました。 Windows ML is now generally availableWindows ML lets developers scale their AI-powered apps across a diverse Windows 11 ecosystem, all"
+  },
+  {
+    "title": "PostgreSQL 18正式リリース。非同期I/Oによる最大3倍の性能向上、UUID v7対応など",
+    "link": "https://www.publickey1.jp/blog/25/postgresql_18io3uuid_v7.html",
+    "pubDate": "2025-09-28T15:40:00.000Z",
+    "source": "Publickey",
+    "contentSnippet": "オープンソースのリレーショナルデータベース「PostgreSQL 18」正式版のリリースが発表されました（日本語版のプレスリリース）。 PostgreSQLはITエンジニアのコミュニティであるStackoverflowの調査で2023年にMySQLを抜いて以来、3年連続でITエンジニアに最も人気のあるデータベースとなっています。 非同期I/O処理の採用による性能向上 PostgreSQL 18で最"
+  },
+  {
+    "title": "GitHub Copilot CLIがパブリックプレビューとして公開。Linux、macOS、Windowsに対応。GitHub MCPサーバも同梱",
+    "link": "https://www.publickey1.jp/blog/25/github_copilot_clilinuxmacoswindowsgithub_mcp.html",
+    "pubDate": "2025-09-28T15:38:30.000Z",
+    "source": "Publickey",
+    "contentSnippet": "コマンドラインから生成AIによるコーディングの支援を得られる「GitHub Copilot CLI」がパブリックプレビューとなりました。 GitHub MCPサーバと一緒に提供 GitHub Copilot CLIはコマンドラインにネイティブに対応したGitHub Copilotです。 開発者はコマンドラインから離れることなく、生成AIに指示することでコードの生成や編集、ビルド、デバッグ、リファク"
+  },
+  {
+    "title": "GraalVMは今後Javaとは独立してバージョンアップへ。Java以外のPythonやJavaScriptに注力する方針を発表",
+    "link": "https://www.publickey1.jp/blog/25/graalvmjavajavapythonjavascript.html",
+    "pubDate": "2025-09-24T15:38:44.000Z",
+    "source": "Publickey",
+    "contentSnippet": "オラクルはGraalVMの新たな方向性として、これまでJavaと同期させていたバージョンアップのタイミングを見直してGraalVM単独のタイミングでバージョンアップをすること、そして今後はJava以外の言語、例えばPython（GraalPy）やJavaScript（GraalJS）などに注力することを明らかにしました。 GraalVMはJavaエコシステムトレインに乗っていた GraalVMはO"
+  },
+  {
+    "title": "マイクロソフト、.NET STS版のサポート期間を2年に延長、バージョン間の移行がスムーズに",
+    "link": "https://www.publickey1.jp/blog/25/net_standard2.html",
+    "pubDate": "2025-09-24T15:34:48.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは、.NET Standard Term Suport（STS：通常サポート期間）版のサポート期間をこれまでの18カ月から6カ月延長し、24カ月にすることを発表しました。 これにより、.NETユーザーにとって、どのバージョンから別のバージョンへ移行するとしてもサポートの空白期間が途切れることがなくなり、これまでよりスムーズに移行できることが期待されます。 .NETは2年ごとにLTSが"
+  }
+]

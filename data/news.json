@@ -1,73 +1,80 @@
 [
   {
-    "title": "Structured output comparison across popular LLM providers - OpenAI, Gemini, Anthropic, Mistral and AWS Bedrock",
-    "link": "https://dev.to/rosgluk/structured-output-comparison-across-popular-llm-providers-openai-gemini-anthropic-mistral-and-k26",
-    "pubDate": "Sun, 05 Oct 2025 09:19:04 +0000",
+    "title": "Building a Modern Network Observability Stack: Combining Prometheus, Grafana, and Loki for Deep Insight",
+    "link": "https://dev.to/gagreatprogrammer/building-a-modern-network-observability-stack-combining-prometheus-grafana-and-loki-for-deep-43f5",
+    "pubDate": "Sun, 05 Oct 2025 13:55:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Here’s a side-by-side support comparison of structured output across popular LLM providers, plus minimal Python examples.\nstructured output from the LLM hosted on Ollama. Here we review how to request"
+    "contentSnippet": "In the flickering glow of a dozen monitors, the digital war room is a scene of organized chaos. An application is slow, customers are complaining, and the blame game has begun. The application team se"
   },
   {
-    "title": "Python. Project Structure (IX)",
-    "link": "https://dev.to/elferrer/python-project-structure-ix-3d80",
-    "pubDate": "Sun, 05 Oct 2025 09:17:36 +0000",
+    "title": "10 Cool CodePen Demos (September 2025)",
+    "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2025-2i7h",
+    "pubDate": "Sun, 05 Oct 2025 13:52:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Índice:\n\n\n\nSección A. Estructurar un proyecto: apartado I, apartado II, apartado III, apartado IV, apartado V, apartado VI, apartado VII, apartado VIII, apartado IX.\nEn este artículo daremos un breve "
+    "contentSnippet": "Elastic neon radio buttons\n\n\nJosh Dillon has created many \"glitchy\" radio buttons and checkboxes. This particular example stands out for its animation (I personally wish it were a bit faster, but that"
   },
   {
-    "title": "The Django-CFG Manifesto — or, How I Stopped Worshiping settings.py and Let AI Build My Apps",
-    "link": "https://dev.to/markin/the-django-cfg-manifesto-or-how-i-stopped-worshiping-settingspy-and-let-ai-build-my-apps-3n0d",
-    "pubDate": "Sun, 05 Oct 2025 09:14:20 +0000",
+    "title": "I think you should let AI write your code",
+    "link": "https://dev.to/koladev/i-think-you-should-let-ai-write-your-code-2jgj",
+    "pubDate": "Sun, 05 Oct 2025 13:46:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "“Every framework starts as a tool.\n\nThen it becomes a ritual.\n\nFinally, it becomes a religion.”\n\n— Anonymous Senior Developer, 2011\nsettings.py\n\n\nEvery Django developer remembers their first encounter"
+    "contentSnippet": "I've been skeptical about AI coding since it started gaining traction in 2022. And then, I changed my mind: I went from manually writing most of my code to having AI generate 90% of it. And honestly, "
   },
   {
-    "title": "Water Intake Tracker – A Small but Impactful React Project",
-    "link": "https://dev.to/himanshna/water-intake-tracker-a-small-but-impactful-react-project-3cnf",
-    "pubDate": "Sun, 05 Oct 2025 09:14:10 +0000",
+    "title": "If You Know These 30 JavaScript One-Liners, You’re Fast",
+    "link": "https://dev.to/ssukhpinder/if-you-know-these-30-javascript-one-liners-youre-fast-41lk",
+    "pubDate": "Sun, 05 Oct 2025 13:37:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Water Intake Tracker:  A Small but Impactful React Project\n\n\nI just wrapped up a small but meaningful project: Water Intake Tracker A web app that helps me stay hydrated while keeping my coding moment"
+    "contentSnippet": "A very specific night (and a very silly bug)\n\n\n2:13 a.m. in a quiet apartment. My laptop fan sounded like a small helicopter and the last of my jasmine tea had turned into something medicinal. I was s"
   },
   {
-    "title": "Desvendando o Sistema de Plugins do WordPress: Um Guia Prático para Desenvolvedores",
-    "link": "https://dev.to/matheussesso/desvendando-o-sistema-de-plugins-do-wordpress-um-guia-pratico-para-desenvolvedores-2ncp",
-    "pubDate": "Sun, 05 Oct 2025 09:13:04 +0000",
+    "title": "Build a Real-Time Chat App: A Complete Node.js & Socket.IO Guide",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/build-a-real-time-chat-app-a-complete-nodejs-socketio-guide-40pl",
+    "pubDate": "Sun, 05 Oct 2025 13:34:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Após anos desenvolvendo para WordPress, afirmo: entender profundamente o sistema de plugins é o diferencial entre um iniciante e um profissional neste sistema. Neste artigo, você vamos aprender na prá"
+    "contentSnippet": "Building a Real-Time Chat Application with Node.js and Socket.IO: A Developer's Guide\n\n\nRemember the last time you saw a message pop up on WhatsApp or Slack the instant your colleague sent it? Or witn"
   },
   {
-    "title": "Deciphering the Code What Phone Numbers",
-    "link": "https://dev.to/rakibhasan32/deciphering-the-code-what-phone-numbers-53lk",
-    "pubDate": "Sun, 05 Oct 2025 09:02:53 +0000",
+    "title": "How to Send Emails in Node.js with Nodemailer: A 2025 Guide",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/how-to-send-emails-in-nodejs-with-nodemailer-a-2025-guide-1k09",
+    "pubDate": "Sun, 05 Oct 2025 13:29:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A phone number is like a secret code. It has several parts that tell a story. Specifically, the number starts with a Country Code. This code tells you what country the phone number belongs to. The Uni"
+    "contentSnippet": "Mastering Email in Node.js with Nodemailer: A Developer's Guide\n\n\nEver wondered how your favorite web app sends you that \"Welcome\" email, a password reset link, or a monthly invoice? It’s not magic; i"
   },
   {
-    "title": "Building a Robust Plumbing Service Platform: Challenges, Innovations, and Future Goals",
-    "link": "https://dev.to/ella_rose/building-a-robust-plumbing-service-platform-challenges-innovations-and-future-goals-1749",
-    "pubDate": "Sun, 05 Oct 2025 09:01:57 +0000",
+    "title": "Deep Dive into AWS Cloud WAN Core Network Policy: Configuration, Examples, and Strategy",
+    "link": "https://dev.to/masakiokuda/deep-dive-into-aws-cloud-wan-core-network-policy-configuration-examples-and-strategy-30eo",
+    "pubDate": "Sun, 05 Oct 2025 13:29:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the dynamic landscape of Singapore's service industry, establishing a reliable and efficient online presence is paramount. The website PlumberSingapore.org\nThe Genesis of PlumberSingapore.org\nThe i"
+    "contentSnippet": "Deep Dive into AWS Cloud WAN Core Network Policy: Configuration, Examples, and Strategy\n\n\nThank you for reading this article.\n@mob-engineer).\nThe core network policy is the heart of the Cloud WAN serv"
   },
   {
-    "title": "Web Performance Best Practices in 2025: A Developer’s Guide ⚡",
-    "link": "https://dev.to/service_maxsell_64ece3f66/web-performance-best-practices-in-2025-a-developers-guide-376g",
-    "pubDate": "Sun, 05 Oct 2025 09:00:59 +0000",
+    "title": "How to Convert AWS Clicks into CDK/CloudFormation (The EASY Way)",
+    "link": "https://dev.to/aws-builders/how-to-convert-aws-clicks-into-cdkcloudformation-the-easy-way-14lg",
+    "pubDate": "Sun, 05 Oct 2025 13:28:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Web Performance Best Practices in 2025: A Developer’s Guide ⚡\nspeed and efficiency are critical. A slow website means lost users, lower conversions, and weaker SEO visibility.\nlatest best practices fo"
+    "contentSnippet": "The Manual Grind is Over\n\n\nLet's be real: setting up infrastructure in the AWS Management Console is a right of passage. We've all been there—clicking through menus, configuring settings, and trying t"
   },
   {
-    "title": "Whoops something went wrongtitle",
-    "link": "https://dev.to/rakibhasan32/whoops-something-went-wrongtitle-23pg",
-    "pubDate": "Sun, 05 Oct 2025 09:00:02 +0000",
+    "title": "🧙‍♂️ The Ultimate Git Wizard Guide — Time-Saving Tricks, Hidden Powers & Tools That Make You Unstoppable",
+    "link": "https://dev.to/charan_gutti_cf60c6185074/the-ultimate-git-wizard-guide-time-saving-tricks-hidden-powers-tools-that-make-you-2l9e",
+    "pubDate": "Sun, 05 Oct 2025 13:14:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Think about your phone number. It is just a short sequence of digits. It might not look like much. However, that small number is very powerful. It holds a lot of important information. \nand family far"
+    "contentSnippet": "“Git doesn’t just track code — it tracks your journey as a developer.”\nMost developers know how to git add . and git push.\ncontrolling time.\nGit is your time machine, your safety net, and your creativ"
   },
   {
-    "title": "Kafka Self-Healing Cluster:",
-    "link": "https://dev.to/bhavya_thakkar_203f9c2f66/kafka-self-healing-cluster-p4d",
-    "pubDate": "Sun, 05 Oct 2025 08:57:18 +0000",
+    "title": "Angular Create App Loader Directive",
+    "link": "https://dev.to/adamclayd/angular-create-app-loader-directive-4gm2",
+    "pubDate": "Sun, 05 Oct 2025 13:14:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey there, welcome back to the 2nd episode of the monthly misadventures of a regular dev. Thanks for sticking around, especially after how rough the last one was. Let’s get straight to the point, have"
+    "contentSnippet": "Here I will be demonstrating how to create loader directive that has a back drop and an animated loading indicator that can be placed on any element and that does not use the CDK overlay.\nThe back dro"
+  },
+  {
+    "title": "testing/synctestはGoランタイムの世界を改変していた",
+    "link": "https://zenn.dev/yuta_kakiki/articles/9ec93623cfdc81",
+    "pubDate": "Sat, 04 Oct 2025 18:27:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先日、Go Conference 2025に行ってきました。\n様々なセッションを聞く中で、特に興味を持ったトピックがtesting/synctestパッケージです。\nこれを取り上げているセッションが2つもありました。\nhttps://speakerdeck.com/daikieng/synctest\nhttps://docs.google.com/presentation/d/1nCys"
   },
   {
     "title": "freqAI-LSTM トレーディングモデル完全ガイド",
@@ -112,11 +119,11 @@
     "contentSnippet": "この記事は人力で書きました。\n\nこのイベント用の手順書ですが、本記事を読めば1時間ぐらいで誰でも試せます！\n\nClaude Codeなど、AIエージェントを「使う」人はかなり増えてきました。\nもはや、AI使うのは全員やって当たり前。\n僕らは一歩進んで、AIエージェ..."
   },
   {
-    "title": "pointermoveで真面目なドラッグ",
+    "title": "pointermoveで真面目にドラッグ",
     "link": "https://zenn.dev/nishinoshake/articles/ef76a7a740f4de",
     "pubDate": "Sat, 04 Oct 2025 09:54:17 GMT",
     "source": "Zenn",
-    "contentSnippet": "コードconst target = document.querySelector('.draggable') as HTMLElement\nconst startScroll = { x: 0, y: 0 }\nconst currentScroll = { x: 0, y: 0 }\nconst originPosition = { x: 0, y: 0 }\nconst startPosition "
+    "contentSnippet": "ここが真面目\n\n軽快な動作：requestAnimationFrame で描画\n高速移動で切れない：setPointerCapture\n\nスクロールしても切れない：scroll でも描画\nシンプルな後処理：lostpointercapture で releasePointerCapture を拾う設計\nなんか100行近くなってしまった\n\nタッチデバイス用に touch-action: none を"
   },
   {
     "title": "本屋さんを開催する技術（Kaigi on Rails 2025）",
@@ -187,13 +194,6 @@
     "pubDate": "Fri, 03 Oct 2025 16:24:31 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nタイトルは聞きなれないかもしれないが、「DSPyは、宣言型自己改善型Python（Declarative Self-improving Python）の略」とのことであるのでこのようにした。\nhttps://github.com/stanfordnlp/dspy\n実際、触ってみて、なるほど確かに、と思う部分があったので「宣言的」の部分に着目して説明したいと思う。いくつかのコード例を確認し"
-  },
-  {
-    "title": "freee株式会社実務インターン記",
-    "link": "https://zenn.dev/mire0726/articles/d89f89ef558b20",
-    "pubDate": "Fri, 03 Oct 2025 09:30:55 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n本記事では、2025年9月1日から9月12日までの10営業日で参加したfreee summer internship2025の学びを書いていこうと思います。\n2週間という短い実務インターンでしたが、いろんな人に助けていただきとても充実したインターンシップでした！\n\n 参加までの流れ\n2024年の夏前ぐらいにあったfreee技術の日2024というイベントが最初にfreeeさんに興味を持った"
   },
   {
     "title": "React 19.2 完全ガイド - 新機能の紹介と実践的な使い方",

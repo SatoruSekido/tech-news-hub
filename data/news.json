@@ -1,73 +1,73 @@
 [
   {
-    "title": "AWS ECS Managed Instances",
-    "link": "https://dev.to/aws-builders/aws-ecs-managed-instances-25",
-    "pubDate": "Mon, 06 Oct 2025 01:53:56 +0000",
+    "title": "Linkedin: AI Automated Workflow",
+    "link": "https://dev.to/yashrajverma/linkedin-ai-automated-workflow-h19",
+    "pubDate": "Mon, 06 Oct 2025 06:33:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you've been particularly focused in the Kubernetes world, you may have missed AWS continuing to roll out new features to their (imo) excellent ECS service with ECS Managed Instances. Let's take a l"
+    "contentSnippet": "Publishing consistently on LinkedIn is harder than it looks. Between writing, designing, and scheduling posts—it’s easy to lose momentum.\nTo solve this, I built an automation system in n8n that man\nHe"
   },
   {
-    "title": "Introducing MonkeysMail: A Developer-First Email Platform",
-    "link": "https://dev.to/yorchperaza/introducing-monkeysmail-a-developer-first-email-platform-394l",
-    "pubDate": "Mon, 06 Oct 2025 01:19:16 +0000",
+    "title": "Extracting the Benefits of the Dynamic Duo: Tableau and R",
+    "link": "https://dev.to/anshuman_816f8012be0c9b6c/extracting-the-benefits-of-the-dynamic-duo-tableau-and-r-5078",
+    "pubDate": "Mon, 06 Oct 2025 06:31:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🐒 Introducing MonkeysMail\n\n\nEmail remains one of the most robust and direct channels for reaching users — but building a reliable email infrastructure from scratch is time-consuming and error-prone. "
+    "contentSnippet": "In the world of data analytics and business intelligence, Tableau and R stand as two of the most powerful tools available today. Tableau has consistently been recognized as a leader in data visualizat"
   },
   {
-    "title": "Creating a CLI Tool with Node.js",
-    "link": "https://dev.to/hasan_ashab/creating-a-cli-tool-with-nodejs-5b1k",
-    "pubDate": "Mon, 06 Oct 2025 01:07:03 +0000",
+    "title": "How to Delete a Code Wiki in Azure DevOps",
+    "link": "https://dev.to/truelime/how-to-delete-a-code-wiki-in-azure-devops-4lf2",
+    "pubDate": "Mon, 06 Oct 2025 06:26:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Command-line tools might not have fancy interfaces, but they’re some of the most powerful and time-saving tools a developer can build. From simple automation scripts to complex developer utilities, CL"
+    "contentSnippet": "In one of my projects, I initially created a Code Wiki next to the regular project Wiki in Azure DevOps, thinking it might be useful, but later realized I didn’t really need it. Everything seemed fine"
   },
   {
-    "title": "Why I Built Things-Kit: A Spring Boot Alternative for Go",
-    "link": "https://dev.to/noxymon/why-i-built-things-kit-a-spring-boot-alternative-for-go-3ip4",
-    "pubDate": "Mon, 06 Oct 2025 00:59:55 +0000",
+    "title": "Include product body field in Shopify drawer search results",
+    "link": "https://dev.to/orfeo/include-product-body-field-in-shopify-drawer-search-results-315j",
+    "pubDate": "Mon, 06 Oct 2025 06:24:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I built Things-Kit, a modular microservice framework for Go that brings Spring Boot's developer experience while staying true to Go's philosophy. It's built on Uber Fx and provides composable modules "
+    "contentSnippet": "Introduction\n\n\nMany themes don’t include the body field as part of the search condition in the drawer (the search that appears when clicking the search icon in the top-right corner).\nIn some cases, yo"
   },
   {
-    "title": "How to Activate SSL and Security Headers for WordPress in 2 Clicks",
-    "link": "https://dev.to/volixta-plugin/how-to-activate-ssl-and-security-headers-for-wordpress-in-2-clicks-5b44",
-    "pubDate": "Mon, 06 Oct 2025 00:59:51 +0000",
+    "title": "Using @mixin for referencing in traits in PHP (Laravel example)",
+    "link": "https://dev.to/orfeo/using-mixin-for-referencing-in-traits-in-php-laravel-example-dm9",
+    "pubDate": "Mon, 06 Oct 2025 06:24:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever installed an SSL certificate, refreshed your site… and Chrome still said “Not Secure”, you know how frustrating that can be.  \nOr worse — half your images and scripts get blocked by mix"
+    "contentSnippet": "When building modular PHP applications, traits are a great way to keep your code organized and reusable. Let’s walk through an example showing how to make your editor and static analysis tools fully u"
   },
   {
-    "title": "Your 2025 AI Upgrade, Minus the Noise",
-    "link": "https://dev.to/theainews/your-2025-ai-upgrade-minus-the-noise-13a5",
-    "pubDate": "Mon, 06 Oct 2025 00:52:45 +0000",
+    "title": "Hello world",
+    "link": "https://dev.to/zenidog8/hello-world-4hjk",
+    "pubDate": "Mon, 06 Oct 2025 06:24:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve felt that odd pressure to “learn AI” but don’t know where to start, same. My breaking point was a 2 a.m. pager last winter: a Slack bot we’d wired to triage incidents “hallucinated” a root c"
+    "contentSnippet": "👋 Hello Dev Community!\nHi everyone, my name is José Rodolfo. I’m a software engineer and lecturer based in Costa Rica, currently pursuing an MSc in Computer Science with a focus on Artificial Intelli"
   },
   {
-    "title": "DevOps Challenge 1: Set Up a Web App Using AWS and VS Code",
-    "link": "https://dev.to/maven_h/devops-challenge-1-set-up-a-web-app-using-aws-and-vs-code-4e65",
-    "pubDate": "Mon, 06 Oct 2025 00:37:51 +0000",
+    "title": "How to Build Rich Text Editor in SwiftUI",
+    "link": "https://dev.to/divyesh_vekariya/how-to-build-rich-text-editor-in-swiftui-33kd",
+    "pubDate": "Mon, 06 Oct 2025 06:23:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introducing Today's Project!\n\n\nIn this project, I will demonstrate how to set up a remote SSH connection to an EC2 instance using VS Code. I'll install Maven and Java, generate a basic web app, and ed"
+    "contentSnippet": "Building a Rich Text Editor in SwiftUI (with iOS 26 APIs)\nI am spending weekends exploring new iOS features — and this time, I went deep into the latest SwiftUI text APIs in iOS 26. The goal? To build"
   },
   {
-    "title": "Unlocking the Power of Search with Regex: A Comprehensive Guide for Developers",
-    "link": "https://dev.to/mikeover/unlocking-the-power-of-search-with-regex-a-comprehensive-guide-for-developers-4hhg",
-    "pubDate": "Mon, 06 Oct 2025 00:36:40 +0000",
+    "title": "How AI-Powered Voice Apps Improve Efficiency Across Industries",
+    "link": "https://dev.to/nayeem79/how-ai-powered-voice-apps-improve-efficiency-across-industries-36kg",
+    "pubDate": "Mon, 06 Oct 2025 06:16:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the world of software development, the ability to efficiently search and manipulate text can save you countless hours of debugging and coding. Regular Expressions, or regex, are a powerful tool tha"
+    "contentSnippet": "AI-powered voice apps have transformed how businesses operate. Companies no longer rely solely on human agents for repetitive tasks. These apps streamline operations, reduce errors, and free employees"
   },
   {
-    "title": "Fixing Focus Management in Nested Web Components",
-    "link": "https://dev.to/roblevintennis/fixing-focus-management-in-nested-web-components-6dl",
-    "pubDate": "Mon, 06 Oct 2025 00:33:31 +0000",
+    "title": "Prompt Management for AI Applications",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/prompt-management-for-ai-applications-1176",
+    "pubDate": "Mon, 06 Oct 2025 06:15:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Problem\n\n\nWhile building a drawer component system, I encountered a peculiar focus management bug. When opening a drawer, the initial focus was supposed to land on the Close button. Instead, the a"
+    "contentSnippet": "TL;DR\nPrompt management for AI applications means versioning, testing, evaluating, and governing prompts across pre-release and production. Teams should operationalize prompt workflows with dataset-dr"
   },
   {
-    "title": "Learning to Code with AI",
-    "link": "https://dev.to/projectrome/learning-to-code-with-ai-ade",
-    "pubDate": "Mon, 06 Oct 2025 00:28:01 +0000",
+    "title": "IOC and DI",
+    "link": "https://dev.to/varunnadiminti/ioc-and-di-opj",
+    "pubDate": "Mon, 06 Oct 2025 06:12:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is an unfinished post where I will be sharing tips on learning with AI\n\n\nI am well aware of the buzz around AI and how it is essentially a teacher with which you can ask the dumbest of questions "
+    "contentSnippet": "Before exploring the Spring Framework, there are two key concepts to understand: a design principle and a technique that implements it.\nInversion of Control(IoC) -> Design Principle.\n\nDependency Injec"
   },
   {
     "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
@@ -84,6 +84,13 @@
     "contentSnippet": "米調査会社のガートナーは、「先進テクノロジーのハイプサイクル 2025年版」を9月に発表しています（ガートナージャパンの発表）。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説明したものです。5つのステージは、「黎明期」から始まり、「『過度な期待』のピーク期」「幻滅期」「啓発期」「生産性の安定期」まで。この途中で消えていく技術もあります。 今回発表されたハイプサイク"
   },
   {
+    "title": "読書を資産化するプロセスの見直し備忘録",
+    "link": "https://zenn.dev/mutao/articles/effective-reading-tips",
+    "pubDate": "Sun, 05 Oct 2025 13:54:24 GMT",
+    "source": "Zenn",
+    "contentSnippet": "読書を散漫としている感じがする。\nハイライトをして読んで満足しているだけ。\n本に引いたハイライトを日々のタスクや、アウトプットに有効活用できていない。\n\nといった課題感があり、読書の「資産化のプロセスの見直し」と捉え、情報の分類・蓄積・再利用の流れを根本から見直すことにしたときの備忘録。\n見直しには以下の書籍を参考にしている。\nhttps://www.amazon.co.jp/dp/4296000"
+  },
+  {
     "title": "ローカル環境でQwen3-VL-30B-A3Bを動かす",
     "link": "https://zenn.dev/robustonian/articles/local_qwen3_vl",
     "pubDate": "Sun, 05 Oct 2025 13:35:18 GMT",
@@ -98,6 +105,13 @@
     "contentSnippet": "── 終わりを、始めよう。\n\n\n はじめに\n自作キーボードの世界には、思いつきから始まり、仲間とのやりとりの中で膨らみ、やがて文化へと広がっていく物語が数多く存在します。\n「MeKaBu Project」もそのひとつでした。\n当初の目標はとてもシンプル。\n「時間がないけどキーボードを作りたい人たちが集まり、1台を完成させる」。\nそこから始まった試みは、多くの技術と工夫を巻き込み、思っていた以上に大"
   },
   {
+    "title": "「ゆっくり実況」みたいな動画をAWSサービスを駆使して作ってみる",
+    "link": "https://zenn.dev/aws_japan/articles/acc24ed211393e",
+    "pubDate": "Sun, 05 Oct 2025 07:56:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nゆっくり実況やVOICEBOXの製品を利用した解説動画ってよく見かけますよね。\nああいったタイプの、いわゆる「バーチャルキャラクターによる解説動画」ってのがあると思うんですが、この前見ていてふと思ったんですよね、「Amazon PollyとAmazon Bedrockを使えば私でも作れるんじゃないか…？」って。\n台本やキャラクターの絵はBedrockでいけるし、読み上げる音声はPolly"
+  },
+  {
     "title": "「第一回 AWS Jr. Champions Hackathon 2025」を開催しました！【イベントレポート】",
     "link": "https://qiita.com/k_adachi_01/items/407123205efcc58e7489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-05T05:36:03.000Z",
@@ -105,11 +119,11 @@
     "contentSnippet": "こんにちは！ アジアクエスト株式会社の足立です！\n2025年9月27日（土）に「第一回 AWS Jr. Champions Hackathon 2025」が開催されました！\nこのイベントは「2025 Japan AWS Jr. Champions」のコミュニティで企画された..."
   },
   {
-    "title": "Foundation Models Frameworkで絵文字を推薦させる仕組み",
-    "link": "https://zenn.dev/azookey/articles/153b1bf4da1119",
-    "pubDate": "Sun, 05 Oct 2025 02:00:01 GMT",
+    "title": "結局フロントエンド実装はAIに何を渡せばいいの? DesignBench論文でわかった画像よりコードが強い理由とその実データ",
+    "link": "https://zenn.dev/emrum/articles/designbench-frontend-code-vs-images",
+    "pubDate": "Sun, 05 Oct 2025 03:54:54 GMT",
     "source": "Zenn",
-    "contentSnippet": "azooKey v3.0.1からは「えもじ」と入力すると文脈に合わせた絵文字推薦が表示されるようになりました。\n\nこの機能はiOS 26で導入された「Foundation Models Framework」を利用して作られています。このフレームワークではApple Intelligenceでも用いられているオンデバイスのLLMを利用することができるため、アプリに簡単に知的な振る舞いを導入することが"
+    "contentSnippet": "AIにフロントエンドUIを実装させるとき、\nあなたは何を渡しているだろう？──Figmaの画像か、それともコードか。\n2025年の論文 DesignBench (arXiv:2506.06251) は、\nこの疑問に対して「コードの方が明確に優れている」と、実験データで結論を出した。\n\n\n 🧩 DesignBenchとは\nDesignBenchは、React／Vue／Angularなどの主要フレー"
   },
   {
     "title": "testing/synctestはGoランタイムの世界を改変していた",
@@ -154,13 +168,6 @@
     "contentSnippet": "ここが真面目\n\n軽快な動作：requestAnimationFrame で描画\n高速移動で切れない：setPointerCapture\n\nスクロールしても切れない：scroll でも描画\nシンプルな後処理：lostpointercapture で releasePointerCapture を拾う設計\nなんか100行近くなってしまった\n\nタッチデバイス用に touch-action: none を"
   },
   {
-    "title": "本屋さんを開催する技術（Kaigi on Rails 2025）",
-    "link": "https://zenn.dev/ko1/articles/69d8db0227b40a",
-    "pubDate": "Sat, 04 Oct 2025 09:19:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "技術イベントにおいて趣味で本屋をやっているささだです。\nさて、レポート7回目です（過去の記録はこちらから → @. bookstore | @. bookstore site）。\n今回は Kaigi on Rails 2025 で出店させていただきました。初めて本屋をさせていただいたのが Kaigi on Rails 2024 なので、だいたい1年たったことになります（その時のレポート: 本屋さん"
-  },
-  {
     "title": "CodeXとClaude Code、「今のところ」どっちがストレスなくタスクを頼める？",
     "link": "https://zenn.dev/manabu/articles/f2f6b90f95c039",
     "pubDate": "Sat, 04 Oct 2025 09:05:34 GMT",
@@ -173,13 +180,6 @@
     "pubDate": "Sat, 04 Oct 2025 08:53:02 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nはじめまして。株式会社neoAIの研究開発組織 (neoAI Research) の山本勇太です。\n昨今、RAG（Retrieval-Augmented Generation）の実用化が急速に進展しています。RAGは、入力クエリをもとに検索器（Retriever）が文書データから関連文書群を取得し、それに基づき大規模言語モデル（LLM）などの生成器（Generator）が回答を作成する手"
-  },
-  {
-    "title": "今からNeovimを始める人のLSP最短設定 (0.11, 2025-10-04現在)",
-    "link": "https://zenn.dev/ras96/articles/4d9d9493d29c06",
-    "pubDate": "Sat, 04 Oct 2025 08:40:09 GMT",
-    "source": "Zenn",
-    "contentSnippet": "巷にはNeovimのLSPの設定をまとめた記事が多くあり、この記事もその1つです。\nしかし、既存の記事は情報が古かったり、既にLSPを設定したユーザー向けの移行ガイドであることが多いです。\nこの記事は、2025年10月に今からNeovimを始める方向けのガイドです。\nいずれこの記事も昔のものとなりますが、現時点で最短でLSPの設定を行うための手順を解説します。\n既に古いバージョンのNeovimを使"
   },
   {
     "title": "投資で破産しないための数学：ケリー基準を理解する",

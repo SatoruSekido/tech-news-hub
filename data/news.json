@@ -1,73 +1,73 @@
 [
   {
-    "title": "Understanding Java Constructors: Types, Execution, and Differences from Methods",
-    "link": "https://dev.to/nishanthan-k/understanding-java-constructors-types-execution-and-differences-from-methods-35cm",
-    "pubDate": "Sun, 05 Oct 2025 18:30:00 +0000",
+    "title": "AWS ECS Managed Instances",
+    "link": "https://dev.to/aws-builders/aws-ecs-managed-instances-25",
+    "pubDate": "Mon, 06 Oct 2025 01:53:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Understanding Constructors in Java\n\n\nA constructor in Java is similar to a method but serves a specific purpose: initializing objects. This article provides a deep dive into constructors, their execut"
+    "contentSnippet": "If you've been particularly focused in the Kubernetes world, you may have missed AWS continuing to roll out new features to their (imo) excellent ECS service with ECS Managed Instances. Let's take a l"
   },
   {
-    "title": "Beyond the Proxy: Building a Secure, Observable Serverless API with Amazon API Gateway",
-    "link": "https://dev.to/harshhp/beyond-the-proxy-building-a-secure-observable-serverless-api-with-amazon-api-gateway-di2",
-    "pubDate": "Sun, 05 Oct 2025 18:21:01 +0000",
+    "title": "Introducing MonkeysMail: A Developer-First Email Platform",
+    "link": "https://dev.to/yorchperaza/introducing-monkeysmail-a-developer-first-email-platform-394l",
+    "pubDate": "Mon, 06 Oct 2025 01:19:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction: Rethinking API Gateway\n\n\nIf you ask many developers what Amazon API Gateway is, they’ll often say,\n\n“It’s a way to trigger Lambda functions with HTTP requests.”  \nWhile that’s a common u"
+    "contentSnippet": "🐒 Introducing MonkeysMail\n\n\nEmail remains one of the most robust and direct channels for reaching users — but building a reliable email infrastructure from scratch is time-consuming and error-prone. "
   },
   {
-    "title": "DevOps by Doing: Deploying NGINX on Azure Kubernetes Service (AKS) with Terraform",
-    "link": "https://dev.to/johnogbonna/devops-by-doing-deploying-nginx-on-azure-kubernetes-service-aks-with-terraform-2an0",
-    "pubDate": "Sun, 05 Oct 2025 18:19:24 +0000",
+    "title": "Creating a CLI Tool with Node.js",
+    "link": "https://dev.to/hasan_ashab/creating-a-cli-tool-with-nodejs-5b1k",
+    "pubDate": "Mon, 06 Oct 2025 01:07:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Kubernetes has become the go-to platform for deploying and managing containerized applications at scale. In this guide, we’ll walk through how to provision an AKS cluster and deploy a sample NGINX app"
+    "contentSnippet": "Command-line tools might not have fancy interfaces, but they’re some of the most powerful and time-saving tools a developer can build. From simple automation scripts to complex developer utilities, CL"
   },
   {
-    "title": "Fundamentals metrics for Software Engineering derived from Math Statistics",
-    "link": "https://dev.to/optiklab/fundamentals-metrics-for-software-engineering-derived-from-math-statistics-38g4",
-    "pubDate": "Sun, 05 Oct 2025 18:18:16 +0000",
+    "title": "Why I Built Things-Kit: A Spring Boot Alternative for Go",
+    "link": "https://dev.to/noxymon/why-i-built-things-kit-a-spring-boot-alternative-for-go-3ip4",
+    "pubDate": "Mon, 06 Oct 2025 00:59:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you can’t measure it, you can’t improve it. – Peter Drucker\nIn software engineering, we all need to make data-driven decisions. Thus, we frequently need to be able to measure impact, performance, f"
+    "contentSnippet": "I built Things-Kit, a modular microservice framework for Go that brings Spring Boot's developer experience while staying true to Go's philosophy. It's built on Uber Fx and provides composable modules "
   },
   {
-    "title": "Polyphonic: The War Songs of Greenwich Village",
-    "link": "https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j",
-    "pubDate": "Sun, 05 Oct 2025 18:08:34 +0000",
+    "title": "How to Activate SSL and Security Headers for WordPress in 2 Clicks",
+    "link": "https://dev.to/volixta-plugin/how-to-activate-ssl-and-security-headers-for-wordpress-in-2-clicks-5b44",
+    "pubDate": "Mon, 06 Oct 2025 00:59:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The War Songs of Greenwich Village is basically a one-stop plug for Noah Lefevre’s new book, Century of Song: The Most Important Music of the Last 100 Years, with handy links to snag your copy at Barn"
+    "contentSnippet": "If you’ve ever installed an SSL certificate, refreshed your site… and Chrome still said “Not Secure”, you know how frustrating that can be.  \nOr worse — half your images and scripts get blocked by mix"
   },
   {
-    "title": "Danny Maude: I Wish a Golf Coach Had Told Me This Sooner",
-    "link": "https://dev.to/youtube_golf/danny-maude-i-wish-a-golf-coach-had-told-me-this-sooner-1la0",
-    "pubDate": "Sun, 05 Oct 2025 18:05:16 +0000",
+    "title": "Your 2025 AI Upgrade, Minus the Noise",
+    "link": "https://dev.to/theainews/your-2025-ai-upgrade-minus-the-noise-13a5",
+    "pubDate": "Mon, 06 Oct 2025 00:52:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nStruggling with a slice or never quite getting solid iron strikes? Golf coach Danny Maude reveals a simple “shift in focus” that helped his student stop overthinking, swing more inside-out, an"
+    "contentSnippet": "If you’ve felt that odd pressure to “learn AI” but don’t know where to start, same. My breaking point was a 2 a.m. pager last winter: a Slack bot we’d wired to triage incidents “hallucinated” a root c"
   },
   {
-    "title": "The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?",
-    "link": "https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2lia",
-    "pubDate": "Sun, 05 Oct 2025 18:03:04 +0000",
+    "title": "DevOps Challenge 1: Set Up a Web App Using AWS and VS Code",
+    "link": "https://dev.to/maven_h/devops-challenge-1-set-up-a-web-app-using-aws-and-vs-code-4e65",
+    "pubDate": "Mon, 06 Oct 2025 00:37:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Game Theory host MatPat dives back into Five Nights at Freddy’s: Secret of the Mimic, breaking down months of frame-by-frame sleuthing to test his original theory. He also pits his conclusions against"
+    "contentSnippet": "Introducing Today's Project!\n\n\nIn this project, I will demonstrate how to set up a remote SSH connection to an EC2 instance using VS Code. I'll install Maven and Java, generate a basic web app, and ed"
   },
   {
-    "title": "GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer",
-    "link": "https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4fhe",
-    "pubDate": "Sun, 05 Oct 2025 18:02:50 +0000",
+    "title": "Unlocking the Power of Search with Regex: A Comprehensive Guide for Developers",
+    "link": "https://dev.to/mikeover/unlocking-the-power-of-search-with-regex-a-comprehensive-guide-for-developers-4hhg",
+    "pubDate": "Mon, 06 Oct 2025 00:36:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Pokémon Legends: Z-A Overview\n\n\nPokémon Legends: Z-A launches on October 16, 2025, for Nintendo Switch and Nintendo Switch 2. Dive into Lumiose City, where you can catch, battle, and Mega Evolve your "
+    "contentSnippet": "In the world of software development, the ability to efficiently search and manipulate text can save you countless hours of debugging and coding. Regular Expressions, or regex, are a powerful tool tha"
   },
   {
-    "title": "GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations",
-    "link": "https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-157h",
-    "pubDate": "Sun, 05 Oct 2025 18:02:40 +0000",
+    "title": "Fixing Focus Management in Nested Web Components",
+    "link": "https://dev.to/roblevintennis/fixing-focus-management-in-nested-web-components-6dl",
+    "pubDate": "Mon, 06 Oct 2025 00:33:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ghost of Yōtei – The Most Stylish Armor Combinations\n\n\nDrowning in vanity gear but can’t find a look that clicks? This quick guide dishes out a handful of killer outfit ideas you can copy or tweak to "
+    "contentSnippet": "The Problem\n\n\nWhile building a drawer component system, I encountered a peculiar focus management bug. When opening a drawer, the initial focus was supposed to land on the Close button. Instead, the a"
   },
   {
-    "title": "GameSpot: skate. | Early Access Season 1 Overview Trailer",
-    "link": "https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-5gd0",
-    "pubDate": "Sun, 05 Oct 2025 18:02:32 +0000",
+    "title": "Learning to Code with AI",
+    "link": "https://dev.to/projectrome/learning-to-code-with-ai-ade",
+    "pubDate": "Mon, 06 Oct 2025 00:28:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "skate. Season 1 Early Access Overview\n\n\nskate. Season 1 is live, free to play on PS4, PS5, Xbox One, Xbox Series X|S and PC (EA App, Epic, Steam). Dive into a buzzing social world of dynamic skate spo"
+    "contentSnippet": "This is an unfinished post where I will be sharing tips on learning with AI\n\n\nI am well aware of the buzz around AI and how it is essentially a teacher with which you can ask the dumbest of questions "
   },
   {
     "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
@@ -82,6 +82,34 @@
     "pubDate": "2025-10-05T15:03:11.000Z",
     "source": "Publickey",
     "contentSnippet": "米調査会社のガートナーは、「先進テクノロジーのハイプサイクル 2025年版」を9月に発表しています（ガートナージャパンの発表）。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説明したものです。5つのステージは、「黎明期」から始まり、「『過度な期待』のピーク期」「幻滅期」「啓発期」「生産性の安定期」まで。この途中で消えていく技術もあります。 今回発表されたハイプサイク"
+  },
+  {
+    "title": "ローカル環境でQwen3-VL-30B-A3Bを動かす",
+    "link": "https://zenn.dev/robustonian/articles/local_qwen3_vl",
+    "pubDate": "Sun, 05 Oct 2025 13:35:18 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nQwen3-VL-30B-A3Bが公開されたので早速ローカル環境で使ってみる。\nなお、本記事ではユニファイドメモリが96GB以上のMacを対象とする。おそらくそれ以下だと、VRAMが足りずにモデルの読み込みに失敗する。\n!\nNVIDIA GPUなら、24GB以上のVRAMがあれば4bit量子化により推論が可能かも知れない。\nただし私はそのようなGPUを所有しておらず確認できないため、本記"
+  },
+  {
+    "title": "MeKaBuの始まりと終わりとこれから",
+    "link": "https://zenn.dev/te9no/articles/97f50f463a7a7d",
+    "pubDate": "Sun, 05 Oct 2025 08:58:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "── 終わりを、始めよう。\n\n\n はじめに\n自作キーボードの世界には、思いつきから始まり、仲間とのやりとりの中で膨らみ、やがて文化へと広がっていく物語が数多く存在します。\n「MeKaBu Project」もそのひとつでした。\n当初の目標はとてもシンプル。\n「時間がないけどキーボードを作りたい人たちが集まり、1台を完成させる」。\nそこから始まった試みは、多くの技術と工夫を巻き込み、思っていた以上に大"
+  },
+  {
+    "title": "「第一回 AWS Jr. Champions Hackathon 2025」を開催しました！【イベントレポート】",
+    "link": "https://qiita.com/k_adachi_01/items/407123205efcc58e7489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-05T05:36:03.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは！ アジアクエスト株式会社の足立です！\n2025年9月27日（土）に「第一回 AWS Jr. Champions Hackathon 2025」が開催されました！\nこのイベントは「2025 Japan AWS Jr. Champions」のコミュニティで企画された..."
+  },
+  {
+    "title": "Foundation Models Frameworkで絵文字を推薦させる仕組み",
+    "link": "https://zenn.dev/azookey/articles/153b1bf4da1119",
+    "pubDate": "Sun, 05 Oct 2025 02:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "azooKey v3.0.1からは「えもじ」と入力すると文脈に合わせた絵文字推薦が表示されるようになりました。\n\nこの機能はiOS 26で導入された「Foundation Models Framework」を利用して作られています。このフレームワークではApple Intelligenceでも用いられているオンデバイスのLLMを利用することができるため、アプリに簡単に知的な振る舞いを導入することが"
   },
   {
     "title": "testing/synctestはGoランタイムの世界を改変していた",
@@ -105,25 +133,11 @@
     "contentSnippet": "最近Snowflakeで仕事していることの多いこのごろです。\nわけあってdocファイルとかxlsファイルとかpptファイルが大量にでてきたけど、これ読み込めないじゃんと困ってていろいろ調べたまとめです。\n\nなにができたらうれしいか\nとりあえずいろんな文書をMarkdownに..."
   },
   {
-    "title": "CloudFormation で閉域 VPC、TGW、Route 53 Resolver の検証環境を一気呵成に構築する",
-    "link": "https://qiita.com/takeda_h/items/41c486e461460b933b81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-04T15:37:23.000Z",
-    "source": "Qiita",
-    "contentSnippet": "最近ガバメントクラウド関係の業務で CloudFormation のテンプレートを読む機会がありました。\nそこで、勉強がてら、これまでガバメントクラウド環境の勉強としてよく作ってきた閉域 VPC や Transit Gateway (TGW)、Route 53 インバウンド..."
-  },
-  {
     "title": "老いるAI人格育成エンジンを自作する",
     "link": "https://zenn.dev/saldra/articles/fa8ea14b5a1880",
     "pubDate": "Sat, 04 Oct 2025 14:26:00 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n世の中にはAIキャラクターというジャンルがあります。キャラクターの行動・応答をLLMで生成したりすることで、自律的な存在を制作するジャンルです。ChatGPTの登場以降、技術は急速に発展し、今ではAIに配信をさせる「AITuber」と呼ばれるものまで誕生しています。\n近年までは「あらかじめ開発者やユーザーが設定したキャラクター像に則り動作する」AIキャラクターが標準でした。これは制作者意"
-  },
-  {
-    "title": "JavaScriptでハングルを分解してタイピングソフトを作る",
-    "link": "https://qiita.com/ishi720/items/e253170afb94c5297969?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-04T14:22:48.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n過去に 自作の「かな入力」のタイピングソフト を作成しました。\n\nそこで気になったのが、韓国語（ハングル）のキーボードってどんなのなんだろうと思い、ハングル配列のキーボードを作ってみました。\n\nハングルの仕組みについて\nハングル文字も母音と子音があるようです..."
   },
   {
     "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
@@ -175,25 +189,11 @@
     "contentSnippet": "投資で破産しないための数学：ケリー基準を理解する\n\nはじめに：なぜ優秀なトレーダーも破産するのか\n投資の世界には不思議な現象があります。勝率が55%もある、つまり負けるより勝つ方が多いトレーダーが、なぜか破産してしまうのです。一方で、同じ勝率でも着実に資産を増やし続ける投..."
   },
   {
-    "title": "小手先に見えるテクニックでも、実はReact的に考えられる",
-    "link": "https://zenn.dev/uhyo/articles/react-key-techniques",
-    "pubDate": "Sat, 04 Oct 2025 01:52:46 GMT",
-    "source": "Zenn",
-    "contentSnippet": "皆さんこんにちは。React、使っていますか？　Reactを″正しく”使うことは難しいと感じる方も多いのではないでしょうか。\n特に筆者はReactの正しい使い方に厳しく、こんな記事も出しています。熟練のReact使いでもなければ、この記事を読んで難しいと思うのも仕方がありません。\nhttps://zenn.dev/uhyo/articles/useeffect-taught-by-extremis"
-  },
-  {
     "title": "OSの入った物理ディスクをコピーしてEC2で動かしてみた",
     "link": "https://qiita.com/tarekatsu_eng/items/00de2123c3d90fc95251?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-03T22:46:02.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは！社会人一年目?のタレカツです!\n今回は自宅で動作しているOSをAWS上に移行して、最近自宅のディスクが壊れることがあり、今回は検証ということで、物理マシンで動作しているLinuxサーバをEC2で動作させてみました。移行はできたのですが、実際に試す際は..."
-  },
-  {
-    "title": "Claude Code 2.0.0 のメジャーアップデートについて",
-    "link": "https://zenn.dev/oikon/articles/claude-code-2",
-    "pubDate": "Fri, 03 Oct 2025 22:02:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n2025年10月3日時点のClaude Code v2.0.0 - v2.0.5の内容です\n\nOikonです。普段はAIツール、特にClaude Codeで遊んでいます。\nClaude Codeが2.0.0にメジャーアップデートされました！2025年5月23日の1.0.0以来のメジャーアップデートです。この間にClaude Codeは1.0.126までアップデートを重ねています。\nhttps:"
   },
   {
     "title": "BedrockにCohere Embed v4が来てたので試してみた",
@@ -203,11 +203,11 @@
     "contentSnippet": "はじめに\nCohere Embed v4が新しくAmazon Bedrockで利用可能になったようです。\nということで少し触ってみました。今回はStrandsAgentsから呼び出しています。\n\nこの記事は触ってみた所感であり詳細な設計や比較は省いていることをご留..."
   },
   {
-    "title": "LLM用宣言的プログラミング言語 DSPy",
-    "link": "https://zenn.dev/cybernetics/articles/f879e10b53c2db",
-    "pubDate": "Fri, 03 Oct 2025 16:24:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nタイトルは聞きなれないかもしれないが、「DSPyは、宣言型自己改善型Python（Declarative Self-improving Python）の略」とのことであるのでこのようにした。\nhttps://github.com/stanfordnlp/dspy\n実際、触ってみて、なるほど確かに、と思う部分があったので「宣言的」の部分に着目して説明したいと思う。いくつかのコード例を確認し"
+    "title": "マイナンバーカードがiPhoneに入るので中身を見てみる",
+    "link": "https://qiita.com/todotodo/items/75179d3bec8d9572fc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T09:39:08.000Z",
+    "source": "Qiita",
+    "contentSnippet": "背景\n\nマイナンバーカードがiPhoneに入る\n2025年6月からマイナンバーカードをiPhoneに入れることができるようです\n\n上記リンクの手順に従うと数分ほどの操作でウォレットアプリにマイナンバーカードが追加されます\n\n何ができるの？\n通常のマイナンバーカードと..."
   },
   {
     "title": "React 19.2 完全ガイド - 新機能の紹介と実践的な使い方",

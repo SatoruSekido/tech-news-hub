@@ -1,73 +1,80 @@
 [
   {
-    "title": "Meme Monday",
-    "link": "https://dev.to/ben/meme-monday-4pcg",
-    "pubDate": "Mon, 06 Oct 2025 12:43:58 +0000",
+    "title": "Refactor Smart Today, Move Faster Tomorrow — Bonus Pack: 4 Lessons to Refactor Smarter",
+    "link": "https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-bonus-pack-4-lessons-to-refactor-smarter-2jpb",
+    "pubDate": "Mon, 06 Oct 2025 18:29:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Meme Monday!\nToday's cover image comes from last week's thread.\nDEV is an inclusive space! Humor in poor taste will be downvoted by mods.\nReminder: Every day is Meme Monday on DUMB DEV ✨\n\n\n\n    \n     "
+    "contentSnippet": "Extra insights that make your refactors more strategic, collaborative, and sustainable\n\n\n\n\n\nThis Bonus Pack expands on everything we've covered so far with 4 focused lessons that address the people, p"
   },
   {
-    "title": "The CSS Casing Wars: A Survivor's Tale.",
-    "link": "https://dev.to/sunil12738/the-css-casing-wars-a-survivors-tale-1kb0",
-    "pubDate": "Mon, 06 Oct 2025 12:38:51 +0000",
+    "title": "Scratch your own itch: How to Build and Ship",
+    "link": "https://dev.to/lirena00/scratch-your-own-itch-how-to-build-and-ship-50a9",
+    "pubDate": "Mon, 06 Oct 2025 18:29:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Table of contents:\n\n\n\nThe CSS Casing Chaos: My Beef with CSS Casing\nThe Usual Suspects\nExamples\nHow Did We Let This Happen?\nMy Hero: The Humble Kebab\nTwo Pleas for a Tidier Future\n\nConfession time: I'"
+    "contentSnippet": "\"Scratch your own itch.\"\nIt's a phrase I first encountered in the book Rework by Jason Fried and David Heinemeier Hansson (a great book, btw!!). The idea is simple: solve the problems that you persona"
   },
   {
-    "title": "Advanced Vulkan Rendering: Building a Modern Frame Graph and Memory Management System",
-    "link": "https://dev.to/p3ngu1nzz/advanced-vulkan-rendering-building-a-modern-frame-graph-and-memory-management-system-15kn",
-    "pubDate": "Mon, 06 Oct 2025 12:37:39 +0000",
+    "title": "Εισαγωγή στα SQL JOINs με Παραδείγματα",
+    "link": "https://dev.to/__b63657/eisagoge-sta-sql-joins-me-paradeigmata-3e97",
+    "pubDate": "Mon, 06 Oct 2025 18:27:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Author: Cat Game Research Team\nDate: October 6, 2025\n\n\nMilestone: M4 Phase 1 - Advanced Rendering Infrastructure\n\n\nTechnical Level: Intermediate to Advanced\nTo build a modern game engine, you need mor"
+    "contentSnippet": "Εισαγωγή\nΣτον κόσμο των σχεσιακών βάσεων δεδομένων, τα JOINs είναι από τις πιο βασικές και χρήσιμες λειτουργίες.\nΣε αυτό το άρθρο θα δούμε επτά διαφορετικούς τρόπους για να ενώσουμε δύο πίνακες, χωρίς"
   },
   {
-    "title": "Spring Security for Beginners — The Easiest Guide You’ll Ever Read",
-    "link": "https://dev.to/jps27cse/spring-security-for-beginners-the-easiest-guide-youll-ever-read-2cib",
-    "pubDate": "Mon, 06 Oct 2025 12:37:15 +0000",
+    "title": "Anthropic: Brilliant Models, Bullshit Pricing",
+    "link": "https://dev.to/pranta/anthropic-brilliant-models-bullshit-pricing-3m0h",
+    "pubDate": "Mon, 06 Oct 2025 18:25:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever tried to learn Spring Security, you probably felt like you were fighting a dragon made of XML, filters, and cryptic annotations.\nToday, we’ll learn Spring Security in the simplest possi"
+    "contentSnippet": "Let’s get one thing straight — Anthropic makes some of the best damn AI models on the planet.\nSonnet, Opus, and Claude Code — feels like coding with a genius friend who actually listens and doesn’t ga"
   },
   {
-    "title": "How the Web Works: Domains",
-    "link": "https://dev.to/thekarlesi/how-the-web-works-domains-pe6",
-    "pubDate": "Mon, 06 Oct 2025 12:36:00 +0000",
+    "title": "Mastering React Suspense: Loading States Done Right",
+    "link": "https://dev.to/cristiansifuentes/mastering-react-suspense-loading-states-done-right-4083",
+    "pubDate": "Mon, 06 Oct 2025 18:21:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Before you start building your SaaS, it helps to understand how the web actually works. Don’t worry — we’ll keep it simple.\nA domain is basically the address of your house on the internet.\nExamples:\ng"
+    "contentSnippet": "React’s <Suspense> is one of those APIs that looks deceptively simple — a single component that shows a fallback while children load — yet under the hood, it enables some of the most powerful async re"
   },
   {
-    "title": "Hacktoberfest 2025: Share Your Open Source Projects! 🎃",
-    "link": "https://dev.to/this-is-learning/hacktoberfest-2025-share-your-open-source-projects-1boi",
-    "pubDate": "Mon, 06 Oct 2025 12:35:15 +0000",
+    "title": "50 Most Useful React Snippets",
+    "link": "https://dev.to/softwaredeveloper01/50-most-useful-react-snippets-3plh",
+    "pubDate": "Mon, 06 Oct 2025 18:21:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\n\n\nHello everyone 👋\nOctober is here, and you know what that means, it's Hacktoberfest time! 🎉\nIn this article, I want to talk about this amazing annual celebration of open source and invite "
+    "contentSnippet": "1. Functional Component (Basic)\n\n\n\n\n\nimport React from 'react';\n\nconst MyComponent = () => {\n  return <h2>Hello, World!</h2>;\n};\n\nexport default MyComponent;\n\nimport React from 'react';\n\nconst Greetin"
   },
   {
-    "title": "Testable Dotfiles Management: Building Development Environment with Chezmoi",
-    "link": "https://dev.to/shunk031/testable-dotfiles-management-building-development-environment-with-chezmoi-pbn",
-    "pubDate": "Mon, 06 Oct 2025 12:32:48 +0000",
+    "title": "Memahami Jenis-Jenis Metode Autentikasi dan Alur (Flow)-nya",
+    "link": "https://dev.to/naandan/memahami-jenis-jenis-metode-autentikasi-dan-alur-flow-nya-5ahk",
+    "pubDate": "Mon, 06 Oct 2025 18:19:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This article explains an approach to dotfiles management that emphasizes testability, using the author's dotfiles repository shunk031/dotfiles as a case study.\n / \n        dotfiles\n      \n    \n\n    \n\ud83d"
+    "contentSnippet": "Autentikasi merupakan fondasi utama dalam sistem keamanan aplikasi modern. Tanpa mekanisme autentikasi yang baik, siapa pun bisa mengakses data atau layanan tanpa izin. Namun, tidak semua metode auten"
   },
   {
-    "title": "Why I Built an ERP for My Dairy Business (And Why You Should Too)",
-    "link": "https://dev.to/dishankg/why-i-built-an-erp-for-my-dairy-business-and-why-you-should-too-19gg",
-    "pubDate": "Mon, 06 Oct 2025 12:29:46 +0000",
+    "title": "Getting ready for Sega 8",
+    "link": "https://dev.to/fmahnke/getting-ready-for-sega-8-50mk",
+    "pubDate": "Mon, 06 Oct 2025 18:16:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The ₹800 Mistake That Changed Everything\n\n\nIt was mid-July 2025. A customer had asked us to skip their daily milk delivery from July 15-20 because they were going on vacation. They told us in mid-June"
+    "contentSnippet": "This year's Sega8 multi-game speedrun race will be held on 2025-11-22. The preparation period begins this Saturday, 2025-10-06. To eliminate distractions and optimize my practice time, I'm spending so"
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/tawseef/-111h",
-    "pubDate": "Mon, 06 Oct 2025 12:29:33 +0000",
+    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1104",
+    "pubDate": "Mon, 06 Oct 2025 18:11:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Level Up Your Sprints: How I'm Using AI to Plan Like a Boss\nSagar ・ Sep 14\n#webdev\n        #ai\n        #productivity\n        #discuss"
+    "contentSnippet": "SABRI – “Sold Myself For Love” on A COLORS SHOW\n\n\nDutch-born artist SABRI brings raw soul and vulnerability to her COLORS debut, performing the tender “Sold Myself For Love” straight from her new EP W"
   },
   {
-    "title": "Web developing",
-    "link": "https://dev.to/joe_ns/web-developing-25il",
-    "pubDate": "Mon, 06 Oct 2025 12:27:53 +0000",
+    "title": "KEXP: NewDad - Entertainer (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1clb",
+    "pubDate": "Mon, 06 Oct 2025 18:11:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I was developing a web app for a construction company – but no one knew it existed.Team from abmedia-team.com connected the app with the Google profile and SEO. Now they get orders directly from Maps,"
+    "contentSnippet": "NewDad hit the KEXP studio on August 12, 2025 to deliver a spellbinding live take on “Entertainer.” Fronted by Julie Dawson’s soulful vocals and guitar, Sean O’Dowd’s riffs, Fiachra Parslow’s driving "
+  },
+  {
+    "title": "次期MCP（Model Context Protocol）では非同期操作、ステートレス、公式のプロトコル拡張などサポート",
+    "link": "https://www.publickey1.jp/blog/25/mcpmodel_context_protocol.html",
+    "pubDate": "2025-10-06T15:29:56.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Anthropicがオープンソースとして仕様を作成しているMCP（Model Context Protocol）は、今年（2025年）11月にアップデートを予定しています（MCPはこれまでにも、2025年3月、6月とアップデートが行われています）。 現在どのようなアップデートが検討されているのかが、MCP公式サイトのブログ記事「Update on the Next MCP Protocol Rel"
   },
   {
     "title": "【ポケモン×Java】知識編 配列#5 〜配列を完全攻略！-落とし穴-～",
@@ -84,11 +91,39 @@
     "contentSnippet": "はじめに\nGoで開発しているとたまに「GC（Garbage Collection）」という言葉を耳にすることありますよね。\nでも正直、仕組みまでちゃんと説明できる人って少ない気がします。自分もその一人でした。\n「GCってなんか頑張ってくれてるやつでしょ？」\n「Green ..."
   },
   {
+    "title": "Rustのパターンマッチってアートだヨネ",
+    "link": "https://zenn.dev/namn1125/articles/1a40205d9f8f9a",
+    "pubDate": "Mon, 06 Oct 2025 02:08:20 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちワ！　Rust大好きなサーバーサイドエンジニアのnamniumと申します。\nRustのソースコードはしばしばアートのように振る舞います。その中でもRustのパターンマッチは言語を代表する機能だけあって、綺麗に書けた時の美しさといえば筆舌に尽くしがたいです！　今回はそんなRustパターンマッチの世界を皆様に紹介したく無理やり筆を執りました！\n次の\"アート\"に違和感を持った方はぜひ本記事を読ん"
+  },
+  {
     "title": "【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化できた",
     "link": "https://qiita.com/ishikawa_slj/items/05dcae0d429dee8769aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T02:05:02.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n本記事ではその中のひとつ、OCRを使った経費申請アプリ を作ってみての学びを共有します。\nぜひご覧ください..."
+  },
+  {
+    "title": "“macOS→Omarchy”の移行ガイド",
+    "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
+    "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n私は Mac がまだ “Macintosh” と呼ばれていたころからずっと Mac を使ってきました。ですがこのたび、思い切って Omarchy（Linux ディストリビューション）に移行しました。1 ヶ月ほど使ってみての感想や気づきを、これから移行する方の参考になればと思い、まとめています。\n試してみて「ここ違ったよ」「こうするともっと良かった」などあれば、コメントで教えてもらえると嬉"
+  },
+  {
+    "title": "【なぜAIに設計を任せると成長が止まるのか】Kiroを使っても学べない設計スキルの真実",
+    "link": "https://zenn.dev/sunagaku/articles/0105c57e0a1283",
+    "pubDate": "Sun, 05 Oct 2025 23:06:54 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n僕自身、実務や個人開発でAIを活用して開発しています。Kiroやcc-sddを使った仕様駆動開発を行い、AI を使って生産性は向上している。また余った時間をコードレビューにも使い、コードの質もある程度は担保出来るようになりました。\nしかし、ある時ふと感じました。「僕自身の設計スキルは向上してないのでは？」と。\nAIに機能要件を伝えれば設計書を作ってくれるし、その段階でレビューすれば設計の"
+  },
+  {
+    "title": "【28分爆速開発】圧勝したのはどっち？ 最新AI Claude Sonnet 4.5 vs 4.0 ハッカソン対決！",
+    "link": "https://zenn.dev/aws_japan/articles/4b7e43e96d23e2",
+    "pubDate": "Sun, 05 Oct 2025 15:43:06 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nClaude Sonnet 4.5は、Anthropicが2025年9月30日にリリースした最新のAIモデルです。公式発表によると、「世界最高のコーディングモデル」「複雑なエージェント構築に最も強力なモデル」として位置づけられています。\nAWSのAmazon Bedrockでも利用可能となっています。\n今回は、AI駆動の開発支援ツールのAmazon Q Developerを用いて、Cla"
   },
   {
     "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
@@ -175,39 +210,11 @@
     "contentSnippet": "最近Snowflakeで仕事していることの多いこのごろです。\nわけあってdocファイルとかxlsファイルとかpptファイルが大量にでてきたけど、これ読み込めないじゃんと困ってていろいろ調べたまとめです。\n\nなにができたらうれしいか\nとりあえずいろんな文書をMarkdownに..."
   },
   {
-    "title": "老いるAI人格育成エンジンを自作する",
-    "link": "https://zenn.dev/saldra/articles/fa8ea14b5a1880",
-    "pubDate": "Sat, 04 Oct 2025 14:26:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n世の中にはAIキャラクターというジャンルがあります。キャラクターの行動・応答をLLMで生成したりすることで、自律的な存在を制作するジャンルです。ChatGPTの登場以降、技術は急速に発展し、今ではAIに配信をさせる「AITuber」と呼ばれるものまで誕生しています。\n近年までは「あらかじめ開発者やユーザーが設定したキャラクター像に則り動作する」AIキャラクターが標準でした。これは制作者意"
-  },
-  {
     "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
     "link": "https://qiita.com/minorun365/items/deb10c8e7a6b1219e595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-04T12:27:26.000Z",
     "source": "Qiita",
     "contentSnippet": "この記事は人力で書きました。\n\nこのイベント用の手順書ですが、本記事を読めば1時間ぐらいで誰でも試せます！\n\nClaude Codeなど、AIエージェントを「使う」人はかなり増えてきました。\nもはや、AI使うのは全員やって当たり前。\n僕らは一歩進んで、AIエージェ..."
-  },
-  {
-    "title": "pointermoveで真面目にドラッグ",
-    "link": "https://zenn.dev/nishinoshake/articles/ef76a7a740f4de",
-    "pubDate": "Sat, 04 Oct 2025 09:54:17 GMT",
-    "source": "Zenn",
-    "contentSnippet": "ここが真面目\n\n軽快な動作：requestAnimationFrame で描画\n高速移動で切れない：setPointerCapture\n\nスクロールしても切れない：scroll でも描画\nシンプルな後処理：lostpointercapture で releasePointerCapture を拾う設計\nなんか100行近くなってしまった\n\nタッチデバイス用に touch-action: none を"
-  },
-  {
-    "title": "CodeXとClaude Code、「今のところ」どっちがストレスなくタスクを頼める？",
-    "link": "https://zenn.dev/manabu/articles/f2f6b90f95c039",
-    "pubDate": "Sat, 04 Oct 2025 09:05:34 GMT",
-    "source": "Zenn",
-    "contentSnippet": "最近、AIのアウトプット。ストレス溜まってないかい？\n最近、Claude Codeが頭悪いって言われてたり、Codexが良くなってきたという話を聞きます。\nただ、比較してみたという記事を見ても、抽象的な内容が多いです。\nパフォーマンスとか品質とか、そういうのを見たいんじゃなくて、\n出てくるアウトプットが、どれだけ\n「俺様をイラつかせない程度には作ってきてくれるのか？」\nという方がみなさんも気になる"
-  },
-  {
-    "title": "J-RAGBench：日本企業でRAGするときの落とし穴とは",
-    "link": "https://zenn.dev/neoai/articles/0998f81c39a583",
-    "pubDate": "Sat, 04 Oct 2025 08:53:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nはじめまして。株式会社neoAIの研究開発組織 (neoAI Research) の山本勇太です。\n昨今、RAG（Retrieval-Augmented Generation）の実用化が急速に進展しています。RAGは、入力クエリをもとに検索器（Retriever）が文書データから関連文書群を取得し、それに基づき大規模言語モデル（LLM）などの生成器（Generator）が回答を作成する手"
   },
   {
     "title": "投資で破産しないための数学：ケリー基準を理解する",
@@ -271,12 +278,5 @@
     "pubDate": "2025-09-28T15:40:00.000Z",
     "source": "Publickey",
     "contentSnippet": "オープンソースのリレーショナルデータベース「PostgreSQL 18」正式版のリリースが発表されました（日本語版のプレスリリース）。 PostgreSQLはITエンジニアのコミュニティであるStackoverflowの調査で2023年にMySQLを抜いて以来、3年連続でITエンジニアに最も人気のあるデータベースとなっています。 非同期I/O処理の採用による性能向上 PostgreSQL 18で最"
-  },
-  {
-    "title": "GitHub Copilot CLIがパブリックプレビューとして公開。Linux、macOS、Windowsに対応。GitHub MCPサーバも同梱",
-    "link": "https://www.publickey1.jp/blog/25/github_copilot_clilinuxmacoswindowsgithub_mcp.html",
-    "pubDate": "2025-09-28T15:38:30.000Z",
-    "source": "Publickey",
-    "contentSnippet": "コマンドラインから生成AIによるコーディングの支援を得られる「GitHub Copilot CLI」がパブリックプレビューとなりました。 GitHub MCPサーバと一緒に提供 GitHub Copilot CLIはコマンドラインにネイティブに対応したGitHub Copilotです。 開発者はコマンドラインから離れることなく、生成AIに指示することでコードの生成や編集、ビルド、デバッグ、リファク"
   }
 ]

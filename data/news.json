@@ -1,73 +1,94 @@
 [
   {
-    "title": "Linkedin: AI Automated Workflow",
-    "link": "https://dev.to/yashrajverma/linkedin-ai-automated-workflow-h19",
-    "pubDate": "Mon, 06 Oct 2025 06:33:28 +0000",
+    "title": "Meme Monday",
+    "link": "https://dev.to/ben/meme-monday-4pcg",
+    "pubDate": "Mon, 06 Oct 2025 12:43:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Publishing consistently on LinkedIn is harder than it looks. Between writing, designing, and scheduling posts—it’s easy to lose momentum.\nTo solve this, I built an automation system in n8n that man\nHe"
+    "contentSnippet": "Meme Monday!\nToday's cover image comes from last week's thread.\nDEV is an inclusive space! Humor in poor taste will be downvoted by mods.\nReminder: Every day is Meme Monday on DUMB DEV ✨\n\n\n\n    \n     "
   },
   {
-    "title": "Extracting the Benefits of the Dynamic Duo: Tableau and R",
-    "link": "https://dev.to/anshuman_816f8012be0c9b6c/extracting-the-benefits-of-the-dynamic-duo-tableau-and-r-5078",
-    "pubDate": "Mon, 06 Oct 2025 06:31:55 +0000",
+    "title": "The CSS Casing Wars: A Survivor's Tale.",
+    "link": "https://dev.to/sunil12738/the-css-casing-wars-a-survivors-tale-1kb0",
+    "pubDate": "Mon, 06 Oct 2025 12:38:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the world of data analytics and business intelligence, Tableau and R stand as two of the most powerful tools available today. Tableau has consistently been recognized as a leader in data visualizat"
+    "contentSnippet": "Table of contents:\n\n\n\nThe CSS Casing Chaos: My Beef with CSS Casing\nThe Usual Suspects\nExamples\nHow Did We Let This Happen?\nMy Hero: The Humble Kebab\nTwo Pleas for a Tidier Future\n\nConfession time: I'"
   },
   {
-    "title": "How to Delete a Code Wiki in Azure DevOps",
-    "link": "https://dev.to/truelime/how-to-delete-a-code-wiki-in-azure-devops-4lf2",
-    "pubDate": "Mon, 06 Oct 2025 06:26:17 +0000",
+    "title": "Advanced Vulkan Rendering: Building a Modern Frame Graph and Memory Management System",
+    "link": "https://dev.to/p3ngu1nzz/advanced-vulkan-rendering-building-a-modern-frame-graph-and-memory-management-system-15kn",
+    "pubDate": "Mon, 06 Oct 2025 12:37:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In one of my projects, I initially created a Code Wiki next to the regular project Wiki in Azure DevOps, thinking it might be useful, but later realized I didn’t really need it. Everything seemed fine"
+    "contentSnippet": "Author: Cat Game Research Team\nDate: October 6, 2025\n\n\nMilestone: M4 Phase 1 - Advanced Rendering Infrastructure\n\n\nTechnical Level: Intermediate to Advanced\nTo build a modern game engine, you need mor"
   },
   {
-    "title": "Include product body field in Shopify drawer search results",
-    "link": "https://dev.to/orfeo/include-product-body-field-in-shopify-drawer-search-results-315j",
-    "pubDate": "Mon, 06 Oct 2025 06:24:58 +0000",
+    "title": "Spring Security for Beginners — The Easiest Guide You’ll Ever Read",
+    "link": "https://dev.to/jps27cse/spring-security-for-beginners-the-easiest-guide-youll-ever-read-2cib",
+    "pubDate": "Mon, 06 Oct 2025 12:37:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nMany themes don’t include the body field as part of the search condition in the drawer (the search that appears when clicking the search icon in the top-right corner).\nIn some cases, yo"
+    "contentSnippet": "If you’ve ever tried to learn Spring Security, you probably felt like you were fighting a dragon made of XML, filters, and cryptic annotations.\nToday, we’ll learn Spring Security in the simplest possi"
   },
   {
-    "title": "Using @mixin for referencing in traits in PHP (Laravel example)",
-    "link": "https://dev.to/orfeo/using-mixin-for-referencing-in-traits-in-php-laravel-example-dm9",
-    "pubDate": "Mon, 06 Oct 2025 06:24:41 +0000",
+    "title": "How the Web Works: Domains",
+    "link": "https://dev.to/thekarlesi/how-the-web-works-domains-pe6",
+    "pubDate": "Mon, 06 Oct 2025 12:36:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When building modular PHP applications, traits are a great way to keep your code organized and reusable. Let’s walk through an example showing how to make your editor and static analysis tools fully u"
+    "contentSnippet": "Before you start building your SaaS, it helps to understand how the web actually works. Don’t worry — we’ll keep it simple.\nA domain is basically the address of your house on the internet.\nExamples:\ng"
   },
   {
-    "title": "Hello world",
-    "link": "https://dev.to/zenidog8/hello-world-4hjk",
-    "pubDate": "Mon, 06 Oct 2025 06:24:37 +0000",
+    "title": "Hacktoberfest 2025: Share Your Open Source Projects! 🎃",
+    "link": "https://dev.to/this-is-learning/hacktoberfest-2025-share-your-open-source-projects-1boi",
+    "pubDate": "Mon, 06 Oct 2025 12:35:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "👋 Hello Dev Community!\nHi everyone, my name is José Rodolfo. I’m a software engineer and lecturer based in Costa Rica, currently pursuing an MSc in Computer Science with a focus on Artificial Intelli"
+    "contentSnippet": "Overview\n\n\nHello everyone 👋\nOctober is here, and you know what that means, it's Hacktoberfest time! 🎉\nIn this article, I want to talk about this amazing annual celebration of open source and invite "
   },
   {
-    "title": "How to Build Rich Text Editor in SwiftUI",
-    "link": "https://dev.to/divyesh_vekariya/how-to-build-rich-text-editor-in-swiftui-33kd",
-    "pubDate": "Mon, 06 Oct 2025 06:23:14 +0000",
+    "title": "Testable Dotfiles Management: Building Development Environment with Chezmoi",
+    "link": "https://dev.to/shunk031/testable-dotfiles-management-building-development-environment-with-chezmoi-pbn",
+    "pubDate": "Mon, 06 Oct 2025 12:32:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a Rich Text Editor in SwiftUI (with iOS 26 APIs)\nI am spending weekends exploring new iOS features — and this time, I went deep into the latest SwiftUI text APIs in iOS 26. The goal? To build"
+    "contentSnippet": "This article explains an approach to dotfiles management that emphasizes testability, using the author's dotfiles repository shunk031/dotfiles as a case study.\n / \n        dotfiles\n      \n    \n\n    \n\ud83d"
   },
   {
-    "title": "How AI-Powered Voice Apps Improve Efficiency Across Industries",
-    "link": "https://dev.to/nayeem79/how-ai-powered-voice-apps-improve-efficiency-across-industries-36kg",
-    "pubDate": "Mon, 06 Oct 2025 06:16:10 +0000",
+    "title": "Why I Built an ERP for My Dairy Business (And Why You Should Too)",
+    "link": "https://dev.to/dishankg/why-i-built-an-erp-for-my-dairy-business-and-why-you-should-too-19gg",
+    "pubDate": "Mon, 06 Oct 2025 12:29:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI-powered voice apps have transformed how businesses operate. Companies no longer rely solely on human agents for repetitive tasks. These apps streamline operations, reduce errors, and free employees"
+    "contentSnippet": "The ₹800 Mistake That Changed Everything\n\n\nIt was mid-July 2025. A customer had asked us to skip their daily milk delivery from July 15-20 because they were going on vacation. They told us in mid-June"
   },
   {
-    "title": "Prompt Management for AI Applications",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/prompt-management-for-ai-applications-1176",
-    "pubDate": "Mon, 06 Oct 2025 06:15:54 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/tawseef/-111h",
+    "pubDate": "Mon, 06 Oct 2025 12:29:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\nPrompt management for AI applications means versioning, testing, evaluating, and governing prompts across pre-release and production. Teams should operationalize prompt workflows with dataset-dr"
+    "contentSnippet": "Level Up Your Sprints: How I'm Using AI to Plan Like a Boss\nSagar ・ Sep 14\n#webdev\n        #ai\n        #productivity\n        #discuss"
   },
   {
-    "title": "IOC and DI",
-    "link": "https://dev.to/varunnadiminti/ioc-and-di-opj",
-    "pubDate": "Mon, 06 Oct 2025 06:12:12 +0000",
+    "title": "Web developing",
+    "link": "https://dev.to/joe_ns/web-developing-25il",
+    "pubDate": "Mon, 06 Oct 2025 12:27:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Before exploring the Spring Framework, there are two key concepts to understand: a design principle and a technique that implements it.\nInversion of Control(IoC) -> Design Principle.\n\nDependency Injec"
+    "contentSnippet": "I was developing a web app for a construction company – but no one knew it existed.Team from abmedia-team.com connected the app with the Google profile and SEO. Now they get orders directly from Maps,"
+  },
+  {
+    "title": "【ポケモン×Java】知識編 配列#5 〜配列を完全攻略！-落とし穴-～",
+    "link": "https://qiita.com/hitomin_poke/items/f5684f8af1b2ab5e9ce1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T05:37:25.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nここまでで配列の基本から、ループ・二次元配列・メソッドまで扱えるようになったね。\n最終回は 「実用でよくあるパターン」 と 「初心者がつまずきやすい落とし穴」 を整理します。\n「ここに気をつければ大丈夫！」という点をリストアップ！！\n\n🎓 実用でよくある配列の..."
+  },
+  {
+    "title": "GoのGarbage CollectionとGreen Tea GC",
+    "link": "https://qiita.com/Yporon/items/323e74c57e23f7cf003a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T03:09:23.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGoで開発しているとたまに「GC（Garbage Collection）」という言葉を耳にすることありますよね。\nでも正直、仕組みまでちゃんと説明できる人って少ない気がします。自分もその一人でした。\n「GCってなんか頑張ってくれてるやつでしょ？」\n「Green ..."
+  },
+  {
+    "title": "【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化できた",
+    "link": "https://qiita.com/ishikawa_slj/items/05dcae0d429dee8769aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T02:05:02.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n本記事ではその中のひとつ、OCRを使った経費申請アプリ を作ってみての学びを共有します。\nぜひご覧ください..."
   },
   {
     "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
@@ -105,6 +126,13 @@
     "contentSnippet": "── 終わりを、始めよう。\n\n\n はじめに\n自作キーボードの世界には、思いつきから始まり、仲間とのやりとりの中で膨らみ、やがて文化へと広がっていく物語が数多く存在します。\n「MeKaBu Project」もそのひとつでした。\n当初の目標はとてもシンプル。\n「時間がないけどキーボードを作りたい人たちが集まり、1台を完成させる」。\nそこから始まった試みは、多くの技術と工夫を巻き込み、思っていた以上に大"
   },
   {
+    "title": "React学習ログ No.8",
+    "link": "https://qiita.com/maedaHARUYA/items/1f9753a4d2a9742b2b8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-05T08:33:36.000Z",
+    "source": "Qiita",
+    "contentSnippet": "React公式ドキュメント学習メモ：TypeScript の使用\n\nReact開発におけるTypeScriptの価値\nTypeScript（TS）は、JavaScriptコードベースに型定義を追加\nReact開発においては、実行前にPropsのミスやStateの不整合とい..."
+  },
+  {
     "title": "「ゆっくり実況」みたいな動画をAWSサービスを駆使して作ってみる",
     "link": "https://zenn.dev/aws_japan/articles/acc24ed211393e",
     "pubDate": "Sun, 05 Oct 2025 07:56:31 GMT",
@@ -112,18 +140,18 @@
     "contentSnippet": "はじめに\nゆっくり実況やVOICEBOXの製品を利用した解説動画ってよく見かけますよね。\nああいったタイプの、いわゆる「バーチャルキャラクターによる解説動画」ってのがあると思うんですが、この前見ていてふと思ったんですよね、「Amazon PollyとAmazon Bedrockを使えば私でも作れるんじゃないか…？」って。\n台本やキャラクターの絵はBedrockでいけるし、読み上げる音声はPolly"
   },
   {
-    "title": "「第一回 AWS Jr. Champions Hackathon 2025」を開催しました！【イベントレポート】",
-    "link": "https://qiita.com/k_adachi_01/items/407123205efcc58e7489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-05T05:36:03.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは！ アジアクエスト株式会社の足立です！\n2025年9月27日（土）に「第一回 AWS Jr. Champions Hackathon 2025」が開催されました！\nこのイベントは「2025 Japan AWS Jr. Champions」のコミュニティで企画された..."
-  },
-  {
     "title": "結局フロントエンド実装はAIに何を渡せばいいの? DesignBench論文でわかった画像よりコードが強い理由とその実データ",
     "link": "https://zenn.dev/emrum/articles/designbench-frontend-code-vs-images",
     "pubDate": "Sun, 05 Oct 2025 03:54:54 GMT",
     "source": "Zenn",
     "contentSnippet": "AIにフロントエンドUIを実装させるとき、\nあなたは何を渡しているだろう？──Figmaの画像か、それともコードか。\n2025年の論文 DesignBench (arXiv:2506.06251) は、\nこの疑問に対して「コードの方が明確に優れている」と、実験データで結論を出した。\n\n\n 🧩 DesignBenchとは\nDesignBenchは、React／Vue／Angularなどの主要フレー"
+  },
+  {
+    "title": "M5Stack LLM8850 モジュールを Raspberry Pi 5 で動かしてみた(LLM編)",
+    "link": "https://qiita.com/uzuki_aoba/items/78e1944b8ccb60107d5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-05T02:30:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Maker Faire Tokyo 2025 の スイッチサイエンス さんのブースで、QLK(急に LLM8850モジュールが 来たので)\n\nM5Stack LLM8850 について\nM5Stack LLM8850 は、AXERA社 の AX8850 チップを搭載した..."
   },
   {
     "title": "testing/synctestはGoランタイムの世界を改変していた",
@@ -189,39 +217,11 @@
     "contentSnippet": "投資で破産しないための数学：ケリー基準を理解する\n\nはじめに：なぜ優秀なトレーダーも破産するのか\n投資の世界には不思議な現象があります。勝率が55%もある、つまり負けるより勝つ方が多いトレーダーが、なぜか破産してしまうのです。一方で、同じ勝率でも着実に資産を増やし続ける投..."
   },
   {
-    "title": "OSの入った物理ディスクをコピーしてEC2で動かしてみた",
-    "link": "https://qiita.com/tarekatsu_eng/items/00de2123c3d90fc95251?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-03T22:46:02.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは！社会人一年目?のタレカツです!\n今回は自宅で動作しているOSをAWS上に移行して、最近自宅のディスクが壊れることがあり、今回は検証ということで、物理マシンで動作しているLinuxサーバをEC2で動作させてみました。移行はできたのですが、実際に試す際は..."
-  },
-  {
-    "title": "BedrockにCohere Embed v4が来てたので試してみた",
-    "link": "https://qiita.com/yakumo_09/items/52baa89df0ff88c57fbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-03T21:39:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nCohere Embed v4が新しくAmazon Bedrockで利用可能になったようです。\nということで少し触ってみました。今回はStrandsAgentsから呼び出しています。\n\nこの記事は触ってみた所感であり詳細な設計や比較は省いていることをご留..."
-  },
-  {
     "title": "マイナンバーカードがiPhoneに入るので中身を見てみる",
     "link": "https://qiita.com/todotodo/items/75179d3bec8d9572fc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-03T09:39:08.000Z",
     "source": "Qiita",
     "contentSnippet": "背景\n\nマイナンバーカードがiPhoneに入る\n2025年6月からマイナンバーカードをiPhoneに入れることができるようです\n\n上記リンクの手順に従うと数分ほどの操作でウォレットアプリにマイナンバーカードが追加されます\n\n何ができるの？\n通常のマイナンバーカードと..."
-  },
-  {
-    "title": "React 19.2 完全ガイド - 新機能の紹介と実践的な使い方",
-    "link": "https://qiita.com/bsj-sasugadayo/items/fb6431aefafaafa67876?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-03T05:19:07.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n2025年10月1日、ReactチームがReact 19.2をリリースしました。\n2024年12月のReact 19、2025年6月のReact 19.1に続く3回目のメジャーアップデートですね。\n\nなぜReact 19.2が重要なのか？\nこれまでのReact開..."
-  },
-  {
-    "title": "コードの常識、世界の非常識？ C#数値フォーマット「N0」が秘める力",
-    "link": "https://qiita.com/futayubi5656/items/0a6e32308cf52855eb3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-03T00:12:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nWeb開発やアプリケーション制作において、数値を画面に表示する機会があります。\n特に金額を表示する際、「12345円」よりも「12,345円」のように、\n3桁区切りのカンマを入れることがほとんどだと思います。\n\n概要：\nC#では、数値を文字列に変換する際に ..."
   },
   {
     "title": "AWSのナレッジを生成AIで参照できる「AWS Knowledge MCP Server」正式版が登場。公式のドキュメントやAPIリファレンス、アーキテクチャガイダンスなど情報源に",

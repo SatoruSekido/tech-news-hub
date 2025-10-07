@@ -1,73 +1,101 @@
 [
   {
-    "title": "UX Engineering: From the Eyes of a Field Pioneer (2026 Edition)",
-    "link": "https://dev.to/d2d_danny/ux-engineering-from-the-eyes-of-a-field-pioneer-1ehe",
-    "pubDate": "Tue, 07 Oct 2025 06:30:14 +0000",
+    "title": "Why Game Preservation Is the Next Big Tech Responsibility",
+    "link": "https://dev.to/ankit_m/why-game-preservation-is-the-next-big-tech-responsibility-2bh8",
+    "pubDate": "Tue, 07 Oct 2025 12:44:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is UX Engineering?\n\n\nUX Engineering is the technical discipline of building and validating a product's user interface with a primary focus on the quality of the user's experience. It is the cruci"
+    "contentSnippet": "(Our story at Y8.com — two decades of keeping web games alive)\nIntroduction\nAt Y8, we’ve spent nearly twenty years curating one of the largest collections of online games in the world. But along the w"
   },
   {
-    "title": "horcrux: Split files into encrypted fragments for Node & React Native (TypeScript library)",
-    "link": "https://dev.to/nchika/horcrux-split-files-into-encrypted-fragments-for-node-react-native-typescript-library-6h6",
-    "pubDate": "Tue, 07 Oct 2025 06:22:48 +0000",
+    "title": "Building My New Website with Astro, GitHub Copilot, and AWS Amplify",
+    "link": "https://dev.to/this-is-learning/building-my-new-website-with-astro-github-copilot-and-aws-amplify-3eoc",
+    "pubDate": "Tue, 07 Oct 2025 12:41:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Horcrux is a TypeScript library for splitting files into encrypted fragments — “horcruxes” — inspired by Harry Potter. Think of it as digital horcruxes for your sensitive files. You can split your fil"
+    "contentSnippet": "For me, in general, the best way to learn something new is to start from zero and hit “publish.”\nThat’s exactly what I did when I decided to rebuild my personal website — emanuelebartolesi.com — from "
   },
   {
-    "title": "Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control",
-    "link": "https://dev.to/vishal_more_02990955c9358/optimizing-aws-devops-workflows-through-smarter-cicd-and-version-control-4406",
-    "pubDate": "Tue, 07 Oct 2025 06:19:56 +0000",
+    "title": "Day 23 of 100.",
+    "link": "https://dev.to/lyop_achayi/day-23-of-100-874",
+    "pubDate": "Tue, 07 Oct 2025 12:41:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Read More: Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control\nWhat Is AWS DevOps?\nAWS DevOps combines the power of Amazon Web Services with DevOps methodologies to automate soft"
+    "contentSnippet": "Instead of letting the program crash, Python allows us to handle errors gracefully using try, except, and other keywords.\nI thought it was an actual \"bug\" at first 😄😄😅\n\n\n  \n  \n  PythonZeroToHeroStu"
   },
   {
-    "title": "React Questions",
-    "link": "https://dev.to/vidya_varshini/react-questions-1ppk",
-    "pubDate": "Tue, 07 Oct 2025 06:18:42 +0000",
+    "title": "𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗠𝗲𝗺𝗼𝗿𝘆 𝗶𝗻 .𝗡𝗘𝗧",
+    "link": "https://dev.to/supraja_tangella_b7f0738e/-5dp3",
+    "pubDate": "Tue, 07 Oct 2025 12:38:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1.What is the difference between a functional component and a class component in React?\nFunctional Component: This is a normal Javascript function which returns some UI(JSX). It is simple, easy to wri"
+    "contentSnippet": "Your .NET app’s biggest performance issue isn’t CPU — it’s memory misuse.\nMost .NET devs think “GC will handle it.”\nThat’s the biggest mistake I see in production apps.\nMemory leaks and high GC pressu"
   },
   {
-    "title": "Don’t Tear Down the Fence: Why Understanding Comes Before Change",
-    "link": "https://dev.to/hardikidea/dont-tear-down-the-fence-why-understanding-comes-before-change-2bd2",
-    "pubDate": "Tue, 07 Oct 2025 06:11:29 +0000",
+    "title": "Common Mistakes in Dynamic Testing and How to Avoid Them",
+    "link": "https://dev.to/carl_max007/common-mistakes-in-dynamic-testing-and-how-to-avoid-them-cjj",
+    "pubDate": "Tue, 07 Oct 2025 12:36:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🧱 Chesterton’s Fence: Understanding Before You Change\n\n\nIn the rush to improve, innovate, and “move fast,” it’s easy to forget one key rule:\nDon’t remove a fence until you know why it was built.\nThis"
+    "contentSnippet": "Dynamic testing is an essential part of software quality assurance. Unlike static testing, which focuses on analyzing code or documents without execution, dynamic testing involves running the software"
   },
   {
-    "title": "Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance",
-    "link": "https://dev.to/member_f8c307c5/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-141m",
-    "pubDate": "Tue, 07 Oct 2025 06:09:20 +0000",
+    "title": "Everything-as-Code explained",
+    "link": "https://dev.to/gatling/everything-as-code-explained-511m",
+    "pubDate": "Tue, 07 Oct 2025 12:33:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nIt was another Black Friday. At 3 AM, my phone started screaming like crazy. 😱 It wasn't my alarm; it was the monitoring alert. Our flagship e-commerce service, the system we had poured s"
+    "contentSnippet": "Modern software development moves fast—but scaling safely and sustainably is another story. As systems become more complex, and teams grow more distributed, one principle is changing how top engineeri"
   },
   {
-    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2890",
-    "pubDate": "Tue, 07 Oct 2025 06:09:09 +0000",
+    "title": "DATABASE NORMALIZATION",
+    "link": "https://dev.to/jai_surya_5807ee4b64b3a5e/database-normalization-208c",
+    "pubDate": "Tue, 07 Oct 2025 12:30:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SABRI – Sold Myself For Love\n\nDutch-born artist SABRI brings raw soul and vulnerability to her COLORS performance of the single “Sold Myself For Love,” lifted straight from her new EP What I Feel Now."
+    "contentSnippet": "Introduction to database Normalization:\nDatabase normalization is a systematic process of organizing data in a database to reduce redundancy and improve data integrity.\n\n\nIt involves dividing large, c"
   },
   {
-    "title": "Rick Beato: Escape the Pentatonic Trap in One Lesson",
-    "link": "https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2760",
-    "pubDate": "Tue, 07 Oct 2025 06:08:49 +0000",
+    "title": "AI Startups Are Sick — But Not in a Good Way",
+    "link": "https://dev.to/ajnull/ai-startups-are-sick-but-not-in-a-good-way-1el",
+    "pubDate": "Tue, 07 Oct 2025 12:27:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today’s livestream is all about ditching the pentatonic rut and exploring the scales and modes top players actually use. Stick around if you want fresh ideas for solos that go beyond the usual five no"
+    "contentSnippet": "In today’s tech industry, everyone seems to be talking about “AI.”\n\nFrom modern frontend developers to legacy Java engineers, and even founders who lack technical depth but excel at fundraising, all a"
   },
   {
-    "title": "Rick Beato: Hiromi: The Most Electrifying Pianist Alive",
-    "link": "https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5dbc",
-    "pubDate": "Tue, 07 Oct 2025 06:08:40 +0000",
+    "title": "Domain-Driven Design: Turbocharge video processing",
+    "link": "https://dev.to/mattleads/domain-driven-design-turbocharge-video-processing-164j",
+    "pubDate": "Tue, 07 Oct 2025 12:16:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hiromi: The Most Electrifying Pianist Alive\n\n\nIn this breezy interview, Japanese piano powerhouse Hiromi dives into how she blends classical training, jazz freedom, and rock energy into her signature "
+    "contentSnippet": "Modern app starts simple, then the business logic grows, gets tangled in the infrastructure, and before you know it, you’re wrestling an unmaintainable monolith. For complex, multi-step processes — li"
   },
   {
-    "title": "Rick Beato: Finally…Breaking Down Kansas LIVE",
-    "link": "https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4kh4",
-    "pubDate": "Tue, 07 Oct 2025 06:08:25 +0000",
+    "title": "What AI Taught Me About Sharing Context With Humans",
+    "link": "https://dev.to/saxmanjes/what-ai-taught-me-about-sharing-context-with-humans-1djc",
+    "pubDate": "Tue, 07 Oct 2025 12:16:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Finally…Breaking Down Kansas LIVE dives into Rick Beato’s favorite Kansas track, where he peels back the stems, structure, and sonic choices that give the song its magic.\nHe’s also dropping The Profes"
+    "contentSnippet": "The first time I asked an AI to “fix my code,” it gave me something that compiled… but made absolutely no sense.\nThe problem wasn’t the AI — it was me. I hadn’t told it what I was actually trying to d"
+  },
+  {
+    "title": "良いテストとはなんだろう？ - （good code, bad codeより）",
+    "link": "https://qiita.com/ikeyaH/items/8d721f231405e3d22ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-07T03:58:13.000Z",
+    "source": "Qiita",
+    "contentSnippet": "良いテストの原則・向き合い方\n業務でも個人でも、開発をする方は「自動テスト」を書くでしょう。\nテスト嫌い、という方もいるかもしれないですが、やはりあるのとないのでは大幅に開発体験が変わります。\n書く瞬間は面倒でも、後々の恩恵を考えると、もう大幅に違います。\nという前提は、..."
+  },
+  {
+    "title": "【ポケモン×Java】Lv10：『選べ、キミの一撃！』〜メソッド②〜",
+    "link": "https://qiita.com/hitomin_poke/items/86676f77b80cd6c4fa93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-07T03:48:28.000Z",
+    "source": "Qiita",
+    "contentSnippet": "前回をまだ読んでない方はこちら\n👉 【ポケモン×Java】Lv9：『新技！ピカチュウ、アイアンテール！』〜配列〜\n\n🎮 技を使って攻撃だ！\nピカチュウはすでに4つの技を覚えた。\n次は、それを実際に使って攻撃する番だ！\n\n💡 配列 × メソッド で攻撃処理！\n\n▷ 選..."
+  },
+  {
+    "title": "【検証】AI Agentは学術論文を読んでプロトタイプ実装まで本当にできるのか？（波乱の実装編）",
+    "link": "https://qiita.com/ntaka329/items/9ead91ed832cb3f65af2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-07T02:01:34.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n前回の記事では論文読解と設計まで実施しましたが、今回はスタート（Inputにするドキュメント）を揃えた上で、実装を試してみます！\n\n設計までだと多少のブレがあっても違いが分かりにくいですが、実装になるとプログラムした通りにしか動き..."
+  },
+  {
+    "title": "RAGの精度向上手法、がっつりまとめ【2025年】",
+    "link": "https://zenn.dev/knowledgesense/articles/148dfe2ca1d146",
+    "pubDate": "Tue, 07 Oct 2025 00:01:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は何\nナレッジセンスでは、エンタープライズ向けにRAGサービスを提供しています。その中で「RAGは簡単に作れるけど、精度を上げるのは難しい」という課題に日々向き合っています。本記事は、2024~2025年に公開された研究や事例をもとに、RAGの回答精度を高める代表的なアプローチを ざっくりまとめたものです。\n\n ざっくりサマリー\nこの記事では、企業の社内データを利用したRAG、特に大企業で"
   },
   {
     "title": "OpenAI DevDay 2025の現地レポート【OPENING KEYNOTE編】",
@@ -75,6 +103,13 @@
     "pubDate": "Mon, 06 Oct 2025 23:37:32 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめまして、ますみです！\n株式会社Galirage（ガリレージ）という「生成AIに特化して、システム開発・アドバイザリー支援・研修支援をしているIT企業」で、代表をしております^^\n\n\n\n 本記事のサマリー\n\nChatGPTに「Apps inside ChatGPT」が登場し、FigmaやSpotifyなど外部アプリを直接操作できるようなアプリケーション化するための機能が発表されました。\n開発者"
+  },
+  {
+    "title": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips",
+    "link": "https://qiita.com/akira_papa_AI/items/7344e21b9204526e5127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T21:06:36.000Z",
+    "source": "Qiita",
+    "contentSnippet": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践ガイド\nAgent Builderについて調べて実際に触ってみたんですけど、なんかこれって単なる新ツールじゃなくて、けっこう本質的な転換点な気がしてるんです。\n\nAgent Builderって何？..."
   },
   {
     "title": "Sora 2 API を触ってみた",
@@ -105,6 +140,20 @@
     "contentSnippet": "Anthropicがオープンソースとして仕様を作成しているMCP（Model Context Protocol）は、今年（2025年）11月にアップデートを予定しています（MCPはこれまでにも、2025年3月、6月とアップデートが行われています）。 現在どのようなアップデートが検討されているのかが、MCP公式サイトのブログ記事「Update on the Next MCP Protocol Rel"
   },
   {
+    "title": "Build, Don't Buy — 2026年、AIエージェントは内製する時代へ",
+    "link": "https://zenn.dev/satoshissss/articles/5be253a330896c",
+    "pubDate": "Mon, 06 Oct 2025 15:03:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n本記事は所属組織とは関係ない、個人の見解です。\nLLM登場以降、個人的にAIに触れ続け、数年間「AIエージェント」のようなものを作ってきた。\nその経験から、最近のAI社会実装について感じていること、そして日本におけるド短期の未来予想をまとめたものです。\n\n\n この1年で、何かが変わった\nAI開発の現場にいると、2024年から2025年にかけて、空気が変わったのを肌で感じる。\n以前は「どのベンダ"
+  },
+  {
+    "title": "AWS CDK 基礎知識まとめ",
+    "link": "https://qiita.com/j-yasukawa/items/8020fab836d4efbae8db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T08:01:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nAWS CDK (Cloud Development Kit)について、私が初めて学習した際に学んだ内容を備忘録としてまとめてみました。\nこの記事を読んでいただくことで、aws-cdkを使用してコードを書き始めるために必要な前提知識を身につけることができます。\n..."
+  },
+  {
     "title": "全プロセスが一秒止まる不具合続編: カーネル内部で何が起きたか？",
     "link": "https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b",
     "pubDate": "Mon, 06 Oct 2025 08:00:01 GMT",
@@ -126,13 +175,6 @@
     "contentSnippet": "TypeScriptで開発をしていると、APIエラーやバリデーションエラーなど、さまざまなエラーを扱う場面があります。\nそんなときに、標準のErrorクラスだけで対応していませんか。\nこの記事では、カスタムエラーを導入するメリットと、ボイラープレートを減らしてカスタムエラーを楽に定義出来るライブラリを紹介します。\n\n カスタムエラーを作る理由\n標準のErrorクラスを使用することで楽にエラーを作成"
   },
   {
-    "title": "GoのGarbage CollectionとGreen Tea GC",
-    "link": "https://qiita.com/Yporon/items/323e74c57e23f7cf003a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T03:09:23.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGoで開発しているとたまに「GC（Garbage Collection）」という言葉を耳にすることありますよね。\nでも正直、仕組みまでちゃんと説明できる人って少ない気がします。自分もその一人でした。\n「GCってなんか頑張ってくれてるやつでしょ？」\n「Green ..."
-  },
-  {
     "title": "Rustのパターンマッチってアートだヨネ",
     "link": "https://zenn.dev/namn1125/articles/1a40205d9f8f9a",
     "pubDate": "Mon, 06 Oct 2025 02:08:20 GMT",
@@ -147,39 +189,18 @@
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n本記事ではその中のひとつ、OCRを使った経費申請アプリ を作ってみての学びを共有します。\nぜひご覧ください..."
   },
   {
-    "title": "Unity6.2のAI触ってみた結果...",
-    "link": "https://qiita.com/Biscuit_Sauce/items/f31e43718893b8c5c562?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T01:47:17.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n初めまして||こんにちは、ビスケットソースです！\n最近、Unity6.2が公開されました。Unity6.2の機能であるUnityAIが気になったので触ってみました！UnityAIとは何者なのか..その謎を解明すべく、我々はアマゾンの奥地へと向かった...\n\nUn..."
-  },
-  {
     "title": "“macOS→Omarchy”の移行ガイド",
     "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
     "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT",
     "source": "Zenn",
-    "contentSnippet": "!\n\n\n2025-10-07: システム全体の日本語化の補足、Public Keyの記事の追加、音声の再生が途切れる件の解消法の追記、ダッシュボードのサンプルが一部動作しなかったため cal → btopに変更、ウインドウのタブ化のバイディング設定の一部が間違っていたので修正\n\n2025-10-06: 初版\n\n\n\n はじめに\n私は Mac がまだ “Macintosh” と呼ばれていたころからずっ"
+    "contentSnippet": "!\n\n\n2025-10-07: システム全体の日本語化の補足、Public Keyの記事の追加、音声の再生が途切れる件の解消法の追記、ダッシュボードのサンプルが一部動作しなかったため cal → btopに変更、ウインドウのタブ化のバイディング設定の一部が間違っていたので修正、音声編集ソフトについて追記\n\n2025-10-06: 初版\n\n\n\n はじめに\n私は Mac がまだ “Macintosh”"
   },
   {
-    "title": "【検証】AI Agentは学術論文を読んでプロトタイプ実装まで本当にできるのか？（論文読解・設計編）",
-    "link": "https://qiita.com/ntaka329/items/4e7f6cc81510a0b1f8c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T00:14:49.000Z",
+    "title": "「世界の一流は『休日』に何をしているのか」を読んだ",
+    "link": "https://qiita.com/e99h2121/items/4101286762b9ad9fec03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-05T20:32:39.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n前回の記事でGitHub CopilotのAgentを試したのですが、流石に1関数のUnit Test Code作成ではお題が簡単すぎました。\nということで、別のお題を試してみます！\n\nまとめ\n\nGPT-5 mini、Claud..."
-  },
-  {
-    "title": "【なぜAIに設計を任せると成長が止まるのか】Kiroを使っても学べない設計スキルの真実",
-    "link": "https://zenn.dev/sunagaku/articles/0105c57e0a1283",
-    "pubDate": "Sun, 05 Oct 2025 23:06:54 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n僕自身、実務や個人開発でAIを活用して開発しています。Kiroやcc-sddを使った仕様駆動開発を行い、AI を使って生産性は向上している。また余った時間をコードレビューにも使い、コードの質もある程度は担保出来るようになりました。\nしかし、ある時ふと感じました。「僕自身の設計スキルは向上してないのでは？」と。\nAIに機能要件を伝えれば設計書を作ってくれるし、その段階でレビューすれば設計の"
-  },
-  {
-    "title": "go testのキャッシュの仕組みを理解して、テストコードを変えずにCIを高速化する",
-    "link": "https://zenn.dev/drsprime/articles/go-test-cache-ci-optimization",
-    "pubDate": "Sun, 05 Oct 2025 22:30:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "サマリ\n\ngo testは、パッケージごとにテスト結果をキャッシュしている\nソースコードに加え、テストコマンドの引数やテスト内で参照したファイルや環境変数がすべて同じなら、キャッシュが利用される\nそのため、基本的にはCI上でもGoのキャッシュ機構を使用しても問題ない\nGoが検知できない変更（設定ファイルやデプロイ設定の変更など）がある場合は、キャッシュをクリアすることで偽陰性を回避する必要がある\n"
+    "contentSnippet": "休日に宿題のような勢いで平日にやりきれなかった作業をやってしまうことがある私ですが、「世界の一流は『休日』に何をしているのか」を読みました。その読書感想文です。\n世界の一流は「休日」に何をしているのか　年収が上がる週末の過ごし方 | 越川慎司 |本 | 通販 | Amazo..."
   },
   {
     "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
@@ -196,25 +217,11 @@
     "contentSnippet": "米調査会社のガートナーは、「先進テクノロジーのハイプサイクル 2025年版」を9月に発表しています（ガートナージャパンの発表）。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説明したものです。5つのステージは、「黎明期」から始まり、「『過度な期待』のピーク期」「幻滅期」「啓発期」「生産性の安定期」まで。この途中で消えていく技術もあります。 今回発表されたハイプサイク"
   },
   {
-    "title": "React学習ログ No.8",
-    "link": "https://qiita.com/maedaHARUYA/items/1f9753a4d2a9742b2b8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-05T08:33:36.000Z",
+    "title": "LLMが突然賢くなった理由を紐解く - 5つの革新とその影響度",
+    "link": "https://qiita.com/penicillin0/items/93898ce5b688103f03f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-05T03:09:21.000Z",
     "source": "Qiita",
-    "contentSnippet": "React公式ドキュメント学習メモ：TypeScript の使用\n\nReact開発におけるTypeScriptの価値\nTypeScript（TS）は、JavaScriptコードベースに型定義を追加\nReact開発においては、実行前にPropsのミスやStateの不整合とい..."
-  },
-  {
-    "title": "M5Stack LLM8850 モジュールを Raspberry Pi 5 で動かしてみた(LLM編)",
-    "link": "https://qiita.com/uzuki_aoba/items/78e1944b8ccb60107d5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-05T02:30:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Maker Faire Tokyo 2025 の スイッチサイエンス さんのブースで、QLK(急に LLM8850モジュールが 来たので)\n\nM5Stack LLM8850 について\nM5Stack LLM8850 は、AXERA社 の AX8850 チップを搭載した..."
-  },
-  {
-    "title": "freqAI-LSTM トレーディングモデル完全ガイド",
-    "link": "https://qiita.com/tikeda123/items/eeeaf29932b2d8817fd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-04T16:15:34.000Z",
-    "source": "Qiita",
-    "contentSnippet": "freqAI-LSTM トレーディングモデル完全ガイド\n\n初心者から上級者まで徹底解説\n\n第1章: はじめに - このシステムは何をするのか\n\n1.1 プロジェクトの全体像\nfreqAI-LSTMは、暗号通貨の自動取引を行うための人工知能システムです。このシステムは、ま..."
+    "contentSnippet": "記事の執筆にあたってAIの補助を多分に利用しています。\n\nLLMが突然賢くなった理由を技術史から紐解く - 5つの革新とその影響度\n\nはじめに\n「ChatGPTってなんでこんなに賢いの？」と思ったことはありませんか？\n2022年末のChatGPT登場から約2年、LL..."
   },
   {
     "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
@@ -222,13 +229,6 @@
     "pubDate": "2025-10-04T12:27:26.000Z",
     "source": "Qiita",
     "contentSnippet": "この記事は人力で書きました。\n\nこのイベント用の手順書ですが、本記事を読めば1時間ぐらいで誰でも試せます！\n\nClaude Codeなど、AIエージェントを「使う」人はかなり増えてきました。\nもはや、AI使うのは全員やって当たり前。\n僕らは一歩進んで、AIエージェ..."
-  },
-  {
-    "title": "投資で破産しないための数学：ケリー基準を理解する",
-    "link": "https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-04T06:50:42.000Z",
-    "source": "Qiita",
-    "contentSnippet": "投資で破産しないための数学：ケリー基準を理解する\n\nはじめに：なぜ優秀なトレーダーも破産するのか\n投資の世界には不思議な現象があります。勝率が55%もある、つまり負けるより勝つ方が多いトレーダーが、なぜか破産してしまうのです。一方で、同じ勝率でも着実に資産を増やし続ける投..."
   },
   {
     "title": "AWSのナレッジを生成AIで参照できる「AWS Knowledge MCP Server」正式版が登場。公式のドキュメントやAPIリファレンス、アーキテクチャガイダンスなど情報源に",

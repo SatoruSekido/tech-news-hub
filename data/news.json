@@ -1,73 +1,101 @@
 [
   {
-    "title": "Simple Stopwatch",
-    "link": "https://dev.to/bea91e/simple-stopwatch-329f",
-    "pubDate": "Tue, 07 Oct 2025 01:51:00 +0000",
+    "title": "UX Engineering: From the Eyes of a Field Pioneer (2026 Edition)",
+    "link": "https://dev.to/d2d_danny/ux-engineering-from-the-eyes-of-a-field-pioneer-1ehe",
+    "pubDate": "Tue, 07 Oct 2025 06:30:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I created super simple stopwatch with React.\nhttps://leafchage.github.io/stopwatch/\nIt was a little hard to make restartable hook.\nhttps://github.com/LeafChage/stopwatch/blob/main/src/hooks/interval.t"
+    "contentSnippet": "What is UX Engineering?\n\n\nUX Engineering is the technical discipline of building and validating a product's user interface with a primary focus on the quality of the user's experience. It is the cruci"
   },
   {
-    "title": "MLZC25-08: Predicción de Precios de Autos: Tu Primer Proyecto Completo de Machine Learning",
-    "link": "https://dev.to/jesus_oviedoriquelme_084/mlzc25-08-prediccion-de-precios-de-autos-tu-primer-proyecto-completo-de-machine-learning-12ba",
-    "pubDate": "Tue, 07 Oct 2025 01:45:20 +0000",
+    "title": "horcrux: Split files into encrypted fragments for Node & React Native (TypeScript library)",
+    "link": "https://dev.to/nchika/horcrux-split-files-into-encrypted-fragments-for-node-react-native-typescript-library-6h6",
+    "pubDate": "Tue, 07 Oct 2025 06:22:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎯 Objetivo del Post: Aprenderás los conceptos fundamentales del Machine Learning aplicándolos a un proyecto real de predicción de precios de automóviles, desde la teoría hasta la implementación práct"
+    "contentSnippet": "Horcrux is a TypeScript library for splitting files into encrypted fragments — “horcruxes” — inspired by Harry Potter. Think of it as digital horcruxes for your sensitive files. You can split your fil"
   },
   {
-    "title": "Master Pronunciation with AI: How Tech Helps",
-    "link": "https://dev.to/sebastian_reid999/master-pronunciation-with-ai-how-tech-helps-4gmg",
-    "pubDate": "Tue, 07 Oct 2025 01:36:33 +0000",
+    "title": "Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control",
+    "link": "https://dev.to/vishal_more_02990955c9358/optimizing-aws-devops-workflows-through-smarter-cicd-and-version-control-4406",
+    "pubDate": "Tue, 07 Oct 2025 06:19:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Can AI Transform Language Pronunciation?\n\n\nEver heard someone confidently say “beaucoup” in French only to make it sound like “boo-coop”? 😬 We’ve all been there—saying something in another language, "
+    "contentSnippet": "Read More: Optimizing AWS DevOps Workflows Through Smarter CI/CD and Version Control\nWhat Is AWS DevOps?\nAWS DevOps combines the power of Amazon Web Services with DevOps methodologies to automate soft"
   },
   {
-    "title": "Software Engineering has levels to it:",
-    "link": "https://dev.to/narednra_reddyyadama_d64/software-engineering-has-levels-to-it-2b0e",
-    "pubDate": "Tue, 07 Oct 2025 01:30:07 +0000",
+    "title": "React Questions",
+    "link": "https://dev.to/vidya_varshini/react-questions-1ppk",
+    "pubDate": "Tue, 07 Oct 2025 06:18:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "➤ Level 1: Writing Code\nProgramming languages (JavaScript, Python, Go, Java — pick one and go deep)\nCore concepts (data structures, algorithms, design patterns)\nVersion control (Git, branching, pull r"
+    "contentSnippet": "1.What is the difference between a functional component and a class component in React?\nFunctional Component: This is a normal Javascript function which returns some UI(JSX). It is simple, easy to wri"
   },
   {
-    "title": "Why Enterprise AI Needs Agentic Messaging Platforms",
-    "link": "https://dev.to/johnjvester/why-enterprise-ai-needs-agentic-messaging-platforms-12nd",
-    "pubDate": "Tue, 07 Oct 2025 01:06:44 +0000",
+    "title": "Don’t Tear Down the Fence: Why Understanding Comes Before Change",
+    "link": "https://dev.to/hardikidea/dont-tear-down-the-fence-why-understanding-comes-before-change-2bd2",
+    "pubDate": "Tue, 07 Oct 2025 06:11:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Enterprise AI initiatives often follow a predictable pattern. They launch with ambitious goals: \"We need AI agents that can automate workflows, integrate with our systems, and execute complex business"
+    "contentSnippet": "🧱 Chesterton’s Fence: Understanding Before You Change\n\n\nIn the rush to improve, innovate, and “move fast,” it’s easy to forget one key rule:\nDon’t remove a fence until you know why it was built.\nThis"
   },
   {
-    "title": "Good evening guys, any tips for a beginner in the programming field? I'm in my first year of college, studying SOFTWARE ENGINEERING and I'm focusing on the JAVA programming language and Spring Boot <3 ....",
-    "link": "https://dev.to/edison_travain_20f036a01a/good-evening-guys-any-tips-for-a-beginner-in-the-programming-field-im-in-my-first-year-of-1n9e",
-    "pubDate": "Tue, 07 Oct 2025 00:51:29 +0000",
+    "title": "Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance",
+    "link": "https://dev.to/member_f8c307c5/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-141m",
+    "pubDate": "Tue, 07 Oct 2025 06:09:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "GitHub Home\nIt was another Black Friday. At 3 AM, my phone started screaming like crazy. 😱 It wasn't my alarm; it was the monitoring alert. Our flagship e-commerce service, the system we had poured s"
   },
   {
-    "title": "The Invisible Engine Powering Every Java Application. 🧑🏻‍💻",
-    "link": "https://dev.to/narednra_reddyyadama_d64/the-invisible-engine-powering-every-java-application-9mb",
-    "pubDate": "Tue, 07 Oct 2025 00:48:50 +0000",
+    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2890",
+    "pubDate": "Tue, 07 Oct 2025 06:09:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Java Virtual Machine (JVM) is what makes Java “write once, run anywhere.”\nHere’s a simplified breakdown of the JVM model\nClass Loader Subsystem – Loads .class files into memory. 🚚\nRuntime Data Ar"
+    "contentSnippet": "SABRI – Sold Myself For Love\n\nDutch-born artist SABRI brings raw soul and vulnerability to her COLORS performance of the single “Sold Myself For Love,” lifted straight from her new EP What I Feel Now."
   },
   {
-    "title": "Mastering the Art of Code Reviews: Best Practices and Tools Every Developer Should Know",
-    "link": "https://dev.to/mikeover/mastering-the-art-of-code-reviews-best-practices-and-tools-every-developer-should-know-1oh7",
-    "pubDate": "Tue, 07 Oct 2025 00:36:26 +0000",
+    "title": "Rick Beato: Escape the Pentatonic Trap in One Lesson",
+    "link": "https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2760",
+    "pubDate": "Tue, 07 Oct 2025 06:08:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the fast-paced world of software development, code quality is paramount. One of the most effective ways to ensure that quality is maintained is through code reviews. However, many developers find c"
+    "contentSnippet": "Today’s livestream is all about ditching the pentatonic rut and exploring the scales and modes top players actually use. Stick around if you want fresh ideas for solos that go beyond the usual five no"
   },
   {
-    "title": "#DAY 8: Monitoring, Logs & Troubleshooting",
-    "link": "https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d",
-    "pubDate": "Tue, 07 Oct 2025 00:30:27 +0000",
+    "title": "Rick Beato: Hiromi: The Most Electrifying Pianist Alive",
+    "link": "https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5dbc",
+    "pubDate": "Tue, 07 Oct 2025 06:08:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "From Event Logs to Effective Issue Resolution\n\n\n\n  \n  \n  Introduction\n\n\nA firewall needs to be regularly observed and evaluated to make sure it is operating as intended. Its efficacy does not stop wit"
+    "contentSnippet": "Hiromi: The Most Electrifying Pianist Alive\n\n\nIn this breezy interview, Japanese piano powerhouse Hiromi dives into how she blends classical training, jazz freedom, and rock energy into her signature "
   },
   {
-    "title": "#DAY 7: Users & Authentication",
-    "link": "https://dev.to/samueladeduntan/day-7-users-authentication-12jm",
-    "pubDate": "Tue, 07 Oct 2025 00:30:15 +0000",
+    "title": "Rick Beato: Finally…Breaking Down Kansas LIVE",
+    "link": "https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4kh4",
+    "pubDate": "Tue, 07 Oct 2025 06:08:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Strengthening Security Through Identity Management\n\n\n\n  \n  \n  Introduction\n\n\nTrue security necessitates limiting who has access to resources, even though firewall rules and security profiles regulate "
+    "contentSnippet": "Finally…Breaking Down Kansas LIVE dives into Rick Beato’s favorite Kansas track, where he peels back the stems, structure, and sonic choices that give the song its magic.\nHe’s also dropping The Profes"
+  },
+  {
+    "title": "OpenAI DevDay 2025の現地レポート【OPENING KEYNOTE編】",
+    "link": "https://zenn.dev/galirage/articles/openai-dev-day-2025-keynote",
+    "pubDate": "Mon, 06 Oct 2025 23:37:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめまして、ますみです！\n株式会社Galirage（ガリレージ）という「生成AIに特化して、システム開発・アドバイザリー支援・研修支援をしているIT企業」で、代表をしております^^\n\n\n\n 本記事のサマリー\n\nChatGPTに「Apps inside ChatGPT」が登場し、FigmaやSpotifyなど外部アプリを直接操作できるようなアプリケーション化するための機能が発表されました。\n開発者"
+  },
+  {
+    "title": "Sora 2 API を触ってみた",
+    "link": "https://zenn.dev/prgckwb/articles/openai-sora2-api",
+    "pubDate": "Mon, 06 Oct 2025 19:26:20 GMT",
+    "source": "Zenn",
+    "contentSnippet": "OpenAI DevDay 2025 で Sora2 の API が公開されたので公式ドキュメントを参考に試してみました。\n!\n本記事は 2025年10月7日時点の情報で書かれています。\n\nhttps://platform.openai.com/docs/guides/video-generation\n\n 概要\nSora2 は 2025年10月現在 OpenAI の最新の動画生成モデルです。Sor"
+  },
+  {
+    "title": "OpenAI DevDay 2025 発表まとめ",
+    "link": "https://zenn.dev/schroneko/articles/openai-devday-2025",
+    "pubDate": "Mon, 06 Oct 2025 18:01:44 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は人力で書きました。\n\n\n tl;dr\n\nOpenAI DevDay 2025 がサンフランシスコで開催されたよ\nサンフランシスコ現地から情報をお送りするよ\nChatGPT 上で使える Apps SDK が公開されたよ（収益化の話も）\nAI Agent ワークフローを構築するための AgentKit が公開されたよ\n合わせてノーコードライクに操作できる Agent Builder も公"
+  },
+  {
+    "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
+    "link": "https://zenn.dev/tmasuyama1114/books/claude_code_basic",
+    "pubDate": "Mon, 06 Oct 2025 15:41:50 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、とまだです。\n\n「Claude Codeって何？」「AIで本当にコードが書けるの？」と思ったことはありませんか？\n\nこの本では Claued Code を使ったAI駆動開発の基本を 1日で身につけることができます。\n\n【こんな方におすすめ】\n・AI開発ツールに興味はあるけど、どこから始めていいかわからない\n・Claude Codeをインストールしたけど、使い方がよくわからない\n・開発作"
   },
   {
     "title": "次期MCP（Model Context Protocol）では非同期操作、ステートレス、公式のプロトコル拡張などサポート",
@@ -130,7 +158,7 @@
     "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
     "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\n私は Mac がまだ “Macintosh” と呼ばれていたころからずっと Mac を使ってきました。ですがこのたび、思い切って Omarchy（Linux ディストリビューション）に移行しました。1 ヶ月ほど使ってみての感想や気づきを、これから移行する方の参考になればと思い、まとめています。\n試してみて「ここ違ったよ」「こうするともっと良かった」などあれば、コメントで教えてもらえると嬉"
+    "contentSnippet": "!\n\n\n2025-10-07: システム全体の日本語化の補足、Public Keyの記事の追加、音声の再生が途切れる件の解消法の追記、ダッシュボードのサンプルが一部動作しなかったため cal → btopに変更、ウインドウのタブ化のバイディング設定の一部が間違っていたので修正\n\n2025-10-06: 初版\n\n\n\n はじめに\n私は Mac がまだ “Macintosh” と呼ばれていたころからずっ"
   },
   {
     "title": "【検証】AI Agentは学術論文を読んでプロトタイプ実装まで本当にできるのか？（論文読解・設計編）",
@@ -168,39 +196,11 @@
     "contentSnippet": "米調査会社のガートナーは、「先進テクノロジーのハイプサイクル 2025年版」を9月に発表しています（ガートナージャパンの発表）。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説明したものです。5つのステージは、「黎明期」から始まり、「『過度な期待』のピーク期」「幻滅期」「啓発期」「生産性の安定期」まで。この途中で消えていく技術もあります。 今回発表されたハイプサイク"
   },
   {
-    "title": "読書を資産化するプロセスの見直し備忘録",
-    "link": "https://zenn.dev/mutao/articles/effective-reading-tips",
-    "pubDate": "Sun, 05 Oct 2025 13:54:24 GMT",
-    "source": "Zenn",
-    "contentSnippet": "読書を散漫としている感じがする。\nハイライトをして読んで満足しているだけ。\n本に引いたハイライトを日々のタスクや、アウトプットに有効活用できていない。\n\nといった課題感があり、読書の「資産化のプロセスの見直し」と捉え、情報の分類・蓄積・再利用の流れを根本から見直すことにしたときの備忘録。\n見直しには以下の書籍を参考にしている。\nhttps://www.amazon.co.jp/dp/4296000"
-  },
-  {
-    "title": "ローカル環境でQwen3-VL-30B-A3Bを動かす",
-    "link": "https://zenn.dev/robustonian/articles/local_qwen3_vl",
-    "pubDate": "Sun, 05 Oct 2025 13:35:18 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nQwen3-VL-30B-A3Bが公開されたので早速ローカル環境で使ってみる。\nなお、本記事ではユニファイドメモリが96GB以上のMacを対象とする。おそらくそれ以下だと、VRAMが足りずにモデルの読み込みに失敗する。\n!\nNVIDIA GPUなら、24GB以上のVRAMがあれば4bit量子化により推論が可能かも知れない。\nただし私はそのようなGPUを所有しておらず確認できないため、本記"
-  },
-  {
-    "title": "MeKaBuの始まりと終わりとこれから",
-    "link": "https://zenn.dev/te9no/articles/97f50f463a7a7d",
-    "pubDate": "Sun, 05 Oct 2025 08:58:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "── 終わりを、始めよう。\n\n\n はじめに\n自作キーボードの世界には、思いつきから始まり、仲間とのやりとりの中で膨らみ、やがて文化へと広がっていく物語が数多く存在します。\n「MeKaBu Project」もそのひとつでした。\n当初の目標はとてもシンプル。\n「時間がないけどキーボードを作りたい人たちが集まり、1台を完成させる」。\nそこから始まった試みは、多くの技術と工夫を巻き込み、思っていた以上に大"
-  },
-  {
     "title": "React学習ログ No.8",
     "link": "https://qiita.com/maedaHARUYA/items/1f9753a4d2a9742b2b8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-05T08:33:36.000Z",
     "source": "Qiita",
     "contentSnippet": "React公式ドキュメント学習メモ：TypeScript の使用\n\nReact開発におけるTypeScriptの価値\nTypeScript（TS）は、JavaScriptコードベースに型定義を追加\nReact開発においては、実行前にPropsのミスやStateの不整合とい..."
-  },
-  {
-    "title": "「ゆっくり実況」みたいな動画をAWSサービスを駆使して作ってみる",
-    "link": "https://zenn.dev/aws_japan/articles/acc24ed211393e",
-    "pubDate": "Sun, 05 Oct 2025 07:56:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nゆっくり実況やVOICEBOXの製品を利用した解説動画ってよく見かけますよね。\nああいったタイプの、いわゆる「バーチャルキャラクターによる解説動画」ってのがあると思うんですが、この前見ていてふと思ったんですよね、「Amazon PollyとAmazon Bedrockを使えば私でも作れるんじゃないか…？」って。\n台本やキャラクターの絵はBedrockでいけるし、読み上げる音声はPolly"
   },
   {
     "title": "M5Stack LLM8850 モジュールを Raspberry Pi 5 で動かしてみた(LLM編)",

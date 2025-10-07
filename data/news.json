@@ -1,73 +1,73 @@
 [
   {
-    "title": "Refactor Smart Today, Move Faster Tomorrow — Bonus Pack: 4 Lessons to Refactor Smarter",
-    "link": "https://dev.to/agusrdz/refactor-smart-today-move-faster-tomorrow-bonus-pack-4-lessons-to-refactor-smarter-2jpb",
-    "pubDate": "Mon, 06 Oct 2025 18:29:58 +0000",
+    "title": "Simple Stopwatch",
+    "link": "https://dev.to/bea91e/simple-stopwatch-329f",
+    "pubDate": "Tue, 07 Oct 2025 01:51:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Extra insights that make your refactors more strategic, collaborative, and sustainable\n\n\n\n\n\nThis Bonus Pack expands on everything we've covered so far with 4 focused lessons that address the people, p"
+    "contentSnippet": "I created super simple stopwatch with React.\nhttps://leafchage.github.io/stopwatch/\nIt was a little hard to make restartable hook.\nhttps://github.com/LeafChage/stopwatch/blob/main/src/hooks/interval.t"
   },
   {
-    "title": "Scratch your own itch: How to Build and Ship",
-    "link": "https://dev.to/lirena00/scratch-your-own-itch-how-to-build-and-ship-50a9",
-    "pubDate": "Mon, 06 Oct 2025 18:29:50 +0000",
+    "title": "MLZC25-08: Predicción de Precios de Autos: Tu Primer Proyecto Completo de Machine Learning",
+    "link": "https://dev.to/jesus_oviedoriquelme_084/mlzc25-08-prediccion-de-precios-de-autos-tu-primer-proyecto-completo-de-machine-learning-12ba",
+    "pubDate": "Tue, 07 Oct 2025 01:45:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"Scratch your own itch.\"\nIt's a phrase I first encountered in the book Rework by Jason Fried and David Heinemeier Hansson (a great book, btw!!). The idea is simple: solve the problems that you persona"
+    "contentSnippet": "🎯 Objetivo del Post: Aprenderás los conceptos fundamentales del Machine Learning aplicándolos a un proyecto real de predicción de precios de automóviles, desde la teoría hasta la implementación práct"
   },
   {
-    "title": "Εισαγωγή στα SQL JOINs με Παραδείγματα",
-    "link": "https://dev.to/__b63657/eisagoge-sta-sql-joins-me-paradeigmata-3e97",
-    "pubDate": "Mon, 06 Oct 2025 18:27:07 +0000",
+    "title": "Master Pronunciation with AI: How Tech Helps",
+    "link": "https://dev.to/sebastian_reid999/master-pronunciation-with-ai-how-tech-helps-4gmg",
+    "pubDate": "Tue, 07 Oct 2025 01:36:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Εισαγωγή\nΣτον κόσμο των σχεσιακών βάσεων δεδομένων, τα JOINs είναι από τις πιο βασικές και χρήσιμες λειτουργίες.\nΣε αυτό το άρθρο θα δούμε επτά διαφορετικούς τρόπους για να ενώσουμε δύο πίνακες, χωρίς"
+    "contentSnippet": "Can AI Transform Language Pronunciation?\n\n\nEver heard someone confidently say “beaucoup” in French only to make it sound like “boo-coop”? 😬 We’ve all been there—saying something in another language, "
   },
   {
-    "title": "Anthropic: Brilliant Models, Bullshit Pricing",
-    "link": "https://dev.to/pranta/anthropic-brilliant-models-bullshit-pricing-3m0h",
-    "pubDate": "Mon, 06 Oct 2025 18:25:01 +0000",
+    "title": "Software Engineering has levels to it:",
+    "link": "https://dev.to/narednra_reddyyadama_d64/software-engineering-has-levels-to-it-2b0e",
+    "pubDate": "Tue, 07 Oct 2025 01:30:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Let’s get one thing straight — Anthropic makes some of the best damn AI models on the planet.\nSonnet, Opus, and Claude Code — feels like coding with a genius friend who actually listens and doesn’t ga"
+    "contentSnippet": "➤ Level 1: Writing Code\nProgramming languages (JavaScript, Python, Go, Java — pick one and go deep)\nCore concepts (data structures, algorithms, design patterns)\nVersion control (Git, branching, pull r"
   },
   {
-    "title": "Mastering React Suspense: Loading States Done Right",
-    "link": "https://dev.to/cristiansifuentes/mastering-react-suspense-loading-states-done-right-4083",
-    "pubDate": "Mon, 06 Oct 2025 18:21:32 +0000",
+    "title": "Why Enterprise AI Needs Agentic Messaging Platforms",
+    "link": "https://dev.to/johnjvester/why-enterprise-ai-needs-agentic-messaging-platforms-12nd",
+    "pubDate": "Tue, 07 Oct 2025 01:06:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "React’s <Suspense> is one of those APIs that looks deceptively simple — a single component that shows a fallback while children load — yet under the hood, it enables some of the most powerful async re"
+    "contentSnippet": "Enterprise AI initiatives often follow a predictable pattern. They launch with ambitious goals: \"We need AI agents that can automate workflows, integrate with our systems, and execute complex business"
   },
   {
-    "title": "50 Most Useful React Snippets",
-    "link": "https://dev.to/softwaredeveloper01/50-most-useful-react-snippets-3plh",
-    "pubDate": "Mon, 06 Oct 2025 18:21:00 +0000",
+    "title": "Good evening guys, any tips for a beginner in the programming field? I'm in my first year of college, studying SOFTWARE ENGINEERING and I'm focusing on the JAVA programming language and Spring Boot <3 ....",
+    "link": "https://dev.to/edison_travain_20f036a01a/good-evening-guys-any-tips-for-a-beginner-in-the-programming-field-im-in-my-first-year-of-1n9e",
+    "pubDate": "Tue, 07 Oct 2025 00:51:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Functional Component (Basic)\n\n\n\n\n\nimport React from 'react';\n\nconst MyComponent = () => {\n  return <h2>Hello, World!</h2>;\n};\n\nexport default MyComponent;\n\nimport React from 'react';\n\nconst Greetin"
+    "contentSnippet": ""
   },
   {
-    "title": "Memahami Jenis-Jenis Metode Autentikasi dan Alur (Flow)-nya",
-    "link": "https://dev.to/naandan/memahami-jenis-jenis-metode-autentikasi-dan-alur-flow-nya-5ahk",
-    "pubDate": "Mon, 06 Oct 2025 18:19:15 +0000",
+    "title": "The Invisible Engine Powering Every Java Application. 🧑🏻‍💻",
+    "link": "https://dev.to/narednra_reddyyadama_d64/the-invisible-engine-powering-every-java-application-9mb",
+    "pubDate": "Tue, 07 Oct 2025 00:48:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Autentikasi merupakan fondasi utama dalam sistem keamanan aplikasi modern. Tanpa mekanisme autentikasi yang baik, siapa pun bisa mengakses data atau layanan tanpa izin. Namun, tidak semua metode auten"
+    "contentSnippet": "The Java Virtual Machine (JVM) is what makes Java “write once, run anywhere.”\nHere’s a simplified breakdown of the JVM model\nClass Loader Subsystem – Loads .class files into memory. 🚚\nRuntime Data Ar"
   },
   {
-    "title": "Getting ready for Sega 8",
-    "link": "https://dev.to/fmahnke/getting-ready-for-sega-8-50mk",
-    "pubDate": "Mon, 06 Oct 2025 18:16:12 +0000",
+    "title": "Mastering the Art of Code Reviews: Best Practices and Tools Every Developer Should Know",
+    "link": "https://dev.to/mikeover/mastering-the-art-of-code-reviews-best-practices-and-tools-every-developer-should-know-1oh7",
+    "pubDate": "Tue, 07 Oct 2025 00:36:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This year's Sega8 multi-game speedrun race will be held on 2025-11-22. The preparation period begins this Saturday, 2025-10-06. To eliminate distractions and optimize my practice time, I'm spending so"
+    "contentSnippet": "In the fast-paced world of software development, code quality is paramount. One of the most effective ways to ensure that quality is maintained is through code reviews. However, many developers find c"
   },
   {
-    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1104",
-    "pubDate": "Mon, 06 Oct 2025 18:11:33 +0000",
+    "title": "#DAY 8: Monitoring, Logs & Troubleshooting",
+    "link": "https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d",
+    "pubDate": "Tue, 07 Oct 2025 00:30:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SABRI – “Sold Myself For Love” on A COLORS SHOW\n\n\nDutch-born artist SABRI brings raw soul and vulnerability to her COLORS debut, performing the tender “Sold Myself For Love” straight from her new EP W"
+    "contentSnippet": "From Event Logs to Effective Issue Resolution\n\n\n\n  \n  \n  Introduction\n\n\nA firewall needs to be regularly observed and evaluated to make sure it is operating as intended. Its efficacy does not stop wit"
   },
   {
-    "title": "KEXP: NewDad - Entertainer (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1clb",
-    "pubDate": "Mon, 06 Oct 2025 18:11:22 +0000",
+    "title": "#DAY 7: Users & Authentication",
+    "link": "https://dev.to/samueladeduntan/day-7-users-authentication-12jm",
+    "pubDate": "Tue, 07 Oct 2025 00:30:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "NewDad hit the KEXP studio on August 12, 2025 to deliver a spellbinding live take on “Entertainer.” Fronted by Julie Dawson’s soulful vocals and guitar, Sean O’Dowd’s riffs, Fiachra Parslow’s driving "
+    "contentSnippet": "Strengthening Security Through Identity Management\n\n\n\n  \n  \n  Introduction\n\n\nTrue security necessitates limiting who has access to resources, even though firewall rules and security profiles regulate "
   },
   {
     "title": "次期MCP（Model Context Protocol）では非同期操作、ステートレス、公式のプロトコル拡張などサポート",
@@ -77,11 +77,25 @@
     "contentSnippet": "Anthropicがオープンソースとして仕様を作成しているMCP（Model Context Protocol）は、今年（2025年）11月にアップデートを予定しています（MCPはこれまでにも、2025年3月、6月とアップデートが行われています）。 現在どのようなアップデートが検討されているのかが、MCP公式サイトのブログ記事「Update on the Next MCP Protocol Rel"
   },
   {
+    "title": "全プロセスが一秒止まる不具合続編: カーネル内部で何が起きたか？",
+    "link": "https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b",
+    "pubDate": "Mon, 06 Oct 2025 08:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n完全自動運転の実現を目指すスタートアップ「チューリング」でエンジニアをしています、鈴木勝博です。私が所属しているDrivingSystemチームでは、自動運転向けのシステム開発を担当しています。\nLinuxを用いたシステム開発を行っていると、カーネルの挙動、周辺デバイスとの組み合わせ等によって、思いがけない問題に遭遇することが少なくありません。この記事では、実際にシステム開発中に遭遇した"
+  },
+  {
     "title": "【ポケモン×Java】知識編 配列#5 〜配列を完全攻略！-落とし穴-～",
     "link": "https://qiita.com/hitomin_poke/items/f5684f8af1b2ab5e9ce1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T05:37:25.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nここまでで配列の基本から、ループ・二次元配列・メソッドまで扱えるようになったね。\n最終回は 「実用でよくあるパターン」 と 「初心者がつまずきやすい落とし穴」 を整理します。\n「ここに気をつければ大丈夫！」という点をリストアップ！！\n\n🎓 実用でよくある配列の..."
+  },
+  {
+    "title": "【TypeScript】カスタムエラーのすすめ",
+    "link": "https://zenn.dev/praha/articles/a8b72ba36294fe",
+    "pubDate": "Mon, 06 Oct 2025 04:40:36 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TypeScriptで開発をしていると、APIエラーやバリデーションエラーなど、さまざまなエラーを扱う場面があります。\nそんなときに、標準のErrorクラスだけで対応していませんか。\nこの記事では、カスタムエラーを導入するメリットと、ボイラープレートを減らしてカスタムエラーを楽に定義出来るライブラリを紹介します。\n\n カスタムエラーを作る理由\n標準のErrorクラスを使用することで楽にエラーを作成"
   },
   {
     "title": "GoのGarbage CollectionとGreen Tea GC",
@@ -105,11 +119,25 @@
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n本記事ではその中のひとつ、OCRを使った経費申請アプリ を作ってみての学びを共有します。\nぜひご覧ください..."
   },
   {
+    "title": "Unity6.2のAI触ってみた結果...",
+    "link": "https://qiita.com/Biscuit_Sauce/items/f31e43718893b8c5c562?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T01:47:17.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n初めまして||こんにちは、ビスケットソースです！\n最近、Unity6.2が公開されました。Unity6.2の機能であるUnityAIが気になったので触ってみました！UnityAIとは何者なのか..その謎を解明すべく、我々はアマゾンの奥地へと向かった...\n\nUn..."
+  },
+  {
     "title": "“macOS→Omarchy”の移行ガイド",
     "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
     "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n私は Mac がまだ “Macintosh” と呼ばれていたころからずっと Mac を使ってきました。ですがこのたび、思い切って Omarchy（Linux ディストリビューション）に移行しました。1 ヶ月ほど使ってみての感想や気づきを、これから移行する方の参考になればと思い、まとめています。\n試してみて「ここ違ったよ」「こうするともっと良かった」などあれば、コメントで教えてもらえると嬉"
+  },
+  {
+    "title": "【検証】AI Agentは学術論文を読んでプロトタイプ実装まで本当にできるのか？（論文読解・設計編）",
+    "link": "https://qiita.com/ntaka329/items/4e7f6cc81510a0b1f8c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T00:14:49.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n前回の記事でGitHub CopilotのAgentを試したのですが、流石に1関数のUnit Test Code作成ではお題が簡単すぎました。\nということで、別のお題を試してみます！\n\nまとめ\n\nGPT-5 mini、Claud..."
   },
   {
     "title": "【なぜAIに設計を任せると成長が止まるのか】Kiroを使っても学べない設計スキルの真実",
@@ -119,11 +147,11 @@
     "contentSnippet": "はじめに\n僕自身、実務や個人開発でAIを活用して開発しています。Kiroやcc-sddを使った仕様駆動開発を行い、AI を使って生産性は向上している。また余った時間をコードレビューにも使い、コードの質もある程度は担保出来るようになりました。\nしかし、ある時ふと感じました。「僕自身の設計スキルは向上してないのでは？」と。\nAIに機能要件を伝えれば設計書を作ってくれるし、その段階でレビューすれば設計の"
   },
   {
-    "title": "【28分爆速開発】圧勝したのはどっち？ 最新AI Claude Sonnet 4.5 vs 4.0 ハッカソン対決！",
-    "link": "https://zenn.dev/aws_japan/articles/4b7e43e96d23e2",
-    "pubDate": "Sun, 05 Oct 2025 15:43:06 GMT",
+    "title": "go testのキャッシュの仕組みを理解して、テストコードを変えずにCIを高速化する",
+    "link": "https://zenn.dev/drsprime/articles/go-test-cache-ci-optimization",
+    "pubDate": "Sun, 05 Oct 2025 22:30:01 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nClaude Sonnet 4.5は、Anthropicが2025年9月30日にリリースした最新のAIモデルです。公式発表によると、「世界最高のコーディングモデル」「複雑なエージェント構築に最も強力なモデル」として位置づけられています。\nAWSのAmazon Bedrockでも利用可能となっています。\n今回は、AI駆動の開発支援ツールのAmazon Q Developerを用いて、Cla"
+    "contentSnippet": "サマリ\n\ngo testは、パッケージごとにテスト結果をキャッシュしている\nソースコードに加え、テストコマンドの引数やテスト内で参照したファイルや環境変数がすべて同じなら、キャッシュが利用される\nそのため、基本的にはCI上でもGoのキャッシュ機構を使用しても問題ない\nGoが検知できない変更（設定ファイルやデプロイ設定の変更など）がある場合は、キャッシュをクリアすることで偽陰性を回避する必要がある\n"
   },
   {
     "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
@@ -175,13 +203,6 @@
     "contentSnippet": "はじめに\nゆっくり実況やVOICEBOXの製品を利用した解説動画ってよく見かけますよね。\nああいったタイプの、いわゆる「バーチャルキャラクターによる解説動画」ってのがあると思うんですが、この前見ていてふと思ったんですよね、「Amazon PollyとAmazon Bedrockを使えば私でも作れるんじゃないか…？」って。\n台本やキャラクターの絵はBedrockでいけるし、読み上げる音声はPolly"
   },
   {
-    "title": "結局フロントエンド実装はAIに何を渡せばいいの? DesignBench論文でわかった画像よりコードが強い理由とその実データ",
-    "link": "https://zenn.dev/emrum/articles/designbench-frontend-code-vs-images",
-    "pubDate": "Sun, 05 Oct 2025 03:54:54 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AIにフロントエンドUIを実装させるとき、\nあなたは何を渡しているだろう？──Figmaの画像か、それともコードか。\n2025年の論文 DesignBench (arXiv:2506.06251) は、\nこの疑問に対して「コードの方が明確に優れている」と、実験データで結論を出した。\n\n\n 🧩 DesignBenchとは\nDesignBenchは、React／Vue／Angularなどの主要フレー"
-  },
-  {
     "title": "M5Stack LLM8850 モジュールを Raspberry Pi 5 で動かしてみた(LLM編)",
     "link": "https://qiita.com/uzuki_aoba/items/78e1944b8ccb60107d5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-05T02:30:47.000Z",
@@ -189,25 +210,11 @@
     "contentSnippet": "Maker Faire Tokyo 2025 の スイッチサイエンス さんのブースで、QLK(急に LLM8850モジュールが 来たので)\n\nM5Stack LLM8850 について\nM5Stack LLM8850 は、AXERA社 の AX8850 チップを搭載した..."
   },
   {
-    "title": "testing/synctestはGoランタイムの世界を改変していた",
-    "link": "https://zenn.dev/yuta_kakiki/articles/9ec93623cfdc81",
-    "pubDate": "Sat, 04 Oct 2025 18:27:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n先日、Go Conference 2025に行ってきました。\n様々なセッションを聞く中で、特に興味を持ったトピックがtesting/synctestパッケージです。\nこれを取り上げているセッションが2つもありました。\nhttps://speakerdeck.com/daikieng/synctest\nhttps://docs.google.com/presentation/d/1nCys"
-  },
-  {
     "title": "freqAI-LSTM トレーディングモデル完全ガイド",
     "link": "https://qiita.com/tikeda123/items/eeeaf29932b2d8817fd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-04T16:15:34.000Z",
     "source": "Qiita",
     "contentSnippet": "freqAI-LSTM トレーディングモデル完全ガイド\n\n初心者から上級者まで徹底解説\n\n第1章: はじめに - このシステムは何をするのか\n\n1.1 プロジェクトの全体像\nfreqAI-LSTMは、暗号通貨の自動取引を行うための人工知能システムです。このシステムは、ま..."
-  },
-  {
-    "title": "古のMS-OfficeファイルをSnowflakeであれこれしてAI-Readyにしたい",
-    "link": "https://qiita.com/myu65/items/8b4de7b6dea547167b85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-04T15:58:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "最近Snowflakeで仕事していることの多いこのごろです。\nわけあってdocファイルとかxlsファイルとかpptファイルが大量にでてきたけど、これ読み込めないじゃんと困ってていろいろ調べたまとめです。\n\nなにができたらうれしいか\nとりあえずいろんな文書をMarkdownに..."
   },
   {
     "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
@@ -222,13 +229,6 @@
     "pubDate": "2025-10-04T06:50:42.000Z",
     "source": "Qiita",
     "contentSnippet": "投資で破産しないための数学：ケリー基準を理解する\n\nはじめに：なぜ優秀なトレーダーも破産するのか\n投資の世界には不思議な現象があります。勝率が55%もある、つまり負けるより勝つ方が多いトレーダーが、なぜか破産してしまうのです。一方で、同じ勝率でも着実に資産を増やし続ける投..."
-  },
-  {
-    "title": "マイナンバーカードがiPhoneに入るので中身を見てみる",
-    "link": "https://qiita.com/todotodo/items/75179d3bec8d9572fc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-03T09:39:08.000Z",
-    "source": "Qiita",
-    "contentSnippet": "背景\n\nマイナンバーカードがiPhoneに入る\n2025年6月からマイナンバーカードをiPhoneに入れることができるようです\n\n上記リンクの手順に従うと数分ほどの操作でウォレットアプリにマイナンバーカードが追加されます\n\n何ができるの？\n通常のマイナンバーカードと..."
   },
   {
     "title": "AWSのナレッジを生成AIで参照できる「AWS Knowledge MCP Server」正式版が登場。公式のドキュメントやAPIリファレンス、アーキテクチャガイダンスなど情報源に",

@@ -1,73 +1,80 @@
 [
   {
-    "title": "Why Game Preservation Is the Next Big Tech Responsibility",
-    "link": "https://dev.to/ankit_m/why-game-preservation-is-the-next-big-tech-responsibility-2bh8",
-    "pubDate": "Tue, 07 Oct 2025 12:44:56 +0000",
+    "title": "Pipe operator is coming to PHP !",
+    "link": "https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838",
+    "pubDate": "Tue, 07 Oct 2025 18:32:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "(Our story at Y8.com — two decades of keeping web games alive)\nIntroduction\nAt Y8, we’ve spent nearly twenty years curating one of the largest collections of online games in the world. But along the w"
+    "contentSnippet": "A new operator is coming to PHP: the pipe ! (|>)\nJust like in linux, you will now be able to chain multiple commands together.\nThis operator will help us make the code more readable and expressive.\nBe"
   },
   {
-    "title": "Building My New Website with Astro, GitHub Copilot, and AWS Amplify",
-    "link": "https://dev.to/this-is-learning/building-my-new-website-with-astro-github-copilot-and-aws-amplify-3eoc",
-    "pubDate": "Tue, 07 Oct 2025 12:41:50 +0000",
+    "title": "JSON Schema in the Wild: Real World Applications & HAL 🌍",
+    "link": "https://dev.to/vishdevwork/json-schema-in-the-wild-real-world-applications-hal-3m1l",
+    "pubDate": "Tue, 07 Oct 2025 18:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For me, in general, the best way to learn something new is to start from zero and hit “publish.”\nThat’s exactly what I did when I decided to rebuild my personal website — emanuelebartolesi.com — from "
+    "contentSnippet": "Part 3 of 3: Where Theory Meets Production\nWelcome to the final part of our JSON Schema journey! We've covered the theory and implementation – now let's see how JSON Schema solves real problems in pro"
   },
   {
-    "title": "Day 23 of 100.",
-    "link": "https://dev.to/lyop_achayi/day-23-of-100-874",
-    "pubDate": "Tue, 07 Oct 2025 12:41:17 +0000",
+    "title": "Build a Perfect Blog with FastAPI: Full-Text Search for Posts",
+    "link": "https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-full-text-search-for-posts-3955",
+    "pubDate": "Tue, 07 Oct 2025 18:28:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Instead of letting the program crash, Python allows us to handle errors gracefully using try, except, and other keywords.\nI thought it was an actual \"bug\" at first 😄😄😅\n\n\n  \n  \n  PythonZeroToHeroStu"
+    "contentSnippet": "In the previous article, we added an image upload feature to our blog posts.\nAs time goes on, you can imagine your blog has accumulated a significant number of articles. A new problem gradually emerge"
   },
   {
-    "title": "𝗠𝗮𝘀𝘁𝗲𝗿𝗶𝗻𝗴 𝗠𝗲𝗺𝗼𝗿𝘆 𝗶𝗻 .𝗡𝗘𝗧",
-    "link": "https://dev.to/supraja_tangella_b7f0738e/-5dp3",
-    "pubDate": "Tue, 07 Oct 2025 12:38:49 +0000",
+    "title": "💸 Day 7: Building an On-Chain IOU System with Solidity — Track and Settle Debts Securely",
+    "link": "https://dev.to/sauravkumar8178/day-7-building-an-on-chain-iou-system-with-solidity-track-and-settle-debts-securely-9lm",
+    "pubDate": "Tue, 07 Oct 2025 18:23:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Your .NET app’s biggest performance issue isn’t CPU — it’s memory misuse.\nMost .NET devs think “GC will handle it.”\nThat’s the biggest mistake I see in production apps.\nMemory leaks and high GC pressu"
+    "contentSnippet": "💸 Day 7: Building an On-Chain IOU System with Solidity — Track and Settle Debts Securely\n\n\nHey builders 👋\nWelcome to Day 7 of my #30DaysOfSolidity journey!\non-chain IOU system for friends, small gro"
   },
   {
-    "title": "Common Mistakes in Dynamic Testing and How to Avoid Them",
-    "link": "https://dev.to/carl_max007/common-mistakes-in-dynamic-testing-and-how-to-avoid-them-cjj",
-    "pubDate": "Tue, 07 Oct 2025 12:36:14 +0000",
+    "title": "Building a Portfolio as well as an Elementor Library",
+    "link": "https://dev.to/rio_akram_m_653866db/building-a-portfolio-as-well-as-an-elementor-library-3c6a",
+    "pubDate": "Tue, 07 Oct 2025 18:14:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Dynamic testing is an essential part of software quality assurance. Unlike static testing, which focuses on analyzing code or documents without execution, dynamic testing involves running the software"
+    "contentSnippet": "I am building a Portfolio website monetized with both Elementor template and Points to Access Ai Prompts and Components. Can anyone review or rate my work? \nhttp://rioakram.com/"
   },
   {
-    "title": "Everything-as-Code explained",
-    "link": "https://dev.to/gatling/everything-as-code-explained-511m",
-    "pubDate": "Tue, 07 Oct 2025 12:33:08 +0000",
+    "title": "JWT vs OAuth 1.0 vs OAuth 2.0, What’s the Difference and When to Use Each?",
+    "link": "https://dev.to/navidreza80/jwt-vs-oauth-10-vs-oauth-20-whats-the-difference-and-when-to-use-each-3pl3",
+    "pubDate": "Tue, 07 Oct 2025 18:12:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern software development moves fast—but scaling safely and sustainably is another story. As systems become more complex, and teams grow more distributed, one principle is changing how top engineeri"
+    "contentSnippet": "JWT vs OAuth 1.0 vs OAuth 2.0, What’s the Difference and When to Use Each?\nIn modern web development, authentication and authorization are critical. Whether you’re building a full-stack app, an API, o"
   },
   {
-    "title": "DATABASE NORMALIZATION",
-    "link": "https://dev.to/jai_surya_5807ee4b64b3a5e/database-normalization-208c",
-    "pubDate": "Tue, 07 Oct 2025 12:30:31 +0000",
+    "title": "COLORS: Nono La Grinta | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-26ih",
+    "pubDate": "Tue, 07 Oct 2025 18:10:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction to database Normalization:\nDatabase normalization is a systematic process of organizing data in a database to reduce redundancy and improve data integrity.\n\n\nIt involves dividing large, c"
+    "contentSnippet": "Paris-based rapper Nono La Grinta spits every line with pinpoint precision and raw grit in his uncompromising A COLORS SHOW performance—no filters, just pure bars that hit hard.\nTrue to form, COLORSxS"
   },
   {
-    "title": "AI Startups Are Sick — But Not in a Good Way",
-    "link": "https://dev.to/ajnull/ai-startups-are-sick-but-not-in-a-good-way-1el",
-    "pubDate": "Tue, 07 Oct 2025 12:27:57 +0000",
+    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3cfj",
+    "pubDate": "Tue, 07 Oct 2025 18:10:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s tech industry, everyone seems to be talking about “AI.”\n\nFrom modern frontend developers to legacy Java engineers, and even founders who lack technical depth but excel at fundraising, all a"
+    "contentSnippet": "Dutch-born SABRI pours heart and soul into her COLORS Show performance of “Sold Myself For Love,” the latest single from her EP What I Feel Now. With a stripped-back stage and raw vocals, she turns ev"
   },
   {
-    "title": "Domain-Driven Design: Turbocharge video processing",
-    "link": "https://dev.to/mattleads/domain-driven-design-turbocharge-video-processing-164j",
-    "pubDate": "Tue, 07 Oct 2025 12:16:39 +0000",
+    "title": "Rick Beato: Hiromi: The Most Electrifying Pianist Alive",
+    "link": "https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3bca",
+    "pubDate": "Tue, 07 Oct 2025 18:09:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern app starts simple, then the business logic grows, gets tangled in the infrastructure, and before you know it, you’re wrestling an unmaintainable monolith. For complex, multi-step processes — li"
+    "contentSnippet": "Hiromi: The Most Electrifying Pianist Alive\n\n\nIn this lively interview, Japanese piano virtuoso Hiromi opens up about the spark behind her dazzling performances. She dives into her musical influences—"
   },
   {
-    "title": "What AI Taught Me About Sharing Context With Humans",
-    "link": "https://dev.to/saxmanjes/what-ai-taught-me-about-sharing-context-with-humans-1djc",
-    "pubDate": "Tue, 07 Oct 2025 12:16:28 +0000",
+    "title": "Academic-Scheduler.com: Revolutionary School Management System - Transform Your Institution Today!",
+    "link": "https://dev.to/muhammad-huzaifa/academic-schedulercom-revolutionary-school-management-system-transform-your-institution-today-292c",
+    "pubDate": "Tue, 07 Oct 2025 18:09:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The first time I asked an AI to “fix my code,” it gave me something that compiled… but made absolutely no sense.\nThe problem wasn’t the AI — it was me. I hadn’t told it what I was actually trying to d"
+    "contentSnippet": "Why Your Institution Needs This\nThe Problem We Solve\nComplete Feature Suite\nTechnology & Security\nReal Results & Benefits\nPricing & Packages\nSuccess Stories\nGet Started Today\nManaging a school or educ"
+  },
+  {
+    "title": "生成AIはネットワーク構築運用をどれだけ楽にするか？ Interop Tokyoでの実験が明かした現実と可能性。Cloud Operator Days Tokyo 2025基調講演ほか［PR］",
+    "link": "https://www.publickey1.jp/blog/25/ai_interop_tokyocloud_operator_days_tokyo_2025pr.html",
+    "pubDate": "2025-10-07T15:07:44.000Z",
+    "source": "Publickey",
+    "contentSnippet": "生成AIによるプログラミングの支援はすでに多くの開発現場で使われ始めています。ではクラウドやネットワークの運用の現場において、生成AIはどのくらい実用的に使えるのでしょうか？ クラウドの運用などにたずさわるシステム運用管理者に光を当てるイベント「Cloud Operator Days Tokyo 2025」（CODT2025）のクロージングイベントが9月5日に都内で開催され、基調講演に東京大学 情"
   },
   {
     "title": "良いテストとはなんだろう？ - （good code, bad codeより）",
@@ -193,7 +200,7 @@
     "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
     "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT",
     "source": "Zenn",
-    "contentSnippet": "!\n\n\n2025-10-07: システム全体の日本語化の補足、Public Keyの記事の追加、音声の再生が途切れる件の解消法の追記、ダッシュボードのサンプルが一部動作しなかったため cal → btopに変更、ウインドウのタブ化のバイディング設定の一部が間違っていたので修正、音声編集ソフトについて追記\n\n2025-10-06: 初版\n\n\n\n はじめに\n私は Mac がまだ “Macintosh”"
+    "contentSnippet": "!\n\n\n2025-10-08: 音声文字入力ソフト、ナチュラルスクロールについて追記\n\n2025-10-07: システム全体の日本語化の補足、Public Keyの記事の追加、音声の再生が途切れる件の解消法の追記、ダッシュボードのサンプルが一部動作しなかったため cal → btopに変更、ウインドウのタブ化のバイディング設定の一部が間違っていたので修正、音声編集ソフトについて追記\n\n2025-1"
   },
   {
     "title": "「世界の一流は『休日』に何をしているのか」を読んだ",
@@ -271,12 +278,5 @@
     "pubDate": "2025-09-30T15:28:55.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトは、Windows上でローカルAIを実行するための基盤となる「Windows ML」の正式版リリースを発表しました。 Windows ML is now generally availableWindows ML lets developers scale their AI-powered apps across a diverse Windows 11 ecosystem, all"
-  },
-  {
-    "title": "PostgreSQL 18正式リリース。非同期I/Oによる最大3倍の性能向上、UUID v7対応など",
-    "link": "https://www.publickey1.jp/blog/25/postgresql_18io3uuid_v7.html",
-    "pubDate": "2025-09-28T15:40:00.000Z",
-    "source": "Publickey",
-    "contentSnippet": "オープンソースのリレーショナルデータベース「PostgreSQL 18」正式版のリリースが発表されました（日本語版のプレスリリース）。 PostgreSQLはITエンジニアのコミュニティであるStackoverflowの調査で2023年にMySQLを抜いて以来、3年連続でITエンジニアに最も人気のあるデータベースとなっています。 非同期I/O処理の採用による性能向上 PostgreSQL 18で最"
   }
 ]

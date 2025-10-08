@@ -1,73 +1,73 @@
 [
   {
-    "title": "Pipe operator is coming to PHP !",
-    "link": "https://dev.to/thicha0/pipe-operator-is-coming-to-php--2838",
-    "pubDate": "Tue, 07 Oct 2025 18:32:12 +0000",
+    "title": "Robin Williams' daughter tells fans to stop sending AI-generated videos of late father",
+    "link": "https://dev.to/mabualzait/robin-williams-daughter-tells-fans-to-stop-sending-ai-generated-videos-of-late-father-f6i",
+    "pubDate": "Wed, 08 Oct 2025 01:44:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A new operator is coming to PHP: the pipe ! (|>)\nJust like in linux, you will now be able to chain multiple commands together.\nThis operator will help us make the code more readable and expressive.\nBe"
+    "contentSnippet": "The Dark Side of AI-Generated Content: A Cautionary Tale from Robin Williams' Daughter\n\n\nRecently, a heart-wrenching story has surfaced on social media, highlighting the unintended consequences of usi"
   },
   {
-    "title": "JSON Schema in the Wild: Real World Applications & HAL 🌍",
-    "link": "https://dev.to/vishdevwork/json-schema-in-the-wild-real-world-applications-hal-3m1l",
-    "pubDate": "Tue, 07 Oct 2025 18:30:00 +0000",
+    "title": "Robin Williams’ daughter Zelda hits out at AI-generated videos of her dead father: ‘stop doing this to him’",
+    "link": "https://dev.to/mabualzait/robin-williams-daughter-zelda-hits-out-at-ai-generated-videos-of-her-dead-father-stop-doing-this-3gpi",
+    "pubDate": "Wed, 08 Oct 2025 01:43:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Part 3 of 3: Where Theory Meets Production\nWelcome to the final part of our JSON Schema journey! We've covered the theory and implementation – now let's see how JSON Schema solves real problems in pro"
+    "contentSnippet": "The Dark Side of AI-Generated Content: Zelda Williams' Plea to Stop Exploiting Her Father's Legacy\n\n\nThe rise of artificial intelligence (AI) has brought about numerous innovations and advancements in"
   },
   {
-    "title": "Build a Perfect Blog with FastAPI: Full-Text Search for Posts",
-    "link": "https://dev.to/leapcell/build-a-perfect-blog-with-fastapi-full-text-search-for-posts-3955",
-    "pubDate": "Tue, 07 Oct 2025 18:28:19 +0000",
+    "title": "Robin Williams' daughter pleads for people to stop sending AI videos of her dad",
+    "link": "https://dev.to/mabualzait/robin-williams-daughter-pleads-for-people-to-stop-sending-ai-videos-of-her-dad-4cgm",
+    "pubDate": "Wed, 08 Oct 2025 01:41:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the previous article, we added an image upload feature to our blog posts.\nAs time goes on, you can imagine your blog has accumulated a significant number of articles. A new problem gradually emerge"
+    "contentSnippet": "The AI-Generated Videos that are Haunting Robin Williams' Family\n\n\nRecently, a disturbing trend has emerged online: AI-generated videos of the late Robin Williams are being created and sent to his fam"
   },
   {
-    "title": "💸 Day 7: Building an On-Chain IOU System with Solidity — Track and Settle Debts Securely",
-    "link": "https://dev.to/sauravkumar8178/day-7-building-an-on-chain-iou-system-with-solidity-track-and-settle-debts-securely-9lm",
-    "pubDate": "Tue, 07 Oct 2025 18:23:45 +0000",
+    "title": "Open Source Project Commercial Benchmarking: Technical Solution Comparison Between Litho and DeepWiki",
+    "link": "https://dev.to/sopaco/open-source-project-commercial-benchmarking-technical-solution-comparison-between-litho-and-40b1",
+    "pubDate": "Wed, 08 Oct 2025 01:33:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "💸 Day 7: Building an On-Chain IOU System with Solidity — Track and Settle Debts Securely\n\n\nHey builders 👋\nWelcome to Day 7 of my #30DaysOfSolidity journey!\non-chain IOU system for friends, small gro"
+    "contentSnippet": "As an open source project benchmarking against the commercial version DeepWiki from Davin, Litho (deepwiki-rs) forms distinct contrasts with the commercial product in technical architecture, functiona"
   },
   {
-    "title": "Building a Portfolio as well as an Elementor Library",
-    "link": "https://dev.to/rio_akram_m_653866db/building-a-portfolio-as-well-as-an-elementor-library-3c6a",
-    "pubDate": "Tue, 07 Oct 2025 18:14:21 +0000",
+    "title": "From Rust to Multi-Language: Litho's Plugin-Based Extensible Architecture Design",
+    "link": "https://dev.to/sopaco/from-rust-to-multi-language-lithos-plugin-based-extensible-architecture-design-b8b",
+    "pubDate": "Wed, 08 Oct 2025 01:29:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I am building a Portfolio website monetized with both Elementor template and Points to Access Ai Prompts and Components. Can anyone review or rate my work? \nhttp://rioakram.com/"
+    "contentSnippet": "As an automated documentation generation tool supporting 10+ programming languages, Litho's core advantage lies in its powerful plugin-based extensible architecture. This article provides an in-depth "
   },
   {
-    "title": "JWT vs OAuth 1.0 vs OAuth 2.0, What’s the Difference and When to Use Each?",
-    "link": "https://dev.to/navidreza80/jwt-vs-oauth-10-vs-oauth-20-whats-the-difference-and-when-to-use-each-3pl3",
-    "pubDate": "Tue, 07 Oct 2025 18:12:39 +0000",
+    "title": "Cost-Controllable AI Applications: Litho's Cache Optimization and Cost Control Strategies",
+    "link": "https://dev.to/sopaco/cost-controllable-ai-applications-lithos-cache-optimization-and-cost-control-strategies-2291",
+    "pubDate": "Wed, 08 Oct 2025 01:26:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "JWT vs OAuth 1.0 vs OAuth 2.0, What’s the Difference and When to Use Each?\nIn modern web development, authentication and authorization are critical. Whether you’re building a full-stack app, an API, o"
+    "contentSnippet": "In today's era of large-scale AI application deployment, cost control has become a core challenge for enterprise-level applications. Litho reduces LLM usage costs by 60-85% through innovative multi-le"
   },
   {
-    "title": "COLORS: Nono La Grinta | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-26ih",
-    "pubDate": "Tue, 07 Oct 2025 18:10:29 +0000",
+    "title": "[Book Review] Build a Large Language Model (From Scratch) by Sebastian Raschka",
+    "link": "https://dev.to/uponthesky/book-review-build-a-large-language-model-from-scratch-by-sebastian-raschka-1286",
+    "pubDate": "Wed, 08 Oct 2025 01:25:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Paris-based rapper Nono La Grinta spits every line with pinpoint precision and raw grit in his uncompromising A COLORS SHOW performance—no filters, just pure bars that hit hard.\nTrue to form, COLORSxS"
+    "contentSnippet": "TL; DR\n\n\n\nA very practical book to learn the general concepts of LLMs\n\n\nSaving tons of time from having to search for materials for many topics separately\nVery informative but somewhat intensive; must"
   },
   {
-    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3cfj",
-    "pubDate": "Tue, 07 Oct 2025 18:10:17 +0000",
+    "title": "Thinking About Switching to Omarchy — Is It Worth It?",
+    "link": "https://dev.to/shaq_attack/thinking-about-switching-to-omarchy-is-it-worth-it-3c3o",
+    "pubDate": "Wed, 08 Oct 2025 01:24:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Dutch-born SABRI pours heart and soul into her COLORS Show performance of “Sold Myself For Love,” the latest single from her EP What I Feel Now. With a stripped-back stage and raw vocals, she turns ev"
+    "contentSnippet": "Lately, I’ve been hearing about Omarchy, the workspace designed around using the keyboard as much as possible, minimizing the need for a mouse. As someone who’s always curious about more efficient way"
   },
   {
-    "title": "Rick Beato: Hiromi: The Most Electrifying Pianist Alive",
-    "link": "https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3bca",
-    "pubDate": "Tue, 07 Oct 2025 18:09:44 +0000",
+    "title": "The Pipeline Network: Generator Expressions and Comprehensions",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-pipeline-network-generator-expressions-and-comprehensions-3gn0",
+    "pubDate": "Wed, 08 Oct 2025 01:21:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hiromi: The Most Electrifying Pianist Alive\n\n\nIn this lively interview, Japanese piano virtuoso Hiromi opens up about the spark behind her dazzling performances. She dives into her musical influences—"
+    "contentSnippet": "Timothy had mastered generator functions with yield, but his latest task revealed an inefficiency. The head librarian needed a report showing titles of all books published after 2000, authored by Brit"
   },
   {
-    "title": "Academic-Scheduler.com: Revolutionary School Management System - Transform Your Institution Today!",
-    "link": "https://dev.to/muhammad-huzaifa/academic-schedulercom-revolutionary-school-management-system-transform-your-institution-today-292c",
-    "pubDate": "Tue, 07 Oct 2025 18:09:26 +0000",
+    "title": "Global Conversations and Digital Activism: The Legacy and Future of Blog Action Day in 2025",
+    "link": "https://dev.to/gooday_marlon_5cf7e1f4841/global-conversations-and-digital-activism-the-legacy-and-future-of-blog-action-day-in-2025-19b3",
+    "pubDate": "Wed, 08 Oct 2025 01:19:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why Your Institution Needs This\nThe Problem We Solve\nComplete Feature Suite\nTechnology & Security\nReal Results & Benefits\nPricing & Packages\nSuccess Stories\nGet Started Today\nManaging a school or educ"
+    "contentSnippet": "Since its inception in 2009, Blog Action Day has stood as a beacon for digital activism, uniting bloggers and digital creators worldwide to focus on a singular global issue each year. Originally desig"
   },
   {
     "title": "生成AIはネットワーク構築運用をどれだけ楽にするか？ Interop Tokyoでの実験が明かした現実と可能性。Cloud Operator Days Tokyo 2025基調講演ほか［PR］",
@@ -75,6 +75,13 @@
     "pubDate": "2025-10-07T15:07:44.000Z",
     "source": "Publickey",
     "contentSnippet": "生成AIによるプログラミングの支援はすでに多くの開発現場で使われ始めています。ではクラウドやネットワークの運用の現場において、生成AIはどのくらい実用的に使えるのでしょうか？ クラウドの運用などにたずさわるシステム運用管理者に光を当てるイベント「Cloud Operator Days Tokyo 2025」（CODT2025）のクロージングイベントが9月5日に都内で開催され、基調講演に東京大学 情"
+  },
+  {
+    "title": "「動けばOK」だった僕が2ヶ月のAPI実装研修を通して学んだこと",
+    "link": "https://zenn.dev/bita/articles/4a0d0f9af31110",
+    "pubDate": "Tue, 07 Oct 2025 06:31:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n\nこんにちは！株式会社ビットエー所属　25卒エンジニアのkonchanです。\n学生時代に数年間プログラミングを学び、「これで僕もWebアプリが作れるぜ！」と意気揚々と入社した僕を待っていたのは、4つのAPI実装研修課題でした。\n研修で実装した内容は、グループ会社の社内報サービス『ourly』の既存APIをRuby on Railsで再現する、というものでした。\n実装は、本番には影響しない"
   },
   {
     "title": "良いテストとはなんだろう？ - （good code, bad codeより）",
@@ -119,6 +126,13 @@
     "contentSnippet": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践ガイド\nAgent Builderについて調べて実際に触ってみたんですけど、なんかこれって単なる新ツールじゃなくて、けっこう本質的な転換点な気がしてるんです。\n\nAgent Builderって何？..."
   },
   {
+    "title": "『疾走する散文』法、AIと対話しないモノローグ法の発展形",
+    "link": "https://qiita.com/makotosaekit/items/f40f2f9917f81dd5714e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T19:44:13.000Z",
+    "source": "Qiita",
+    "contentSnippet": "疾走する散文法 (The Galloping Prose Method)\n先日公開した記事、AIと『対話しない』対話法、モノローグ法は、幸いにも多くの方々から反響をいただきました。AIを「命令する相手」から「思考の伴走者」へと変えるという提案に、共感の声を寄せていただき、..."
+  },
+  {
     "title": "Sora 2 API を触ってみた",
     "link": "https://zenn.dev/prgckwb/articles/openai-sora2-api",
     "pubDate": "Mon, 06 Oct 2025 19:26:20 GMT",
@@ -131,6 +145,13 @@
     "pubDate": "Mon, 06 Oct 2025 18:01:44 GMT",
     "source": "Zenn",
     "contentSnippet": "!\nこの記事は人力で書きました。\n\n\n tl;dr\n\nOpenAI DevDay 2025 がサンフランシスコで開催されたよ\nサンフランシスコ現地から情報をお送りするよ\nChatGPT 上で使える Apps SDK が公開されたよ（収益化の話も）\nAI Agent ワークフローを構築するための AgentKit が公開されたよ\n合わせてノーコードライクに操作できる Agent Builder も公"
+  },
+  {
+    "title": "SharePointの雑多なデータの山をナレッジエージェント（Copilot）で整理する",
+    "link": "https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T16:55:29.000Z",
+    "source": "Qiita",
+    "contentSnippet": "前提\nこの記事は2025/10/06時点での公開情報や動作を私なりにまとめたものとなります。\n正確な情報はご自身でご確認もしくはMicrosoftへお問い合わせください。\nまた、環境ごとにリリースタイミングが異なる点や、管理者により制御されている可能性がある点、ご留意くだ..."
   },
   {
     "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
@@ -152,13 +173,6 @@
     "pubDate": "Mon, 06 Oct 2025 15:03:47 GMT",
     "source": "Zenn",
     "contentSnippet": "!\n本記事は所属組織とは関係ない、個人の見解です。\nLLM登場以降、個人的にAIに触れ続け、数年間「AIエージェント」のようなものを作ってきた。\nその経験から、最近のAI社会実装について感じていること、そして日本におけるド短期の未来予想をまとめたものです。\n\n\n この1年で、何かが変わった\nAI開発の現場にいると、2024年から2025年にかけて、空気が変わったのを肌で感じる。\n以前は「どのベンダ"
-  },
-  {
-    "title": "AWS CDK 基礎知識まとめ",
-    "link": "https://qiita.com/j-yasukawa/items/8020fab836d4efbae8db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T08:01:50.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nAWS CDK (Cloud Development Kit)について、私が初めて学習した際に学んだ内容を備忘録としてまとめてみました。\nこの記事を読んでいただくことで、aws-cdkを使用してコードを書き始めるために必要な前提知識を身につけることができます。\n..."
   },
   {
     "title": "全プロセスが一秒止まる不具合続編: カーネル内部で何が起きたか？",
@@ -196,13 +210,6 @@
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n本記事ではその中のひとつ、OCRを使った経費申請アプリ を作ってみての学びを共有します。\nぜひご覧ください..."
   },
   {
-    "title": "“macOS→Omarchy”の移行ガイド",
-    "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
-    "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n\n\n2025-10-08: 音声文字入力ソフト、ナチュラルスクロールについて追記\n\n2025-10-07: システム全体の日本語化の補足、Public Keyの記事の追加、音声の再生が途切れる件の解消法の追記、ダッシュボードのサンプルが一部動作しなかったため cal → btopに変更、ウインドウのタブ化のバイディング設定の一部が間違っていたので修正、音声編集ソフトについて追記\n\n2025-1"
-  },
-  {
     "title": "「世界の一流は『休日』に何をしているのか」を読んだ",
     "link": "https://qiita.com/e99h2121/items/4101286762b9ad9fec03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-05T20:32:39.000Z",
@@ -229,13 +236,6 @@
     "pubDate": "2025-10-05T03:09:21.000Z",
     "source": "Qiita",
     "contentSnippet": "記事の執筆にあたってAIの補助を多分に利用しています。\n\nLLMが突然賢くなった理由を技術史から紐解く - 5つの革新とその影響度\n\nはじめに\n「ChatGPTってなんでこんなに賢いの？」と思ったことはありませんか？\n2022年末のChatGPT登場から約2年、LL..."
-  },
-  {
-    "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
-    "link": "https://qiita.com/minorun365/items/deb10c8e7a6b1219e595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-04T12:27:26.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事は人力で書きました。\n\nこのイベント用の手順書ですが、本記事を読めば1時間ぐらいで誰でも試せます！\n\nClaude Codeなど、AIエージェントを「使う」人はかなり増えてきました。\nもはや、AI使うのは全員やって当たり前。\n僕らは一歩進んで、AIエージェ..."
   },
   {
     "title": "AWSのナレッジを生成AIで参照できる「AWS Knowledge MCP Server」正式版が登場。公式のドキュメントやAPIリファレンス、アーキテクチャガイダンスなど情報源に",

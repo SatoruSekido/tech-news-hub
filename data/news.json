@@ -1,73 +1,94 @@
 [
   {
-    "title": "My First Week with Terraform: The Struggles Nobody Talks About (And How I Overcame Them)",
-    "link": "https://dev.to/arbythecoder/my-first-week-with-terraform-the-struggles-nobody-talks-about-and-how-i-overcame-them-4m32",
-    "pubDate": "Wed, 08 Oct 2025 12:47:51 +0000",
+    "title": "Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸",
+    "link": "https://dev.to/member_40446303/your-error-handling-is-a-mess-and-its-costing-you--5hen",
+    "pubDate": "Wed, 08 Oct 2025 18:19:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I still remember my first job application that required Terraform experience. I thought I had it figured out—after all, Infrastructure as Code sounded straightforward enough: write code, deploy infras"
+    "contentSnippet": "GitHub Home\nI still remember the bug that kept me up all night. A payment callback endpoint, when handling a rare, exceptional status code from a third-party payment gateway, had a .catch() that was a"
   },
   {
-    "title": "When Passion Becomes Commodity",
-    "link": "https://dev.to/ganonbit/when-passion-becomes-commodity-3fbj",
-    "pubDate": "Wed, 08 Oct 2025 12:47:47 +0000",
+    "title": "🔍 Understanding 6 Common Data Formats in Data Analytics (With Examples)",
+    "link": "https://dev.to/shrutti_kannan_4d6b7159e2/understanding-6-common-data-formats-in-data-analytics-with-examples-4mh7",
+    "pubDate": "Wed, 08 Oct 2025 18:16:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "There’s a particular kind of heartbreak that comes from watching something you love transform into something else entirely. For me—and for so many makers I know—that heartbreak centers around what our"
+    "contentSnippet": "When working in data analytics, we often need to store, share, and transform data in various formats. Each format has its own strengths, ideal use cases, and limitations. Whether you're wrangling data"
   },
   {
-    "title": "Which Cloud Providers Deliver the Best Support for Kimi K2 Deployments?",
-    "link": "https://dev.to/juliahenry/which-cloud-providers-deliver-the-best-support-for-kimi-k2-deployments-4jbh",
-    "pubDate": "Wed, 08 Oct 2025 12:45:32 +0000",
+    "title": "Hands-On with MongoDB: Performing CRUD Operations on a Student Collection 🎓",
+    "link": "https://dev.to/vishnupriya_k_678c3b9ea11/hands-on-with-mongodb-performing-crud-operations-on-a-student-collection-3855",
+    "pubDate": "Wed, 08 Oct 2025 18:15:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Leading cloud platforms for Kimi K2 model deployment include GMI Cloud, GroqCloud, Together AI, Moonshot AI (official platform), Baseten, and Groq’s inference infrastructure. These platforms provide s"
+    "contentSnippet": "As part of learning MongoDB, I decided to practice CRUD operations (Create, Read, Update, Delete) using a simple student collection. This hands-on approach helped me understand how MongoDB handles dat"
   },
   {
-    "title": "Desk Height Myths Debunked: Setting Yours Right",
-    "link": "https://dev.to/rashedalmaktoum/desk-height-myths-debunked-setting-yours-right-2l80",
-    "pubDate": "Wed, 08 Oct 2025 12:42:46 +0000",
+    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-730",
+    "pubDate": "Wed, 08 Oct 2025 18:08:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever set up a new workspace, you’ve probably found yourself guessing the right desk height. Most people assume there’s a “standard” height that works for everyone. The truth? There isn’t. Ju"
+    "contentSnippet": "Dutch-born artist SABRI pours heart and soul into her COLORS performance of “Sold Myself For Love,” the lead single from her new EP What I Feel Now. Her intimate vocals and stripped-down visuals let e"
   },
   {
-    "title": "How Solana Generated $2.85B in a Year - A Look at the Tech Behind the Revenue",
-    "link": "https://dev.to/dan_keller/how-solana-generated-285b-in-a-year-a-look-at-the-tech-behind-the-revenue-3ekk",
-    "pubDate": "Wed, 08 Oct 2025 12:41:32 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j4g",
+    "pubDate": "Wed, 08 Oct 2025 18:08:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the past 12 months, Solana has generated an impressive $2.85 billion in on-chain revenue, according to data from 21Shares — that's 220x more than two years ago. While headlines focus on the raw num"
+    "contentSnippet": "Nono La Grinta – “LOVE YOU” on A COLORS SHOW\n\n\nParis-based rapper Nono La Grinta brings pure grit and precision to his new track “LOVE YOU,” serving up each line with that raw energy we can’t get enou"
   },
   {
-    "title": "Building a Strong Pharma Brand: Strategies for Market Recognition",
-    "link": "https://dev.to/alan-wood/building-a-strong-pharma-brand-strategies-for-market-recognition-10n4",
-    "pubDate": "Wed, 08 Oct 2025 12:41:27 +0000",
+    "title": "Xperience Community: Essentials",
+    "link": "https://dev.to/vhugogarcia/xperience-community-essentials-2e9p",
+    "pubDate": "Wed, 08 Oct 2025 18:07:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s highly competitive pharmaceutical industry, establishing a robust brand is more than a marketing exercise - it is a strategic imperative. A well-defined brand elevates your company above co"
+    "contentSnippet": "If you work with Xperience by Kentico, you know how much repetitive code can pile up across projects. From text manipulation and encryption to URL handling and localization, the small things add up fa"
   },
   {
-    "title": "The AI Revolution: Capabilities, Concerns, and Global Tech Outlook",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/the-ai-revolution-capabilities-concerns-and-global-tech-outlook-50b",
-    "pubDate": "Wed, 08 Oct 2025 12:41:07 +0000",
+    "title": "KEXP: Babe Rainbow - What is ashwagandha (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-what-is-ashwagandha-live-on-kexp-52hp",
+    "pubDate": "Wed, 08 Oct 2025 18:07:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 AI Breakthroughs & Development\n\n\n• Google DeepMind introduces Gemini, an AI model enabling human-like computer interaction and task execution.\nPathway, founded by scientists, reports a significant "
+    "contentSnippet": "Babe Rainbow dropped by KEXP on August 14, 2025, to lay down a mellow live take of “What is ashwagandha” in the Seattle studio. Fronted by Angus Dowling (vocals), Jack Crowther (guitar), Elliot O’Reil"
   },
   {
-    "title": "Mastering RAG: Beyond Simple Retrieval-Augmented Generation",
-    "link": "https://dev.to/saibhargav/mastering-rag-beyond-simple-retrieval-augmented-generation-3h6k",
-    "pubDate": "Wed, 08 Oct 2025 12:39:12 +0000",
+    "title": "KEXP: Babe Rainbow - Sunday (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-4dgj",
+    "pubDate": "Wed, 08 Oct 2025 18:07:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nRetrieval-Augmented Generation (RAG) has emerged as one of the most transformative approaches in modern AI, bridging the gap between large language models and real-world knowledge syste"
+    "contentSnippet": "Babe Rainbow rolled into the KEXP studio on August 14, 2025, for a laid-back live take on “Sunday,” featuring Angus Dowling’s smooth vocals, Jack Crowther’s guitar, Elliot O’Reilly’s bass grooves and "
   },
   {
-    "title": "What Happens if We Get Hacked? A Transparent Look at the Musical Chairs Security Model",
-    "link": "https://dev.to/crow004/what-happens-if-we-get-hacked-a-transparent-look-at-the-musical-chairs-security-model-4mip",
-    "pubDate": "Wed, 08 Oct 2025 12:33:42 +0000",
+    "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1opa",
+    "pubDate": "Wed, 08 Oct 2025 18:07:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the world of Web3, trust isn't given; it's built. And a huge part of that trust comes from a project's security model. When you're building a game that handles user funds, you can't just hope for t"
+    "contentSnippet": "Babe Rainbow took over the KEXP studio on August 14, 2025, to deliver a sun-soaked live rendition of “Aquarium Cowgirl.” Fronted by Angus Dowling’s soaring vocals and anchored by Jack Crowther’s guita"
   },
   {
-    "title": "Zustand — no need to manually write the store interface anymore!",
-    "link": "https://dev.to/suhaotian/zustand-no-need-to-manually-write-the-store-interface-anymore-4m6",
-    "pubDate": "Wed, 08 Oct 2025 12:30:56 +0000",
+    "title": "Resilience in Leadership — My Project Management Journey",
+    "link": "https://dev.to/chimannamadim/resilience-in-leadership-my-project-management-journey-2p39",
+    "pubDate": "Wed, 08 Oct 2025 18:07:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Before:\ninterface BearState {\n  bears: number\n  increase: (by: number) => void\n}\n\nconst useBearStore = create<BearState>()((set) => ({\n  bears: 0,\n  increase: (by) => set((state) => ({ bears: state.be"
+    "contentSnippet": "✨ In 2021, two milestones collided — one personal and one professional.\nThat year, I got married in August — and around the same time, as a Project Manager at RS Engineering Global Limited, my team wo"
+  },
+  {
+    "title": "「Diaブラウザ」正式版に、誰でもダウンロード可能。AI時代の業務のためのブラウザを目指す",
+    "link": "https://www.publickey1.jp/blog/25/diaai.html",
+    "pubDate": "2025-10-08T15:05:27.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Arcブラウザで知られるThe Browser Companyが新たに開発しているブラウザ「Diaブラウザ」が正式版となり、誰でもダウンロード可能となりました。 macOS 14以降のOSおよびM1チップ以降のプロセッサを搭載したMacで利用可能です。 Less invites, more ships.Dia is now open to everyone on macOS.Download no"
+  },
+  {
+    "title": "「React Foundation」をメタ、マイクロソフト、Vercelらが設立へ。ReactやReact Nativeの中立的な開発主体として",
+    "link": "https://www.publickey1.jp/blog/25/react_foundationvercelreactreact_native.html",
+    "pubDate": "2025-10-08T15:04:16.000Z",
+    "source": "Publickey",
+    "contentSnippet": "代表的なJavaScriptライブラリのひとつとして知られる「React」の開発チームは、ReactやReact Nativeなどの開発を主導する新たな独立組織「React Foundation」の設立を発表しました。 設立時の企業メンバーにはMeta、マイクロソフト、Vercel、Amazon Developerなどが名前を連ねています。 もともとMeta/Facebookが開発したReact "
+  },
+  {
+    "title": "「State of JavaScript 2025」の投票がスタート、仕事や趣味でJavaScriptを使っている人は誰でも回答可能",
+    "link": "https://www.publickey1.jp/blog/25/state_of_javascript_2025javascript.html",
+    "pubDate": "2025-10-08T15:00:57.000Z",
+    "source": "Publickey",
+    "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
   },
   {
     "title": "OpenAI DevDay 2025レポート：OpenAIが創る「AI OS」構想！",
@@ -75,6 +96,13 @@
     "pubDate": "2025-10-08T02:15:09.000Z",
     "source": "Qiita",
     "contentSnippet": "みなさんこんにちは。私は株式会社ulusageの、技術ブログ生成AIです！\n久しぶりの投稿になってしまいました。\n今回は、先日の OpenAI DevDay 2025 における発表をもとに、技術視点で読み解いた記事をお届けします。発表された新技術の概要だけでなく、開発者とし..."
+  },
+  {
+    "title": "Rustでセキュリティsandboxツールを作った",
+    "link": "https://zenn.dev/techlead/articles/2025-10-05-rust-sandbox-tool-mori",
+    "pubDate": "Wed, 08 Oct 2025 00:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nども\n最近、仕事場にClaude Codeを導入して、チームのパフォーマンスが爆増して仕事が減ってきたゴリラです。\nClaude Codeを導入する際に便利なMCP(serenaやcontext7、playwrightなど)をいくつか入れたんですが、セキュリティちゃんとしないとねという話しになり、それがきっかけでセキュリティsandboxツールのmoriを作った話しです。\n\nhttps:"
   },
   {
     "title": "Oracle Cloud MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
@@ -91,11 +119,25 @@
     "contentSnippet": "生成AIによるプログラミングの支援はすでに多くの開発現場で使われ始めています。ではクラウドやネットワークの運用の現場において、生成AIはどのくらい実用的に使えるのでしょうか？ クラウドの運用などにたずさわるシステム運用管理者に光を当てるイベント「Cloud Operator Days Tokyo 2025」（CODT2025）のクロージングイベントが9月5日に都内で開催され、基調講演に東京大学 情"
   },
   {
+    "title": "【Zenn最速！？】OpenAIのAgent Builder・Chatkitのデプロイを試してみた！",
+    "link": "https://zenn.dev/atoy0m0/articles/7b3d7d99a6bb33",
+    "pubDate": "Tue, 07 Oct 2025 12:55:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n日本時間の10月7日、朝起きたらOpenAIから衝撃の数々が発表されましたね。\n今回はZenn最速(！？)で、Agent BuilderおよびChatkitのデプロイを試してみた！と書きたい想いが先行した、検証記事でございます。\n結論だけ書きますと、Agent Builderで発行するWORKFLOW_IDをChatkitに埋め込んでアプリを実行するという感じでした。\n\n OpenAI公"
+  },
+  {
     "title": "2600億回のモンテカルロを14秒で：Rust×rayon×SIMDで並列化してみた",
     "link": "https://zenn.dev/yua134/articles/montecarlo-pi",
     "pubDate": "Tue, 07 Oct 2025 11:00:01 GMT",
     "source": "Zenn",
     "contentSnippet": "1. 導入 🦀\nモンテカルロ法はシンプルながらも膨大な試行回数を必要とするアルゴリズムです。数十億、数百億といった規模になると、素朴な実装では到底現実的な時間で終わりません。\n今回はこのモンテカルロ法で円周率を推定しようと試みました。\n今回取り組んだ末に得たものは「2600億回の試行を14秒で終わらせる」でした。Rustの安全性と低レベル最適化の両立、そして並列化のためのrayon、さらにCPU"
+  },
+  {
+    "title": "GitHubの依存アップデートPRをまとめて捌くCLI拡張「gh-dep」を作りました",
+    "link": "https://zenn.dev/jackchuka/articles/65592ccfb8c548",
+    "pubDate": "Tue, 07 Oct 2025 10:59:33 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TL;DR\n\n依存アップデート PR のレビューを効率化する GitHub CLI 拡張を作りました\nInstall は簡単 gh extension install jackchuka/gh-dep\n\n使い方は gh dep --owner <owner> と打つだけ\n検索機能でまとめて Approve (& merge) できます\nGitHub Star ⭐ 記事 ♥️ もらえると喜びます！\n"
   },
   {
     "title": "【binaryまで読んで理解する】Javaでゼロから作るgit add",
@@ -137,7 +179,7 @@
     "link": "https://zenn.dev/mokume1shine/articles/434cd1ff53803e",
     "pubDate": "Mon, 06 Oct 2025 22:59:31 GMT",
     "source": "Zenn",
-    "contentSnippet": "!\nもうちょっと内容は更新予定です。\nコメントありがとうございます。\n追加検討の材料にさせていただきます。\n\n「Gitは最悪のバージョン管理システムである、ほかに使われたバージョン管理システムを除いては。」というのはチャーチルの言ってない名言です。\nバージョン管理から逃れることはできません、逃げた先には約束された破滅が待っているのですから。\nバージョン管理システムは、誰が何をどう変更したのかを記録"
+    "contentSnippet": "!\nもうちょっと内容は更新予定です。\nまた、意図的に断言する表現になっている部分があります。ご了承ください。\nコメントありがとうございます。追加検討の材料にさせていただきます。\n\n\n 20周年記念にGitを嫌いになろう\n\nGitは最悪のバージョン管理システムである、ほかに使われたバージョン管理システムを除いては。\n\nというのはチャーチルの言ってない名言です。\nバージョン管理から逃れることはできませ"
   },
   {
     "title": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips",
@@ -182,32 +224,11 @@
     "contentSnippet": "前提\nこの記事は2025/10/06時点での公開情報や動作を私なりにまとめたものとなります。\n正確な情報はご自身でご確認もしくはMicrosoftへお問い合わせください。\nまた、環境ごとにリリースタイミングが異なる点や、管理者により制御されている可能性がある点、ご留意くだ..."
   },
   {
-    "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
-    "link": "https://zenn.dev/tmasuyama1114/books/claude_code_basic",
-    "pubDate": "Mon, 06 Oct 2025 15:41:50 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\n\n「Claude Codeって何？」「AIで本当にコードが書けるの？」と思ったことはありませんか？\n\nこの本では Claued Code を使ったAI駆動開発の基本を 1日で身につけることができます。\n\n【こんな方におすすめ】\n・AI開発ツールに興味はあるけど、どこから始めていいかわからない\n・Claude Codeをインストールしたけど、使い方がよくわからない\n・開発作"
-  },
-  {
     "title": "次期MCP（Model Context Protocol）では非同期操作、ステートレス、公式のプロトコル拡張などサポート",
     "link": "https://www.publickey1.jp/blog/25/mcpmodel_context_protocol.html",
     "pubDate": "2025-10-06T15:29:56.000Z",
     "source": "Publickey",
     "contentSnippet": "Anthropicがオープンソースとして仕様を作成しているMCP（Model Context Protocol）は、今年（2025年）11月にアップデートを予定しています（MCPはこれまでにも、2025年3月、6月とアップデートが行われています）。 現在どのようなアップデートが検討されているのかが、MCP公式サイトのブログ記事「Update on the Next MCP Protocol Rel"
-  },
-  {
-    "title": "Build, Don't Buy — 2026年、AIエージェントは内製する時代へ",
-    "link": "https://zenn.dev/satoshissss/articles/5be253a330896c",
-    "pubDate": "Mon, 06 Oct 2025 15:03:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n本記事は所属組織とは関係ない、個人の見解です。\nLLM登場以降、個人的にAIに触れ続け、数年間「AIエージェント」のようなものを作ってきた。\nその経験から、最近のAI社会実装について感じていること、そして日本におけるド短期の未来予想をまとめたものです。\n\n\n この1年で、何かが変わった\nAI開発の現場にいると、2024年から2025年にかけて、空気が変わったのを肌で感じる。\n以前は「どのベンダ"
-  },
-  {
-    "title": "全プロセスが一秒止まる不具合続編: カーネル内部で何が起きたか？",
-    "link": "https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b",
-    "pubDate": "Mon, 06 Oct 2025 08:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n完全自動運転の実現を目指すスタートアップ「チューリング」でエンジニアをしています、鈴木勝博です。私が所属しているDrivingSystemチームでは、自動運転向けのシステム開発を担当しています。\nLinuxを用いたシステム開発を行っていると、カーネルの挙動、周辺デバイスとの組み合わせ等によって、思いがけない問題に遭遇することが少なくありません。この記事では、実際にシステム開発中に遭遇した"
   },
   {
     "title": "KPTのように形骸化させない。OODAループを“再現性ある習慣”にした現場の工夫とAI連携",
@@ -257,26 +278,5 @@
     "pubDate": "2025-10-01T16:01:34.000Z",
     "source": "Publickey",
     "contentSnippet": "主要なWebブラウザで安定して利用できるWeb標準としてラベル付けされる「Baseline」に、「dns-prefetch」が入ったことが発表されました。 外部ドメインの名前解決をあらかじめ実行 通常、HTML内で外部ドメインなどへのリンクが記述されている場合、リンクがクリックされた時点など、そのリンクへの参照が開始される場面でドメイン名の名前解決が行われ、接続が開始されます。 一方で、今回Bas"
-  },
-  {
-    "title": "マイクロソフト、ワンクリックで本番環境に対応したKubernetesクラスタを簡単にデプロイ、「Azure Kubernetes Service Automatic」正式リリース",
-    "link": "https://www.publickey1.jp/blog/25/kubernetesazure_kubernetes_service_automatic.html",
-    "pubDate": "2025-10-01T15:57:29.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは、Kubernetesを用いたクラスタの最適な構築と運用を自動的に実現してくれる新サービス「Azure Kubernetes Service Automatic」（AKS Automatic）正式版をリリースしました。 Introducing AKS Automatic—the fastest path to production for AI and cloud-native a"
-  },
-  {
-    "title": "Googleドライブに新機能、AIによるランサムウェア検出と復元機能を統合、Windows/macOS版で",
-    "link": "https://www.publickey1.jp/blog/25/googleaiwindowsmacos.html",
-    "pubDate": "2025-09-30T15:31:16.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Googleは、WindowsとmacOSに対応したデスクトップ版Googleドライブの新機能として、AIを用いたリアルタイムのランサムウェアの検出機能と、感染したファイルを感染前のバージョンに戻す復元機能を9月30日からベータ公開すると発表しました。 ランサムウェアの検出とファイルの復元をGoogle Driveに統合 従来のランサムウェア対策として一般的に用いられているアンチウイルスソフトウェ"
-  },
-  {
-    "title": "Windows上でローカルAIの実行基盤となる「Windows ML」正式版に。CPU/GPU/NPUなどのハードウェアを抽象化した上でさまざまなAIモデルを実行",
-    "link": "https://www.publickey1.jp/blog/25/windowsaiwindows_mlcpugpunpuai.html",
-    "pubDate": "2025-09-30T15:28:55.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは、Windows上でローカルAIを実行するための基盤となる「Windows ML」の正式版リリースを発表しました。 Windows ML is now generally availableWindows ML lets developers scale their AI-powered apps across a diverse Windows 11 ecosystem, all"
   }
 ]

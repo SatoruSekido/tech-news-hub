@@ -1,80 +1,80 @@
 [
   {
-    "title": "Windows: container Windows + container Linux (& VI)",
-    "link": "https://dev.to/elferrer/windows-container-windows-container-linux-vi-1bjg",
-    "pubDate": "Thu, 09 Oct 2025 12:50:25 +0000",
+    "title": "AWS IAM ACCESS ANALYSIS & REPORTS",
+    "link": "https://dev.to/ntsezenelvis/aws-iam-access-analysis-reports-31pc",
+    "pubDate": "Thu, 09 Oct 2025 18:23:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Índice\n\n\n\nSección primera (básico):\n\n\nDocker en Windows. Apartado I: Instalar WSL2 (y Docker).\nDocker en Windows. Apartado II: Instalar Docker en Windows 11.\nSección segunda (avanzado):\n\n\nDocker en Wi"
+    "contentSnippet": "AWS IAM ACCESS ANALYSIS & REPORTS Deep Dive\n\n\n\n  \n  \n  aws #iam #security #devops\n\n\n📌 This article is part of the AWS IAM Deep Dive series.  \nPart 1: IAM Users Deep Dive\n\n\nPart 2: IAM Groups Deep Div"
   },
   {
-    "title": "Windows: container Windows + container Linux (V)",
-    "link": "https://dev.to/elferrer/windows-container-windows-container-linux-v-2bcn",
-    "pubDate": "Thu, 09 Oct 2025 12:49:50 +0000",
+    "title": "Vector's VRL introduction (chapter 1)",
+    "link": "https://dev.to/amarao/vectors-vrl-introduction-chapter-1-30p1",
+    "pubDate": "Thu, 09 Oct 2025 18:16:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Índice\n\n\n\nSección primera (básico):\n\n\nDocker en Windows. Apartado I: Instalar WSL2 (y Docker).\nDocker en Windows. Apartado II: Instalar Docker en Windows 11.\nSección segunda (avanzado):\n\n\nDocker en Wi"
+    "contentSnippet": "Preface\n\n\nThere is a program to process events (metrics, logs, traces) from different sources (files, scripts, scraping, HTTP servers, syslogs, etc.) into different sinks (Prometheus exporter, remote "
   },
   {
-    "title": "Windows: container Windows + container Linux (IV)",
-    "link": "https://dev.to/elferrer/windows-container-windows-container-linux-iv-51eo",
-    "pubDate": "Thu, 09 Oct 2025 12:49:17 +0000",
+    "title": "LinkedIn SDE Virtual Onsite Experience: Acing Medium-Level Questions + Efficient Prep Tips",
+    "link": "https://dev.to/net_programhelp_e160eef28/linkedin-sde-virtual-onsite-experience-acing-medium-level-questions-efficient-prep-tips-1250",
+    "pubDate": "Thu, 09 Oct 2025 18:12:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Índice\n\n\n\nSección primera (básico):\n\n\nDocker en Windows. Apartado I: Instalar WSL2 (y Docker).\nDocker en Windows. Apartado II: Instalar Docker en Windows 11.\nSección segunda (avanzado):\n\n\nDocker en Wi"
+    "contentSnippet": "I recently completed the LinkedIn SDE Virtual Onsite , which lasted roughly 1 hour. The core of the interview focused on Coding + In-depth Project Discussion, with all questions at the LeetCode Medium"
   },
   {
-    "title": "Windows: container Windows + container Linux (III)",
-    "link": "https://dev.to/elferrer/windows-container-windows-container-linux-iii-4np9",
-    "pubDate": "Thu, 09 Oct 2025 12:48:38 +0000",
+    "title": "How to Safely Set Up & Optimize Adobe Photoshop CC (Official Tips)",
+    "link": "https://dev.to/softguide321/how-to-safely-set-up-optimize-adobe-photoshop-cc-official-tips-1fb6",
+    "pubDate": "Thu, 09 Oct 2025 18:12:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Índice\n\n\n\nSección primera (básico):\n\n\nDocker en Windows. Apartado I: Instalar WSL2 (y Docker).\nDocker en Windows. Apartado II: Instalar Docker en Windows 11.\nSección segunda (avanzado):\n\n\nDocker en Wi"
+    "contentSnippet": "Adobe Photoshop CC is a powerhouse — but it can feel slow or clunky if not configured for your machine. I wrote a practical, beginner-friendly guide that walks you through safe, official steps to inst"
   },
   {
-    "title": "Windows: container Windows + container Linux (II)",
-    "link": "https://dev.to/elferrer/windows-container-windows-container-linux-ii-5bhg",
-    "pubDate": "Thu, 09 Oct 2025 12:48:05 +0000",
+    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2ikf",
+    "pubDate": "Thu, 09 Oct 2025 18:10:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Índice\n\n\n\nSección primera (básico):\n\n\nDocker en Windows. Apartado I: Instalar WSL2 (y Docker).\nDocker en Windows. Apartado II: Instalar Docker en Windows 11.\nSección segunda (avanzado):\n\n\nDocker en Wi"
+    "contentSnippet": "SABRI – “Sold Myself For Love” on A COLORS SHOW\n\n\nDutch-born songstress SABRI pours her heart out on COLORS’ signature minimalist stage with her latest single “Sold Myself For Love,” lifted from her n"
   },
   {
-    "title": "Windows: container Windows + container Linux (I)",
-    "link": "https://dev.to/elferrer/windows-container-windows-container-linux-i-54ce",
-    "pubDate": "Thu, 09 Oct 2025 12:47:46 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-5dee",
+    "pubDate": "Thu, 09 Oct 2025 18:10:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Índice\n\n\n\nSección primera (básico):\n\n\nDocker en Windows. Apartado I: Instalar WSL2 (y Docker).\nDocker en Windows. Apartado II: Instalar Docker en Windows 11.\nSección segunda (avanzado):\n\n\nDocker en Wi"
+    "contentSnippet": "Paris-based rapper Nono La Grinta tears into “LOVE YOU” with razor-sharp flow and raw grit on A COLORS SHOW, previewing a taste of his upcoming debut project. His uncompromising delivery cuts through "
   },
   {
-    "title": "Connect to the on-premises NetApp drive (CIFS share) from Azure Logic Apps without any data gateway",
-    "link": "https://dev.to/ankit-gupta-csa/connect-to-the-on-premises-netapp-drive-cifs-share-from-azure-logic-apps-without-any-data-gateway-42k7",
-    "pubDate": "Thu, 09 Oct 2025 12:45:48 +0000",
+    "title": "KEXP: Babe Rainbow - Sunday (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-2cb3",
+    "pubDate": "Thu, 09 Oct 2025 18:09:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "NetApp’s Network Attached Storage (NAS) solutions have gained significant popularity recently due to their advanced features, scalability, and ability to address modern data storage challenges effecti"
+    "contentSnippet": "Babe Rainbow rocked the KEXP studio on August 14, 2025, laying down a live take of “Sunday” with Angus Dowling on vocals, Jack Crowther on guitar, Elliot O’Reilly on bass and Timon Martin on drums. Th"
   },
   {
-    "title": "How to Configure Alert in Azure",
-    "link": "https://dev.to/adeyemo/how-to-configure-alert-in-azure-30bp",
-    "pubDate": "Thu, 09 Oct 2025 12:45:10 +0000",
+    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-31",
+    "pubDate": "Thu, 09 Oct 2025 18:09:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nThis guide walks you through configuring alerts for Azure compute services, with a focus on tracking virtual machine (VM) performance and ensuring notifications reach the right people at "
+    "contentSnippet": "Hunx and His Punx Live on KEXP\n\n\nOn August 26, 2025, KEXP welcomed Hunx and His Punx for a raw, high-energy studio take on “Alone In Hollywood On Acid.” Frontman Seth Bogart leads the charge on vocals"
   },
   {
-    "title": "PARAMETRIC AND NON-PARAMETRIC TESTS",
-    "link": "https://dev.to/njeri_kimaru/parametric-and-non-parametric-tests-4k1a",
-    "pubDate": "Thu, 09 Oct 2025 12:43:34 +0000",
+    "title": "KEXP: Hunx and His Punx - No Way Out (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-1k8h",
+    "pubDate": "Thu, 09 Oct 2025 18:09:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Parametric Tests\n\n\nAssume your data follows a specific distribution — usually a normal distribution (bell-shaped curve).\nThe data is normally distributed\n\n\nThe sample size is large enough\n\n\nData is me"
+    "contentSnippet": "Hunx and His Punx tore into “No Way Out” live in the KEXP studio on August 26, 2025. Fronted by Seth Bogart (vocals, guitar) and backed by Alana Amram, Shannon Shaw, Erin Emslie and Jose Boyer, the pe"
   },
   {
-    "title": "Automate Shopify Product Imports with Admin API Using Python or Node.js",
-    "link": "https://dev.to/lucy1/automate-shopify-product-imports-with-admin-api-using-python-or-nodejs-300j",
-    "pubDate": "Thu, 09 Oct 2025 12:41:16 +0000",
+    "title": "KEXP: Hunx and His Punx - Full Performance (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3o9j",
+    "pubDate": "Thu, 09 Oct 2025 18:09:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nManually uploading hundreds of products to Shopify is slow, error-prone, and exhausting. Fortunately, with Shopify Admin API, you can automate this process entirely, including adding pr"
+    "contentSnippet": "Hunx and His Punx – Live on KEXP\n\nOn August 26, 2025, Hunx and His Punx stormed the KEXP studio with four high-octane tracks—Alone In Hollywood On Acid, Wild Boys, Mud In Your Eyes and No Way Out. Set"
   },
   {
-    "title": "Playwright Test Agentsを試してみた〜AIはテスト計画、コード生成、自動修復をどこまでできるのか？",
-    "link": "https://zenn.dev/ubie_dev/articles/46ede677ba9a95",
-    "pubDate": "Thu, 09 Oct 2025 06:05:53 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n\n本記事はClaude Code（AI）がMayとの共同作業の内容をまとめたものです\n新しい技術の情報を早くお届けすることを優先して執筆しています\n記事中の見解や評価はClaude Code（AI）によるものであり、May個人やUbie株式会社の公式見解を代表するものではありません\n\n\nこんにちは、Claude Codeです。\n私はAnthropicが開発したAIアシスタントで、コーディングや"
+    "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",
+    "link": "https://www.publickey1.jp/blog/25/googlegemini_enterpriseofficesalesforcesapjira.html",
+    "pubDate": "2025-10-09T15:04:58.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
   },
   {
     "title": "MCPツール棚卸しによるClaude Codeのコンテキスト最適化",
@@ -147,13 +147,6 @@
     "contentSnippet": "検証研究目的です。悪用はしないでください\n\n倍速視聴推奨\n\n今回の検証で7円溶かしました😭クラウド破産不可避\n\nこの記事でやること\nGoogleのGemini 2.5 Computer Use（プレビュー）用サンプルをWindowsで動かし、AIエージェントにQi..."
   },
   {
-    "title": "LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介",
-    "link": "https://zenn.dev/kuto5046/articles/agentic_rl_2025",
-    "pubDate": "Wed, 08 Oct 2025 12:23:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n本記事では、LLM研究で注目を集めるエージェント型強化学習（Agentic Reinforcement Learning、Agentic RL）のサーベイ論文\n「The Landscape of Agentic Reinforcement Learning for LLMs: A Survey」[1]を読み、私なりの理解と要点を整理して紹介します。500件以上の文献を引用するボリュームの"
-  },
-  {
     "title": "簡易な正規表現エンジンを実装する",
     "link": "https://zenn.dev/gatechnologies/articles/a1cdc8ee299c25",
     "pubDate": "Wed, 08 Oct 2025 11:27:45 GMT",
@@ -173,6 +166,13 @@
     "pubDate": "2025-10-08T08:05:17.000Z",
     "source": "Qiita",
     "contentSnippet": "軽量ワークフローエンジンを検討する機会があったので、記載しました。\n※ Prefect Cloudはスコープ外です。\n\nPrefectとは\n\nPythonベースのオープンソースのワークフローオーケストレーションツールです。\n関数にデコレータを付けるだけでフローやタスクを..."
+  },
+  {
+    "title": "GitHub Private repo で XCFramework を配布する",
+    "link": "https://zenn.dev/d_date/articles/8b6ded8fdd2403",
+    "pubDate": "Wed, 08 Oct 2025 06:52:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "ソースコードを開示せずにユーザーにXCFrameworkを配布する一番の方法はXCFrameworkをSwift Package Managerで配布することです。\nこの記事は、配布する側の立場で陥りやすい罠とその回避方法をまとめたものです。\nやってみたけどハマってしまった場合に読んでみたり、罠にハマる前に勉強しておきたい方は読んでみてください。\nまた、CocoaPodsからSwift Packa"
   },
   {
     "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",
@@ -201,6 +201,13 @@
     "pubDate": "Wed, 08 Oct 2025 02:49:39 GMT",
     "source": "Zenn",
     "contentSnippet": "Codex\nCodexを使ってリポジトリの小さなリファクタリングを自動化しながら、Pull Requestのタイトルと説明文までまとめて生成する方法を紹介します。自動化の狙いは、レビュー前に整った説明を添えることで手戻りを減らすことです。\n\n\n 背景と目的\n日常的にSwiftやObjective Cの修正を繰り返す中で、細かなリファクタリングを積み重ねる作業は単調になりがちです。生成AIに任せられ"
+  },
+  {
+    "title": "Rustでセキュリティsandboxツールを作った",
+    "link": "https://zenn.dev/techlead/articles/2025-10-05-rust-sandbox-tool-mori",
+    "pubDate": "Wed, 08 Oct 2025 00:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nども\n最近、仕事場にClaude Codeを導入して、チームのパフォーマンスが爆増して仕事が減ってきたゴリラです。\nClaude Codeを導入する際に便利なMCP(serenaやcontext7、playwrightなど)をいくつか入れたんですが、セキュリティちゃんとしないとねという話しになり、それがきっかけでセキュリティsandboxツールのmoriを作った話しです。\n\nhttps:"
   },
   {
     "title": "MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-02T15:51:37.000Z",
     "source": "Publickey",
     "contentSnippet": "LearningTechnologiesは、Node.jsによるサーバサイドJavaScriptの実行環境とコードエディタなどの開発環境をWebAssemblyを用いてWebブラウザ上で実行可能にした「BrowserPod」を発表しました。 これによりサーバと接続することなく、WebブラウザだけでフルスタックのWebアプリケーション開発が可能になります。下記の画面にあるように、ViteやSvelt"
-  },
-  {
-    "title": "外部リンクへの接続などを高速化する「dns-prefetch」、安定して使えるWeb標準「Baseline」に",
-    "link": "https://www.publickey1.jp/blog/25/dns-prefetchwebbaseline.html",
-    "pubDate": "2025-10-01T16:01:34.000Z",
-    "source": "Publickey",
-    "contentSnippet": "主要なWebブラウザで安定して利用できるWeb標準としてラベル付けされる「Baseline」に、「dns-prefetch」が入ったことが発表されました。 外部ドメインの名前解決をあらかじめ実行 通常、HTML内で外部ドメインなどへのリンクが記述されている場合、リンクがクリックされた時点など、そのリンクへの参照が開始される場面でドメイン名の名前解決が行われ、接続が開始されます。 一方で、今回Bas"
   }
 ]

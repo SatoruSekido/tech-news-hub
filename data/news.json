@@ -1,73 +1,80 @@
 [
   {
-    "title": "Normalization",
-    "link": "https://dev.to/lokhitha_s_4/normalization-1i0m",
-    "pubDate": "Thu, 09 Oct 2025 01:28:00 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Database normalization is the process of organizing data to reduce redundancy and improve data integrity. In this tutorial, we’ll go step-by-step from Unnormalized Table → 1NF → 2NF → 3NF, and impleme"
-  },
-  {
-    "title": "🚀 Complete Guide: Hiring Challenge Paradigm",
-    "link": "https://dev.to/soorya54/complete-guide-hiring-challenge-paradigm-4o17",
-    "pubDate": "Thu, 09 Oct 2025 01:27:24 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Welcome! This guide will walk you through our 6-stage coding challenge step by step. Don't worry if you're new to this - we'll explain everything clearly with examples.\nOverview\nGetting Started\nStep 1"
-  },
-  {
-    "title": "Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance",
-    "link": "https://dev.to/member_40446303/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4goi",
-    "pubDate": "Thu, 09 Oct 2025 01:24:49 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nI’ve been writing code for over forty years. I started when punch cards were still a thing and the internet was a fever dream in a university lab. I’ve seen languages and frameworks rise a"
-  },
-  {
     "title": "Cursor + Trigger",
-    "link": "https://dev.to/lokhitha_s_4/cursor-trigger-2fho",
-    "pubDate": "Thu, 09 Oct 2025 01:23:01 +0000",
+    "link": "https://dev.to/nava_nava_9da1144487604/cursor-trigger-432n",
+    "pubDate": "Thu, 09 Oct 2025 06:30:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Cursor + Trigger — SQL Practice\nCURSOR — Process Cursor with Condition\nCreate a cursor that displays employee names whose salary is greater than 50,000 from the Employee table.\nDECLARE\n*TRIGGER *— AFT"
+    "contentSnippet": "🚀 Using Cursor and Trigger in SQL (with Examples)\n🔹 Cursor Example: Employees with Salary > 50,000\nStep 1: Employee Table\n-- Sample Data\nStep 2: Cursor with Condition\nSET SERVEROUTPUT ON;\nDECLARE\n\nS"
   },
   {
-    "title": "Enhanced jQuery Ripples: WebGL Water Effects for Any Element",
-    "link": "https://dev.to/jqueryscript/enhanced-jquery-ripples-webgl-water-effects-for-any-element-bl5",
-    "pubDate": "Thu, 09 Oct 2025 01:18:41 +0000",
+    "title": "From Zero to 373 Days: How Daily LeetCode Challenges Transformed My Programming Journey 🔥",
+    "link": "https://dev.to/hadil/from-zero-to-373-days-how-daily-leetcode-challenges-transformed-my-programming-journey-47o9",
+    "pubDate": "Thu, 09 Oct 2025 06:28:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Enhanced jQuery Ripples: a WebGL-powered jQuery plugin that brings realistic water ripple effects to any web element. \nThis modernized version includes:\n• Screen space reflections for accurate content"
+    "contentSnippet": "When I first heard people talking about “problem-solving”, I had no idea what it actually meant. It was one of those phrases I kept seeing on LinkedIn posts, in tech communities, and even in YouTube v"
   },
   {
-    "title": "The Automatic Door System: With Statements Explained",
-    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-automatic-door-system-with-statements-explained-41n0",
-    "pubDate": "Thu, 09 Oct 2025 01:17:33 +0000",
+    "title": "AI Marketing That Actually Works: A Senior Playbook for Automating, Accelerating, and Amplifying Results",
+    "link": "https://dev.to/dakrsize/ai-marketing-that-actually-works-a-senior-playbook-for-automating-accelerating-and-amplifying-4kjd",
+    "pubDate": "Thu, 09 Oct 2025 06:27:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Timothy rushed into Margaret's office looking distressed. \"The library's file system is corrupted. I've been processing catalog updates all week, and now the system reports hundreds of files are locke"
+    "contentSnippet": "We’ve all done it: opened an AI chat, asked for something substantial, got back a passable but generic answer, and walked away unconvinced. If your AI experience feels like that, you don’t need more e"
   },
   {
-    "title": "AI Intelligence Digest: Breakthroughs, Ethics, and Market Realities",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/ai-intelligence-digest-breakthroughs-ethics-and-market-realities-1p8m",
-    "pubDate": "Thu, 09 Oct 2025 01:17:01 +0000",
+    "title": "How AI Chatbots Are Transforming Customer Support in 2025",
+    "link": "https://dev.to/ryan-mathews/how-ai-chatbots-are-transforming-customer-support-in-2025-c0i",
+    "pubDate": "Thu, 09 Oct 2025 06:19:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI Intelligence Digest: Breakthroughs, Ethics, and Market Realities\n\n\n\n  \n  \n  💡 AI Development & Research\n\n\n• OpenAI explores transforming ChatGPT into a foundational operating system for future AI."
+    "contentSnippet": "Customer support has always been a critical component of business success, but traditional support channels are often costly, slow, and inconsistent. In 2025, AI chatbots are revolutionizing customer "
   },
   {
-    "title": "Track your TODO list from the Command Line: Taskwarrior",
-    "link": "https://dev.to/kelpopko/track-your-todo-list-from-the-command-line-taskwarrior-2ngc",
-    "pubDate": "Thu, 09 Oct 2025 01:00:21 +0000",
+    "title": "How to Choose the Right Automated Testing Tools for Your Tech Stack?",
+    "link": "https://dev.to/sophielane/how-to-choose-the-right-automated-testing-tools-for-your-tech-stack-189",
+    "pubDate": "Thu, 09 Oct 2025 06:18:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Taskwarrior describes itself as a 'Free and Open Source Software that tracks your TODO list from the command line'.\nThis post will touch on installing Taskwarrior and how to do the following:\nAdd a ta"
+    "contentSnippet": "If you’ve ever been in the middle of a sprint, rushing to deploy new features, and your test suite suddenly breaks — you’re not alone. Choosing the right automated testing tools is one of those decisi"
   },
   {
-    "title": "Lesson 12: Advanced Strategy Analysis",
-    "link": "https://dev.to/henry_lin_3ac6363747f45b4/lesson-12-advanced-strategy-analysis-2mi6",
-    "pubDate": "Thu, 09 Oct 2025 00:58:32 +0000",
+    "title": "Your Reading Speed: How Cognitive Science Defines the Comprehension Sweet Spot",
+    "link": "https://dev.to/brain_athlete/your-reading-speed-how-cognitive-science-defines-the-comprehension-sweet-spot-4end",
+    "pubDate": "Thu, 09 Oct 2025 06:17:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Lesson 12: Advanced Strategy Analysis\n\n\n⏱ Duration: 2 hours\n🎯 Learning Objectives: Deep understanding of strategy logic\n📚 Difficulty: ⭐⭐⭐ Strategy Optimization\nThrough previous learning, you already"
+    "contentSnippet": "You’ve probably tried to read faster at some point -skimming chapters, scrolling through articles, or racing to finish that pile of reports. But have you ever stopped to wonder how fast is too fast?\nT"
   },
   {
-    "title": "Automate Your Google Workspace with Apps Script Triggers",
-    "link": "https://dev.to/googleworkspace/automate-your-google-workspace-with-apps-script-triggers-5090",
-    "pubDate": "Thu, 09 Oct 2025 00:54:20 +0000",
+    "title": "Streamlining Developer Workflows: Top Productivity Tools in 2025",
+    "link": "https://dev.to/ryan-mathews/streamlining-developer-workflows-top-productivity-tools-in-2025-1coc",
+    "pubDate": "Thu, 09 Oct 2025 06:16:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As a Developer Relations Engineer, I often see developers looking for ways to make their Google Workspace integrations more powerful and responsive. You've built a cool script, but how do you make it "
+    "contentSnippet": "In today’s fast-paced digital ecosystem, developers are under constant pressure to deliver high-quality code, faster releases, and seamless user experiences. However, productivity can easily be lost a"
+  },
+  {
+    "title": "#Diffrence between star and snowflake schema",
+    "link": "https://dev.to/enock_kipngetich/diffrence-between-star-and-snowflake-schema-4g4i",
+    "pubDate": "Thu, 09 Oct 2025 06:14:28 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Star schema"
+  },
+  {
+    "title": "Hello DEV.to",
+    "link": "https://dev.to/_85a948a4d50d6306d7ea9/hello-devto-58cm",
+    "pubDate": "Thu, 09 Oct 2025 06:12:58 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "这是正文示例。\n通过 ArtiPub 处理 Markdown 与图片\n发布到 DEV.to\n\n再导入到 Medium"
+  },
+  {
+    "title": "Do you think productivity is more about tools or habits — why?",
+    "link": "https://dev.to/clariti_22_6e89b280ccd102/do-you-think-productivity-is-more-about-tools-or-habits-why-798",
+    "pubDate": "Thu, 09 Oct 2025 06:11:56 +0000",
+    "source": "DEV.to",
+    "contentSnippet": ""
+  },
+  {
+    "title": "プロンプトエンジニアリングを終わらせるDSPy",
+    "link": "https://zenn.dev/cybernetics/articles/39fb763aca746c",
+    "pubDate": "Wed, 08 Oct 2025 22:45:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nDSPyに夢中である。DSPyの最も重要な点は、プロンプトエンジニアリングを排除できる可能性を秘めていることだ。可能性を秘めているだけで、現状、プロンプトエンジニアリングが完全に不要になったわけではないのだが、こちらの分野を真面目に学ぶ動機として十分だ。使い心地というか、真面目にこの分野やってみようと思ったのはPFNのChainerを初めて触ってみたときの感覚に似ている。その後、PyTo"
   },
   {
     "title": "誰でも書けるスクリプト言語は、immutable な配列を提供すればよかった",
@@ -98,6 +105,20 @@
     "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
   },
   {
+    "title": "LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介",
+    "link": "https://zenn.dev/kuto5046/articles/agentic_rl_2025",
+    "pubDate": "Wed, 08 Oct 2025 12:23:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n本記事では、LLM研究で注目を集めるエージェント型強化学習（Agentic Reinforcement Learning、Agentic RL）のサーベイ論文\n「The Landscape of Agentic Reinforcement Learning for LLMs: A Survey」[1]を読み、私なりの理解と要点を整理して紹介します。500件以上の文献を引用するボリュームの"
+  },
+  {
+    "title": "簡易な正規表現エンジンを実装する",
+    "link": "https://zenn.dev/gatechnologies/articles/a1cdc8ee299c25",
+    "pubDate": "Wed, 08 Oct 2025 11:27:45 GMT",
+    "source": "Zenn",
+    "contentSnippet": "GA technologiesでソフトウェアエンジニアをしている中坂です。\n先日社内で正規表現エンジンの実装の話題で盛り上がりました。ソフトウェアエンジニアであれば普段の開発の中では当たり前のように正規表現を使っていると思いますので、記法や挙動に関する知識はある程度持っているはずです。しかしながら、具体的に我々の書いた正規表現がいかにしてテキストにマッチするのか、その内部の仕組みまで理解している人"
+  },
+  {
     "title": "現場で使える！Dify x Pythonハイブリッド開発実践！",
     "link": "https://zenn.dev/sapeet/articles/edfee5b30d79a8",
     "pubDate": "Wed, 08 Oct 2025 09:18:55 GMT",
@@ -112,6 +133,13 @@
     "contentSnippet": "◆はじめに\nSESにとって案件への参画は重要なことになります。\n面談を成功させるために案件情報の事前調査と自己分析、そして質問対策(模擬面談ある場合も。。)、逆質問の準備が重要です。\n今回は、面談がちょっと苦手です💦って人向けに書いていきたいと思います。\n\n◆案件情報の事..."
   },
   {
+    "title": "GitHub Private repo で XCFramework を配布する",
+    "link": "https://zenn.dev/d_date/articles/8b6ded8fdd2403",
+    "pubDate": "Wed, 08 Oct 2025 06:52:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "ソースコードを開示せずにユーザーにXCFrameworkを配布する一番の方法はXCFrameworkをSwift Package Managerで配布することです。\nこの記事は、配布する側の立場で陥りやすい罠とその回避方法をまとめたものです。\nやってみたけどハマってしまった場合に読んでみたり、罠にハマる前に勉強しておきたい方は読んでみてください。\nまた、CocoaPodsからSwift Packa"
+  },
+  {
     "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",
     "link": "https://qiita.com/chomado/items/764e67e104843a22bcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-08T05:03:05.000Z",
@@ -119,11 +147,11 @@
     "contentSnippet": "2025/10/04(土) に開催された、『Japan Azure User Group (JAZUG) 15周年勉強会』に参加しまして、\nそこで行われた、尊敬するマイクロソフトの先輩エンジニアである寺田さん (@yoshioterada) (世界で活躍する超つよつよベテラ..."
   },
   {
-    "title": "AIにリファクタリングをさせて、PRのタイトルと説明文も生成する",
-    "link": "https://zenn.dev/noppe/articles/d637794eb7583b",
-    "pubDate": "Wed, 08 Oct 2025 02:49:39 GMT",
+    "title": "「OpenAIが新たに出したAIエージェント開発キットをアプリに組み込んでみた【AgentKit入門】",
+    "link": "https://zenn.dev/forward/articles/cd0e0453822f7e",
+    "pubDate": "Wed, 08 Oct 2025 04:11:02 GMT",
     "source": "Zenn",
-    "contentSnippet": "Codex\nCodexを使ってリポジトリの小さなリファクタリングを自動化しながら、Pull Requestのタイトルと説明文までまとめて生成する方法を紹介します。自動化の狙いは、レビュー前に整った説明を添えることで手戻りを減らすことです。\n\n\n 背景と目的\n日常的にSwiftやObjective Cの修正を繰り返す中で、細かなリファクタリングを積み重ねる作業は単調になりがちです。生成AIに任せられ"
+    "contentSnippet": "はじめに\nOpenAI公式のエージェント構築ツールAgentKitが発表されました。AgentKitはノーコード／ローコードでエージェントを視覚的に構築できるツールでn8n, difyなどをすでに使ったことがある人には馴染み深い分野ではないでしょうか？\nhttps://platform.openai.com/docs/guides/agents/agent-builder\n今回は、公式ガイドを見な"
   },
   {
     "title": "Rustでセキュリティsandboxツールを作った",
@@ -147,18 +175,18 @@
     "contentSnippet": "生成AIによるプログラミングの支援はすでに多くの開発現場で使われ始めています。ではクラウドやネットワークの運用の現場において、生成AIはどのくらい実用的に使えるのでしょうか？ クラウドの運用などにたずさわるシステム運用管理者に光を当てるイベント「Cloud Operator Days Tokyo 2025」（CODT2025）のクロージングイベントが9月5日に都内で開催され、基調講演に東京大学 情"
   },
   {
+    "title": "【Zenn最速！？】OpenAIのAgent Builder・Chatkitのデプロイを試してみた！",
+    "link": "https://zenn.dev/atoy0m0/articles/7b3d7d99a6bb33",
+    "pubDate": "Tue, 07 Oct 2025 12:55:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n日本時間の10月7日、朝起きたらOpenAIから衝撃の数々が発表されましたね。\n今回はZenn最速(！？)で、Agent BuilderおよびChatkitのデプロイを試してみた！と書きたい想いが先行した、検証記事でございます。\n結論だけ書きますと、Agent Builderで発行するWORKFLOW_IDをChatkitに埋め込んでアプリを実行するという感じでした。\n\n OpenAI公"
+  },
+  {
     "title": "2600億回のモンテカルロを14秒で：Rust×rayon×SIMDで並列化してみた",
     "link": "https://zenn.dev/yua134/articles/montecarlo-pi",
     "pubDate": "Tue, 07 Oct 2025 11:00:01 GMT",
     "source": "Zenn",
     "contentSnippet": "1. 導入 🦀\nモンテカルロ法はシンプルながらも膨大な試行回数を必要とするアルゴリズムです。数十億、数百億といった規模になると、素朴な実装では到底現実的な時間で終わりません。\n今回はこのモンテカルロ法で円周率を推定しようと試みました。\n今回取り組んだ末に得たものは「2600億回の試行を14秒で終わらせる」でした。Rustの安全性と低レベル最適化の両立、そして並列化のためのrayon、さらにCPU"
-  },
-  {
-    "title": "GitHubの依存アップデートPRをまとめて捌くCLI拡張「gh-dep」を作りました",
-    "link": "https://zenn.dev/jackchuka/articles/65592ccfb8c548",
-    "pubDate": "Tue, 07 Oct 2025 10:59:33 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TL;DR\n\n依存アップデート PR のレビューを効率化する GitHub CLI 拡張を作りました\nInstall は簡単 gh extension install jackchuka/gh-dep\n\n使い方は gh dep --owner <owner> と打つだけ\n検索機能でまとめて Approve (& merge) できます\nGitHub Star ⭐ 記事 ♥️ もらえると喜びます！\n"
   },
   {
     "title": "【binaryまで読んで理解する】Javaでゼロから作るgit add",
@@ -168,39 +196,11 @@
     "contentSnippet": "この記事について\n新卒で入社したBrainpadのプロダクト開発エンジニアグループには、自由発表会（後述）というものがあり、そこで自分が約2年前に発表した内容を載せてみようと思ってできた記事になります。\n自由発表会とは、新卒1年目の研修やOJTが終わった頃に毎年行われてい..."
   },
   {
-    "title": "「動けばOK」だった僕が2ヶ月のAPI実装研修を通して学んだこと",
-    "link": "https://zenn.dev/bita/articles/4a0d0f9af31110",
-    "pubDate": "Tue, 07 Oct 2025 06:31:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n\nこんにちは！株式会社ビットエー所属　25卒エンジニアのkonchanです。\n学生時代に数年間プログラミングを学び、「これで僕もWebアプリが作れるぜ！」と意気揚々と入社した僕を待っていたのは、4つのAPI実装研修課題でした。\n研修で実装した内容は、グループ会社の社内報サービス『ourly』の既存APIをRuby on Railsで再現する、というものでした。\n実装は、本番には影響しない"
-  },
-  {
     "title": "良いテストとはなんだろう？ - （good code, bad codeより）",
     "link": "https://qiita.com/ikeyaH/items/8d721f231405e3d22ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-07T03:58:13.000Z",
     "source": "Qiita",
     "contentSnippet": "良いテストの原則・向き合い方\n業務でも個人でも、開発をする方は「自動テスト」を書くでしょう。\nテスト嫌い、という方もいるかもしれないですが、やはりあるのとないのでは大幅に開発体験が変わります。\n書く瞬間は面倒でも、後々の恩恵を考えると、もう大幅に違います。\nという前提は、..."
-  },
-  {
-    "title": "BigQueryの本番データがすべて消えた日 - 大規模障害から学んだ復旧と再発防止策",
-    "link": "https://zenn.dev/carenet/articles/recovering-from-bigquery-dataset-deletion",
-    "pubDate": "Tue, 07 Oct 2025 02:46:22 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは！AI技術開発室のYTです。\nケアネットでは、本番データウェアハウスとしてBigQueryを導入しています。ユーザー向けサービスと連動はしておらず、データ解析を目的とし、複数の部署が単一のGoogle Cloudプロジェクトを共有してデータを集約する運用をとっています。\n今回は、冷や汗が止まらなかった、BigQueryの本番データセットをすべて削除してしまったインシデントについ"
-  },
-  {
-    "title": "git rebase を日本一わかりやすく解説する - 利点編",
-    "link": "https://zenn.dev/tomatommy/articles/471104acc92c27",
-    "pubDate": "Tue, 07 Oct 2025 00:06:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は何\ngit rebase について解説します。\nrebase のことをあまり知らない以上、git のことも細かいコマンドはあまり知らない方が多いと思います。git の知識はそこまで要りません。 git でチーム開発でも個人開発でも何かしら経験あれば十分 OK です。\ngit rebase について、日本語で一番わかりやすく解説します。\n\n rebase の噂\nrebase についてあまり"
-  },
-  {
-    "title": "RAGの精度向上手法、がっつりまとめ【2025年】",
-    "link": "https://zenn.dev/knowledgesense/articles/148dfe2ca1d146",
-    "pubDate": "Tue, 07 Oct 2025 00:01:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は何\nナレッジセンスでは、エンタープライズ向けにRAGサービスを提供しています。その中で「RAGは簡単に作れるけど、精度を上げるのは難しい」という課題に日々向き合っています。本記事は、2024~2025年に公開された研究や事例をもとに、RAGの回答精度を高める代表的なアプローチを ざっくりまとめたものです。\n\n ざっくりサマリー\nこの記事では、企業の社内データを利用したRAG、特に大企業で"
   },
   {
     "title": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips",

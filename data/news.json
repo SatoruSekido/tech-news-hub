@@ -1,73 +1,80 @@
 [
   {
-    "title": "Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸",
-    "link": "https://dev.to/member_40446303/your-error-handling-is-a-mess-and-its-costing-you--5hen",
-    "pubDate": "Wed, 08 Oct 2025 18:19:47 +0000",
+    "title": "Normalization",
+    "link": "https://dev.to/lokhitha_s_4/normalization-1i0m",
+    "pubDate": "Thu, 09 Oct 2025 01:28:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nI still remember the bug that kept me up all night. A payment callback endpoint, when handling a rare, exceptional status code from a third-party payment gateway, had a .catch() that was a"
+    "contentSnippet": "Database normalization is the process of organizing data to reduce redundancy and improve data integrity. In this tutorial, we’ll go step-by-step from Unnormalized Table → 1NF → 2NF → 3NF, and impleme"
   },
   {
-    "title": "🔍 Understanding 6 Common Data Formats in Data Analytics (With Examples)",
-    "link": "https://dev.to/shrutti_kannan_4d6b7159e2/understanding-6-common-data-formats-in-data-analytics-with-examples-4mh7",
-    "pubDate": "Wed, 08 Oct 2025 18:16:54 +0000",
+    "title": "🚀 Complete Guide: Hiring Challenge Paradigm",
+    "link": "https://dev.to/soorya54/complete-guide-hiring-challenge-paradigm-4o17",
+    "pubDate": "Thu, 09 Oct 2025 01:27:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When working in data analytics, we often need to store, share, and transform data in various formats. Each format has its own strengths, ideal use cases, and limitations. Whether you're wrangling data"
+    "contentSnippet": "Welcome! This guide will walk you through our 6-stage coding challenge step by step. Don't worry if you're new to this - we'll explain everything clearly with examples.\nOverview\nGetting Started\nStep 1"
   },
   {
-    "title": "Hands-On with MongoDB: Performing CRUD Operations on a Student Collection 🎓",
-    "link": "https://dev.to/vishnupriya_k_678c3b9ea11/hands-on-with-mongodb-performing-crud-operations-on-a-student-collection-3855",
-    "pubDate": "Wed, 08 Oct 2025 18:15:23 +0000",
+    "title": "Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance",
+    "link": "https://dev.to/member_40446303/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-4goi",
+    "pubDate": "Thu, 09 Oct 2025 01:24:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As part of learning MongoDB, I decided to practice CRUD operations (Create, Read, Update, Delete) using a simple student collection. This hands-on approach helped me understand how MongoDB handles dat"
+    "contentSnippet": "GitHub Home\nI’ve been writing code for over forty years. I started when punch cards were still a thing and the internet was a fever dream in a university lab. I’ve seen languages and frameworks rise a"
   },
   {
-    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-730",
-    "pubDate": "Wed, 08 Oct 2025 18:08:15 +0000",
+    "title": "Cursor + Trigger",
+    "link": "https://dev.to/lokhitha_s_4/cursor-trigger-2fho",
+    "pubDate": "Thu, 09 Oct 2025 01:23:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Dutch-born artist SABRI pours heart and soul into her COLORS performance of “Sold Myself For Love,” the lead single from her new EP What I Feel Now. Her intimate vocals and stripped-down visuals let e"
+    "contentSnippet": "Cursor + Trigger — SQL Practice\nCURSOR — Process Cursor with Condition\nCreate a cursor that displays employee names whose salary is greater than 50,000 from the Employee table.\nDECLARE\n*TRIGGER *— AFT"
   },
   {
-    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j4g",
-    "pubDate": "Wed, 08 Oct 2025 18:08:03 +0000",
+    "title": "Enhanced jQuery Ripples: WebGL Water Effects for Any Element",
+    "link": "https://dev.to/jqueryscript/enhanced-jquery-ripples-webgl-water-effects-for-any-element-bl5",
+    "pubDate": "Thu, 09 Oct 2025 01:18:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nono La Grinta – “LOVE YOU” on A COLORS SHOW\n\n\nParis-based rapper Nono La Grinta brings pure grit and precision to his new track “LOVE YOU,” serving up each line with that raw energy we can’t get enou"
+    "contentSnippet": "Enhanced jQuery Ripples: a WebGL-powered jQuery plugin that brings realistic water ripple effects to any web element. \nThis modernized version includes:\n• Screen space reflections for accurate content"
   },
   {
-    "title": "Xperience Community: Essentials",
-    "link": "https://dev.to/vhugogarcia/xperience-community-essentials-2e9p",
-    "pubDate": "Wed, 08 Oct 2025 18:07:51 +0000",
+    "title": "The Automatic Door System: With Statements Explained",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-automatic-door-system-with-statements-explained-41n0",
+    "pubDate": "Thu, 09 Oct 2025 01:17:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you work with Xperience by Kentico, you know how much repetitive code can pile up across projects. From text manipulation and encryption to URL handling and localization, the small things add up fa"
+    "contentSnippet": "Timothy rushed into Margaret's office looking distressed. \"The library's file system is corrupted. I've been processing catalog updates all week, and now the system reports hundreds of files are locke"
   },
   {
-    "title": "KEXP: Babe Rainbow - What is ashwagandha (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-what-is-ashwagandha-live-on-kexp-52hp",
-    "pubDate": "Wed, 08 Oct 2025 18:07:50 +0000",
+    "title": "AI Intelligence Digest: Breakthroughs, Ethics, and Market Realities",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/ai-intelligence-digest-breakthroughs-ethics-and-market-realities-1p8m",
+    "pubDate": "Thu, 09 Oct 2025 01:17:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Babe Rainbow dropped by KEXP on August 14, 2025, to lay down a mellow live take of “What is ashwagandha” in the Seattle studio. Fronted by Angus Dowling (vocals), Jack Crowther (guitar), Elliot O’Reil"
+    "contentSnippet": "AI Intelligence Digest: Breakthroughs, Ethics, and Market Realities\n\n\n\n  \n  \n  💡 AI Development & Research\n\n\n• OpenAI explores transforming ChatGPT into a foundational operating system for future AI."
   },
   {
-    "title": "KEXP: Babe Rainbow - Sunday (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-4dgj",
-    "pubDate": "Wed, 08 Oct 2025 18:07:40 +0000",
+    "title": "Track your TODO list from the Command Line: Taskwarrior",
+    "link": "https://dev.to/kelpopko/track-your-todo-list-from-the-command-line-taskwarrior-2ngc",
+    "pubDate": "Thu, 09 Oct 2025 01:00:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Babe Rainbow rolled into the KEXP studio on August 14, 2025, for a laid-back live take on “Sunday,” featuring Angus Dowling’s smooth vocals, Jack Crowther’s guitar, Elliot O’Reilly’s bass grooves and "
+    "contentSnippet": "Taskwarrior describes itself as a 'Free and Open Source Software that tracks your TODO list from the command line'.\nThis post will touch on installing Taskwarrior and how to do the following:\nAdd a ta"
   },
   {
-    "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-1opa",
-    "pubDate": "Wed, 08 Oct 2025 18:07:32 +0000",
+    "title": "Lesson 12: Advanced Strategy Analysis",
+    "link": "https://dev.to/henry_lin_3ac6363747f45b4/lesson-12-advanced-strategy-analysis-2mi6",
+    "pubDate": "Thu, 09 Oct 2025 00:58:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Babe Rainbow took over the KEXP studio on August 14, 2025, to deliver a sun-soaked live rendition of “Aquarium Cowgirl.” Fronted by Angus Dowling’s soaring vocals and anchored by Jack Crowther’s guita"
+    "contentSnippet": "Lesson 12: Advanced Strategy Analysis\n\n\n⏱ Duration: 2 hours\n🎯 Learning Objectives: Deep understanding of strategy logic\n📚 Difficulty: ⭐⭐⭐ Strategy Optimization\nThrough previous learning, you already"
   },
   {
-    "title": "Resilience in Leadership — My Project Management Journey",
-    "link": "https://dev.to/chimannamadim/resilience-in-leadership-my-project-management-journey-2p39",
-    "pubDate": "Wed, 08 Oct 2025 18:07:30 +0000",
+    "title": "Automate Your Google Workspace with Apps Script Triggers",
+    "link": "https://dev.to/googleworkspace/automate-your-google-workspace-with-apps-script-triggers-5090",
+    "pubDate": "Thu, 09 Oct 2025 00:54:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "✨ In 2021, two milestones collided — one personal and one professional.\nThat year, I got married in August — and around the same time, as a Project Manager at RS Engineering Global Limited, my team wo"
+    "contentSnippet": "As a Developer Relations Engineer, I often see developers looking for ways to make their Google Workspace integrations more powerful and responsive. You've built a cool script, but how do you make it "
+  },
+  {
+    "title": "誰でも書けるスクリプト言語は、immutable な配列を提供すればよかった",
+    "link": "https://zenn.dev/toga/articles/immutable-vector",
+    "pubDate": "Wed, 08 Oct 2025 15:32:20 GMT",
+    "source": "Zenn",
+    "contentSnippet": "突然ですが、\nPython あるある〜。\na = [1, 2, 3]\nb = a # コピー？\nc = a # コピー？\n\nb.append(4) # 追加\nc.append(5) # 追加\n\nprint(b)\n# [1, 2, 3, 4, 5]\n# c に追加したはずの 5 が\n# b にも追加されていて、ビビる\n\nprint(c)\n# [1, 2, 3, 4, 5]\n# b に追加したはずの "
   },
   {
     "title": "「Diaブラウザ」正式版に、誰でもダウンロード可能。AI時代の業務のためのブラウザを目指す",
@@ -91,11 +98,32 @@
     "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
   },
   {
-    "title": "OpenAI DevDay 2025レポート：OpenAIが創る「AI OS」構想！",
-    "link": "https://qiita.com/ryosuke_ohori/items/e925e920b92c08601752?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T02:15:09.000Z",
+    "title": "現場で使える！Dify x Pythonハイブリッド開発実践！",
+    "link": "https://zenn.dev/sapeet/articles/edfee5b30d79a8",
+    "pubDate": "Wed, 08 Oct 2025 09:18:55 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは！株式会社Sapeetのソリューション事業部でアルゴリズムエンジニアとして働いている堀ノ内です。ソリューション事業部では受託開発を行なっており、近年は生成AIを活用したプロジェクトが非常に増えています。\n弊社では開発を迅速に進めるため、PoCの段階ではノーコードツールであるDifyを活用しており、多くのプロジェクトに導入してきました。これまではDifyを単体で使うことが多かった"
+  },
+  {
+    "title": "SESにおける面談対策について",
+    "link": "https://qiita.com/kosuke_shoji/items/30dcd80f3fad60ef18c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-08T08:48:42.000Z",
     "source": "Qiita",
-    "contentSnippet": "みなさんこんにちは。私は株式会社ulusageの、技術ブログ生成AIです！\n久しぶりの投稿になってしまいました。\n今回は、先日の OpenAI DevDay 2025 における発表をもとに、技術視点で読み解いた記事をお届けします。発表された新技術の概要だけでなく、開発者とし..."
+    "contentSnippet": "◆はじめに\nSESにとって案件への参画は重要なことになります。\n面談を成功させるために案件情報の事前調査と自己分析、そして質問対策(模擬面談ある場合も。。)、逆質問の準備が重要です。\n今回は、面談がちょっと苦手です💦って人向けに書いていきたいと思います。\n\n◆案件情報の事..."
+  },
+  {
+    "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",
+    "link": "https://qiita.com/chomado/items/764e67e104843a22bcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-08T05:03:05.000Z",
+    "source": "Qiita",
+    "contentSnippet": "2025/10/04(土) に開催された、『Japan Azure User Group (JAZUG) 15周年勉強会』に参加しまして、\nそこで行われた、尊敬するマイクロソフトの先輩エンジニアである寺田さん (@yoshioterada) (世界で活躍する超つよつよベテラ..."
+  },
+  {
+    "title": "AIにリファクタリングをさせて、PRのタイトルと説明文も生成する",
+    "link": "https://zenn.dev/noppe/articles/d637794eb7583b",
+    "pubDate": "Wed, 08 Oct 2025 02:49:39 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Codex\nCodexを使ってリポジトリの小さなリファクタリングを自動化しながら、Pull Requestのタイトルと説明文までまとめて生成する方法を紹介します。自動化の狙いは、レビュー前に整った説明を添えることで手戻りを減らすことです。\n\n\n 背景と目的\n日常的にSwiftやObjective Cの修正を繰り返す中で、細かなリファクタリングを積み重ねる作業は単調になりがちです。生成AIに任せられ"
   },
   {
     "title": "Rustでセキュリティsandboxツールを作った",
@@ -105,7 +133,7 @@
     "contentSnippet": "はじめに\nども\n最近、仕事場にClaude Codeを導入して、チームのパフォーマンスが爆増して仕事が減ってきたゴリラです。\nClaude Codeを導入する際に便利なMCP(serenaやcontext7、playwrightなど)をいくつか入れたんですが、セキュリティちゃんとしないとねという話しになり、それがきっかけでセキュリティsandboxツールのmoriを作った話しです。\n\nhttps:"
   },
   {
-    "title": "Oracle Cloud MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
+    "title": "MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
     "link": "https://qiita.com/shirok/items/b255172ed6a845c972f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-07T23:29:59.000Z",
     "source": "Qiita",
@@ -117,13 +145,6 @@
     "pubDate": "2025-10-07T15:07:44.000Z",
     "source": "Publickey",
     "contentSnippet": "生成AIによるプログラミングの支援はすでに多くの開発現場で使われ始めています。ではクラウドやネットワークの運用の現場において、生成AIはどのくらい実用的に使えるのでしょうか？ クラウドの運用などにたずさわるシステム運用管理者に光を当てるイベント「Cloud Operator Days Tokyo 2025」（CODT2025）のクロージングイベントが9月5日に都内で開催され、基調講演に東京大学 情"
-  },
-  {
-    "title": "【Zenn最速！？】OpenAIのAgent Builder・Chatkitのデプロイを試してみた！",
-    "link": "https://zenn.dev/atoy0m0/articles/7b3d7d99a6bb33",
-    "pubDate": "Tue, 07 Oct 2025 12:55:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n日本時間の10月7日、朝起きたらOpenAIから衝撃の数々が発表されましたね。\n今回はZenn最速(！？)で、Agent BuilderおよびChatkitのデプロイを試してみた！と書きたい想いが先行した、検証記事でございます。\n結論だけ書きますと、Agent Builderで発行するWORKFLOW_IDをChatkitに埋め込んでアプリを実行するという感じでした。\n\n OpenAI公"
   },
   {
     "title": "2600億回のモンテカルロを14秒で：Rust×rayon×SIMDで並列化してみた",
@@ -161,25 +182,25 @@
     "contentSnippet": "良いテストの原則・向き合い方\n業務でも個人でも、開発をする方は「自動テスト」を書くでしょう。\nテスト嫌い、という方もいるかもしれないですが、やはりあるのとないのでは大幅に開発体験が変わります。\n書く瞬間は面倒でも、後々の恩恵を考えると、もう大幅に違います。\nという前提は、..."
   },
   {
+    "title": "BigQueryの本番データがすべて消えた日 - 大規模障害から学んだ復旧と再発防止策",
+    "link": "https://zenn.dev/carenet/articles/recovering-from-bigquery-dataset-deletion",
+    "pubDate": "Tue, 07 Oct 2025 02:46:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは！AI技術開発室のYTです。\nケアネットでは、本番データウェアハウスとしてBigQueryを導入しています。ユーザー向けサービスと連動はしておらず、データ解析を目的とし、複数の部署が単一のGoogle Cloudプロジェクトを共有してデータを集約する運用をとっています。\n今回は、冷や汗が止まらなかった、BigQueryの本番データセットをすべて削除してしまったインシデントについ"
+  },
+  {
+    "title": "git rebase を日本一わかりやすく解説する - 利点編",
+    "link": "https://zenn.dev/tomatommy/articles/471104acc92c27",
+    "pubDate": "Tue, 07 Oct 2025 00:06:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は何\ngit rebase について解説します。\nrebase のことをあまり知らない以上、git のことも細かいコマンドはあまり知らない方が多いと思います。git の知識はそこまで要りません。 git でチーム開発でも個人開発でも何かしら経験あれば十分 OK です。\ngit rebase について、日本語で一番わかりやすく解説します。\n\n rebase の噂\nrebase についてあまり"
+  },
+  {
     "title": "RAGの精度向上手法、がっつりまとめ【2025年】",
     "link": "https://zenn.dev/knowledgesense/articles/148dfe2ca1d146",
     "pubDate": "Tue, 07 Oct 2025 00:01:05 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は何\nナレッジセンスでは、エンタープライズ向けにRAGサービスを提供しています。その中で「RAGは簡単に作れるけど、精度を上げるのは難しい」という課題に日々向き合っています。本記事は、2024~2025年に公開された研究や事例をもとに、RAGの回答精度を高める代表的なアプローチを ざっくりまとめたものです。\n\n ざっくりサマリー\nこの記事では、企業の社内データを利用したRAG、特に大企業で"
-  },
-  {
-    "title": "OpenAI DevDay 2025の現地レポート【OPENING KEYNOTE編】",
-    "link": "https://zenn.dev/galirage/articles/openai-dev-day-2025-keynote",
-    "pubDate": "Mon, 06 Oct 2025 23:37:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめまして、ますみです！\n株式会社Galirage（ガリレージ）という「生成AIに特化して、システム開発・アドバイザリー支援・研修支援をしているIT企業」で、代表をしております^^\n\n\n\n 本記事のサマリー\n\nChatGPTに「Apps inside ChatGPT」が登場し、FigmaやSpotifyなど外部アプリを直接操作できるようなアプリケーション化するための機能が発表されました。\n開発者"
-  },
-  {
-    "title": "20周年記念にGitを嫌いになろう",
-    "link": "https://zenn.dev/mokume1shine/articles/434cd1ff53803e",
-    "pubDate": "Mon, 06 Oct 2025 22:59:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nもうちょっと内容は更新予定です。\nまた、意図的に断言する表現になっている部分があります。ご了承ください。\nコメントありがとうございます。追加検討の材料にさせていただきます。\n\n\n 20周年記念にGitを嫌いになろう\n\nGitは最悪のバージョン管理システムである、ほかに使われたバージョン管理システムを除いては。\n\nというのはチャーチルの言ってない名言です。\nバージョン管理から逃れることはできませ"
   },
   {
     "title": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips",
@@ -196,27 +217,6 @@
     "contentSnippet": "思考の魂を実装する「襲歩式散文法」\n先日公開した記事、AIと『対話しない』対話法、モノローグ法は、幸いにも多くの方々から反響をいただきました。\nAIを「命令する相手」から「思考の伴走者」へと変えるという提案に、共感の声を寄せていただき、大変嬉しく思います。\nしかし、モノロ..."
   },
   {
-    "title": "Sora 2 API を触ってみた",
-    "link": "https://zenn.dev/prgckwb/articles/openai-sora2-api",
-    "pubDate": "Mon, 06 Oct 2025 19:26:20 GMT",
-    "source": "Zenn",
-    "contentSnippet": "OpenAI DevDay 2025 で Sora2 の API が公開されたので公式ドキュメントを参考に試してみました。\n!\n本記事は 2025年10月7日時点の情報で書かれています。\n\nhttps://platform.openai.com/docs/guides/video-generation\n\n 概要\nSora2 は 2025年10月現在 OpenAI の最新の動画生成モデルです。Sor"
-  },
-  {
-    "title": "⚡パワポ革命⚡AIでスライド作成！！",
-    "link": "https://qiita.com/aktsmm/items/9468cee19fa3ca4545a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T18:02:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは、アーキテクトのやまぱんです。\n今回は以下で紹介されている、PowerPoint に引っ付いている M365 Copilot から自然言語を利用して PowerPoint を作ってみます！\nつまり、自然言語でスライドを作ってみます！\n私は過去に Genspark ..."
-  },
-  {
-    "title": "OpenAI DevDay 2025 発表まとめ",
-    "link": "https://zenn.dev/schroneko/articles/openai-devday-2025",
-    "pubDate": "Mon, 06 Oct 2025 18:01:44 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は人力で書きました。\n\n\n tl;dr\n\nOpenAI DevDay 2025 がサンフランシスコで開催されたよ\nサンフランシスコ現地から情報をお送りするよ\nChatGPT 上で使える Apps SDK が公開されたよ（収益化の話も）\nAI Agent ワークフローを構築するための AgentKit が公開されたよ\n合わせてノーコードライクに操作できる Agent Builder も公"
-  },
-  {
     "title": "SharePointの雑多なデータの山をナレッジエージェント（Copilot）で整理する",
     "link": "https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T16:55:29.000Z",
@@ -231,11 +231,11 @@
     "contentSnippet": "Anthropicがオープンソースとして仕様を作成しているMCP（Model Context Protocol）は、今年（2025年）11月にアップデートを予定しています（MCPはこれまでにも、2025年3月、6月とアップデートが行われています）。 現在どのようなアップデートが検討されているのかが、MCP公式サイトのブログ記事「Update on the Next MCP Protocol Rel"
   },
   {
-    "title": "KPTのように形骸化させない。OODAループを“再現性ある習慣”にした現場の工夫とAI連携",
-    "link": "https://qiita.com/ota-tsutomu/items/f98e10e833e1cff9eb74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T04:26:28.000Z",
+    "title": "サーバーエンジニアをやるうえで重要な事とは",
+    "link": "https://qiita.com/kosuke_shoji/items/7963d7b20a4e56fedc5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T08:15:00.000Z",
     "source": "Qiita",
-    "contentSnippet": "🧭 はじめに\nふりかえり施策としてよく使われる「KPT」。\n導入ハードルが低く手軽な一方で、「形骸化」や「続かない」問題も数多く見てきました。\n\n「毎回Tryが同じ」「何も変わらない」\n「言いたいことがあっても空気を読んで出しにくい」\n「会は開くが、アクションが実行された..."
+    "contentSnippet": "◆はじめに\n前回の記事でインフラエンジニアとは？を投稿しました！！\n今回はその中で紹介した[サーバーエンジニア]について、目指すうえで重要なことをゆるーく書いていきたいと思います(」・ω・)」\n早速ですが、サーバーエンジニアとして重要なことは、ざっとですが\n・基礎的な技術..."
   },
   {
     "title": "【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化できた",

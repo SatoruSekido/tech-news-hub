@@ -1,73 +1,80 @@
 [
   {
-    "title": "The Magic of Stubbing sh",
-    "link": "https://dev.to/paulscoder/the-magic-of-stubbing-sh-567m",
-    "pubDate": "Fri, 10 Oct 2025 01:34:25 +0000",
+    "title": "Understanding Path Analysis Using R",
+    "link": "https://dev.to/anshuman_816f8012be0c9b6c/understanding-path-analysis-using-r-2e2l",
+    "pubDate": "Fri, 10 Oct 2025 06:25:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I really love sh and bash but I often feel alone and I get some regular negativity when I solve a problem with it. I know why too, shell scripts can have a broad level of complexity that has other lan"
+    "contentSnippet": "In the world of data analytics, understanding how variables influence one another is often more important than simply predicting an outcome. Imagine trying to predict a car’s mileage — it might seem s"
   },
   {
-    "title": "The Library Method: Understanding @cache",
-    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-cache-57l1",
-    "pubDate": "Fri, 10 Oct 2025 01:06:48 +0000",
+    "title": "Building a Browser FPS from Scratch: Sicar.io and the Lumina.pw Engine",
+    "link": "https://dev.to/hoodgail/building-a-browser-fps-from-scratch-sicario-and-the-luminapw-engine-gh7",
+    "pubDate": "Fri, 10 Oct 2025 06:24:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Episode 1 - The Secret Life of Python\n\n\n\n\n\nTimothy arrives at the library, laptop open, wearing a frustrated expression that Margaret recognizes immediately.\nTimothy: \"Margaret, can I ask you somethin"
+    "contentSnippet": "I've been heads‑down on Sicar.io, a fast, skill‑forward FPS that runs entirely in the browser. This devlog is a look behind the curtain: how the game came together and how I've been building Lumina.pw"
   },
   {
-    "title": "Hacktoberfest Week 1",
-    "link": "https://dev.to/kphero/hacktoberfest-week-1-53mh",
-    "pubDate": "Fri, 10 Oct 2025 00:55:37 +0000",
+    "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16",
+    "pubDate": "Fri, 10 Oct 2025 06:10:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Well.. it's an interesting start.\nFinding an issue to work on was frustrating to say the least. There is a lot of sorting through unmaintained projects and projects made to farm PRs for Hacktoberfest."
+    "contentSnippet": "Babe Rainbow – “Aquarium Cowgirl” Live on KEXP\n\n\nBabe Rainbow tore through a live take of “Aquarium Cowgirl” in the KEXP studio (recorded August 14, 2025), fronted by Angus Dowling (vocals), Jack Crow"
   },
   {
-    "title": "Understanding `'PropsWithChildren'` and `verbatimModuleSyntax` in React + TypeScript 5",
-    "link": "https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie",
-    "pubDate": "Fri, 10 Oct 2025 00:50:29 +0000",
+    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj",
+    "pubDate": "Fri, 10 Oct 2025 06:10:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "'PropsWithChildren' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.ts(1484)\n\n\nIf you’ve recently upgraded to TypeScript 5+ and started seeing this new e"
+    "contentSnippet": "Hunx and His Punx storm the KEXP studio in a high-octane live take of Alone In Hollywood On Acid, recorded August 26, 2025. Seth Bogart leads the charge on vocals and guitar, backed by Alana Amram (gu"
   },
   {
-    "title": "Stress Testing Go Memory: A Practical Guide to High-Load Scenarios",
-    "link": "https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c",
-    "pubDate": "Fri, 10 Oct 2025 00:47:36 +0000",
+    "title": "Rick Beato: Listening to the Spotify Top 10 So You Don't Have To",
+    "link": "https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-37mb",
+    "pubDate": "Fri, 10 Oct 2025 06:09:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey Dev.to community! 👋 If you’re a Go developer with a year or two of experience, you’ve probably marveled at Go’s concurrency model—goroutines and channels make it a breeze to build scalable apps. "
+    "contentSnippet": "Listening to the Spotify Top 10 So You Don’t Have To\n\n\nRick Beato dives into the Spotify Global Top 50’s top 10 tracks so you don’t have to—and spends the whole time asking, “What is this?” Expect his"
   },
   {
-    "title": "Refactoring My Code and Rewriting Git History",
-    "link": "https://dev.to/oleksandrakordonets/refactoring-my-code-and-rewriting-git-history-d2e",
-    "pubDate": "Fri, 10 Oct 2025 00:40:54 +0000",
+    "title": "Rick Beato: My Thoughts on Rush's NEW Drummer",
+    "link": "https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ehn",
+    "pubDate": "Fri, 10 Oct 2025 06:09:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This week I worked on refactoring my Repository Context Packager project. The goal was to clean up the structure of my code, improve readability, and reduce technical debt without changing how the pro"
+    "contentSnippet": "I just dropped my take on Rush’s huge news—yes, they’ve got a new drummer! Dive in for my honest reaction, check out Rush’s full announcement on YouTube, and see Anika Nilles doing her thing over on I"
   },
   {
-    "title": "Architectural vs Transport Asynchrony: What Most Engineers Get Wrong About Async Systems",
-    "link": "https://dev.to/komelgman/architectural-vs-transport-asynchrony-what-most-engineers-get-wrong-about-async-systems-5dkj",
-    "pubDate": "Fri, 10 Oct 2025 00:40:21 +0000",
+    "title": "Rick Beato: Is There Anything Bumblefoot Can't Play? ...No!",
+    "link": "https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-50o6",
+    "pubDate": "Fri, 10 Oct 2025 06:09:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "(and why you should stop saying \"asynchronous\" without clarifying what you mean)\nMany engineers say \"we use asynchronous communication\" — but they're almost always wrong.\nnon-blocking data transfer, n"
+    "contentSnippet": "Is There Anything Bumblefoot Can’t Play? …No!\nThis laid-back chat with guitar ace Ron “Bumblefoot” Thal dives into his decades-long career, signature technical flair, and the scoop on his latest music"
   },
   {
-    "title": "What is Dependency Injection in Laravel?",
-    "link": "https://dev.to/laracopilot/what-is-dependency-injection-in-laravel-2fp",
-    "pubDate": "Fri, 10 Oct 2025 00:29:00 +0000",
+    "title": "Peter Finch Golf: My favourite course ever. No question.",
+    "link": "https://dev.to/youtube_golf/peter-finch-golf-my-favourite-course-ever-no-question-4ahf",
+    "pubDate": "Fri, 10 Oct 2025 06:06:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you want to write clean, testable, and maintainable code in Laravel, you need to understand dependency injection. Let's cut through complex jargon and show you how it benefits you as a Laravel deve"
+    "contentSnippet": "My all-time favourite course finally lived up to the hype – I took on the incredible Royal Aberdeen, a stunning links that’s literally eroding into the sea. Every hole felt epic, and watching waves cr"
   },
   {
-    "title": "Mastering Vitest + React Testing Library: Fixing ‘beforeEach’, ‘toBeInTheDocument’, and JSDOM Gotchas",
-    "link": "https://dev.to/cristiansifuentes/mastering-vitest-react-testing-library-fixing-beforeeach-tobeinthedocument-and-jsdom-2379",
-    "pubDate": "Fri, 10 Oct 2025 00:28:36 +0000",
+    "title": "The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?",
+    "link": "https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-55f4",
+    "pubDate": "Fri, 10 Oct 2025 06:03:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you've started testing React apps with Vitest and React Testing Library, you've likely seen these errors:\nCannot find name 'beforeEach'.ts(2304)\nProperty 'toBeInTheDocument' does not exist on type "
+    "contentSnippet": "Game Theory: Was I WRONG About Secret of the Mimic?\n\n\nMatPat dives back into Five Nights at Freddy’s: Secret of the Mimic after months of frame-by-frame sleuthing, comparing his own theory to two riva"
   },
   {
-    "title": "Introducing Formulas: Create smarter forms with calculations, automation, and much more",
-    "link": "https://dev.to/joyfill/introducing-formulas-create-smarter-forms-with-calculations-automation-and-much-more-n4a",
-    "pubDate": "Fri, 10 Oct 2025 00:27:38 +0000",
+    "title": "GameSpot: Battlefield 6 - Good Company (Review-In-Progress)",
+    "link": "https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-3hcb",
+    "pubDate": "Fri, 10 Oct 2025 06:03:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We’re excited to announce a powerful new feature in our form builder SDK: Formulas.\nWith formulas, your forms aren’t just static fields anymore—they become dynamic, programmable, and intelligent. Whet"
+    "contentSnippet": "Battlefield 6 doesn’t stray far from the series’ roots, but that’s exactly the point—it delivers big, chaotic multiplayer mayhem that feels both familiar and riotously fun. DICE plays it safe, leaning"
+  },
+  {
+    "title": "我々はCodexとどう向き合うべきなのか",
+    "link": "https://zenn.dev/aki_think/articles/5fb93a15a6257a",
+    "pubDate": "Thu, 09 Oct 2025 22:00:06 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は、すでにCodexやClaudeCodeなどのAIコーディングツールを実務で使い始めているエンジニアに向けて書いている。「期待ほど効率が上がらない」と感じている人や、運用の型を模索している個人開発者を想定している。導入方法や基礎理論は扱わない。ひとりのエンジニアが数ヶ月間Codexと向き合って得た、実践的な運用知見を語る。\n\n 数ヶ月で変わったこと\nまず、ここ数ヶ月でAIコーディングツー"
   },
   {
     "title": "iOS Default Web Browserの自作方法",
@@ -82,13 +89,6 @@
     "pubDate": "2025-10-09T15:04:58.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
-  },
-  {
-    "title": "４輪独立ステアリング移動機構の開発記録",
-    "link": "https://zenn.dev/takaki_maeda_99/articles/80606c946db64e",
-    "pubDate": "Thu, 09 Oct 2025 09:12:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nロボコン関係で見る方が多いと思うので、一応先に個人的な結論ですが、ほとんどの場合”オムニで良い”です。\n大抵の場合、敗因は足回りにはありません。足の差で負けて初めて、開発を始めればいいです。\nコスパが悪すぎるので、余裕がないなら作るべきではありません。\n\n\n じゃあなぜ作ったのか？\nロマンがあったからです。機体設計やってたら、一度は作ってみたいと思いますよね。それだけです。\n単純に弊サー"
   },
   {
     "title": "Playwrightの新機能 使ってみた【プランナーエージェントについて】",
@@ -117,13 +117,6 @@
     "pubDate": "Thu, 09 Oct 2025 01:55:31 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、とまだです。\nAIエージェントを使い始めたけど、「動くコードは作ってくれるけど、品質が心配...」と感じたことはありませんか？\n私も最初はそうでした。\nClaude CodeやCursor、Codexを使っていると、確かに素早くコードを生成してくれます。\nですが、そのコードが本当に「良いコード」なのか不安になりますよね。\nZenn でこちらの記事が注目を集めているように、多くの方がコー"
-  },
-  {
-    "title": "google/LangExtract解剖- LLMで抽出した項目の文書内位置特定ロジックを深堀る",
-    "link": "https://zenn.dev/gvatech_blog/articles/2d121536d81eb0",
-    "pubDate": "Thu, 09 Oct 2025 01:46:54 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n本稿は2025/10/04時点のLangExtractのソースコードを元に記述しています。\n\n\n google/LangExtractとは\nhttps://github.com/google/langextract\nLangExtractは2025年7月にGoogleが発表したLLMを用いた項目抽出ライブラリです。\nLangExtractは単なる項目抽出ができるに留まらず、抽出した項目が抽出元"
   },
   {
     "title": "【コピペOK】AIエージェントで良いコードを書く！誰でも使える品質向上ルールの設定方法",
@@ -182,6 +175,20 @@
     "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
   },
   {
+    "title": "結婚式の招待状＋引出物選択＋受付システムを自作した話",
+    "link": "https://zenn.dev/rasengunshotaro/articles/1d8b2b7d25b011",
+    "pubDate": "Wed, 08 Oct 2025 13:40:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nはじめまして。先日10月頭に結婚式を挙げました。\n夫婦で楽曲、演出等、様々なこだわりポイントを詰め込んだわけですが、その中でも今回は「ゲスト向けフロントエンド」について話していこうと思います。\n恥ずかしいのであまり具体的な画面はお見せできませんが…\n尚、本記事の内容は\n先駆者様[1]達に[2]多大な影響を受けております。\nこれらの方々の記事も素晴らしいのでぜひご一読ください！\n\n 経緯\n"
+  },
+  {
+    "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
+    "link": "https://zenn.dev/shintake/articles/cc4779fb80dea7",
+    "pubDate": "Wed, 08 Oct 2025 13:18:59 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先日、社内で「AIだけでプロトタイプを作ってみよう」というイベントがあった。\n要件をAIに渡し、設計からコーディング、UI生成までをどこまで自動化できるかを試す——\nいわば“AI開発耐久テスト”のような企画だった。\n生成されたコードを動かしてみると、どれも意外なほどきちんと動いた。\n致命的なバグもなく、UIもAPIも一応の体裁を保っていた。\nつまり、少なくとも“動くもの”はAIだけで作れ"
+  },
+  {
     "title": "Slackに慣れた人間が「Teams使いにくい」と言う理由を言語化して、この先生きのこるための方法を考えてみよう（言語化編）",
     "link": "https://qiita.com/ykkn/items/8c4082809219c201322f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-08T13:17:26.000Z",
@@ -196,18 +203,11 @@
     "contentSnippet": "検証研究目的です。悪用はしないでください\n\n倍速視聴推奨\n\n今回の検証で7円溶かしました😭クラウド破産不可避\n\nこの記事でやること\nGoogleのGemini 2.5 Computer Use（プレビュー）用サンプルをWindowsで動かし、AIエージェントにQi..."
   },
   {
-    "title": "簡易な正規表現エンジンを実装する",
-    "link": "https://zenn.dev/gatechnologies/articles/a1cdc8ee299c25",
-    "pubDate": "Wed, 08 Oct 2025 11:27:45 GMT",
+    "title": "LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介",
+    "link": "https://zenn.dev/kuto5046/articles/agentic_rl_2025",
+    "pubDate": "Wed, 08 Oct 2025 12:23:21 GMT",
     "source": "Zenn",
-    "contentSnippet": "GA technologiesでソフトウェアエンジニアをしている中坂です。\n先日社内で正規表現エンジンの実装の話題で盛り上がりました。ソフトウェアエンジニアであれば普段の開発の中では当たり前のように正規表現を使っていると思いますので、記法や挙動に関する知識はある程度持っているはずです。しかしながら、具体的に我々の書いた正規表現がいかにしてテキストにマッチするのか、その内部の仕組みまで理解している人"
-  },
-  {
-    "title": "GitHub Private repo で XCFramework を配布する",
-    "link": "https://zenn.dev/d_date/articles/8b6ded8fdd2403",
-    "pubDate": "Wed, 08 Oct 2025 06:52:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "ソースコードを開示せずにユーザーにXCFrameworkを配布する一番の方法はXCFrameworkをSwift Package Managerで配布することです。\nこの記事は、配布する側の立場で陥りやすい罠とその回避方法をまとめたものです。\nやってみたけどハマってしまった場合に読んでみたり、罠にハマる前に勉強しておきたい方は読んでみてください。\nまた、CocoaPodsからSwift Packa"
+    "contentSnippet": "はじめに\n本記事では、LLM研究で注目を集めるエージェント型強化学習（Agentic Reinforcement Learning、Agentic RL）のサーベイ論文\n「The Landscape of Agentic Reinforcement Learning for LLMs: A Survey」[1]を読み、私なりの理解と要点を整理して紹介します。500件以上の文献を引用するボリュームの"
   },
   {
     "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",

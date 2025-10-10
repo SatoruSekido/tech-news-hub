@@ -1,73 +1,73 @@
 [
   {
-    "title": "Understanding Web and Internet Fundamentals",
-    "link": "https://dev.to/rowleks/understanding-web-and-internet-fundamentals-3bf1",
-    "pubDate": "Fri, 10 Oct 2025 12:42:48 +0000",
+    "title": "JavaScript Fundamentals: Variables and Data Types",
+    "link": "https://dev.to/hardik_kanajariya/javascript-fundamentals-variables-and-data-types-5gab",
+    "pubDate": "Fri, 10 Oct 2025 18:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nBehind every website you visit, video you stream, or message you send, there’s a sophisticated chain of communication happening that you never see. Understanding how servers, DNS, proto"
+    "contentSnippet": "Understanding variables and data types is crucial for JavaScript development. This guide covers everything you need to know.\nJavaScript offers three ways to declare variables:\nlet - Block-scoped, can "
   },
   {
-    "title": "PWC 342 Balance: And a 1, and a 2",
-    "link": "https://dev.to/boblied/pwc-342-balance-4eh4",
-    "pubDate": "Fri, 10 Oct 2025 12:37:22 +0000",
+    "title": "OpenAI's ChatGPT Instant Checkout: Transforming E-Commerce with AI-Powered Conversations",
+    "link": "https://dev.to/spano_benja_14a928166ec22/openais-chatgpt-instant-checkout-transforming-e-commerce-with-ai-powered-conversations-3pfb",
+    "pubDate": "Fri, 10 Oct 2025 18:24:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Task 1: Balance String\n\n\n\n  \n  \n  Description\n\n\nYou are given a string made up of lowercase English letters and digits only.\nWrite a script to format the given string where no letter is followed by an"
+    "contentSnippet": "Research suggests that OpenAI's Instant Checkout feature, launched on September 29, 2025, enables seamless in-chat purchases for U.S. users through the open-source Agentic Commerce Protocol (ACP) deve"
   },
   {
-    "title": "This Week In React #253: React Compiler 1.0, React Foundation | RN 0.82, Hermes V1 | Keyboard Controller, IAP, Skia | Prettier",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-253-react-compiler-10-react-foundation-rn-082-hermes-v1-keyboard-1ope",
-    "pubDate": "Fri, 10 Oct 2025 12:34:51 +0000",
+    "title": "I’m busy for Hacktoberfest 2025 after work PRs, aren’t you?",
+    "link": "https://dev.to/fedtti/im-busy-for-hacktoberfest-2025-after-work-prs-arent-you-393l",
+    "pubDate": "Fri, 10 Oct 2025 18:23:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hi everyone!\nThis week is a big one: we barely had time to recover from last week's React 19.2 release, and now React Conf is happening live with another bunch of exclusive announcements!\nI'll let you"
+    "contentSnippet": ""
   },
   {
-    "title": "Ping Pong 🏓",
-    "link": "https://dev.to/marcelo_martins_41c7f1c95/ping-pong-l7i",
-    "pubDate": "Fri, 10 Oct 2025 12:29:31 +0000",
+    "title": "Understanding DAX Functions in Power BI",
+    "link": "https://dev.to/beatrice_njagi/understanding-dax-functions-in-power-bi-59bm",
+    "pubDate": "Fri, 10 Oct 2025 18:14:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"\"\"\nControls:\nLeft paddle: W (up), S (down)\nRight paddle: Up Arrow, Down Arrow\nP to pause, R to reset scores\nEscape or close window to quit\nRequirements:\nPython 3.8+\npygame (pip install pygame)\nRun:\nT"
+    "contentSnippet": "Power BI stands for Power Business Intelligence—a powerful platform that enables users to transform raw data into clear, actionable, and interactive visualizations, supporting data-driven decision-mak"
   },
   {
-    "title": "Sudoku",
-    "link": "https://dev.to/marcelo_martins_41c7f1c95/sudoku-27i3",
-    "pubDate": "Fri, 10 Oct 2025 12:27:34 +0000",
+    "title": "Recommended Approaches for Loading Many Large Images on the Web",
+    "link": "https://dev.to/rijultp/recommended-approaches-for-loading-many-large-images-on-the-web-5997",
+    "pubDate": "Fri, 10 Oct 2025 18:11:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "import random\ndef print_grid(grid):\ndef is_valid(grid, row, col, num):\n# Check column\nfor i in range(9):\n    if grid[i][col] == num:\n        return False\n\n# Check 3x3 square\nstart_row, start_col = row"
+    "contentSnippet": "When working with web applications, it is common to encounter situations where you need to display a large number of images at once. This can be challenging if each image is large, for example 300 kil"
   },
   {
-    "title": "AWS Cost Optimization Tips Nobody Tells You",
-    "link": "https://dev.to/manonaga2188/aws-cost-optimization-tips-nobody-tells-you-3p58",
-    "pubDate": "Fri, 10 Oct 2025 12:26:37 +0000",
+    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-co9",
+    "pubDate": "Fri, 10 Oct 2025 18:10:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Look, I've been there. You spin up a few EC2 instances for a \"quick test,\" set up an RDS database, maybe throw in some Lambda functions, and before you know it, your AWS bill looks like a phone number"
+    "contentSnippet": "SABRI’s Soulful COLORS Debut\n\n\nDutch-born artist SABRI brings raw emotion and vulnerability to her latest single “Sold Myself For Love” on A COLORS SHOW, giving listeners a teaser of her upcoming EP W"
   },
   {
-    "title": "React Rerender - React snap -styling issue after build",
-    "link": "https://dev.to/snehal_s/react-rerender-react-snap-styling-issue-after-build-37hn",
-    "pubDate": "Fri, 10 Oct 2025 12:26:36 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-11he",
+    "pubDate": "Fri, 10 Oct 2025 18:10:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "i have rerender my react website with react snap to upload on my shared hosting, i was facing issue like html code is showing first then css was loaded for fixing this i have loaded app.css on top at "
+    "contentSnippet": "Nono La Grinta – LOVE YOU | A COLORS SHOW\n\n\nParis-based rapper Nono La Grinta delivers every line with precision and grit in a stripped-back COLORS performance of “LOVE YOU,” giving us a first taste o"
   },
   {
-    "title": "Enabling Faster Development Feedback with LocalStack: Lessons from the Software Development Lifecycle",
-    "link": "https://dev.to/kiwimike/enabling-faster-development-feedback-with-localstack-lessons-from-the-software-development-m2l",
-    "pubDate": "Fri, 10 Oct 2025 12:26:23 +0000",
+    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2039",
+    "pubDate": "Fri, 10 Oct 2025 18:10:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TLDR; A story about AWS app development frustrations and how I'd implement better testing practices in my SDLC for faster feedback (and a better experience). \nA few years ago, I was briefly introduced"
+    "contentSnippet": "Hunx and His Punx crash the KEXP studio with a blistering live take of “Alone In Hollywood On Acid,” recorded August 26, 2025. Fronted by Seth Bogart’s snarling vocals and guitar, the band’s powerhous"
   },
   {
-    "title": "Excited to Contribute",
-    "link": "https://dev.to/hankvscode2024/excited-to-contribute-4626",
-    "pubDate": "Fri, 10 Oct 2025 12:26:20 +0000",
+    "title": "React Hook for the Battery Status API",
+    "link": "https://dev.to/nikadev/react-hook-for-the-battery-status-api-3i28",
+    "pubDate": "Fri, 10 Oct 2025 18:10:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎃 Spotlight your projects and contributions as you go: 2025 Hacktoberfest Writing Challenge is now live!\nJess Lee for The DEV Team ・ Oct 1\n#hacktoberfest\n        #devchallenge\n        #opensource"
+    "contentSnippet": "Hello and welcome to my first React posts.\nBut that's enough, let's get into the topic!\nI do this post, because I created a custom hook useBatteryStatus. I will explain what needs to be done to create"
   },
   {
-    "title": "Builders' Challenge v3",
-    "link": "https://dev.to/nosana/builders-challenge-v3-2979",
-    "pubDate": "Fri, 10 Oct 2025 12:24:32 +0000",
+    "title": "My First Node.js: Mastering the Fundamentals❗",
+    "link": "https://dev.to/cristea_theodora_6200140b/from-zero-to-start-the-nodejs-fundamentals-you-need-to-know-part-i-32an",
+    "pubDate": "Fri, 10 Oct 2025 18:10:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Nosana Builder Challenge is back! After the success of Agents 101, we're excited to announce Agents 102 — a developer challenge where you'll build intelligent AI agents with frontend interfaces an"
+    "contentSnippet": "Intro\n\n\nHey everyone! Lately, I've been focusing heavily on backend development, and I finally decided it was time to dive into Node.js. I'd been putting this moment off for a while, and now it's here"
   },
   {
     "title": "DroidKaigi/iOSDCに向けて、Raspberry Pi × Embedded Swiftでラジコンを作ってみた",
@@ -105,11 +105,32 @@
     "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
   },
   {
+    "title": "個人開発を下火にさせてなるものか！！個人開発を支える裏方サービスをAI駆動で作った話",
+    "link": "https://zenn.dev/koeloop/articles/ai-driven-koeloop",
+    "pubDate": "Thu, 09 Oct 2025 14:20:04 GMT",
+    "source": "Zenn",
+    "contentSnippet": "KoeLoopというWebサービスを作りました\n\nKoeLoop は、プロダクトに超簡単に組み込めて、フィードバック・FAQなどの裏方機能を追加することができるサービスです。\nウィジェットを表示するためのスニペットを貼るだけで、こんなことができます。（鋭意追加開発中です）\n\n📝 ユーザーの声（フィードバック）を収集\n❓ FAQ をまとめて表示し、サポートの手間を削減\n👍 投票機能で「どの要望が"
+  },
+  {
     "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
     "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T13:15:39.000Z",
     "source": "Qiita",
     "contentSnippet": "無料のエンジニアコミュニティを運営しているのですが 「フルリモートを続けたいのですが、フルリモート案件はそんなに無いんですか。」そんな声をよく耳にします。\n2023年ごろまでは、SES業界にもフルリモート案件が多く存在していました。\n通勤なし、自由な働き方、しかも単価も高水..."
+  },
+  {
+    "title": "実は進化している！ローカルで動くembeddingモデルたち",
+    "link": "https://zenn.dev/sirasagi62/articles/a75d0ba39f0125",
+    "pubDate": "Thu, 09 Oct 2025 11:39:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "要約\n\n日本語オンリーならruri v3 (わずか37mでOpenAIのtext-embedding-large-v3超え)\n\nもしかしたら日英だったらベターかも\n\n\n多言語+コードならgranite-embedding\n\n\n はじめに\nLLMの普及からはや数年、175Bとかいう途方もないパラメータで動いていたLLMもいつの間にか4bに収まるようになり、スマホやPCで簡単に動かせるようになりました"
+  },
+  {
+    "title": "NixOS + Kubernetesで構築する自宅サーバーのすべて",
+    "link": "https://zenn.dev/ichi_h/articles/ff001e0005e33c",
+    "pubDate": "Thu, 09 Oct 2025 09:46:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n本記事では Kubernetes - NixOS Wiki の環境をベースに、おうち Kubernetes クラスターを構築することをテーマとしています。\n本記事の著者は、これまでインフラやネットワークといった領域にそこまで深く踏み込んだことがなく、そのあたりの技術力に少し不満があったため、勉強がてらに元々あった自宅サーバーの環境を刷新しつつ、ついでに NixOS + Kubernete"
   },
   {
     "title": "Oracle Database@Hyperscalerを利用する前に確認することあれこれ",
@@ -123,7 +144,7 @@
     "link": "https://zenn.dev/iinoten/articles/084708f69f3f26",
     "pubDate": "Thu, 09 Oct 2025 05:16:44 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nPlaywright 1.56で導入された新機能「Test Agents」が気になっていたので、実際に使ってみました。この記事では、プランナーエージェント（🎭 Planner） を使ってPlaywright公式サイトのテストプランを自動生成する過程を、1から順を追って解説します。\n\n Test Agentsとは？\nPlaywright Test Agentsは、AI駆動でテストの作成と"
+    "contentSnippet": "(ジェネレーターエージェントについても書きました。そちらもおねがいします)\nhttps://zenn.dev/iinoten/articles/76d45173e0e371\n\n はじめに\nPlaywright 1.56で導入された新機能「Test Agents」が気になっていたので、実際に使ってみました。この記事では、プランナーエージェント（🎭 Planner） を使ってPlaywright公式"
   },
   {
     "title": "【手動ダウンロードからの卒業】環境ジオポータルのデータをワンクリックでQGISに追加しよう",
@@ -131,6 +152,13 @@
     "pubDate": "2025-10-09T03:15:10.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n環境ジオポータルで公開されているデータを、ダウンロードやURL指定の手間をかけずに、ワンクリックでQGISに追加できるプラグインを作成しました。\n追加できるデータは、タイプが「Feature Service」で、ライセンスが「CC BY 4.0」のデータです。..."
+  },
+  {
+    "title": "マルチエージェントフレームワークAIMEの紹介と実装",
+    "link": "https://zenn.dev/mkj/articles/e2612cb8bb9d5b",
+    "pubDate": "Thu, 09 Oct 2025 02:50:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "近年、AI技術の進化に伴い、単一のAIではなく複数のAIエージェントが協調してタスクを遂行する「マルチAIエージェント」の概念が注目を集めています。複雑な問題を解決するためには、各エージェントがそれぞれの専門性を活かし、連携して動くことが不可欠です。\n今回は、TikTokなどで有名なByteDance社が提唱したマルチエージェントのフレームワーク論文「AIME: TOWARDS FULLY-AUT"
   },
   {
     "title": "MCPツール棚卸しによるClaude Codeのコンテキスト最適化",
@@ -147,6 +175,13 @@
     "contentSnippet": "こんにちは、とまだです。\nAIエージェントを使い始めたけど、「動くコードは作ってくれるけど、品質が心配...」と感じたことはありませんか？\n私も最初はそうでした。\nClaude CodeやCursor、Codexを使っていると、確かに素早くコードを生成してくれます。\nですが、そのコードが本当に「良いコード」なのか不安になりますよね。\nZenn でこちらの記事が注目を集めているように、多くの方がコー"
   },
   {
+    "title": "google/LangExtract解剖- LLMで抽出した項目の文書内位置特定ロジックを深堀る",
+    "link": "https://zenn.dev/gvatech_blog/articles/2d121536d81eb0",
+    "pubDate": "Thu, 09 Oct 2025 01:46:54 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n本稿は2025/10/04時点のLangExtractのソースコードを元に記述しています。\n\n\n google/LangExtractとは\nhttps://github.com/google/langextract\nLangExtractは2025年7月にGoogleが発表したLLMを用いた項目抽出ライブラリです。\nLangExtractは単なる項目抽出ができるに留まらず、抽出した項目が抽出元"
+  },
+  {
     "title": "【コピペOK】AIエージェントで良いコードを書く！誰でも使える品質向上ルールの設定方法",
     "link": "https://qiita.com/tomada/items/df5d3e0f611860bc2740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T01:40:30.000Z",
@@ -159,20 +194,6 @@
     "pubDate": "2025-10-08T23:42:37.000Z",
     "source": "Qiita",
     "contentSnippet": "React公式ドキュメント学習メモ：コンポーネントに props を渡す\n\n1. Propsの基本\n\nProps (プロパティ) は、親コンポーネントから子コンポーネントへ情報（データ）を渡すための仕組み\nHTML属性と似ているが、オブジェクト、配列、関数など、あらゆる..."
-  },
-  {
-    "title": "プロンプトエンジニアリングを終わらせるDSPy",
-    "link": "https://zenn.dev/cybernetics/articles/39fb763aca746c",
-    "pubDate": "Wed, 08 Oct 2025 22:45:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nDSPyに夢中である。DSPyの最も重要な点は、プロンプトエンジニアリングを排除できる可能性を秘めていることだ。可能性を秘めているだけで、現状、プロンプトエンジニアリングが完全に不要になったわけではないのだが、こちらの分野を真面目に学ぶ動機として十分だ。使い心地というか、真面目にこの分野やってみようと思ったのはPFNのChainerを初めて触ってみたときの感覚に似ている。その後、PyTo"
-  },
-  {
-    "title": "誰でも書けるスクリプト言語は、immutable な配列を提供すればよかった",
-    "link": "https://zenn.dev/toga/articles/immutable-vector",
-    "pubDate": "Wed, 08 Oct 2025 15:32:20 GMT",
-    "source": "Zenn",
-    "contentSnippet": "突然ですが、\nPython あるある〜。\na = [1, 2, 3]\nb = a # コピー？\nc = a # コピー？\n\nb.append(4) # 追加\nc.append(5) # 追加\n\nprint(b)\n# [1, 2, 3, 4, 5]\n# c に追加したはずの 5 が\n# b にも追加されていて、ビビる\n\nprint(c)\n# [1, 2, 3, 4, 5]\n# b に追加したはずの "
   },
   {
     "title": "「Diaブラウザ」正式版に、誰でもダウンロード可能。AI時代の業務のためのブラウザを目指す",
@@ -196,20 +217,6 @@
     "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
   },
   {
-    "title": "結婚式の招待状＋引出物選択＋受付システムを自作した話",
-    "link": "https://zenn.dev/rasengunshotaro/articles/1d8b2b7d25b011",
-    "pubDate": "Wed, 08 Oct 2025 13:40:48 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nはじめまして。先日10月頭に結婚式を挙げました。\n夫婦で楽曲、演出等、様々なこだわりポイントを詰め込んだわけですが、その中でも今回は「ゲスト向けフロントエンド」について話していこうと思います。\n恥ずかしいのであまり具体的な画面はお見せできませんが…\n尚、本記事の内容は\n先駆者様[1]達に[2]多大な影響を受けております。\nこれらの方々の記事も素晴らしいのでぜひご一読ください！\n\n 経緯\n"
-  },
-  {
-    "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
-    "link": "https://zenn.dev/shintake/articles/cc4779fb80dea7",
-    "pubDate": "Wed, 08 Oct 2025 13:18:59 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n先日、社内で「AIだけでプロトタイプを作ってみよう」というイベントがあった。\n要件をAIに渡し、設計からコーディング、UI生成までをどこまで自動化できるかを試す——\nいわば“AI開発耐久テスト”のような企画だった。\n生成されたコードを動かしてみると、どれも意外なほどきちんと動いた。\n致命的なバグもなく、UIもAPIも一応の体裁を保っていた。\nつまり、少なくとも“動くもの”はAIだけで作れ"
-  },
-  {
     "title": "Slackに慣れた人間が「Teams使いにくい」と言う理由を言語化して、この先生きのこるための方法を考えてみよう（言語化編）",
     "link": "https://qiita.com/ykkn/items/8c4082809219c201322f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-08T13:17:26.000Z",
@@ -222,13 +229,6 @@
     "pubDate": "2025-10-08T12:26:47.000Z",
     "source": "Qiita",
     "contentSnippet": "検証研究目的です。悪用はしないでください\n\n倍速視聴推奨\n\n今回の検証で7円溶かしました😭クラウド破産不可避\n\nこの記事でやること\nGoogleのGemini 2.5 Computer Use（プレビュー）用サンプルをWindowsで動かし、AIエージェントにQi..."
-  },
-  {
-    "title": "LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介",
-    "link": "https://zenn.dev/kuto5046/articles/agentic_rl_2025",
-    "pubDate": "Wed, 08 Oct 2025 12:23:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n本記事では、LLM研究で注目を集めるエージェント型強化学習（Agentic Reinforcement Learning、Agentic RL）のサーベイ論文\n「The Landscape of Agentic Reinforcement Learning for LLMs: A Survey」[1]を読み、私なりの理解と要点を整理して紹介します。500件以上の文献を引用するボリュームの"
   },
   {
     "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",

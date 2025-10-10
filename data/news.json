@@ -1,73 +1,87 @@
 [
   {
-    "title": "Understanding Path Analysis Using R",
-    "link": "https://dev.to/anshuman_816f8012be0c9b6c/understanding-path-analysis-using-r-2e2l",
-    "pubDate": "Fri, 10 Oct 2025 06:25:52 +0000",
+    "title": "Understanding Web and Internet Fundamentals",
+    "link": "https://dev.to/rowleks/understanding-web-and-internet-fundamentals-3bf1",
+    "pubDate": "Fri, 10 Oct 2025 12:42:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the world of data analytics, understanding how variables influence one another is often more important than simply predicting an outcome. Imagine trying to predict a car’s mileage — it might seem s"
+    "contentSnippet": "Introduction\n\n\nBehind every website you visit, video you stream, or message you send, there’s a sophisticated chain of communication happening that you never see. Understanding how servers, DNS, proto"
   },
   {
-    "title": "Building a Browser FPS from Scratch: Sicar.io and the Lumina.pw Engine",
-    "link": "https://dev.to/hoodgail/building-a-browser-fps-from-scratch-sicario-and-the-luminapw-engine-gh7",
-    "pubDate": "Fri, 10 Oct 2025 06:24:58 +0000",
+    "title": "PWC 342 Balance: And a 1, and a 2",
+    "link": "https://dev.to/boblied/pwc-342-balance-4eh4",
+    "pubDate": "Fri, 10 Oct 2025 12:37:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've been heads‑down on Sicar.io, a fast, skill‑forward FPS that runs entirely in the browser. This devlog is a look behind the curtain: how the game came together and how I've been building Lumina.pw"
+    "contentSnippet": "Task 1: Balance String\n\n\n\n  \n  \n  Description\n\n\nYou are given a string made up of lowercase English letters and digits only.\nWrite a script to format the given string where no letter is followed by an"
   },
   {
-    "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16",
-    "pubDate": "Fri, 10 Oct 2025 06:10:33 +0000",
+    "title": "This Week In React #253: React Compiler 1.0, React Foundation | RN 0.82, Hermes V1 | Keyboard Controller, IAP, Skia | Prettier",
+    "link": "https://dev.to/sebastienlorber/this-week-in-react-253-react-compiler-10-react-foundation-rn-082-hermes-v1-keyboard-1ope",
+    "pubDate": "Fri, 10 Oct 2025 12:34:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Babe Rainbow – “Aquarium Cowgirl” Live on KEXP\n\n\nBabe Rainbow tore through a live take of “Aquarium Cowgirl” in the KEXP studio (recorded August 14, 2025), fronted by Angus Dowling (vocals), Jack Crow"
+    "contentSnippet": "Hi everyone!\nThis week is a big one: we barely had time to recover from last week's React 19.2 release, and now React Conf is happening live with another bunch of exclusive announcements!\nI'll let you"
   },
   {
-    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj",
-    "pubDate": "Fri, 10 Oct 2025 06:10:24 +0000",
+    "title": "Ping Pong 🏓",
+    "link": "https://dev.to/marcelo_martins_41c7f1c95/ping-pong-l7i",
+    "pubDate": "Fri, 10 Oct 2025 12:29:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hunx and His Punx storm the KEXP studio in a high-octane live take of Alone In Hollywood On Acid, recorded August 26, 2025. Seth Bogart leads the charge on vocals and guitar, backed by Alana Amram (gu"
+    "contentSnippet": "\"\"\"\nControls:\nLeft paddle: W (up), S (down)\nRight paddle: Up Arrow, Down Arrow\nP to pause, R to reset scores\nEscape or close window to quit\nRequirements:\nPython 3.8+\npygame (pip install pygame)\nRun:\nT"
   },
   {
-    "title": "Rick Beato: Listening to the Spotify Top 10 So You Don't Have To",
-    "link": "https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-37mb",
-    "pubDate": "Fri, 10 Oct 2025 06:09:53 +0000",
+    "title": "Sudoku",
+    "link": "https://dev.to/marcelo_martins_41c7f1c95/sudoku-27i3",
+    "pubDate": "Fri, 10 Oct 2025 12:27:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Listening to the Spotify Top 10 So You Don’t Have To\n\n\nRick Beato dives into the Spotify Global Top 50’s top 10 tracks so you don’t have to—and spends the whole time asking, “What is this?” Expect his"
+    "contentSnippet": "import random\ndef print_grid(grid):\ndef is_valid(grid, row, col, num):\n# Check column\nfor i in range(9):\n    if grid[i][col] == num:\n        return False\n\n# Check 3x3 square\nstart_row, start_col = row"
   },
   {
-    "title": "Rick Beato: My Thoughts on Rush's NEW Drummer",
-    "link": "https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ehn",
-    "pubDate": "Fri, 10 Oct 2025 06:09:45 +0000",
+    "title": "AWS Cost Optimization Tips Nobody Tells You",
+    "link": "https://dev.to/manonaga2188/aws-cost-optimization-tips-nobody-tells-you-3p58",
+    "pubDate": "Fri, 10 Oct 2025 12:26:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I just dropped my take on Rush’s huge news—yes, they’ve got a new drummer! Dive in for my honest reaction, check out Rush’s full announcement on YouTube, and see Anika Nilles doing her thing over on I"
+    "contentSnippet": "Look, I've been there. You spin up a few EC2 instances for a \"quick test,\" set up an RDS database, maybe throw in some Lambda functions, and before you know it, your AWS bill looks like a phone number"
   },
   {
-    "title": "Rick Beato: Is There Anything Bumblefoot Can't Play? ...No!",
-    "link": "https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-50o6",
-    "pubDate": "Fri, 10 Oct 2025 06:09:34 +0000",
+    "title": "React Rerender - React snap -styling issue after build",
+    "link": "https://dev.to/snehal_s/react-rerender-react-snap-styling-issue-after-build-37hn",
+    "pubDate": "Fri, 10 Oct 2025 12:26:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Is There Anything Bumblefoot Can’t Play? …No!\nThis laid-back chat with guitar ace Ron “Bumblefoot” Thal dives into his decades-long career, signature technical flair, and the scoop on his latest music"
+    "contentSnippet": "i have rerender my react website with react snap to upload on my shared hosting, i was facing issue like html code is showing first then css was loaded for fixing this i have loaded app.css on top at "
   },
   {
-    "title": "Peter Finch Golf: My favourite course ever. No question.",
-    "link": "https://dev.to/youtube_golf/peter-finch-golf-my-favourite-course-ever-no-question-4ahf",
-    "pubDate": "Fri, 10 Oct 2025 06:06:00 +0000",
+    "title": "Enabling Faster Development Feedback with LocalStack: Lessons from the Software Development Lifecycle",
+    "link": "https://dev.to/kiwimike/enabling-faster-development-feedback-with-localstack-lessons-from-the-software-development-m2l",
+    "pubDate": "Fri, 10 Oct 2025 12:26:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "My all-time favourite course finally lived up to the hype – I took on the incredible Royal Aberdeen, a stunning links that’s literally eroding into the sea. Every hole felt epic, and watching waves cr"
+    "contentSnippet": "TLDR; A story about AWS app development frustrations and how I'd implement better testing practices in my SDLC for faster feedback (and a better experience). \nA few years ago, I was briefly introduced"
   },
   {
-    "title": "The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?",
-    "link": "https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-55f4",
-    "pubDate": "Fri, 10 Oct 2025 06:03:21 +0000",
+    "title": "Excited to Contribute",
+    "link": "https://dev.to/hankvscode2024/excited-to-contribute-4626",
+    "pubDate": "Fri, 10 Oct 2025 12:26:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Game Theory: Was I WRONG About Secret of the Mimic?\n\n\nMatPat dives back into Five Nights at Freddy’s: Secret of the Mimic after months of frame-by-frame sleuthing, comparing his own theory to two riva"
+    "contentSnippet": "🎃 Spotlight your projects and contributions as you go: 2025 Hacktoberfest Writing Challenge is now live!\nJess Lee for The DEV Team ・ Oct 1\n#hacktoberfest\n        #devchallenge\n        #opensource"
   },
   {
-    "title": "GameSpot: Battlefield 6 - Good Company (Review-In-Progress)",
-    "link": "https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-3hcb",
-    "pubDate": "Fri, 10 Oct 2025 06:03:11 +0000",
+    "title": "Builders' Challenge v3",
+    "link": "https://dev.to/nosana/builders-challenge-v3-2979",
+    "pubDate": "Fri, 10 Oct 2025 12:24:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Battlefield 6 doesn’t stray far from the series’ roots, but that’s exactly the point—it delivers big, chaotic multiplayer mayhem that feels both familiar and riotously fun. DICE plays it safe, leaning"
+    "contentSnippet": "The Nosana Builder Challenge is back! After the success of Agents 101, we're excited to announce Agents 102 — a developer challenge where you'll build intelligent AI agents with frontend interfaces an"
+  },
+  {
+    "title": "DroidKaigi/iOSDCに向けて、Raspberry Pi × Embedded Swiftでラジコンを作ってみた",
+    "link": "https://qiita.com/shin_usu/items/d4c9309f18e48a6985a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T01:53:44.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. はじめに\n先日開催された「DroidKaigi 2025」と「iOSDC Japan 2025」の企業ブースにて、本田技研工業ではスマホから操作する「ラジコン縦列駐車ゲーム」を展示しました。\n\n60秒以内にラジコンを操作して縦列駐車を成功させる、というシンプル..."
+  },
+  {
+    "title": "「散歩は最高のデバッグ時間」──エンジニアの集中力・作業効率・睡眠が劇的に改善する理由",
+    "link": "https://qiita.com/nakaizumi_slj/items/bf0a08284a8869fbc23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T00:40:15.000Z",
+    "source": "Qiita",
+    "contentSnippet": "💻 エンジニアは動かない生き物？\n気づけば一日中PCの前に座りっぱなし。\n気づけば万歩計の数字が「200歩」。\nリモートワークや長時間のコーディングが当たり前になった今、エンジニアの運動不足は深刻です。\n肩こり、腰痛、目の疲れ、集中力の低下……\nでも「運動する時間がない」..."
   },
   {
     "title": "我々はCodexとどう向き合うべきなのか",
@@ -89,6 +103,20 @@
     "pubDate": "2025-10-09T15:04:58.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
+  },
+  {
+    "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
+    "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T13:15:39.000Z",
+    "source": "Qiita",
+    "contentSnippet": "無料のエンジニアコミュニティを運営しているのですが 「フルリモートを続けたいのですが、フルリモート案件はそんなに無いんですか。」そんな声をよく耳にします。\n2023年ごろまでは、SES業界にもフルリモート案件が多く存在していました。\n通勤なし、自由な働き方、しかも単価も高水..."
+  },
+  {
+    "title": "Oracle Database@Hyperscalerを利用する前に確認することあれこれ",
+    "link": "https://qiita.com/billtench/items/642d640d6683682a26e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T08:25:00.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Oracle Database@Hyperscaler (DB@Hyperscaler) を利用する前に、個人的に気になる点や「これってどうなるの？」という点、参照すべきドキュメントをまとめました。\nDB@Hyperscale とは何？という方はこちらを参照してください。\n..."
   },
   {
     "title": "Playwrightの新機能 使ってみた【プランナーエージェントについて】",
@@ -124,13 +152,6 @@
     "pubDate": "2025-10-09T01:40:30.000Z",
     "source": "Qiita",
     "contentSnippet": "こんにちは、とまだです。\nAIエージェントを使い始めたけど、「動くコードは作ってくれるけど、品質が心配...」と感じたことはありませんか？\n私も最初はそうでした。\nClaude CodeやCursor、Codexを使っていると、確かに素早くコードを生成してくれます。\nですが..."
-  },
-  {
-    "title": "Systems Manager の Session Manager の上に SSH を通して安全にプライベートサブネットの EC2 へインターネットから接続する",
-    "link": "https://qiita.com/takeda_h/items/fd00b88375494a1544ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T00:10:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "NAT Gateway もないプライベートサブネットの EC2 に、Session Manager を使って閉域性を保ちながら、インターネットから EC2 へ SSH で接続してみます。\n\nSession Manager を閉域で使う手順\n\nプライベートサブネットに ssm..."
   },
   {
     "title": "React学習ログ No.9",
@@ -217,32 +238,11 @@
     "contentSnippet": "2025/10/04(土) に開催された、『Japan Azure User Group (JAZUG) 15周年勉強会』に参加しまして、\nそこで行われた、尊敬するマイクロソフトの先輩エンジニアである寺田さん (@yoshioterada) (世界で活躍する超つよつよベテラ..."
   },
   {
-    "title": "Slack × Notion × GPT連携で実現する OODA自動回転エコシステム",
-    "link": "https://qiita.com/ota-tsutomu/items/d3a3db77d67e44f35492?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T04:50:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "🧭 はじめに\n前回の「KPTのように形骸化させない。OODAループを“再現性ある習慣”にした現場の工夫とAI連携」からの続きです。\nOODAループ（Observe → Orient → Decide → Act）は、軍事分野で生まれた意思決定のフレームワークとして知られて..."
-  },
-  {
-    "title": "MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
-    "link": "https://qiita.com/shirok/items/b255172ed6a845c972f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-07T23:29:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Oracle Cloud Infrastructure (OCI) Compute BM.Standard.E6 で超高パフォーマンス・ボリューム(UHP)のストレージを使用して I/Oスループットが 200Gbpsでることを前回確認しました。\n今回、2つの BM.Sta..."
-  },
-  {
     "title": "生成AIはネットワーク構築運用をどれだけ楽にするか？ Interop Tokyoでの実験が明かした現実と可能性。Cloud Operator Days Tokyo 2025基調講演ほか［PR］",
     "link": "https://www.publickey1.jp/blog/25/ai_interop_tokyocloud_operator_days_tokyo_2025pr.html",
     "pubDate": "2025-10-07T15:07:44.000Z",
     "source": "Publickey",
     "contentSnippet": "生成AIによるプログラミングの支援はすでに多くの開発現場で使われ始めています。ではクラウドやネットワークの運用の現場において、生成AIはどのくらい実用的に使えるのでしょうか？ クラウドの運用などにたずさわるシステム運用管理者に光を当てるイベント「Cloud Operator Days Tokyo 2025」（CODT2025）のクロージングイベントが9月5日に都内で開催され、基調講演に東京大学 情"
-  },
-  {
-    "title": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips",
-    "link": "https://qiita.com/akira_papa_AI/items/7344e21b9204526e5127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T21:06:36.000Z",
-    "source": "Qiita",
-    "contentSnippet": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践ガイド\nAgent Builderについて調べて実際に触ってみたんですけど、なんかこれって単なる新ツールじゃなくて、けっこう本質的な転換点な気がしてるんです。\n\nAgent Builderって何？..."
   },
   {
     "title": "次期MCP（Model Context Protocol）では非同期操作、ステートレス、公式のプロトコル拡張などサポート",

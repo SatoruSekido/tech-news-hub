@@ -1,73 +1,80 @@
 [
   {
-    "title": "AWS IAM ACCESS ANALYSIS & REPORTS",
-    "link": "https://dev.to/ntsezenelvis/aws-iam-access-analysis-reports-31pc",
-    "pubDate": "Thu, 09 Oct 2025 18:23:38 +0000",
+    "title": "The Magic of Stubbing sh",
+    "link": "https://dev.to/paulscoder/the-magic-of-stubbing-sh-567m",
+    "pubDate": "Fri, 10 Oct 2025 01:34:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AWS IAM ACCESS ANALYSIS & REPORTS Deep Dive\n\n\n\n  \n  \n  aws #iam #security #devops\n\n\n📌 This article is part of the AWS IAM Deep Dive series.  \nPart 1: IAM Users Deep Dive\n\n\nPart 2: IAM Groups Deep Div"
+    "contentSnippet": "I really love sh and bash but I often feel alone and I get some regular negativity when I solve a problem with it. I know why too, shell scripts can have a broad level of complexity that has other lan"
   },
   {
-    "title": "Vector's VRL introduction (chapter 1)",
-    "link": "https://dev.to/amarao/vectors-vrl-introduction-chapter-1-30p1",
-    "pubDate": "Thu, 09 Oct 2025 18:16:25 +0000",
+    "title": "The Library Method: Understanding @cache",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-library-method-understanding-cache-57l1",
+    "pubDate": "Fri, 10 Oct 2025 01:06:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Preface\n\n\nThere is a program to process events (metrics, logs, traces) from different sources (files, scripts, scraping, HTTP servers, syslogs, etc.) into different sinks (Prometheus exporter, remote "
+    "contentSnippet": "Episode 1 - The Secret Life of Python\n\n\n\n\n\nTimothy arrives at the library, laptop open, wearing a frustrated expression that Margaret recognizes immediately.\nTimothy: \"Margaret, can I ask you somethin"
   },
   {
-    "title": "LinkedIn SDE Virtual Onsite Experience: Acing Medium-Level Questions + Efficient Prep Tips",
-    "link": "https://dev.to/net_programhelp_e160eef28/linkedin-sde-virtual-onsite-experience-acing-medium-level-questions-efficient-prep-tips-1250",
-    "pubDate": "Thu, 09 Oct 2025 18:12:49 +0000",
+    "title": "Hacktoberfest Week 1",
+    "link": "https://dev.to/kphero/hacktoberfest-week-1-53mh",
+    "pubDate": "Fri, 10 Oct 2025 00:55:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I recently completed the LinkedIn SDE Virtual Onsite , which lasted roughly 1 hour. The core of the interview focused on Coding + In-depth Project Discussion, with all questions at the LeetCode Medium"
+    "contentSnippet": "Well.. it's an interesting start.\nFinding an issue to work on was frustrating to say the least. There is a lot of sorting through unmaintained projects and projects made to farm PRs for Hacktoberfest."
   },
   {
-    "title": "How to Safely Set Up & Optimize Adobe Photoshop CC (Official Tips)",
-    "link": "https://dev.to/softguide321/how-to-safely-set-up-optimize-adobe-photoshop-cc-official-tips-1fb6",
-    "pubDate": "Thu, 09 Oct 2025 18:12:48 +0000",
+    "title": "Understanding `'PropsWithChildren'` and `verbatimModuleSyntax` in React + TypeScript 5",
+    "link": "https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie",
+    "pubDate": "Fri, 10 Oct 2025 00:50:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Adobe Photoshop CC is a powerhouse — but it can feel slow or clunky if not configured for your machine. I wrote a practical, beginner-friendly guide that walks you through safe, official steps to inst"
+    "contentSnippet": "'PropsWithChildren' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.ts(1484)\n\n\nIf you’ve recently upgraded to TypeScript 5+ and started seeing this new e"
   },
   {
-    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2ikf",
-    "pubDate": "Thu, 09 Oct 2025 18:10:20 +0000",
+    "title": "Stress Testing Go Memory: A Practical Guide to High-Load Scenarios",
+    "link": "https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c",
+    "pubDate": "Fri, 10 Oct 2025 00:47:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SABRI – “Sold Myself For Love” on A COLORS SHOW\n\n\nDutch-born songstress SABRI pours her heart out on COLORS’ signature minimalist stage with her latest single “Sold Myself For Love,” lifted from her n"
+    "contentSnippet": "Hey Dev.to community! 👋 If you’re a Go developer with a year or two of experience, you’ve probably marveled at Go’s concurrency model—goroutines and channels make it a breeze to build scalable apps. "
   },
   {
-    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-5dee",
-    "pubDate": "Thu, 09 Oct 2025 18:10:10 +0000",
+    "title": "Refactoring My Code and Rewriting Git History",
+    "link": "https://dev.to/oleksandrakordonets/refactoring-my-code-and-rewriting-git-history-d2e",
+    "pubDate": "Fri, 10 Oct 2025 00:40:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Paris-based rapper Nono La Grinta tears into “LOVE YOU” with razor-sharp flow and raw grit on A COLORS SHOW, previewing a taste of his upcoming debut project. His uncompromising delivery cuts through "
+    "contentSnippet": "This week I worked on refactoring my Repository Context Packager project. The goal was to clean up the structure of my code, improve readability, and reduce technical debt without changing how the pro"
   },
   {
-    "title": "KEXP: Babe Rainbow - Sunday (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-2cb3",
-    "pubDate": "Thu, 09 Oct 2025 18:09:57 +0000",
+    "title": "Architectural vs Transport Asynchrony: What Most Engineers Get Wrong About Async Systems",
+    "link": "https://dev.to/komelgman/architectural-vs-transport-asynchrony-what-most-engineers-get-wrong-about-async-systems-5dkj",
+    "pubDate": "Fri, 10 Oct 2025 00:40:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Babe Rainbow rocked the KEXP studio on August 14, 2025, laying down a live take of “Sunday” with Angus Dowling on vocals, Jack Crowther on guitar, Elliot O’Reilly on bass and Timon Martin on drums. Th"
+    "contentSnippet": "(and why you should stop saying \"asynchronous\" without clarifying what you mean)\nMany engineers say \"we use asynchronous communication\" — but they're almost always wrong.\nnon-blocking data transfer, n"
   },
   {
-    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-31",
-    "pubDate": "Thu, 09 Oct 2025 18:09:46 +0000",
+    "title": "What is Dependency Injection in Laravel?",
+    "link": "https://dev.to/laracopilot/what-is-dependency-injection-in-laravel-2fp",
+    "pubDate": "Fri, 10 Oct 2025 00:29:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hunx and His Punx Live on KEXP\n\n\nOn August 26, 2025, KEXP welcomed Hunx and His Punx for a raw, high-energy studio take on “Alone In Hollywood On Acid.” Frontman Seth Bogart leads the charge on vocals"
+    "contentSnippet": "If you want to write clean, testable, and maintainable code in Laravel, you need to understand dependency injection. Let's cut through complex jargon and show you how it benefits you as a Laravel deve"
   },
   {
-    "title": "KEXP: Hunx and His Punx - No Way Out (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-no-way-out-live-on-kexp-1k8h",
-    "pubDate": "Thu, 09 Oct 2025 18:09:31 +0000",
+    "title": "Mastering Vitest + React Testing Library: Fixing ‘beforeEach’, ‘toBeInTheDocument’, and JSDOM Gotchas",
+    "link": "https://dev.to/cristiansifuentes/mastering-vitest-react-testing-library-fixing-beforeeach-tobeinthedocument-and-jsdom-2379",
+    "pubDate": "Fri, 10 Oct 2025 00:28:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hunx and His Punx tore into “No Way Out” live in the KEXP studio on August 26, 2025. Fronted by Seth Bogart (vocals, guitar) and backed by Alana Amram, Shannon Shaw, Erin Emslie and Jose Boyer, the pe"
+    "contentSnippet": "If you've started testing React apps with Vitest and React Testing Library, you've likely seen these errors:\nCannot find name 'beforeEach'.ts(2304)\nProperty 'toBeInTheDocument' does not exist on type "
   },
   {
-    "title": "KEXP: Hunx and His Punx - Full Performance (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-full-performance-live-on-kexp-3o9j",
-    "pubDate": "Thu, 09 Oct 2025 18:09:20 +0000",
+    "title": "Introducing Formulas: Create smarter forms with calculations, automation, and much more",
+    "link": "https://dev.to/joyfill/introducing-formulas-create-smarter-forms-with-calculations-automation-and-much-more-n4a",
+    "pubDate": "Fri, 10 Oct 2025 00:27:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hunx and His Punx – Live on KEXP\n\nOn August 26, 2025, Hunx and His Punx stormed the KEXP studio with four high-octane tracks—Alone In Hollywood On Acid, Wild Boys, Mud In Your Eyes and No Way Out. Set"
+    "contentSnippet": "We’re excited to announce a powerful new feature in our form builder SDK: Formulas.\nWith formulas, your forms aren’t just static fields anymore—they become dynamic, programmable, and intelligent. Whet"
+  },
+  {
+    "title": "iOS Default Web Browserの自作方法",
+    "link": "https://zenn.dev/kyome/articles/c5935b24be35e0",
+    "pubDate": "Thu, 09 Oct 2025 15:10:16 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\niOS 14からアプリをデフォルトのウェブブラウザとして実装/配布することができます。\nただし、デフォルトのウェブブラウザとして動作させるには特別なEntitlementが必要で、Appleに申請して付与してもらう必要があります。\n実装手順については公式のドキュメントがあります。\nhttps://developer.apple.com/documentation/xcode/prepar"
   },
   {
     "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",
@@ -77,6 +84,27 @@
     "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
   },
   {
+    "title": "４輪独立ステアリング移動機構の開発記録",
+    "link": "https://zenn.dev/takaki_maeda_99/articles/80606c946db64e",
+    "pubDate": "Thu, 09 Oct 2025 09:12:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nロボコン関係で見る方が多いと思うので、一応先に個人的な結論ですが、ほとんどの場合”オムニで良い”です。\n大抵の場合、敗因は足回りにはありません。足の差で負けて初めて、開発を始めればいいです。\nコスパが悪すぎるので、余裕がないなら作るべきではありません。\n\n\n じゃあなぜ作ったのか？\nロマンがあったからです。機体設計やってたら、一度は作ってみたいと思いますよね。それだけです。\n単純に弊サー"
+  },
+  {
+    "title": "Playwrightの新機能 使ってみた【プランナーエージェントについて】",
+    "link": "https://zenn.dev/iinoten/articles/084708f69f3f26",
+    "pubDate": "Thu, 09 Oct 2025 05:16:44 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nPlaywright 1.56で導入された新機能「Test Agents」が気になっていたので、実際に使ってみました。この記事では、プランナーエージェント（🎭 Planner） を使ってPlaywright公式サイトのテストプランを自動生成する過程を、1から順を追って解説します。\n\n Test Agentsとは？\nPlaywright Test Agentsは、AI駆動でテストの作成と"
+  },
+  {
+    "title": "【手動ダウンロードからの卒業】環境ジオポータルのデータをワンクリックでQGISに追加しよう",
+    "link": "https://qiita.com/geo_jagaimo/items/1b3c5d1f8589d1f69c6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T03:15:10.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n環境ジオポータルで公開されているデータを、ダウンロードやURL指定の手間をかけずに、ワンクリックでQGISに追加できるプラグインを作成しました。\n追加できるデータは、タイプが「Feature Service」で、ライセンスが「CC BY 4.0」のデータです。..."
+  },
+  {
     "title": "MCPツール棚卸しによるClaude Codeのコンテキスト最適化",
     "link": "https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit",
     "pubDate": "Thu, 09 Oct 2025 02:29:43 GMT",
@@ -84,11 +112,32 @@
     "contentSnippet": "はじめに\nMCP(Model Context Protocol) ツールを追加していったら、Claude Code の応答精度が落ちたと感じたことはありませんか?\nMCP は、Claude Code などの AI エージェントに外部ツールとの連携機能を提供する強力なプロトコルです。開発環境の効率化を目的として、様々な MCP ツールを追加することは一般的な運用となっています。\nしかし、MCP ツー"
   },
   {
+    "title": "【コピペOK】技術的負債を作らないためのルールを設定しよう（Claude Code, Codex, Cursor対応）",
+    "link": "https://zenn.dev/tmasuyama1114/articles/global_rule_file",
+    "pubDate": "Thu, 09 Oct 2025 01:55:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、とまだです。\nAIエージェントを使い始めたけど、「動くコードは作ってくれるけど、品質が心配...」と感じたことはありませんか？\n私も最初はそうでした。\nClaude CodeやCursor、Codexを使っていると、確かに素早くコードを生成してくれます。\nですが、そのコードが本当に「良いコード」なのか不安になりますよね。\nZenn でこちらの記事が注目を集めているように、多くの方がコー"
+  },
+  {
     "title": "google/LangExtract解剖- LLMで抽出した項目の文書内位置特定ロジックを深堀る",
     "link": "https://zenn.dev/gvatech_blog/articles/2d121536d81eb0",
     "pubDate": "Thu, 09 Oct 2025 01:46:54 GMT",
     "source": "Zenn",
     "contentSnippet": "!\n本稿は2025/10/04時点のLangExtractのソースコードを元に記述しています。\n\n\n google/LangExtractとは\nhttps://github.com/google/langextract\nLangExtractは2025年7月にGoogleが発表したLLMを用いた項目抽出ライブラリです。\nLangExtractは単なる項目抽出ができるに留まらず、抽出した項目が抽出元"
+  },
+  {
+    "title": "【コピペOK】AIエージェントで良いコードを書く！誰でも使える品質向上ルールの設定方法",
+    "link": "https://qiita.com/tomada/items/df5d3e0f611860bc2740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T01:40:30.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは、とまだです。\nAIエージェントを使い始めたけど、「動くコードは作ってくれるけど、品質が心配...」と感じたことはありませんか？\n私も最初はそうでした。\nClaude CodeやCursor、Codexを使っていると、確かに素早くコードを生成してくれます。\nですが..."
+  },
+  {
+    "title": "Systems Manager の Session Manager の上に SSH を通して安全にプライベートサブネットの EC2 へインターネットから接続する",
+    "link": "https://qiita.com/takeda_h/items/fd00b88375494a1544ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T00:10:54.000Z",
+    "source": "Qiita",
+    "contentSnippet": "NAT Gateway もないプライベートサブネットの EC2 に、Session Manager を使って閉域性を保ちながら、インターネットから EC2 へ SSH で接続してみます。\n\nSession Manager を閉域で使う手順\n\nプライベートサブネットに ssm..."
   },
   {
     "title": "React学習ログ No.9",
@@ -133,11 +182,11 @@
     "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
   },
   {
-    "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
-    "link": "https://zenn.dev/shintake/articles/cc4779fb80dea7",
-    "pubDate": "Wed, 08 Oct 2025 13:18:59 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n先日、社内で「AIだけでプロトタイプを作ってみよう」というイベントがあった。\n要件をAIに渡し、設計からコーディング、UI生成までをどこまで自動化できるかを試す——\nいわば“AI開発耐久テスト”のような企画だった。\n生成されたコードを動かしてみると、どれも意外なほどきちんと動いた。\n致命的なバグもなく、UIもAPIも一応の体裁を保っていた。\nつまり、少なくとも“動くもの”はAIだけで作れ"
+    "title": "Slackに慣れた人間が「Teams使いにくい」と言う理由を言語化して、この先生きのこるための方法を考えてみよう（言語化編）",
+    "link": "https://qiita.com/ykkn/items/8c4082809219c201322f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-08T13:17:26.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n前職では約6年間Slackを使っていましたが（それ以前は今は無きHipChat）、転職して社内チャットがTeamsになりました。\n「でも最近のTeamsはSlackみたいになってきてるから慣れれば大丈夫でしょ」と思っていました。\nしかし使っていくうちに広がる違和..."
   },
   {
     "title": "Gemini 2.5 Computer Use✨AIでQiitaにログインし、トレンド3位の記事をいいねする！ on Windows【E2Eテスト爆速不可避】",
@@ -152,20 +201,6 @@
     "pubDate": "Wed, 08 Oct 2025 11:27:45 GMT",
     "source": "Zenn",
     "contentSnippet": "GA technologiesでソフトウェアエンジニアをしている中坂です。\n先日社内で正規表現エンジンの実装の話題で盛り上がりました。ソフトウェアエンジニアであれば普段の開発の中では当たり前のように正規表現を使っていると思いますので、記法や挙動に関する知識はある程度持っているはずです。しかしながら、具体的に我々の書いた正規表現がいかにしてテキストにマッチするのか、その内部の仕組みまで理解している人"
-  },
-  {
-    "title": "SESにおける面談対策について",
-    "link": "https://qiita.com/kosuke_shoji/items/30dcd80f3fad60ef18c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T08:48:42.000Z",
-    "source": "Qiita",
-    "contentSnippet": "◆はじめに\nSESにとって案件への参画は重要なことになります。\n面談を成功させるために案件情報の事前調査と自己分析、そして質問対策(模擬面談ある場合も。。)、逆質問の準備が重要です。\n今回は、面談がちょっと苦手です💦って人向けに書いていきたいと思います。\n\n◆案件情報の事..."
-  },
-  {
-    "title": "【ワークフローエンジン】PrefectのFaaSでの軽量ワークフロー向けの機能4選",
-    "link": "https://qiita.com/kkkdev/items/5358bb324cb5a0eb6b49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T08:05:17.000Z",
-    "source": "Qiita",
-    "contentSnippet": "軽量ワークフローエンジンを検討する機会があったので、記載しました。\n※ Prefect Cloudはスコープ外です。\n\nPrefectとは\n\nPythonベースのオープンソースのワークフローオーケストレーションツールです。\n関数にデコレータを付けるだけでフローやタスクを..."
   },
   {
     "title": "GitHub Private repo で XCFramework を配布する",
@@ -189,27 +224,6 @@
     "contentSnippet": "🧭 はじめに\n前回の「KPTのように形骸化させない。OODAループを“再現性ある習慣”にした現場の工夫とAI連携」からの続きです。\nOODAループ（Observe → Orient → Decide → Act）は、軍事分野で生まれた意思決定のフレームワークとして知られて..."
   },
   {
-    "title": "「OpenAIが新たに出したAIエージェント開発キットをアプリに組み込んでみた【AgentKit入門】",
-    "link": "https://zenn.dev/forward/articles/cd0e0453822f7e",
-    "pubDate": "Wed, 08 Oct 2025 04:11:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nOpenAI公式のエージェント構築ツールAgentKitが発表されました。AgentKitはノーコード／ローコードでエージェントを視覚的に構築できるツールでn8n, difyなどをすでに使ったことがある人には馴染み深い分野ではないでしょうか？\nhttps://platform.openai.com/docs/guides/agents/agent-builder\n今回は、公式ガイドを見な"
-  },
-  {
-    "title": "AIにリファクタリングをさせて、PRのタイトルと説明文も生成する",
-    "link": "https://zenn.dev/noppe/articles/d637794eb7583b",
-    "pubDate": "Wed, 08 Oct 2025 02:49:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Codex\nCodexを使ってリポジトリの小さなリファクタリングを自動化しながら、Pull Requestのタイトルと説明文までまとめて生成する方法を紹介します。自動化の狙いは、レビュー前に整った説明を添えることで手戻りを減らすことです。\n\n\n 背景と目的\n日常的にSwiftやObjective Cの修正を繰り返す中で、細かなリファクタリングを積み重ねる作業は単調になりがちです。生成AIに任せられ"
-  },
-  {
-    "title": "Rustでセキュリティsandboxツールを作った",
-    "link": "https://zenn.dev/techlead/articles/2025-10-05-rust-sandbox-tool-mori",
-    "pubDate": "Wed, 08 Oct 2025 00:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nども\n最近、仕事場にClaude Codeを導入して、チームのパフォーマンスが爆増して仕事が減ってきたゴリラです。\nClaude Codeを導入する際に便利なMCP(serenaやcontext7、playwrightなど)をいくつか入れたんですが、セキュリティちゃんとしないとねという話しになり、それがきっかけでセキュリティsandboxツールのmoriを作った話しです。\n\nhttps:"
-  },
-  {
     "title": "MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
     "link": "https://qiita.com/shirok/items/b255172ed6a845c972f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-07T23:29:59.000Z",
@@ -231,25 +245,11 @@
     "contentSnippet": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践ガイド\nAgent Builderについて調べて実際に触ってみたんですけど、なんかこれって単なる新ツールじゃなくて、けっこう本質的な転換点な気がしてるんです。\n\nAgent Builderって何？..."
   },
   {
-    "title": "SharePointの雑多なデータの山をナレッジエージェント（Copilot）で整理する",
-    "link": "https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T16:55:29.000Z",
-    "source": "Qiita",
-    "contentSnippet": "前提\nこの記事は2025/10/06時点での公開情報や動作を私なりにまとめたものとなります。\n正確な情報はご自身でご確認もしくはMicrosoftへお問い合わせください。\nまた、環境ごとにリリースタイミングが異なる点や、管理者により制御されている可能性がある点、ご留意くだ..."
-  },
-  {
     "title": "次期MCP（Model Context Protocol）では非同期操作、ステートレス、公式のプロトコル拡張などサポート",
     "link": "https://www.publickey1.jp/blog/25/mcpmodel_context_protocol.html",
     "pubDate": "2025-10-06T15:29:56.000Z",
     "source": "Publickey",
     "contentSnippet": "Anthropicがオープンソースとして仕様を作成しているMCP（Model Context Protocol）は、今年（2025年）11月にアップデートを予定しています（MCPはこれまでにも、2025年3月、6月とアップデートが行われています）。 現在どのようなアップデートが検討されているのかが、MCP公式サイトのブログ記事「Update on the Next MCP Protocol Rel"
-  },
-  {
-    "title": "サーバーエンジニアをやるうえで重要な事とは",
-    "link": "https://qiita.com/kosuke_shoji/items/7963d7b20a4e56fedc5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T08:15:00.000Z",
-    "source": "Qiita",
-    "contentSnippet": "◆はじめに\n前回の記事でインフラエンジニアとは？を投稿しました！！\n今回はその中で紹介した[サーバーエンジニア]について、目指すうえで重要なことをゆるーく書いていきたいと思います(」・ω・)」\n早速ですが、サーバーエンジニアとして重要なことは、ざっとですが\n・基礎的な技術..."
   },
   {
     "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",

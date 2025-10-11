@@ -1,73 +1,73 @@
 [
   {
-    "title": "JavaScript Fundamentals: Variables and Data Types",
-    "link": "https://dev.to/hardik_kanajariya/javascript-fundamentals-variables-and-data-types-5gab",
-    "pubDate": "Fri, 10 Oct 2025 18:30:00 +0000",
+    "title": "Right-Sizing Kubernetes Requests and Limits: How to Avoid OOMKills and Waste",
+    "link": "https://dev.to/cloudpilot-ai/right-sizing-kubernetes-requests-and-limits-how-to-avoid-oomkills-and-waste-57cd",
+    "pubDate": "Sat, 11 Oct 2025 01:33:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Understanding variables and data types is crucial for JavaScript development. This guide covers everything you need to know.\nJavaScript offers three ways to declare variables:\nlet - Block-scoped, can "
+    "contentSnippet": "Introduction: The Hidden Cost of Wrong Requests & Limits\n\n\nPicture this: Your team just launched a major promotion campaign. Traffic surges exactly as marketing hoped but minutes later, your flagship "
   },
   {
-    "title": "OpenAI's ChatGPT Instant Checkout: Transforming E-Commerce with AI-Powered Conversations",
-    "link": "https://dev.to/spano_benja_14a928166ec22/openais-chatgpt-instant-checkout-transforming-e-commerce-with-ai-powered-conversations-3pfb",
-    "pubDate": "Fri, 10 Oct 2025 18:24:48 +0000",
+    "title": "Sharing this for the product design and strategy folks here. While the article is about AI strategy, it's really a story about product vision.",
+    "link": "https://dev.to/shiv-centcapital/sharing-this-for-the-product-design-and-strategy-folks-here-while-the-article-is-about-ai-4ngf",
+    "pubDate": "Sat, 11 Oct 2025 01:32:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Research suggests that OpenAI's Instant Checkout feature, launched on September 29, 2025, enables seamless in-chat purchases for U.S. users through the open-source Agentic Commerce Protocol (ACP) deve"
+    "contentSnippet": "From the Cloud to Capital: Three Lessons from Marketing AWS Gen AI That Forged My Product Vision\nshiv ・ Oct 11\n#ai\n        #aws\n        #startup\n        #marketing"
   },
   {
-    "title": "I’m busy for Hacktoberfest 2025 after work PRs, aren’t you?",
-    "link": "https://dev.to/fedtti/im-busy-for-hacktoberfest-2025-after-work-prs-arent-you-393l",
-    "pubDate": "Fri, 10 Oct 2025 18:23:38 +0000",
+    "title": "Reposting this for all the makers and builders. This is a founder's story and a playbook sharing the lessons from my AWS journey that led me to build my own fintech startup, Cent Capital.",
+    "link": "https://dev.to/shiv-centcapital/reposting-this-for-all-the-makers-and-builders-this-is-a-founders-story-and-a-playbook-sharing-4a0l",
+    "pubDate": "Sat, 11 Oct 2025 01:31:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "From the Cloud to Capital: Three Lessons from Marketing AWS Gen AI That Forged My Product Vision\nshiv ・ Oct 11\n#ai\n        #aws\n        #startup\n        #marketing"
   },
   {
-    "title": "Understanding DAX Functions in Power BI",
-    "link": "https://dev.to/beatrice_njagi/understanding-dax-functions-in-power-bi-59bm",
-    "pubDate": "Fri, 10 Oct 2025 18:14:37 +0000",
+    "title": "Thought the 'Future' community would find this interesting. I'm sharing a playbook based on my experience as Head of Gen AI Marketing at AWS, exploring what I believe is the 'next act' of the AI revolution.",
+    "link": "https://dev.to/shiv-centcapital/thought-the-future-community-would-find-this-interesting-im-sharing-a-playbook-based-on-my-2l80",
+    "pubDate": "Sat, 11 Oct 2025 01:31:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Power BI stands for Power Business Intelligence—a powerful platform that enables users to transform raw data into clear, actionable, and interactive visualizations, supporting data-driven decision-mak"
+    "contentSnippet": "From the Cloud to Capital: Three Lessons from Marketing AWS Gen AI That Forged My Product Vision\nshiv ・ Oct 11\n#ai\n        #aws\n        #startup\n        #marketing"
   },
   {
-    "title": "Recommended Approaches for Loading Many Large Images on the Web",
-    "link": "https://dev.to/rijultp/recommended-approaches-for-loading-many-large-images-on-the-web-5997",
-    "pubDate": "Fri, 10 Oct 2025 18:11:17 +0000",
+    "title": "Sharing this here from the main DEV feed as the discussion is all about scale. My post digs into the challenges of moving AI from a cool PoC to a cost-effective, enterprise-scale solution, using lessons from my time at AWS.",
+    "link": "https://dev.to/shiv-centcapital/sharing-this-here-from-the-main-dev-feed-as-the-discussion-is-all-about-scale-my-post-digs-into-eci",
+    "pubDate": "Sat, 11 Oct 2025 01:30:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When working with web applications, it is common to encounter situations where you need to display a large number of images at once. This can be challenging if each image is large, for example 300 kil"
+    "contentSnippet": "From the Cloud to Capital: Three Lessons from Marketing AWS Gen AI That Forged My Product Vision\nshiv ・ Oct 11\n#ai\n        #aws\n        #startup\n        #marketing"
   },
   {
-    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-co9",
-    "pubDate": "Fri, 10 Oct 2025 18:10:35 +0000",
+    "title": "From the Cloud to Capital: Three Lessons from Marketing AWS Gen AI That Forged My Product Vision",
+    "link": "https://dev.to/shiv-centcapital/from-the-cloud-to-capital-three-lessons-from-marketing-aws-gen-ai-that-forged-my-product-vision-6ig",
+    "pubDate": "Sat, 11 Oct 2025 01:28:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SABRI’s Soulful COLORS Debut\n\n\nDutch-born artist SABRI brings raw emotion and vulnerability to her latest single “Sold Myself For Love” on A COLORS SHOW, giving listeners a teaser of her upcoming EP W"
+    "contentSnippet": "_By Shivam Singh, Founder & CEO of Cent Capital, Former Head of Go-to-Market Strategy, Generative AI at Amazon Web Services\nI remember a meeting in a glass-walled conference room, overlooking a sprawl"
   },
   {
-    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-11he",
-    "pubDate": "Fri, 10 Oct 2025 18:10:24 +0000",
+    "title": "🌏 Nusantara-API 🇮🇩 — from MySQL dump to a tiny 420 KB library",
+    "link": "https://dev.to/ibnushahraa/nusantara-api-from-mysql-dump-to-a-tiny-420-kb-library-44fo",
+    "pubDate": "Sat, 11 Oct 2025 01:26:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nono La Grinta – LOVE YOU | A COLORS SHOW\n\n\nParis-based rapper Nono La Grinta delivers every line with precision and grit in a stripped-back COLORS performance of “LOVE YOU,” giving us a first taste o"
+    "contentSnippet": "A while ago, I was looking for Indonesian regional data for one of my projects.\n\nMost of the datasets I found came as large MySQL dumps, which required importing into a database just to access provinc"
   },
   {
-    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2039",
-    "pubDate": "Fri, 10 Oct 2025 18:10:09 +0000",
+    "title": "Refactoring my Repository-Context-Packager code",
+    "link": "https://dev.to/cynthia_f/refactoring-my-repository-context-packager-code-1255",
+    "pubDate": "Sat, 11 Oct 2025 01:21:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hunx and His Punx crash the KEXP studio with a blistering live take of “Alone In Hollywood On Acid,” recorded August 26, 2025. Fronted by Seth Bogart’s snarling vocals and guitar, the band’s powerhous"
+    "contentSnippet": "My Repository-Context-Packager tool packages Git repository contents into a single text file for sharing with Large Language Models (LLMs). If you're not familiar, it's a CLI app that analyzes directo"
   },
   {
-    "title": "React Hook for the Battery Status API",
-    "link": "https://dev.to/nikadev/react-hook-for-the-battery-status-api-3i28",
-    "pubDate": "Fri, 10 Oct 2025 18:10:04 +0000",
+    "title": "OSD600: Lab 5",
+    "link": "https://dev.to/kphero/osd600-lab-5-1n4m",
+    "pubDate": "Sat, 11 Oct 2025 01:04:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello and welcome to my first React posts.\nBut that's enough, let's get into the topic!\nI do this post, because I created a custom hook useBatteryStatus. I will explain what needs to be done to create"
+    "contentSnippet": "This week we are returning to working on our own repository context packager project in an attempt to refactor our code in a bit to improve code maintainability and practice rebasing and amending comm"
   },
   {
-    "title": "My First Node.js: Mastering the Fundamentals❗",
-    "link": "https://dev.to/cristea_theodora_6200140b/from-zero-to-start-the-nodejs-fundamentals-you-need-to-know-part-i-32an",
-    "pubDate": "Fri, 10 Oct 2025 18:10:02 +0000",
+    "title": "Managing Global Settings in React Native: A Clean Context API Approach",
+    "link": "https://dev.to/cathylai/managing-global-settings-in-react-native-a-clean-context-api-approach-4b20",
+    "pubDate": "Sat, 11 Oct 2025 00:54:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Intro\n\n\nHey everyone! Lately, I've been focusing heavily on backend development, and I finally decided it was time to dive into Node.js. I'd been putting this moment off for a while, and now it's here"
+    "contentSnippet": "How to share app-wide preferences like measurement units across your Expo app\n\n\n\n\n\nWhen building a house hunting app, I ran into a common challenge that many React Native developers face: How do you s"
   },
   {
     "title": "DroidKaigi/iOSDCに向けて、Raspberry Pi × Embedded Swiftでラジコンを作ってみた",
@@ -77,11 +77,25 @@
     "contentSnippet": "1. はじめに\n先日開催された「DroidKaigi 2025」と「iOSDC Japan 2025」の企業ブースにて、本田技研工業ではスマホから操作する「ラジコン縦列駐車ゲーム」を展示しました。\n\n60秒以内にラジコンを操作して縦列駐車を成功させる、というシンプル..."
   },
   {
+    "title": "Androidの通知音の設定を自動化したかっただけなのに、OSのバグとか見つけた話",
+    "link": "https://zenn.dev/fairydevices/articles/67e2a780995fef",
+    "pubDate": "Fri, 10 Oct 2025 00:42:51 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nFairy Devices株式会社のKabochaです。\nAndroidには、デフォルトで設定されている通知音があります。\nこれは設定アプリから、プリセットされているものや、ユーザーが任意に追加したoggファイルを通知音として設定できます。\nAndroid公式の設定方法の記事\n今回は、この通知音を大量の端末で一括設定するケースを考慮し、調査した話をします。\n\n この記事を読んでほしい方\n"
+  },
+  {
     "title": "「散歩は最高のデバッグ時間」──エンジニアの集中力・作業効率・睡眠が劇的に改善する理由",
     "link": "https://qiita.com/nakaizumi_slj/items/bf0a08284a8869fbc23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-10T00:40:15.000Z",
     "source": "Qiita",
     "contentSnippet": "💻 エンジニアは動かない生き物？\n気づけば一日中PCの前に座りっぱなし。\n気づけば万歩計の数字が「200歩」。\nリモートワークや長時間のコーディングが当たり前になった今、エンジニアの運動不足は深刻です。\n肩こり、腰痛、目の疲れ、集中力の低下……\nでも「運動する時間がない」..."
+  },
+  {
+    "title": "【アウトプット】「何を書けばいいかわからない」を解決するヒント",
+    "link": "https://qiita.com/ryu-ki/items/21b2a9a5ba6356286a14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T23:44:49.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n最近、「技術ブログを書いてみたいが、どういったことを書けばいいのかわからない」という話や「継続的に書き続けるのが難しい」といった話をよく耳にします。私自身も最初は同じ悩みを抱えていましたが、半年間、週1でQiita記事を投稿するという経験を通じて、ネタ切れに困る..."
   },
   {
     "title": "我々はCodexとどう向き合うべきなのか",
@@ -105,13 +119,6 @@
     "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
   },
   {
-    "title": "個人開発を下火にさせてなるものか！！個人開発を支える裏方サービスをAI駆動で作った話",
-    "link": "https://zenn.dev/koeloop/articles/ai-driven-koeloop",
-    "pubDate": "Thu, 09 Oct 2025 14:20:04 GMT",
-    "source": "Zenn",
-    "contentSnippet": "KoeLoopというWebサービスを作りました\n\nKoeLoop は、プロダクトに超簡単に組み込めて、フィードバック・FAQなどの裏方機能を追加することができるサービスです。\nウィジェットを表示するためのスニペットを貼るだけで、こんなことができます。（鋭意追加開発中です）\n\n📝 ユーザーの声（フィードバック）を収集\n❓ FAQ をまとめて表示し、サポートの手間を削減\n👍 投票機能で「どの要望が"
-  },
-  {
     "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
     "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T13:15:39.000Z",
@@ -133,6 +140,13 @@
     "contentSnippet": "はじめに\n本記事では Kubernetes - NixOS Wiki の環境をベースに、おうち Kubernetes クラスターを構築することをテーマとしています。\n本記事の著者は、これまでインフラやネットワークといった領域にそこまで深く踏み込んだことがなく、そのあたりの技術力に少し不満があったため、勉強がてらに元々あった自宅サーバーの環境を刷新しつつ、ついでに NixOS + Kubernete"
   },
   {
+    "title": "４輪独立ステアリング移動機構の開発記録",
+    "link": "https://zenn.dev/takaki_maeda_99/articles/80606c946db64e",
+    "pubDate": "Thu, 09 Oct 2025 09:12:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nロボコン関係で見る方が多いと思うので、一応先に個人的な結論ですが、ほとんどの場合”オムニで良い”です。\n大抵の場合、敗因は足回りにはありません。足の差で負けて初めて、開発を始めればいいです。\nコスパが悪すぎるので、余裕がないなら作るべきではありません。\n\n\n じゃあなぜ作ったのか？\nロマンがあったからです。機体設計やってたら、一度は作ってみたいと思いますよね。それだけです。\n単純に弊サー"
+  },
+  {
     "title": "Oracle Database@Hyperscalerを利用する前に確認することあれこれ",
     "link": "https://qiita.com/billtench/items/642d640d6683682a26e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T08:25:00.000Z",
@@ -147,11 +161,11 @@
     "contentSnippet": "(ジェネレーターエージェントについても書きました。そちらもおねがいします)\nhttps://zenn.dev/iinoten/articles/76d45173e0e371\n\n はじめに\nPlaywright 1.56で導入された新機能「Test Agents」が気になっていたので、実際に使ってみました。この記事では、プランナーエージェント（🎭 Planner） を使ってPlaywright公式"
   },
   {
-    "title": "【手動ダウンロードからの卒業】環境ジオポータルのデータをワンクリックでQGISに追加しよう",
-    "link": "https://qiita.com/geo_jagaimo/items/1b3c5d1f8589d1f69c6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T03:15:10.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n環境ジオポータルで公開されているデータを、ダウンロードやURL指定の手間をかけずに、ワンクリックでQGISに追加できるプラグインを作成しました。\n追加できるデータは、タイプが「Feature Service」で、ライセンスが「CC BY 4.0」のデータです。..."
+    "title": "UI開発を10倍速くするための実戦ポイント",
+    "link": "https://zenn.dev/wuyukwi/articles/143fe2d003d031",
+    "pubDate": "Thu, 09 Oct 2025 03:11:28 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n多くの人は「UI開発＝手の速さ」だと思っています。\nでも実際のプロジェクトでは、進行を遅らせる原因はコードの速さではなく、データフローとUI構造設計の悪さです。\nUnity（UGUI）で時間を食う典型的なポイントを挙げると、以下のようになります。\n\n\nデータ前処理がバラバラ：ソートやフィルタが各UIに散らばっていると、UI層が処理待ちになる。\n\n\n階層構造が深すぎる：1回の更新で大量のT"
   },
   {
     "title": "マルチエージェントフレームワークAIMEの紹介と実装",
@@ -168,20 +182,6 @@
     "contentSnippet": "はじめに\nMCP(Model Context Protocol) ツールを追加していったら、Claude Code の応答精度が落ちたと感じたことはありませんか?\nMCP は、Claude Code などの AI エージェントに外部ツールとの連携機能を提供する強力なプロトコルです。開発環境の効率化を目的として、様々な MCP ツールを追加することは一般的な運用となっています。\nしかし、MCP ツー"
   },
   {
-    "title": "【コピペOK】技術的負債を作らないためのルールを設定しよう（Claude Code, Codex, Cursor対応）",
-    "link": "https://zenn.dev/tmasuyama1114/articles/global_rule_file",
-    "pubDate": "Thu, 09 Oct 2025 01:55:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\nAIエージェントを使い始めたけど、「動くコードは作ってくれるけど、品質が心配...」と感じたことはありませんか？\n私も最初はそうでした。\nClaude CodeやCursor、Codexを使っていると、確かに素早くコードを生成してくれます。\nですが、そのコードが本当に「良いコード」なのか不安になりますよね。\nZenn でこちらの記事が注目を集めているように、多くの方がコー"
-  },
-  {
-    "title": "google/LangExtract解剖- LLMで抽出した項目の文書内位置特定ロジックを深堀る",
-    "link": "https://zenn.dev/gvatech_blog/articles/2d121536d81eb0",
-    "pubDate": "Thu, 09 Oct 2025 01:46:54 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n本稿は2025/10/04時点のLangExtractのソースコードを元に記述しています。\n\n\n google/LangExtractとは\nhttps://github.com/google/langextract\nLangExtractは2025年7月にGoogleが発表したLLMを用いた項目抽出ライブラリです。\nLangExtractは単なる項目抽出ができるに留まらず、抽出した項目が抽出元"
-  },
-  {
     "title": "【コピペOK】AIエージェントで良いコードを書く！誰でも使える品質向上ルールの設定方法",
     "link": "https://qiita.com/tomada/items/df5d3e0f611860bc2740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T01:40:30.000Z",
@@ -189,11 +189,11 @@
     "contentSnippet": "こんにちは、とまだです。\nAIエージェントを使い始めたけど、「動くコードは作ってくれるけど、品質が心配...」と感じたことはありませんか？\n私も最初はそうでした。\nClaude CodeやCursor、Codexを使っていると、確かに素早くコードを生成してくれます。\nですが..."
   },
   {
-    "title": "React学習ログ No.9",
-    "link": "https://qiita.com/maedaHARUYA/items/8a90e3deeccc0fa886d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T23:42:37.000Z",
+    "title": "WPFのMVVM、「理想」と「現実」のギャップを埋めるハイブリッド設計",
+    "link": "https://qiita.com/NeoPotato/items/b8a722e6bd905fcc1b81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-08T23:09:40.000Z",
     "source": "Qiita",
-    "contentSnippet": "React公式ドキュメント学習メモ：コンポーネントに props を渡す\n\n1. Propsの基本\n\nProps (プロパティ) は、親コンポーネントから子コンポーネントへ情報（データ）を渡すための仕組み\nHTML属性と似ているが、オブジェクト、配列、関数など、あらゆる..."
+    "contentSnippet": "はじめに：MVVMの理想と、現場で直面する「つらさ」\nWPFでUIを開発するとき、MVVMパターンは今やデファクトスタンダードですよね。ViewModelはViewを知らず、テストが容易で、関心の分離が美しい...。理想は素晴らしいものです。\nしかし、現場で実装していると..."
   },
   {
     "title": "「Diaブラウザ」正式版に、誰でもダウンロード可能。AI時代の業務のためのブラウザを目指す",
@@ -224,11 +224,11 @@
     "contentSnippet": "はじめに\n前職では約6年間Slackを使っていましたが（それ以前は今は無きHipChat）、転職して社内チャットがTeamsになりました。\n「でも最近のTeamsはSlackみたいになってきてるから慣れれば大丈夫でしょ」と思っていました。\nしかし使っていくうちに広がる違和..."
   },
   {
-    "title": "Gemini 2.5 Computer Use✨AIでQiitaにログインし、トレンド3位の記事をいいねする！ on Windows【E2Eテスト爆速不可避】",
-    "link": "https://qiita.com/7mpy/items/3f62d62e7131d9b6911f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T12:26:47.000Z",
+    "title": "Dev Containers × FastAPI を体験してみた",
+    "link": "https://qiita.com/ndandayo/items/a9b20c69ae0aaef06356?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-08T05:29:41.000Z",
     "source": "Qiita",
-    "contentSnippet": "検証研究目的です。悪用はしないでください\n\n倍速視聴推奨\n\n今回の検証で7円溶かしました😭クラウド破産不可避\n\nこの記事でやること\nGoogleのGemini 2.5 Computer Use（プレビュー）用サンプルをWindowsで動かし、AIエージェントにQi..."
+    "contentSnippet": "はじめに\nインターフェース（IF）を作るチームに参画したのをきっかけに、「APIって実際どんなものか」を手で触って確かめたくなりました。\nどうせなら環境構築も含めてスムーズに試したい、ということで今回選んだのが Dev Containers × FastAPI です。見た..."
   },
   {
     "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",

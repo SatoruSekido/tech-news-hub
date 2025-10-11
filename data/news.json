@@ -1,73 +1,122 @@
 [
   {
+    "title": "🎙️ What Building the AI Interview Analyzer Taught Me About Production ML",
+    "link": "https://dev.to/marcusmayo/what-building-the-ai-interview-analyzer-taught-me-about-production-ml-26ij",
+    "pubDate": "Sat, 11 Oct 2025 12:36:22 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "After shipping the AI Interview Analyzer on GCP\nThis build used:\nFastAPI + Whisper for fast audio transcription\nRoBERTa + Toxic-BERT + mDeBERTa for tone and competency scoring\nGemini 2.0 Flash for con"
+  },
+  {
+    "title": "Introduction to Streams",
+    "link": "https://dev.to/priyankbhardwaj1199/introduction-to-streams-5fce",
+    "pubDate": "Sat, 11 Oct 2025 12:35:31 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "🚀 What Are Streams?\n\n\nA Stream in Java is a sequence of data elements supporting sequential and parallel aggregate operations.  \nSimply put, Streams let you process data declaratively — what to do, n"
+  },
+  {
+    "title": "🚀 Mastering Asynchronous API Calls with Spring WebClient",
+    "link": "https://dev.to/pallavi_kamble_07/mastering-asynchronous-api-calls-with-spring-webclient-28p5",
+    "pubDate": "Sat, 11 Oct 2025 12:34:47 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "In modern microservices, non-blocking asynchronous communication is critical to building scalable and resilient systems. Spring WebClient, part of Spring WebFlux, makes it easy to perform asynchronous"
+  },
+  {
+    "title": "Using AWS Identity Center (SSO) tokens to script across multiple accounts",
+    "link": "https://dev.to/aws-builders/using-aws-identity-center-sso-tokens-to-script-across-multiple-accounts-352l",
+    "pubDate": "Sat, 11 Oct 2025 12:30:50 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Short version: AWS Identity Center (formerly AWS SSO) stores a short-lived accessToken in a local JSON cache after you run aws sso login. You can exchange that token for per-account IAM temporary cred"
+  },
+  {
+    "title": "Stop Wasting Hours Editing: The AI Secret for Explosive Growth on YouTube Shorts",
+    "link": "https://dev.to/henry_hoover_62cda4f8d3b2/stop-wasting-hours-editing-the-ai-secret-for-explosive-growth-on-youtube-shorts-p12",
+    "pubDate": "Sat, 11 Oct 2025 12:29:06 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Let's be real. Making content is a ton of work. I make Minecraft parkour videos, and honestly, a single 10-minute video can take me all day. First, you have to play for hours to get a good run, then y"
+  },
+  {
+    "title": "**7 Essential GraphQL Patterns That Transformed My Data Fetching Performance**",
+    "link": "https://dev.to/aaravjoshi/7-essential-graphql-patterns-that-transformed-my-data-fetching-performance-33p5",
+    "pubDate": "Sat, 11 Oct 2025 12:26:59 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "As a best-selling author, I invite you to explore my books on Amazon. Don't forget to follow me on Medium and show your support. Thank you! Your support means the world! \nGraphQL has fundamentally cha"
+  },
+  {
+    "title": "PHP 8.4 Performance Optimization — A Practical, Repeatable Guide",
+    "link": "https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4",
+    "pubDate": "Sat, 11 Oct 2025 12:16:47 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The goal is to move from “it feels slow” to a reproducible process: baseline → profile → targeted fixes → re-measure. We’ll lean on PHP 8.4 features, OPcache/JIT, Composer autoloading, APCu, DB discip"
+  },
+  {
+    "title": "💸 A Stack pra Ganhar Dinheiro em 2025/2026",
+    "link": "https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0",
+    "pubDate": "Sat, 11 Oct 2025 12:16:42 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "“Em 2025, quem dominar a stack que valida rápido e envelhece bem — domina o jogo.”\nO hype não é o problema. O problema é usar ferramentas modernas sem propósito arquitetural.\n\nA stack que realmente va"
+  },
+  {
+    "title": "How I Stay Productive and Keep Learning as a Software Engineer (Even Without a Full-Time Job)",
+    "link": "https://dev.to/aymen-hammami/how-i-stay-productive-and-keep-learning-as-a-software-engineer-even-without-a-full-time-job-3map",
+    "pubDate": "Sat, 11 Oct 2025 12:11:56 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "👋 Hey Dev Community,\nI’m Aymen Hammami, a full-stack software engineer who’s been working with Java Spring Boot, Angular, DevOps, and AI tools for several years.\nDuring my current learning and rebuil"
+  },
+  {
     "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h",
-    "pubDate": "Sat, 11 Oct 2025 06:09:31 +0000",
+    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4373",
+    "pubDate": "Sat, 11 Oct 2025 12:09:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SABRI’s Soulful COLORS Debut\n\n\nIn her COLORS performance, Dutch-born dynamo SABRI bares her heart on “Sold Myself For Love,” the lead single from her new EP What I Feel Now. Her raw vocals and strippe"
+    "contentSnippet": "SABRI – Sold Myself For Love\n\n\nDutch-born artist SABRI pours raw soul and vulnerability into her COLORS session for her latest single “Sold Myself For Love,” lifted from her new EP What I Feel Now. Th"
   },
   {
-    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg",
-    "pubDate": "Sat, 11 Oct 2025 06:09:22 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Nono La Grinta crushes his COLORS session with a no-holds-barred performance of “LOVE YOU,” showcasing the Parisian rapper’s razor-sharp delivery straight from his upcoming debut project. The minimal "
+    "title": "React学習ログ No.10",
+    "link": "https://qiita.com/maedaHARUYA/items/8977056a9a42e9b8f04f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T01:50:58.000Z",
+    "source": "Qiita",
+    "contentSnippet": "React公式ドキュメント学習メモ：条件付きレンダー\nReactコンポーネントで条件によって表示を切り替える際の、主要な4つの手法を比較\n【共通タスク】 isVip が true の場合、名前に 👑 を追加\n\n最小コードでの比較\n\n1. if と return (早期リタ..."
   },
   {
-    "title": "KEXP: Wet Leg - mangetout (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5",
-    "pubDate": "Sat, 11 Oct 2025 06:09:07 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Wet Leg Serve Up “mangetout” Live on KEXP\n\n\nWet Leg stormed the KEXP studio on September 9, 2025, with their infectious track “mangetout,” showcasing Rhian Teasdale and Hester Chambers on vocals and g"
+    "title": "[H2025ID] Hardening 2025 Invisible Divide 参加体験記",
+    "link": "https://zenn.dev/anri99103/articles/8d14289fbe97a0",
+    "pubDate": "Sat, 11 Oct 2025 01:34:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "1. はじめに\nHardening 2025 Invisible Divideに参加してきた。\n自身の振り返りも兼ねて、参加体験記をまとめる。\n\n 1.1. 前提\n\n参加は2回目。前回はH2023Gに参加。\n\n【初参加】Hardening2023 Generatives 参加体験記（#H2023G）\n\n\nチーム4 QuadLinkにて参加。9人チーム。\n\nメンバーは自分以外の8人が初参加。\nチーム"
   },
   {
-    "title": "KEXP: Wet Leg - davina mccall (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna",
-    "pubDate": "Sat, 11 Oct 2025 06:09:02 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Wet Leg Live on KEXP\n\n\nWet Leg tore into “davina mccall” live at KEXP’s studio in Seattle on September 9, 2025, with Rhian Teasdale and Hester Chambers on vocals and guitar, Henry Holmes on drums, Jos"
+    "title": "意外と似ている（?） JavaとC#の違い",
+    "link": "https://qiita.com/k12da/items/3417f19b56a8daf5c6e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T00:11:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nRubyからJavaへシフトしたエンジニアです。\nこれまでは静的型付け言語は敬遠してたのですが、Javaを習得することで興味関心の幅が広がりました。\nそれで最近、趣味でC言語を学んでみたところJavaとC#が、\n「君たち、生き別れた兄弟か？」\nというくらい似てい..."
   },
   {
-    "title": "Trash Theory: The Most Bizarre UK No. 1s of the 1990s",
-    "link": "https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-26eh",
-    "pubDate": "Sat, 11 Oct 2025 06:08:37 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The Most Bizarre UK No. 1s of the 1990s\n\n\nBritain’s chart-toppers in the ’90s were a wild ride: sure, classics like “Nothing Compares 2U,” “Wannabe” and “…Baby One More Time” still feel essential, but"
+    "title": "【Amazon Bedrock】データベースに自然言語でクエリできるエージェントを作ってみた",
+    "link": "https://qiita.com/yakumo_09/items/7bf7511b1fddcd4c1d91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T21:51:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nJAWS-UG北陸新幹線#4 in 長野 にて発表したBedrodkを使って自然言語でDBにアクセスできるエージェントを作成したというのを、本記事でもう少し詳しく書いてみようと思います。\n\nまた、当日の登壇資料は以下になります。\n\nNL2SQLとは\n登..."
   },
   {
-    "title": "Polyphonic: When artists don't write their own songs",
-    "link": "https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2chg",
-    "pubDate": "Sat, 11 Oct 2025 06:08:29 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Watch on YouTube"
+    "title": "実行時に成長を続けるAgentic Context Engineering",
+    "link": "https://zenn.dev/cybernetics/articles/c0115ee1a01dd5",
+    "pubDate": "Fri, 10 Oct 2025 20:19:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n前回、下記のようにプロンプトエンジニアリングを終わらせてくれる期待を込めてDSPyの紹介をした。\nDSPyの機能の一つであるプロンプト最適化の大きな役割の1つはLLMに与えるガイドラインをデータセットから作り出してしまうというものである。前回の記事で、データセットからNARUTOの主人公ナルトの口調を真似て言葉を言い換えるエージェントが作成できた（僕はナルトに詳しいのでマニュアルでも書き"
   },
   {
-    "title": "Rick Beato: Finally…Breaking Down Kansas LIVE",
-    "link": "https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-3m7n",
-    "pubDate": "Sat, 11 Oct 2025 06:08:12 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Finally…Breaking Down Kansas LIVE\n\n\nIn today’s video, Rick Beato dives into his favorite Kansas track, tearing apart the stems, structure, and musical choices that give it its unique edge. Whether you"
+    "title": "Nano BananaでDiscordスタンプ5種を作ったので、プロンプトとコツを公開してみる",
+    "link": "https://zenn.dev/tmasuyama1114/articles/nano_banana_stamp_prompts",
+    "pubDate": "Fri, 10 Oct 2025 16:58:50 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、とまだです。\nGoogleのNano Banana（Gemini 2.5 Flash Image）を使って、Discordスタンプを作ってみました。\n「Vibe Coding Studio」というDiscordサーバーで実際に使っているスタンプです。\n「イラストを描いたことはない、でも生成AIは使える」人なら再現できます。\n今回は、どんなプロンプトを使ったのか、どういう工夫をしたのか、"
   },
   {
-    "title": "Rick Beato: Is There Anything Bumblefoot Can't Play? ...No!",
-    "link": "https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-12aj",
-    "pubDate": "Sat, 11 Oct 2025 06:07:54 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "In this breezy interview, guitar wizard Ron “Bumblefoot” Thal breaks down his decades-long journey—from shredding early rock riffs to pioneering jaw-dropping technical wizardry onstage. He dives into "
-  },
-  {
-    "title": "Golf With Aimee: Spin vs Distance? Best Ball for Your Game? | Breast Cancer Awareness Month 🎀",
-    "link": "https://dev.to/youtube_golf/golf-with-aimee-spin-vs-distance-best-ball-for-your-game-breast-cancer-awareness-month-38c8",
-    "pubDate": "Sat, 11 Oct 2025 06:05:11 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Spin vs Distance? Breast Cancer Awareness x Volvik\n\n\nAimee’s celebrating Breast Cancer Awareness Month with Volvik’s special pink BCRF golf balls by testing four different three-piece models in a spin"
-  },
-  {
-    "title": "The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?",
-    "link": "https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-4cj2",
-    "pubDate": "Sat, 11 Oct 2025 06:02:49 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR: MatPat dives back into Five Nights at Freddy’s: Secret of the Mimic after months of frame-by-frame sleuthing, revisiting every tiny detail he thought cracked the mystery. He’s not flying solo t"
+    "title": "NativeWindの対抗馬？ハイパフォーマンスのUniwindでReact Nativeをスタイリング",
+    "link": "https://zenn.dev/tellernovel_inc/articles/5aa0fd3a3179ae",
+    "pubDate": "Fri, 10 Oct 2025 14:52:13 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！テラーノベルとテラードラマでiOS/Android/Webとフロントエンド周りを担当している @kazutoyoです！\nReact NativeでTailwindライクにスタイリングする方法として、NativeWindが有名だと思います。\nまた新たな選択肢として、React Native Unistylesの開発チームが、Uniwindを発表しました。\nhttps://docs.uni"
   },
   {
     "title": "2024 年 10 月から 2025 年 10 月までの Mozc に対する主な変更",
@@ -75,6 +124,20 @@
     "pubDate": "Fri, 10 Oct 2025 14:00:02 GMT",
     "source": "Zenn",
     "contentSnippet": "初稿: 2025-10-10\n小松弘幸 (@komatsuh:bsky, @komatsuh:twitter)\n2024 年 10 月以降の Mozc に対する主な変更をまとめました。ドキュメントやコミットログ、 Issues に書かれているものをまとめただけで新しい情報はありません。抜けているものがあれば後で追記します。\nMozc の問題の報告や機能の要望等は、GitHub の Issues や"
+  },
+  {
+    "title": "Amazon Bedrock GuardrailsによるAIエージェントの安全対策入門！",
+    "link": "https://qiita.com/eno49conan/items/e4ca8be64afb984c5a68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T10:19:54.000Z",
+    "source": "Qiita",
+    "contentSnippet": "AIエージェント開発 / 運用入門、読みました！\n2025年10月1日に発売された以下書籍について、ハンズオンをしつつ一通り読み終えました。\nとても面白かったです！！\nAIエージェント開発 / 運用入門 [生成AI深掘りガイド]\n3章以降、これまでの知識整理含めて、勉強と..."
+  },
+  {
+    "title": "1時間でCodexとLINE Bot(WIP)",
+    "link": "https://zenn.dev/n0bisuke/books/codex-linebot",
+    "pubDate": "Fri, 10 Oct 2025 09:07:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "1時間でCodexでLINE Botチャレンジ"
   },
   {
     "title": "Claude Codeのマーケットプレイスを自作し、チーム内でカスタムコマンド、エージェント、フック、MCPサーバ設定を共有してみた",
@@ -91,25 +154,11 @@
     "contentSnippet": "これはなに\nNstock株式会社の祖業である株式報酬SaaSは、サービスローンチから数えて3年目になり、100社以上の企業様にご導入いただいています。その一方でコア機能である ストックオプションの個数/状態管理 の方法に課題が出てきていました。\nここまでは運用してこられたし次の2年もおそらくやっていけそうですが、その先の拡張も自信を持って乗り越えられるとは言いづらくなりつつありました。そういう状況"
   },
   {
-    "title": "[2025年10月10日] すべてがChatGPTになる？ (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/8876616fe69bc5",
-    "pubDate": "Fri, 10 Oct 2025 07:46:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、Kaiです。\nOpenAIのDev Dayが開催されました。Agent Builderが一番の目玉で、次がapps in ChatGPTでしょうか。Agent Builderは早速使ってみましたが、これまでのツールとそこまで大きい差は感じないですね。逆に言えば、もうこれでいいのでは……？という感じもします。Difyやn8nが今後どういう方向性を取るのかも注目したいところです。\nそしてa"
-  },
-  {
-    "title": "WordPressで画像ブロックをボタンにしたい（role=\"button\"）",
-    "link": "https://zenn.dev/bissy/articles/1f6fe504256ea3",
-    "pubDate": "Fri, 10 Oct 2025 07:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nXでご指摘を受けました！確かにコードサンプルの例は普通のリンクで良いので画像ブロックのリンクで問題なく、わざわざrole=\"button\"とする必要はないですね🤔\nこの記事は画像に特定の属性（attr）を付与する方法として読んでください。ではどうぞ〜！\n\nこんにちは!デザインカンプ見てて「あ、このボタン画像じゃん...」ってなることない?\n例えばこんなやつ。\n\nロゴ入りの凝ったデザインボタン"
-  },
-  {
-    "title": "DroidKaigi/iOSDCに向けて、Raspberry Pi × Embedded Swiftでラジコンを作ってみた",
-    "link": "https://qiita.com/shin_usu/items/d4c9309f18e48a6985a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T01:53:44.000Z",
+    "title": "TypeScriptで書いたLambda関数をtscなしでCDKデプロイする備忘録",
+    "link": "https://qiita.com/1998_i-airi/items/ffb8e0f11adc99fa306b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T03:16:13.000Z",
     "source": "Qiita",
-    "contentSnippet": "1. はじめに\n先日開催された「DroidKaigi 2025」と「iOSDC Japan 2025」の企業ブースにて、本田技研工業ではスマホから操作する「ラジコン縦列駐車ゲーム」を展示しました。\n\n60秒以内にラジコンを操作して縦列駐車を成功させる、というシンプル..."
+    "contentSnippet": "◾️ はじめに\n　CDKを用いてインフラ環境を構築しているのですが、従来はtscでコンパイルしてdistに出力したJSを lambda.Functionでデプロイしていました。\nしかし、CDKのNodejsFunctionを使用すれば、tsc不要でTypeScriptをそ..."
   },
   {
     "title": "Androidの通知音の設定を自動化したかっただけなのに、OSのバグとか見つけた話",
@@ -126,25 +175,11 @@
     "contentSnippet": "💻 エンジニアは動かない生き物？\n気づけば一日中PCの前に座りっぱなし。\n気づけば万歩計の数字が「200歩」。\nリモートワークや長時間のコーディングが当たり前になった今、エンジニアの運動不足は深刻です。\n肩こり、腰痛、目の疲れ、集中力の低下……\nでも「運動する時間がない」..."
   },
   {
-    "title": "【アウトプット】「何を書けばいいかわからない」を解決するヒント",
-    "link": "https://qiita.com/ryu-ki/items/21b2a9a5ba6356286a14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T23:44:49.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n最近、「技術ブログを書いてみたいが、どういったことを書けばいいのかわからない」という話や「継続的に書き続けるのが難しい」といった話をよく耳にします。私自身も最初は同じ悩みを抱えていましたが、半年間、週1でQiita記事を投稿するという経験を通じて、ネタ切れに困る..."
-  },
-  {
     "title": "我々はCodexとどう向き合うべきなのか",
     "link": "https://zenn.dev/aki_think/articles/5fb93a15a6257a",
     "pubDate": "Thu, 09 Oct 2025 22:00:06 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は、すでにCodexやClaudeCodeなどのAIコーディングツールを実務で使い始めているエンジニアに向けて書いている。「期待ほど効率が上がらない」と感じている人や、運用の型を模索している個人開発者を想定している。導入方法や基礎理論は扱わない。ひとりのエンジニアが数ヶ月間Codexと向き合って得た、実践的な運用知見を語る。\n\n 数ヶ月で変わったこと\nまず、ここ数ヶ月でAIコーディングツー"
-  },
-  {
-    "title": "iOS Default Web Browserの自作方法",
-    "link": "https://zenn.dev/kyome/articles/c5935b24be35e0",
-    "pubDate": "Thu, 09 Oct 2025 15:10:16 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\niOS 14からアプリをデフォルトのウェブブラウザとして実装/配布することができます。\nただし、デフォルトのウェブブラウザとして動作させるには特別なEntitlementが必要で、Appleに申請して付与してもらう必要があります。\n実装手順については公式のドキュメントがあります。\nhttps://developer.apple.com/documentation/xcode/prepar"
   },
   {
     "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",
@@ -154,25 +189,11 @@
     "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
   },
   {
-    "title": "個人開発を下火にさせてなるものか！！個人開発を支える裏方サービスをAI駆動で作った話",
-    "link": "https://zenn.dev/koeloop/articles/ai-driven-koeloop",
-    "pubDate": "Thu, 09 Oct 2025 14:20:04 GMT",
-    "source": "Zenn",
-    "contentSnippet": "KoeLoopというWebサービスを作りました\n\nKoeLoop は、プロダクトに超簡単に組み込めて、フィードバック・FAQなどの裏方機能を追加することができるサービスです。\nウィジェットを表示するためのスニペットを貼るだけで、こんなことができます。（鋭意追加開発中です）\n\n📝 ユーザーの声（フィードバック）を収集\n❓ FAQ をまとめて表示し、サポートの手間を削減\n👍 投票機能で「どの要望が"
-  },
-  {
     "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
     "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T13:15:39.000Z",
     "source": "Qiita",
     "contentSnippet": "無料のエンジニアコミュニティを運営しているのですが 「フルリモートを続けたいのですが、フルリモート案件はそんなに無いんですか。」そんな声をよく耳にします。\n2023年ごろまでは、SES業界にもフルリモート案件が多く存在していました。\n通勤なし、自由な働き方、しかも単価も高水..."
-  },
-  {
-    "title": "実は進化している！ローカルで動くembeddingモデルたち",
-    "link": "https://zenn.dev/sirasagi62/articles/a75d0ba39f0125",
-    "pubDate": "Thu, 09 Oct 2025 11:39:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "要約\n\n日本語オンリーならruri v3 (わずか37mでOpenAIのtext-embedding-large-v3超え)\n\nもしかしたら日英だったらベターかも\n\n\n多言語+コードならgranite-embedding\n\n\n はじめに\nLLMの普及からはや数年、175Bとかいう途方もないパラメータで動いていたLLMもいつの間にか4bに収まるようになり、スマホやPCで簡単に動かせるようになりました"
   },
   {
     "title": "Oracle Database@Hyperscalerを利用する前に確認することあれこれ",
@@ -189,11 +210,11 @@
     "contentSnippet": "こんにちは、とまだです。\nAIエージェントを使い始めたけど、「動くコードは作ってくれるけど、品質が心配...」と感じたことはありませんか？\n私も最初はそうでした。\nClaude CodeやCursor、Codexを使っていると、確かに素早くコードを生成してくれます。\nですが..."
   },
   {
-    "title": "WPFのMVVM、「理想」と「現実」のギャップを埋めるハイブリッド設計",
-    "link": "https://qiita.com/NeoPotato/items/b8a722e6bd905fcc1b81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T23:09:40.000Z",
+    "title": "Python 3.14 で追加された t-strings って何？",
+    "link": "https://qiita.com/QUANON/items/ad474a884b3259315a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T00:07:20.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに：MVVMの理想と、現場で直面する「つらさ」\nWPFでUIを開発するとき、MVVMパターンは今やデファクトスタンダードですよね。ViewModelはViewを知らず、テストが容易で、関心の分離が美しい...。理想は素晴らしいものです。\nしかし、現場で実装していると..."
+    "contentSnippet": "はじめに\n僕は普段 Ruby を書いており、趣味でたまに Python を嗜む程度のプログラマです。今回、知らない間に t-strings という聞き慣れない機能が追加されていたので調べてみました。\n\nPython 3.14 で導入された t-strings\n2025/1..."
   },
   {
     "title": "「Diaブラウザ」正式版に、誰でもダウンロード可能。AI時代の業務のためのブラウザを目指す",
@@ -215,27 +236,6 @@
     "pubDate": "2025-10-08T15:00:57.000Z",
     "source": "Publickey",
     "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
-  },
-  {
-    "title": "Slackに慣れた人間が「Teams使いにくい」と言う理由を言語化して、この先生きのこるための方法を考えてみよう（言語化編）",
-    "link": "https://qiita.com/ykkn/items/8c4082809219c201322f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T13:17:26.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n前職では約6年間Slackを使っていましたが（それ以前は今は無きHipChat）、転職して社内チャットがTeamsになりました。\n「でも最近のTeamsはSlackみたいになってきてるから慣れれば大丈夫でしょ」と思っていました。\nしかし使っていくうちに広がる違和..."
-  },
-  {
-    "title": "Dev Containers × FastAPI を体験してみた",
-    "link": "https://qiita.com/ndandayo/items/a9b20c69ae0aaef06356?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T05:29:41.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nインターフェース（IF）を作るチームに参画したのをきっかけに、「APIって実際どんなものか」を手で触って確かめたくなりました。\nどうせなら環境構築も含めてスムーズに試したい、ということで今回選んだのが Dev Containers × FastAPI です。見た..."
-  },
-  {
-    "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",
-    "link": "https://qiita.com/chomado/items/764e67e104843a22bcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T05:03:05.000Z",
-    "source": "Qiita",
-    "contentSnippet": "2025/10/04(土) に開催された、『Japan Azure User Group (JAZUG) 15周年勉強会』に参加しまして、\nそこで行われた、尊敬するマイクロソフトの先輩エンジニアである寺田さん (@yoshioterada) (世界で活躍する超つよつよベテラ..."
   },
   {
     "title": "生成AIはネットワーク構築運用をどれだけ楽にするか？ Interop Tokyoでの実験が明かした現実と可能性。Cloud Operator Days Tokyo 2025基調講演ほか［PR］",

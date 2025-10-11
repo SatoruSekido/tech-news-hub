@@ -1,73 +1,80 @@
 [
   {
-    "title": "🎙️ What Building the AI Interview Analyzer Taught Me About Production ML",
-    "link": "https://dev.to/marcusmayo/what-building-the-ai-interview-analyzer-taught-me-about-production-ml-26ij",
-    "pubDate": "Sat, 11 Oct 2025 12:36:22 +0000",
+    "title": "TLDR; Deploy ReactJS project to Cloudflare Pages",
+    "link": "https://dev.to/thechaudhrysab/tldr-deploy-reactjs-project-to-cloudflare-pages-3ib1",
+    "pubDate": "Sat, 11 Oct 2025 18:13:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "After shipping the AI Interview Analyzer on GCP\nThis build used:\nFastAPI + Whisper for fast audio transcription\nRoBERTa + Toxic-BERT + mDeBERTa for tone and competency scoring\nGemini 2.0 Flash for con"
+    "contentSnippet": "My app is a React application built with Vite, which means it generates static assets (.html, .js, .css) and is a great fit for Cloudflare Pages. My project is also using Supabase for database CRUD, a"
   },
   {
-    "title": "Introduction to Streams",
-    "link": "https://dev.to/priyankbhardwaj1199/introduction-to-streams-5fce",
-    "pubDate": "Sat, 11 Oct 2025 12:35:31 +0000",
+    "title": "🔒 Vulnerability Remediation (Cybersecurity Patch) 🛠️ by Avoiding Broken Access Control 🚫",
+    "link": "https://dev.to/hassamdev/vulnerability-remediation-cybersecurity-patch-by-avoiding-broken-access-control-3lc8",
+    "pubDate": "Sat, 11 Oct 2025 18:13:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 What Are Streams?\n\n\nA Stream in Java is a sequence of data elements supporting sequential and parallel aggregate operations.  \nSimply put, Streams let you process data declaratively — what to do, n"
-  },
-  {
-    "title": "🚀 Mastering Asynchronous API Calls with Spring WebClient",
-    "link": "https://dev.to/pallavi_kamble_07/mastering-asynchronous-api-calls-with-spring-webclient-28p5",
-    "pubDate": "Sat, 11 Oct 2025 12:34:47 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "In modern microservices, non-blocking asynchronous communication is critical to building scalable and resilient systems. Spring WebClient, part of Spring WebFlux, makes it easy to perform asynchronous"
-  },
-  {
-    "title": "Using AWS Identity Center (SSO) tokens to script across multiple accounts",
-    "link": "https://dev.to/aws-builders/using-aws-identity-center-sso-tokens-to-script-across-multiple-accounts-352l",
-    "pubDate": "Sat, 11 Oct 2025 12:30:50 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Short version: AWS Identity Center (formerly AWS SSO) stores a short-lived accessToken in a local JSON cache after you run aws sso login. You can exchange that token for per-account IAM temporary cred"
-  },
-  {
-    "title": "Stop Wasting Hours Editing: The AI Secret for Explosive Growth on YouTube Shorts",
-    "link": "https://dev.to/henry_hoover_62cda4f8d3b2/stop-wasting-hours-editing-the-ai-secret-for-explosive-growth-on-youtube-shorts-p12",
-    "pubDate": "Sat, 11 Oct 2025 12:29:06 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Let's be real. Making content is a ton of work. I make Minecraft parkour videos, and honestly, a single 10-minute video can take me all day. First, you have to play for hours to get a good run, then y"
-  },
-  {
-    "title": "**7 Essential GraphQL Patterns That Transformed My Data Fetching Performance**",
-    "link": "https://dev.to/aaravjoshi/7-essential-graphql-patterns-that-transformed-my-data-fetching-performance-33p5",
-    "pubDate": "Sat, 11 Oct 2025 12:26:59 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "As a best-selling author, I invite you to explore my books on Amazon. Don't forget to follow me on Medium and show your support. Thank you! Your support means the world! \nGraphQL has fundamentally cha"
-  },
-  {
-    "title": "PHP 8.4 Performance Optimization — A Practical, Repeatable Guide",
-    "link": "https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4",
-    "pubDate": "Sat, 11 Oct 2025 12:16:47 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The goal is to move from “it feels slow” to a reproducible process: baseline → profile → targeted fixes → re-measure. We’ll lean on PHP 8.4 features, OPcache/JIT, Composer autoloading, APCu, DB discip"
-  },
-  {
-    "title": "💸 A Stack pra Ganhar Dinheiro em 2025/2026",
-    "link": "https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0",
-    "pubDate": "Sat, 11 Oct 2025 12:16:42 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "“Em 2025, quem dominar a stack que valida rápido e envelhece bem — domina o jogo.”\nO hype não é o problema. O problema é usar ferramentas modernas sem propósito arquitetural.\n\nA stack que realmente va"
-  },
-  {
-    "title": "How I Stay Productive and Keep Learning as a Software Engineer (Even Without a Full-Time Job)",
-    "link": "https://dev.to/aymen-hammami/how-i-stay-productive-and-keep-learning-as-a-software-engineer-even-without-a-full-time-job-3map",
-    "pubDate": "Sat, 11 Oct 2025 12:11:56 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "👋 Hey Dev Community,\nI’m Aymen Hammami, a full-stack software engineer who’s been working with Java Spring Boot, Angular, DevOps, and AI tools for several years.\nDuring my current learning and rebuil"
+    "contentSnippet": "This was my second attempt at finding areas I needed to practice in, specifically related to cybersecurity skills — particularly Vulnerability Remediation.\nBefore I get into how I strengthened the acc"
   },
   {
     "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4373",
-    "pubDate": "Sat, 11 Oct 2025 12:09:59 +0000",
+    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-5437",
+    "pubDate": "Sat, 11 Oct 2025 18:11:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SABRI – Sold Myself For Love\n\n\nDutch-born artist SABRI pours raw soul and vulnerability into her COLORS session for her latest single “Sold Myself For Love,” lifted from her new EP What I Feel Now. Th"
+    "contentSnippet": "SABRI – “Sold Myself For Love” on A COLORS SHOW\n\n\nDutch-born songstress SABRI brings raw soul and tender vulnerability to her COLORS performance of “Sold Myself For Love,” a standout track from her ne"
+  },
+  {
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-m4c",
+    "pubDate": "Sat, 11 Oct 2025 18:11:39 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Nono’s Raw, Gritty Vibes\n\n\nParis-based MC Nono La Grinta unleashes every line with precision on his uncompromising COLORS performance of “LOVE YOU,” a standout cut from his forthcoming debut project—n"
+  },
+  {
+    "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4gpn",
+    "pubDate": "Sat, 11 Oct 2025 18:11:27 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Babe Rainbow – Aquarium Cowgirl (Live on KEXP)\n\n\nBabe Rainbow dropped a killer live take of “Aquarium Cowgirl” at the KEXP studio on August 14, 2025, with Angus Dowling on vocals, Jack Crowther shredd"
+  },
+  {
+    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52ej",
+    "pubDate": "Sat, 11 Oct 2025 18:11:12 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Hunx and His Punx – Alone In Hollywood On Acid (Live on KEXP)\n\n\nHunx and His Punx crash into the KEXP studio on August 26, 2025, with a blistering live take on “Alone In Hollywood On Acid.” Seth Bogar"
+  },
+  {
+    "title": "KEXP: Wet Leg - davina mccall (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3mci",
+    "pubDate": "Sat, 11 Oct 2025 18:10:58 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Wet Leg – “davina mccall” Live on KEXP\n\n\nIndie-rock duo Wet Leg rocked the KEXP studio on September 9, 2025, delivering a punchy live take on “davina mccall.” Rhian Teasdale and Hester Chambers led th"
+  },
+  {
+    "title": "Trash Theory: The Most Bizarre UK No. 1s of the 1990s",
+    "link": "https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-1k1c",
+    "pubDate": "Sat, 11 Oct 2025 18:10:32 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "TrashTheory’s video takes you on a playful tour of the UK’s strangest No. 1 singles of the 1990s—think Iron Maiden’s censored metal anthem, Mr Blobby mayhem, Teletubbies mania and Chef’s cheeky “Choco"
+  },
+  {
+    "title": "Rick Beato: Finally…Breaking Down Kansas LIVE",
+    "link": "https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-52hm",
+    "pubDate": "Sat, 11 Oct 2025 18:10:10 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Today’s video dives into a deep breakdown of my favorite Kansas track—stems, structure, and all the clever musical choices you need to hear. It’s a real treat for fans and aspiring musicians alike.\nAl"
+  },
+  {
+    "title": "Rick Beato: My Thoughts on Rush's NEW Drummer",
+    "link": "https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4fc8",
+    "pubDate": "Sat, 11 Oct 2025 18:10:02 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "My Thoughts on Rush’s New Drummer\n\n\nI dive into Rush’s big reveal—yes, they’ve tapped powerhouse Anika Nilles behind the kit—and share my unfiltered reactions to the official announcement (linked) and"
+  },
+  {
+    "title": "ゼロから始める クリーンアーキテクチャAPI開発",
+    "link": "https://zenn.dev/yuta_ooo/books/clean-architecture",
+    "pubDate": "Sat, 11 Oct 2025 08:36:24 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TypeScriptとクリーンアーキテクチャを組み合わせ、変更に強いAPIを構築するハンズオンガイドです。\n この本では、クリーンアーキテクチャとは何かという基礎的なところから、ヘキサゴナルアーキテクチャの考え方、依存性逆転の原則まで、実践的な知識を提供します。\n\n 第1章では、クリーンアーキテクチャの本質とよくある誤解を整理し、ポートとアダプタによる疎結合な設計を学びます。\n 第2章では、具体的"
   },
   {
     "title": "React学習ログ No.10",
@@ -173,13 +180,6 @@
     "pubDate": "2025-10-10T00:40:15.000Z",
     "source": "Qiita",
     "contentSnippet": "💻 エンジニアは動かない生き物？\n気づけば一日中PCの前に座りっぱなし。\n気づけば万歩計の数字が「200歩」。\nリモートワークや長時間のコーディングが当たり前になった今、エンジニアの運動不足は深刻です。\n肩こり、腰痛、目の疲れ、集中力の低下……\nでも「運動する時間がない」..."
-  },
-  {
-    "title": "我々はCodexとどう向き合うべきなのか",
-    "link": "https://zenn.dev/aki_think/articles/5fb93a15a6257a",
-    "pubDate": "Thu, 09 Oct 2025 22:00:06 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は、すでにCodexやClaudeCodeなどのAIコーディングツールを実務で使い始めているエンジニアに向けて書いている。「期待ほど効率が上がらない」と感じている人や、運用の型を模索している個人開発者を想定している。導入方法や基礎理論は扱わない。ひとりのエンジニアが数ヶ月間Codexと向き合って得た、実践的な運用知見を語る。\n\n 数ヶ月で変わったこと\nまず、ここ数ヶ月でAIコーディングツー"
   },
   {
     "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",

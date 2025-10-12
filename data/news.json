@@ -1,73 +1,94 @@
 [
   {
-    "title": "Daily Artificial Intelligence Digest - Oct 12, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-12-2025-3llo",
-    "pubDate": "Sun, 12 Oct 2025 01:49:32 +0000",
+    "title": "Pusher Composables - حل شامل للمحادثات والإشعارات الفورية",
+    "link": "https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j",
+    "pubDate": "Sun, 12 Oct 2025 06:24:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Industry Expansion & Talent Shifts\n\n\nMajor AI players continue to expand their global footprint and strategic capabilities, exemplified by OpenAI's consideration of a substantial Argentina data center"
+    "contentSnippet": "🚀 Pusher Composables - حل شامل للمحادثات والإشعارات الفورية\n\n\n\n  \n  \n  📱 هل تريد إضافة محادثات فورية وإشعارات لحظية لتطبيقك؟\n\n\n\n  \n  \n  🎯 ما الذي تحصل عليه:\n\n\n✅ محادثات فورية - رسائل تظهر فوراً بدو"
   },
   {
-    "title": "Memory Bank: Labels In HTML",
-    "link": "https://dev.to/pureooze/memory-bank-labels-in-html-4kbf",
-    "pubDate": "Sun, 12 Oct 2025 01:32:49 +0000",
+    "title": "The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life",
+    "link": "https://dev.to/agunechemba/the-man-who-spoke-to-machines-how-dennis-ritchie-changed-my-life-331i",
+    "pubDate": "Sun, 12 Oct 2025 06:16:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is the right way to label something in HTML?\nThis came up in something I was working on recently. I always forget the best practices for labeling so I wanted to write this blog post to help me re"
+    "contentSnippet": "🌟 The Man Who Spoke to Machines: How Dennis Ritchie Changed My Life | Home\n          \n        \n          \n        \n            \n          agunechemba.name.ng"
   },
   {
-    "title": "Hi! My name is Rodrigo, and I m a self-taught programmer starting out my journey into the world of coding. Passionate about building, solving problems, and growing every day. Open to connect, learn, and collaborate on projects!",
-    "link": "https://dev.to/cristian_rodrigokuszek_0/hi-my-name-is-rodrigo-and-im-a-self-taught-programmer-starting-out-my-journey-into-the-world-of-4bd0",
-    "pubDate": "Sun, 12 Oct 2025 01:24:48 +0000",
+    "title": "Systems As Mirrors",
+    "link": "https://dev.to/interstelios/systems-as-mirrors-3g5n",
+    "pubDate": "Sun, 12 Oct 2025 06:14:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "There’s something quietly unsettling about Conway’s Law. Most people who’ve worked in software long enough can sense its truth. What unsettles is what it reveals when you sit with it.\nThe law definiti"
   },
   {
-    "title": "Determining the Maximum Decimal Digits at Compile-Time",
-    "link": "https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb",
-    "pubDate": "Sun, 12 Oct 2025 01:03:52 +0000",
+    "title": "Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead",
+    "link": "https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh",
+    "pubDate": "Sun, 12 Oct 2025 06:13:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nSuppose you want to convert an integer value to its decimal string representation, e.g., 42 to \"42\".  In C, you have to know how big to make the string buffer.  Specifically, given some"
+    "contentSnippet": "TL;DR: I built a 7-step workflow to pair with AI effectively: align on context, plan, track progress, implement in small steps, reflect, test, and run deterministic quality checks before every commit."
   },
   {
-    "title": "Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.\r\n\r\nThat’s the difference between regular ChatGPT users & Expert ChatGPT users.",
-    "link": "https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla",
-    "pubDate": "Sun, 12 Oct 2025 01:00:14 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8d1",
+    "pubDate": "Sun, 12 Oct 2025 06:11:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Hidden Power of ChatGPT Prompts Nobody Talks About\nJaideep Parashar ・ Oct 12\n#ai\n        #beginners\n        #productivity\n        #career"
+    "contentSnippet": "Meet Paris’s own Nono La Grinta who just lit up A COLORS SHOW with his unapologetic track “LOVE YOU,” flexing precision bars straight from his upcoming debut. His gritty delivery and tight flow prove "
   },
   {
-    "title": "Introducing Varkit: Dynamic CSS Variables for React with TypeScript",
-    "link": "https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f",
-    "pubDate": "Sun, 12 Oct 2025 00:59:53 +0000",
+    "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-49cf",
+    "pubDate": "Sun, 12 Oct 2025 06:11:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introducing Varkit 🎨\n\n\nI'm excited to share my first open-source library: Varkit - a lightweight solution for managing CSS variables in React with full TypeScript support!\nWhile building React applic"
+    "contentSnippet": "Babe Rainbow took over the KEXP studio on August 14, 2025, laying down a killer live version of “Aquarium Cowgirl.” Fronted by Angus Dowling’s vocals and backed by Jack Crowther (guitar), Elliot O’Rei"
   },
   {
-    "title": "The 9 Best CLIs with Artificial Intelligence",
-    "link": "https://dev.to/nube_colectiva_nc/the-9-best-clis-with-artificial-intelligence-3lim",
-    "pubDate": "Sun, 12 Oct 2025 00:59:17 +0000",
+    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-502",
+    "pubDate": "Sun, 12 Oct 2025 06:11:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In recent years, Artificial Intelligence (AI) has made its way into almost every corner of software development, and now, even into the Command Line Interface (CLI). These new AI-powered CLIs help dev"
+    "contentSnippet": "Hunx and His Punx ripped through “Alone In Hollywood On Acid” live at KEXP’s studio on August 26, 2025. Fronted by Seth Bogart on vocals and guitar, the band features Alana Amram (guitar, vocals), Sha"
   },
   {
-    "title": "The Hidden Power of ChatGPT Prompts Nobody Talks About",
-    "link": "https://dev.to/jaideepparashar/the-hidden-power-of-chatgpt-prompts-nobody-talks-about-558f",
-    "pubDate": "Sun, 12 Oct 2025 00:53:09 +0000",
+    "title": "KEXP: Wet Leg - mangetout (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4230",
+    "pubDate": "Sun, 12 Oct 2025 06:11:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everyone wants prompt templates, but very few understand prompt philosophy, and that’s the difference between using AI and leveraging AI as a force multiplier.\nMost developers ask AI for answers.\nThat"
+    "contentSnippet": "Wet Leg – “mangetout” live on KEXP\n\n\nIndie rock duo Wet Leg took over the KEXP studio on September 9, 2025, ripping through their bouncy track “mangetout.” Rhian Teasdale and Hester Chambers trade voc"
   },
   {
-    "title": "Rust for C Programmers: What I Wish I Knew from Day One",
-    "link": "https://dev.to/lospaccabit/rust-for-c-programmers-what-i-wish-i-knew-from-day-one-k76",
-    "pubDate": "Sun, 12 Oct 2025 00:51:13 +0000",
+    "title": "KEXP: Wet Leg - davina mccall (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3359",
+    "pubDate": "Sun, 12 Oct 2025 06:11:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Rust for C Programmers: What I Wish I Knew from Day One\n\n\nIf you’re coming from C like I did, Rust can feel simultaneously familiar and alien. You understand pointers, you know about stack vs heap, yo"
+    "contentSnippet": "Wet Leg crashed the KEXP studio on September 9, 2025, ripping through their track “davina mccall” with Rhian Teasdale and Hester Chambers on vocals/guitar, Henry Holmes on drums, Joshua Mobaraki on gu"
   },
   {
-    "title": "Choosing the Right Storage Solution",
-    "link": "https://dev.to/cathylai/choosing-the-right-storage-solution-3log",
-    "pubDate": "Sun, 12 Oct 2025 00:39:50 +0000",
+    "title": "Trash Theory: The Most Bizarre UK No. 1s of the 1990s",
+    "link": "https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-55bl",
+    "pubDate": "Sun, 12 Oct 2025 06:10:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When building a house hunting app in React Native, one of the first architectural decisions you'll face is: Where do I store my data? Should you use SQLite for its query power, AsyncStorage for simpli"
+    "contentSnippet": "Britain’s 90s chart-toppers weren’t all Oasis and Britney—this cheeky vid strolls through the weirdest No. 1s you’ve probably forgotten (or blocked out). From Iron Maiden’s banned head-banger “Bring Y"
+  },
+  {
+    "title": "データベースの行ロックをちゃんと理解する（PostgreSQL, MySQL）",
+    "link": "https://zenn.dev/moepyxxx/articles/d1af9fe80fde6c",
+    "pubDate": "Sun, 12 Oct 2025 02:13:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先日データのロックに関わる実装の方針に携わりましたが、思ったよりもロックについて知らない自分に気づきました。\nデータベースを考えるうえで、ロックとは長く付き合っていかなければならないものなので、今回を機に改めて学び直してみました。\n今回はデータベースにおけるロックの中でも、行ロックに焦点を当てています。\nまた、実際の Ruby on Rails の内部実装にも焦点を当て、Ruby on "
+  },
+  {
+    "title": "モダンフロントエンドはJSON APIが鬱陶しいので、無くしていきたい",
+    "link": "https://zenn.dev/naofumik/articles/0714f7237a493c",
+    "pubDate": "Sun, 12 Oct 2025 00:44:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nKaigi on Rails 2025で発表し、何人かの人といろいろ話しているうちに、モダンフロントエンドが面倒臭いのはJSON APIのせいではないかと考えるようになりました。そしてJSON APIそのものが悪いというよりは、JSON APIを必要以上に使う原因となっているSPAが問題ではないかと思っています。まだ考えは固まっていないのですが、まずは部分的に紹介したいと思います。\n\n "
+  },
+  {
+    "title": "Claude・Codex・Kombaiを使ったFigma to Codeの比較",
+    "link": "https://zenn.dev/oikon/articles/frontend-ai-tools",
+    "pubDate": "Sat, 11 Oct 2025 22:02:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Oikonです。\n先日AIツールでどこまでデザインを忠実に実装できるのかというテーマで登壇する機会がありました。\nその際に、以下の３つのツールについてFigmaからコードを生成してみて比較する実験を行いました。\n\nClaude Code + Figma MCP\nCodex CLI + Figma MCP\nKombai\n\n\nこの記事では、それぞれの手法について詳しく比較していきたいと思います。\n\n "
   },
   {
     "title": "【Nginx】Pixiの仮想環境とNginx【conda-forge】",
@@ -75,6 +96,20 @@
     "pubDate": "Sat, 11 Oct 2025 14:00:42 GMT",
     "source": "Zenn",
     "contentSnippet": "Pixiで本物のWebサーバーを動かす\nconda-forgeには、WebサーバーであるNginxが存在します。\nhttps://anaconda.org/conda-forge/nginx\nhttps://prefix.dev/channels/conda-forge/packages/nginx\nこういったものは往々にして、「Pythonで接続するためのモジュール」が手に入るに過ぎないことがあ"
+  },
+  {
+    "title": "もうprintlnデバッグは卒業。VSCodeで始めるRust実践デバッグ",
+    "link": "https://zenn.dev/dokusy/articles/b3c34eee18afbb",
+    "pubDate": "Sat, 11 Oct 2025 12:12:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n突然ですが、Rustでプログラムを書いていて、こんな経験はありませんか?\nprintln!(\"ここまで到達\");\nprintln!(\"変数xの値: {:?}\", x);\nprintln!(\"デバッグ1\");\nprintln!(\"デバッグ2\");\n// ...あとでこれ消さないと...\nprintln!でのデバッグは手軽ですが、コードが散らかり、デバッグ後に削除し忘れることも。\nというか削"
+  },
+  {
+    "title": "JAWS FESTA 2025 in 金沢に参加した！〜Day1セッション聴講＆登壇＆スタッフ〜",
+    "link": "https://zenn.dev/relic_tech/articles/9ed743152903ef",
+    "pubDate": "Sat, 11 Oct 2025 09:28:19 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは！株式会社Relic の 2025 Japan AWS Jr. Champions である、保 龍児もとい、エイミ/amixedcolorと申します！\n今回、初めてのZennの記事を、JAWS FESTAの参加記として書き上げます！\n懇親会1次会・2次会と、日曜の能登日帰りツアーにも参加しますが、そちらはまた別日に投稿予定です。\n自分が参加する上でより記憶しやすくするとともに記"
   },
   {
     "title": "ゼロから始める クリーンアーキテクチャAPI開発",
@@ -91,46 +126,11 @@
     "contentSnippet": "概要\nDNS（Domain Name System）を悪用したDDoS（Distributed Denial of Service）攻撃は、主に「DNS Amplification Attack（DNS増幅攻撃）」として知られています。この攻撃は、公開されたDNSリゾルバ..."
   },
   {
-    "title": "Snowflake Quickstart実践：Terraforming Snowflake",
-    "link": "https://zenn.dev/shinyaa31/articles/49c8897251d10e",
-    "pubDate": "Sat, 11 Oct 2025 06:41:13 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Terraform良いですよねTerraform。\nと言いながら自分自身ではそこまでがっつり使う機会が無かったのでこれを機に入門してみる事にしました。入門してみるならやっぱりチュートリアル実践でしょう！という事で毎度お馴染みSnowflakeのQuickstart。勿論「Terraform x Snowflake」という理想(？)の組み合わせのコンテンツも用意されています。当エントリではこのチュー"
-  },
-  {
-    "title": "チュートリアル実践：dbt Project on Snowflake",
-    "link": "https://zenn.dev/shinyaa31/articles/10b99a192367cf",
-    "pubDate": "Sat, 11 Oct 2025 06:38:59 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年06月に登場以降、非常に大きな注目を浴びている『dbt Projects on Snowflake』。\nhttps://docs.snowflake.com/en/user-guide/data-engineering/dbt-projects-on-snowflake\n既に多くの方が実践・知見の共有を行っていますが私も改めてこの機能について実践してみました。当エントリでは下記チュートリ"
-  },
-  {
-    "title": "DDDとクリーンアーキテクチャをはじめよう-Rust編",
-    "link": "https://zenn.dev/poporo/articles/20251011_1_start_ddd_and_clean_architecture_rust",
-    "pubDate": "Sat, 11 Oct 2025 03:12:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "背景\nども！池田(ikedadada)です！\nシリーズもいよいよRust編です。これまでNode.js、Go、Python、Javaの実装を紹介してきましたが、今回は同じTodo\nAPIの要件をRust（Axum + SQLx + MySQL）で実装するときの構成とキーポイントを整理します。\nソースコード:\nhttps://github.com/ikedadada/start-ddd-and-cl"
-  },
-  {
-    "title": "agnoのGuardrail機能を試してみた",
-    "link": "https://zenn.dev/akasan/articles/48cea67449be64",
-    "pubDate": "Sat, 11 Oct 2025 03:09:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "今回は昨日に引き続きagnoを利用してみました。agnoではGuardrailの機能について提供しており、そのサンプルを通して挙動を確認してみようと思います。昨日のagnoの導入記事もぜひ合わせてご覧ください。\nhttps://zenn.dev/akasan/articles/80953b8e206dd0\n\n 早速使ってみる\n今回は以下のページを参考にサンプルを試してみます。\nhttps://do"
-  },
-  {
     "title": "React学習ログ No.10",
     "link": "https://qiita.com/maedaHARUYA/items/8977056a9a42e9b8f04f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T01:50:58.000Z",
     "source": "Qiita",
     "contentSnippet": "React公式ドキュメント学習メモ：条件付きレンダー\nReactコンポーネントで条件によって表示を切り替える際の、主要な4つの手法を比較\n【共通タスク】 isVip が true の場合、名前に 👑 を追加\n\n最小コードでの比較\n\n1. if と return (早期リタ..."
-  },
-  {
-    "title": "[H2025ID] Hardening 2025 Invisible Divide 参加体験記",
-    "link": "https://zenn.dev/anri99103/articles/8d14289fbe97a0",
-    "pubDate": "Sat, 11 Oct 2025 01:34:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "1. はじめに\nHardening 2025 Invisible Divideに参加してきた。\n自身の振り返りも兼ねて、参加体験記をまとめる。\n\n 1.1. 前提\n\n参加は2回目。前回はH2023Gに参加。\n\n【初参加】Hardening2023 Generatives 参加体験記（#H2023G）\n\n\nチーム4 QuadLinkにて参加。9人チーム。\n\nメンバーは自分以外の8人が初参加。\nチーム"
   },
   {
     "title": "意外と似ている（?） JavaとC#の違い",

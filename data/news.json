@@ -1,73 +1,80 @@
 [
   {
-    "title": "TLDR; Deploy ReactJS project to Cloudflare Pages",
-    "link": "https://dev.to/thechaudhrysab/tldr-deploy-reactjs-project-to-cloudflare-pages-3ib1",
-    "pubDate": "Sat, 11 Oct 2025 18:13:24 +0000",
+    "title": "Daily Artificial Intelligence Digest - Oct 12, 2025",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-12-2025-3llo",
+    "pubDate": "Sun, 12 Oct 2025 01:49:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "My app is a React application built with Vite, which means it generates static assets (.html, .js, .css) and is a great fit for Cloudflare Pages. My project is also using Supabase for database CRUD, a"
+    "contentSnippet": "Industry Expansion & Talent Shifts\n\n\nMajor AI players continue to expand their global footprint and strategic capabilities, exemplified by OpenAI's consideration of a substantial Argentina data center"
   },
   {
-    "title": "🔒 Vulnerability Remediation (Cybersecurity Patch) 🛠️ by Avoiding Broken Access Control 🚫",
-    "link": "https://dev.to/hassamdev/vulnerability-remediation-cybersecurity-patch-by-avoiding-broken-access-control-3lc8",
-    "pubDate": "Sat, 11 Oct 2025 18:13:21 +0000",
+    "title": "Memory Bank: Labels In HTML",
+    "link": "https://dev.to/pureooze/memory-bank-labels-in-html-4kbf",
+    "pubDate": "Sun, 12 Oct 2025 01:32:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This was my second attempt at finding areas I needed to practice in, specifically related to cybersecurity skills — particularly Vulnerability Remediation.\nBefore I get into how I strengthened the acc"
+    "contentSnippet": "What is the right way to label something in HTML?\nThis came up in something I was working on recently. I always forget the best practices for labeling so I wanted to write this blog post to help me re"
   },
   {
-    "title": "COLORS: SABRI - Sold Myself For Love | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-5437",
-    "pubDate": "Sat, 11 Oct 2025 18:11:47 +0000",
+    "title": "Hi! My name is Rodrigo, and I m a self-taught programmer starting out my journey into the world of coding. Passionate about building, solving problems, and growing every day. Open to connect, learn, and collaborate on projects!",
+    "link": "https://dev.to/cristian_rodrigokuszek_0/hi-my-name-is-rodrigo-and-im-a-self-taught-programmer-starting-out-my-journey-into-the-world-of-4bd0",
+    "pubDate": "Sun, 12 Oct 2025 01:24:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SABRI – “Sold Myself For Love” on A COLORS SHOW\n\n\nDutch-born songstress SABRI brings raw soul and tender vulnerability to her COLORS performance of “Sold Myself For Love,” a standout track from her ne"
+    "contentSnippet": ""
   },
   {
-    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-m4c",
-    "pubDate": "Sat, 11 Oct 2025 18:11:39 +0000",
+    "title": "Determining the Maximum Decimal Digits at Compile-Time",
+    "link": "https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb",
+    "pubDate": "Sun, 12 Oct 2025 01:03:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nono’s Raw, Gritty Vibes\n\n\nParis-based MC Nono La Grinta unleashes every line with precision on his uncompromising COLORS performance of “LOVE YOU,” a standout cut from his forthcoming debut project—n"
+    "contentSnippet": "Introduction\n\n\nSuppose you want to convert an integer value to its decimal string representation, e.g., 42 to \"42\".  In C, you have to know how big to make the string buffer.  Specifically, given some"
   },
   {
-    "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4gpn",
-    "pubDate": "Sat, 11 Oct 2025 18:11:27 +0000",
+    "title": "Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.\r\n\r\nThat’s the difference between regular ChatGPT users & Expert ChatGPT users.",
+    "link": "https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla",
+    "pubDate": "Sun, 12 Oct 2025 01:00:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Babe Rainbow – Aquarium Cowgirl (Live on KEXP)\n\n\nBabe Rainbow dropped a killer live take of “Aquarium Cowgirl” at the KEXP studio on August 14, 2025, with Angus Dowling on vocals, Jack Crowther shredd"
+    "contentSnippet": "The Hidden Power of ChatGPT Prompts Nobody Talks About\nJaideep Parashar ・ Oct 12\n#ai\n        #beginners\n        #productivity\n        #career"
   },
   {
-    "title": "KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52ej",
-    "pubDate": "Sat, 11 Oct 2025 18:11:12 +0000",
+    "title": "Introducing Varkit: Dynamic CSS Variables for React with TypeScript",
+    "link": "https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f",
+    "pubDate": "Sun, 12 Oct 2025 00:59:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hunx and His Punx – Alone In Hollywood On Acid (Live on KEXP)\n\n\nHunx and His Punx crash into the KEXP studio on August 26, 2025, with a blistering live take on “Alone In Hollywood On Acid.” Seth Bogar"
+    "contentSnippet": "Introducing Varkit 🎨\n\n\nI'm excited to share my first open-source library: Varkit - a lightweight solution for managing CSS variables in React with full TypeScript support!\nWhile building React applic"
   },
   {
-    "title": "KEXP: Wet Leg - davina mccall (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3mci",
-    "pubDate": "Sat, 11 Oct 2025 18:10:58 +0000",
+    "title": "The 9 Best CLIs with Artificial Intelligence",
+    "link": "https://dev.to/nube_colectiva_nc/the-9-best-clis-with-artificial-intelligence-3lim",
+    "pubDate": "Sun, 12 Oct 2025 00:59:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Wet Leg – “davina mccall” Live on KEXP\n\n\nIndie-rock duo Wet Leg rocked the KEXP studio on September 9, 2025, delivering a punchy live take on “davina mccall.” Rhian Teasdale and Hester Chambers led th"
+    "contentSnippet": "In recent years, Artificial Intelligence (AI) has made its way into almost every corner of software development, and now, even into the Command Line Interface (CLI). These new AI-powered CLIs help dev"
   },
   {
-    "title": "Trash Theory: The Most Bizarre UK No. 1s of the 1990s",
-    "link": "https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-1k1c",
-    "pubDate": "Sat, 11 Oct 2025 18:10:32 +0000",
+    "title": "The Hidden Power of ChatGPT Prompts Nobody Talks About",
+    "link": "https://dev.to/jaideepparashar/the-hidden-power-of-chatgpt-prompts-nobody-talks-about-558f",
+    "pubDate": "Sun, 12 Oct 2025 00:53:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TrashTheory’s video takes you on a playful tour of the UK’s strangest No. 1 singles of the 1990s—think Iron Maiden’s censored metal anthem, Mr Blobby mayhem, Teletubbies mania and Chef’s cheeky “Choco"
+    "contentSnippet": "Everyone wants prompt templates, but very few understand prompt philosophy, and that’s the difference between using AI and leveraging AI as a force multiplier.\nMost developers ask AI for answers.\nThat"
   },
   {
-    "title": "Rick Beato: Finally…Breaking Down Kansas LIVE",
-    "link": "https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-52hm",
-    "pubDate": "Sat, 11 Oct 2025 18:10:10 +0000",
+    "title": "Rust for C Programmers: What I Wish I Knew from Day One",
+    "link": "https://dev.to/lospaccabit/rust-for-c-programmers-what-i-wish-i-knew-from-day-one-k76",
+    "pubDate": "Sun, 12 Oct 2025 00:51:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today’s video dives into a deep breakdown of my favorite Kansas track—stems, structure, and all the clever musical choices you need to hear. It’s a real treat for fans and aspiring musicians alike.\nAl"
+    "contentSnippet": "Rust for C Programmers: What I Wish I Knew from Day One\n\n\nIf you’re coming from C like I did, Rust can feel simultaneously familiar and alien. You understand pointers, you know about stack vs heap, yo"
   },
   {
-    "title": "Rick Beato: My Thoughts on Rush's NEW Drummer",
-    "link": "https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4fc8",
-    "pubDate": "Sat, 11 Oct 2025 18:10:02 +0000",
+    "title": "Choosing the Right Storage Solution",
+    "link": "https://dev.to/cathylai/choosing-the-right-storage-solution-3log",
+    "pubDate": "Sun, 12 Oct 2025 00:39:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "My Thoughts on Rush’s New Drummer\n\n\nI dive into Rush’s big reveal—yes, they’ve tapped powerhouse Anika Nilles behind the kit—and share my unfiltered reactions to the official announcement (linked) and"
+    "contentSnippet": "When building a house hunting app in React Native, one of the first architectural decisions you'll face is: Where do I store my data? Should you use SQLite for its query power, AsyncStorage for simpli"
+  },
+  {
+    "title": "【Nginx】Pixiの仮想環境とNginx【conda-forge】",
+    "link": "https://zenn.dev/amenaruya/articles/bbd585090df848",
+    "pubDate": "Sat, 11 Oct 2025 14:00:42 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Pixiで本物のWebサーバーを動かす\nconda-forgeには、WebサーバーであるNginxが存在します。\nhttps://anaconda.org/conda-forge/nginx\nhttps://prefix.dev/channels/conda-forge/packages/nginx\nこういったものは往々にして、「Pythonで接続するためのモジュール」が手に入るに過ぎないことがあ"
   },
   {
     "title": "ゼロから始める クリーンアーキテクチャAPI開発",
@@ -75,6 +82,41 @@
     "pubDate": "Sat, 11 Oct 2025 08:36:24 GMT",
     "source": "Zenn",
     "contentSnippet": "TypeScriptとクリーンアーキテクチャを組み合わせ、変更に強いAPIを構築するハンズオンガイドです。\n この本では、クリーンアーキテクチャとは何かという基礎的なところから、ヘキサゴナルアーキテクチャの考え方、依存性逆転の原則まで、実践的な知識を提供します。\n\n 第1章では、クリーンアーキテクチャの本質とよくある誤解を整理し、ポートとアダプタによる疎結合な設計を学びます。\n 第2章では、具体的"
+  },
+  {
+    "title": "DNSを利用したDDoS攻撃の原理と対策まとめ",
+    "link": "https://qiita.com/momokokko/items/c82e240d302c80b646b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T07:31:16.000Z",
+    "source": "Qiita",
+    "contentSnippet": "概要\nDNS（Domain Name System）を悪用したDDoS（Distributed Denial of Service）攻撃は、主に「DNS Amplification Attack（DNS増幅攻撃）」として知られています。この攻撃は、公開されたDNSリゾルバ..."
+  },
+  {
+    "title": "Snowflake Quickstart実践：Terraforming Snowflake",
+    "link": "https://zenn.dev/shinyaa31/articles/49c8897251d10e",
+    "pubDate": "Sat, 11 Oct 2025 06:41:13 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Terraform良いですよねTerraform。\nと言いながら自分自身ではそこまでがっつり使う機会が無かったのでこれを機に入門してみる事にしました。入門してみるならやっぱりチュートリアル実践でしょう！という事で毎度お馴染みSnowflakeのQuickstart。勿論「Terraform x Snowflake」という理想(？)の組み合わせのコンテンツも用意されています。当エントリではこのチュー"
+  },
+  {
+    "title": "チュートリアル実践：dbt Project on Snowflake",
+    "link": "https://zenn.dev/shinyaa31/articles/10b99a192367cf",
+    "pubDate": "Sat, 11 Oct 2025 06:38:59 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年06月に登場以降、非常に大きな注目を浴びている『dbt Projects on Snowflake』。\nhttps://docs.snowflake.com/en/user-guide/data-engineering/dbt-projects-on-snowflake\n既に多くの方が実践・知見の共有を行っていますが私も改めてこの機能について実践してみました。当エントリでは下記チュートリ"
+  },
+  {
+    "title": "DDDとクリーンアーキテクチャをはじめよう-Rust編",
+    "link": "https://zenn.dev/poporo/articles/20251011_1_start_ddd_and_clean_architecture_rust",
+    "pubDate": "Sat, 11 Oct 2025 03:12:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "背景\nども！池田(ikedadada)です！\nシリーズもいよいよRust編です。これまでNode.js、Go、Python、Javaの実装を紹介してきましたが、今回は同じTodo\nAPIの要件をRust（Axum + SQLx + MySQL）で実装するときの構成とキーポイントを整理します。\nソースコード:\nhttps://github.com/ikedadada/start-ddd-and-cl"
+  },
+  {
+    "title": "agnoのGuardrail機能を試してみた",
+    "link": "https://zenn.dev/akasan/articles/48cea67449be64",
+    "pubDate": "Sat, 11 Oct 2025 03:09:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "今回は昨日に引き続きagnoを利用してみました。agnoではGuardrailの機能について提供しており、そのサンプルを通して挙動を確認してみようと思います。昨日のagnoの導入記事もぜひ合わせてご覧ください。\nhttps://zenn.dev/akasan/articles/80953b8e206dd0\n\n 早速使ってみる\n今回は以下のページを参考にサンプルを試してみます。\nhttps://do"
   },
   {
     "title": "React学習ログ No.10",
@@ -105,39 +147,11 @@
     "contentSnippet": "はじめに\nJAWS-UG北陸新幹線#4 in 長野 にて発表したBedrodkを使って自然言語でDBにアクセスできるエージェントを作成したというのを、本記事でもう少し詳しく書いてみようと思います。\n\nまた、当日の登壇資料は以下になります。\n\nNL2SQLとは\n登..."
   },
   {
-    "title": "実行時に成長を続けるAgentic Context Engineering",
-    "link": "https://zenn.dev/cybernetics/articles/c0115ee1a01dd5",
-    "pubDate": "Fri, 10 Oct 2025 20:19:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n前回、下記のようにプロンプトエンジニアリングを終わらせてくれる期待を込めてDSPyの紹介をした。\nDSPyの機能の一つであるプロンプト最適化の大きな役割の1つはLLMに与えるガイドラインをデータセットから作り出してしまうというものである。前回の記事で、データセットからNARUTOの主人公ナルトの口調を真似て言葉を言い換えるエージェントが作成できた（僕はナルトに詳しいのでマニュアルでも書き"
-  },
-  {
-    "title": "Nano BananaでDiscordスタンプ5種を作ったので、プロンプトとコツを公開してみる",
-    "link": "https://zenn.dev/tmasuyama1114/articles/nano_banana_stamp_prompts",
-    "pubDate": "Fri, 10 Oct 2025 16:58:50 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\nGoogleのNano Banana（Gemini 2.5 Flash Image）を使って、Discordスタンプを作ってみました。\n「Vibe Coding Studio」というDiscordサーバーで実際に使っているスタンプです。\n「イラストを描いたことはない、でも生成AIは使える」人なら再現できます。\n今回は、どんなプロンプトを使ったのか、どういう工夫をしたのか、"
-  },
-  {
-    "title": "NativeWindの対抗馬？ハイパフォーマンスのUniwindでReact Nativeをスタイリング",
-    "link": "https://zenn.dev/tellernovel_inc/articles/5aa0fd3a3179ae",
-    "pubDate": "Fri, 10 Oct 2025 14:52:13 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！テラーノベルとテラードラマでiOS/Android/Webとフロントエンド周りを担当している @kazutoyoです！\nReact NativeでTailwindライクにスタイリングする方法として、NativeWindが有名だと思います。\nまた新たな選択肢として、React Native Unistylesの開発チームが、Uniwindを発表しました。\nhttps://docs.uni"
-  },
-  {
     "title": "2024 年 10 月から 2025 年 10 月までの Mozc に対する主な変更",
     "link": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2024_10",
     "pubDate": "Fri, 10 Oct 2025 14:00:02 GMT",
     "source": "Zenn",
     "contentSnippet": "初稿: 2025-10-10\n小松弘幸 (@komatsuh:bsky, @komatsuh:twitter)\n2024 年 10 月以降の Mozc に対する主な変更をまとめました。ドキュメントやコミットログ、 Issues に書かれているものをまとめただけで新しい情報はありません。抜けているものがあれば後で追記します。\nMozc の問題の報告や機能の要望等は、GitHub の Issues や"
-  },
-  {
-    "title": "Amazon Bedrock GuardrailsによるAIエージェントの安全対策入門！",
-    "link": "https://qiita.com/eno49conan/items/e4ca8be64afb984c5a68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T10:19:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "AIエージェント開発 / 運用入門、読みました！\n2025年10月1日に発売された以下書籍について、ハンズオンをしつつ一通り読み終えました。\nとても面白かったです！！\nAIエージェント開発 / 運用入門 [生成AI深掘りガイド]\n3章以降、これまでの知識整理含めて、勉強と..."
   },
   {
     "title": "1時間でCodexとLINE Bot(WIP)",
@@ -147,32 +161,18 @@
     "contentSnippet": "1時間でCodexでLINE Botチャレンジ"
   },
   {
+    "title": "もうテストで疲弊しない！生成AI × Laravel Duskでブラウザテストコードを自動生成してくれる話",
+    "link": "https://qiita.com/yokoba/items/06eb5b61bdd8c602c95d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T08:49:38.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\n⚠️ 本記事は、過去に投稿した 「生成AI × Laravel Dusk でブラウザテストを自動化する」 の最新版です。\n記載内容・環境構築手順・動画などを2025年10月版にアップデートしています。\n\n「テストを自動化したいけど、テストコードを書くのが面倒...."
+  },
+  {
     "title": "Claude Codeのマーケットプレイスを自作し、チーム内でカスタムコマンド、エージェント、フック、MCPサーバ設定を共有してみた",
     "link": "https://zenn.dev/canly/articles/d76a950bbeefc6",
     "pubDate": "Fri, 10 Oct 2025 08:12:58 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は人力で書きました。\n\n はじめに\nこの記事は、2025/10/10にリリースされたClaude Code2.0.12以降に利用が可能となった、\nプラグインのマーケットプレイスを自作し導入するための記事です。\n公式のブログ記事を、まずはご確認ください。\nhttps://www.anthropic.com/news/claude-code-plugins\n個人的に待ち望んでいた機能であり、以"
-  },
-  {
-    "title": "3年目のプロダクトでコアデータの構造を作り直す",
-    "link": "https://zenn.dev/nstock/articles/5409e32a0c78c3",
-    "pubDate": "Fri, 10 Oct 2025 08:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "これはなに\nNstock株式会社の祖業である株式報酬SaaSは、サービスローンチから数えて3年目になり、100社以上の企業様にご導入いただいています。その一方でコア機能である ストックオプションの個数/状態管理 の方法に課題が出てきていました。\nここまでは運用してこられたし次の2年もおそらくやっていけそうですが、その先の拡張も自信を持って乗り越えられるとは言いづらくなりつつありました。そういう状況"
-  },
-  {
-    "title": "TypeScriptで書いたLambda関数をtscなしでCDKデプロイする備忘録",
-    "link": "https://qiita.com/1998_i-airi/items/ffb8e0f11adc99fa306b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T03:16:13.000Z",
-    "source": "Qiita",
-    "contentSnippet": "◾️ はじめに\n　CDKを用いてインフラ環境を構築しているのですが、従来はtscでコンパイルしてdistに出力したJSを lambda.Functionでデプロイしていました。\nしかし、CDKのNodejsFunctionを使用すれば、tsc不要でTypeScriptをそ..."
-  },
-  {
-    "title": "Androidの通知音の設定を自動化したかっただけなのに、OSのバグとか見つけた話",
-    "link": "https://zenn.dev/fairydevices/articles/67e2a780995fef",
-    "pubDate": "Fri, 10 Oct 2025 00:42:51 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nFairy Devices株式会社のKabochaです。\nAndroidには、デフォルトで設定されている通知音があります。\nこれは設定アプリから、プリセットされているものや、ユーザーが任意に追加したoggファイルを通知音として設定できます。\nAndroid公式の設定方法の記事\n今回は、この通知音を大量の端末で一括設定するケースを考慮し、調査した話をします。\n\n この記事を読んでほしい方\n"
   },
   {
     "title": "「散歩は最高のデバッグ時間」──エンジニアの集中力・作業効率・睡眠が劇的に改善する理由",

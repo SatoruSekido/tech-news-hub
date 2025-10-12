@@ -1,80 +1,87 @@
 [
   {
-    "title": "From Shelves to Pixels: Library Aesthetic Prompts for AI Art Creators",
-    "link": "https://dev.to/graphicstrees/from-shelves-to-pixels-library-aesthetic-prompts-for-ai-art-creators-1hc7",
-    "pubDate": "Sun, 12 Oct 2025 12:37:31 +0000",
+    "title": "The Agentic Era: From Artificial Intelligence to Cognitive Infrastructure",
+    "link": "https://dev.to/pillin/the-agentic-era-from-artificial-intelligence-to-cognitive-infrastructure-3k7l",
+    "pubDate": "Sun, 12 Oct 2025 18:25:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Description / Opening Paragraph:\nIn this post, I’ll walk you through what makes a “library aesthetic” prompt, share examples, and show how you can remix or extend them for your own creative projects.\n"
+    "contentSnippet": "Translation of the original Spanish essay “La Era Agentic: de la Inteligencia Artificial a la Infraestructura Cognitiva,” originally published on Dev.to by Pillippa Pérez Pons.\nAgentic AI is the new t"
   },
   {
-    "title": "Python basics - Day 03",
-    "link": "https://dev.to/ian_b838138a27a917398d181/python-basics-day-03-3j3o",
-    "pubDate": "Sun, 12 Oct 2025 12:27:59 +0000",
+    "title": "The Basics of Data Sockets on Local Machines and System Resource Management",
+    "link": "https://dev.to/rijultp/the-basics-of-data-sockets-on-local-machines-and-system-resource-management-52ce",
+    "pubDate": "Sun, 12 Oct 2025 18:23:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Day 3 – Operators\n\n\nProject: Build a “Smart Grade Calculator”\n01. Learning Goal\nBy the end of this lesson, you will be able to:\nUse Python’s arithmetic, comparison, and logical operators\n\nUnderstand o"
+    "contentSnippet": "If you have ever run a server locally, you have interacted with data sockets even if you didn’t know it. Sockets are a fundamental concept in networking, and understanding how they work can save you a"
   },
   {
-    "title": "How I Quit the Pomodoro Technique and Reclaimed My Focus",
-    "link": "https://dev.to/bev_c_f315db9dd78d629cd4a/how-i-quit-the-pomodoro-technique-and-reclaimed-my-focus-40e2",
-    "pubDate": "Sun, 12 Oct 2025 12:24:51 +0000",
+    "title": "How AI Helped Me Find the Joy in Product Management Again",
+    "link": "https://dev.to/bcornils/how-ai-helped-me-find-the-joy-in-product-management-again-20cj",
+    "pubDate": "Sun, 12 Oct 2025 18:23:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"Just a little more, and I'll have a breakthrough...\"\nI stared intently at the code on my screen, my brain racing. It was a bug that had been tormenting me all afternoon, and at that moment, inspirati"
+    "contentSnippet": "When I started on my journey to learn more about AI, I didn’t expect it to help me find the joy in my job again. I’ve been a product manager for about 20 years. I like the chaos, the people, finding t"
   },
   {
-    "title": "Why Cogoma: Go Implementation of Codama IDL Ecosystem",
-    "link": "https://dev.to/xiaodao/why-cogoma-go-implementation-of-codama-idl-ecosystem-k0j",
-    "pubDate": "Sun, 12 Oct 2025 12:22:56 +0000",
+    "title": "Backend REST API Versioning: A Deep Dive Into Strategies, Nightmares, and Best Practices",
+    "link": "https://dev.to/mrgio7/backend-rest-api-versioning-a-deep-dive-into-strategies-nightmares-and-best-practices-22f0",
+    "pubDate": "Sun, 12 Oct 2025 18:18:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn Solana blockchain development, Interface Definition Language (IDL) serves as the critical bridge connecting smart contracts (programs) with client applications. Codama, as a powerful"
+    "contentSnippet": "Published by Giorgi Bakashvili, Senior Software Engineer. Connect with me on LinkedIn.\nIf you think shipping an API is the finish line, think again. “APIs are forever.” – Werner Vogels, Amazon CTO \nAP"
   },
   {
-    "title": "Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)",
-    "link": "https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj",
-    "pubDate": "Sun, 12 Oct 2025 12:18:29 +0000",
+    "title": "Battling Laravel's Sneaky DELETEs: How I Got ORDER BY and LIMIT to Play Nice with Joins",
+    "link": "https://dev.to/tegos/battling-laravels-sneaky-deletes-how-i-got-order-by-and-limit-to-play-nice-with-joins-ng9",
+    "pubDate": "Sun, 12 Oct 2025 18:17:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🧠 Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)\n\n\nWhen React Hooks arrived in version 16.8, developers everywhere collectively sighed in relief — and maybe even sh"
+    "contentSnippet": "Hey folks, if you've ever stared at your terminal in horror as Laravel cheerfully deletes half a million rows instead of the tidy batch of 500 you asked for, you're not alone. That's exactly what kick"
   },
   {
-    "title": "From art to code: a shift in curiosity",
-    "link": "https://dev.to/mdohr07/from-art-to-code-a-shift-in-curiosity-4g37",
-    "pubDate": "Sun, 12 Oct 2025 12:13:53 +0000",
+    "title": "User Secrets: The Right Way to Protect API Keys in .NET",
+    "link": "https://dev.to/joaooliveiratech/user-secrets-the-right-way-to-protect-api-keys-in-net-93a",
+    "pubDate": "Sun, 12 Oct 2025 18:15:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For a long time I identified over my craft, which was art. Not that it isn’t my craft anymore, but it isn’t the main one anymore, I suppose. That is because I had to make a life-changing decision to c"
+    "contentSnippet": "This tutorial demonstrates how to use the User Screts Manager in an .Net Web API to store sensitive configuration data, such as API tokens, ensuring they are never accidentally committed to source con"
   },
   {
-    "title": "I Built an AI Flood Forecasting System with Next.js 15 & FastAPI - Here's How 🌊",
-    "link": "https://dev.to/akshatraj00/i-built-an-ai-flood-forecasting-system-with-nextjs-15-fastapi-heres-how-4m27",
-    "pubDate": "Sun, 12 Oct 2025 12:12:28 +0000",
+    "title": "Expression-Based Parameter Value Feature in Oracle 21c",
+    "link": "https://dev.to/vahidusefzadeh/expression-based-parameter-value-feature-in-oracle-21c-4fm2",
+    "pubDate": "Sun, 12 Oct 2025 18:10:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey developers! 👋\nI just finished building a real-time flood forecasting system using Next.js 15, FastAPI, and Machine Learning. Here's the complete breakdown!\n👉 https://flood-forecast-ai.vercel.app"
+    "contentSnippet": "In Oracle 21c, you can define the value of a parameter using environment variables or even by referencing other database parameters. This provides more flexibility and automation when configuring your"
   },
   {
-    "title": "KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4o30",
-    "pubDate": "Sun, 12 Oct 2025 12:10:32 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1ei2",
+    "pubDate": "Sun, 12 Oct 2025 18:09:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Babe Rainbow – “Aquarium Cowgirl” Live on KEXP\n\n\nBabe Rainbow dropped a dreamy, sun-soaked rendition of “Aquarium Cowgirl” live in the KEXP studio on August 14, 2025, with Angus Dowling on vocals, Jac"
+    "contentSnippet": "Nono La Grinta, a Paris-based rapper, brings razor-sharp precision and raw grit to his performance of “LOVE YOU” on A COLORS SHOW, previewing tracks from his upcoming debut project.  \nA COLORS SHOW is"
   },
   {
-    "title": "Rick Beato: My Thoughts on Rush's NEW Drummer",
-    "link": "https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-8e1",
-    "pubDate": "Sun, 12 Oct 2025 12:09:19 +0000",
+    "title": "KEXP: Wet Leg - mangetout (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-565e",
+    "pubDate": "Sun, 12 Oct 2025 18:09:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR: I’m geeking out over Rush’s big reveal of their new drummer—breaking down the official announcement (YouTube link included) and why it’s so exciting. Plus, I’m shining a light on Anika Nilles’s"
+    "contentSnippet": "Wet Leg stormed the KEXP studio on September 9, 2025, with a raw, live take on “mangetout.” Fronted by Rhian Teasdale and Hester Chambers on vocals and guitar (with Henry Holmes on drums, Joshua Mobar"
   },
   {
-    "title": "GameSpot: Which Battlefield 6 Class is Right For You",
-    "link": "https://dev.to/gg_news/gamespot-which-battlefield-6-class-is-right-for-you-dg5",
-    "pubDate": "Sun, 12 Oct 2025 12:03:17 +0000",
+    "title": "Rick Beato: Finally…Breaking Down Kansas LIVE",
+    "link": "https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-17pp",
+    "pubDate": "Sun, 12 Oct 2025 18:08:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Which Battlefield 6 Class Is Right For You\n\n\nBattlefield 6 brings back the four classic classes—Assault, Engineer, Support, and Recon—and this guide walks you through everything you need to know (with"
+    "contentSnippet": "Breaking Down Kansas LIVE dives into Rick Beato’s all-time favorite Kansas track, teasing apart its stems, song structure, and clever musical choices—perfect for guitar lovers and music theory nerds a"
   },
   {
-    "title": "データベースの行ロックをちゃんと理解する（PostgreSQL, MySQL）",
-    "link": "https://zenn.dev/moepyxxx/articles/d1af9fe80fde6c",
-    "pubDate": "Sun, 12 Oct 2025 02:13:02 GMT",
+    "title": "TinyGoはどのように \"Tiny\" を実現している？",
+    "link": "https://zenn.dev/uji/articles/how-tinygo-tiny",
+    "pubDate": "Sun, 12 Oct 2025 06:00:05 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\n先日データのロックに関わる実装の方針に携わりましたが、思ったよりもロックについて知らない自分に気づきました。\nデータベースを考えるうえで、ロックとは長く付き合っていかなければならないものなので、今回を機に改めて学び直してみました。\n今回はデータベースにおけるロックの中でも、行ロックに焦点を当てています。\nまた、実際の Ruby on Rails の内部実装にも焦点を当て、Ruby on "
+    "contentSnippet": "!\nこの資料は TinyGo Conference 2025 in Japan の登壇資料です。\n\n\n 自己紹介\n\n名前: uji\n\n神戸市在住\nNOT A HOTEL のソフトウェアエンジニア\nGopher 7年生、TinyGo は 3年くらい前に初めて触りました\nKOBE.go, Kyoto.go 運営\n\n\nKOBE.go TinyGo Keebイベントの様子\n\n作ったもの\n\nhttps://"
+  },
+  {
+    "title": "ROS 2のパッケージを公開してみた",
+    "link": "https://zenn.dev/for/articles/1947c6e0c693bd",
+    "pubDate": "Sun, 12 Oct 2025 03:40:28 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんやっぴ〜、ForteFibreのインフラ担当マンゴーさんです！\n今回は、parameter_expressionというちょっとしたROS 2のパッケージを実際にROSのレポジトリに公開してみたので、その記録を書いていこうと思います。\n\n parameter_expressionについて\nパラメータに文字列で数式を指定したときに、それをうまく解釈するためのパッケージです。\nくわしく\nForteF"
   },
   {
     "title": "モダンフロントエンドはJSON APIが鬱陶しいので、無くしていきたい",
@@ -105,13 +112,6 @@
     "contentSnippet": "閉域にあるパブリックアクセスが無効に設定された RDS へ、同じ閉域下にあるオンプレミスや別 VPC から接続したいというケースがあると思います。\nこの時注意しなければいけないのは、RDS は基本的にエンドポイント名で接続するサービスとなっていることです。\nもちろん RDS..."
   },
   {
-    "title": "【Nginx】Pixiの仮想環境とNginx【conda-forge】",
-    "link": "https://zenn.dev/amenaruya/articles/bbd585090df848",
-    "pubDate": "Sat, 11 Oct 2025 14:00:42 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Pixiで本物のWebサーバーを動かす\nconda-forgeには、WebサーバーであるNginxが存在します。\nhttps://anaconda.org/conda-forge/nginx\nhttps://prefix.dev/channels/conda-forge/packages/nginx\nこういったものは往々にして、「Pythonで接続するためのモジュール」が手に入るに過ぎないことがあ"
-  },
-  {
     "title": "もうprintlnデバッグは卒業。VSCodeで始めるRust実践デバッグ",
     "link": "https://zenn.dev/dokusy/articles/b3c34eee18afbb",
     "pubDate": "Sat, 11 Oct 2025 12:12:56 GMT",
@@ -119,11 +119,11 @@
     "contentSnippet": "はじめに\n突然ですが、Rustでプログラムを書いていて、こんな経験はありませんか?\nprintln!(\"ここまで到達\");\nprintln!(\"変数xの値: {:?}\", x);\nprintln!(\"デバッグ1\");\nprintln!(\"デバッグ2\");\n// ...あとでこれ消さないと...\nprintln!でのデバッグは手軽ですが、コードが散らかり、デバッグ後に削除し忘れることも。\nというか削"
   },
   {
-    "title": "JAWS FESTA 2025 in 金沢に参加した！〜Day1セッション聴講＆登壇＆スタッフ〜",
-    "link": "https://zenn.dev/relic_tech/articles/9ed743152903ef",
-    "pubDate": "Sat, 11 Oct 2025 09:28:19 GMT",
+    "title": "Go&Ebitengineで3D描画をする",
+    "link": "https://zenn.dev/mirichi/articles/93624c7269f56a",
+    "pubDate": "Sat, 11 Oct 2025 10:40:08 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは！株式会社Relic の 2025 Japan AWS Jr. Champions である、保 龍児もとい、エイミ/amixedcolorと申します！\n今回、初めてのZennの記事を、JAWS FESTAの参加記として書き上げます！\n懇親会1次会・2次会と、日曜の能登日帰りツアーにも参加しますが、そちらはまた別日に投稿予定です。\n自分が参加する上でより記憶しやすくするとともに記"
+    "contentSnippet": "はじめに\nEbitengineは2Dゲームエンジンであり、3D用の機能は持ち合わせていないが、なぜか世の中にはガチな人がいてガチな3Dライブラリを作っていたりする。\nhttps://github.com/SolarLune/tetra3d\nでもこれは使わず、座標計算から自前でやってみたのでそんな感じのお話。\n\n Githubに置く\nこちらで実行できる。\nhttps://mirichi.github"
   },
   {
     "title": "ゼロから始める クリーンアーキテクチャAPI開発",
@@ -145,6 +145,13 @@
     "pubDate": "2025-10-11T05:32:19.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n2025年9月26日〜9月27日に開かれていたKaigi on Rails2025に参加してきました！\nエンジニアになってから始めてこういった現地イベントに参加させていただいたので、せっかくなので記事を書かせていただきたいと思います！\n\nday1\n\nそのprel..."
+  },
+  {
+    "title": "DDDとクリーンアーキテクチャをはじめよう-Rust編",
+    "link": "https://zenn.dev/poporo/articles/20251011_1_start_ddd_and_clean_architecture_rust",
+    "pubDate": "Sat, 11 Oct 2025 03:12:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "背景\nども！池田(ikedadada)です！\nシリーズもいよいよRust編です。これまでNode.js、Go、Python、Javaの実装を紹介してきましたが、今回は同じTodo\nAPIの要件をRust（Axum + SQLx + MySQL）で実装するときの構成とキーポイントを整理します。\nソースコード:\nhttps://github.com/ikedadada/start-ddd-and-cl"
   },
   {
     "title": "図解で理解するWebの仕組み - インターネット・HTTP・ブラウザの全体像",
@@ -187,13 +194,6 @@
     "pubDate": "2025-10-10T08:49:38.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n\n⚠️ 本記事は、過去に投稿した 「生成AI × Laravel Dusk でブラウザテストを自動化する」 の最新版です。\n記載内容・環境構築手順・動画などを2025年10月版にアップデートしています。\n\n「テストを自動化したいけど、テストコードを書くのが面倒...."
-  },
-  {
-    "title": "Claude Codeのマーケットプレイスを自作し、チーム内でカスタムコマンド、エージェント、フック、MCPサーバ設定を共有してみた",
-    "link": "https://zenn.dev/canly/articles/d76a950bbeefc6",
-    "pubDate": "Fri, 10 Oct 2025 08:12:58 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は人力で書きました。\n\n はじめに\nこの記事は、2025/10/10にリリースされたClaude Code2.0.12以降に利用が可能となった、\nプラグインのマーケットプレイスを自作し導入するための記事です。\n公式のブログ記事を、まずはご確認ください。\nhttps://www.anthropic.com/news/claude-code-plugins\n個人的に待ち望んでいた機能であり、以"
   },
   {
     "title": "Transformer アーキテクチャのAttentionメカニズムについて",

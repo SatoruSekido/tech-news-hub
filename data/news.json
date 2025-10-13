@@ -1,73 +1,80 @@
 [
   {
-    "title": "Google Sheets x BigQuery Sync using Google Apps Script",
-    "link": "https://dev.to/charlottetowell/google-sheets-x-bigquery-sync-using-google-apps-script-1d2a",
-    "pubDate": "Mon, 13 Oct 2025 06:33:45 +0000",
+    "title": "40 Docker & Kubernetes Interview Questions You Can't Afford to Skip",
+    "link": "https://dev.to/kumarmanish/40-docker-kubernetes-interview-questions-you-cant-afford-to-skip-4732",
+    "pubDate": "Mon, 13 Oct 2025 12:51:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you haven't discovered Google Apps Script yet (ahem, me a week ago) then you are seriously missing out!\nThis free service included in the Google Suite can be extremely powerful when wielded with th"
+    "contentSnippet": "From Basic to Advanced: Your Complete Guide to Acing Container Orchestration Interviews\n\n\nContainerization has revolutionized how we build, ship, and run applications. Whether you're a DevOps engineer"
   },
   {
-    "title": "How Midgen AI's 'Show, Don't Tell' Converter Elevates Storytelling",
-    "link": "https://dev.to/mdsiaofficial/how-midgen-ais-show-dont-tell-converter-elevates-storytelling-49m4",
-    "pubDate": "Mon, 13 Oct 2025 06:14:11 +0000",
+    "title": "Exploring the Netflix TV Shows and Movies Dataset with Spark",
+    "link": "https://dev.to/jackson_freitas_42cbeaf74/exploring-the-netflix-tv-shows-and-movies-dataset-with-spark-5fdk",
+    "pubDate": "Mon, 13 Oct 2025 12:49:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mastering the Narrative: How Midgen AI's 'Show, Don't Tell' Converter Elevates Storytelling\n\nInputting Flat Narration: The primary step involves the author pasting or typing their existing text—senten"
+    "contentSnippet": "🎬 Exploring the Netflix TV Shows and Movies Dataset with Spark\n\n\nThe \"Netflix TV Shows and Movies\" dataset contains information about movies and TV shows — including title, country, rating, release y"
   },
   {
-    "title": "Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility",
-    "link": "https://dev.to/ahmmrizv9/bikes-big-data-and-better-cities-how-tech-is-reshaping-urban-mobility-4pom",
-    "pubDate": "Mon, 13 Oct 2025 06:11:11 +0000",
+    "title": "Firefox Navigation Bug with Razorpay Payment Gateway - Here's the Fix",
+    "link": "https://dev.to/lokisri/firefox-navigation-bug-with-razorpay-payment-gateway-heres-the-fix-3a2",
+    "pubDate": "Mon, 13 Oct 2025 12:47:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility\n\n\nHave you ever white-knuckled your handlebars, weaving through traffic, wondering why your daily commute feels more like an ex"
+    "contentSnippet": "I recently encountered a frustrating bug while integrating Razorpay payment gateway in a Next.js application. After completing a payment, Firefox would automatically navigate back to the previous page"
   },
   {
-    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mno",
-    "pubDate": "Mon, 13 Oct 2025 06:10:49 +0000",
+    "title": "I built LogKitty — Android log viewer that doesn’t make you cry",
+    "link": "https://dev.to/ivan_kovac_1800b4fe01b1b7/i-built-logkitty-android-log-viewer-that-doesnt-make-you-cry-17og",
+    "pubDate": "Mon, 13 Oct 2025 12:46:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nono La Grinta – LOVE YOU | A COLORS SHOW\n\n\nParis-based MC Nono La Grinta steps onto the COLORS stage with razor-sharp precision and raw grit, delivering a powerhouse performance of “LOVE YOU,” a sing"
+    "contentSnippet": "Hey folks,\nI just launched LogKitty, a side project that grew out of my frustration with messy logs and clunky tools. It's a sleek, fast, and surprisingly lovable log viewer designed to help developer"
   },
   {
-    "title": "Polyphonic: When artists don't write their own songs",
-    "link": "https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-55pl",
-    "pubDate": "Mon, 13 Oct 2025 06:10:15 +0000",
+    "title": "Why Every QA Team Needs the Automation Pyramid Model",
+    "link": "https://dev.to/jamescantor38/why-every-qa-team-needs-the-automation-pyramid-model-31ge",
+    "pubDate": "Mon, 13 Oct 2025 12:45:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Watch on YouTube"
+    "contentSnippet": "The test automation pyramid can help teams deliver high-quality software that can stand the rigor of real-world scenarios. A report by Markets and Markets says that the automation testing market value"
   },
   {
-    "title": "Rick Beato: My Thoughts on Rush's NEW Drummer",
-    "link": "https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-19mj",
-    "pubDate": "Mon, 13 Oct 2025 06:10:06 +0000",
+    "title": "An Interactive Guide to How React’s useEffect Really Works",
+    "link": "https://dev.to/krish_kakadiya_5f0eaf6342/an-interactive-guide-to-how-reacts-useeffect-really-works-pol",
+    "pubDate": "Mon, 13 Oct 2025 12:45:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Summary\n\n\nIn this episode, I break down Rush’s huge announcement: they’ve chosen breakout drumming star Anika Nilles as their new drummer. I share my take on how she’ll fit into the band’s legacy, plu"
+    "contentSnippet": "Why useEffect Is Essential for React Developers\n\n\nIf you’ve ever built a React app, you’ve probably reached for useEffect. It’s the Swiss Army knife for handling side effects—things like fetching data"
   },
   {
-    "title": "Why Your Analytics Queries Are Slow: A Deep Dive into Columnar Databases",
-    "link": "https://dev.to/jennythomas498/why-your-analytics-queries-are-slow-a-deep-dive-into-columnar-databases-1koc",
-    "pubDate": "Mon, 13 Oct 2025 06:07:42 +0000",
+    "title": "Meme Monday",
+    "link": "https://dev.to/ben/meme-monday-3n52",
+    "pubDate": "Mon, 13 Oct 2025 12:43:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You've been there. You're staring at your monitoring dashboard, watching a query spin for what feels like an eternity. It's a simple-looking analytical query: SELECT AVG(purchase_price) FROM sales WHE"
+    "contentSnippet": "Meme Monday!\nToday's cover image comes from last week's thread.\nDEV is an inclusive space! Humor in poor taste will be downvoted by mods.\nReminder: Every day is Meme Monday on DUMB DEV ✨\n\n\n\n    \n     "
   },
   {
-    "title": "Danny Maude: Everyone Is Bad At Chipping...Until They Learn This",
-    "link": "https://dev.to/youtube_golf/danny-maude-everyone-is-bad-at-chippinguntil-they-learn-this-5c1p",
-    "pubDate": "Mon, 13 Oct 2025 06:06:07 +0000",
+    "title": "What is Agile?",
+    "link": "https://dev.to/burakboduroglu/what-is-agile-2b2k",
+    "pubDate": "Mon, 13 Oct 2025 12:43:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nDanny Maude’s latest video breaks down a one-size-fits-all chipping method and then shows you exactly how to tweak it for hard-pan lies, rough and uphill/downhill shots. He even reveals a pro "
+    "contentSnippet": "Agile, which literally means \"nimble\" or \"quick,\" is a project management and product development philosophy. In contrast to traditional, rigid, and long-term planning methods in software development "
   },
   {
-    "title": "Using Dev Containers in VS Code",
-    "link": "https://dev.to/rosgluk/using-dev-containers-in-vs-code-2p8a",
-    "pubDate": "Mon, 13 Oct 2025 06:05:02 +0000",
+    "title": "Why Learning Artificial Intelligence is the Smartest Career Move Today",
+    "link": "https://dev.to/cs_vishnukumar_c7ab67ff18/why-learning-artificial-intelligence-is-the-smartest-career-move-today-1gkb",
+    "pubDate": "Mon, 13 Oct 2025 12:39:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern software development demands consistent, reproducible environments that work across machines and operating systems. Developers often face the “works on my machine” dilemma due to dependency mis"
+    "contentSnippet": "Introduction\nArtificial Intelligence (AI) is no longer a future concept — it’s shaping our present. From self-driving cars to voice assistants and personalized ads, AI is everywhere. For students and "
   },
   {
-    "title": "GameSpot: Battlefield 6 - Good Company (Review-In-Progress)",
-    "link": "https://dev.to/gg_news/gamespot-battlefield-6-good-company-review-in-progress-2cnb",
-    "pubDate": "Mon, 13 Oct 2025 06:04:36 +0000",
+    "title": "🚫Never Use finalize() in Java",
+    "link": "https://dev.to/mohamad_mhana/never-use-finalize-in-java-3hpo",
+    "pubDate": "Mon, 13 Oct 2025 12:38:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Battlefield 6 plays it safe but brings the series back to its chaotic, large-scale multiplayer roots, delivering uproarious fun without reinventing the wheel.\nThis review is still in progress—once ser"
+    "contentSnippet": "Many Java developers have seen or even used the finalize() method at least once. It sounds like a convenient way to clean up resources before an object is destroyed, right?\nWell... not anymore. ☠️\nIn "
+  },
+  {
+    "title": "2025年に試したい10のモダン開発者向けツール（オープンソース含む）",
+    "link": "https://qiita.com/itodaisuke99/items/d5b59d629d5620856a2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T06:59:33.000Z",
+    "source": "Qiita",
+    "contentSnippet": "正直に言うと、少し前まで僕は「ツール選びに時間をかけるより、コードを書いた方が早い」と思っていた。\nでも、今年の初めに参加したハッカソンで、チームメンバーが使っていたツールを見て考えが変わった。彼らはAPI設計からデータ可視化まで、驚くほどスムーズに進めていた。僕が手作業で..."
   },
   {
     "title": "Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説",
@@ -75,6 +82,13 @@
     "pubDate": "Mon, 13 Oct 2025 02:42:53 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、とまだです。\n「AIツールを使ってコーディングを効率化したい！」\nそう思ってClaude Codeを始めてみたものの、思うような結果が出なくて悩んでいませんか？\n今回は、Anthropic社が公開しているClaude Codeのベストプラクティスから抜粋し、初心者にもわかりやすく解説します！\nこれを読めば、Claude Codeをもっと効果的に使いこなせるようになるはずです。\nちなみに"
+  },
+  {
+    "title": "Amazon SageMaker ノートブックインスタンスがAmazon Linux 2023になったのでクラウドIDEとして使うヨ",
+    "link": "https://qiita.com/moritalous/items/4e69824baf5b4eb100a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T00:26:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "密かに待ってたアップデートが来ました！\n\n昨日まではAmazon Linux 2しか選べなかったのですが、 Amazon Linux 2023を選べるようになりました！\n\n二年越しで待ってたよ！\n\n「Amazon Bedrock 生成AIアプリ開発入門」の環境として..."
   },
   {
     "title": "M5Stack CoreS3 の カメラ映像を Bluetooth LE で送信する",
@@ -119,6 +133,13 @@
     "contentSnippet": "はじめに\nError Boundary と Suspense をどこに置くか悩みませんか？かつての自分はこの設計をうまくできず、テストが書きづらい、1 つのエラーで全体が落ちる といった問題に苦しみました。\n本記事では、その設計が\n\nテストの書きやすさ\nStorybook の書きやすさ\nユーザー体験（UX）\n\nにどう影響するかを、実装例を通じて紹介します。\n「全体を 1 つの Error Boun"
   },
   {
+    "title": "【コンテキストエンジニアリングシリーズ】2)コーディングエージェントのメモリ設計 - 長期記憶システムの実装",
+    "link": "https://qiita.com/nogataka/items/3c40975a7271b8e8cf90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-12T07:12:03.000Z",
+    "source": "Qiita",
+    "contentSnippet": "AIエージェントに「忘れない記憶」を実装する実践ガイド\n\n📚 この記事の位置づけ\n本記事は、コンテキストエンジニアリングシリーズの続編です。\n前提知識として、以下の記事を先にお読みいただくことをおすすめします：\n\nコーディングエージェント時代のコンテキストエンジニア..."
+  },
+  {
     "title": "TinyGoはどのように \"Tiny\" を実現している？",
     "link": "https://zenn.dev/uji/articles/how-tinygo-tiny",
     "pubDate": "Sun, 12 Oct 2025 06:00:05 GMT",
@@ -147,18 +168,18 @@
     "contentSnippet": "こんやっぴ〜、ForteFibreのインフラ担当マンゴーさんです！\n今回は、parameter_expressionというちょっとしたROS 2のパッケージを実際にROSのレポジトリに公開してみたので、その記録を書いていこうと思います。\n\n parameter_expressionについて\nパラメータに文字列で数式を指定したときに、それをうまく解釈するためのパッケージです。\nくわしく\nForteF"
   },
   {
-    "title": "[Rust] シェルピンスキー数の検証",
-    "link": "https://qiita.com/yoshi389111/items/dfc9a0d602f5d40e8380?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T17:28:13.000Z",
+    "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？",
+    "link": "https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-12T02:18:50.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nRustの勉強を兼ねて、指定された数値がシェルピンスキー数かどうかをチェック（探索？）するプログラムを作成しました。非実用的なものですが。\n\nシェルピンスキー数とは？\nシェルピンスキー数とは $S_n = k \\cdot 2^n + 1$ が任意の正の整数 $n..."
+    "contentSnippet": "「AIがコードを書く時代、スクラムは本当に最適解なのか？」\nこの問いに、あなたは即答できますか？\n\n開発現場で起きている静かな革命\nAIによるコーディングが当たり前になりつつある今、ソフトウェア開発の進め方そのものを見直すタイミングが来ています。\n多くのチームがスクラ..."
   },
   {
     "title": "AgentCore Gatewayのターゲットタイプに「MCP server」が追加されたぞ！",
     "link": "https://qiita.com/har1101/items/cd6b92f1967a0d262c4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T15:56:54.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n祝・Bedrock AgentCore東京リージョンへ登場！\n\nその影に隠れてひっそりと、AgentCore Gatewayのターゲットタイプに MCP server が追加されました！\n\nドキュメントも更新されていました！\n\nターゲットタイプ: MCP ..."
+    "contentSnippet": "はじめに\n祝・Bedrock AgentCore東京リージョンへ登場！\n\nその影に隠れてひっそりと、AgentCore Gatewayのターゲットタイプに MCP server が追加されました！\n同じタイミングで追加されたものじゃなかったらすみません)\n\nドキュメントも..."
   },
   {
     "title": "DNSを利用したDDoS攻撃の原理と対策まとめ",
@@ -166,13 +187,6 @@
     "pubDate": "2025-10-11T07:31:16.000Z",
     "source": "Qiita",
     "contentSnippet": "概要\nDNS（Domain Name System）を悪用したDDoS（Distributed Denial of Service）攻撃は、主に「DNS Amplification Attack（DNS増幅攻撃）」として知られています。この攻撃は、公開されたDNSリゾルバ..."
-  },
-  {
-    "title": "図解で理解するWebの仕組み - インターネット・HTTP・ブラウザの全体像",
-    "link": "https://qiita.com/ktdatascience/items/bcf6b873d2d94b48f67b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T02:20:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n普段何気なく使っているWebサイトやアプリケーション。その裏側では、どのような仕組みで情報がやり取りされているのでしょうか。\nこの記事では、Web初学者の方を対象に、インターネットの基礎からWebの仕組み、ブラウザの役割まで、できるだけ分かりやすく解説します。\n..."
   },
   {
     "title": "【個人メモ】三層分離モデルをAWSアカウントで実現しようとした場合の構成",
@@ -189,25 +203,11 @@
     "contentSnippet": "はじめに\nJAWS-UG北陸新幹線#4 in 長野 にて発表したBedrodkを使って自然言語でDBにアクセスできるエージェントを作成したというのを、本記事でもう少し詳しく書いてみようと思います。\n\nまた、当日の登壇資料は以下になります。\n\nNL2SQLとは\n登..."
   },
   {
-    "title": "もうテストで疲弊しない！生成AI × Laravel Duskでブラウザテストコードを自動生成してくれる話",
-    "link": "https://qiita.com/yokoba/items/06eb5b61bdd8c602c95d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T08:49:38.000Z",
+    "title": "自分が思う理想のメモツールを作ってみた",
+    "link": "https://qiita.com/8bitTD/items/747df42d4e1a92890257?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T13:34:46.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n\n⚠️ 本記事は、過去に投稿した 「生成AI × Laravel Dusk でブラウザテストを自動化する」 の最新版です。\n記載内容・環境構築手順・動画などを2025年10月版にアップデートしています。\n\n「テストを自動化したいけど、テストコードを書くのが面倒...."
-  },
-  {
-    "title": "Transformer アーキテクチャのAttentionメカニズムについて",
-    "link": "https://qiita.com/ueki_yuichi/items/1fca269e10a2bc20d97e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T03:05:44.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n 2022年のChatGPTのリリース（この時のバージョンは、GPT-3.5）以降、LLMはモデルのパラメータ数や訓練するテキストデータの量を増やし、特にGPT-4以降登場したモデルでは、質問に対する理解度や回答内容などが日常業務での使用に十分耐えられる水準にな..."
-  },
-  {
-    "title": "「散歩は最高のデバッグ時間」──エンジニアの集中力・作業効率・睡眠が劇的に改善する理由",
-    "link": "https://qiita.com/nakaizumi_slj/items/bf0a08284a8869fbc23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T00:40:15.000Z",
-    "source": "Qiita",
-    "contentSnippet": "💻 エンジニアは動かない生き物？\n気づけば一日中PCの前に座りっぱなし。\n気づけば万歩計の数字が「200歩」。\nリモートワークや長時間のコーディングが当たり前になった今、エンジニアの運動不足は深刻です。\n肩こり、腰痛、目の疲れ、集中力の低下……\nでも「運動する時間がない」..."
+    "contentSnippet": "こちらにメモツールのポジトリがあります\nhttps://github.com/8bitTD/memo_dioxus/\n\nなぜ、この記事を書こうと思ったのか\n普段、仕事でもプライベートでもメモを取る機会が多いのですが、\n使っていたフリーソフトのメモツールが使いづらいと思うよ..."
   },
   {
     "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",

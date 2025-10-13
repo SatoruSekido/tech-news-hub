@@ -1,73 +1,87 @@
 [
   {
-    "title": "40 Docker & Kubernetes Interview Questions You Can't Afford to Skip",
-    "link": "https://dev.to/kumarmanish/40-docker-kubernetes-interview-questions-you-cant-afford-to-skip-4732",
-    "pubDate": "Mon, 13 Oct 2025 12:51:06 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "From Basic to Advanced: Your Complete Guide to Acing Container Orchestration Interviews\n\n\nContainerization has revolutionized how we build, ship, and run applications. Whether you're a DevOps engineer"
+    "title": "Python 3.14登場、フリースレッド版正式サポート。実験的JITコンパイラも公式バイナリで利用可能に",
+    "link": "https://www.publickey1.jp/blog/25/python_314jit.html",
+    "pubDate": "2025-10-14T13:37:23.000Z",
+    "source": "Publickey",
+    "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
   },
   {
-    "title": "Exploring the Netflix TV Shows and Movies Dataset with Spark",
-    "link": "https://dev.to/jackson_freitas_42cbeaf74/exploring-the-netflix-tv-shows-and-movies-dataset-with-spark-5fdk",
-    "pubDate": "Mon, 13 Oct 2025 12:49:14 +0000",
+    "title": "To an Old Friend: A Goodbye to Windows",
+    "link": "https://dev.to/shygyver/to-an-old-friend-a-goodbye-to-windows-j0",
+    "pubDate": "Mon, 13 Oct 2025 18:28:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎬 Exploring the Netflix TV Shows and Movies Dataset with Spark\n\n\nThe \"Netflix TV Shows and Movies\" dataset contains information about movies and TV shows — including title, country, rating, release y"
+    "contentSnippet": "To an Old Friend: A Goodbye to Windows\n\n\nWe were there.\nYou were my first real OS. The one I crashed with bad C code, froze with my broken C++ while learning OpenGL, and probably abused a bit more tha"
   },
   {
-    "title": "Firefox Navigation Bug with Razorpay Payment Gateway - Here's the Fix",
-    "link": "https://dev.to/lokisri/firefox-navigation-bug-with-razorpay-payment-gateway-heres-the-fix-3a2",
-    "pubDate": "Mon, 13 Oct 2025 12:47:49 +0000",
+    "title": "Introduction to Python Module Two Part Five: Booleans and Operators",
+    "link": "https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-five-booleans-and-operators-5h7b",
+    "pubDate": "Mon, 13 Oct 2025 18:26:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I recently encountered a frustrating bug while integrating Razorpay payment gateway in a Next.js application. After completing a payment, Firefox would automatically navigate back to the previous page"
+    "contentSnippet": "Today's post wraps up Module 2 of SoloLearn's Introduction to Python course. The final topics you need to know are operators and one more data type. This post will concentrate on booleans, comparison "
   },
   {
-    "title": "I built LogKitty — Android log viewer that doesn’t make you cry",
-    "link": "https://dev.to/ivan_kovac_1800b4fe01b1b7/i-built-logkitty-android-log-viewer-that-doesnt-make-you-cry-17og",
-    "pubDate": "Mon, 13 Oct 2025 12:46:02 +0000",
+    "title": "From Simple to Complex: How ZWJs Build the Emojis We Use Every Day",
+    "link": "https://dev.to/rijultp/from-simple-to-complex-how-zwjs-build-the-emojis-we-use-every-day-2eo6",
+    "pubDate": "Mon, 13 Oct 2025 18:18:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey folks,\nI just launched LogKitty, a side project that grew out of my frustration with messy logs and clunky tools. It's a sleek, fast, and surprisingly lovable log viewer designed to help developer"
+    "contentSnippet": "Emojis are everywhere today. From casual chats to professional apps, we use them to express emotions, objects, professions, and even complex ideas. But have you ever wondered how emojis like a female "
   },
   {
-    "title": "Why Every QA Team Needs the Automation Pyramid Model",
-    "link": "https://dev.to/jamescantor38/why-every-qa-team-needs-the-automation-pyramid-model-31ge",
-    "pubDate": "Mon, 13 Oct 2025 12:45:58 +0000",
+    "title": "Authentication & Authorization in Backend Development",
+    "link": "https://dev.to/riteshkokam/authentication-authorization-in-backend-development-4go",
+    "pubDate": "Mon, 13 Oct 2025 18:17:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The test automation pyramid can help teams deliver high-quality software that can stand the rigor of real-world scenarios. A report by Markets and Markets says that the automation testing market value"
+    "contentSnippet": "In the world of software development, ensuring the security and privacy of user data is of utmost importance. Two essential concepts that play a vital role in achieving this are authentication and aut"
   },
   {
-    "title": "An Interactive Guide to How React’s useEffect Really Works",
-    "link": "https://dev.to/krish_kakadiya_5f0eaf6342/an-interactive-guide-to-how-reacts-useeffect-really-works-pol",
-    "pubDate": "Mon, 13 Oct 2025 12:45:44 +0000",
+    "title": "FFStudio - a node-based FFmpeg frontend",
+    "link": "https://dev.to/azfino/ffstudio-a-node-based-ffmpeg-frontend-3899",
+    "pubDate": "Mon, 13 Oct 2025 18:15:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why useEffect Is Essential for React Developers\n\n\nIf you’ve ever built a React app, you’ve probably reached for useEffect. It’s the Swiss Army knife for handling side effects—things like fetching data"
+    "contentSnippet": "Introducing FFStudio — Make FFmpeg Visual, Not Intimidating\n\n\nTurn complex FFmpeg pipelines into node graphs. See previews, compare outputs, and build workflows without memorizing every flag.\nAs a med"
   },
   {
-    "title": "Meme Monday",
-    "link": "https://dev.to/ben/meme-monday-3n52",
-    "pubDate": "Mon, 13 Oct 2025 12:43:26 +0000",
+    "title": "Building a Smart Hardware Inventory System That Actually Works",
+    "link": "https://dev.to/ravgeetdhillon/building-a-smart-hardware-inventory-system-that-actually-works-ngg",
+    "pubDate": "Mon, 13 Oct 2025 18:14:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Meme Monday!\nToday's cover image comes from last week's thread.\nDEV is an inclusive space! Humor in poor taste will be downvoted by mods.\nReminder: Every day is Meme Monday on DUMB DEV ✨\n\n\n\n    \n     "
+    "contentSnippet": "We've all been there. You're rushing to meet a deadline and desperately need that specific USB drive—the one with the 32GB capacity that has your client's backup files. But as you stare at the drawer "
   },
   {
-    "title": "What is Agile?",
-    "link": "https://dev.to/burakboduroglu/what-is-agile-2b2k",
-    "pubDate": "Mon, 13 Oct 2025 12:43:10 +0000",
+    "title": "You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events",
+    "link": "https://dev.to/member_7be3cb2a/you-might-not-need-websockets-the-simple-power-of-server-sent-events-1hed",
+    "pubDate": "Mon, 13 Oct 2025 18:13:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Agile, which literally means \"nimble\" or \"quick,\" is a project management and product development philosophy. In contrast to traditional, rigid, and long-term planning methods in software development "
+    "contentSnippet": "GitHub Home\nIn our toolbox, there are always a few \"star\" tools. 🛠️ In the realm of real-time web communication, WebSocket is undoubtedly the brightest star. It's powerful, supports bidirectional com"
   },
   {
-    "title": "Why Learning Artificial Intelligence is the Smartest Career Move Today",
-    "link": "https://dev.to/cs_vishnukumar_c7ab67ff18/why-learning-artificial-intelligence-is-the-smartest-career-move-today-1gkb",
-    "pubDate": "Mon, 13 Oct 2025 12:39:10 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4p4l",
+    "pubDate": "Mon, 13 Oct 2025 18:12:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nArtificial Intelligence (AI) is no longer a future concept — it’s shaping our present. From self-driving cars to voice assistants and personalized ads, AI is everywhere. For students and "
+    "contentSnippet": "Paris rapper Nono La Grinta lays down razor-sharp bars on his COLORS show performance of “LOVE YOU,” giving us a sneak peek at his debut project with palpable grit and precision.\nTrue to the COLORS vi"
   },
   {
-    "title": "🚫Never Use finalize() in Java",
-    "link": "https://dev.to/mohamad_mhana/never-use-finalize-in-java-3hpo",
-    "pubDate": "Mon, 13 Oct 2025 12:38:34 +0000",
+    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-an8",
+    "pubDate": "Mon, 13 Oct 2025 18:12:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Many Java developers have seen or even used the finalize() method at least once. It sounds like a convenient way to clean up resources before an object is destroyed, right?\nWell... not anymore. ☠️\nIn "
+    "contentSnippet": "Indys Blu pours her heart out in a spine-tingling performance of “Saddest Song” on A COLORS SHOW, blending raw emotion and poetic lyrics that’ll leave you reaching for the tissues. Hailing from New Or"
+  },
+  {
+    "title": "KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-57k7",
+    "pubDate": "Mon, 13 Oct 2025 18:11:52 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Ezra Furman took over KEXP’s Seattle studio on August 13, 2025, delivering a fiery live rendition of “Power of the Moon.” Backed by Liz Furman (vocals, guitar), Ben Joseph (keys, guitar), Sam Durkes ("
+  },
+  {
+    "title": "テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど",
+    "link": "https://www.publickey1.jp/blog/25/playwrightai.html",
+    "pubDate": "2025-10-13T15:42:38.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトが主導して開発しているオープンソースのテスト自動化フレームワーク「Playwright」の新バージョン「Playwright 1.56」がリリースされました。 Playwrightはデスクトップ向けのWebアプリケーションやモバイル向けのWebアプリケーションのテスト自動化が可能で、Chromium、WebKit、Firefoxなどの主要なモダンブラウザのエンジンのヘッドレス、ヘッド"
   },
   {
     "title": "2025年に試したい10のモダン開発者向けツール（オープンソース含む）",
@@ -75,6 +89,20 @@
     "pubDate": "2025-10-13T06:59:33.000Z",
     "source": "Qiita",
     "contentSnippet": "正直に言うと、少し前まで僕は「ツール選びに時間をかけるより、コードを書いた方が早い」と思っていた。\nでも、今年の初めに参加したハッカソンで、チームメンバーが使っていたツールを見て考えが変わった。彼らはAPI設計からデータ可視化まで、驚くほどスムーズに進めていた。僕が手作業で..."
+  },
+  {
+    "title": "IaCを活用して最速でAzure × RAGを概念検証",
+    "link": "https://zenn.dev/kinosh/articles/iac-azure-rag-fastest-poc",
+    "pubDate": "Mon, 13 Oct 2025 05:04:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Azure × RAGシステムの概念検証（PoC）を1-2時間で完了させる、IaC（Infrastructure as Code）を活用した最速デプロイ手法を紹介します。\n\n TL;DR(要約)\n1-2時間でAzure × RAGシステムをデプロイ。手動構築（数日）に比べ、IaCテンプレート活用により時間を大幅に短縮できます。\nこの記事で得られる価値:\n\n✅ Azure Portal操作不要（すべ"
+  },
+  {
+    "title": "[先取り] Tanstack Start によるクライアントファーストな RSC のアプローチ",
+    "link": "https://zenn.dev/tsuboi/articles/0d2d63b584aa2c",
+    "pubDate": "Mon, 13 Oct 2025 03:35:58 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに 🚀\nReact Server Components（RSC）は、Next.js App Router での採用を機に広く普及しました。一方で、RSC の採用方法については、フレームワークごとに異なる考え方が存在します。\nTanStack の作者である Tanner Linsley 氏は、インタビュー[1]にて「RSC をバンドルサイズの削減や静的コンテンツの最適化に役立つツールと見てい"
   },
   {
     "title": "Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説",
@@ -91,13 +119,6 @@
     "contentSnippet": "密かに待ってたアップデートが来ました！\n\n昨日まではAmazon Linux 2しか選べなかったのですが、 Amazon Linux 2023を選べるようになりました！\n\n二年越しで待ってたよ！\n\n「Amazon Bedrock 生成AIアプリ開発入門」の環境として..."
   },
   {
-    "title": "M5Stack CoreS3 の カメラ映像を Bluetooth LE で送信する",
-    "link": "https://zenn.dev/edom18/articles/jpeg-send-ble",
-    "pubDate": "Mon, 13 Oct 2025 00:25:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n最近色々触り始めてた IoT、その中でも M5Stack CoreS3 を使って色々実験しています。\n今回はその CoreS3 に内蔵されているカメラ映像を Bluetooth LE（以後 BLE）を介して iPhone へ送信するためのあれこれを実装したので備忘録がてらまとめようと思います。\n実際に動作している動画↓\nhttps://www.youtube.com/watch?v=CH"
-  },
-  {
     "title": "【git】プッシュ前に\"ちょ待てよ\"発動させたい。",
     "link": "https://qiita.com/umekikazuya/items/6d92fb70bf3c709ceb52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-12T19:42:54.000Z",
@@ -105,11 +126,25 @@
     "contentSnippet": "はじめに\ngit pushでブランチ間違っちゃった！ってこと、たまにありますよね。\n現在のブランチ確認したくないですか？\nそんな時は、キムタクに「待て」をかけてもらいましょう。\n\ngit hooks\nGitに標準で搭載されている git hooks というソリューションを..."
   },
   {
+    "title": "necordとbullmqで、ジョブキューCLI併用Discord botの構築",
+    "link": "https://zenn.dev/andhisan/articles/02d50c7e2340d7",
+    "pubDate": "Sun, 12 Oct 2025 15:58:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Discord.jsによるbotの構築は、ある程度のベストプラクティスがGuideで解説されているものの、ディレクトリ構造や開発環境の構築は開発者の選択に委ねられています。\nこの記事では、necordを活用し、NestJSのモジュールとしてbotを起動します。また、ジョブキューを挟むことで、非同期処理を実現し、イベント処理の肥大化を防ぎます。\n※necordに関する日本語の情報は、おそらく当記事が"
+  },
+  {
     "title": "未経験から2年働いたエンジニアの本紹介",
     "link": "https://zenn.dev/enkazu/articles/347f2bf59cb903",
     "pubDate": "Sun, 12 Oct 2025 13:30:01 GMT",
     "source": "Zenn",
     "contentSnippet": "目的\n未経験で現職に入社して2年が経ちました。\n入社1年目は、仕事の成果が上がらず、毎週の進捗会議で詰められていることが多かったです。その現状を変えるためにひたすら勉強に打ち込んでいました😭\nもしまた0から始めるとしたら、今ならこの本を読む！というのをまとめます。\n\n\n Java編\n\n 1冊目\n私はJavaから始めたので、この入門書が一番わかりやすかったです！\n実践編もあるのでそれと合わせると、"
+  },
+  {
+    "title": "PKSHA Technologyエンジニア サマーインターン 体験記",
+    "link": "https://zenn.dev/pkmiya/articles/e183c44ba94ea3",
+    "pubDate": "Sun, 12 Oct 2025 12:35:16 GMT",
+    "source": "Zenn",
+    "contentSnippet": "みなさんこんにちは！みーやと申します。\nこの度、2025 年 9 月に 株式会社 PKSHA Technology（以下 PKSHA）にて 2 weeks ソフトウェア・エンジニア サマーインターン（以下インターン）に参加させていただきました。\nこの記事では、インターン参加のきっかけからインターンの内容と開発エピソード、参加して感じたことまで、可能な限り幅広く深くご紹介します。エンジニア、特にフル"
   },
   {
     "title": "Remix 3 発表まとめ - React を捨て、Web標準で新しい世界へ",
@@ -145,27 +180,6 @@
     "pubDate": "Sun, 12 Oct 2025 06:00:05 GMT",
     "source": "Zenn",
     "contentSnippet": "!\nこの資料は TinyGo Conference 2025 in Japan の登壇資料です。\n\n\n 自己紹介\n\n名前: uji\n\n神戸市在住\nNOT A HOTEL のソフトウェアエンジニア\nGopher 7年生、TinyGo は 3年くらい前に初めて触りました\nKOBE.go, Kyoto.go 運営\n\n\nKOBE.go TinyGo Keebイベントの様子\n\n作ったもの\n\nhttps://"
-  },
-  {
-    "title": "LLMのコーディングエージェント(主にCodex)を効率よく使うために",
-    "link": "https://zenn.dev/takeshy/articles/ffe23204d1d326",
-    "pubDate": "Sun, 12 Oct 2025 04:48:29 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前提\n私が現在使っているLLMコーディングエージェントは下記です。\n\nCodex（proプラン $200）\nCursor（proプラン $20）\nGemini（workspace Business）\n\n1年前にclineを使いはじめ、今年の春ごろにmaxプラン($100)でClaude Codeが使えるようになったタイミングでClaude Codeに乗り換えました。\nその後、gpt-5-codex"
-  },
-  {
-    "title": "Figma MCPを使った静的Webサイト作成の自動化を検証する",
-    "link": "https://zenn.dev/shinya/articles/d6b0a6ee2df607",
-    "pubDate": "Sun, 12 Oct 2025 04:06:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "まとめ\n\n作業ログを全載せしていて、とても長い記事なので、最初に結論だけ書く\n結論\n\n簡易なデザインは、適切なFigmaファイルを用意すれば、ほぼ自動化できる\n複雑なデザインもCode Connectと開発用のアノテーションを活用することで実現できそう(未検証)\n\n\nFigma(デザイン)について\n\nデザイナーが丁寧にFigmaファイルを作るほど、Codingの精度が上がる\n\nコンポーネント化 /"
-  },
-  {
-    "title": "ROS 2のパッケージを公開してみた",
-    "link": "https://zenn.dev/for/articles/1947c6e0c693bd",
-    "pubDate": "Sun, 12 Oct 2025 03:40:28 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんやっぴ〜、ForteFibreのインフラ担当マンゴーさんです！\n今回は、parameter_expressionというちょっとしたROS 2のパッケージを実際にROSのレポジトリに公開してみたので、その記録を書いていこうと思います。\n\n parameter_expressionについて\nパラメータに文字列で数式を指定したときに、それをうまく解釈するためのパッケージです。\nくわしく\nForteF"
   },
   {
     "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？",
@@ -264,19 +278,5 @@
     "pubDate": "2025-10-05T15:03:11.000Z",
     "source": "Publickey",
     "contentSnippet": "米調査会社のガートナーは、「先進テクノロジーのハイプサイクル 2025年版」を9月に発表しています（ガートナージャパンの発表）。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説明したものです。5つのステージは、「黎明期」から始まり、「『過度な期待』のピーク期」「幻滅期」「啓発期」「生産性の安定期」まで。この途中で消えていく技術もあります。 今回発表されたハイプサイク"
-  },
-  {
-    "title": "AWSのナレッジを生成AIで参照できる「AWS Knowledge MCP Server」正式版が登場。公式のドキュメントやAPIリファレンス、アーキテクチャガイダンスなど情報源に",
-    "link": "https://www.publickey1.jp/blog/25/awsaiaws_knowledge_mcp_serverapi.html",
-    "pubDate": "2025-10-02T15:53:34.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Servicesは、生成AIでAWSのさまざまなナレッジを参照できる「AWS Knowledge MCP Server」正式版のリリースを発表しました。 生成AIを用いて目的の情報をすぐに参照できる AWS Knowledge MCP Serverは、AWSの公式ドキュメント、APIリファレンス、ブログ記事、新着情報、アーキテクチャガイダンスなどを生成AIから参照できるように"
-  },
-  {
-    "title": "Webブラウザ上にLinux/Node.sベースのWebアプリ開発環境をWebAssemblyで実装した「BrowserPod」発表。ブラウザ内サーバに別タブからアクセス可能",
-    "link": "https://www.publickey1.jp/blog/25/weblinuxnodeswebwebassemblybrowserpod.html",
-    "pubDate": "2025-10-02T15:51:37.000Z",
-    "source": "Publickey",
-    "contentSnippet": "LearningTechnologiesは、Node.jsによるサーバサイドJavaScriptの実行環境とコードエディタなどの開発環境をWebAssemblyを用いてWebブラウザ上で実行可能にした「BrowserPod」を発表しました。 これによりサーバと接続することなく、WebブラウザだけでフルスタックのWebアプリケーション開発が可能になります。下記の画面にあるように、ViteやSvelt"
   }
 ]

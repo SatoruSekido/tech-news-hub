@@ -7,74 +7,74 @@
     "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/henriqueleme/-50dk",
-    "pubDate": "Tue, 14 Oct 2025 01:49:49 +0000",
+    "title": "⚙️LangChain vs. LangGraph: A Comparative Analysis",
+    "link": "https://dev.to/utopiality/langchain-vs-langgraph-a-comparative-analysis-49ab",
+    "pubDate": "Tue, 14 Oct 2025 06:28:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Data Engineering 101 - A real beginner's approach\nDaniel Reis ・ Oct 14\n#datascience\n        #database\n        #bruin\n        #programming"
+    "contentSnippet": "If you’re building applications with large language models, you’ll likely come across two frameworks: LangChain and LangGraph. Both are open source, both are powerful, and both are designed to help de"
   },
   {
-    "title": "How to verify if SpringBoot is UP and Running",
-    "link": "https://dev.to/said_olano/how-to-verify-if-springboot-is-up-and-running-1k0f",
-    "pubDate": "Tue, 14 Oct 2025 01:46:02 +0000",
+    "title": "Day 9 of My 100 Days of Web Dev — CSS Gradients, Backgrounds & Parent-Child Magic!",
+    "link": "https://dev.to/bblackwind/day-9-of-my-100-days-of-web-dev-css-gradients-backgrounds-parent-child-magic-4a48",
+    "pubDate": "Tue, 14 Oct 2025 06:23:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "To verify if SpringBoot Actuator is UP and Running we need to verify these items:\n1.- starter dependency properly located at the pom.xml:\n\n2.- At the application.properties we specify what we want to "
+    "contentSnippet": "Today was all about adding colors, depth, and real-world visuals to my web pages using CSS. Slowly, I’m starting to see how design brings HTML to life\n🧩 Day 9 of My 100 Days of Web Dev — CSS Gradient"
   },
   {
-    "title": "How AI Helped Me Find the Joy in Product Management Again",
-    "link": "https://dev.to/_2c78f2211e58fb9c5f4cf/how-ai-helped-me-find-the-joy-in-product-management-again-4hha",
-    "pubDate": "Tue, 14 Oct 2025 01:42:18 +0000",
+    "title": "FlashFuzz ⚡Quick URL Fuzzing & Secret Scanning, straight from your browser",
+    "link": "https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54",
+    "pubDate": "Tue, 14 Oct 2025 06:18:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "人工智能时代的产品管理：重塑而非替代\n\n\n在科技浪潮席卷全球的今天，各行各业都在经历着前所未有的变革。作为一名在产品管理领域深耕近二十年的从业者，我亲历了行业的起伏变迁，也见证了人工智能从概念走向现实的完整过程。令人意外的是，正是这场技术革命，让我重新发现了职业的真正乐趣。\n产品管理这一职业，本质上是一场在混沌中创造秩序的艺术。它要求从业者具备多维度能力：从理解用户需求的敏锐洞察，到团队文化的精准"
+    "contentSnippet": "TL;DR: I built FlashFuzz, an open-source browser extension that fuzzes URLs and scans loaded JavaScript for likely secrets across all open tabs — so you don't have to jump between terminal tools and y"
   },
   {
-    "title": "Mock REST APIs in 2 minutes",
-    "link": "https://dev.to/mockapihub/mock-rest-apis-in-2-minutes-ep9",
-    "pubDate": "Tue, 14 Oct 2025 01:38:47 +0000",
+    "title": "KEXP: Ezra Furman - Jump Out (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3onf",
+    "pubDate": "Tue, 14 Oct 2025 06:16:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When you’re building a frontend but still waiting for the backend, development slows down.\n\nHere’s a quick way to get realistic API data instantly — without writing any server code.\nMockApiHub is a fr"
+    "contentSnippet": "Ezra Furman and her all-star band—Liz Furman on vocals/guitar, Ben Joseph on keys and guitar, Sam Durkes on drums, Jorgen Jorgensen on bass and Lilah Larson on guitar—tear into “Jump Out” live in the "
   },
   {
-    "title": "12 Free Developer Tools I Built For Developers (No Sign-Up Required)",
-    "link": "https://dev.to/glockx/12-free-developer-tools-i-built-for-developers-no-sign-up-required-1hjc",
-    "pubDate": "Tue, 14 Oct 2025 01:32:40 +0000",
+    "title": "KEXP: Ezra Furman - Veil Song (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-54he",
+    "pubDate": "Tue, 14 Oct 2025 06:15:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As a developer, I spend a lot of time switching between different tools for formatting, encoding, testing, and debugging. After years of juggling multiple websites and extensions, I decided to build a"
+    "contentSnippet": "Ezra Furman – “Veil Song” (Live on KEXP)\n\n\nEzra Furman and band rocked the KEXP studio on August 13, 2025, delivering a raw, emotive take on “Veil Song.” With Ezra on vocals and guitar, backed by Liz "
   },
   {
-    "title": "The frequency of feeling — why sound hits deeper than words?",
-    "link": "https://dev.to/gift_song_9c89f7551b1c29f/the-frequency-of-feeling-why-sound-hits-deeper-than-words-2j9f",
-    "pubDate": "Tue, 14 Oct 2025 01:32:23 +0000",
+    "title": "KEXP: Ezra Furman - Submission (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-2j7o",
+    "pubDate": "Tue, 14 Oct 2025 06:15:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The frequency of feeling: Why sound heals, moves and remembers?\n\n\nHave you ever heard a song that made you cry even when you didn’t understand the lyrics?\nSound is vibration. Every sound wave has a me"
+    "contentSnippet": "Ezra Furman – “Submission” Live on KEXP\n\n\nEzra Furman stopped by the KEXP studio on August 13, 2025, for a raw, electric rendition of “Submission.” Backed by Liz Furman (vocals/guitar), Ben Joseph (ke"
   },
   {
-    "title": "Auto-Blog: AI Blog Generator with Next.js and Local AI",
-    "link": "https://dev.to/jqueryscript/auto-blog-ai-blog-generator-with-nextjs-and-local-ai-5d3a",
-    "pubDate": "Tue, 14 Oct 2025 01:31:59 +0000",
+    "title": "Are Cybersecurity Jobs Safe from AI?",
+    "link": "https://dev.to/deepaksharma/are-cybersecurity-jobs-safe-from-ai-adh",
+    "pubDate": "Tue, 14 Oct 2025 06:13:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Auto-Blog: Automated blogging platform that generates posts from RSS feeds using AI and Next.js.\nKey features:\n🤖 Multi-agent AI system handles research, writing, and editing automatically\n📡 RSS aggr"
+    "contentSnippet": "The cybersecurity industry stands at a pivotal crossroads where artificial intelligence is fundamentally reshaping the profession rather than eliminating it. While fears about AI replacing human profe"
   },
   {
-    "title": "(basic) Provision VirtualBox Ubuntu VM Server on MacOS",
-    "link": "https://dev.to/halton-zhou/basic-provision-virtualbox-ubuntu-vm-server-on-macos-46lk",
-    "pubDate": "Tue, 14 Oct 2025 01:27:24 +0000",
+    "title": "IGN: Peacemaker Season 2 Dropped a Major Man of Tomorrow Reveal, So Why Are We Disappointed?",
+    "link": "https://dev.to/gg_news/ign-peacemaker-season-2-dropped-a-major-man-of-tomorrow-reveal-so-why-are-we-disappointed-3hdo",
+    "pubDate": "Tue, 14 Oct 2025 06:12:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is when I open the VirtualBox Ubuntu Server Command UI, it's only the command.\n\n\nby default\nsudo apt update\n\nsudo apt install openssh-server -y\n\nsudo systemctl status ssh\n\n\nsudo systemctl enable "
+    "contentSnippet": "Peacemaker Season 2’s finale all but primes us for James Gunn’s 2027 Man of Tomorrow movie by teasing the mysterious villain who’ll unite Lex Luthor and Superman—but instead of excitement, fans are le"
   },
   {
-    "title": "How to make an application packager",
-    "link": "https://dev.to/jmacio/how-to-make-an-application-packager-35mc",
-    "pubDate": "Tue, 14 Oct 2025 01:27:16 +0000",
+    "title": "Rick Beato: Finally…Breaking Down Kansas LIVE",
+    "link": "https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-2fj1",
+    "pubDate": "Tue, 14 Oct 2025 06:11:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why\n\n\nI was recently making a toy interpreted language and I thought to myself how do tools like pyinstaller and pkg turn an interpreted language into an executable without compilers? Eventually I mad"
+    "contentSnippet": "Finally…Breaking Down Kansas LIVE\n\n\nRick Beato takes us inside his all-time favorite Kansas track, pulling apart the stems to explore the song’s structure, arrangement and key musical decisions. It’s "
   },
   {
-    "title": "Oracle Fusion Cloud – 25D AI Agent Studio Executive Summary",
-    "link": "https://dev.to/rajesh_vohra_e75f579b7888/oracle-fusion-cloud-25d-ai-agent-studio-executive-summary-3cjm",
-    "pubDate": "Tue, 14 Oct 2025 01:24:14 +0000",
+    "title": "Rick Beato: My Thoughts on Rush's NEW Drummer",
+    "link": "https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-56do",
+    "pubDate": "Tue, 14 Oct 2025 06:11:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Oracle Fusion Cloud 25D introduces the AI Agent Studio, a transformative capability that enables business users and administrators to design, configure, and deploy generative AI-powered agents across "
+    "contentSnippet": "I just dropped my take on Rush’s big news: they’ve got a new drummer, Anika Nilles! In this episode I break down the official announcement clip (linked) and share my first impressions—plus you can fol"
   },
   {
     "title": "テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど",
@@ -84,6 +84,20 @@
     "contentSnippet": "マイクロソフトが主導して開発しているオープンソースのテスト自動化フレームワーク「Playwright」の新バージョン「Playwright 1.56」がリリースされました。 Playwrightはデスクトップ向けのWebアプリケーションやモバイル向けのWebアプリケーションのテスト自動化が可能で、Chromium、WebKit、Firefoxなどの主要なモダンブラウザのエンジンのヘッドレス、ヘッド"
   },
   {
+    "title": "Next.js App Routerで破綻しない設計──本番で使えるアーキテクチャ実践ガイド",
+    "link": "https://zenn.dev/yukionishi/articles/cd79e39ea6c172",
+    "pubDate": "Mon, 13 Oct 2025 15:32:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Next.jsのApp Routerは、“設計力が試されるフレームワーク”です。\nServer Components、Server Actions、そして“use client”による明確な境界。\nそれらは間違いなく強力な仕組みであり、\n使いこなせば、アプリケーションの構造を根本から変えるほどのポテンシャルを持っています。\nただ、どう設計すれば破綻しないのかについては、\n誰も明確な指針を示してくれ"
+  },
+  {
+    "title": "yomitokuで作る無料の日本語OCR Webアプリ【Flask + TypeScript】",
+    "link": "https://zenn.dev/lecto/articles/b345c7f3920ae9",
+    "pubDate": "Mon, 13 Oct 2025 14:45:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n昨今、AI が急速に普及している中で、改めて「OCR（光学文字認識）」という技術に注目してみました。\nOCR の API サービスは多数存在していますが、どれも従量課金制で、利用量が増えるとコストが膨らんでいきます。Google Cloud Vision API や Amazon Textract などは高精度ですが、個人開発や小規模なプロジェクトでは原価が気になるところです。\n「日本語"
+  },
+  {
     "title": "Unity: 2D で大量の草を生やす",
     "link": "https://zenn.dev/ruccho/articles/258b59603547d0",
     "pubDate": "Mon, 13 Oct 2025 14:24:18 GMT",
@@ -91,11 +105,25 @@
     "contentSnippet": "2D で草を表現するのに、大量のメッシュを Transparent キューで描画する方法を調べました。\n\n\n 前提条件\n\nURP 17 カスタム\n\n2D Renderer と Lights 2D を使用\nすでにいろいろ改造しており、いざとなれば追加の改造も可能である前提\n\n\n描画対象\n\nPer Instance なデータのある描画\n\n個別の草が風でなびいたり、Rigidbody とのインタラクショ"
   },
   {
-    "title": "ZMK Input Processorチートシート",
-    "link": "https://zenn.dev/kot149/articles/zmk-input-processor-cheat-sheet",
-    "pubDate": "Mon, 13 Oct 2025 09:55:24 GMT",
+    "title": "知ってるかい？Codexでストレスなくスマホでタスク完結できる世界線を。",
+    "link": "https://zenn.dev/manabu/articles/80f22eb54883b0",
+    "pubDate": "Mon, 13 Oct 2025 12:06:21 GMT",
     "source": "Zenn",
-    "contentSnippet": "!\nこの記事の情報はZMK v0.3時点のものです。\n今後のアップデートによって設定方法が変更される可能性があります。\n\n\n Input Processorとは\n公式ドキュメントへのリンク\nZMKのInput Processorは、カーソル移動やスクロールなどのマウス入力(Input)イベント[1]を受け取り、それに基づいてさまざま処理を実行する機能。\nさまざな処理とは、例えば\n\nカーソルの移動や"
+    "contentSnippet": "※ ファンタジーではありません。\nもちろん丸投げでは完結できませんし、指示を無視した事もしてきます。\nそこはAI駆動開発に片足突っ込んだ人なら分かる通り、一定許容する必要がありますよね。\nしかし、以前この記事を書いた後で意見がまたガラッと変わるのですが、突如Codexに推し変することにしました。\nhttps://zenn.dev/fastdoctor/articles/f2f6b90f95c039"
+  },
+  {
+    "title": "アロー関数で this を操る！",
+    "link": "https://zenn.dev/tcool/articles/350559e14d590a",
+    "pubDate": "Mon, 13 Oct 2025 11:18:14 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nJavaScript の this、混乱したことありませんか？\n「呼び出し方で変わる」「イベントで指すものが違う」──誰もが一度はハマるポイントです。\nでも、Arrow Function（アロー関数）を使うと this\nの挙動が一気にわかりやすくなります。\nこの記事では、「なぜ Arrow Function では this\nが変わらないのか？」を\nES5 の関数型の書き方で解説します。\n"
+  },
+  {
+    "title": "なぜ気軽にテーブルにカラムを足してはいけないのか",
+    "link": "https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random",
+    "pubDate": "Mon, 13 Oct 2025 10:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nデータベース（RDB）の設計で深く考えずにテーブルにカラムを追加してしまうことはありませんか？テーブルの追加よりもアプリケーション側での変更が少ないので、心理的ハードルが低いこともあるでしょう。しかし、そうしてカラム追加していくうちに取り返しのつかないことになるかもしれません。\nこの記事では大きく以下の3つに分けて、なぜ気軽にテーブルにカラムを足してはいけないのかを説明します。\n\nそもそ"
   },
   {
     "title": "Snowflake 自律化サービスがもたらすデータエンジニアの新時代",
@@ -110,6 +138,13 @@
     "pubDate": "2025-10-13T09:52:29.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n今回、IndieゲームのランキングWebサイトを作成しました。\nこのサイトは、世界中の個人開発されたゲームを紹介・共有できる場所を作りたいという思いで作成しました。\n最新のゲームとランキングを切り替えて表示ができ、ログインした際には掲示板機能も利用することが可能..."
+  },
+  {
+    "title": "3Dゲームを最小コードで動かすまでのメモ（Unity）",
+    "link": "https://zenn.dev/game_dev/articles/e2233631aaae5f",
+    "pubDate": "Mon, 13 Oct 2025 09:32:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "がっつり本を書くほどではないけど、はじめての3Dを形にするまでの「最短ルート」を自分用にメモしておきます。\n断定しません。\nこうやったらすぐ動いた、くらいの温度感。\nキーワードは「3Dゲームの作り方」。\n初心者向けに寄せますが、わたし自身も毎回忘れるので、手順と失敗点を淡々と並べます。\n\n まずはゴールを小さく：動く・拾う・終わる\n最初から広いマップや派手なエフェクトを盛ると進まないので、ゴールを"
   },
   {
     "title": "「作って理解する仮想化技術」 読書ログ in Zig",
@@ -140,32 +175,11 @@
     "contentSnippet": "正直に言うと、少し前まで僕は「ツール選びに時間をかけるより、コードを書いた方が早い」と思っていた。\nでも、今年の初めに参加したハッカソンで、チームメンバーが使っていたツールを見て考えが変わった。彼らはAPI設計からデータ可視化まで、驚くほどスムーズに進めていた。僕が手作業で..."
   },
   {
-    "title": "Microsoft Agent Framework (C#) を見てみよう その8 Human in the loop を試してみよう",
-    "link": "https://zenn.dev/microsoft/articles/agent-framework-008",
-    "pubDate": "Mon, 13 Oct 2025 05:56:53 GMT",
-    "source": "Zenn",
-    "contentSnippet": "シリーズ記事\n!\nこの記事はプレビュー版の Microsoft Agent Framework を基に書かれています。今後のバージョンアップで内容が変わる可能性があります。\nここで記載しているコードは執筆時点の情報に基づいています。\n\n\n「雑感」とハローワールド\nざっとリポジトリを見てみる\nワークフローを見てみよう\nワークフローの Executor を掘り下げる\nワークフローで条件分岐とループを扱"
-  },
-  {
     "title": "サプライチェーン攻撃対策に、safe-chainとSocket Firewall Freeを試してみた",
     "link": "https://zenn.dev/hayashim/articles/try-safe-chain-and-socket-firewall-free",
     "pubDate": "Mon, 13 Oct 2025 04:07:45 GMT",
     "source": "Zenn",
     "contentSnippet": "前置き\n2025年9月14日[1]、npmで公開されているパッケージに対する攻撃があったようです。今までの同様の攻撃と比べて規模が大きく、よく利用されるパッケージも攻撃を受け、またマルウェアがワームとして広がったことから注目されている気がします。\nパッケージ利用者の観点からは、「信頼しているパッケージが攻撃されて、新しいバージョンにマルウェアが混入した」という、一般的なサプライチェーン攻撃の流れで"
-  },
-  {
-    "title": "[先取り] Tanstack Start によるクライアントファーストな RSC のアプローチ",
-    "link": "https://zenn.dev/tsuboi/articles/0d2d63b584aa2c",
-    "pubDate": "Mon, 13 Oct 2025 03:35:58 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに 🚀\nReact Server Components（RSC）は、Next.js App Router での採用を機に広く普及しました。一方で、RSC の採用方法については、フレームワークごとに異なる考え方が存在します。\nTanStack の作者である Tanner Linsley 氏は、インタビュー[1]にて「RSC をバンドルサイズの削減や静的コンテンツの最適化に役立つツールと見てい"
-  },
-  {
-    "title": "Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide",
-    "pubDate": "Mon, 13 Oct 2025 02:42:53 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\n「AIツールを使ってコーディングを効率化したい！」\nそう思ってClaude Codeを始めてみたものの、思うような結果が出なくて悩んでいませんか？\n今回は、Anthropic社が公開しているClaude Codeのベストプラクティスから抜粋し、初心者にもわかりやすく解説します！\nこれを読めば、Claude Codeをもっと効果的に使いこなせるようになるはずです。\nちなみに"
   },
   {
     "title": "Amazon SageMaker ノートブックインスタンスがAmazon Linux 2023になったのでクラウドIDEとして使うヨ",
@@ -180,20 +194,6 @@
     "pubDate": "2025-10-12T19:42:54.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\ngit pushでブランチ間違っちゃった！ってこと、たまにありますよね。\n現在のブランチ確認したくないですか？\nそんな時は、キムタクに「待て」をかけてもらいましょう。\n\ngit hooks\nGitに標準で搭載されている git hooks というソリューションを..."
-  },
-  {
-    "title": "Remix 3 発表まとめ - React を捨て、Web標準で新しい世界へ",
-    "link": "https://zenn.dev/coji/articles/remix3-introduction",
-    "pubDate": "Sun, 12 Oct 2025 12:03:26 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025年10月10日、カナダのトロントで開催されたイベント \"Remix Jam 2025\" で Ryan Florence と Michael Jackson が Remix 3 を発表しました。このセッションは、React Router の生みの親たちが、なぜ React から離れ、独自のフレームワークを作ることにしたのか、その理由と新しいビジョンを語った歴史的な発表です。\nhtt"
-  },
-  {
-    "title": "大規模計算時代におけるパラメータ推定自動化の歴史",
-    "link": "https://zenn.dev/cybernetics/articles/083cb782b4099c",
-    "pubDate": "Sun, 12 Oct 2025 10:41:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこれはポエムに近い。ので、技術的にすぐ使える情報を求めている人には合わない。しかし、技術的な教養とか文化みたいなものを使って文章を楽しむ分には良い記事だと思う。\nテーマはタイトルの通りであるが、特にLLMのコンテキスト適応方法がハンドチューニングからオートマチック方面へ本格的に変わりつつある状況を思い浮かべてつけたタイトルだ。本記事のキーワードとしてはMIPROv2やGEPAなどの最近の"
   },
   {
     "title": "AgentCore Gatewayのターゲットタイプに「MCP server」が追加されたぞ！",

@@ -1,5 +1,89 @@
 [
   {
+    "title": "Day 3: Mastering the Dictionary, Counting Character Frequency",
+    "link": "https://dev.to/shahrouzlogs/day-3-mastering-the-dictionary-counting-character-frequency-43f",
+    "pubDate": "Tue, 14 Oct 2025 18:33:25 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "We’re moving on to Challenge #3 in the #80DaysOfChallenges journey! Today's goal was foundational: counting the frequency of every character in a string. This challenge is perfect for solidifying one "
+  },
+  {
+    "title": "From Giants to Minis - The Emergence of Small Language Models",
+    "link": "https://dev.to/rijultp/from-giants-to-minis-the-emergence-of-small-language-models-1mg4",
+    "pubDate": "Tue, 14 Oct 2025 18:32:01 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "For the last two years the spotlight has been on giant models like GPT 4 and Gemini. These models are impressive but they are also heavy. They need powerful hardware just to answer a question. That is"
+  },
+  {
+    "title": "Record, Class και Struct στη C# — Αναλυτική Επεξήγηση με Παραδείγματα",
+    "link": "https://dev.to/__b63657/record-class-kai-struct-ste-c-analutike-epexegese-me-paradeigmata-1il5",
+    "pubDate": "Tue, 14 Oct 2025 18:29:23 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "🔹 Εισαγωγή\nΣτη C#, υπάρχουν τρεις βασικοί τρόποι για να ορίσεις τύπους δεδομένων (data types) που περιέχουν πεδία και μεθόδους:\nclass\nstruct\nrecord (προστέθηκε στη C# 9)\nΑν και μοιάζουν συντακτικά, έ"
+  },
+  {
+    "title": "GitHub Actions: Why You Should Pin Your Actions to a Specific Version",
+    "link": "https://dev.to/ciberconscientes/github-actions-why-you-should-pin-your-actions-to-a-specific-version-1513",
+    "pubDate": "Tue, 14 Oct 2025 18:28:20 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "GitHub is, without a doubt, the most popular version control platform on the planet. Millions of developers, companies, and institutions use it daily to collaborate and store their code.\nBut GitHub is"
+  },
+  {
+    "title": "While Loop",
+    "link": "https://dev.to/arun_kumar_98/while-loop-igk",
+    "pubDate": "Tue, 14 Oct 2025 18:24:20 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "What is While Loop?\n\n\nThe while loop is a fundamental control flow structure (or loop statement) in programming, enabling the execution of a block of code repeatedly as long as a specified condition r"
+  },
+  {
+    "title": "Customer Churn Analysis: A Data-Driven Approach to Predicting Retention",
+    "link": "https://dev.to/techkene/customer-churn-analysis-a-data-driven-approach-to-predicting-retention-321b",
+    "pubDate": "Tue, 14 Oct 2025 18:23:24 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "In today’s competitive market, understanding why customers leave a platform is crucial for improving retention strategies. In this project, I performed a churn analysis to identify key drivers of cust"
+  },
+  {
+    "title": "Building a Production-Ready Data Lake: PostgreSQL to S3 with AWS DMS, Glue, and Athena using CDK",
+    "link": "https://dev.to/andreparis/building-a-production-ready-data-lake-postgresql-to-s3-with-aws-dms-glue-and-athena-using-cdk-366n",
+    "pubDate": "Tue, 14 Oct 2025 18:20:17 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Introduction\n\n\nWhen building modern data platforms, one of the most common challenges is replicating relational database data into a data lake for analytics. AWS Database Migration Service (DMS) provi"
+  },
+  {
+    "title": "How do you think about screen time and technology?",
+    "link": "https://dev.to/jess/how-do-you-think-about-screen-time-and-technology-595p",
+    "pubDate": "Tue, 14 Oct 2025 18:18:28 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "I know this is ever-evolving but I'm curious how different households manage screen time and technology.\nUp until recently, my 2yo hasn't been interested in TV so the rule for my 4yo was that she coul"
+  },
+  {
+    "title": "From Hash Functions to Vector Databases: The Data Structures Powering AI",
+    "link": "https://dev.to/ocansey11/from-hash-functions-to-vector-databases-the-data-structures-powering-ai-551o",
+    "pubDate": "Tue, 14 Oct 2025 18:18:03 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Introduction: The Reluctant Start\n\n\nHey everyone \nI wanted to share a bit about my Data Structures & Algorithms journey.\nWe have a small study group where we discuss and solve DSA questions together. "
+  },
+  {
+    "title": "Building Arenadata’s Engineering Team: Growth Story from the Inside",
+    "link": "https://dev.to/marina_feder_912194c77adb/building-arenadatas-engineering-team-growth-story-from-the-inside-40ia",
+    "pubDate": "Tue, 14 Oct 2025 18:14:06 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Company Background\nArenadata was founded in 2016 by engineers from Pivotal and Mirantis.\nBy 2017, the core team of five people was in place. At that time, the company focused mostly on technological d"
+  },
+  {
+    "title": "オラクル、「Oracle Database 26ai」発表。AIベクトルサーチをデータベースのコア機能に統合、MCPサーバをサポートなど。Oracle AI World 2025",
+    "link": "https://www.publickey1.jp/blog/25/oracle_database_26aiaimcporacle_ai_world_2025.html",
+    "pubDate": "2025-10-14T17:51:17.000Z",
+    "source": "Publickey",
+    "contentSnippet": "オラクルは今日（日本時間2025年10月15日未明）に開幕した同社のイベント「Oracle AI World 2025」で、同社の中核製品であるOracle Databaseの最新版となる「Oracle Database 26ai」を発表しました（プレスリリース、ブログ）。 Unleash developer productivity and deliver secure, powerful AI"
+  },
+  {
+    "title": "AWS、企業向けAIエージェント「Amazon Quick Suite」提供開始。Google DriveやSharePoint、Amazon Redshiftなど企業内外のデータソースに接続、分析や自動処理など可能に",
+    "link": "https://www.publickey1.jp/blog/25/awsaiamazon_quick_suitegoogle_drivesharepointamazon_redshift.html",
+    "pubDate": "2025-10-14T16:52:43.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Servicesは、エンタープライズ向けのAIエージェントサービス「Amazon Quick Suite」の提供開始を発表しました（日本語公式ブログ）。 社内外のデータソースと接続可能 Amazon Quick Suiteは、Amazon RedshiftやAmazon S3などのAWS上のデータソースに加えて、Google Drive、OneDrive、SharePoint"
+  },
+  {
     "title": "Python 3.14登場、フリースレッド版正式サポート。実験的JITコンパイラも公式バイナリで利用可能に",
     "link": "https://www.publickey1.jp/blog/25/python_314jit.html",
     "pubDate": "2025-10-14T13:37:23.000Z",
@@ -7,74 +91,25 @@
     "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
   },
   {
-    "title": "cy.prompt() Changes UI Testing Forever. How it works under the hood",
-    "link": "https://dev.to/daniil-qa/cyprompt-changes-ui-testing-forever-how-it-works-under-the-hood-5f2l",
-    "pubDate": "Tue, 14 Oct 2025 12:50:38 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The Pain We’ve All Felt\n\n\nIf you’ve ever tested a Shadow DOM component or a slotted element, you know the pain.\nFinding the right selector sometimes feels like archaeology - digging through browser de"
+    "title": "Nani翻訳の技術的な話",
+    "link": "https://zenn.dev/catnose99/articles/nani-translate",
+    "pubDate": "Tue, 14 Oct 2025 05:31:58 GMT",
+    "source": "Zenn",
+    "contentSnippet": "先日 Nani というAI翻訳アプリをリリースしました。macOS / Windowsアプリを使うとショートカットで解説つきの翻訳を簡単に呼び出すことができます。\nhttps://x.com/catnose99/status/1973218927158424056\nこの記事ではNaniの技術的な話をまとめておきます。「レスポンスが速い」という声も多くいただいているので、そのあたりの工夫についても触"
   },
   {
-    "title": "Building with AI without losing control: Claude, Mistral, and me",
-    "link": "https://dev.to/pascal_cescato_692b7a8a20/building-with-ai-without-losing-control-claude-mistral-and-me-3i7k",
-    "pubDate": "Tue, 14 Oct 2025 12:50:09 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nThis isn't really about WordPress or a security plugin. It's about how to effectively collaborate with AI without becoming a blind copy-paster. My lab: refactoring a plugin used on 6000+ sites"
+    "title": "【Unity】フキダシUIを作ろう、それもテキストに応じて伸びるやつな【ハンズオン, LayoutGroup, LayoutElement】",
+    "link": "https://zenn.dev/gameshitai/articles/0b35fe99012c6a",
+    "pubDate": "Mon, 13 Oct 2025 22:07:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "背景\n\nLayoutGroup あたりの解説記事書こう → なんか仕組み解説よりかフキダシ作成の手順解説記事になったけどまあいっか\nCanvas, TextMeshPro の解説はありません(追加してほしい事柄があればコメントにどうぞ)\n\n\n 完成形\n\n\nこんなフキダシを作りながら、各コンポーネントの使い方を覚えていきましょ～\n\n\n 準備, 設計\n↓使用するフキダシ スプライトはこちら↓\nhttp"
   },
   {
-    "title": "A Programmer's Guide to Logging Best Practices",
-    "link": "https://dev.to/dash0/a-programmers-guide-to-logging-best-practices-25m8",
-    "pubDate": "Tue, 14 Oct 2025 12:40:30 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "We continue to build increasingly complex, distributed systems, yet we often diagnose them with little more than glorified printf statements. While the practice of logging has been with us since the e"
-  },
-  {
-    "title": "10 Fixes to Boost Your Ranking & Performance of Static Site 🚀",
-    "link": "https://dev.to/lovestaco/10-fixes-to-boost-your-ranking-performance-of-static-site-216g",
-    "pubDate": "Tue, 14 Oct 2025 12:38:01 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Hello, I'm Maneshwar. I'm working on FreeDevTools online currently building *one place for all dev tools, cheat codes, and TLDRs* — a free, open-source hub where developers can quickly find and use to"
-  },
-  {
-    "title": "Building and Using Crypto Portfolio Tracking Apps: A Developer’s Perspective",
-    "link": "https://dev.to/tradelinkpro/building-and-using-crypto-portfolio-tracking-apps-a-developers-perspective-16k3",
-    "pubDate": "Tue, 14 Oct 2025 12:36:17 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nCrypto markets never sleep. Prices shift 24/7, liquidity pools move, and token allocations change by the minute. For traders and investors, manually tracking assets across exchanges and"
-  },
-  {
-    "title": "Google Cloud Platform (GCP) quick Introduction to unlock the cloud",
-    "link": "https://dev.to/teleglobalintermational/google-cloud-platform-gcp-quick-introduction-to-unlock-the-cloud-20d1",
-    "pubDate": "Tue, 14 Oct 2025 12:29:04 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The term \"cloud\" is everywhere. But what does it really mean, let's hear from Google Cloud Platform (GCP)? If you're a student, a developer, or a business owner looking to scale, understanding GCP isn"
-  },
-  {
-    "title": "Building a Production-Ready URL Shortener with NestJS, Supabase, and Redis: A Complete Journey",
-    "link": "https://dev.to/jeremiah_ankucoblah_e1d5/building-a-production-ready-url-shortener-with-nestjs-supabase-and-redis-a-complete-journey-2ogb",
-    "pubDate": "Tue, 14 Oct 2025 12:28:37 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR: I built a complete URL shortener using NestJS, Supabase, and Redis — packed with analytics, caching, auto-expiring links, and encrypted storage. In this post, I walk through the entire process,"
-  },
-  {
-    "title": "How I Made My Website 200% Faster Using Just One Line of Code",
-    "link": "https://dev.to/mridudixit15/how-i-made-my-website-200-faster-using-just-one-line-of-code-6ip",
-    "pubDate": "Tue, 14 Oct 2025 12:26:24 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Sounds too good to be true? Stick with me — because this “one line” made my site go from sluggish to lightning fast ⚡\nIt all started with frustration — my app felt slow. Lighthouse showed a performanc"
-  },
-  {
-    "title": "Why Model-First and where the Truth lives",
-    "link": "https://dev.to/_555c69ff310ebfa46b/why-model-first-and-where-the-truth-lives-2l9c",
-    "pubDate": "Tue, 14 Oct 2025 12:25:12 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Relational databases have one minor shortcoming. They do not render tabular data on the user’s screen. On one hand, that’s not really a problem. A database does database things and doesn’t go into UI,"
-  },
-  {
-    "title": "Copy Trading vs Independent Analysis: Building Hybrid Strategies for Crypto Trading",
-    "link": "https://dev.to/tradelinkpro/copy-trading-vs-independent-analysis-building-hybrid-strategies-for-crypto-trading-ma4",
-    "pubDate": "Tue, 14 Oct 2025 12:24:14 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Crypto trading bears a resemblance to software engineering: it involves high complexity, constant change, and a plethora of frameworks that promise to simplify your workflow. Two dominant “design patt"
+    "title": "Vibe Codingで25万ダウンロード超のOSSを開発できた。できたが… ── AIの役割 vs 人間の役割ではなく「協働」で考える",
+    "link": "https://zenn.dev/team_zenn/articles/claudecode-ai-coding-vs-human-engineer",
+    "pubDate": "Mon, 13 Oct 2025 22:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n@dyoshikawaです。\n私の2025年6月ごろからの取り組みとして、Claude CodeによるVibe CodingでRulesyncというOSSツールを公開しました。\nそこでかなり自由にClaude Codeでいろんな手法を試すことができましたので、AIコーディング全般のTipsをお伝えできればと思います。\n一方で（人間の介入が少なすぎる）Vibe Codingの弊害としてコー"
   },
   {
     "title": "テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど",
@@ -105,7 +140,7 @@
     "contentSnippet": "2D で草を表現するのに、大量のメッシュを Transparent キューで描画する方法を調べました。\n\n\n 前提条件\n\nURP 17 カスタム\n\n2D Renderer と Lights 2D を使用\nすでにいろいろ改造しており、いざとなれば追加の改造も可能である前提\n\n\n描画対象\n\nPer Instance なデータのある描画\n\n個別の草が風でなびいたり、Rigidbody とのインタラクショ"
   },
   {
-    "title": "知ってるかい？Codexでストレスなくスマホでタスク完結できる世界線を。",
+    "title": "知ってるかい？Codexならスマホでタスク完結できる世界線を。",
     "link": "https://zenn.dev/manabu/articles/80f22eb54883b0",
     "pubDate": "Mon, 13 Oct 2025 12:06:21 GMT",
     "source": "Zenn",
@@ -119,18 +154,18 @@
     "contentSnippet": "はじめに\nJavaScript の this、混乱したことありませんか？\n「呼び出し方で変わる」「イベントで指すものが違う」──誰もが一度はハマるポイントです。\nでも、Arrow Function（アロー関数）を使うと this\nの挙動が一気にわかりやすくなります。\nこの記事では、「なぜ Arrow Function では this\nが変わらないのか？」を\nES5 の関数型の書き方で解説します。\n"
   },
   {
+    "title": "TUIでリッチテキストの表示と編集を同時に扱う",
+    "link": "https://zenn.dev/desktopgame/articles/73f1ff1c950b2e",
+    "pubDate": "Mon, 13 Oct 2025 10:52:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n最近開発しているTUIのエディターがあるのですが、\nこれはマークダウン（の方言）をリッチテキストとしてレンダリングし、同時に編集も可能になるような設計をしています。\n\nどういうことかというと、添付動画のような感じです。\n\nこんな感じで、プレビューモードと編集モードを分けていません。\nシャープを入力してスペースを挿入すると即座に見出しになり、シャープは見えなくなります。\nアスタリスクで囲め"
+  },
+  {
     "title": "なぜ気軽にテーブルにカラムを足してはいけないのか",
     "link": "https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random",
     "pubDate": "Mon, 13 Oct 2025 10:00:01 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nデータベース（RDB）の設計で深く考えずにテーブルにカラムを追加してしまうことはありませんか？テーブルの追加よりもアプリケーション側での変更が少ないので、心理的ハードルが低いこともあるでしょう。しかし、そうしてカラム追加していくうちに取り返しのつかないことになるかもしれません。\nこの記事では大きく以下の3つに分けて、なぜ気軽にテーブルにカラムを足してはいけないのかを説明します。\n\nそもそ"
-  },
-  {
-    "title": "Snowflake 自律化サービスがもたらすデータエンジニアの新時代",
-    "link": "https://zenn.dev/dataheroes/articles/d6da9fb50e0b1e",
-    "pubDate": "Mon, 13 Oct 2025 09:54:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n私は、CCCMKホールディングス株式会社でエンジアリング全般の責任者をしていますTaroと申します。\n当社は、日本最大級の共通ポイントサービス「Vポイント」を運営しており、Snowflakeを中心としたデータ活用基盤を構築運用しています。\n最近、テクノロジーロードマップを見直しており、今年に入ってからのSnowflakeのいくつかの機能リリースを元にデータ基盤の未来についての考察を兼ねて"
   },
   {
     "title": "【個人開発】個人製作されたゲームのランキングWebサイトを作成しました",
@@ -140,25 +175,11 @@
     "contentSnippet": "はじめに\n今回、IndieゲームのランキングWebサイトを作成しました。\nこのサイトは、世界中の個人開発されたゲームを紹介・共有できる場所を作りたいという思いで作成しました。\n最新のゲームとランキングを切り替えて表示ができ、ログインした際には掲示板機能も利用することが可能..."
   },
   {
-    "title": "3Dゲームを最小コードで動かすまでのメモ（Unity）",
-    "link": "https://zenn.dev/game_dev/articles/e2233631aaae5f",
-    "pubDate": "Mon, 13 Oct 2025 09:32:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "がっつり本を書くほどではないけど、はじめての3Dを形にするまでの「最短ルート」を自分用にメモしておきます。\n断定しません。\nこうやったらすぐ動いた、くらいの温度感。\nキーワードは「3Dゲームの作り方」。\n初心者向けに寄せますが、わたし自身も毎回忘れるので、手順と失敗点を淡々と並べます。\n\n まずはゴールを小さく：動く・拾う・終わる\n最初から広いマップや派手なエフェクトを盛ると進まないので、ゴールを"
-  },
-  {
     "title": "インターフェース型 VPC エンドポイントを集約 VPC にまとめて複数の VPC 間で共有する時の名前解決パターンを整理する",
     "link": "https://qiita.com/takeda_h/items/c2d55f91038cd4fc2806?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T08:20:47.000Z",
     "source": "Qiita",
     "contentSnippet": "先日 パブリックアクセスを無効にした RDS のエンドポイントの名前解決について記事を書いた のですが、今度は AWS サービスのインターフェース型 VPC エンドポイント（インターフェースエンドポイント）を作成して他の VPC から参照させる時の名前解決の仕組みも整理して..."
-  },
-  {
-    "title": "「作って理解する仮想化技術」 読書ログ in Zig",
-    "link": "https://zenn.dev/smallkirby/articles/3e8d3bd1730b6b",
-    "pubDate": "Mon, 13 Oct 2025 08:01:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "イントロ\n作って理解する仮想化技術 ─⁠─ハイパーバイザを実装しながら仕組みを学ぶ (著: 森真誠) という本を読み終えたので、その読書感想文。自作本の自分なりの読み方について。\n念の為書いておくと、本記事はアフィリエイトではない。自分は筆者の方とは特に面識は無い。(完全に無いわけではなく、2023年のセキュリティ・キャンプ全国大会の講師をした時に同じく講師をしていた著者の方に挨拶程度に会話をした"
   },
   {
     "title": "【2025年最新版】0からReactを勉強するならこのロードマップに従え！",
@@ -180,13 +201,6 @@
     "pubDate": "2025-10-13T06:59:33.000Z",
     "source": "Qiita",
     "contentSnippet": "正直に言うと、少し前まで僕は「ツール選びに時間をかけるより、コードを書いた方が早い」と思っていた。\nでも、今年の初めに参加したハッカソンで、チームメンバーが使っていたツールを見て考えが変わった。彼らはAPI設計からデータ可視化まで、驚くほどスムーズに進めていた。僕が手作業で..."
-  },
-  {
-    "title": "サプライチェーン攻撃対策に、safe-chainとSocket Firewall Freeを試してみた",
-    "link": "https://zenn.dev/hayashim/articles/try-safe-chain-and-socket-firewall-free",
-    "pubDate": "Mon, 13 Oct 2025 04:07:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前置き\n2025年9月14日[1]、npmで公開されているパッケージに対する攻撃があったようです。今までの同様の攻撃と比べて規模が大きく、よく利用されるパッケージも攻撃を受け、またマルウェアがワームとして広がったことから注目されている気がします。\nパッケージ利用者の観点からは、「信頼しているパッケージが攻撃されて、新しいバージョンにマルウェアが混入した」という、一般的なサプライチェーン攻撃の流れで"
   },
   {
     "title": "AWSインフラ設計のベストプラクティスを目指して",
@@ -264,19 +278,5 @@
     "pubDate": "2025-10-06T15:29:56.000Z",
     "source": "Publickey",
     "contentSnippet": "Anthropicがオープンソースとして仕様を作成しているMCP（Model Context Protocol）は、今年（2025年）11月にアップデートを予定しています（MCPはこれまでにも、2025年3月、6月とアップデートが行われています）。 現在どのようなアップデートが検討されているのかが、MCP公式サイトのブログ記事「Update on the Next MCP Protocol Rel"
-  },
-  {
-    "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
-    "link": "https://www.publickey1.jp/blog/25/mcpa2aaimicrosoft_agent_framewok.html",
-    "pubDate": "2025-10-05T15:06:36.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは、MCP（Model Context Protocol）やA2A（Agent to Agent）プロトコルなどの業界標準に対応したAIエージェントや、複数のAIエージェントのオーケストレーションの開発を容易にする「Microsoft Agent Framewok」をプレビュー公開しました。 Agent Frameworkは2つのフレームワークを1つに統合 マイクロソフトはこれまで、"
-  },
-  {
-    "title": "ガートナー「先進テクノロジーのハイプサイクル 2025年版」発表。人に代わるマシン・カスタマー、プログラマブル・マネーなど注目",
-    "link": "https://www.publickey1.jp/blog/25/_2025.html",
-    "pubDate": "2025-10-05T15:03:11.000Z",
-    "source": "Publickey",
-    "contentSnippet": "米調査会社のガートナーは、「先進テクノロジーのハイプサイクル 2025年版」を9月に発表しています（ガートナージャパンの発表）。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説明したものです。5つのステージは、「黎明期」から始まり、「『過度な期待』のピーク期」「幻滅期」「啓発期」「生産性の安定期」まで。この途中で消えていく技術もあります。 今回発表されたハイプサイク"
   }
 ]

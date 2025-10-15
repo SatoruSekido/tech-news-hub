@@ -1,73 +1,87 @@
 [
   {
-    "title": "Cybersecurity in Banking: Career Scope for Graduates",
-    "link": "https://dev.to/srmsb_cd0f78a319dc2480bc2/cybersecurity-in-banking-career-scope-for-graduates-bkb",
-    "pubDate": "Wed, 15 Oct 2025 06:21:32 +0000",
+    "title": "Pacote de dados",
+    "link": "https://dev.to/doccaio/pacote-de-dados-52de",
+    "pubDate": "Wed, 15 Oct 2025 12:39:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Cybersecurity in banking is critical in today’s digital-first era, where online transactions and digital wallets expose banks to cyber threats like hacking, fraud, and phishing. For graduates, this cr"
+    "contentSnippet": "Assim como eu muitos usam esses pacotes de dados mas muitas vezes não sabemos as diferenças e vantagens de cada um, neste artigo espero esclarecer as diferenças.\nComparando npm, Yarn e pnpm: Diferença"
   },
   {
-    "title": "🔐 10 Core Concepts Every Developer Should Know About Data Security",
-    "link": "https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d",
-    "pubDate": "Wed, 15 Oct 2025 06:17:41 +0000",
+    "title": "Ai Divergence quiz",
+    "link": "https://dev.to/rodger_cuddington_4047f7c/ai-divergence-quiz-3d63",
+    "pubDate": "Wed, 15 Oct 2025 12:28:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Encryption\n\n\nDecryption\n\n\nHashing\n\n\nGUID (Globally Unique Identifier)\n\n\nClear Text / Cipher Text\n\n\nCodex\n\n\nKeygen (Key Generator)\n\n\nDigital Signature\n\n\nSSL/TLS\n\n\nEnd-to-End Encryption (E2EE)\n\n\n\nExampl"
+    "contentSnippet": "Test Your Knowledge: The AI Divergence Quiz 🌍🤖\n\n\nHave you noticed how AI development is taking radically different paths across the globe? While we’re all building with AI, the rules, values, and ap"
   },
   {
-    "title": "Building an AI-Powered CV Screening System with Explainable Scoring",
-    "link": "https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o",
-    "pubDate": "Wed, 15 Oct 2025 06:14:19 +0000",
+    "title": "Full Guide on Snowflake Salesforce Integration",
+    "link": "https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb",
+    "pubDate": "Wed, 15 Oct 2025 12:21:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Website Demo : https://hireco.intelix.fun/\nhttps://github.com/nesnyx/Hireco-AI\nCurrently i joined Hackthon and i build this app.\nBuilding an AI Scoring System for Smarter and More Transparent CV Scree"
+    "contentSnippet": "When Insights Stay Locked Away\n\n\nWhen companies grow, data grows too. Every department collects information in different tools, and it can be hard to see the full picture. Sales, marketing, product, a"
   },
   {
-    "title": "Ensemble Learning in Machine Learning: Why Multiple Models Outperform One",
-    "link": "https://dev.to/bharathprasad/ensemble-learning-in-machine-learning-why-multiple-models-outperform-one-59dp",
-    "pubDate": "Wed, 15 Oct 2025 06:13:45 +0000",
+    "title": "Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions",
+    "link": "https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g",
+    "pubDate": "Wed, 15 Oct 2025 12:20:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When building a machine learning model, accuracy is always the main goal. But a single model often struggles to perform well across all kinds of data. This is where Ensemble Learning in Machine Learni"
+    "contentSnippet": "In the fast-paced world of web development, efficiency is key. As a developer working on a Process management system (PMS) for a industrial application, I needed a reliable way to deploy updates seaml"
+  },
+  {
+    "title": "10 Tricks to Write Super Clean Code in TypeScript",
+    "link": "https://dev.to/marcellin/10-tricks-to-write-super-clean-code-in-typescript-10k9",
+    "pubDate": "Wed, 15 Oct 2025 12:16:02 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Embed Writing clean and maintainable code is essential for any developer, regardless of their level of expertise. Clean code improves readability, enhances collaboration, and makes debugging easier. I"
+  },
+  {
+    "title": "From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live",
+    "link": "https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-fj7",
+    "pubDate": "Wed, 15 Oct 2025 12:14:42 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "In my previous post about HandyFEM user flow I used Figma and ChatGPT to create a user flow for may app. This time I asked claude.ai, and I've got a much more complete version. \nSo I asked claude.ai f"
+  },
+  {
+    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
+    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4954",
+    "pubDate": "Wed, 15 Oct 2025 12:12:04 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Beautiful new music making environment! (GRM Atelier) TL;DR\n\n\nAndrew Huang got an exclusive early look at GRM Tools Atelier—a fresh, modular sound playground with wild global controls, a mind-bending "
+  },
+  {
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-kdj",
+    "pubDate": "Wed, 15 Oct 2025 12:11:54 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Paris-based rapper Nono La Grinta brings unflinching precision and grit to his performance of “LOVE YOU,” previewing his forthcoming debut project on A COLORS SHOW. Each line lands with raw energy, ma"
   },
   {
     "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3n1e",
-    "pubDate": "Wed, 15 Oct 2025 06:13:32 +0000",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-40o",
+    "pubDate": "Wed, 15 Oct 2025 12:11:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indys Blu brings raw emotion to A COLORS SHOW with her single “Saddest Song,” weaving poetic reflections on heartbreak over a stripped-back, spotlight-on-voice setup.\nCOLORS, the minimalist music plat"
-  },
-  {
-    "title": "KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-5fon",
-    "pubDate": "Wed, 15 Oct 2025 06:13:21 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Ezra Furman and band deliver a captivating live take on “Power Of The Moon” at KEXP’s Seattle studio, recorded August 13, 2025. Backed by Liz Furman (vocals, guitar), Ben Joseph (keys, guitar), Sam Du"
+    "contentSnippet": "Indys Blu brings raw emotion to A COLORS SHOW with her single “Saddest Song,” delivering a haunting performance that blends poetic lyrics with soulful vocals. The New Orleans up-and-comer uses the pla"
   },
   {
     "title": "KEXP: Ezra Furman - Jump Out (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3bfe",
-    "pubDate": "Wed, 15 Oct 2025 06:13:13 +0000",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-4g5m",
+    "pubDate": "Wed, 15 Oct 2025 12:11:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ezra Furman lights up the KEXP studio with a raw, rousing take on “Jump Out,” recorded live on August 13, 2025. Backed by her tight-knit crew—Liz Furman on vocals and guitar, Ben Joseph on keys and gu"
+    "contentSnippet": "Ezra Furman tears into a live take of “Jump Out” at KEXP, recorded on August 13, 2025. Backed by Liz Furman on vocals and guitar, Ben Joseph on keys and guitar, Sam Durkes on drums, Jorgen Jorgensen o"
   },
   {
-    "title": "KEXP: Ezra Furman - Veil Song (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-535k",
-    "pubDate": "Wed, 15 Oct 2025 06:13:01 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Ezra Furman took over the KEXP studio on August 13, 2025, for a raw, live rendition of “Veil Song,” backed by Liz Furman (vocals/guitar), Ben Joseph (keys/guitar), Sam Durkes (drums), Jorgen Jorgensen"
+    "title": "# いまから始めるクラウド環境構築のためのTerraform",
+    "link": "https://qiita.com/Natsuhi-aruku/items/ab32e4bd91c02f0e8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-15T00:40:45.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n業務でクラウド環境を構築する必要があり、Infrastructure as Code (IaC) ツールのTerraformについて調査しました。N番煎じかもしれませんが、初めてTerraformを使う方でも理解できるよう、AWS・GCPでの基本的な環境構築方法..."
   },
   {
-    "title": "KEXP: Indigo De Souza - Always (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-indigo-de-souza-always-live-on-kexp-9d1",
-    "pubDate": "Wed, 15 Oct 2025 06:12:44 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Indigo De Souza – “Always” (Live on KEXP)\n\n\nIndigo De Souza delivers an intimate take on “Always” straight from KEXP’s studio (recorded August 31, 2025), backed by Landon George on bass, Maddie Shuler"
-  },
-  {
-    "title": "KEXP: Indigo De Souza - Heartthrob (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-indigo-de-souza-heartthrob-live-on-kexp-32gm",
-    "pubDate": "Wed, 15 Oct 2025 06:12:33 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Indigo De Souza – “Heartthrob” Live on KEXP\n\n\nIndie-rock newcomer Indigo De Souza paid a visit to the KEXP studios on August 31, 2025, delivering an intimate take on her track “Heartthrob.” She’s join"
+    "title": "Oracle AI Database 26ai がリリースされたので作成してみてみた",
+    "link": "https://qiita.com/shirok/items/09159bbf11eea7b26734?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-14T23:59:43.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Oracle AI Database 26ai がリリースされました。\nOracle AI Database 26aiは現在、Oracle Exadata Cloud@Customer、OCI Exadata Database Service、およびOCI Base Da..."
   },
   {
     "title": "ごめん、カーソル移動を効率的にするヘルシェイク矢野.vimのこと考えてた",
@@ -105,11 +119,25 @@
     "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
   },
   {
-    "title": "大阪万博 API 解説",
+    "title": "大阪万博内部 API 解説",
     "link": "https://zenn.dev/nakasyou/articles/osakaexpo-api",
     "pubDate": "Tue, 14 Oct 2025 09:38:31 GMT",
     "source": "Zenn",
     "contentSnippet": "大阪万博が昨日閉幕したので、大阪万博の予約サイトの API について自分が調べたことを公開しようと思います。\n数日前にタイムスリップした気持ちでお読みください。\nまた、脆弱だと思ったポイントもあるので、閉幕したのでそれも解説しちゃいます。\n\n 想定読者\n\n万博のアプリの裏側をちょっと覗いてみたい人\n大阪万博の脆弱っぽい部分をちょっと知りたい人\n閉幕してしまったけれど自分がどこに行ったかを思い出した"
+  },
+  {
+    "title": "Raycastのブラウザ拡張機能の紹介",
+    "link": "https://qiita.com/se_eiji/items/949014418e064548563f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-14T09:20:34.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは。せーじと申します。普段はWebやバックエンド、時々アプリの開発をしております。私は業務や私生活で日常的にRaycastやVimを使っています。VimやRaycastの情報を収集するためにXを利用しています。\nそこで先日、こんなポストが回ってきました。\n\n英語..."
+  },
+  {
+    "title": "PostgreSQLでALTER TABLE ADD COLUMNがハングする原因と回避策",
+    "link": "https://qiita.com/take-yoda/items/8229d1b6b070ee690dd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-14T08:26:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n皆さんはデータベースのテーブルに列を追加しようとして、DDLがハングしてしまいデプロイが滞った経験はありませんか？\n私はCDパイプラインで、デプロイが長時間化していたことをきっかけに、掲題の問題と遭遇しました。\nこの記事では現象をコードで再現し、原因を解説した上..."
   },
   {
     "title": "Nani翻訳の技術的な話",
@@ -117,6 +145,13 @@
     "pubDate": "Tue, 14 Oct 2025 05:31:58 GMT",
     "source": "Zenn",
     "contentSnippet": "先日 Nani というAI翻訳アプリをリリースしました。macOS / Windowsアプリを使うとショートカットで解説つきの翻訳を簡単に呼び出すことができます。\nhttps://x.com/catnose99/status/1973218927158424056\nこの記事ではNaniの技術的な話をまとめておきます。「レスポンスが速い」という声も多くいただいているので、そのあたりの工夫についても触"
+  },
+  {
+    "title": "😱あなたのマウス、実は盗聴器かも？高性能マウスに潜む意外な脆弱性「Mic-E-Mouse」",
+    "link": "https://qiita.com/kaga-yasumitsu/items/1fa17dcb4bf448b53f65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-14T02:26:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "スパイ映画が現実に？高性能マウスの意外な脆弱性\n안녕하신게라！パナソニック コネクト株式会社クラウドソリューション部の加賀です。\n「隣の客はよく柿食う客だ」\nもしあなたが今、PCの前でこう呟いたとしたら、その声は誰に聞かれているでしょうか？\nもちろん誰にも聞かれていない…..."
   },
   {
     "title": "RAGでドキュメントの更新に強くする手法",
@@ -168,20 +203,6 @@
     "contentSnippet": "2D で草を表現するのに、大量のメッシュを Transparent キューで描画する方法を調べました。\n\n\n 前提条件\n\nURP 17 カスタム\n\n2D Renderer と Lights 2D を使用\nすでにいろいろ改造しており、いざとなれば追加の改造も可能である前提\n\n\n描画対象\n\nPer Instance なデータのある描画\n\n個別の草が風でなびいたり、Rigidbody とのインタラクショ"
   },
   {
-    "title": "【個人開発】個人製作されたゲームのランキングWebサイトを作成しました",
-    "link": "https://qiita.com/takaki-inokuchi/items/6ae54d1d4b22af5b4bed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T09:52:29.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n今回、IndieゲームのランキングWebサイトを作成しました。\nこのサイトは、世界中の個人開発されたゲームを紹介・共有できる場所を作りたいという思いで作成しました。\n最新のゲームとランキングを切り替えて表示ができ、ログインした際には掲示板機能も利用することが可能..."
-  },
-  {
-    "title": "インターフェース型 VPC エンドポイントを集約 VPC にまとめて複数の VPC 間で共有する時の名前解決パターンを整理する",
-    "link": "https://qiita.com/takeda_h/items/c2d55f91038cd4fc2806?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T08:20:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "先日 パブリックアクセスを無効にした RDS のエンドポイントの名前解決について記事を書いた のですが、今度は AWS サービスのインターフェース型 VPC エンドポイント（インターフェースエンドポイント）を作成して他の VPC から参照させる時の名前解決の仕組みも整理して..."
-  },
-  {
     "title": "【2025年最新版】0からReactを勉強するならこのロードマップに従え！",
     "link": "https://qiita.com/Sicut_study/items/6adaeb14abfe022e689c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T08:00:11.000Z",
@@ -189,11 +210,11 @@
     "contentSnippet": "はじめに\nこんにちは@Sicut_study (Watanabe Jin)です。\n2023年から始まった 「0からReactを勉強するならこのロードマップに従え」 ですが、早いもので3年目を迎えました。この期間で私も多くのプログラミング未経験の人にJISOUを通してRe..."
   },
   {
-    "title": "【PHP】PHP公式のMCP SDKが出たよ",
-    "link": "https://qiita.com/rana_kualu/items/abd2bfed0aec43ae33fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T05:18:11.000Z",
+    "title": "私の思う「社内SE」",
+    "link": "https://qiita.com/kobayashi1423/items/76941f06b9d88383c7d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T06:41:14.000Z",
     "source": "Qiita",
-    "contentSnippet": "猫も杓子もMCPな最近ですが、もちろんPHPにも存在します。\nもちろん野良実装もたくさん存在するわけですが、先日なんとPHP公式でSDKが提供されました。\nということで以下はPHP Foundationに掲載された紹介記事、Announcing the Official P..."
+    "contentSnippet": "はじめに\nはじめまして。\nSIerで5年ほど働いたあと、体を壊したことをきっかけに事業会社へ転職しました。\nそこから気づけば10年以上、いくつかの会社で社内SEとして働いています。\n今後も転職することはあるかもしれませんが、やっぱり自分は社内SEタイプだなと思っています。..."
   },
   {
     "title": "【第1回】量子計算機時代のクラウドセキュリティ概要 - なぜ今、対策が必要なのか",
@@ -201,13 +222,6 @@
     "pubDate": "2025-10-13T03:12:25.000Z",
     "source": "Qiita",
     "contentSnippet": "GMOコネクトでCTOしている暗号おじさんこと菅野です。\n暗号の2030年問題や暗号移行について日々情報を追っているのですが、先日、元セコム松本さんがPQC移行関連の論文が公開しているよ！と共有してくれていたので、内容を確認したのでその結果を整理するという趣旨です。\nめっち..."
-  },
-  {
-    "title": "AWSインフラ設計のベストプラクティスを目指して",
-    "link": "https://qiita.com/so-engineer/items/3538ca8739f85c6d4e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-12T21:00:34.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nAWSにアプリをデプロイして以下の構成でインフラを設計・構築しました。\n\nデプロイ対象のアプリ\nインフラ設計・構築がメインなので詳細は割愛します。\n\ndb-migrator\nデータベースマイグレーションを管理・実行するためのアプリ\n\nslack-metrics..."
   },
   {
     "title": "【git】プッシュ前に\"ちょ待てよ\"発動させたい。",
@@ -222,20 +236,6 @@
     "pubDate": "2025-10-12T15:45:53.000Z",
     "source": "Qiita",
     "contentSnippet": "概要\n大学生の時に私用のMini PCを購入しましたが、その後Macを購入したこともあり、使う機会が激減しました。\n最近、そのままではもったいないと思い、勉強用にサーバ化することにしました。\n今回はその手順とGitHub Actionsを利用したCI/CDを導入したことに..."
-  },
-  {
-    "title": "【Dify】ナレッジパイプライン機能を使ってみる",
-    "link": "https://qiita.com/yushibats/items/df73be0a28ea84b1dde5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-12T09:15:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "今回は Dify v1.9.0 で新たに追加された「ナレッジパイプライン（Knowledge Pipeline）」機能を実際に触ってみたので、概要と使い方をまとめます。\n\nナレッジパイプラインとは？\nDify のナレッジパイプラインは、RAG（Retrieval-Augme..."
-  },
-  {
-    "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？",
-    "link": "https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-12T02:18:50.000Z",
-    "source": "Qiita",
-    "contentSnippet": "「AIがコードを書く時代、スクラムは本当に最適解なのか？」\nこの問いに、あなたは即答できますか？\n\n開発現場で起きている静かな革命\nAIによるコーディングが当たり前になりつつある今、ソフトウェア開発の進め方そのものを見直すタイミングが来ています。\n多くのチームがスクラ..."
   },
   {
     "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",

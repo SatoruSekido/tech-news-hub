@@ -1,80 +1,87 @@
 [
   {
-    "title": "Encrypting my HTTP server with OpenSSL in C 🔒",
-    "link": "https://dev.to/ethan_ac5ca38abc559d950c9/encrypting-my-http-server-with-openssl-in-c-34bj",
-    "pubDate": "Wed, 15 Oct 2025 01:41:49 +0000",
+    "title": "Cybersecurity in Banking: Career Scope for Graduates",
+    "link": "https://dev.to/srmsb_cd0f78a319dc2480bc2/cybersecurity-in-banking-career-scope-for-graduates-bkb",
+    "pubDate": "Wed, 15 Oct 2025 06:21:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Implementing TLS in My C HTTP Server\n\n\n\n  \n  \n  Quick Summary\n\n\nAfter building my HTTP server in C, I was eager to start securing the site's traffic. I had heard a lot about SSL/TLS from studying for "
+    "contentSnippet": "Cybersecurity in banking is critical in today’s digital-first era, where online transactions and digital wallets expose banks to cyber threats like hacking, fraud, and phishing. For graduates, this cr"
   },
   {
-    "title": "Diving Down the Developer Rabbit Hole 🐇💻",
-    "link": "https://dev.to/crypticcube/diving-down-the-developer-rabbit-hole-3hik",
-    "pubDate": "Wed, 15 Oct 2025 01:37:30 +0000",
+    "title": "🔐 10 Core Concepts Every Developer Should Know About Data Security",
+    "link": "https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d",
+    "pubDate": "Wed, 15 Oct 2025 06:17:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Learning programming is like a never-ending rabbit hole. You start with one language or framework, only to find that to really solve the problem, you need to pick up a side skill… which itself opens a"
+    "contentSnippet": "Encryption\n\n\nDecryption\n\n\nHashing\n\n\nGUID (Globally Unique Identifier)\n\n\nClear Text / Cipher Text\n\n\nCodex\n\n\nKeygen (Key Generator)\n\n\nDigital Signature\n\n\nSSL/TLS\n\n\nEnd-to-End Encryption (E2EE)\n\n\n\nExampl"
   },
   {
-    "title": "Der nächste große Schritt in Krypto wird nicht vom Preis abhängen — sondern von der Nutzererfahrung (UX)",
-    "link": "https://dev.to/piwa_lin_8b3155c3dd85f0f9/cryptos-next-leap-wont-be-about-price-itll-be-about-ux-2kk7",
-    "pubDate": "Wed, 15 Oct 2025 01:37:10 +0000",
+    "title": "Building an AI-Powered CV Screening System with Explainable Scoring",
+    "link": "https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o",
+    "pubDate": "Wed, 15 Oct 2025 06:14:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Seit Jahren dreht sich in der Krypto-Szene alles um Kursdiagramme, neue Allzeithochs und endlose Hype-Zyklen. Doch Entwickler wissen: Die eigentliche Herausforderung liegt nicht in der Spekulation — s"
+    "contentSnippet": "Website Demo : https://hireco.intelix.fun/\nhttps://github.com/nesnyx/Hireco-AI\nCurrently i joined Hackthon and i build this app.\nBuilding an AI Scoring System for Smarter and More Transparent CV Scree"
   },
   {
-    "title": "I Scanned 50 Web Agency Websites & Most Failed Basic Security",
-    "link": "https://dev.to/richard_angapin/i-scanned-50-web-agency-websites-most-failed-basic-security-pjb",
-    "pubDate": "Wed, 15 Oct 2025 01:32:41 +0000",
+    "title": "Ensemble Learning in Machine Learning: Why Multiple Models Outperform One",
+    "link": "https://dev.to/bharathprasad/ensemble-learning-in-machine-learning-why-multiple-models-outperform-one-59dp",
+    "pubDate": "Wed, 15 Oct 2025 06:13:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Web agencies sell expertise in performance, UX, and SEO, but how many actually implement basic security headers? I decided to find out. I randomly picked 50 agency websites from LinkedIn and audited e"
+    "contentSnippet": "When building a machine learning model, accuracy is always the main goal. But a single model often struggles to perform well across all kinds of data. This is where Ensemble Learning in Machine Learni"
   },
   {
-    "title": "ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It",
-    "link": "https://dev.to/lucasbrdt268/isr-vs-ssg-when-your-app-wants-to-sleep-but-seo-wont-let-it-2ke4",
-    "pubDate": "Wed, 15 Oct 2025 01:20:59 +0000",
+    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3n1e",
+    "pubDate": "Wed, 15 Oct 2025 06:13:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🧠 Frontend Wars: ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It\n\n\nWelcome back, brave developer!\nSSR vs CSR, a war between servers and browsers that left many laptops overheating and "
+    "contentSnippet": "Indys Blu brings raw emotion to A COLORS SHOW with her single “Saddest Song,” weaving poetic reflections on heartbreak over a stripped-back, spotlight-on-voice setup.\nCOLORS, the minimalist music plat"
   },
   {
-    "title": "Role of AI in Elementary Education: A Focus on Personalized Learning and Enhanced Engagement",
-    "link": "https://dev.to/nikhilkapoor0919/role-of-ai-in-elementary-education-a-focus-on-personalized-learning-and-enhanced-engagement-b1i",
-    "pubDate": "Wed, 15 Oct 2025 01:20:18 +0000",
+    "title": "KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-5fon",
+    "pubDate": "Wed, 15 Oct 2025 06:13:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nFor the child’s development, elementary education is the foundation. As it helps shape the academic journey, social skills, emotional intelligence and critical thinking. For several dec"
+    "contentSnippet": "Ezra Furman and band deliver a captivating live take on “Power Of The Moon” at KEXP’s Seattle studio, recorded August 13, 2025. Backed by Liz Furman (vocals, guitar), Ben Joseph (keys, guitar), Sam Du"
   },
   {
-    "title": "Swipe-to-Delete with ArkUI on HarmonyOS Next: Intuitive UX for Wearable Devices",
-    "link": "https://dev.to/harmonyos/swipe-to-delete-with-arkui-on-harmonyos-next-intuitive-ux-for-wearable-devices-2eg8",
-    "pubDate": "Wed, 15 Oct 2025 01:16:19 +0000",
+    "title": "KEXP: Ezra Furman - Jump Out (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3bfe",
+    "pubDate": "Wed, 15 Oct 2025 06:13:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Read the original article：Swipe-to-Delete with ArkUI on HarmonyOS Next: Intuitive UX for Wearable Devices\n\nIntroduction\nDeveloping for wearable technology on HarmonyOS Next is an exhilarating journey,"
+    "contentSnippet": "Ezra Furman lights up the KEXP studio with a raw, rousing take on “Jump Out,” recorded live on August 13, 2025. Backed by her tight-knit crew—Liz Furman on vocals and guitar, Ben Joseph on keys and gu"
   },
   {
-    "title": "🤓 Bringing back the old pen-and-paper logic game Bulls & Cows!\r\nNo AI, no frameworks — just pure HTML, CSS & vanilla JS.\r\nCan you guess the secret number? 💭\r\n👉 https://bulls.yosola.co/\r\n #javascript #webdev #gamedev #nostalgia",
-    "link": "https://dev.to/yosolita1978/bringing-back-the-old-pen-and-paper-logic-game-bulls-cows-no-ai-no-frameworks-just-pure-1464",
-    "pubDate": "Wed, 15 Oct 2025 01:15:45 +0000",
+    "title": "KEXP: Ezra Furman - Veil Song (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-535k",
+    "pubDate": "Wed, 15 Oct 2025 06:13:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Bulls & Cows — Bringing a Pen-and-Paper Classic to the Browser (No AI, No Frameworks, Just JS)\nCristina Rodriguez ・ Oct 15\n#javascript\n        #webdev\n        #gamedev\n        #programming\n      \n    "
+    "contentSnippet": "Ezra Furman took over the KEXP studio on August 13, 2025, for a raw, live rendition of “Veil Song,” backed by Liz Furman (vocals/guitar), Ben Joseph (keys/guitar), Sam Durkes (drums), Jorgen Jorgensen"
   },
   {
-    "title": "Bulls & Cows — Bringing a Pen-and-Paper Classic to the Browser (No AI, No Frameworks, Just JS)",
-    "link": "https://dev.to/yosolita1978/bulls-cows-bringing-a-pen-and-paper-classic-to-the-browser-no-ai-no-frameworks-just-js-iop",
-    "pubDate": "Wed, 15 Oct 2025 01:14:21 +0000",
+    "title": "KEXP: Indigo De Souza - Always (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-indigo-de-souza-always-live-on-kexp-9d1",
+    "pubDate": "Wed, 15 Oct 2025 06:12:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Lately, I’ve been feeling nostalgic 🤓.\nWhen I was a kid, I used to play a pen-and-paper logic game called Picas y Fijas (also known as Bulls and Cows). So, I decided to build my own digital version —"
+    "contentSnippet": "Indigo De Souza – “Always” (Live on KEXP)\n\n\nIndigo De Souza delivers an intimate take on “Always” straight from KEXP’s studio (recorded August 31, 2025), backed by Landon George on bass, Maddie Shuler"
   },
   {
-    "title": "Exploring Brazilian E-commerce with Spark on Databricks Free Edition",
-    "link": "https://dev.to/jackson_freitas_42cbeaf74/exploring-brazilian-e-commerce-with-spark-on-databricks-free-edition-4lb6",
-    "pubDate": "Wed, 15 Oct 2025 01:07:08 +0000",
+    "title": "KEXP: Indigo De Souza - Heartthrob (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-indigo-de-souza-heartthrob-live-on-kexp-32gm",
+    "pubDate": "Wed, 15 Oct 2025 06:12:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The goal of this project is to explore the Olist dataset about Brazilian e-commerce using Apache Spark.\nSource: Brazilian E-commerce (Kaggle)\nEngine: Spark\nEnvironment: Databricks Notebook\n💡 Note: Fo"
+    "contentSnippet": "Indigo De Souza – “Heartthrob” Live on KEXP\n\n\nIndie-rock newcomer Indigo De Souza paid a visit to the KEXP studios on August 31, 2025, delivering an intimate take on her track “Heartthrob.” She’s join"
   },
   {
-    "title": "オラクル、「Oracle Database 26ai」発表。AIベクトルサーチをデータベースのコア機能に統合、MCPサーバをサポートなど。Oracle AI World 2025",
+    "title": "ごめん、カーソル移動を効率的にするヘルシェイク矢野.vimのこと考えてた",
+    "link": "https://zenn.dev/takets/articles/vim-plugin-hellshake-yano",
+    "pubDate": "Tue, 14 Oct 2025 22:11:19 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は、Vim駅伝2025年10月15日の記事です。\n前回の記事は、482FさんのLua Neovim で斜体を無効化する です。\nVimでのカーソル移動は、hjklやw/b/eといったモーションキーを使うのが基本です。\nが。画面に表示されているN行目のM文字目に移動したいとき、何度もキーを繰り返し押す必要があります。当たり前の話です。しかし面倒であることには違いありません。\n本来、位置Aに移"
+  },
+  {
+    "title": "オラクル、「Oracle AI Database 26ai」発表。AIベクトルサーチをデータベースのコア機能に統合、MCPサーバをサポートなど。Oracle AI World 2025",
     "link": "https://www.publickey1.jp/blog/25/oracle_database_26aiaimcporacle_ai_world_2025.html",
     "pubDate": "2025-10-14T17:51:17.000Z",
     "source": "Publickey",
-    "contentSnippet": "オラクルは今日（日本時間2025年10月15日未明）に開幕した同社のイベント「Oracle AI World 2025」で、同社の中核製品であるOracle Databaseの最新版となる「Oracle Database 26ai」を発表しました（プレスリリース、ブログ）。 Unleash developer productivity and deliver secure, powerful AI"
+    "contentSnippet": "オラクルは今日（日本時間2025年10月15日未明）に開幕した同社のイベント「Oracle AI World 2025」で、同社の中核製品であるOracle Databaseの最新版となる「Oracle AI Database 26ai」を発表しました（プレスリリース、ブログ）。 By architecting AI and data together, our AI Database makes"
   },
   {
     "title": "AWS、企業向けAIエージェント「Amazon Quick Suite」提供開始。Google DriveやSharePoint、Amazon Redshiftなど企業内外のデータソースに接続、分析や自動処理など可能に",
@@ -82,6 +89,13 @@
     "pubDate": "2025-10-14T16:52:43.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Servicesは、エンタープライズ向けのAIエージェントサービス「Amazon Quick Suite」の提供開始を発表しました（日本語公式ブログ）。 社内外のデータソースと接続可能 Amazon Quick Suiteは、Amazon RedshiftやAmazon S3などのAWS上のデータソースに加えて、Google Drive、OneDrive、SharePoint"
+  },
+  {
+    "title": "ハッカソンはいいぞ！ー Revenuecat主催のハッカソンに参加してみて",
+    "link": "https://zenn.dev/kontaco/articles/0415ba73e8099c",
+    "pubDate": "Tue, 14 Oct 2025 14:05:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TLDR\n先日RevenueCat主催のDevpostで開催されたハッカソンに参加して、子供向けアプリをリリースしました。\n結論結果はふるいませんでした。。。残念。\nとはいえ、今回、個人開発者はハッカソンで外的に期限を設定すると良いなと感じました。\n元々作ろうと思っていたプロダクトだったので開発は少ししていたのですが、今回リリースまでこぎつけられたのはこのハッカソンがあったからです。\n個人開発は孤"
   },
   {
     "title": "Python 3.14登場、フリースレッド版正式サポート。実験的JITコンパイラも公式バイナリで利用可能に",
@@ -152,20 +166,6 @@
     "pubDate": "Mon, 13 Oct 2025 14:24:18 GMT",
     "source": "Zenn",
     "contentSnippet": "2D で草を表現するのに、大量のメッシュを Transparent キューで描画する方法を調べました。\n\n\n 前提条件\n\nURP 17 カスタム\n\n2D Renderer と Lights 2D を使用\nすでにいろいろ改造しており、いざとなれば追加の改造も可能である前提\n\n\n描画対象\n\nPer Instance なデータのある描画\n\n個別の草が風でなびいたり、Rigidbody とのインタラクショ"
-  },
-  {
-    "title": "知ってるかい？Codexならスマホでタスク完結できる世界線を。",
-    "link": "https://zenn.dev/manabu/articles/80f22eb54883b0",
-    "pubDate": "Mon, 13 Oct 2025 12:06:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "※ ファンタジーではありません。\nもちろん丸投げでは完結できませんし、指示を無視した事もしてきます。\nそこはAI駆動開発に片足突っ込んだ人なら分かる通り、一定許容する必要がありますよね。\nしかし、以前この記事を書いた後で意見がまたガラッと変わるのですが、突如Codexに推し変することにしました。\nhttps://zenn.dev/fastdoctor/articles/f2f6b90f95c039"
-  },
-  {
-    "title": "なぜ気軽にテーブルにカラムを足してはいけないのか",
-    "link": "https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random",
-    "pubDate": "Mon, 13 Oct 2025 10:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nデータベース（RDB）の設計で深く考えずにテーブルにカラムを追加してしまうことはありませんか？テーブルの追加よりもアプリケーション側での変更が少ないので、心理的ハードルが低いこともあるでしょう。しかし、そうしてカラム追加していくうちに取り返しのつかないことになるかもしれません。\nこの記事では大きく以下の3つに分けて、なぜ気軽にテーブルにカラムを足してはいけないのかを説明します。\n\nそもそ"
   },
   {
     "title": "【個人開発】個人製作されたゲームのランキングWebサイトを作成しました",

@@ -1,73 +1,80 @@
 [
   {
-    "title": "Pacote de dados",
-    "link": "https://dev.to/doccaio/pacote-de-dados-52de",
-    "pubDate": "Wed, 15 Oct 2025 12:39:01 +0000",
+    "title": "PHARMACEUTICAL SALES PERFORMANCE ANALYSIS.",
+    "link": "https://dev.to/faybeth_robina/pharmaceutical-sales-performance-analysis-2k31",
+    "pubDate": "Wed, 15 Oct 2025 18:20:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Assim como eu muitos usam esses pacotes de dados mas muitas vezes não sabemos as diferenças e vantagens de cada um, neste artigo espero esclarecer as diferenças.\nComparando npm, Yarn e pnpm: Diferença"
+    "contentSnippet": "This report examines prescription (Rx) activity captured in the RCPA reporting form, benchmarking actual Rx against assigned brand targets, evaluating doctor conversion, and mapping competitive activi"
   },
   {
-    "title": "Ai Divergence quiz",
-    "link": "https://dev.to/rodger_cuddington_4047f7c/ai-divergence-quiz-3d63",
-    "pubDate": "Wed, 15 Oct 2025 12:28:09 +0000",
+    "title": "Simplify Your Laravel Code with Route Model Binding!",
+    "link": "https://dev.to/yone3/simplify-your-laravel-code-with-route-model-binding-347o",
+    "pubDate": "Wed, 15 Oct 2025 18:13:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Test Your Knowledge: The AI Divergence Quiz 🌍🤖\n\n\nHave you noticed how AI development is taking radically different paths across the globe? While we’re all building with AI, the rules, values, and ap"
-  },
-  {
-    "title": "Full Guide on Snowflake Salesforce Integration",
-    "link": "https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb",
-    "pubDate": "Wed, 15 Oct 2025 12:21:44 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "When Insights Stay Locked Away\n\n\nWhen companies grow, data grows too. Every department collects information in different tools, and it can be hard to see the full picture. Sales, marketing, product, a"
-  },
-  {
-    "title": "Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions",
-    "link": "https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g",
-    "pubDate": "Wed, 15 Oct 2025 12:20:44 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "In the fast-paced world of web development, efficiency is key. As a developer working on a Process management system (PMS) for a industrial application, I needed a reliable way to deploy updates seaml"
-  },
-  {
-    "title": "10 Tricks to Write Super Clean Code in TypeScript",
-    "link": "https://dev.to/marcellin/10-tricks-to-write-super-clean-code-in-typescript-10k9",
-    "pubDate": "Wed, 15 Oct 2025 12:16:02 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Embed Writing clean and maintainable code is essential for any developer, regardless of their level of expertise. Clean code improves readability, enhances collaboration, and makes debugging easier. I"
-  },
-  {
-    "title": "From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live",
-    "link": "https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-fj7",
-    "pubDate": "Wed, 15 Oct 2025 12:14:42 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "In my previous post about HandyFEM user flow I used Figma and ChatGPT to create a user flow for may app. This time I asked claude.ai, and I've got a much more complete version. \nSo I asked claude.ai f"
-  },
-  {
-    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4954",
-    "pubDate": "Wed, 15 Oct 2025 12:12:04 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Beautiful new music making environment! (GRM Atelier) TL;DR\n\n\nAndrew Huang got an exclusive early look at GRM Tools Atelier—a fresh, modular sound playground with wild global controls, a mind-bending "
+    "contentSnippet": "Hey everyone! Are you using Laravel?\nI'm currently working mainly with TypeScript, but I also touch Laravel from time to time.\nChecking if data exists after receiving a request is a pretty common scen"
   },
   {
     "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-kdj",
-    "pubDate": "Wed, 15 Oct 2025 12:11:54 +0000",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4pij",
+    "pubDate": "Wed, 15 Oct 2025 18:11:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Paris-based rapper Nono La Grinta brings unflinching precision and grit to his performance of “LOVE YOU,” previewing his forthcoming debut project on A COLORS SHOW. Each line lands with raw energy, ma"
+    "contentSnippet": "Nono La Grinta turns the A COLORS SHOW stage into his own playground, dropping each bar of “LOVE YOU” with precision and raw energy. This Paris-based MC’s uncompromising vibe gives a sneak peek at the"
   },
   {
     "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-40o",
-    "pubDate": "Wed, 15 Oct 2025 12:11:39 +0000",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-86c",
+    "pubDate": "Wed, 15 Oct 2025 18:11:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indys Blu brings raw emotion to A COLORS SHOW with her single “Saddest Song,” delivering a haunting performance that blends poetic lyrics with soulful vocals. The New Orleans up-and-comer uses the pla"
+    "contentSnippet": "Indys Blu, a New Orleans vocalist, delivers a hauntingly beautiful take on heartbreak with her single “Saddest Song” on A COLORS SHOW. Her performance is raw and poetic, weaving aching vocals with int"
   },
   {
-    "title": "KEXP: Ezra Furman - Jump Out (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-4g5m",
-    "pubDate": "Wed, 15 Oct 2025 12:11:31 +0000",
+    "title": "KEXP: Ezra Furman - Veil Song (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4g07",
+    "pubDate": "Wed, 15 Oct 2025 18:11:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ezra Furman tears into a live take of “Jump Out” at KEXP, recorded on August 13, 2025. Backed by Liz Furman on vocals and guitar, Ben Joseph on keys and guitar, Sam Durkes on drums, Jorgen Jorgensen o"
+    "contentSnippet": "Ezra Furman – “Veil Song” Live on KEXP\n\n\nEzra Furman and her band rocked the KEXP studio on August 13, 2025, delivering a raw, intimate take on “Veil Song.” The lineup featured Liz Furman on vocals an"
+  },
+  {
+    "title": "What is Alchemy!?",
+    "link": "https://dev.to/alchemy_run/what-is-alchemy-1693",
+    "pubDate": "Wed, 15 Oct 2025 18:11:26 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Alchemy is an embeddable Infrastructure-as-Code (IaC) library written in pure TypeScript that runs anywhere that JavaScript runs, including the browser, serverless functions or even durable workflows."
+  },
+  {
+    "title": "KEXP: Ezra Furman - Submission (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-55oh",
+    "pubDate": "Wed, 15 Oct 2025 18:11:17 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Ezra Furman – “Submission” (Live on KEXP)\nEzra and the crew crash into KEXP’s studio with a fiery rendition of “Submission,” recorded August 13, 2025. The set is packed with Liz Furman on vocals and g"
+  },
+  {
+    "title": "KEXP: Indigo De Souza - Not My Body (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-578l",
+    "pubDate": "Wed, 15 Oct 2025 18:11:05 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Indigo De Souza – “Not My Body” Live on KEXP\n\n\nIndigo De Souza and her band—Landon George (bass), Maddie Shuler (guitar, keys, vocals) and Lila Richardson (drums)—took over KEXP’s studio on August 31,"
+  },
+  {
+    "title": "KEXP: Circles Around the Sun & Mikaela Davis - After Sunrise (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-414",
+    "pubDate": "Wed, 15 Oct 2025 18:10:53 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Circles Around the Sun & Mikaela Davis – After Sunrise (Live on KEXP)\n\n\nCircles Around the Sun teamed up with harpist-vocalist Mikaela Davis for a live take on “After Sunrise” at KEXP’s Seattle studio"
+  },
+  {
+    "title": "KEXP: Circles Around the Sun & Mikaela Davis - Moonbow (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-moonbow-live-on-kexp-4k4h",
+    "pubDate": "Wed, 15 Oct 2025 18:10:43 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Circles Around the Sun hook up with harpist/vocalist Mikaela Davis for a breezy live take on “Moonbow,” recorded in KEXP’s studio on August 21, 2025. Backed by Dan Horne (bass), Mark Levyz (drums), Ad"
+  },
+  {
+    "title": "JavaScriptランタイム「Bun 1.3」登場、CPUの無駄なアイドルを100分の1に、npmからのシームレスマイグレーションなど新機能",
+    "link": "https://www.publickey1.jp/blog/25/javascriptbun_13cpu1001npm.html",
+    "pubDate": "2025-10-15T15:21:00.000Z",
+    "source": "Publickey",
+    "contentSnippet": "オープンソースで開発されているJavaScriptランタイム「Bun」の最新版となる「Bun 1.3」正式版がリリースされました。 Bunの作者であるJarred Sumner氏 BunはJavaScriptとTypeScriptのランタイム機能を備えるだけでなく、トランスパイラ、バンドラ、タスクランナー、npm互換のパッケージマネージャなど、JavaScript/TypeScriptのツールチェ"
   },
   {
     "title": "# いまから始めるクラウド環境構築のためのTerraform",
@@ -89,6 +96,13 @@
     "pubDate": "Tue, 14 Oct 2025 22:11:19 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は、Vim駅伝2025年10月15日の記事です。\n前回の記事は、482FさんのLua Neovim で斜体を無効化する です。\nVimでのカーソル移動は、hjklやw/b/eといったモーションキーを使うのが基本です。\nが。画面に表示されているN行目のM文字目に移動したいとき、何度もキーを繰り返し押す必要があります。当たり前の話です。しかし面倒であることには違いありません。\n本来、位置Aに移"
+  },
+  {
+    "title": "作って意地でも理解する フォントがレンダリングされるまで",
+    "link": "https://zenn.dev/yayo1/articles/4fb4dd2a6c4654",
+    "pubDate": "Tue, 14 Oct 2025 20:10:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "いきなりですが、2つ質問です。今まさにあなたが読んでいる文字がどうやってレンダリングされているか説明できますか？私はできませんでした。それではあるモノの仕組みを理解するために最も効率の良い方法は何でしょうか？そう、自作することです！それではフォントのパーサーとレンダラーをゼロから作っていきましょう！\n\n 目的\n小さなTrueTypeレンダラーを自作し、フォントがレンダリングされるまで流れを理解する"
   },
   {
     "title": "オラクル、「Oracle AI Database 26ai」発表。AIベクトルサーチをデータベースのコア機能に統合、MCPサーバをサポートなど。Oracle AI World 2025",
@@ -196,13 +210,6 @@
     "contentSnippet": "Next.jsのApp Routerは、“設計力が試されるフレームワーク”です。\nServer Components、Server Actions、そして“use client”による明確な境界。\nそれらは間違いなく強力な仕組みであり、\n使いこなせば、アプリケーションの構造を根本から変えるほどのポテンシャルを持っています。\nただ、どう設計すれば破綻しないのかについては、\n誰も明確な指針を示してくれ"
   },
   {
-    "title": "Unity: 2D で大量の草を生やす",
-    "link": "https://zenn.dev/ruccho/articles/258b59603547d0",
-    "pubDate": "Mon, 13 Oct 2025 14:24:18 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2D で草を表現するのに、大量のメッシュを Transparent キューで描画する方法を調べました。\n\n\n 前提条件\n\nURP 17 カスタム\n\n2D Renderer と Lights 2D を使用\nすでにいろいろ改造しており、いざとなれば追加の改造も可能である前提\n\n\n描画対象\n\nPer Instance なデータのある描画\n\n個別の草が風でなびいたり、Rigidbody とのインタラクショ"
-  },
-  {
     "title": "【2025年最新版】0からReactを勉強するならこのロードマップに従え！",
     "link": "https://qiita.com/Sicut_study/items/6adaeb14abfe022e689c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T08:00:11.000Z",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-07T15:07:44.000Z",
     "source": "Publickey",
     "contentSnippet": "生成AIによるプログラミングの支援はすでに多くの開発現場で使われ始めています。ではクラウドやネットワークの運用の現場において、生成AIはどのくらい実用的に使えるのでしょうか？ クラウドの運用などにたずさわるシステム運用管理者に光を当てるイベント「Cloud Operator Days Tokyo 2025」（CODT2025）のクロージングイベントが9月5日に都内で開催され、基調講演に東京大学 情"
-  },
-  {
-    "title": "次期MCP（Model Context Protocol）では非同期操作、ステートレス、公式のプロトコル拡張などサポート",
-    "link": "https://www.publickey1.jp/blog/25/mcpmodel_context_protocol.html",
-    "pubDate": "2025-10-06T15:29:56.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Anthropicがオープンソースとして仕様を作成しているMCP（Model Context Protocol）は、今年（2025年）11月にアップデートを予定しています（MCPはこれまでにも、2025年3月、6月とアップデートが行われています）。 現在どのようなアップデートが検討されているのかが、MCP公式サイトのブログ記事「Update on the Next MCP Protocol Rel"
   }
 ]

@@ -1,73 +1,73 @@
 [
   {
-    "title": "Day 3: Mastering the Dictionary, Counting Character Frequency",
-    "link": "https://dev.to/shahrouzlogs/day-3-mastering-the-dictionary-counting-character-frequency-43f",
-    "pubDate": "Tue, 14 Oct 2025 18:33:25 +0000",
+    "title": "Encrypting my HTTP server with OpenSSL in C 🔒",
+    "link": "https://dev.to/ethan_ac5ca38abc559d950c9/encrypting-my-http-server-with-openssl-in-c-34bj",
+    "pubDate": "Wed, 15 Oct 2025 01:41:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We’re moving on to Challenge #3 in the #80DaysOfChallenges journey! Today's goal was foundational: counting the frequency of every character in a string. This challenge is perfect for solidifying one "
+    "contentSnippet": "Implementing TLS in My C HTTP Server\n\n\n\n  \n  \n  Quick Summary\n\n\nAfter building my HTTP server in C, I was eager to start securing the site's traffic. I had heard a lot about SSL/TLS from studying for "
   },
   {
-    "title": "From Giants to Minis - The Emergence of Small Language Models",
-    "link": "https://dev.to/rijultp/from-giants-to-minis-the-emergence-of-small-language-models-1mg4",
-    "pubDate": "Tue, 14 Oct 2025 18:32:01 +0000",
+    "title": "Diving Down the Developer Rabbit Hole 🐇💻",
+    "link": "https://dev.to/crypticcube/diving-down-the-developer-rabbit-hole-3hik",
+    "pubDate": "Wed, 15 Oct 2025 01:37:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For the last two years the spotlight has been on giant models like GPT 4 and Gemini. These models are impressive but they are also heavy. They need powerful hardware just to answer a question. That is"
+    "contentSnippet": "Learning programming is like a never-ending rabbit hole. You start with one language or framework, only to find that to really solve the problem, you need to pick up a side skill… which itself opens a"
   },
   {
-    "title": "Record, Class και Struct στη C# — Αναλυτική Επεξήγηση με Παραδείγματα",
-    "link": "https://dev.to/__b63657/record-class-kai-struct-ste-c-analutike-epexegese-me-paradeigmata-1il5",
-    "pubDate": "Tue, 14 Oct 2025 18:29:23 +0000",
+    "title": "Der nächste große Schritt in Krypto wird nicht vom Preis abhängen — sondern von der Nutzererfahrung (UX)",
+    "link": "https://dev.to/piwa_lin_8b3155c3dd85f0f9/cryptos-next-leap-wont-be-about-price-itll-be-about-ux-2kk7",
+    "pubDate": "Wed, 15 Oct 2025 01:37:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🔹 Εισαγωγή\nΣτη C#, υπάρχουν τρεις βασικοί τρόποι για να ορίσεις τύπους δεδομένων (data types) που περιέχουν πεδία και μεθόδους:\nclass\nstruct\nrecord (προστέθηκε στη C# 9)\nΑν και μοιάζουν συντακτικά, έ"
+    "contentSnippet": "Seit Jahren dreht sich in der Krypto-Szene alles um Kursdiagramme, neue Allzeithochs und endlose Hype-Zyklen. Doch Entwickler wissen: Die eigentliche Herausforderung liegt nicht in der Spekulation — s"
   },
   {
-    "title": "GitHub Actions: Why You Should Pin Your Actions to a Specific Version",
-    "link": "https://dev.to/ciberconscientes/github-actions-why-you-should-pin-your-actions-to-a-specific-version-1513",
-    "pubDate": "Tue, 14 Oct 2025 18:28:20 +0000",
+    "title": "I Scanned 50 Web Agency Websites & Most Failed Basic Security",
+    "link": "https://dev.to/richard_angapin/i-scanned-50-web-agency-websites-most-failed-basic-security-pjb",
+    "pubDate": "Wed, 15 Oct 2025 01:32:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub is, without a doubt, the most popular version control platform on the planet. Millions of developers, companies, and institutions use it daily to collaborate and store their code.\nBut GitHub is"
+    "contentSnippet": "Web agencies sell expertise in performance, UX, and SEO, but how many actually implement basic security headers? I decided to find out. I randomly picked 50 agency websites from LinkedIn and audited e"
   },
   {
-    "title": "While Loop",
-    "link": "https://dev.to/arun_kumar_98/while-loop-igk",
-    "pubDate": "Tue, 14 Oct 2025 18:24:20 +0000",
+    "title": "ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It",
+    "link": "https://dev.to/lucasbrdt268/isr-vs-ssg-when-your-app-wants-to-sleep-but-seo-wont-let-it-2ke4",
+    "pubDate": "Wed, 15 Oct 2025 01:20:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is While Loop?\n\n\nThe while loop is a fundamental control flow structure (or loop statement) in programming, enabling the execution of a block of code repeatedly as long as a specified condition r"
+    "contentSnippet": "🧠 Frontend Wars: ISR vs SSG — When Your App Wants to Sleep but SEO Won’t Let It\n\n\nWelcome back, brave developer!\nSSR vs CSR, a war between servers and browsers that left many laptops overheating and "
   },
   {
-    "title": "Customer Churn Analysis: A Data-Driven Approach to Predicting Retention",
-    "link": "https://dev.to/techkene/customer-churn-analysis-a-data-driven-approach-to-predicting-retention-321b",
-    "pubDate": "Tue, 14 Oct 2025 18:23:24 +0000",
+    "title": "Role of AI in Elementary Education: A Focus on Personalized Learning and Enhanced Engagement",
+    "link": "https://dev.to/nikhilkapoor0919/role-of-ai-in-elementary-education-a-focus-on-personalized-learning-and-enhanced-engagement-b1i",
+    "pubDate": "Wed, 15 Oct 2025 01:20:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s competitive market, understanding why customers leave a platform is crucial for improving retention strategies. In this project, I performed a churn analysis to identify key drivers of cust"
+    "contentSnippet": "Introduction\n\n\nFor the child’s development, elementary education is the foundation. As it helps shape the academic journey, social skills, emotional intelligence and critical thinking. For several dec"
   },
   {
-    "title": "Building a Production-Ready Data Lake: PostgreSQL to S3 with AWS DMS, Glue, and Athena using CDK",
-    "link": "https://dev.to/andreparis/building-a-production-ready-data-lake-postgresql-to-s3-with-aws-dms-glue-and-athena-using-cdk-366n",
-    "pubDate": "Tue, 14 Oct 2025 18:20:17 +0000",
+    "title": "Swipe-to-Delete with ArkUI on HarmonyOS Next: Intuitive UX for Wearable Devices",
+    "link": "https://dev.to/harmonyos/swipe-to-delete-with-arkui-on-harmonyos-next-intuitive-ux-for-wearable-devices-2eg8",
+    "pubDate": "Wed, 15 Oct 2025 01:16:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nWhen building modern data platforms, one of the most common challenges is replicating relational database data into a data lake for analytics. AWS Database Migration Service (DMS) provi"
+    "contentSnippet": "Read the original article：Swipe-to-Delete with ArkUI on HarmonyOS Next: Intuitive UX for Wearable Devices\n\nIntroduction\nDeveloping for wearable technology on HarmonyOS Next is an exhilarating journey,"
   },
   {
-    "title": "How do you think about screen time and technology?",
-    "link": "https://dev.to/jess/how-do-you-think-about-screen-time-and-technology-595p",
-    "pubDate": "Tue, 14 Oct 2025 18:18:28 +0000",
+    "title": "🤓 Bringing back the old pen-and-paper logic game Bulls & Cows!\r\nNo AI, no frameworks — just pure HTML, CSS & vanilla JS.\r\nCan you guess the secret number? 💭\r\n👉 https://bulls.yosola.co/\r\n #javascript #webdev #gamedev #nostalgia",
+    "link": "https://dev.to/yosolita1978/bringing-back-the-old-pen-and-paper-logic-game-bulls-cows-no-ai-no-frameworks-just-pure-1464",
+    "pubDate": "Wed, 15 Oct 2025 01:15:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I know this is ever-evolving but I'm curious how different households manage screen time and technology.\nUp until recently, my 2yo hasn't been interested in TV so the rule for my 4yo was that she coul"
+    "contentSnippet": "Bulls & Cows — Bringing a Pen-and-Paper Classic to the Browser (No AI, No Frameworks, Just JS)\nCristina Rodriguez ・ Oct 15\n#javascript\n        #webdev\n        #gamedev\n        #programming\n      \n    "
   },
   {
-    "title": "From Hash Functions to Vector Databases: The Data Structures Powering AI",
-    "link": "https://dev.to/ocansey11/from-hash-functions-to-vector-databases-the-data-structures-powering-ai-551o",
-    "pubDate": "Tue, 14 Oct 2025 18:18:03 +0000",
+    "title": "Bulls & Cows — Bringing a Pen-and-Paper Classic to the Browser (No AI, No Frameworks, Just JS)",
+    "link": "https://dev.to/yosolita1978/bulls-cows-bringing-a-pen-and-paper-classic-to-the-browser-no-ai-no-frameworks-just-js-iop",
+    "pubDate": "Wed, 15 Oct 2025 01:14:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction: The Reluctant Start\n\n\nHey everyone \nI wanted to share a bit about my Data Structures & Algorithms journey.\nWe have a small study group where we discuss and solve DSA questions together. "
+    "contentSnippet": "Lately, I’ve been feeling nostalgic 🤓.\nWhen I was a kid, I used to play a pen-and-paper logic game called Picas y Fijas (also known as Bulls and Cows). So, I decided to build my own digital version —"
   },
   {
-    "title": "Building Arenadata’s Engineering Team: Growth Story from the Inside",
-    "link": "https://dev.to/marina_feder_912194c77adb/building-arenadatas-engineering-team-growth-story-from-the-inside-40ia",
-    "pubDate": "Tue, 14 Oct 2025 18:14:06 +0000",
+    "title": "Exploring Brazilian E-commerce with Spark on Databricks Free Edition",
+    "link": "https://dev.to/jackson_freitas_42cbeaf74/exploring-brazilian-e-commerce-with-spark-on-databricks-free-edition-4lb6",
+    "pubDate": "Wed, 15 Oct 2025 01:07:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Company Background\nArenadata was founded in 2016 by engineers from Pivotal and Mirantis.\nBy 2017, the core team of five people was in place. At that time, the company focused mostly on technological d"
+    "contentSnippet": "The goal of this project is to explore the Olist dataset about Brazilian e-commerce using Apache Spark.\nSource: Brazilian E-commerce (Kaggle)\nEngine: Spark\nEnvironment: Databricks Notebook\n💡 Note: Fo"
   },
   {
     "title": "オラクル、「Oracle Database 26ai」発表。AIベクトルサーチをデータベースのコア機能に統合、MCPサーバをサポートなど。Oracle AI World 2025",
@@ -91,11 +91,25 @@
     "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
   },
   {
+    "title": "大阪万博 API 解説",
+    "link": "https://zenn.dev/nakasyou/articles/osakaexpo-api",
+    "pubDate": "Tue, 14 Oct 2025 09:38:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "大阪万博が昨日閉幕したので、大阪万博の予約サイトの API について自分が調べたことを公開しようと思います。\n数日前にタイムスリップした気持ちでお読みください。\nまた、脆弱だと思ったポイントもあるので、閉幕したのでそれも解説しちゃいます。\n\n 想定読者\n\n万博のアプリの裏側をちょっと覗いてみたい人\n大阪万博の脆弱っぽい部分をちょっと知りたい人\n閉幕してしまったけれど自分がどこに行ったかを思い出した"
+  },
+  {
     "title": "Nani翻訳の技術的な話",
     "link": "https://zenn.dev/catnose99/articles/nani-translate",
     "pubDate": "Tue, 14 Oct 2025 05:31:58 GMT",
     "source": "Zenn",
     "contentSnippet": "先日 Nani というAI翻訳アプリをリリースしました。macOS / Windowsアプリを使うとショートカットで解説つきの翻訳を簡単に呼び出すことができます。\nhttps://x.com/catnose99/status/1973218927158424056\nこの記事ではNaniの技術的な話をまとめておきます。「レスポンスが速い」という声も多くいただいているので、そのあたりの工夫についても触"
+  },
+  {
+    "title": "RAGでドキュメントの更新に強くする手法",
+    "link": "https://zenn.dev/knowledgesense/articles/8b96daf7ca2474",
+    "pubDate": "Tue, 14 Oct 2025 01:00:33 GMT",
+    "source": "Zenn",
+    "contentSnippet": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、ドキュメントの更新に強いRAGの手法「VersionRAG」を紹介します。\nhttps://arxiv.org/pdf/2510.08109\n\n\n サマリー\nRAGは便利な手法ですが、文書のバージョンの変化が苦手です。例えば、仕様書のように更新されていく文書の新旧の認識が苦手です。Google検索で出てきた情報が古い情報で、今では利"
   },
   {
     "title": "【Unity】フキダシUIを作ろう、それもテキストに応じて伸びるやつな【ハンズオン, LayoutGroup, LayoutElement】",
@@ -112,6 +126,13 @@
     "contentSnippet": "はじめに\n@dyoshikawaです。\n私の2025年6月ごろからの取り組みとして、Claude CodeによるVibe CodingでRulesyncというOSSツールを公開しました。\nそこでかなり自由にClaude Codeでいろんな手法を試すことができましたので、AIコーディング全般のTipsをお伝えできればと思います。\n一方で（人間の介入が少なすぎる）Vibe Codingの弊害としてコー"
   },
   {
+    "title": "AWS Lambda(Ruby)の起動が遅い…ボトルネックを特定するまでの道のり",
+    "link": "https://zenn.dev/fusic/articles/aws-lambda-ruby-function-performance",
+    "pubDate": "Mon, 13 Oct 2025 21:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "壮大なタイトルではありますが、先に結論を書くと、\nrequire 'aws-sdk'\nこの部分を\nrequire 'aws-sdk-sqs'\nのように、 使用するモジュール(今回で言うとSQS)に絞る ことで起動が速くなりました。\nそして、もう一つは Rubyを3.2→3.4に上げること です。これも高速化に寄与しました。\nポイントとしてはこの2点なのですが、この結論に至るまでに試したことや、他に"
+  },
+  {
     "title": "テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど",
     "link": "https://www.publickey1.jp/blog/25/playwrightai.html",
     "pubDate": "2025-10-13T15:42:38.000Z",
@@ -126,13 +147,6 @@
     "contentSnippet": "Next.jsのApp Routerは、“設計力が試されるフレームワーク”です。\nServer Components、Server Actions、そして“use client”による明確な境界。\nそれらは間違いなく強力な仕組みであり、\n使いこなせば、アプリケーションの構造を根本から変えるほどのポテンシャルを持っています。\nただ、どう設計すれば破綻しないのかについては、\n誰も明確な指針を示してくれ"
   },
   {
-    "title": "yomitokuで作る無料の日本語OCR Webアプリ【Flask + TypeScript】",
-    "link": "https://zenn.dev/lecto/articles/b345c7f3920ae9",
-    "pubDate": "Mon, 13 Oct 2025 14:45:46 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n昨今、AI が急速に普及している中で、改めて「OCR（光学文字認識）」という技術に注目してみました。\nOCR の API サービスは多数存在していますが、どれも従量課金制で、利用量が増えるとコストが膨らんでいきます。Google Cloud Vision API や Amazon Textract などは高精度ですが、個人開発や小規模なプロジェクトでは原価が気になるところです。\n「日本語"
-  },
-  {
     "title": "Unity: 2D で大量の草を生やす",
     "link": "https://zenn.dev/ruccho/articles/258b59603547d0",
     "pubDate": "Mon, 13 Oct 2025 14:24:18 GMT",
@@ -145,20 +159,6 @@
     "pubDate": "Mon, 13 Oct 2025 12:06:21 GMT",
     "source": "Zenn",
     "contentSnippet": "※ ファンタジーではありません。\nもちろん丸投げでは完結できませんし、指示を無視した事もしてきます。\nそこはAI駆動開発に片足突っ込んだ人なら分かる通り、一定許容する必要がありますよね。\nしかし、以前この記事を書いた後で意見がまたガラッと変わるのですが、突如Codexに推し変することにしました。\nhttps://zenn.dev/fastdoctor/articles/f2f6b90f95c039"
-  },
-  {
-    "title": "アロー関数で this を操る！",
-    "link": "https://zenn.dev/tcool/articles/350559e14d590a",
-    "pubDate": "Mon, 13 Oct 2025 11:18:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nJavaScript の this、混乱したことありませんか？\n「呼び出し方で変わる」「イベントで指すものが違う」──誰もが一度はハマるポイントです。\nでも、Arrow Function（アロー関数）を使うと this\nの挙動が一気にわかりやすくなります。\nこの記事では、「なぜ Arrow Function では this\nが変わらないのか？」を\nES5 の関数型の書き方で解説します。\n"
-  },
-  {
-    "title": "TUIでリッチテキストの表示と編集を同時に扱う",
-    "link": "https://zenn.dev/desktopgame/articles/73f1ff1c950b2e",
-    "pubDate": "Mon, 13 Oct 2025 10:52:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n最近開発しているTUIのエディターがあるのですが、\nこれはマークダウン（の方言）をリッチテキストとしてレンダリングし、同時に編集も可能になるような設計をしています。\n\nどういうことかというと、添付動画のような感じです。\n\nこんな感じで、プレビューモードと編集モードを分けていません。\nシャープを入力してスペースを挿入すると即座に見出しになり、シャープは見えなくなります。\nアスタリスクで囲め"
   },
   {
     "title": "なぜ気軽にテーブルにカラムを足してはいけないのか",
@@ -189,18 +189,18 @@
     "contentSnippet": "はじめに\nこんにちは@Sicut_study (Watanabe Jin)です。\n2023年から始まった 「0からReactを勉強するならこのロードマップに従え」 ですが、早いもので3年目を迎えました。この期間で私も多くのプログラミング未経験の人にJISOUを通してRe..."
   },
   {
-    "title": "React学習ログ No.11",
-    "link": "https://qiita.com/maedaHARUYA/items/61e42405a199c6a1ed3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T07:34:44.000Z",
+    "title": "【PHP】PHP公式のMCP SDKが出たよ",
+    "link": "https://qiita.com/rana_kualu/items/abd2bfed0aec43ae33fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T05:18:11.000Z",
     "source": "Qiita",
-    "contentSnippet": "React公式ドキュメント学習メモ：UI の記述\n\n1. 初めてのコンポーネント\nReact UIの基本単位\nマークアップ、CSS、JSを再利用可能な部品にまとめたもの\n\n基本のルール\n\nJavaScript関数 (function) で作成\n名前は必ず 大文字 (Pr..."
+    "contentSnippet": "猫も杓子もMCPな最近ですが、もちろんPHPにも存在します。\nもちろん野良実装もたくさん存在するわけですが、先日なんとPHP公式でSDKが提供されました。\nということで以下はPHP Foundationに掲載された紹介記事、Announcing the Official P..."
   },
   {
-    "title": "2025年に試したい10のモダン開発者向けツール（オープンソース含む）",
-    "link": "https://qiita.com/itodaisuke99/items/d5b59d629d5620856a2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T06:59:33.000Z",
+    "title": "【第1回】量子計算機時代のクラウドセキュリティ概要 - なぜ今、対策が必要なのか",
+    "link": "https://qiita.com/satokan3/items/2fc29a071d6b6014bdc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T03:12:25.000Z",
     "source": "Qiita",
-    "contentSnippet": "正直に言うと、少し前まで僕は「ツール選びに時間をかけるより、コードを書いた方が早い」と思っていた。\nでも、今年の初めに参加したハッカソンで、チームメンバーが使っていたツールを見て考えが変わった。彼らはAPI設計からデータ可視化まで、驚くほどスムーズに進めていた。僕が手作業で..."
+    "contentSnippet": "GMOコネクトでCTOしている暗号おじさんこと菅野です。\n暗号の2030年問題や暗号移行について日々情報を追っているのですが、先日、元セコム松本さんがPQC移行関連の論文が公開しているよ！と共有してくれていたので、内容を確認したのでその結果を整理するという趣旨です。\nめっち..."
   },
   {
     "title": "AWSインフラ設計のベストプラクティスを目指して",
@@ -224,18 +224,18 @@
     "contentSnippet": "概要\n大学生の時に私用のMini PCを購入しましたが、その後Macを購入したこともあり、使う機会が激減しました。\n最近、そのままではもったいないと思い、勉強用にサーバ化することにしました。\n今回はその手順とGitHub Actionsを利用したCI/CDを導入したことに..."
   },
   {
+    "title": "【Dify】ナレッジパイプライン機能を使ってみる",
+    "link": "https://qiita.com/yushibats/items/df73be0a28ea84b1dde5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-12T09:15:45.000Z",
+    "source": "Qiita",
+    "contentSnippet": "今回は Dify v1.9.0 で新たに追加された「ナレッジパイプライン（Knowledge Pipeline）」機能を実際に触ってみたので、概要と使い方をまとめます。\n\nナレッジパイプラインとは？\nDify のナレッジパイプラインは、RAG（Retrieval-Augme..."
+  },
+  {
     "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？",
     "link": "https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-12T02:18:50.000Z",
     "source": "Qiita",
     "contentSnippet": "「AIがコードを書く時代、スクラムは本当に最適解なのか？」\nこの問いに、あなたは即答できますか？\n\n開発現場で起きている静かな革命\nAIによるコーディングが当たり前になりつつある今、ソフトウェア開発の進め方そのものを見直すタイミングが来ています。\n多くのチームがスクラ..."
-  },
-  {
-    "title": "AgentCore Gatewayのターゲットタイプに「MCP server」が追加されたぞ！",
-    "link": "https://qiita.com/har1101/items/cd6b92f1967a0d262c4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T15:56:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n祝・Bedrock AgentCore東京リージョンへ登場！\n\nその影に隠れてひっそりと、AgentCore Gatewayのターゲットタイプに MCP server が追加されました！\n同じタイミングで追加されたものじゃなかったらすみません)\n\nドキュメントも..."
   },
   {
     "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",

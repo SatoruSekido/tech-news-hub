@@ -1,73 +1,80 @@
 [
   {
-    "title": "Microsoft Clarity's Consent V2: Code Snippets, Pitfalls, and the Smarter Approach",
-    "link": "https://dev.to/mehwish_malik_4f29ff7fb04/microsoft-claritys-consent-v2-code-snippets-pitfalls-and-the-smarter-approach-4ekn",
-    "pubDate": "Thu, 16 Oct 2025 12:45:39 +0000",
+    "title": "JavaFX In Action #21 with Vlad Protsenko, Combining Clojure with JavaFX for Game Development with Defold",
+    "link": "https://dev.to/fdelporte/javafx-in-action-21-with-vlad-protsenko-combining-clojure-with-javafx-for-game-development-with-341e",
+    "pubDate": "Thu, 16 Oct 2025 18:16:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Developers, let's talk about why you need to implement Consent API V2 for Microsoft Clarity before October 31st, 2025.\nIf you're running Clarity without consent signals, your analytics are technically"
+    "contentSnippet": "Vlad Protsenko is a Clojure developer working at Defold. While I initially wanted to learn about the Cljfx project, our conversation evolved into a learning experience: a practical getting-started gui"
   },
   {
-    "title": "Beyond Vibe Coding: How I Use AI as a Tech Lead to Stay in Control",
-    "link": "https://dev.to/devbyrayray/beyond-vibe-coding-how-i-use-ai-as-a-tech-lead-to-stay-in-control-3cb0",
-    "pubDate": "Thu, 16 Oct 2025 12:45:25 +0000",
+    "title": "Factory Reset Laptop: A Complete Guide to Starting Fresh",
+    "link": "https://dev.to/rapidcellphone/factory-reset-laptop-a-complete-guide-to-starting-fresh-43af",
+    "pubDate": "Thu, 16 Oct 2025 18:13:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I'm sure you're familiar with \"vibe coding\"—that creative process of building things based on a feeling, without a strict plan. It can be fun, but in a team environment, it simply doesn't work. It’s h"
+    "contentSnippet": "When your laptop becomes slow, unresponsive, or cluttered with unnecessary files, performing a factory reset can be the best way to give it a new start. It restores your device to its original setting"
   },
   {
-    "title": "The Different ways to Style Your React App",
-    "link": "https://dev.to/ddebajyati/the-different-ways-to-style-your-react-app-34kn",
-    "pubDate": "Thu, 16 Oct 2025 12:43:02 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2i6p",
+    "pubDate": "Thu, 16 Oct 2025 18:12:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As a Web Developer, if you use React, you have a wide number of options available for styling websites.\nIn this brief article, we are going to dive into the different ways you can style a React App/Si"
+    "contentSnippet": "Nono La Grinta, a Paris-based rapper, brings razor-sharp precision and raw grit to his live COLORS performance of LOVE YOU, a lead single from his upcoming debut project. He owns every bar with that s"
   },
   {
-    "title": "What’s the Best Foot Traffic Data Source for Investors?",
-    "link": "https://dev.to/james_williams_b696b30fec/whats-the-best-foot-traffic-data-source-for-investors-364i",
-    "pubDate": "Thu, 16 Oct 2025 12:39:28 +0000",
+    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4dok",
+    "pubDate": "Thu, 16 Oct 2025 18:11:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Foot traffic data isn't just numbers—it's the pulse of potential profitability. A 2024 study from the National Association of Realtors [1] shows that properties with high foot traffic see up to 20% hi"
+    "contentSnippet": "Indys Blu brings the feels\n\n\nNew Orleans songstress Indys Blu pours her heart into a stirring performance of “Saddest Song,” blending raw emotion and poetic reflection over a sparse, hypnotic backdrop"
   },
   {
-    "title": "ANOVA",
-    "link": "https://dev.to/njeri_kimaru/anova-4jlj",
-    "pubDate": "Thu, 16 Oct 2025 12:37:45 +0000",
+    "title": "KEXP: Circles Around the Sun & Mikaela Davis - After Sunrise (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-51ag",
+    "pubDate": "Thu, 16 Oct 2025 18:11:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Types of ANOVA\n\n\n\nThere are 3 main types of ANOVA, depending on the number of independent variables and interactions involved:\nWhat it compares: One independent variable (factor) with 2 or more groups"
+    "contentSnippet": "Circles Around the Sun & Mikaela Davis – After Sunrise (Live on KEXP)\n\nOn August 21, 2025, KEXP welcomed instrumental rock outfit Circles Around the Sun alongside harpist-vocalist Mikaela Davis for an"
   },
   {
-    "title": "5 Atlassian MCP Hacks to supercharge your workflow",
-    "link": "https://dev.to/manomano-tech-team/5-atlassian-mcp-hacks-to-supercharge-your-workflow-3hfj",
-    "pubDate": "Thu, 16 Oct 2025 12:35:56 +0000",
+    "title": "KEXP: Jorja Smith - Try Me (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-3eeo",
+    "pubDate": "Thu, 16 Oct 2025 18:11:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I hate to be switching over and over between the IDE, the task in Jira to review details, Confluence, or other docs to ensure I have the details, finding sometimes outdated docs, so I was curious how "
+    "contentSnippet": "Jorja Smith – Try Me (Live on KEXP)\n\n\nJorja Smith brings her smooth vocals and vibe-driven energy to the KEXP studio, delivering a captivating live take on “Try Me” with Benjamin Totten on guitar. Rec"
   },
   {
-    "title": "What Is a White Label Password Manager? The Developer’s Guide for 2025",
-    "link": "https://dev.to/world_cyclopedia_3ee2df42/what-is-a-white-label-password-manager-the-developers-guide-for-2025-plj",
-    "pubDate": "Thu, 16 Oct 2025 12:34:27 +0000",
+    "title": "KEXP: Jorja Smith - Be Honest (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-86h",
+    "pubDate": "Thu, 16 Oct 2025 18:11:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In 2025, security is no longer a feature. It’s the foundation.\nAnd if you’re building or managing any kind of digital product — whether it’s SaaS, DevOps tooling, or internal enterprise software — you"
+    "contentSnippet": "Jorja Smith brought a fresh, soulful vibe to the KEXP studio with a live performance of “Be Honest” on August 8, 2025. Backed by guitarist Benjamin Totten and guided by host Larry Mizell Jr., she pour"
   },
   {
-    "title": "Wallet-as-a-Service: The Web3 Game-Changer 🚀",
-    "link": "https://dev.to/tanelith/wallet-as-a-service-the-web3-game-changer-3p3p",
-    "pubDate": "Thu, 16 Oct 2025 12:34:16 +0000",
+    "title": "KEXP: Jorja Smith - On My Mind (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-on-my-mind-live-on-kexp-2hpd",
+    "pubDate": "Thu, 16 Oct 2025 18:11:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the fast-paced world of Web3, speed and reliability are everything. Projects can spend months building wallets, configuring nodes, and tackling security issues - only to realize that by the time th"
+    "contentSnippet": "Jorja Smith brought her silky vocals to the KEXP studio on August 8, 2025, delivering an intimate live take of “On My Mind” backed by guitarist Benjamin Totten.\nHosted by Larry Mizell Jr., this sessio"
   },
   {
-    "title": "I Built Note CLI: A Terminal Note-Taking App with Python and Rich",
-    "link": "https://dev.to/anant_chauhan_fa7820d7006/i-built-note-cli-a-terminal-note-taking-app-with-python-and-rich-57f9",
-    "pubDate": "Thu, 16 Oct 2025 12:33:08 +0000",
+    "title": "KEXP: Jorja Smith - Full Performance (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-full-performance-live-on-kexp-3ll7",
+    "pubDate": "Thu, 16 Oct 2025 18:11:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I recently published my first Snap package - a CLI note-taking tool.\nCommand history with arrow keys\nCustom word highlighting\nInteractive mode using Rich library\nMarkdown support with checkboxes\nAll n"
+    "contentSnippet": "Jorja Smith dropped into the KEXP studio on August 8, 2025, for a raw five-song live set—starting with the sultry “With You” and cruising through fan favorites like “Try Me,” “Be Honest” and “On My Mi"
   },
   {
-    "title": "React Native Fullstack Starter Pack: The Essential Toolkit",
-    "link": "https://dev.to/ruan_lucena_628b5141fc54b/react-native-fullstack-starter-pack-the-essential-toolkit-1f9c",
-    "pubDate": "Thu, 16 Oct 2025 12:31:51 +0000",
+    "title": "NPR Music: Silvana Estrada: Tiny Desk Concert",
+    "link": "https://dev.to/music_youtube/npr-music-silvana-estrada-tiny-desk-concert-2gki",
+    "pubDate": "Thu, 16 Oct 2025 18:10:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nWe don't want our system to crash when we don't have internet, do we? Hahaha\nThis guide introduces the React Native Fullstack Starter Pack.\nA curated list of dependencies that provides al"
+    "contentSnippet": "Silvana Estrada, the Veracruz-born songstress known for blending son jarocho roots with raw emotion, made her Tiny Desk debut in an intimate showcase. Stripped down to her cuatro venezolano and powerf"
+  },
+  {
+    "title": "Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業プロジェクトに",
+    "link": "https://www.publickey1.jp/blog/25/kubernetesknativecncf.html",
+    "pubDate": "2025-10-16T15:34:18.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Cloud Native Computing Foundation（CNCF）は、Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業（Graduation）プロジェクトになったことを発表しました。 Knative has officially graduated within CNCF!This milestone marks th"
   },
   {
     "title": "【検証】MacBook M4でContainerlabを動かしてみた！ARM対応NOSでネットワーク検証環境構築",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-08T15:00:57.000Z",
     "source": "Publickey",
     "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
-  },
-  {
-    "title": "生成AIはネットワーク構築運用をどれだけ楽にするか？ Interop Tokyoでの実験が明かした現実と可能性。Cloud Operator Days Tokyo 2025基調講演ほか［PR］",
-    "link": "https://www.publickey1.jp/blog/25/ai_interop_tokyocloud_operator_days_tokyo_2025pr.html",
-    "pubDate": "2025-10-07T15:07:44.000Z",
-    "source": "Publickey",
-    "contentSnippet": "生成AIによるプログラミングの支援はすでに多くの開発現場で使われ始めています。ではクラウドやネットワークの運用の現場において、生成AIはどのくらい実用的に使えるのでしょうか？ クラウドの運用などにたずさわるシステム運用管理者に光を当てるイベント「Cloud Operator Days Tokyo 2025」（CODT2025）のクロージングイベントが9月5日に都内で開催され、基調講演に東京大学 情"
   }
 ]

@@ -1,73 +1,87 @@
 [
   {
-    "title": "Hashicorp Vault: High-Level Architecture, Components, and Key Concepts",
-    "link": "https://dev.to/admantium/hashicorp-vault-high-level-architecture-components-and-key-concepts-4d8j",
-    "pubDate": "Thu, 16 Oct 2025 06:17:35 +0000",
+    "title": "Microsoft Clarity's Consent V2: Code Snippets, Pitfalls, and the Smarter Approach",
+    "link": "https://dev.to/mehwish_malik_4f29ff7fb04/microsoft-claritys-consent-v2-code-snippets-pitfalls-and-the-smarter-approach-4ekn",
+    "pubDate": "Thu, 16 Oct 2025 12:45:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Image Source: Hashicorp, Architecture, https://developer.hashicorp.com/vault/docs/internals/architecture.\nHashicorp Vault is a flexibility and robustness secrets management tool. Installable as a simp"
+    "contentSnippet": "Developers, let's talk about why you need to implement Consent API V2 for Microsoft Clarity before October 31st, 2025.\nIf you're running Clarity without consent signals, your analytics are technically"
   },
   {
-    "title": "I built Log Bull — the simple alternative to ELK, Loki and Graylog to collect logs from code (Python, Java, Go, JS, PHP, etc.)",
-    "link": "https://dev.to/rostislav_dugin/i-built-log-bull-the-simple-alternative-to-elk-loki-and-graylog-to-collect-logs-from-code-5eji",
-    "pubDate": "Thu, 16 Oct 2025 06:15:29 +0000",
+    "title": "Beyond Vibe Coding: How I Use AI as a Tech Lead to Stay in Control",
+    "link": "https://dev.to/devbyrayray/beyond-vibe-coding-how-i-use-ai-as-a-tech-lead-to-stay-in-control-3cb0",
+    "pubDate": "Thu, 16 Oct 2025 12:45:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Over the past ~5 years, I have often faced the task of collecting logs, usually from small or medium-sized codebases. Sending logs from code is not a problem: Java and Go have libraries for this pract"
+    "contentSnippet": "I'm sure you're familiar with \"vibe coding\"—that creative process of building things based on a feeling, without a strict plan. It can be fun, but in a team environment, it simply doesn't work. It’s h"
   },
   {
-    "title": "Secret Productivity Hack On VS Code",
-    "link": "https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna",
-    "pubDate": "Thu, 16 Oct 2025 06:13:23 +0000",
+    "title": "The Different ways to Style Your React App",
+    "link": "https://dev.to/ddebajyati/the-different-ways-to-style-your-react-app-34kn",
+    "pubDate": "Thu, 16 Oct 2025 12:43:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey Techies,\nI was watching some random coding react conf video(If your a react developer you should try once). Guess what I found a hack which I don't see people usally use this hack which is very co"
+    "contentSnippet": "As a Web Developer, if you use React, you have a wide number of options available for styling websites.\nIn this brief article, we are going to dive into the different ways you can style a React App/Si"
   },
   {
-    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4920",
-    "pubDate": "Thu, 16 Oct 2025 06:09:16 +0000",
+    "title": "What’s the Best Foot Traffic Data Source for Investors?",
+    "link": "https://dev.to/james_williams_b696b30fec/whats-the-best-foot-traffic-data-source-for-investors-364i",
+    "pubDate": "Thu, 16 Oct 2025 12:39:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Beautiful new music making environment! (GRM Atelier)\n\n\nAndrew Huang digs into his early-access preview of GRM Tools Atelier, showcasing its standout global randomization features, groundbreaking modu"
+    "contentSnippet": "Foot traffic data isn't just numbers—it's the pulse of potential profitability. A 2024 study from the National Association of Realtors [1] shows that properties with high foot traffic see up to 20% hi"
   },
   {
-    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4ehg",
-    "pubDate": "Thu, 16 Oct 2025 06:09:07 +0000",
+    "title": "ANOVA",
+    "link": "https://dev.to/njeri_kimaru/anova-4jlj",
+    "pubDate": "Thu, 16 Oct 2025 12:37:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indys Blu – “Saddest Song” on A COLORS SHOW\n\n\nNew Orleans songstress Indys Blu pours raw heartbreak and poetic flair into her stirring performance of “Saddest Song” for A COLORS SHOW. Her soul-bearing"
+    "contentSnippet": "Types of ANOVA\n\n\n\nThere are 3 main types of ANOVA, depending on the number of independent variables and interactions involved:\nWhat it compares: One independent variable (factor) with 2 or more groups"
   },
   {
-    "title": "KEXP: Ezra Furman - Submission (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-ezra-furman-submission-live-on-kexp-288o",
-    "pubDate": "Thu, 16 Oct 2025 06:08:57 +0000",
+    "title": "5 Atlassian MCP Hacks to supercharge your workflow",
+    "link": "https://dev.to/manomano-tech-team/5-atlassian-mcp-hacks-to-supercharge-your-workflow-3hfj",
+    "pubDate": "Thu, 16 Oct 2025 12:35:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ezra Furman – “Submission” (Live on KEXP)\n\n\nCatch Ezra Furman ripping through “Submission” live in the KEXP studio on August 13, 2025. Hosted by Cheryl Waters, this raw, high-energy session delivers a"
+    "contentSnippet": "I hate to be switching over and over between the IDE, the task in Jira to review details, Confluence, or other docs to ensure I have the details, finding sometimes outdated docs, so I was curious how "
   },
   {
-    "title": "KEXP: Indigo De Souza - Be Like The Water (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-indigo-de-souza-be-like-the-water-live-on-kexp-32bi",
-    "pubDate": "Thu, 16 Oct 2025 06:08:51 +0000",
+    "title": "What Is a White Label Password Manager? The Developer’s Guide for 2025",
+    "link": "https://dev.to/world_cyclopedia_3ee2df42/what-is-a-white-label-password-manager-the-developers-guide-for-2025-plj",
+    "pubDate": "Thu, 16 Oct 2025 12:34:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indigo De Souza – “Be Like The Water” (Live on KEXP)\n\nCatch North Carolina’s own Indigo De Souza delivering a heartfelt performance of her single “Be Like The Water” straight from the KEXP studio on A"
+    "contentSnippet": "In 2025, security is no longer a feature. It’s the foundation.\nAnd if you’re building or managing any kind of digital product — whether it’s SaaS, DevOps tooling, or internal enterprise software — you"
   },
   {
-    "title": "KEXP: Indigo De Souza - Not My Body (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-3hb0",
-    "pubDate": "Thu, 16 Oct 2025 06:08:40 +0000",
+    "title": "Wallet-as-a-Service: The Web3 Game-Changer 🚀",
+    "link": "https://dev.to/tanelith/wallet-as-a-service-the-web3-game-changer-3p3p",
+    "pubDate": "Thu, 16 Oct 2025 12:34:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indigo De Souza – “Not My Body” Live on KEXP\n\nOn August 31, 2025, indie singer-songwriter Indigo De Souza stormed into KEXP’s Seattle studio for a raw, heartfelt take on her single “Not My Body.” She’"
+    "contentSnippet": "In the fast-paced world of Web3, speed and reliability are everything. Projects can spend months building wallets, configuring nodes, and tackling security issues - only to realize that by the time th"
   },
   {
-    "title": "KEXP: Circles Around the Sun & Mikaela Davis - Full Performance (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-3m11",
-    "pubDate": "Thu, 16 Oct 2025 06:08:28 +0000",
+    "title": "I Built Note CLI: A Terminal Note-Taking App with Python and Rich",
+    "link": "https://dev.to/anant_chauhan_fa7820d7006/i-built-note-cli-a-terminal-note-taking-app-with-python-and-rich-57f9",
+    "pubDate": "Thu, 16 Oct 2025 12:33:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Circles Around the Sun teamed up with harpist Mikaela Davis for a sun-soaked live session at KEXP’s studio on August 21, 2025. They tore through three tracks—“Hot Pursuit,” “After Sunrise” and “Moonbo"
+    "contentSnippet": "I recently published my first Snap package - a CLI note-taking tool.\nCommand history with arrow keys\nCustom word highlighting\nInteractive mode using Rich library\nMarkdown support with checkboxes\nAll n"
   },
   {
-    "title": "Mason Builders PPP Loan Fraud Scheme Exposed and Its Ripple Effect on COVID Relief Accountability",
-    "link": "https://dev.to/ciarraverse/mason-builders-ppp-loan-fraud-scheme-exposed-and-its-ripple-effect-on-covid-relief-accountability-2b52",
-    "pubDate": "Thu, 16 Oct 2025 06:08:28 +0000",
+    "title": "React Native Fullstack Starter Pack: The Essential Toolkit",
+    "link": "https://dev.to/ruan_lucena_628b5141fc54b/react-native-fullstack-starter-pack-the-essential-toolkit-1f9c",
+    "pubDate": "Thu, 16 Oct 2025 12:31:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When the Paycheck Protection Program (PPP) launched in 2020, it was meant to be a lifeline for struggling small businesses during the pandemic.\n\nOver $800 billion in taxpayer-backed funds were distrib"
+    "contentSnippet": "Introduction\nWe don't want our system to crash when we don't have internet, do we? Hahaha\nThis guide introduces the React Native Fullstack Starter Pack.\nA curated list of dependencies that provides al"
+  },
+  {
+    "title": "【検証】MacBook M4でContainerlabを動かしてみた！ARM対応NOSでネットワーク検証環境構築",
+    "link": "https://qiita.com/ntaka329/items/ed5d8b0b9de27893e0a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T01:24:34.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\nネットワークトポロジを組んでルーターで遊んでみたい！と、ふと思う時が、みなさんもよくあるかと思います。\n仮想ルーターでトポロジーを組むのに便利なツールとしてContainerlabがありますが、「x86_64 Linuxを準備するのが..."
+  },
+  {
+    "title": "【Claude】夜更かししていたら Haiku 4.5 が生えていたので少し触る",
+    "link": "https://qiita.com/ryu-ki/items/361f325853be0d7de8d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-15T18:56:02.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n本日（2025/10/16）未明、Claude Haiku 4.5 が発表されました。以下ページでは、Claude Sonnet 4と同等のコーディング性能を、3分の1のコストで2倍以上の速度で実現しており、一部のタスク（Computer use）では、Clau..."
   },
   {
     "title": "JavaScriptランタイム「Bun 1.3」登場、CPUの無駄なアイドルを100分の1に、npmからのシームレスマイグレーションなど新機能",
@@ -77,11 +91,39 @@
     "contentSnippet": "オープンソースで開発されているJavaScriptランタイム「Bun」の最新版となる「Bun 1.3」正式版がリリースされました。 Bunの作者であるJarred Sumner氏 BunはJavaScriptとTypeScriptのランタイム機能を備えるだけでなく、トランスパイラ、バンドラ、タスクランナー、npm互換のパッケージマネージャなど、JavaScript/TypeScriptのツールチェ"
   },
   {
+    "title": "4年目のソフトウェアエンジニアがSWE協会のコーディング練習会に参加して感じた変化",
+    "link": "https://zenn.dev/akhmgc/articles/aa55dfd823d062",
+    "pubDate": "Wed, 15 Oct 2025 14:40:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "概要\n4年目のソフトウェアエンジニアとして、一般社団法人 ソフトウェアエンジニア協会(以下SWE協会)のコーディング練習会に参加して感じた変化を共有します。\nなお、Google を含む外資系ソフトウェアエンジニアのコーディングテストを準備なしで解ける方にとっては、本記事の内容は役に立たないかもしれません。\n\n 自己紹介と参加の背景\n私は現在、主にマーケティングオートメーションツールを提供している会"
+  },
+  {
+    "title": "Supabaseは個人開発の味方 - 煩わしいセットアップは不要・RLSによる宣言的な権限管理",
+    "link": "https://zenn.dev/kontaco/articles/1128b039d47dd0",
+    "pubDate": "Wed, 15 Oct 2025 14:09:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは近藤です\n個人開発でサービスを構築する際、「認証どうしよう」「画像のストレージどこに置こう」「セキュリティ大丈夫かな」「テスト環境の構築が面倒」と悩むことはありませんか?\n私は子供向け画像認識学習アプリ「KORENANI」を開発する中で、Supabaseを採用しました。\n\nこの記事で伝えること:\n\nなぜSupabaseを選んだのか（メリット）\nどんな制約があるのか（デメリット）\nどんなプ"
+  },
+  {
+    "title": "AIを使う人は、AIをあまり使わない人から「怠惰で能力が低く、自立心に乏しい」と評価されやすい",
+    "link": "https://zenn.dev/cloud_ace/articles/b172102d0163c2",
+    "pubDate": "Wed, 15 Oct 2025 10:09:17 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは。クラウドエース株式会社 第四開発部の相原です。\n読者の皆さんは、普段の業務でどれくらい AI を活用していますか？\nおそらく、多くの方がコードの自動生成やデバッグ、ドキュメント作成といったさまざまな場面で、AI を頼れるアシスタントとして利用していることでしょう。\n今や AI は私たちの日常に欠かせないパートナーになりつつあります。\nしかし、その一方で、「AI を使っている」という事実"
+  },
+  {
     "title": "苦節6年 個人開発から始めたB2B SaaSがやっと動き出した話",
     "link": "https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-15T09:05:10.000Z",
     "source": "Qiita",
     "contentSnippet": "こんにちは。伊勢川です。\n先日、ドリーム・アーツ主催の勉強会にて、「個人開発から始めるB2B SaaS」というLTをしました。本記事では、そのLTの内容をベースにしつつ、LTでは語りきれなかった内容も盛り込んでお伝えします。\n\n本記事の概要\n個人開発から6年でB2B Saa..."
+  },
+  {
+    "title": "AIエージェントPoCを育てる3ステップ：CursorからLangChainへ",
+    "link": "https://zenn.dev/loglass/articles/797fe3fc60399a",
+    "pubDate": "Wed, 15 Oct 2025 09:00:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の113週目の記事です！\n3年間連続達成まで残り46週となりました！\n\n\n はじめに\nAI Agentシステムを開発したいと考えたとき、「何から手をつければいいのか？」「どのツールをどの段階で使うべきか？」と悩むことはないでしょうか。\n私たちのチームでは、超初期のアイデア検証から実運用に向けた精度向上の"
   },
   {
     "title": "Oracle Autonomous AI Lakehouse 26ai がリリースされたので作成してみてみた",
@@ -161,6 +203,13 @@
     "contentSnippet": "Amazon Web Servicesは、エンタープライズ向けのAIエージェントサービス「Amazon Quick Suite」の提供開始を発表しました（日本語公式ブログ）。 社内外のデータソースと接続可能 Amazon Quick Suiteは、Amazon RedshiftやAmazon S3などのAWS上のデータソースに加えて、Google Drive、OneDrive、SharePoint"
   },
   {
+    "title": "AI SDK 実践入門 - 入門編",
+    "link": "https://zenn.dev/hayato94087/books/8ac4877fc2fc5d",
+    "pubDate": "Tue, 14 Oct 2025 13:38:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "ゼロから AI SDK を学べます。\n\n【読者】\n・AI SDK の初学者\n・React使いで AI 機能を実装したい方\n・LLM を活用したアプリケーション開発に興味がある方\n\n【特徴は】\n・AI SDK について体系的に学習できること\n・TypeScript を活用した AI アプリケーション開発\n・最新の AI SDK の利用\n・Next.js 15 の利用\n・複数の AI プロバイダーを統"
+  },
+  {
     "title": "Python 3.14登場、フリースレッド版正式サポート。実験的JITコンパイラも公式バイナリで利用可能に",
     "link": "https://www.publickey1.jp/blog/25/python_314jit.html",
     "pubDate": "2025-10-14T13:37:23.000Z",
@@ -168,46 +217,11 @@
     "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
   },
   {
-    "title": "大阪万博内部 API 解説",
-    "link": "https://zenn.dev/nakasyou/articles/osakaexpo-api",
-    "pubDate": "Tue, 14 Oct 2025 09:38:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "大阪万博が昨日閉幕したので、大阪万博の予約サイトの API について自分が調べたことを公開しようと思います。\n数日前にタイムスリップした気持ちでお読みください。\nまた、脆弱だと思ったポイントもあるので、閉幕したのでそれも解説しちゃいます。\n\n 想定読者\n\n万博のアプリの裏側をちょっと覗いてみたい人\n大阪万博の脆弱っぽい部分をちょっと知りたい人\n閉幕してしまったけれど自分がどこに行ったかを思い出した"
-  },
-  {
     "title": "Raycastのブラウザ拡張機能の紹介",
     "link": "https://qiita.com/se_eiji/items/949014418e064548563f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-14T09:20:34.000Z",
     "source": "Qiita",
     "contentSnippet": "こんにちは。せーじと申します。普段はWebやバックエンド、時々アプリの開発をしております。私は業務や私生活で日常的にRaycastやVimを使っています。VimやRaycastの情報を収集するためにXを利用しています。\nそこで先日、こんなポストが回ってきました。\n\n英語..."
-  },
-  {
-    "title": "Claude Codeチームの事例から考える、AI時代のon distributionな技術選定",
-    "link": "https://zenn.dev/r_kaga/articles/c84a6af89e3020",
-    "pubDate": "Tue, 14 Oct 2025 08:30:06 GMT",
-    "source": "Zenn",
-    "contentSnippet": "皆さんはClaude Codeが、「エンジニアが仕事中に聴いている音楽をターミナルに表示する」 という、社内ツールから始まったことをご存知でしょうか？\nプロトタイプの一つとして作られたこの音楽ツールが、ファイルシステムアクセスとbash機能を与えられて進化し、最終的にClaude Codeとなったそうです。\nこのエピソードは、Gergely Orosz氏による「How Claude Code is"
-  },
-  {
-    "title": "AIに技術記事を書かせる：9回の反復で到達した「完璧すぎる」という逆説",
-    "link": "https://zenn.dev/uhyo/articles/ai-writes-tech-articles-202510",
-    "pubDate": "Tue, 14 Oct 2025 08:03:19 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事の前半は、AIが出力した記事を完全無修正でお送りします。\nなお、AIが出力した本来の記事タイトルは「AIに人間と区別できない技術記事を書かせる：9回の反復で到達した「完璧すぎる」という逆説」ですが、さすがに釣りタイトルになってしまうので少し変えています。\n\n\n なぜこんなことを始めたのか\n結論から言うと、AIに技術記事を書かせて人間と区別できないレベルまで持っていけるか、というのを試し"
-  },
-  {
-    "title": "Nani翻訳の技術的な話",
-    "link": "https://zenn.dev/catnose99/articles/nani-translate",
-    "pubDate": "Tue, 14 Oct 2025 05:31:58 GMT",
-    "source": "Zenn",
-    "contentSnippet": "先日 Nani というAI翻訳アプリをリリースしました。macOS / Windowsアプリを使うとショートカットで解説つきの翻訳を簡単に呼び出すことができます。\nhttps://x.com/catnose99/status/1973218927158424056\nこの記事ではNaniの技術的な話をまとめておきます。「レスポンスが速い」という声も多くいただいているので、そのあたりの工夫についても触"
-  },
-  {
-    "title": "世界でもっともiOS26を再現したCSSライブラリをリリース！",
-    "link": "https://zenn.dev/rdlabo/articles/1cac6284b08db2",
-    "pubDate": "Tue, 14 Oct 2025 05:12:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AppleがiOS26を発表して以降、Liquid Effectが注目を集めていますが、実はiOS26では他にも多くのデザイン変更が行われています。デバイスネイティブな使い心地をユーザに提供するため、iOS26の体験を踏襲することは非常に重要です。\nそこで、WebでiOS26デザインをつくるためのCSSライブラリをリリースしました。最新のIonic Frameworkに対応しており、ダークモードも"
   },
   {
     "title": "😱あなたのマウス、実は盗聴器かも？高性能マウスに潜む意外な脆弱性「Mic-E-Mouse」",
@@ -229,20 +243,6 @@
     "pubDate": "2025-10-13T08:00:11.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは@Sicut_study (Watanabe Jin)です。\n2023年から始まった 「0からReactを勉強するならこのロードマップに従え」 ですが、早いもので3年目を迎えました。この期間で私も多くのプログラミング未経験の人にJISOUを通してRe..."
-  },
-  {
-    "title": "私の思う「社内SE」",
-    "link": "https://qiita.com/kobayashi1423/items/76941f06b9d88383c7d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T06:41:14.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nはじめまして。\nSIerで5年ほど働いたあと、体を壊したことをきっかけに事業会社へ転職しました。\nそこから気づけば10年以上、いくつかの会社で社内SEとして働いています。\n今後も転職することはあるかもしれませんが、やっぱり自分は社内SEタイプだなと思っています。..."
-  },
-  {
-    "title": "【第1回】量子計算機時代のクラウドセキュリティ概要 - なぜ今、対策が必要なのか",
-    "link": "https://qiita.com/satokan3/items/2fc29a071d6b6014bdc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T03:12:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "GMOコネクトでCTOしている暗号おじさんこと菅野です。\n暗号の2030年問題や暗号移行について日々情報を追っているのですが、先日、元セコム松本さんがPQC移行関連の論文が公開しているよ！と共有してくれていたので、内容を確認したのでその結果を整理するという趣旨です。\nめっち..."
   },
   {
     "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",

@@ -1,73 +1,80 @@
 [
   {
-    "title": "Angular Datepicker v1.3.6: Popovers, Smooth Transitions, and a Pluggable Holiday System! 🎁",
-    "link": "https://dev.to/toozuuu/angular-datepicker-v110-popovers-smooth-transitions-and-a-pluggable-holiday-system-4dj9",
-    "pubDate": "Fri, 17 Oct 2025 06:25:13 +0000",
+    "title": "Docker Zootopia Networking",
+    "link": "https://dev.to/manuartero/docker-zootopia-networking-4h1l",
+    "pubDate": "Fri, 17 Oct 2025 12:46:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We've just rolled out a major feature upgrade for our Angular datepicker component, ngxsmk-datepicker, focusing heavily on delivering a cleaner user experience and powerful new extensibility points.\nI"
+    "contentSnippet": "I want to talk a little bit about Docker Compose, networking, and services calling each other. This is a super regular scenario that ‘ve already talked/posted/written, but I keep these post mostly for"
   },
   {
-    "title": "Hierarchical Clustering in R: Concepts, Methods, and Real-World Insights",
-    "link": "https://dev.to/thedatageek/hierarchical-clustering-in-r-concepts-methods-and-real-world-insights-2kcc",
-    "pubDate": "Fri, 17 Oct 2025 06:20:46 +0000",
+    "title": "conform.nvim: store formatters settings in a project config",
+    "link": "https://dev.to/art_vasilyev/conformnvim-store-formatters-settings-in-a-project-config-135p",
+    "pubDate": "Fri, 17 Oct 2025 12:43:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s data-driven world, organizations are inundated with information — from customer transactions and social media activity to sensor readings and genetic sequences. To make sense of this data, "
+    "contentSnippet": "conform.nvim plugin - it helps me automatically format different file types.\nBut I had two common cases where I wanted a bit more flexibility:\nSometimes I need to use different formatters per project."
   },
   {
-    "title": "Python for Everyone: Learn, Code, and Create",
-    "link": "https://dev.to/suraj_kumar_fb57ae0928df2/python-for-everyone-learn-code-and-create-j0i",
-    "pubDate": "Fri, 17 Oct 2025 06:15:57 +0000",
+    "title": "Cloud Computing Apps: Redefining the Digital Experience",
+    "link": "https://dev.to/phoneexits/cloud-computing-apps-redefining-the-digital-experience-2cia",
+    "pubDate": "Fri, 17 Oct 2025 12:43:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Python has become one of the most popular programming languages in the world, and for good reason. Its simplicity, readability, and versatility make it perfect for beginners, while its powerful featur"
+    "contentSnippet": "In the age of technology and connectivity, cloud computing apps have become an integral part of everyday life. They allow users to store data, share files, and access applications from anywhere in the"
   },
   {
-    "title": "Affordable and Developer-Friendly PDF API Solutions",
-    "link": "https://dev.to/rameshchauhan/affordable-and-developer-friendly-pdf-api-solutions-3ihn",
-    "pubDate": "Fri, 17 Oct 2025 06:15:55 +0000",
+    "title": "Getting Started with GQLoom - Building GraphQL Server Applications with Zod + Drizzle",
+    "link": "https://dev.to/xcfox/getting-started-with-gqloom-building-graphql-server-applications-with-zod-drizzle-423o",
+    "pubDate": "Fri, 17 Oct 2025 12:43:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Developers constantly seek reliable and efficient tools to automate workflows. One such essential requirement across industries is converting documents into Portable Document Format (PDF). Whether for"
+    "contentSnippet": "Introduction\n\n\nIn the Node.js ecosystem, building GraphQL APIs typically requires writing a lot of boilerplate code manually: defining schemas, writing resolvers, handling type validation, database op"
   },
   {
-    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mc1",
-    "pubDate": "Fri, 17 Oct 2025 06:11:34 +0000",
+    "title": "When “Just Routing” Wasted 2 Days My Multi-Region Lesson",
+    "link": "https://dev.to/techwithhari/when-just-routing-wasted-2-days-my-multi-region-lesson-5gl1",
+    "pubDate": "Fri, 17 Oct 2025 12:41:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nono La Grinta, a Paris-based rapper, delivers a razor-sharp, no-holds-barred performance of “LOVE YOU” on A COLORS SHOW, teasing his upcoming debut project with unapologetic grit and precision. His s"
+    "contentSnippet": "Deploying an app to multiple regions sounds straightforward just route traffic, right? That’s what I thought… until I spent 2 whole days chasing a 404.\nHere’s what happened, and why choosing the right"
   },
   {
-    "title": "KEXP: Circles Around the Sun & Mikaela Davis - After Sunrise (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-25i",
-    "pubDate": "Fri, 17 Oct 2025 06:11:14 +0000",
+    "title": "How Developers Can Maximize Productivity in 2025?",
+    "link": "https://dev.to/anuj_tomar_8a2d1eb5069642/how-developers-can-maximize-productivity-in-2025-4a3g",
+    "pubDate": "Fri, 17 Oct 2025 12:41:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Circles Around the Sun & Mikaela Davis on KEXP\n\n\nKEXP welcomed psychedelic jam outfit Circles Around the Sun alongside harpist-vocalist Mikaela Davis for a live-in-studio session recorded on August 21"
+    "contentSnippet": "Developer productivity isn’t about working longer hours or forcing yourself through endless sprints.\nIn 2025, it’s about working smarter, using the right tools, and adopting workflows that align with "
   },
   {
-    "title": "KEXP: Jorja Smith - With You (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2gfp",
-    "pubDate": "Fri, 17 Oct 2025 06:11:06 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/hadil/-1cfe",
+    "pubDate": "Fri, 17 Oct 2025 12:39:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jorja Smith – “With You” (Live on KEXP)\n\nOn August 8, 2025, Jorja Smith hit the KEXP studio for a stripped-back live take of her track “With You,” trading vocals with Benjamin Totten’s guitar lines. H"
+    "contentSnippet": "10 Best AI Interview Copilot Tools for 2026 🤖\nHadil Ben Abdallah for Final Round AI ・ Oct 17\n#programming\n        #ai\n        #interview\n        #career"
   },
   {
-    "title": "KEXP: Jorja Smith - The Way I Love You (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-i3",
-    "pubDate": "Fri, 17 Oct 2025 06:10:56 +0000",
+    "title": "Lukas Niessen: From Architect to Founder to Reinventor - The Lukas Niessen Story and Lessons for Indian Startups",
+    "link": "https://dev.to/sundardragai/lukas-niessen-from-architect-to-founder-to-reinventor-the-lukas-niessen-story-and-lessons-for-20hc",
+    "pubDate": "Fri, 17 Oct 2025 12:38:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jorja Smith brings soulful vibes to KEXP’s studio in a live take on “The Way I Love You,” recorded August 8, 2025. She’s joined by guitarist Benjamin Totten, all under the watchful eye of host Larry M"
+    "contentSnippet": "Lukas Niessen is a seasoned software architect, startup founder, and technologist with over eight years of experience in software engineering, system design, and startup leadership. Known for his cont"
   },
   {
-    "title": "KEXP: Jorja Smith - Try Me (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-1fkm",
-    "pubDate": "Fri, 17 Oct 2025 06:10:48 +0000",
+    "title": "Recursion",
+    "link": "https://dev.to/john_otienoh/recursion-61l",
+    "pubDate": "Fri, 17 Oct 2025 12:37:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jorja Smith brought her soulful sound to KEXP’s studios on August 8, 2025, delivering a captivating live performance of “Try Me” alongside guitarist Benjamin Totten. Hosted by Larry Mizell, Jr., the s"
+    "contentSnippet": "What is Recursion?\nAny function which calls itself is called recursive. A recursive method solves a problem by calling a copy of itself to work on a smaller problem. This is called the recursion step."
   },
   {
-    "title": "KEXP: Jorja Smith - Full Performance (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-full-performance-live-on-kexp-2gjd",
-    "pubDate": "Fri, 17 Oct 2025 06:10:37 +0000",
+    "title": "AI-Powered Salary Negotiation: Use Data to Ask for More—And Get It",
+    "link": "https://dev.to/taurus_ai_e0f0d0fc1d8a2de/ai-powered-salary-negotiation-use-data-to-ask-for-more-and-get-it-25l4",
+    "pubDate": "Fri, 17 Oct 2025 12:36:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "On August 8, 2025, Jorja Smith rocked the KEXP studio with a tight five-song live set featuring “With You,” “The Way I Love You,” “Try Me,” “Be Honest” and “On My Mind.” Vocals were front and center, "
+    "contentSnippet": "As a developer, you’ve spent years honing your skills, building apps, and solving complex problems. Yet, when it comes to salary negotiations, many tech professionals feel unprepared. The good news? A"
+  },
+  {
+    "title": "【ポケモン×Java】番外編 #1：ピカチュウって200種類おんねん～クラス～（Java・Python・JavaScript・Ruby）",
+    "link": "https://qiita.com/hitomin_poke/items/a31fc9e646a1cbcbe14a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T04:12:59.000Z",
+    "source": "Qiita",
+    "contentSnippet": "🎮 ピカチュウって200種類おんねん\nピカチュウにもいろんな種類がいるように\nプログラミング言語にもいろいろな種類があるのだが、\n\nプログラミングの基本的な概念である「クラス」を、\nJava・Python・JavaScript・Rubyの4つの言語で比較してみました！\n\n..."
   },
   {
     "title": "Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業プロジェクトに",
@@ -84,11 +91,25 @@
     "contentSnippet": "みなさん、Claude Codeは利用していますか？私はほぼ毎日使っています。\nClaudeがAWS Marketplace経由で購入できる、Claude for Enterprise Premium Seats with Claude Code Now Available in AWS Marketplaceの発表があり、個人的に盛り上がっている今日この頃です。\n突然ですが、のっぴきならない事情"
   },
   {
+    "title": "Bedrockのモデルアクセス有効化が不要に！ でもClaudeは初回のみ別操作が必要😣",
+    "link": "https://qiita.com/minorun365/items/7070a0206547cc6dc650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T13:47:07.000Z",
+    "source": "Qiita",
+    "contentSnippet": "モデルアクセスの有効化が不要になった！\nAWSの生成AIサービス、Amazon Bedrockで基盤モデルを利用開始する際に必要だった「モデルアクセスの有効化」作業が不要になりました！\n\nただし、一番人気のAnthropic社のモデル（Claudeシリーズ）だけは、引..."
+  },
+  {
     "title": "【Next.js】散らかりにくいREST APIのエラーハンドリング",
     "link": "https://zenn.dev/frontendflat/articles/d5ea1c5c533c71",
     "pubDate": "Thu, 16 Oct 2025 12:30:28 GMT",
     "source": "Zenn",
     "contentSnippet": "Next.jsでAPIリクエストがエラーとなった場合のトースト表示を実装していたのですが、production buildではメッセージが隠されてしまう現象に遭遇しました。\n\n\nAn error occurred in the Server Components render. The specific message is omitted in production builds to avoi"
+  },
+  {
+    "title": "AI開発の効率を爆発的に高める方法",
+    "link": "https://qiita.com/QueryPieAI/items/8536a71c0048354cdf2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T09:48:32.000Z",
+    "source": "Qiita",
+    "contentSnippet": "4つの核心ツールとともに\nAI開発分野で生産性革命が起こっています。開発者がもはや反復的な作業とコンテキスト管理、そして一貫性のないコーディングパターンに悩む必要がなくなりました。SpecKit、TaskMaster-AI、Context7、Sequential Thin..."
   },
   {
     "title": "⚠️ 初心者がハマりがちなインフラ構築の落とし穴10選（解説編）",
@@ -110,13 +131,6 @@
     "pubDate": "Thu, 16 Oct 2025 04:05:07 GMT",
     "source": "Zenn",
     "contentSnippet": "https://github.com/remix-run/remix\nhttps://zenn.dev/coji/articles/remix3-introduction\nhttps://zenn.dev/sora_kumo/articles/remix3-samples\nRemix3について書いてみます。\n\n 1) Remix.Handle.render、Remix.Handle.update\n"
-  },
-  {
-    "title": "【検証】MacBook M4でContainerlabを動かしてみた！ARM対応NOSでネットワーク検証環境構築",
-    "link": "https://qiita.com/ntaka329/items/ed5d8b0b9de27893e0a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T01:24:34.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\nネットワークトポロジを組んでルーターで遊んでみたい！と、ふと思う時が、みなさんもよくあるかと思います。\n仮想ルーターでトポロジーを組むのに便利なツールとしてContainerlabがありますが、「x86_64 Linuxを準備するのが..."
   },
   {
     "title": "個人開発のOSSが2K Start獲得するまで、4年の軌跡　#1 勉強会レポート",
@@ -224,25 +238,11 @@
     "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
   },
   {
-    "title": "Raycastのブラウザ拡張機能の紹介",
-    "link": "https://qiita.com/se_eiji/items/949014418e064548563f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-14T09:20:34.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。せーじと申します。普段はWebやバックエンド、時々アプリの開発をしております。私は業務や私生活で日常的にRaycastやVimを使っています。VimやRaycastの情報を収集するためにXを利用しています。\nそこで先日、こんなポストが回ってきました。\n\n英語..."
-  },
-  {
     "title": "Linux初心者向けの便利なコマンド",
     "link": "https://qiita.com/kosuke_shoji/items/59078e087b8b18a4188a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-14T08:54:54.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n今回は「Linuxの基本コマンドとか、知っておく良いコマンドってあるのかな？」って人向けの知っておくと便利なLinuxコマンドをいくつかご紹介します。\n各コマンドの詳細については、「コマンド　オプション(例：ls オプション)」などで検索するとより詳しく紹介して..."
-  },
-  {
-    "title": "😱あなたのマウス、実は盗聴器かも？高性能マウスに潜む意外な脆弱性「Mic-E-Mouse」",
-    "link": "https://qiita.com/kaga-yasumitsu/items/1fa17dcb4bf448b53f65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-14T02:26:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "スパイ映画が現実に？高性能マウスの意外な脆弱性\n안녕하신게라！パナソニック コネクト株式会社クラウドソリューション部の加賀です。\n「隣の客はよく柿食う客だ」\nもしあなたが今、PCの前でこう呟いたとしたら、その声は誰に聞かれているでしょうか？\nもちろん誰にも聞かれていない…..."
   },
   {
     "title": "テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど",

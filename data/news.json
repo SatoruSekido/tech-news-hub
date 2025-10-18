@@ -1,73 +1,73 @@
 [
   {
-    "title": "QubesOS A Hypervisor as a Desktop",
-    "link": "https://dev.to/sebos/qubesos-a-hypervisor-as-a-desktop-4972",
-    "pubDate": "Sat, 18 Oct 2025 01:30:03 +0000",
+    "title": "🔥 Introducing PACT: A Better Way to Design APIs That Think Like Users",
+    "link": "https://dev.to/vikyw89/introducing-pact-a-better-way-to-design-apis-that-think-like-users-259b",
+    "pubDate": "Sat, 18 Oct 2025 06:24:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nRunning a desktop environment inside a hypervisor isn't new. Tech enthusiasts and home lab users have been doing it for years with tools like VMware Workstation and VirtualBox. These ru"
+    "contentSnippet": "APIs don’t just connect systems.\nIt’s time for a shift.\n🤝 What Is PACT?\nPACT is an actor-first, action-oriented API design philosophy that structures your API around who’s making the call and what th"
   },
   {
-    "title": "CodeHUB",
-    "link": "https://dev.to/alexandre_braatzjunior_9/codehub-2el8",
-    "pubDate": "Sat, 18 Oct 2025 01:19:36 +0000",
+    "title": "I’m SO Looking Forward to Not Needing a Build System Again",
+    "link": "https://dev.to/raheelshan/im-so-looking-forward-to-not-needing-a-build-system-again-a57",
+    "pubDate": "Sat, 18 Oct 2025 06:17:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Apresentando o CodeHUB — o editor de código completo, direto do navegador!\nCrie, edite e visualize seus projetos sem precisar instalar nada. Suporte a upload de imagens, vídeos, PDFs e arquivos de "
+    "contentSnippet": "Have you been working on the frontend with Javascript? Have you ever noticed what used to be simple <script> has become a full build system? Frontend development has involved more tools than needed ju"
   },
   {
-    "title": "From Developer to AI Operator",
-    "link": "https://dev.to/jaideepparashar/from-developer-to-ai-operator-48c5",
-    "pubDate": "Sat, 18 Oct 2025 01:16:54 +0000",
+    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
+    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-1b8b",
+    "pubDate": "Sat, 18 Oct 2025 06:13:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The tech industry is entering a new class of engineering roles, and most developers aren’t preparing for it.\nFor decades, being a developer meant writing code manually, debugging manually, and deployi"
+    "contentSnippet": "Beautiful New Music Making Environment: GRM Atelier\n\n\nAndrew Huang gets hands-on with GRM Tools Atelier, a sleek modular playground packed with one-knob global controls, a mind-blowing modulation syst"
   },
   {
-    "title": "Diagonal Background Pattern with TailwindCSS",
-    "link": "https://dev.to/tonyedgal/diagonal-background-pattern-with-tailwindcss-4i5k",
-    "pubDate": "Sat, 18 Oct 2025 00:58:08 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-30cc",
+    "pubDate": "Sat, 18 Oct 2025 06:13:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Background patterns are a recent trend in web design, and most can be replicated with only CSS. In this article, I will teach you how to replicate the diagonal background pattern on the Tailwind CSS w"
+    "contentSnippet": "Nono La Grinta brings the heat\n\n\nParis-based rapper Nono La Grinta delivers every line with razor-sharp precision and raw grit on his unapologetic performance of “LOVE YOU,” teasing his upcoming debut"
   },
   {
-    "title": "3003. Maximize the Number of Partitions After Operations",
-    "link": "https://dev.to/mdarifulhaque/3003-maximize-the-number-of-partitions-after-operations-2dl5",
-    "pubDate": "Sat, 18 Oct 2025 00:46:37 +0000",
+    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-42oo",
+    "pubDate": "Sat, 18 Oct 2025 06:13:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "3003. Maximize the Number of Partitions After Operations\nDifficulty: Hard\nTopics: String, Dynamic Programming, Bit Manipulation, Bitmask, Weekly Contest 379\nYou are given a string s and an integer k.\n"
+    "contentSnippet": "Indys Blu – Saddest Song | A COLORS SHOW\n\n\nNew Orleans songstress Indys Blu lays bare her heart in a stripped-down COLORS performance of “Saddest Song,” blending poetic lyrics with raw, emotional voca"
   },
   {
-    "title": "Unlocking the Power of Community: How Engaging with Developers on Reddit Can Elevate Your Skills",
-    "link": "https://dev.to/mikeover/unlocking-the-power-of-community-how-engaging-with-developers-on-reddit-can-elevate-your-skills-3co6",
-    "pubDate": "Sat, 18 Oct 2025 00:35:49 +0000",
+    "title": "COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1aba",
+    "pubDate": "Sat, 18 Oct 2025 06:13:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the fast-paced world of technology, developers often find themselves juggling multiple responsibilities, from writing code to keeping up with the latest trends. While resources such as documentatio"
+    "contentSnippet": "Mississippi rapper-trumpeter Dear Silas lights up the COLORS stage with “Still Southern Playalistic,” blending crisp cadences and jazz-infused trumpet riffs into an electrifying live performance.  \nCa"
   },
   {
-    "title": "How to Manage WireGuard VPN Connection in GNOME Without the wireguard-tools",
-    "link": "https://dev.to/archerallstars/how-to-manage-wireguard-vpn-connection-in-gnome-without-the-wireguard-tools-1od5",
-    "pubDate": "Sat, 18 Oct 2025 00:30:33 +0000",
+    "title": "KEXP: Circles Around the Sun & Mikaela Davis - Full Performance (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-full-performance-live-on-kexp-2c59",
+    "pubDate": "Sat, 18 Oct 2025 06:13:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you want to use/connect to VPN without installing the VPN client on your system, the common way to do it is through the WireGuard configuration file.\nThis's more preferable on an immutable OS, e.g."
+    "contentSnippet": "Circles Around the Sun & Mikaela Davis Live on KEXP\n\n\nCircles Around the Sun teamed up with harpist extraordinaire Mikaela Davis for a laid-back, trippy KEXP studio session on August 21, 2025. They ro"
   },
   {
-    "title": "DB Mysql/Postgres on AWS vs Hetzner",
-    "link": "https://dev.to/devops-make-it-run/db-mysqlpostgres-on-aws-vs-hetzner-5h43",
-    "pubDate": "Sat, 18 Oct 2025 00:24:51 +0000",
+    "title": "KEXP: Jorja Smith - With You (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-27ai",
+    "pubDate": "Sat, 18 Oct 2025 06:12:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "MySQL Performance on Hetzner vs AWS: Storage Considerations\nMySQL performance frequently hinges on disk I/O capabilities, particularly regarding small random reads/writes and low latency. Choosing the"
+    "contentSnippet": "Jorja Smith delivers a soulful, intimate take on “With You” straight from KEXP’s Seattle studio, recorded August 8, 2025. Backed by guitarist Benjamin Totten and hosted by Larry Mizell Jr., the perfor"
   },
   {
-    "title": "Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React",
-    "link": "https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc",
-    "pubDate": "Sat, 18 Oct 2025 00:20:20 +0000",
+    "title": "KEXP: Jorja Smith - The Way I Love You (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-41p9",
+    "pubDate": "Sat, 18 Oct 2025 06:12:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introducing Quo.js\n\n\n\nDeclarative • Ultra-simple • Expressive\nQuo.js is a modern, open-source state management library inspired by Redux — but without the Redux Toolkit baggage.\nIt brings back the sim"
+    "contentSnippet": "Jorja Smith took over KEXP’s studio on August 8, 2025, delivering an intimate live rendition of “The Way I Love You.” Backed by guitarist Benjamin Totten and guided by host Larry Mizell Jr., the sessi"
   },
   {
-    "title": "Developer Tooling #007",
-    "link": "https://dev.to/patinthehat/developer-tooling-007-5a0p",
-    "pubDate": "Sat, 18 Oct 2025 00:17:03 +0000",
+    "title": "KEXP: Jorja Smith - Try Me (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-112j",
+    "pubDate": "Sat, 18 Oct 2025 06:12:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome to Developer Tooling #007, a newsletter enhancement for Freek Van der Herten's popular and high-quality newsletter, geared towards Software Engineering, Laravel, and related topics.\nThis editi"
+    "contentSnippet": "Jorja Smith “Try Me” Live Session on KEXP\n\n\nKEXP welcomed Jorja Smith into their studio on August 8, 2025, for an intimate live performance of her track “Try Me.” Backed by guitarist Benjamin Totten a"
   },
   {
     "title": "【2025/10/17最新アプデ】Claude Code 2.0.20、エージェントスキルの導入とチーム配布の解説",

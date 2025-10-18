@@ -1,73 +1,87 @@
 [
   {
-    "title": "Meet XPathy: The Fluent Java API That Makes Raw XPath Obsolete",
-    "link": "https://dev.to/volta_jebaprashanth_ac7af/meet-xpathy-the-fluent-java-api-that-makes-raw-xpath-obsolete-1bnm",
-    "pubDate": "Fri, 17 Oct 2025 18:31:33 +0000",
+    "title": "QubesOS A Hypervisor as a Desktop",
+    "link": "https://dev.to/sebos/qubesos-a-hypervisor-as-a-desktop-4972",
+    "pubDate": "Sat, 18 Oct 2025 01:30:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For years, UI automation engineers have struggled with the same nemesis: raw XPath strings. They're brittle, hard to read, and prone to silent errors caused by a misplaced bracket, quote, or function."
+    "contentSnippet": "Introduction\n\n\nRunning a desktop environment inside a hypervisor isn't new. Tech enthusiasts and home lab users have been doing it for years with tools like VMware Workstation and VirtualBox. These ru"
   },
   {
-    "title": "LLPY-14: Evaluación y Métricas de Calidad - Midiendo el Éxito del RAG",
-    "link": "https://dev.to/jesus_oviedoriquelme_084/llpy-14-evaluacion-y-metricas-de-calidad-midiendo-el-exito-del-rag-o3k",
-    "pubDate": "Fri, 17 Oct 2025 18:30:05 +0000",
+    "title": "CodeHUB",
+    "link": "https://dev.to/alexandre_braatzjunior_9/codehub-2el8",
+    "pubDate": "Sat, 18 Oct 2025 01:19:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎯 El Desafío de Medir Calidad en RAG\n\n\nImagina que tu sistema RAG está en producción:\n✅ API responde en 1-3 segundos\n✅ 100+ requests por día\n✅ Usuarios parecen contentos\nPero hay preguntas críticas s"
+    "contentSnippet": "🚀 Apresentando o CodeHUB — o editor de código completo, direto do navegador!\nCrie, edite e visualize seus projetos sem precisar instalar nada. Suporte a upload de imagens, vídeos, PDFs e arquivos de "
   },
   {
-    "title": "LLPY-13: CI/CD con GitHub Actions - Automatización Completa",
-    "link": "https://dev.to/jesus_oviedoriquelme_084/llpy-13-cicd-con-github-actions-automatizacion-completa-ij6",
-    "pubDate": "Fri, 17 Oct 2025 18:29:09 +0000",
+    "title": "From Developer to AI Operator",
+    "link": "https://dev.to/jaideepparashar/from-developer-to-ai-operator-48c5",
+    "pubDate": "Sat, 18 Oct 2025 01:16:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎯 El Desafío de los Deployments Manuales\n\n\nImagina el proceso tradicional de deployment:\n1. Developer hace cambios → 10 min\n2. Run tests localmente → 5 min\n3. Fix issues → 15 min\n4. Build Docker imag"
+    "contentSnippet": "The tech industry is entering a new class of engineering roles, and most developers aren’t preparing for it.\nFor decades, being a developer meant writing code manually, debugging manually, and deployi"
   },
   {
-    "title": "LLPY-12: Docker y Containerización - De Desarrollo a Producción",
-    "link": "https://dev.to/jesus_oviedoriquelme_084/llpy-12-docker-y-containerizacion-de-desarrollo-a-produccion-1fpm",
-    "pubDate": "Fri, 17 Oct 2025 18:28:26 +0000",
+    "title": "Diagonal Background Pattern with TailwindCSS",
+    "link": "https://dev.to/tonyedgal/diagonal-background-pattern-with-tailwindcss-4i5k",
+    "pubDate": "Sat, 18 Oct 2025 00:58:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎯 El Desafío de la Portabilidad y Reproducibilidad\n\n\nImagina este escenario familiar:\n✅ Tu código funciona perfecto en tu laptop\n\n❌ Falla en el servidor de staging\n❌ Falla diferente en producción\n❌ N"
+    "contentSnippet": "Background patterns are a recent trend in web design, and most can be replicated with only CSS. In this article, I will teach you how to replicate the diagonal background pattern on the Tailwind CSS w"
   },
   {
-    "title": "LLPY-11: Terraform - Infraestructura como Código",
-    "link": "https://dev.to/jesus_oviedoriquelme_084/llpy-11-terraform-infraestructura-como-codigo-57dp",
-    "pubDate": "Fri, 17 Oct 2025 18:27:29 +0000",
+    "title": "3003. Maximize the Number of Partitions After Operations",
+    "link": "https://dev.to/mdarifulhaque/3003-maximize-the-number-of-partitions-after-operations-2dl5",
+    "pubDate": "Sat, 18 Oct 2025 00:46:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎯 El Desafío de Gestionar Infraestructura Cloud\n\n\nImagina que necesitas desplegar tu sistema RAG en GCP:\n✅ VM para Qdrant (Compute Engine)\n✅ API en Cloud Run (FastAPI)\n✅ Batch Job (Cloud Run Job para"
+    "contentSnippet": "3003. Maximize the Number of Partitions After Operations\nDifficulty: Hard\nTopics: String, Dynamic Programming, Bit Manipulation, Bitmask, Weekly Contest 379\nYou are given a string s and an integer k.\n"
   },
   {
-    "title": "Running Evals on LangChain Applications: A Practical, End-to-End Guide",
-    "link": "https://dev.to/kuldeep_paul/running-evals-on-langchain-applications-a-practical-end-to-end-guide-with-maxim-ai-3e67",
-    "pubDate": "Fri, 17 Oct 2025 18:26:05 +0000",
+    "title": "Unlocking the Power of Community: How Engaging with Developers on Reddit Can Elevate Your Skills",
+    "link": "https://dev.to/mikeover/unlocking-the-power-of-community-how-engaging-with-developers-on-reddit-can-elevate-your-skills-3co6",
+    "pubDate": "Sat, 18 Oct 2025 00:35:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Evaluations (“evals”) are the backbone of reliable AI systems. If you are building agents or RAG pipelines with LangChain, systematic evals—paired with robust observability—are the fastest way to impr"
+    "contentSnippet": "In the fast-paced world of technology, developers often find themselves juggling multiple responsibilities, from writing code to keeping up with the latest trends. While resources such as documentatio"
   },
   {
-    "title": "LLPY-09: Phoenix y OpenTelemetry - Observabilidad Completa",
-    "link": "https://dev.to/jesus_oviedoriquelme_084/llpy-09-phoenix-y-opentelemetry-observabilidad-completa-2egc",
-    "pubDate": "Fri, 17 Oct 2025 18:25:56 +0000",
+    "title": "How to Manage WireGuard VPN Connection in GNOME Without the wireguard-tools",
+    "link": "https://dev.to/archerallstars/how-to-manage-wireguard-vpn-connection-in-gnome-without-the-wireguard-tools-1od5",
+    "pubDate": "Sat, 18 Oct 2025 00:30:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎯 El Desafío de Debugging en Sistemas RAG\n\n\nImagina que tu sistema RAG está en producción:\n✅ API recibe 100+ req/s\n✅ Pipeline complejo: Embedding → Qdrant → Reranking → LLM\n✅ Múltiples servicios inte"
+    "contentSnippet": "If you want to use/connect to VPN without installing the VPN client on your system, the common way to do it is through the WireGuard configuration file.\nThis's more preferable on an immutable OS, e.g."
   },
   {
-    "title": "LLPY-10: Autenticación JWT con RSA - Seguridad Stateless",
-    "link": "https://dev.to/jesus_oviedoriquelme_084/llpy-10-autenticacion-jwt-con-rsa-seguridad-stateless-39ho",
-    "pubDate": "Fri, 17 Oct 2025 18:24:50 +0000",
+    "title": "DB Mysql/Postgres on AWS vs Hetzner",
+    "link": "https://dev.to/devops-make-it-run/db-mysqlpostgres-on-aws-vs-hetzner-5h43",
+    "pubDate": "Sat, 18 Oct 2025 00:24:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎯 El Desafío de la Autenticación en APIs\n\n\nImagina que tu API RAG está en producción:\n✅ Endpoints públicos: /api/health, /api/rag/ask\n\n⚠️ Endpoints sensibles: /api/vectorstore/load, /api/status (deta"
+    "contentSnippet": "MySQL Performance on Hetzner vs AWS: Storage Considerations\nMySQL performance frequently hinges on disk I/O capabilities, particularly regarding small random reads/writes and low latency. Choosing the"
   },
   {
-    "title": "Securing Intelligence: The Complete AI Security Series [Video]",
-    "link": "https://dev.to/pinishv/securing-intelligence-the-complete-ai-security-series-video-43mb",
-    "pubDate": "Fri, 17 Oct 2025 18:21:00 +0000",
+    "title": "Introducing Quo.js: Declarative, Ultra-simple, Expressive State Management for React",
+    "link": "https://dev.to/quojs_dev/introducing-quojs-declarative-ultra-simple-expressive-state-management-for-react-4edc",
+    "pubDate": "Sat, 18 Oct 2025 00:20:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a video overview of the complete \"Securing Intelligence\" series on AI security.\nLook, I know what you're thinking. Four long articles on AI security? Who has time to read all that?\nGood news: "
+    "contentSnippet": "Introducing Quo.js\n\n\n\nDeclarative • Ultra-simple • Expressive\nQuo.js is a modern, open-source state management library inspired by Redux — but without the Redux Toolkit baggage.\nIt brings back the sim"
   },
   {
-    "title": "Understanding GPT and Large Language Models (LLMs)",
-    "link": "https://dev.to/pruthviraj_mahalunge_8090/understanding-gpt-and-large-language-models-llms-2c56",
-    "pubDate": "Fri, 17 Oct 2025 18:20:04 +0000",
+    "title": "Developer Tooling #007",
+    "link": "https://dev.to/patinthehat/developer-tooling-007-5a0p",
+    "pubDate": "Sat, 18 Oct 2025 00:17:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Understanding GPT and Large Language Models (LLMs)\nGPT (Generative Pre-trained Transformer) is a type of Large Language Model (LLM) capable of generating human-like text.\nWhat is a Large Language Mode"
+    "contentSnippet": "Welcome to Developer Tooling #007, a newsletter enhancement for Freek Van der Herten's popular and high-quality newsletter, geared towards Software Engineering, Laravel, and related topics.\nThis editi"
+  },
+  {
+    "title": "【2025/10/17最新アプデ】Claude Code 2.0.20、エージェントスキルの導入とチーム配布の解説",
+    "link": "https://zenn.dev/canly/articles/965cc8e7e9be8d",
+    "pubDate": "Fri, 17 Oct 2025 08:13:36 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこの記事は、本日2025/10/17にリリースされたClaude Code 2.0.20以降に利用が可能となった、\nスキルを自作導入する方法や、チーム内で配布するための方法を解説する記事です。\n公式のドキュメント記事（日本語版はまだ無い）を、まずはご確認ください。\nhttps://docs.claude.com/en/docs/claude-code/skills\nカスタムスラッシュコマ"
+  },
+  {
+    "title": "マウス不要！Git 操作を爆速化する「lazygit」が手放せない",
+    "link": "https://zenn.dev/aishift/articles/d1a0551a444317",
+    "pubDate": "Fri, 17 Oct 2025 04:46:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！株式会社AI Shift で Web フロントエンドエンジニアをしている辰川です！\n今回は、筆者が愛用している Git の TUI ツールである lazygit について紹介します。\nhttps://github.com/jesseduffield/lazygit\n\n\n Git 操作、こんなことで困っていませんか？\ngit add して git commit して git push ."
   },
   {
     "title": "【ポケモン×Java】番外編 #1：ピカチュウって200種類おんねん～クラス～（Java・Python・JavaScript・Ruby）",
@@ -75,6 +89,48 @@
     "pubDate": "2025-10-17T04:12:59.000Z",
     "source": "Qiita",
     "contentSnippet": "🎮 ピカチュウって200種類おんねん\nピカチュウにもいろんな種類がいるように\nプログラミング言語にもいろいろな種類があるのだが、\n\nプログラミングの基本的な概念である「クラス」を、\nJava・Python・JavaScript・Rubyの4つの言語で比較してみました！\n\n..."
+  },
+  {
+    "title": "NestJSからHonoへ：使ってみて感じた違いと学び",
+    "link": "https://zenn.dev/medicalforce/articles/719fa20204ea7e",
+    "pubDate": "Fri, 17 Oct 2025 03:54:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nメディカルフォースは業界に特化したSaaSを開発・提供しており美容医療の次の業界として警備業向けのプロダクトの開発を進めています。\n美容医療のプロダクトではNestJSを使っていましたが、警備業向けのプロダクトではHonoを採用しました。\n今回は、実際に使ってみてどう感じたかに焦点を当てて書いてみます。\n\n NestJSを使っていたときの印象\nNestJSは、DIやデコレーターなどが整っ"
+  },
+  {
+    "title": "お家でBGP！containerlab x FRRoutingで学ぶBGP経路制御シミュレーション",
+    "link": "https://qiita.com/ntaka329/items/22a9f1ad999396b76b0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T03:16:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n前回に引き続きcontainerlabを試していきます。\n\n「ルーターと言えばBGPでしょ！」ということで、今回はFRRoutingでBGPを試してみます。\nBGPであれば、どこのご家庭でもお使いの一般的なProtocolであり、..."
+  },
+  {
+    "title": "nnUNetとMONAI事前学習済みモデルの使い方",
+    "link": "https://zenn.dev/nnc496/articles/05699e19760a93",
+    "pubDate": "Fri, 17 Oct 2025 03:07:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先日、Kaggle での RSNA2025 のコンペが終了しました。自分も参加してたのですがまとまらずサブもせずに終わってしまいました。動脈瘤自体は血管にありますが、小さく RoI のクロップによる解像度の確保がキーポイントだったと思います。\nそこで、セグメンテーションによる血管領域の RoI クロップを試みていましたが、timm を使った 2.5D モデルで組んだ UNet では思いの"
+  },
+  {
+    "title": "あなたはVersion Skew問題を知っていますか？ Web開発者なら知って損はない原因と対策",
+    "link": "https://zenn.dev/coconala/articles/nextjs-version-skew-vercel-skew-protection",
+    "pubDate": "Fri, 17 Oct 2025 01:52:09 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Webサイトのリリース後に 「一部のユーザーだけ画面が真っ白になる」「謎のエラーが飛んでくる」 といった現象に遭遇したことはありませんか？\nもしかしたら、それは Version Skew（バージョンスキュー） と呼ばれる問題のせいかもしれません。\n\n 最初に\nこんにちは。ココナラテックの開発をしているエンジニアのもちさんです。\n私はある日、手元の端末で再現性の低いエラーに悩まされました。\nブラウザ"
+  },
+  {
+    "title": "Playwright Agentsでテストの自動生成をやってみた",
+    "link": "https://qiita.com/resound/items/24f129a920b34677e7f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T00:38:15.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは、鷹野です。\nPlaywright v1.56からの新機能でPlaywright Agentsが追加されました。 この Playwright Agents は、3つの主要なエージェントから構成されており、これらが協調して動作することでテストプロセス全体..."
+  },
+  {
+    "title": "1年で1万円以上コストダウンかも!? 外国製AIを有料課金するならRevolut",
+    "link": "https://zenn.dev/salesnow_tech/articles/0fb28697da1108",
+    "pubDate": "Thu, 16 Oct 2025 23:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nエンジニアの皆さん、日々の開発業務でAIの力を借りる場面が増えていませんか？特に、コーディングに特化したAI、例えばOpenAIの「Codex」やAnthropicの「Claude Code」などは、生産性を劇的に向上させる可能性を秘めています。\nこれらの高機能なAIサービスを最大限に活用するため、有料プランを契約している方も多いでしょう。しかし、サービスの多くは海外企業によって運営され"
   },
   {
     "title": "Honoざっくりキャッチアップ(v4.6.0〜v4.10.0)",
@@ -91,25 +147,11 @@
     "contentSnippet": "タスク管理できない人間のぼやき\n\nELYZAでプロダクト機械学習エンジニアをやっている中村(@tyo_yo_)です。\n新しい機能を実装する際、PRD (プロダクト要求仕様書: Product Requirements Document) から実装すべきタスクを一つひとつ切り出していく作業。「ここはこうで、あそこはああで...」と考えながらチケットを作る時間って、正直コーディングより疲れませんか。\n"
   },
   {
-    "title": "uvコマンドチートシート",
-    "link": "https://zenn.dev/studypocket/articles/uv-cheatsheet",
-    "pubDate": "Thu, 16 Oct 2025 16:52:19 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nスタディポケットでソフトウェアエンジニア / SRE として働いている@Tocyukiです。\n弊社プロダクトのバックエンドは FastAPI で書かれており、パッケージマネージャーにはもちろん(?) uv を使っています。\nhttps://docs.astral.sh/uv/\n普段よく使うコマンドなので、n番煎じ感満載ですが Python が久しぶりで uv 素人な自分のためにチートシー"
-  },
-  {
     "title": "Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業プロジェクトに",
     "link": "https://www.publickey1.jp/blog/25/kubernetesknativecncf.html",
     "pubDate": "2025-10-16T15:34:18.000Z",
     "source": "Publickey",
     "contentSnippet": "Cloud Native Computing Foundation（CNCF）は、Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業（Graduation）プロジェクトになったことを発表しました。 Knative has officially graduated within CNCF!This milestone marks th"
-  },
-  {
-    "title": "TinyGo Conference 2025を開催しました ~とあるスタッフより~",
-    "link": "https://zenn.dev/satoken/articles/tinygo-conf-2025",
-    "pubDate": "Thu, 16 Oct 2025 15:23:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nsatoken です。\n先日世界初のイベントとなる TinyGo Conference 2025 を開催しました！\nhttps://x.com/sago35tk/status/1977358331841749290\nご参加頂いた方々、ありがとうございました。\n快くスポンサー頂いた皆様、当日ご協力頂いたスタッフの皆様も本当にありがとうございました。\nこの TinyGo Conf の開催に深"
   },
   {
     "title": "AWS Bedrockを利用して、AWSの日本国内に閉じてClaude Codeを利用しよう！！",
@@ -124,13 +166,6 @@
     "pubDate": "2025-10-16T13:47:07.000Z",
     "source": "Qiita",
     "contentSnippet": "モデルアクセスの有効化が不要になった！\nAWSの生成AIサービス、Amazon Bedrockで基盤モデルを利用開始する際に必要だった「モデルアクセスの有効化」作業が不要になりました！\n\nただし、一番人気のAnthropic社のモデル（Claudeシリーズ）だけは、引..."
-  },
-  {
-    "title": "小規模チームがゼロからTerraform構成を設計した話 - AI時代の運用を見据えて",
-    "link": "https://zenn.dev/pivotmedia/articles/pivot-terraform-ai-era-design",
-    "pubDate": "Thu, 16 Oct 2025 12:36:44 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。PIVOTでソフトウェアエンジニアとして、Webフロントエンド、バックエンド、インフラを横断的に担当している@tawachanです。\nこの記事では、PIVOTのプロダクトチームでインフラのTerraform化を推進した経験を共有します。IaCできていなかった状態から、AI時代の運用を見据えた構成をゼロから設計した過程と判断基準について、振り返りながら紹介していきます。\n\n PIVOTの"
   },
   {
     "title": "【Next.js】散らかりにくいREST APIのエラーハンドリング",
@@ -161,39 +196,11 @@
     "contentSnippet": "こんにちは。\nmenu事業部で開発PMをしている鈴木です。\n十数年のSE、エンジニア職を経て今はPMとして働いていますが、日々PMという仕事の難しさに悩んでいます。そんなときに私が救いを求めるのが様々なビジネス書です。\nところが実際に本を読んで分かった気になっても、仕事に役..."
   },
   {
-    "title": "【Claude】夜更かししていたら Haiku 4.5 が生えていたので少し触る",
-    "link": "https://qiita.com/ryu-ki/items/361f325853be0d7de8d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-15T18:56:02.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n本日（2025/10/16）未明、Claude Haiku 4.5 が発表されました。以下ページでは、Claude Sonnet 4と同等のコーディング性能を、3分の1のコストで2倍以上の速度で実現しており、一部のタスク（Computer use）では、Clau..."
-  },
-  {
     "title": "JavaScriptランタイム「Bun 1.3」登場、CPUの無駄なアイドルを100分の1に、npmからのシームレスマイグレーションなど新機能",
     "link": "https://www.publickey1.jp/blog/25/javascriptbun_13cpu1001npm.html",
     "pubDate": "2025-10-15T15:21:00.000Z",
     "source": "Publickey",
     "contentSnippet": "オープンソースで開発されているJavaScriptランタイム「Bun」の最新版となる「Bun 1.3」正式版がリリースされました。 Bunの作者であるJarred Sumner氏 BunはJavaScriptとTypeScriptのランタイム機能を備えるだけでなく、トランスパイラ、バンドラ、タスクランナー、npm互換のパッケージマネージャなど、JavaScript/TypeScriptのツールチェ"
-  },
-  {
-    "title": "4年目のソフトウェアエンジニアがSWE協会のコーディング練習会に参加して感じた変化",
-    "link": "https://zenn.dev/akhmgc/articles/aa55dfd823d062",
-    "pubDate": "Wed, 15 Oct 2025 14:40:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "概要\n4年目のソフトウェアエンジニアとして、一般社団法人 ソフトウェアエンジニア協会(以下SWE協会)のコーディング練習会に参加して感じた変化を共有します。\nなお、Google を含む外資系ソフトウェアエンジニアのコーディングテストを準備なしで解ける方にとっては、本記事の内容は役に立たないかもしれません。\n\n 自己紹介と参加の背景\n私は現在、主にマーケティングオートメーションツールを提供している会"
-  },
-  {
-    "title": "Supabaseは個人開発の味方 - 煩わしいセットアップは不要・RLSによる宣言的な権限管理",
-    "link": "https://zenn.dev/kontaco/articles/1128b039d47dd0",
-    "pubDate": "Wed, 15 Oct 2025 14:09:34 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは近藤です\n個人開発でサービスを構築する際、「認証どうしよう」「画像のストレージどこに置こう」「セキュリティ大丈夫かな」「テスト環境の構築が面倒」と悩むことはありませんか?\n私は子供向け画像認識学習アプリ「KORENANI」を開発する中で、Supabaseを採用しました。\n\nこの記事で伝えること:\n\nなぜSupabaseを選んだのか（メリット）\nどんな制約があるのか（デメリット）\nどんなプ"
-  },
-  {
-    "title": "AIを使う人は、AIをあまり使わない人から「怠惰で能力が低く、自立心に乏しい」と評価されやすい",
-    "link": "https://zenn.dev/cloud_ace/articles/b172102d0163c2",
-    "pubDate": "Wed, 15 Oct 2025 10:09:17 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。クラウドエース株式会社 第四開発部の相原です。\n読者の皆さんは、普段の業務でどれくらい AI を活用していますか？\nおそらく、多くの方がコードの自動生成やデバッグ、ドキュメント作成といったさまざまな場面で、AI を頼れるアシスタントとして利用していることでしょう。\n今や AI は私たちの日常に欠かせないパートナーになりつつあります。\nしかし、その一方で、「AI を使っている」という事実"
   },
   {
     "title": "苦節6年 個人開発から始めたB2B SaaSがやっと動き出した話",
@@ -203,11 +210,11 @@
     "contentSnippet": "こんにちは。伊勢川です。\n先日、ドリーム・アーツ主催の勉強会にて、「個人開発から始めるB2B SaaS」というLTをしました。本記事では、そのLTの内容をベースにしつつ、LTでは語りきれなかった内容も盛り込んでお伝えします。\n\n本記事の概要\n個人開発から6年でB2B Saa..."
   },
   {
-    "title": "運用・保守をやるうえで必要なこと",
-    "link": "https://qiita.com/kosuke_shoji/items/fb8bad52a3cceecd2fa9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-15T09:03:02.000Z",
+    "title": "異常精進は異常",
+    "link": "https://qiita.com/TrueRyoB/items/17dc50f5e51b6d1c32f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-15T03:44:45.000Z",
     "source": "Qiita",
-    "contentSnippet": "◆はじめに\n運用・保守は、一般的にはひとつの業務のようにまとめて呼ばれることが多いですが、「運用」と「保守」に分かれた業務がひとつに合わさったものです。そのため別々に考えたほうが感覚的にも分かりやすいです。\n今回は、未経験からでも入りやすい運用・保守について必要なスキルや..."
+    "contentSnippet": "目的\n競技プログラミングにおける「レートを上げるにはとにかく問題を解け」という風潮に疑問を感じ、その実態を整理したい。\n\n疑念の根本\n本来、アルゴリズムを理解し、論理的思考ができていれば、初見の問題であっても解法を導けるはずです。\nにもかかわらず、それができない理由は、次..."
   },
   {
     "title": "# いまから始めるクラウド環境構築のためのTerraform",
@@ -236,13 +243,6 @@
     "pubDate": "2025-10-14T13:37:23.000Z",
     "source": "Publickey",
     "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
-  },
-  {
-    "title": "Linux初心者向けの便利なコマンド",
-    "link": "https://qiita.com/kosuke_shoji/items/59078e087b8b18a4188a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-14T08:54:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n今回は「Linuxの基本コマンドとか、知っておく良いコマンドってあるのかな？」って人向けの知っておくと便利なLinuxコマンドをいくつかご紹介します。\n各コマンドの詳細については、「コマンド　オプション(例：ls オプション)」などで検索するとより詳しく紹介して..."
   },
   {
     "title": "テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど",

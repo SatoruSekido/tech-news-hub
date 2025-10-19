@@ -1,73 +1,73 @@
 [
   {
-    "title": "CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-3ioj",
-    "pubDate": "Sun, 19 Oct 2025 02:00:54 +0000",
+    "title": "Azure Bicep: Extension and local deploy",
+    "link": "https://dev.to/omiossec/azure-bicep-extension-and-local-deploy-45l1",
+    "pubDate": "Sun, 19 Oct 2025 06:28:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less\n\n\nCinemaSins tears into the M3GAN sequel for being oddly dull, pointing out every goofy plot hiccup and missed opportunity in their trademark snar"
+    "contentSnippet": "Bicep was created with a single goal: to simplify Azure resource deployment. Instead of writing verbose JSON, Bicep gives us a cleaner, more concise way to define infrastructure.\nBut here’s the catch:"
   },
   {
-    "title": "CinemaSins: Everything Wrong With The Human Centipede 2 (Full Sequence) In 22 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-human-centipede-2-full-sequence-in-22-minutes-or-less-6ji",
-    "pubDate": "Sun, 19 Oct 2025 02:00:42 +0000",
+    "title": "Part 4: MySQL vs PostgreSQL - Transaction Processing and ACID Compliance",
+    "link": "https://dev.to/harry_do/part-4-mysql-vs-postgresql-transaction-processing-and-acid-compliance-4of2",
+    "pubDate": "Sun, 19 Oct 2025 06:25:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR: CinemaSins just unleashed “Everything Wrong With The Human Centipede 2 (Full Sequence) In 22 Minutes Or Less,” promising more absurd nitpicks and face-melting commentary than you thought possib"
+    "contentSnippet": "Table of Contents\n\n\n\n1. Overview: Key Architectural Differences\n2. Isolation Levels and Concurrency Control\n3. MVCC and Transaction Isolation\n4. SERIALIZABLE Isolation: Pessimistic vs Optimistic Strat"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-7na",
-    "pubDate": "Sun, 19 Oct 2025 02:00:34 +0000",
+    "title": "“Debugging 101: How to Read and Understand Python Error Messages”",
+    "link": "https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon",
+    "pubDate": "Sun, 19 Oct 2025 06:20:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins goes full Jigsaw on the entire Saw franchise with their latest video, “Everything Wrong With Every Saw Movie EVER (That We’ve Sinned So Far).” They break down every trap, plot twist"
+    "contentSnippet": "We’ve all been there — you run your code confidently, only to see a red wall of error messages screaming back at you.\nBut here’s the secret 👉 those errors aren’t your enemies — they’re your teachers."
   },
   {
-    "title": "Mr Sunday Movies: Tron: Legacy - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-tron-legacy-caravan-of-garbage-4i0a",
-    "pubDate": "Sun, 19 Oct 2025 02:00:26 +0000",
+    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
+    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e",
+    "pubDate": "Sun, 19 Oct 2025 06:12:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Tron: Legacy – Caravan of Garbage\n\n\nThis quick-and-dirty review kicks off Tron week with Jeff Bridges back as Kevin Flynn (and his evil clone Clu) in a slick, neon-soaked sequel to the 1982 original. "
+    "contentSnippet": "Beautiful New Music Making Environment! (GRM Atelier)\n\n\nAndrew Huang dives into GRM Tools’ Atelier—a fresh, modular playground for sound designers and producers. He walks through its unique global con"
   },
   {
-    "title": "Mr Sunday Movies: Why is Tron: Ares bombing?",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-why-is-tron-ares-bombing-3b27",
-    "pubDate": "Sun, 19 Oct 2025 02:00:19 +0000",
+    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9",
+    "pubDate": "Sun, 19 Oct 2025 06:11:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Tron: Ares crashes back onto the big screen but is bombing at the box office, despite Jared Leto’s turn as Ares—a program struggling to put human feelings into words. Shockingly, the iconic Tron barel"
+    "contentSnippet": "Nono La Grinta, the Paris-based rapper, brings raw energy and razor-sharp delivery to his uncompromising performance of “LOVE YOU” on A COLORS SHOW, giving us a sneak peek at his forthcoming debut pro"
   },
   {
-    "title": "Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-2e91",
-    "pubDate": "Sun, 19 Oct 2025 02:00:09 +0000",
+    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo",
+    "pubDate": "Sun, 19 Oct 2025 06:11:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Alien VS Predator Series – Caravan of Garbage\n\n\nAfter years of hype from comics, games and a sneaky Predator 2 tease, we finally got two live-action Aliens vs. Predator throwdowns in 2004 and 2007"
+    "contentSnippet": "New Orleans vocalist Indys Blu takes centerstage on A COLORS SHOW with a stirring, poetic performance of her single “Saddest Song,” weaving raw heartbreak into every note.\nStream the track, catch her "
   },
   {
-    "title": "Next Generation of Agentic AI #cognee",
-    "link": "https://dev.to/barak_codes/next-generation-of-agentic-ai-cognee-4h70",
-    "pubDate": "Sun, 19 Oct 2025 01:55:24 +0000",
+    "title": "COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma",
+    "pubDate": "Sun, 19 Oct 2025 06:11:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Cognee: Building the Next Generation of Memory for AI Agents (OSS)\nOm Shree ・ Oct 17\n#ai\n        #beginners\n        #tutorial\n        #discuss"
+    "contentSnippet": "Mississippi native Dear Silas fuses crisp rap cadences with jazz-infused trumpet melodies in an electrifying COLORS performance of his latest single, “Still Southern Playalistic.”\nCatch the vibe on A "
   },
   {
-    "title": "Psychological Effects of AI-Mediated Interactions on Student Social Behavior: An Analysis of Introversion Tendencies",
-    "link": "https://dev.to/devunionx/psychological-effects-of-ai-mediated-interactions-on-student-social-behavior-an-analysis-of-32p2",
-    "pubDate": "Sun, 19 Oct 2025 01:54:23 +0000",
+    "title": "KEXP: Jorja Smith - With You (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-39gh",
+    "pubDate": "Sun, 19 Oct 2025 06:11:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This study examines the psychological effects of artificial intelligence use in educational settings on students' social behavior patterns. Focusing particularly on the increase in introversion tenden"
+    "contentSnippet": "Jorja Smith brings the heat to KEXP with a live studio take of “With You,” recorded August 8, 2025. She’s backed by Benjamin Totten on guitar, with Larry Mizell Jr. hosting the session. Audio pro Kevi"
   },
   {
-    "title": "📰 Major Tech News: Oct 18th, 2025",
-    "link": "https://dev.to/om_shree_0709/major-tech-news-oct-18th-2025-516",
-    "pubDate": "Sun, 19 Oct 2025 01:53:23 +0000",
+    "title": "KEXP: Jorja Smith - The Way I Love You (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-17ph",
+    "pubDate": "Sun, 19 Oct 2025 06:11:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Autumn deepens across much of the world, and so does the pace of change in technology a quiet acceleration that shapes our routines in ways both subtle and profound. On October 18, 2025, the sector sa"
+    "contentSnippet": "Jorja Smith – “The Way I Love You” (Live on KEXP)\n\nOn August 8, 2025, Jorja Smith lit up the KEXP studio with a soulful live performance of “The Way I Love You,” backed by guitarist Benjamin Totten an"
   },
   {
-    "title": "The Economy Is Becoming a Reinforcement Learning Machine — And Founders Need to Think Like RL Architects",
-    "link": "https://dev.to/mikhailliublin/the-economy-is-becoming-a-reinforcement-learning-machine-and-founders-need-to-think-like-rl-j5d",
-    "pubDate": "Sun, 19 Oct 2025 01:45:26 +0000",
+    "title": "KEXP: Jorja Smith - Try Me (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-384p",
+    "pubDate": "Sun, 19 Oct 2025 06:11:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most founders still think about AI in terms of automation.\nBut that mindset is already outdated.\nThe next decade won’t be about automation. It will be about learning loops — and the economy itself is "
+    "contentSnippet": "Jorja Smith hit KEXP’s Seattle studio on August 8, 2025, for an intimate live take on her track “Try Me,” backed by guitarist Benjamin Totten. The session was hosted by Larry Mizell Jr., with Kevin Su"
   },
   {
     "title": "SDカードが壊れにくいラズベリーパイ（initramfsとは何か？）",

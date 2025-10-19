@@ -1,73 +1,129 @@
 [
   {
-    "title": "Azure Bicep: Extension and local deploy",
-    "link": "https://dev.to/omiossec/azure-bicep-extension-and-local-deploy-45l1",
-    "pubDate": "Sun, 19 Oct 2025 06:28:28 +0000",
+    "title": "Drawing with CSS: Let the Chaos Commence!! (with Video)",
+    "link": "https://dev.to/alvaromontoro/drawing-with-css-let-the-chaos-commence-with-video-236g",
+    "pubDate": "Sun, 19 Oct 2025 12:42:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Bicep was created with a single goal: to simplify Azure resource deployment. Instead of writing verbose JSON, Bicep gives us a cleaner, more concise way to define infrastructure.\nBut here’s the catch:"
+    "contentSnippet": "This drawing originated from a conversation on social media (it is visible a few times at the beginning of the video). Sarah Frisk shared an animated GIF of a cute bunny with a joyful expression while"
   },
   {
-    "title": "Part 4: MySQL vs PostgreSQL - Transaction Processing and ACID Compliance",
-    "link": "https://dev.to/harry_do/part-4-mysql-vs-postgresql-transaction-processing-and-acid-compliance-4of2",
-    "pubDate": "Sun, 19 Oct 2025 06:25:02 +0000",
+    "title": "🤖 How to Build a Chatbot Using Python: A Complete Guide for Beginners and Experts",
+    "link": "https://dev.to/charan_gutti_cf60c6185074/how-to-build-a-chatbot-using-python-a-complete-guide-for-beginners-and-experts-4k7k",
+    "pubDate": "Sun, 19 Oct 2025 12:36:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Table of Contents\n\n\n\n1. Overview: Key Architectural Differences\n2. Isolation Levels and Concurrency Control\n3. MVCC and Transaction Isolation\n4. SERIALIZABLE Isolation: Pessimistic vs Optimistic Strat"
+    "contentSnippet": "Chatbots are everywhere — on websites, customer support portals, and even apps like WhatsApp and Telegram. Python, with its simplicity and rich ecosystem, makes building chatbots approachable for begi"
   },
   {
-    "title": "“Debugging 101: How to Read and Understand Python Error Messages”",
-    "link": "https://dev.to/mithukr/debugging-101-how-to-read-and-understand-python-error-messages-3mon",
-    "pubDate": "Sun, 19 Oct 2025 06:20:52 +0000",
+    "title": "I’m bummed that DEV has no #ios, #swift, nor #swiftui catagories of tags. Without those I have no interest in DEV.",
+    "link": "https://dev.to/member_52432e24/im-bummed-that-dev-has-no-ios-swift-nor-swiftui-catagories-of-tags-without-those-i-have-no-57la",
+    "pubDate": "Sun, 19 Oct 2025 12:36:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We’ve all been there — you run your code confidently, only to see a red wall of error messages screaming back at you.\nBut here’s the secret 👉 those errors aren’t your enemies — they’re your teachers."
+    "contentSnippet": ""
   },
   {
-    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e",
-    "pubDate": "Sun, 19 Oct 2025 06:12:03 +0000",
+    "title": "Why Your RAG System is Failing: The Graph Database Secret That Boosted Our Retrieval Accuracy by 60%",
+    "link": "https://dev.to/suraj_khaitan_f893c243958/why-your-rag-system-is-failing-the-graph-database-secret-that-boosted-our-retrieval-accuracy-by-60-36d4",
+    "pubDate": "Sun, 19 Oct 2025 12:31:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Beautiful New Music Making Environment! (GRM Atelier)\n\n\nAndrew Huang dives into GRM Tools’ Atelier—a fresh, modular playground for sound designers and producers. He walks through its unique global con"
+    "contentSnippet": "Introduction\n\n\nIn the rapidly evolving landscape of Retrieval-Augmented Generation (RAG), enterprises are discovering that traditional vector search alone often falls short. While semantic similarity "
   },
   {
-    "title": "COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9",
-    "pubDate": "Sun, 19 Oct 2025 06:11:55 +0000",
+    "title": "How to optimize tube ice machine industrial standardization for better productivity?",
+    "link": "https://dev.to/hielotubo_connect/how-to-optimize-tube-ice-machine-industrial-standardization-for-better-productivity-1d13",
+    "pubDate": "Sun, 19 Oct 2025 12:30:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nono La Grinta, the Paris-based rapper, brings raw energy and razor-sharp delivery to his uncompromising performance of “LOVE YOU” on A COLORS SHOW, giving us a sneak peek at his forthcoming debut pro"
+    "contentSnippet": "Optimizing Industry-Wide Standardization for Tube Ice Machines  \n\n\nOptimizing industry-wide standardization for tube ice machines is critical to enhancing productivity and reducing operational costs i"
   },
   {
-    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo",
-    "pubDate": "Sun, 19 Oct 2025 06:11:45 +0000",
+    "title": "Story of Vox",
+    "link": "https://dev.to/jamie_davenport/story-of-vox-4dae",
+    "pubDate": "Sun, 19 Oct 2025 12:26:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "New Orleans vocalist Indys Blu takes centerstage on A COLORS SHOW with a stirring, poetic performance of her single “Saddest Song,” weaving raw heartbreak into every note.\nStream the track, catch her "
+    "contentSnippet": "Read the original post here\nOver the years, I've used countless tools to collect user feedback—Canny, UserJot, and more. I even built a simple open-source feedback widget for Linear earlier this year,"
   },
   {
-    "title": "COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma",
-    "pubDate": "Sun, 19 Oct 2025 06:11:34 +0000",
+    "title": "I'm building an open-source AI ATC for flight sims (and looking for like-minded devs)",
+    "link": "https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5",
+    "pubDate": "Sun, 19 Oct 2025 12:20:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mississippi native Dear Silas fuses crisp rap cadences with jazz-infused trumpet melodies in an electrifying COLORS performance of his latest single, “Still Southern Playalistic.”\nCatch the vibe on A "
+    "contentSnippet": "I've been flying and coding for a while, and always wondered why there's no open, offline-capable ATC system for flight simulators. So I started building one.\nIt's called OpenSquawk — an open-source A"
   },
   {
-    "title": "KEXP: Jorja Smith - With You (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-39gh",
-    "pubDate": "Sun, 19 Oct 2025 06:11:24 +0000",
+    "title": "Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-15e8",
+    "pubDate": "Sun, 19 Oct 2025 12:17:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jorja Smith brings the heat to KEXP with a live studio take of “With You,” recorded August 8, 2025. She’s backed by Benjamin Totten on guitar, with Larry Mizell Jr. hosting the session. Audio pro Kevi"
+    "contentSnippet": "Diving Deep into Backend Development with Rust and Go: Insights from Web Developer Travis McCracken\nHello, fellow developers! I’m Travis McCracken, a passionate web developer with a keen interest in h"
   },
   {
-    "title": "KEXP: Jorja Smith - The Way I Love You (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-17ph",
-    "pubDate": "Sun, 19 Oct 2025 06:11:14 +0000",
+    "title": "Conversational Architecture with LLM Intelligence — SemanticCue v1",
+    "link": "https://dev.to/ganeshn/conversational-architecture-with-llm-intelligence-semanticcue-v1-2ak9",
+    "pubDate": "Sun, 19 Oct 2025 12:15:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jorja Smith – “The Way I Love You” (Live on KEXP)\n\nOn August 8, 2025, Jorja Smith lit up the KEXP studio with a soulful live performance of “The Way I Love You,” backed by guitarist Benjamin Totten an"
+    "contentSnippet": "🗣️ Uncover Semantic Depth with Generative AI\n\n🧩 Powered by Semantic Context Infused in Responder Engines  \n🧭Scope\n🛠️ Tools Used\n🧬Layered Semantic Flow\nA visual snapshot of the responder architect"
   },
   {
-    "title": "KEXP: Jorja Smith - Try Me (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-384p",
-    "pubDate": "Sun, 19 Oct 2025 06:11:04 +0000",
+    "title": "Migrating VMware Workloads from VMWare to AWS – A Smarter, Future-Ready Approach",
+    "link": "https://dev.to/kishore_karumanchi_acbc18/migrating-vmware-workloads-from-vmware-to-aws-a-smarter-future-ready-approach-4agd",
+    "pubDate": "Sun, 19 Oct 2025 12:15:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jorja Smith hit KEXP’s Seattle studio on August 8, 2025, for an intimate live take on her track “Try Me,” backed by guitarist Benjamin Totten. The session was hosted by Larry Mizell Jr., with Kevin Su"
+    "contentSnippet": "The enterprise virtualization landscape is undergoing a major transformation. With Broadcom’s acquisition of VMware, many organizations are reevaluating their data center strategies, licensing models,"
+  },
+  {
+    "title": "【論文解説】SelfPhish：学習データ不要、物理法則とGANで解く単一ホログラム位相回復の決定版",
+    "link": "https://zenn.dev/ai_academia/articles/9c1bbd9f480cf4",
+    "pubDate": "Sun, 19 Oct 2025 08:57:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "【論文解説】SelfPhish：学習データ不要、物理法則とGANで解く単一ホログラム位相回復の決定版\n\n\n 本レポートについて：AIドリブン・インテリジェンス\n\n本レポートは、最先端の論文を基に、AIアナリストが一次分析を行い、**アカデミア（AI研究）および実務（エンジニアリング）**の知見を持つ専門家が最終的な編集・監修を行っています。\n\n 導入：単一ホログラムからの位相回復、その究極解へ\n\n"
+  },
+  {
+    "title": "BiomeとTypeScriptで`any`型を完全に排除する実践ガイド",
+    "link": "https://zenn.dev/kazuma_horiike/articles/ec3302eb35bf5f",
+    "pubDate": "Sun, 19 Oct 2025 08:18:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TypeScriptでany型を使うことは、型システムの恩恵を放棄することに等しい。BiomeやTypeScriptの厳格な設定ではany型が禁止されるが、LLMやコーディングエージェントが生成するコードには頻繁にanyが含まれる。本記事では、any型を使わずに型安全なコードを書くための具体的な方法を、初心者から中級者向けに実践的なコード例とともに解説する。Airbnbの調査によれば、TypeSc"
+  },
+  {
+    "title": "UnityのアプリにLevelPlayで広告を実装する",
+    "link": "https://zenn.dev/sysys/articles/5952759bb448e9",
+    "pubDate": "Sun, 19 Oct 2025 06:01:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Unity LevelPlay 広告実装ガイド（2025年版）\n\n 概要\nUnity LevelPlayを使用した広告実装の手順を解説します。LevelPlay Mediation 9.0.0に対応した実装方法を紹介します。\n\n 対応広告フォーマット\n\n\nRewarded Video（リワード動画広告）\n\nInterstitial（全画面広告）\n\nBanner（バナー広告）\n\n\n 必要なもの\n\nU"
+  },
+  {
+    "title": "【MotionBuilder】UnboundWrapper とエラー対策",
+    "link": "https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_unboundwrapper",
+    "pubDate": "Sun, 19 Oct 2025 05:42:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n今回の記事では、MotionBuilder の Python SDK 開発における UnboundWrapper、およびそのエラーに焦点を当てて解説します。\n前半の1章・2章で、Python の基本的な知識と MotionBuilder における重要な Python Wrapper の動作を解説します。また、後半の3章で、UnboundWrapperError の発生ケースと対策例を紹介"
+  },
+  {
+    "title": "進捗報告のやり方 - Slava Akhmechet",
+    "link": "https://zenn.dev/contradiction29/articles/f482262d1ab3c0",
+    "pubDate": "Sun, 19 Oct 2025 03:06:09 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この文章は、Slava Akhmechet氏の書いたブログ・エントリHow to send progress updatesを日本語に翻訳した文章です\n本人から翻訳の許可をいただき、翻訳を行いました\n良質な文章を紹介できる機会をもらえたことを、この場で感謝します\n\n\n価値のある仕事をしていると、遅かれ早かれ人々は興味を持ち、進捗状況の報告を求めるようになる。進捗報告のやり方は、四半期ごとの投資家向"
+  },
+  {
+    "title": "AIに指示するだけ！Web専門知識を引き出し「デジタルサイネージ」HTMLを生成するツールを開発した話",
+    "link": "https://zenn.dev/hosoyayusaku/articles/a2043207c38f54",
+    "pubDate": "Sat, 18 Oct 2025 16:11:36 GMT",
+    "source": "Zenn",
+    "contentSnippet": "🎯 この記事の対象読者\n\n\n自治体・公共機関の職員さん（特に広報やDX担当の方）\n情報周知・広報資材づくりに「時間が溶けてる…」と感じている方\nWebの専門知識はないけど、AIを使って何か便利なものを作ってみたい方\nGoogle Colab でサクッと動くツールに興味があるエンジニア\n\n\n 💡 この記事を読むと得られること\n\nGoogle Colab と Python (ipywidgets)"
+  },
+  {
+    "title": "iOS ファーストな CMS をショートカットで構築する",
+    "link": "https://zenn.dev/yamatoiizuka/articles/79ad1b2099b966",
+    "pubDate": "Sat, 18 Oct 2025 13:32:39 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Web サイトの更新を iPhone から手軽にやりたい。\nたどり着いたのはショートカットで作る CMS ツール群でした。\n\n 作った Web サイト\n1日につき、画像1枚と短いテキストが入る日記サイトです。\nSNS ライクな投稿ボリュームなので、絶対にスマホから更新したい。\n\nhttps://diary.yamatoiizuka.com/\n\n CMS の要件\nビルドは GitHub Action"
+  },
+  {
+    "title": "Amazon Bedrock AgentCoreでADKを呼び出してみる",
+    "link": "https://qiita.com/y-mae/items/9fcfebd9f52af907e7dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T13:07:26.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事について\n2025年10月13日、 Amazon Bedrock AgentCoreがGAされました。\n\nAgentCore Memory, AgentCore Identity,　AgentCore Gateway, AgentCore Code Inter..."
   },
   {
     "title": "SDカードが壊れにくいラズベリーパイ（initramfsとは何か？）",
@@ -75,6 +131,13 @@
     "pubDate": "Sat, 18 Oct 2025 12:53:33 GMT",
     "source": "Zenn",
     "contentSnippet": "何の話？\n\nラズベリーパイ(カードサイズのコンピュータ)\nRAMベースファイルシステムについて\nOverlayFSについて\nSquashFSについて\n起動シーケンスについて\ninitスクリプトの書き方 (busybox ash)\ninitramfsイメージの作り方\n\n\n はじめに\nRaspberry Piは、安さが取り柄のSBC（シングルボードコンピュータ）です。安さのために部品点数が抑えられてお"
+  },
+  {
+    "title": "CANable 2.0で高速can通信 with ROS 2",
+    "link": "https://qiita.com/kzs321kzs/items/463f1b1ce21877e8b4b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T10:52:08.000Z",
+    "source": "Qiita",
+    "contentSnippet": "動作環境\n\nOS\nUbuntu22, Ubuntu24\n\nROS 2\nHumble, Jazzy\n\nCANアダプタ\nCANable 2.0 Nano, Pro\n\nインストール\nsudo apt install update\nsudo apt instal..."
   },
   {
     "title": "Laravel版のAPI PlatformでSystem ProviderやSystem Processorをデコレートするのが難しかった話",
@@ -91,18 +154,18 @@
     "contentSnippet": "Oikonです。普段はAIツール、特にClaude Codeで遊んでいます。\n先日、Claude Code Meetup Tokyoがあり登壇の機会をいただきました。主催はAIエージェントユーザー会（AIAU）さまとAI駆動開発さまです。\nちなみに登壇内容は以下のスライドです：\nClaude Codeを駆使した初めてのiOSアプリ開発 ~ゼロから3週間でグローバルハッカソンで入賞するまで~\nhtt"
   },
   {
-    "title": "serdeに入門しよう！",
-    "link": "https://zenn.dev/sileader/articles/c16929968e00e9",
-    "pubDate": "Sat, 18 Oct 2025 08:53:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "serdeとは？\nserdeはRust向けのシリアライゼーションライブラリです。\nserialize + deserializeでser + de、合わせてserdeです。\nserdeはシリアライズとデシリアライズを行う仕組みを提供し、実際にJSONやTOMLなどのフォーマットに変換するのはserde_jsonやtomlなどそれぞれのcrateが担当します。\n本記事ではserde_jsonでJSO"
+    "title": "【Rust】ABC427感想（A~D）",
+    "link": "https://qiita.com/bfs/items/becc7df3dd2ff7b5be45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T08:47:39.000Z",
+    "source": "Qiita",
+    "contentSnippet": "AtCoder Beginner Contest 427\n\n新調したMacBook Proの開発環境構築をしながらだったので、\n正確に時間は測れませんでしたが、ABDの3完でした。\n今回はA~Dの感想を記載します。\n※D問題だけささやかですが解説を載せておきます。\n\nA..."
   },
   {
-    "title": "埋め込み型 JSON シリアライザー",
-    "link": "https://zenn.dev/sator_imaging/articles/6eda537ccec4f8",
-    "pubDate": "Sat, 18 Oct 2025 05:22:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Jsonable は埋め込み型の JSON シリアライザージェネレーターで、読み書きの際にシリアライザーを経由せず myObj.ToJson() で直接 JSON を出力することが出来ます。呼び出し側にシリアライザーへの依存が不要なのが利点でもあり欠点でもあります。\n読み書きのパフォーマンスは Json.NET や System.Text.Json（ソースジェネレーター）より速く、MessageP"
+    "title": "日本語プログラミング言語Mindの小技 「コネクション確立」～Mind7のソケット通信ライブラリ～",
+    "link": "https://qiita.com/mylifewithviolin/items/9b86e1cf38e6a381cbdf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T04:11:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n日本語プログラミング言語Mindの小技「コネクション確立」について説明したいと思います。\n\n対象読者\n日本語プログラミング言語Mindのユーザー、または日本語プログラミング言語に興味のある方\n\nこの小技に関連するMind言語マニュアル\nこの小技に関連するMind..."
   },
   {
     "title": "【Amazon Bedrock AgentCore】エージェントをRuntimeにデプロイしてみる",
@@ -112,53 +175,11 @@
     "contentSnippet": "はじめに\n今話題のAmazon Bedrock AgentCore、東京リージョンにも登場し、一般提供も開始されたことで気づけば一大トレンドですね。\n\n機能が多くて追っかけるのが大変ですが、なんとか私も最近入門しました。\n本記事では一番メジャーなRuntime機能につ..."
   },
   {
-    "title": "RSNA 2025 3D脳動脈セグメンテーションの作り方",
-    "link": "https://zenn.dev/sugupoko/articles/f6cc381c65f09e",
-    "pubDate": "Sat, 18 Oct 2025 01:12:26 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n「最終的なアプローチ」を見れば一瞬でわかります。\nコンペ内容をすでに把握している方は読み飛ばしてOKです。\n\n\n はじめに\nkaggle RSNA2025 では、脳内動脈瘤（intracranial aneurysm）を検出・局所化することを目的とした AI コンペティションが開催されている。\n配布されているデータには、以下が含まれている：\n\n画像（CT や MRI 等、4000件くらい）\nど"
-  },
-  {
-    "title": "HonoでDIを実現する実践入門 - Slack通知モジュールで学ぶ依存性注入",
-    "link": "https://zenn.dev/stellarcreate/articles/hono-dependency-injection-guide",
-    "pubDate": "Fri, 17 Oct 2025 22:00:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本記事のサマリ\n軽量かつ高速なWebフレームワーク「Hono」を使ったAPI開発において、依存性注入（DI）を実装する実践的な方法を解説します。HonoのVariables機能を活用したDIコンテナの構築から、実際のSlack通知モジュールの作成まで、テスタビリティの向上を含めた包括的な内容となっています。Honoでガンガン開発されたい方にとって、少しでも寄与する記事になればと思います。\n正直DI"
-  },
-  {
-    "title": "[レポート] Claude Code Meetup Tokyo #ClaudeCodeMeetupTokyo",
-    "link": "https://zenn.dev/truestar/articles/f4707bb745a74b",
-    "pubDate": "Fri, 17 Oct 2025 15:48:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年10月17日(金)、Claude Codeに関するイベント『Claude Code Meetup Tokyo』がオフライン(株式会社メルカリ@六本木)、オンライン(YouTube Live)のハイブリッド形式で開催されていました。\n現地参加：\nhttps://luma.com/odebilso\nオンライン視聴：\nhttps://aiau.connpass.com/event/369265"
-  },
-  {
-    "title": "Ryzen AI Max+ 395 で LLM 推論速度を比較",
-    "link": "https://zenn.dev/7shi/articles/20251017-amd-llm",
-    "pubDate": "Fri, 17 Oct 2025 14:12:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nAMD Ryzen AI Max+ 395 を搭載した EVO-X2 で、gpt-oss:20b を CPU/GPU/NPU で動作させて処理速度を比較します。\n!\n本記事は Claude Code の生成結果をベースに編集しました。\n\n\n 測定環境\n\n\nプロセッサ: AMD Ryzen AI Max+ 395（16コア）\n\nOS: Windows 11 Pro 24H2\n\nモデル: g"
-  },
-  {
     "title": "【非公式】AtCoder 言語アップデート 2024-2025 での変更点",
     "link": "https://qiita.com/punirunrun/items/9bbdb33ef03e9a3a5138?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-17T12:14:04.000Z",
     "source": "Qiita",
     "contentSnippet": "AtCoder 言語アップデート 2024-2025 での変更点をまとめました。\n使用できる言語等の詳細は Language Test 202505 の ルールのページ と、使用できる言語とライブラリの一覧 を見てください。\n各言語での書き方は、Language Test ..."
-  },
-  {
-    "title": "Claude Skillsを使ってみた - システムプロンプト的なカスタマイズが面白い",
-    "link": "https://zenn.dev/lnest_knowledge/articles/2912bc87bc83d5",
-    "pubDate": "Fri, 17 Oct 2025 09:41:40 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n最近、Claude（claude.ai）に「Skills」という機能が追加されました。これは、Claudeの動作をカスタマイズできる機能で、使ってみたところかなり便利だったので紹介します。\n一言で表すと、Claude Skillsはシステムプロンプトのようなものだと思います。特定のタスクに対して、Claudeの動作を事前に定義しておくことができます。\nこの記事では、実際にいくつかのスキル"
-  },
-  {
-    "title": "【ポケモン×Java】番外編 #1：ピカチュウって200種類おんねん～クラス～（Java・Python・JavaScript・Ruby）",
-    "link": "https://qiita.com/hitomin_poke/items/a31fc9e646a1cbcbe14a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T04:12:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "🎮 ピカチュウって200種類おんねん\nピカチュウにもいろんな種類がいるように\nプログラミング言語にもいろいろな種類があるのだが、\n\nプログラミングの基本的な概念である「クラス」を、\nJava・Python・JavaScript・Rubyの4つの言語で比較してみました！\n\n..."
   },
   {
     "title": "Playwright Agentsでテストの自動生成をやってみた",
@@ -175,25 +196,11 @@
     "contentSnippet": "Cloud Native Computing Foundation（CNCF）は、Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業（Graduation）プロジェクトになったことを発表しました。 Knative has officially graduated within CNCF!This milestone marks th"
   },
   {
-    "title": "いつでもVibe CordingしたいのでLINEとTauriでCodex CLIを遠隔操作する",
-    "link": "https://qiita.com/watanabe-tsubasa/items/5b1784e93484da784771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T15:26:46.000Z",
+    "title": "GitHub Copilotにプルリクエストを色々レビューさせて使い方を試してみた備忘録 in 2025",
+    "link": "https://qiita.com/hamkiti/items/cb6afdc6454dafa60a31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T12:45:27.000Z",
     "source": "Qiita",
-    "contentSnippet": "みなさんVibe CordingもといVibe Engineeringしてますか？\n私はもっぱらAI様にコードを書いてもらっています😅\nいつものように電車の中でCodex CLI使ってVibe Cordingしていたところ、自分で書かないなら別にPC持ち歩く必要なくね？と思..."
-  },
-  {
-    "title": "Bedrockのモデルアクセス有効化が不要に！ でもClaudeは初回のみ別操作が必要😣",
-    "link": "https://qiita.com/minorun365/items/7070a0206547cc6dc650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T13:47:07.000Z",
-    "source": "Qiita",
-    "contentSnippet": "モデルアクセスの有効化が不要になった！\nAWSの生成AIサービス、Amazon Bedrockで基盤モデルを利用開始する際に必要だった「モデルアクセスの有効化」作業が不要になりました！\n\nただし、一番人気のAnthropic社のモデル（Claudeシリーズ）だけは、引..."
-  },
-  {
-    "title": "Kubernetes本番運用で必ず実装すべきセキュリティ設定10選",
-    "link": "https://qiita.com/keitah/items/c25440de24eea858a24b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T09:44:07.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nKubernetesは現代のクラウドネイティブアプリケーション基盤として広く採用されていますが、その複雑さゆえにセキュリティの設定ミスが多発しています。\n衝撃的な統計データ（2025年）:\n\nテストされた全クラウド環境の**100%**に少なくとも1つの設定ミス..."
+    "contentSnippet": "春頃からGitHubでCopilotくんにプルリクエストをレビューさせる機能を実務で使えるようになったので、色々試してみた備忘録。\n\nレビュー依頼方法はプルリクエストを作成した後に、右側のサイドバーから、レビュアーにCopilotくんをアサインするだけ。簡単。\n\n英語..."
   },
   {
     "title": "⚠️ 初心者がハマりがちなインフラ構築の落とし穴10選（解説編）",
@@ -208,13 +215,6 @@
     "pubDate": "2025-10-16T08:11:23.000Z",
     "source": "Qiita",
     "contentSnippet": "目次\n\n1. はじめに\n2. 料金改定の概要\n3. 大事なこと①：モデルの単価・用途を理解しておく\n4. 大事なこと②：トークン使用量を把握する\n5. 頑張ったら追加料金無しで月に2000リクエストできる\n6. まとめ\n7. 参考記事\n\n1. はじめに\n2025年9月1..."
-  },
-  {
-    "title": "開発PMが読書を「武器」にするための思考トレーニング",
-    "link": "https://qiita.com/michiteru_suzuki/items/a277007a8cf7392e3be1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T05:16:43.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。\nmenu事業部で開発PMをしている鈴木です。\n十数年のSE、エンジニア職を経て今はPMとして働いていますが、日々PMという仕事の難しさに悩んでいます。そんなときに私が救いを求めるのが様々なビジネス書です。\nところが実際に本を読んで分かった気になっても、仕事に役..."
   },
   {
     "title": "JavaScriptランタイム「Bun 1.3」登場、CPUの無駄なアイドルを100分の1に、npmからのシームレスマイグレーションなど新機能",

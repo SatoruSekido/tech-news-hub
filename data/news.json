@@ -1,94 +1,87 @@
 [
   {
-    "title": "Drawing with CSS: Let the Chaos Commence!! (with Video)",
-    "link": "https://dev.to/alvaromontoro/drawing-with-css-let-the-chaos-commence-with-video-236g",
-    "pubDate": "Sun, 19 Oct 2025 12:42:48 +0000",
+    "title": "From HTTP1.1 to HTTP3: The Evolution of Web Communication",
+    "link": "https://dev.to/rijultp/from-http11-to-http3-the-evolution-of-web-communication-31mm",
+    "pubDate": "Sun, 19 Oct 2025 18:16:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This drawing originated from a conversation on social media (it is visible a few times at the beginning of the video). Sarah Frisk shared an animated GIF of a cute bunny with a joyful expression while"
+    "contentSnippet": "Whenever you open a website, your browser talks to a server to get the data it needs. This includes the web page, images, videos, and other files. The rules for this conversation are defined by a syst"
   },
   {
-    "title": "🤖 How to Build a Chatbot Using Python: A Complete Guide for Beginners and Experts",
-    "link": "https://dev.to/charan_gutti_cf60c6185074/how-to-build-a-chatbot-using-python-a-complete-guide-for-beginners-and-experts-4k7k",
-    "pubDate": "Sun, 19 Oct 2025 12:36:35 +0000",
+    "title": "🧩 Minha Primeira Comunicação com MCP e .NET – Parte 2",
+    "link": "https://dev.to/daniloopinheiro/minha-primeira-comunicacao-com-mcp-e-net-parte-2-262h",
+    "pubDate": "Sun, 19 Oct 2025 18:16:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Chatbots are everywhere — on websites, customer support portals, and even apps like WhatsApp and Telegram. Python, with its simplicity and rich ecosystem, makes building chatbots approachable for begi"
+    "contentSnippet": "Integração Completa com gRPC\n\n\n\nNesta segunda parte da série \"Minha Primeira Comunicação com MCP e .NET\", exploramos como realizar uma integração completa com gRPC, permitindo que o MCP (Model Context"
   },
   {
-    "title": "I’m bummed that DEV has no #ios, #swift, nor #swiftui catagories of tags. Without those I have no interest in DEV.",
-    "link": "https://dev.to/member_52432e24/im-bummed-that-dev-has-no-ios-swift-nor-swiftui-catagories-of-tags-without-those-i-have-no-57la",
-    "pubDate": "Sun, 19 Oct 2025 12:36:00 +0000",
+    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
+    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a",
+    "pubDate": "Sun, 19 Oct 2025 18:11:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "Beautiful new music making environment! (GRM Atelier) TL;DR\n\n\nAndrew Huang got an exclusive early look at GRM Tools Atelier and walks us through its standout global features, insane modulation system,"
   },
   {
-    "title": "Why Your RAG System is Failing: The Graph Database Secret That Boosted Our Retrieval Accuracy by 60%",
-    "link": "https://dev.to/suraj_khaitan_f893c243958/why-your-rag-system-is-failing-the-graph-database-secret-that-boosted-our-retrieval-accuracy-by-60-36d4",
-    "pubDate": "Sun, 19 Oct 2025 12:31:48 +0000",
+    "title": "COLORS: UMI | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-umi-a-colors-show-1798",
+    "pubDate": "Sun, 19 Oct 2025 18:11:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn the rapidly evolving landscape of Retrieval-Augmented Generation (RAG), enterprises are discovering that traditional vector search alone often falls short. While semantic similarity "
+    "contentSnippet": "Get ready to chill with UMI’s COLORS Show—Los Angeles’ own soothing songstress brings her ethereal voice and dreamy presence to a stripped-back, minimal stage for a truly spellbinding performance. Div"
   },
   {
-    "title": "How to optimize tube ice machine industrial standardization for better productivity?",
-    "link": "https://dev.to/hielotubo_connect/how-to-optimize-tube-ice-machine-industrial-standardization-for-better-productivity-1d13",
-    "pubDate": "Sun, 19 Oct 2025 12:30:39 +0000",
+    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3gik",
+    "pubDate": "Sun, 19 Oct 2025 18:11:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Optimizing Industry-Wide Standardization for Tube Ice Machines  \n\n\nOptimizing industry-wide standardization for tube ice machines is critical to enhancing productivity and reducing operational costs i"
+    "contentSnippet": "Indys Blu – “Saddest Song” on A COLORS SHOW\n\n\nNew Orleans singer Indys Blu brings raw emotion and poetic flair to her performance of “Saddest Song,” showcasing her powerhouse vocals and heartfelt lyri"
   },
   {
-    "title": "Story of Vox",
-    "link": "https://dev.to/jamie_davenport/story-of-vox-4dae",
-    "pubDate": "Sun, 19 Oct 2025 12:26:19 +0000",
+    "title": "COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4k88",
+    "pubDate": "Sun, 19 Oct 2025 18:10:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Read the original post here\nOver the years, I've used countless tools to collect user feedback—Canny, UserJot, and more. I even built a simple open-source feedback widget for Linear earlier this year,"
+    "contentSnippet": "Mississippi’s own Dear Silas lights up A COLORS SHOW with “Still Southern Playalistic,” blending crisp rap cadences and smooth trumpet jazz for an electrifying performance.\nStream the track, stalk his"
   },
   {
-    "title": "I'm building an open-source AI ATC for flight sims (and looking for like-minded devs)",
-    "link": "https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5",
-    "pubDate": "Sun, 19 Oct 2025 12:20:59 +0000",
+    "title": "KEXP: Jorja Smith - With You (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1aea",
+    "pubDate": "Sun, 19 Oct 2025 18:10:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've been flying and coding for a while, and always wondered why there's no open, offline-capable ATC system for flight simulators. So I started building one.\nIt's called OpenSquawk — an open-source A"
+    "contentSnippet": "Jorja Smith – “With You” (Live on KEXP)\n\n\nJorja Smith drops a gorgeous live rendition of “With You,” recorded in the KEXP studio on August 8, 2025, with guitarist Benjamin Totten laying down unforgett"
   },
   {
-    "title": "Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer",
-    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-15e8",
-    "pubDate": "Sun, 19 Oct 2025 12:17:15 +0000",
+    "title": "KEXP: Jorja Smith - The Way I Love You (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-56g8",
+    "pubDate": "Sun, 19 Oct 2025 18:10:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Diving Deep into Backend Development with Rust and Go: Insights from Web Developer Travis McCracken\nHello, fellow developers! I’m Travis McCracken, a passionate web developer with a keen interest in h"
+    "contentSnippet": "Jorja Smith turns the KEXP studio into a cozy space with her live take on “The Way I Love You.” Accompanied by Benjamin Totten’s gentle guitar licks, this August 8, 2025 session is all about intimacy "
   },
   {
-    "title": "Conversational Architecture with LLM Intelligence — SemanticCue v1",
-    "link": "https://dev.to/ganeshn/conversational-architecture-with-llm-intelligence-semanticcue-v1-2ak9",
-    "pubDate": "Sun, 19 Oct 2025 12:15:38 +0000",
+    "title": "KEXP: Jorja Smith - Try Me (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-14e8",
+    "pubDate": "Sun, 19 Oct 2025 18:10:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🗣️ Uncover Semantic Depth with Generative AI\n\n🧩 Powered by Semantic Context Infused in Responder Engines  \n🧭Scope\n🛠️ Tools Used\n🧬Layered Semantic Flow\nA visual snapshot of the responder architect"
+    "contentSnippet": "Jorja Smith – “Try Me” Live on KEXP\n\nOn August 8, 2025, Jorja Smith stopped by the KEXP studio for an intimate rendition of “Try Me,” backed by guitarist Benjamin Totten. Hosted by Larry Mizell Jr., t"
   },
   {
-    "title": "Migrating VMware Workloads from VMWare to AWS – A Smarter, Future-Ready Approach",
-    "link": "https://dev.to/kishore_karumanchi_acbc18/migrating-vmware-workloads-from-vmware-to-aws-a-smarter-future-ready-approach-4agd",
-    "pubDate": "Sun, 19 Oct 2025 12:15:24 +0000",
+    "title": "KEXP: Jorja Smith - Be Honest (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-5a89",
+    "pubDate": "Sun, 19 Oct 2025 18:10:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The enterprise virtualization landscape is undergoing a major transformation. With Broadcom’s acquisition of VMware, many organizations are reevaluating their data center strategies, licensing models,"
+    "contentSnippet": "Jorja Smith dropped a fresh live studio take on “Be Honest” at KEXP on August 8, 2025, backed by guitarist Benjamin Totten. Larry Mizell Jr. hosted the session, with Kevin Suggs on audio engineering a"
   },
   {
-    "title": "【論文解説】SelfPhish：学習データ不要、物理法則とGANで解く単一ホログラム位相回復の決定版",
-    "link": "https://zenn.dev/ai_academia/articles/9c1bbd9f480cf4",
-    "pubDate": "Sun, 19 Oct 2025 08:57:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "【論文解説】SelfPhish：学習データ不要、物理法則とGANで解く単一ホログラム位相回復の決定版\n\n\n 本レポートについて：AIドリブン・インテリジェンス\n\n本レポートは、最先端の論文を基に、AIアナリストが一次分析を行い、**アカデミア（AI研究）および実務（エンジニアリング）**の知見を持つ専門家が最終的な編集・監修を行っています。\n\n 導入：単一ホログラムからの位相回復、その究極解へ\n\n"
-  },
-  {
-    "title": "BiomeとTypeScriptで`any`型を完全に排除する実践ガイド",
-    "link": "https://zenn.dev/kazuma_horiike/articles/ec3302eb35bf5f",
-    "pubDate": "Sun, 19 Oct 2025 08:18:46 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TypeScriptでany型を使うことは、型システムの恩恵を放棄することに等しい。BiomeやTypeScriptの厳格な設定ではany型が禁止されるが、LLMやコーディングエージェントが生成するコードには頻繁にanyが含まれる。本記事では、any型を使わずに型安全なコードを書くための具体的な方法を、初心者から中級者向けに実践的なコード例とともに解説する。Airbnbの調査によれば、TypeSc"
+    "title": "シスコ、AIにセキュアなコードを生成させるためのルールセット「Project CodeGuard」をオープンソースで公開",
+    "link": "https://www.publickey1.jp/blog/25/aiproject_codeguard.html",
+    "pubDate": "2025-10-19T15:35:02.000Z",
+    "source": "Publickey",
+    "contentSnippet": "シスコシステムズは、AIコーディングツールを用いてコーディングを行う際に、生成されるコードが脆弱性を持たず安全なパターンを用いたものにするためのルールセットなどを備えた「Project CodeGuard」をオープンソースで公開しました。 Markdownで書かれたセキュリティルールなど Project CodeGuardは、コミュニティによって作成されたMarkdown形式で書かれたセキュリティ"
   },
   {
     "title": "UnityのアプリにLevelPlayで広告を実装する",
     "link": "https://zenn.dev/sysys/articles/5952759bb448e9",
     "pubDate": "Sun, 19 Oct 2025 06:01:32 GMT",
     "source": "Zenn",
-    "contentSnippet": "Unity LevelPlay 広告実装ガイド（2025年版）\n\n 概要\nUnity LevelPlayを使用した広告実装の手順を解説します。LevelPlay Mediation 9.0.0に対応した実装方法を紹介します。\n\n 対応広告フォーマット\n\n\nRewarded Video（リワード動画広告）\n\nInterstitial（全画面広告）\n\nBanner（バナー広告）\n\n\n 必要なもの\n\nU"
+    "contentSnippet": "Unity LevelPlay 広告実装ガイド（2025年版）\n\n 概要\nUnity LevelPlayを使用した広告実装の手順を解説します。LevelPlay Mediation 9.0.0に対応した実装方法を紹介します。今回はリワード広告のみのテストになります。\n\n 必要なもの(私の環境)\n\nUnity 2021.3 以降推奨\nLevelPlay アカウント\niOS: Xcode 14.0 以"
   },
   {
     "title": "【MotionBuilder】UnboundWrapper とエラー対策",
@@ -105,11 +98,25 @@
     "contentSnippet": "この文章は、Slava Akhmechet氏の書いたブログ・エントリHow to send progress updatesを日本語に翻訳した文章です\n本人から翻訳の許可をいただき、翻訳を行いました\n良質な文章を紹介できる機会をもらえたことを、この場で感謝します\n\n\n価値のある仕事をしていると、遅かれ早かれ人々は興味を持ち、進捗状況の報告を求めるようになる。進捗報告のやり方は、四半期ごとの投資家向"
   },
   {
+    "title": "【図解】ゼロ知識証明のPLONKとは？Groth16との違いを世界一わかりやすく解説！",
+    "link": "https://zenn.dev/mashharuki/articles/zk_groth16-plonk",
+    "pubDate": "Sun, 19 Oct 2025 02:53:45 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「ゼロ知識証明（Zero-Knowledge Proof, ZKP）」という言葉を耳にしたことはありますか？ 🤔\nWeb3やブロックチェーンの世界で、プライバシー保護やスケーラビリティ問題※を解決する魔法の技術として、今大きな注目を集めています。\n\nスケーラビリティ問題\nブロックチェーンの利用者が増えることで、取引の処理が遅れたり手数料が高騰したりする問題のこと。\n\nゼロ知識証明には様"
+  },
+  {
     "title": "AIに指示するだけ！Web専門知識を引き出し「デジタルサイネージ」HTMLを生成するツールを開発した話",
     "link": "https://zenn.dev/hosoyayusaku/articles/a2043207c38f54",
     "pubDate": "Sat, 18 Oct 2025 16:11:36 GMT",
     "source": "Zenn",
     "contentSnippet": "🎯 この記事の対象読者\n\n\n自治体・公共機関の職員さん（特に広報やDX担当の方）\n情報周知・広報資材づくりに「時間が溶けてる…」と感じている方\nWebの専門知識はないけど、AIを使って何か便利なものを作ってみたい方\nGoogle Colab でサクッと動くツールに興味があるエンジニア\n\n\n 💡 この記事を読むと得られること\n\nGoogle Colab と Python (ipywidgets)"
+  },
+  {
+    "title": "AWS BedrockでAthenaを操作する分析AIエージェントを作ってみた",
+    "link": "https://zenn.dev/keijipoon/articles/bedrock-athena-agent",
+    "pubDate": "Sat, 18 Oct 2025 14:57:58 GMT",
+    "source": "Zenn",
+    "contentSnippet": "🎯 はじめに\nAWS Bedrock で Claude モデル（Claude 3 Sonnet）が利用可能になったので、\nAthena を経由してオープンデータを分析する「AIデータアナリストエージェント」を構築してみました。\n\nClaude が自動で SQL を生成し、Athena でクエリを実行、結果を自然文で要約して返す構成です。\n\n\n\n 🗺 構成概要\n\n\nBedrock (Claude"
   },
   {
     "title": "iOS ファーストな CMS をショートカットで構築する",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-08T15:04:16.000Z",
     "source": "Publickey",
     "contentSnippet": "代表的なJavaScriptライブラリのひとつとして知られる「React」の開発チームは、ReactやReact Nativeなどの開発を主導する新たな独立組織「React Foundation」の設立を発表しました。 設立時の企業メンバーにはMeta、マイクロソフト、Vercel、Amazon Developerなどが名前を連ねています。 もともとMeta/Facebookが開発したReact "
-  },
-  {
-    "title": "「State of JavaScript 2025」の投票がスタート、仕事や趣味でJavaScriptを使っている人は誰でも回答可能",
-    "link": "https://www.publickey1.jp/blog/25/state_of_javascript_2025javascript.html",
-    "pubDate": "2025-10-08T15:00:57.000Z",
-    "source": "Publickey",
-    "contentSnippet": "JavaScriptに興味を持つ世界中のIT技術者からの回答を集め、結果を発表している「State of JavaScript」の投票が今年も始まりました。 回答はJavaScriptを仕事で使っている人、趣味で使っている人など誰でも回答可能。 昨年行われたState of JavaScript 2024では、約1万4000人のIT技術者が回答しており、そのうち日本からの回答は150人（1％）でし"
   }
 ]

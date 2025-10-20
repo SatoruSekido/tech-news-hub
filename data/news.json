@@ -1,73 +1,80 @@
 [
   {
-    "title": "Deploy a Next.js app to an Infomaniak Ubuntu VPS",
-    "link": "https://dev.to/julienbrg/deploy-a-nextjs-app-to-an-infomaniak-ubuntu-vps-2nod",
-    "pubDate": "Mon, 20 Oct 2025 12:51:06 +0000",
+    "title": "ReactJS Day 2025: TanStack Start & Real World Experiences",
+    "link": "https://dev.to/this-is-learning/reactjs-day-2025-tanstack-start-real-world-experiences-16b9",
+    "pubDate": "Mon, 20 Oct 2025 18:32:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This guide walks you through deploying a Next.js application to an Infomaniak Ubuntu VPS with automatic CI/CD using GitHub Actions.\nA domain name with DNS access\nA GitHub account\nVS Code installed on "
+    "contentSnippet": "When I'm writing this I'm still on the train back from ReactJSDay, the largest conference on ReactJS in Italy, reflecting on something that happened from the audience.\nI gave my talk about TanStack St"
   },
   {
-    "title": "Application Security with AI SAST: How AI SAST is making the Future Proactive",
-    "link": "https://dev.to/clouddefenseai/application-security-with-ai-sast-how-ai-sast-is-making-the-future-proactive-a2b",
-    "pubDate": "Mon, 20 Oct 2025 12:50:21 +0000",
+    "title": "What I’ve Learned About Enterprise Development in 15 Years",
+    "link": "https://dev.to/nigel_t/what-ive-learned-about-enterprise-development-in-15-years-2bap",
+    "pubDate": "Mon, 20 Oct 2025 18:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s rapidly evolving software development landscape, speed and agility are at the core of modern innovation. However, as organizations embrace AI-assisted coding and continuous integration/cont"
+    "contentSnippet": "I started in enterprise development believing technology was the answer. Fifteen years later I know it’s rarely the first one. I’ve worked with hundreds of clients and built thousands of systems. The "
   },
   {
-    "title": "DevCaliber: Redefining Technical Hiring with Auth0 Authenticated AI Agents and Verified GitHub Talent",
-    "link": "https://dev.to/divyasinghdev/devcaliber-redefining-technical-hiring-with-auth0-authenticated-ai-agents-and-verified-github-39p7",
-    "pubDate": "Mon, 20 Oct 2025 12:45:20 +0000",
+    "title": "🧭 From QA Engineer to Mentor: What I’ve Learned Through ADPList",
+    "link": "https://dev.to/dasha_tsion_31379cfb51dd7/from-qa-engineer-to-mentor-what-ive-learned-through-adplist-5fpf",
+    "pubDate": "Mon, 20 Oct 2025 18:25:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the Auth0 for AI Agents Challenge\nWhat I Built\n\n\n\n  \n  \n  Project Overview\n\n\nDevCaliber is a secure technical talent platform that aims to revolutionize skills-based hiring th"
+    "contentSnippet": "When I joined ADPList as a mentor, I didn’t expect how much I’d learn from my mentees.\n\nOver first sessions, I’ve talked to developers, automation engineers, and other leaders from all over the world "
   },
   {
-    "title": "Turn Google Docs Into an AI Agent Hub: Integrate ADK Agents in Google Workspace",
-    "link": "https://dev.to/aryanirani123/turn-google-docs-into-an-ai-agent-hub-integrate-adk-agents-in-google-workspace-4l6e",
-    "pubDate": "Mon, 20 Oct 2025 12:41:31 +0000",
+    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
+    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3an5",
+    "pubDate": "Mon, 20 Oct 2025 18:12:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Series Roadmap:\nPart 1: Build Your First ADK Agent \nPart 2: Deploy an ADK Agent to Vertex AI Agent Engine\nPart 3: Integrate into Google Docs (You're here!)\nWelcome back to the final part of our three-"
+    "contentSnippet": "Beautiful new music making environment! (GRM Atelier)\n\n\nAndrew Huang gets an early peek at GRM Tools Atelier, a sleek, modular music-making environment packed with global processing features and a min"
   },
   {
-    "title": "Agentic Workflows inside Google Workspace: Build a Google Docs Agent with ADK",
-    "link": "https://dev.to/aryanirani123/agentic-workflows-inside-google-workspace-build-a-google-docs-agent-with-adk-56dc",
-    "pubDate": "Mon, 20 Oct 2025 12:41:28 +0000",
+    "title": "Andrew Huang: Using a vocal generator very wrong",
+    "link": "https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-568d",
+    "pubDate": "Mon, 20 Oct 2025 18:12:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome ! \nGoogle Workspace is where work happens. From drafting reports in Docs to crunching data in Sheets and collaborating in Gmail and Meet - it's the daily home for millions of teams. It's where"
-  },
-  {
-    "title": "How to Deploy ADK Agents to Vertex AI Agent Engine",
-    "link": "https://dev.to/aryanirani123/how-to-deploy-adk-agents-to-vertex-ai-agent-engine-447g",
-    "pubDate": "Mon, 20 Oct 2025 12:41:23 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Series Roadmap:\nPart 1: Build Your First ADK Agent\nPart 2: Deploy an ADK Agent to Vertex AI Agent Engine (You're here!)\nPart 3: Integrate into Google Docs\nWelcome ! \nIn Part 1, we built a powerful AI "
-  },
-  {
-    "title": "Spring WebFlux: When to Use It and How to Build With It",
-    "link": "https://dev.to/adamthedeveloper/spring-webflux-when-to-use-it-and-how-to-build-with-it-5a6e",
-    "pubDate": "Mon, 20 Oct 2025 12:33:20 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Spring WebFlux promises to handle thousands of concurrent users while your code stays blissfully non-blocking. Sounds great, right?\nPlot twist: it comes with a complexity tax, debugging becomes an arc"
-  },
-  {
-    "title": "Build a Cursor-like AI Coding Assistant",
-    "link": "https://dev.to/kadir_pekel_3277e6819e5b9/build-a-cursor-like-ai-coding-assistant-278o",
-    "pubDate": "Mon, 20 Oct 2025 12:30:47 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Hey Devs,\nIf you’ve ever wanted to build AI assistants that can talk to each other or orchestrate complex tasks without tons of boilerplate, I’ve put together a short tutorial called: Build a Cursor-l"
-  },
-  {
-    "title": "COLORS: UMI | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-umi-a-colors-show-329n",
-    "pubDate": "Mon, 20 Oct 2025 12:22:27 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "UMI, a Los Angeles–based artist with a soothing presence and ethereal voice, takes the stage on A COLORS SHOW for a spellbinding performance. Catch her vibes on TikTok and Instagram, then stream the f"
+    "contentSnippet": "Andrew Huang’s video Using a Vocal Generator Very Wrong teams up with Voice by Auribus for a hilarious deep dive into AI vocals gone rogue. He experiments with everything from turning instruments into"
   },
   {
     "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5hg7",
-    "pubDate": "Mon, 20 Oct 2025 12:22:16 +0000",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a9i",
+    "pubDate": "Mon, 20 Oct 2025 18:11:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indys Blu, hailing from New Orleans, delivers a stirring and heart-wrenching rendition of her single “Saddest Song” on A COLORS SHOW. With poetic lyrics and raw vocals front and center against a minim"
+    "contentSnippet": "Indys Blu pours her New Orleans soul into a heart-tugging rendition of her single “Saddest Song” on A COLORS SHOW, weaving poetic lyrics with raw, emotional vocals.\nCatch the full performance on COLOR"
+  },
+  {
+    "title": "COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5213",
+    "pubDate": "Mon, 20 Oct 2025 18:11:39 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Dear Silas brings some serious southern flair to the COLORS stage, fusing his crisp rap flow with jazzy trumpet riffs on his latest single, Still Southern Playalistic. The Mississippi native’s perform"
+  },
+  {
+    "title": "KEXP: Car Seat Headrest - The Catastrophe (Good Luck With That, Man) (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-2g7l",
+    "pubDate": "Mon, 20 Oct 2025 18:11:25 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Car Seat Headrest tore into “The Catastrophe (Good Luck With That, Man)” live at KEXP on August 22, 2025, with Will Toledo on vocals and guitar, Ethan Ives on guitar and vocals, Andrew Katz on drums a"
+  },
+  {
+    "title": "KEXP: Adrian Quesada - El Muchacho De Los Ojos Tristes (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-adrian-quesada-el-muchacho-de-los-ojos-tristes-live-on-kexp-5gil",
+    "pubDate": "Mon, 20 Oct 2025 18:11:15 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Adrian Quesada rolls into the KEXP studio for a live take on “El Muchacho De Los Ojos Tristes,” featuring vocals and acoustic guitar from Gaby Moreno. Backed by Joshy Soul on keys, Jay Mumford on drum"
+  },
+  {
+    "title": "KEXP: Adrian Quesada - Hoy Que Llueve (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-adrian-quesada-hoy-que-llueve-live-on-kexp-4la7",
+    "pubDate": "Mon, 20 Oct 2025 18:11:05 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Adrian Quesada rolled into the KEXP studio on September 2, 2025, to lay down a live take of “Hoy Que Llueve,” featuring Trish Toledo’s vocals alongside Gabby Moreno and Angelica Garcia. Backed by Josh"
+  },
+  {
+    "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",
+    "link": "https://www.publickey1.jp/blog/25/webviteaiviteagent_mode.html",
+    "pubDate": "2025-10-20T15:20:25.000Z",
+    "source": "Publickey",
+    "contentSnippet": "オープンソースのWebアプリケーションビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているvoid(0)（VoidZero：ボイドゼロ）は、Viteをベースとした統合開発ツールチェーン「Vite+」を発表しました。 The Unified Toolchain for the WebWe are thrilled to announce Vite+: A unified, Rust-p"
   },
   {
     "title": "Cortex Analyst と Streamlit を用いた Text2SQL アプリ作成",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-08T15:05:27.000Z",
     "source": "Publickey",
     "contentSnippet": "Arcブラウザで知られるThe Browser Companyが新たに開発しているブラウザ「Diaブラウザ」が正式版となり、誰でもダウンロード可能となりました。 macOS 14以降のOSおよびM1チップ以降のプロセッサを搭載したMacで利用可能です。 Less invites, more ships.Dia is now open to everyone on macOS.Download no"
-  },
-  {
-    "title": "「React Foundation」をメタ、マイクロソフト、Vercelらが設立へ。ReactやReact Nativeの中立的な開発主体として",
-    "link": "https://www.publickey1.jp/blog/25/react_foundationvercelreactreact_native.html",
-    "pubDate": "2025-10-08T15:04:16.000Z",
-    "source": "Publickey",
-    "contentSnippet": "代表的なJavaScriptライブラリのひとつとして知られる「React」の開発チームは、ReactやReact Nativeなどの開発を主導する新たな独立組織「React Foundation」の設立を発表しました。 設立時の企業メンバーにはMeta、マイクロソフト、Vercel、Amazon Developerなどが名前を連ねています。 もともとMeta/Facebookが開発したReact "
   }
 ]

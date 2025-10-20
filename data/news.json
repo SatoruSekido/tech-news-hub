@@ -1,73 +1,150 @@
 [
   {
-    "title": "Data Engineering 102: Understanding Transactions, ACID, and Isolation in PostgreSQL",
-    "link": "https://dev.to/sajjadrahman56/data-engineering-102-understanding-transactions-acid-and-isolation-in-postgresql-2l60",
-    "pubDate": "Mon, 20 Oct 2025 06:16:02 +0000",
+    "title": "Deploy a Next.js app to an Infomaniak Ubuntu VPS",
+    "link": "https://dev.to/julienbrg/deploy-a-nextjs-app-to-an-infomaniak-ubuntu-vps-2nod",
+    "pubDate": "Mon, 20 Oct 2025 12:51:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Power of Transactions & ACID . Before a Data Engineer can design reliable data systems or move petabytes through ETL pipelines, one question always echoes:\n💭 How does a database keep data accurat"
+    "contentSnippet": "This guide walks you through deploying a Next.js application to an Infomaniak Ubuntu VPS with automatic CI/CD using GitHub Actions.\nA domain name with DNS access\nA GitHub account\nVS Code installed on "
   },
   {
-    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2",
-    "pubDate": "Mon, 20 Oct 2025 06:11:42 +0000",
+    "title": "Application Security with AI SAST: How AI SAST is making the Future Proactive",
+    "link": "https://dev.to/clouddefenseai/application-security-with-ai-sast-how-ai-sast-is-making-the-future-proactive-a2b",
+    "pubDate": "Mon, 20 Oct 2025 12:50:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Beautiful new music-making playground: Andrew Huang dives into GRM Tools Atelier, showing off its fresh global-centric workflow, slick modulation system, and a suite of wild audio generators and proce"
+    "contentSnippet": "In today’s rapidly evolving software development landscape, speed and agility are at the core of modern innovation. However, as organizations embrace AI-assisted coding and continuous integration/cont"
+  },
+  {
+    "title": "DevCaliber: Redefining Technical Hiring with Auth0 Authenticated AI Agents and Verified GitHub Talent",
+    "link": "https://dev.to/divyasinghdev/devcaliber-redefining-technical-hiring-with-auth0-authenticated-ai-agents-and-verified-github-39p7",
+    "pubDate": "Mon, 20 Oct 2025 12:45:20 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "This is a submission for the Auth0 for AI Agents Challenge\nWhat I Built\n\n\n\n  \n  \n  Project Overview\n\n\nDevCaliber is a secure technical talent platform that aims to revolutionize skills-based hiring th"
+  },
+  {
+    "title": "Turn Google Docs Into an AI Agent Hub: Integrate ADK Agents in Google Workspace",
+    "link": "https://dev.to/aryanirani123/turn-google-docs-into-an-ai-agent-hub-integrate-adk-agents-in-google-workspace-4l6e",
+    "pubDate": "Mon, 20 Oct 2025 12:41:31 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Series Roadmap:\nPart 1: Build Your First ADK Agent \nPart 2: Deploy an ADK Agent to Vertex AI Agent Engine\nPart 3: Integrate into Google Docs (You're here!)\nWelcome back to the final part of our three-"
+  },
+  {
+    "title": "Agentic Workflows inside Google Workspace: Build a Google Docs Agent with ADK",
+    "link": "https://dev.to/aryanirani123/agentic-workflows-inside-google-workspace-build-a-google-docs-agent-with-adk-56dc",
+    "pubDate": "Mon, 20 Oct 2025 12:41:28 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Welcome ! \nGoogle Workspace is where work happens. From drafting reports in Docs to crunching data in Sheets and collaborating in Gmail and Meet - it's the daily home for millions of teams. It's where"
+  },
+  {
+    "title": "How to Deploy ADK Agents to Vertex AI Agent Engine",
+    "link": "https://dev.to/aryanirani123/how-to-deploy-adk-agents-to-vertex-ai-agent-engine-447g",
+    "pubDate": "Mon, 20 Oct 2025 12:41:23 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Series Roadmap:\nPart 1: Build Your First ADK Agent\nPart 2: Deploy an ADK Agent to Vertex AI Agent Engine (You're here!)\nPart 3: Integrate into Google Docs\nWelcome ! \nIn Part 1, we built a powerful AI "
+  },
+  {
+    "title": "Spring WebFlux: When to Use It and How to Build With It",
+    "link": "https://dev.to/adamthedeveloper/spring-webflux-when-to-use-it-and-how-to-build-with-it-5a6e",
+    "pubDate": "Mon, 20 Oct 2025 12:33:20 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Spring WebFlux promises to handle thousands of concurrent users while your code stays blissfully non-blocking. Sounds great, right?\nPlot twist: it comes with a complexity tax, debugging becomes an arc"
+  },
+  {
+    "title": "Build a Cursor-like AI Coding Assistant",
+    "link": "https://dev.to/kadir_pekel_3277e6819e5b9/build-a-cursor-like-ai-coding-assistant-278o",
+    "pubDate": "Mon, 20 Oct 2025 12:30:47 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Hey Devs,\nIf you’ve ever wanted to build AI assistants that can talk to each other or orchestrate complex tasks without tons of boilerplate, I’ve put together a short tutorial called: Build a Cursor-l"
   },
   {
     "title": "COLORS: UMI | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm",
-    "pubDate": "Mon, 20 Oct 2025 06:11:34 +0000",
+    "link": "https://dev.to/music_youtube/colors-umi-a-colors-show-329n",
+    "pubDate": "Mon, 20 Oct 2025 12:22:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "UMI | A COLORS SHOW\n\n\nLos Angeles–based artist UMI (@WHOISUMI) steps onto the minimalist COLORS stage with her soothing presence and ethereal vocals, delivering a truly spellbinding performance that l"
-  },
-  {
-    "title": "3 Best AI UGC Ad Generators of 2025",
-    "link": "https://dev.to/artturijalli/3-best-ai-ugc-ad-generators-of-2025-lco",
-    "pubDate": "Mon, 20 Oct 2025 06:11:33 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "I tested a bunch of AI UGC ad generators for a few days.\nMost of them turned out to be either overhyped or just plain bad. But a few stood out and actually worked well.\nIn this post, I’ll show you the"
+    "contentSnippet": "UMI, a Los Angeles–based artist with a soothing presence and ethereal voice, takes the stage on A COLORS SHOW for a spellbinding performance. Catch her vibes on TikTok and Instagram, then stream the f"
   },
   {
     "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-n2p",
-    "pubDate": "Mon, 20 Oct 2025 06:11:25 +0000",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5hg7",
+    "pubDate": "Mon, 20 Oct 2025 12:22:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indys Blu brings the feels in her COLORS Show debut, delivering her single “Saddest Song” with raw, poetic heartbreak straight from New Orleans. Her stirring vocals and honest lyrics shine against the"
+    "contentSnippet": "Indys Blu, hailing from New Orleans, delivers a stirring and heart-wrenching rendition of her single “Saddest Song” on A COLORS SHOW. With poetic lyrics and raw vocals front and center against a minim"
   },
   {
-    "title": "Generate a Complete Tech Spec in 5 Minutes: The Small Team's Playbook for a Fast Project Kickoff",
-    "link": "https://dev.to/crevo_team/generate-a-complete-tech-spec-in-5-minutes-the-small-teams-playbook-for-a-fast-project-kickoff-31jd",
-    "pubDate": "Mon, 20 Oct 2025 06:11:11 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "While Everyone Else Is Stuck Agonizing Over PRDs, Smart Teams Are Already Shipping Code\nI. The Small Team's Documentation Dilemma: Where Did All the Time Go?\n\n\nAs a product manager or tech lead on a s"
+    "title": "Cortex Analyst と Streamlit を用いた Text2SQL アプリ作成",
+    "link": "https://zenn.dev/chihilong/articles/text2sql-app-cortex-analyst-streamlit",
+    "pubDate": "Mon, 20 Oct 2025 05:13:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "記事の概要\nこんにちは。シンプルフォーム株式会社でインターンをしています、長井です。\nこの記事では、Cortex Analyst [1] を用いたチャットアプリケーションを Streamlit [2] で構築した事例を紹介します。具体的には本アプリケーションで実装した以下の機能を説明します。\n\nチャット機能\n\nチャット\nリクエスト数のカウント\nSemantic View の選択\n直前までの質問を参"
   },
   {
-    "title": "KEXP: Jorja Smith - With You (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1jcn",
-    "pubDate": "Mon, 20 Oct 2025 06:11:08 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Jorja Smith brings her soulful vibes to KEXP’s Seattle studio, laying down a captivating live take on “With You” (recorded August 8, 2025). Backed by guitarist Benjamin Totten, she’s guided through th"
+    "title": "【mysql2】queryとexecuteの使い分け",
+    "link": "https://qiita.com/tomonari_09/items/30f6731e580f98989afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T04:59:28.000Z",
+    "source": "Qiita",
+    "contentSnippet": "初めに\nみなさんはmysql2を使ったことがありますか？Node.js上でMySQLに接続する際のクライアントライブラリとして、mysql2が主要な選択肢の一つだと思います。その際に、SQL文を実行するときのquery関数とexecute関数の使い分けが曖昧だったので整理..."
   },
   {
-    "title": "KEXP: Jorja Smith - The Way I Love You (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-cco",
-    "pubDate": "Mon, 20 Oct 2025 06:10:58 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Jorja Smith drops a soulful, stripped-back version of “The Way I Love You” live at KEXP’s Seattle studio (August 8, 2025), with Benjamin Totten laying down the perfect guitar vibes and host Larry Mize"
+    "title": "LLMの責務を最小化する設計 — Claude Codeの中身は50代のベテランエンジニアかもしれない件",
+    "link": "https://zenn.dev/sogab3/articles/fbf0230234ffe1",
+    "pubDate": "Mon, 20 Oct 2025 02:59:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TL;DR\n本記事は、著者自身の振り返りとClaude Codeの分析を通して得た気づきを共有するものです。要点は下記です：\n\nDeep Learning時代のEnd-to-End学習の成功体験が、汎用LLM時代では逆に足かせになっているのではないか\n汎用性が高すぎるLLMには、むしろ古典的な設計原則（SOLID、関心の分離）が必要\n\nClaude Codeの成功には、LLMの責務を最小化し従来の"
   },
   {
-    "title": "KEXP: Jorja Smith - Try Me (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-2i0c",
-    "pubDate": "Mon, 20 Oct 2025 06:10:50 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Jorja Smith drops a live-in-the-studio take on “Try Me” for KEXP, recorded August 8, 2025, with Benjamin Totten shredding on guitar and Larry Mizell Jr. hosting the session.\nBehind the scenes, Kevin S"
+    "title": "2025/10/20時点で最良のAIコーディングプロセス",
+    "link": "https://zenn.dev/erukiti/articles/2510-ai-coding",
+    "pubDate": "Mon, 20 Oct 2025 02:09:26 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年10月20日の僕が考えるAIコーディング（バイブコーディング）プロセスです。\n個人的な結論としては、1ミリでも気に食わないコードを生成してきたら、そのタスクは最終的には破棄すべきというものです。「このコード気に食わない」「この設計気に食わない」の直感がAIコーディングで品質を維持する生命線です。\n\n\nバイブコーディング時代ではコードレビューのお局ビリティが鍵です。\nレビューに全時間を割こ"
   },
   {
-    "title": "KEXP: Jorja Smith - Be Honest (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-4bho",
-    "pubDate": "Mon, 20 Oct 2025 06:10:42 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Jorja Smith – “Be Honest” (Live on KEXP)\n\nOn August  8, 2025, Jorja Smith dropped a soulful live rendition of “Be Honest” in the KEXP studio, backed by guitarist Benjamin Totten and hosted by Larry Mi"
+    "title": "なぜResult型ライブラリを再発明したのか",
+    "link": "https://zenn.dev/praha/articles/9d24390b869499",
+    "pubDate": "Mon, 20 Oct 2025 02:00:19 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nTypeScriptでエラーハンドリングを型安全に行いたいと考えたとき、皆さんはどのようなアプローチを取るでしょうか。\nJavaScript/TypeScriptの標準的なエラーハンドリング手法であるtry/catchは、型安全性に欠け、エラーが発生する可能性のあるコードを追跡するのが難しいという問題があります。\nそんな課題を解決するために、よく用いられるのがResult型を用いたエラー"
+  },
+  {
+    "title": "2025年版 スタートアップエンジニアが考えるWebアプリの技術選定",
+    "link": "https://zenn.dev/m_noto/articles/5e4c9f705f500b",
+    "pubDate": "Mon, 20 Oct 2025 01:30:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめまして、_minoです！\nこの記事では、最近公開されたムーザルちゃんねるさんの動画「2025年版「Webアプリ作るなら技術どれにする？」」を見て、私も今年を振り返り採用してよかった技術や、トレンドから見た来年以降流行りそうな技術についてまとめました。\n「その技術いいよね！」「この技術よかった!」などのご意見がありましたら、コメントで教えていただけると嬉しいです!\n!\n筆者がフロントエンドメイ"
+  },
+  {
+    "title": "containerlab × FRRoutingで実現！BGP冗長化シナリオと自動経路切り替え 実験レシピ",
+    "link": "https://qiita.com/ntaka329/items/1a4291591dc63a55a05c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T00:02:58.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n前回の記事を投稿したところ、暗号のおねえさん から「一般的なご家庭なら経路冗長化するよね！」と素敵なコメントがありました。\n確かに、お家では経路の冗長化は必須ですね！ということで、今回はBGPの冗長構成について試してみます。\nPrim..."
+  },
+  {
+    "title": "ReActを使ったAIエージェントによる自律的ワークフローをOracle DBの機能だけで実装してみた (26ai Select AI Agent)",
+    "link": "https://qiita.com/ssfujita/items/80454001845fa1493495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-19T23:32:56.000Z",
+    "source": "Qiita",
+    "contentSnippet": "先日のOracle AI World開催に合わせて、Autonomous AI Database 26ai (旧Autonomous Database 23ai) に「Select AI Agent」という機能が追加されました。\n詳細は下記アナウンスをご参照ください。\n\n..."
+  },
+  {
+    "title": "Trocco の運用を Terraform 管理に変えてみた",
+    "link": "https://zenn.dev/medley/articles/a68e98452e1adf",
+    "pubDate": "Sun, 19 Oct 2025 23:23:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは、メドレーでデータエンジニアをしている山邉（@beniyama）です。\n先日、弊社で利用中の Trocco についてこちらの記事を寄稿させていただきましたが、今後の展望として以下を挙げていました。\n\n上述の通り段々と規模が大きくなってきて GUI での管理が大変になってきているため、API や Terraform 経由でのプロビジョニングも生成 AI を絡めて試していきたいです"
+  },
+  {
+    "title": "GitHub Copilot Coding Agent に実装を任せて、作業を並行化する",
+    "link": "https://zenn.dev/shintaro/articles/48c0abd59a6088",
+    "pubDate": "Sun, 19 Oct 2025 22:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "GitHub Copilot Coding Agent とは\nGitHub Copilot Coding Agent は、GitHub が提供する Copilot 関連機能のひとつで、開発者の指示に応じて コードの変更や Pull Request（PR） の作成を自動で実行する自律エージェント です。\nhttps://docs.github.com/ja/copilot/concepts/agen"
+  },
+  {
+    "title": "自分用 LLMコーディングエージェント ノウハウまとめ 2025年10月版",
+    "link": "https://zenn.dev/engawawa/articles/8936c60d13bafd",
+    "pubDate": "Sun, 19 Oct 2025 17:29:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "■ はじめに\n\n色々情報拾ったり使ってみたりでなんとなく上手く使えてきたので現時点のノウハウをまとめる\nCLIで利用できるツールに関して主に取り扱う\n\nissueやPRでの運用は反復コストが思ったより大きくてあまりしていない\n\n\nLLMそのものの仕組みには特に触れず、ツールとしての使い方にフォーカスしている\n\n!\n自分なりの整理と共有用なので最新かつベストなやり方とは限らないので注意。\nまた、調べ"
   },
   {
     "title": "シスコ、AIにセキュアなコードを生成させるためのルールセット「Project CodeGuard」をオープンソースで公開",
@@ -77,6 +154,13 @@
     "contentSnippet": "シスコシステムズは、AIコーディングツールを用いてコーディングを行う際に、生成されるコードが脆弱性を持たず安全なパターンを用いたものにするためのルールセットなどを備えた「Project CodeGuard」をオープンソースで公開しました。 Markdownで書かれたセキュリティルールなど Project CodeGuardは、コミュニティによって作成されたMarkdown形式で書かれたセキュリティ"
   },
   {
+    "title": "【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由",
+    "link": "https://zenn.dev/bmth/articles/interface-props-extends",
+    "pubDate": "Sun, 19 Oct 2025 15:32:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nTypeScriptでコンポーネントのPropsやオブジェクトの型を定義するとき、typeとinterfaceのどちらを使うべきか、一度は悩んだことがあるのではないでしょうか。\n巷では「どちらでも良い」「チームで統一されていればOK」といった意見もよく見かけます。\nしかし、私は 明確な理由をもって「基本的にはinterfaceを使うべき」 だと主張します。\nこの記事では私の実体験で遭遇し"
+  },
+  {
     "title": "Private Link Serviceの新機能 Direct Connectを試してみた🚀",
     "link": "https://zenn.dev/mrt/articles/dd9f87f8aadd42",
     "pubDate": "Sun, 19 Oct 2025 13:22:39 GMT",
@@ -84,18 +168,18 @@
     "contentSnippet": "はじめに\n2025/10にPrivate Link ServiceのDirect Connect機能がPreview提供されました🎉\n実際に試してみながら、今回のアップデートを解説してみます！\n\n Private Link Serviceとは\nPrivate Link Serviceとは、独自のアプリを利用者側のVNetからアクセスできるように公開するための仕組みです。\n\nアプリの提供者（Pro"
   },
   {
-    "title": "いきなりログイン画面を見せて11%のユーザーを失ったわけ",
-    "link": "https://zenn.dev/kontaco/articles/16ccc2e51d7a4c",
-    "pubDate": "Sun, 19 Oct 2025 11:17:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "個人開発でアプリをリリースした後、インストールされたものの新規登録せずにログインを試みて離脱するユーザーが一定数いることに気づきました。\n子供向け画像認識学習アプリ「KORENANI」を開発する中で、いきなりログイン画面を表示したことで、約11%のユーザーを初回起動時に失っていました。\nなぜこの設計がユーザーを迷わせたのか、理由を分析して改善を試みた話を共有します。母数が少ない（n=96）ので、「"
-  },
-  {
     "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",
     "link": "https://qiita.com/y-keiyu/items/86a75714a4f14d484c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-19T10:56:47.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nJISOUで学習しているHeyho-です。\nReactの学習の一環として、個人アプリのアイデア出しからMVP作成、そしてアプリ開発までを行いました。\n約1ヶ月という限られた期間で、「0から1を作る」という初めての経験を通じて、多くの学びと気づきを得ることができま..."
+  },
+  {
+    "title": "【Next.js】Next.jsでQiita + microCMSを連携した技術ブログアプリを作りました",
+    "link": "https://qiita.com/nagi-0106/items/b98a918affeb899da1bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-19T10:05:40.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは。\nNext.jsの学習の一環として、Next.jsを用いた外部サービスのAPIを利用した技術ブログを作成しました。\n今回の記事では、ブログアプリを作った上で気づいた点や学びになった点を言語化していければと思います。\n\n作ったもの\n個人記事としてQiitaの記事を..."
   },
   {
     "title": "【Next.js】MediaRecorder APIとWhisper APIで音声メモアプリを作ってみた",
@@ -119,34 +203,6 @@
     "contentSnippet": "はじめに\n医療系 SEO コンテンツの編集をしていた頃、ライターさんとの修正往復で最も時間を取られていたのが\"曖昧表現の指摘\"でした。\n「〜でしょう」「場合がある」といった表現が多用されると、読者に内容が伝わりにくいだけでなく、クリニックの信頼性低下にも直結します。\nこれ..."
   },
   {
-    "title": "React学習ログ No.12",
-    "link": "https://qiita.com/maedaHARUYA/items/b0a6aaf2e6ff2c0fa4d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T08:07:28.000Z",
-    "source": "Qiita",
-    "contentSnippet": "React Stateの更新における prev に関する整理\n\n1. 値によるステート更新の限界\nuseStateフックのセッター関数（例: setCount）に、\nステートの値を直接用いた式を渡す形式（値による更新）には、\n意図しない結果を生じる可能性がある\n\n例: カ..."
-  },
-  {
-    "title": "Rustのsqlxを使ったリポジトリ層の設計パターン",
-    "link": "https://zenn.dev/qrtz/articles/sqlx-repo-patterns",
-    "pubDate": "Sun, 19 Oct 2025 07:20:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "sqlxはRustからデータベースを扱うためのライブラリです。Rust製のORMとしてはdieselなどの先発のライブラリがありますが、非同期処理に対応していることや、実装が簡単であるといった特長から、近年人気を集めています。\nsqlxの基礎的な使い方に関する解説記事は、比較的多くある一方で、実際のアプリケーションに導入する際の知見をまとめた記事は、あまり見受けられませんでした。\nそこで、本記事で"
-  },
-  {
-    "title": "【MotionBuilder】UnboundWrapper とエラー対策",
-    "link": "https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_unboundwrapper",
-    "pubDate": "Sun, 19 Oct 2025 05:42:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n今回の記事では、MotionBuilder の Python SDK 開発における UnboundWrapper、およびそのエラーに焦点を当てて解説します。\n前半の1章・2章で、Python の基本的な知識と MotionBuilder における重要な Python Wrapper の動作を解説します。また、後半の3章で、UnboundWrapperError の発生ケースと対策例を紹介"
-  },
-  {
-    "title": "日刊IETF (2025-10-18) 後編",
-    "link": "https://qiita.com/tetsuko_room/items/0a4ba1cbd98f6689e57c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T03:53:12.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは、GMOコネクトの名もなきエンジニアです。\nよろしくお願いします!\n日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です!!\n今回は、2025-10-18(UTC基準)に公開されたInter..."
-  },
-  {
     "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
     "link": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-19T03:18:03.000Z",
@@ -154,67 +210,11 @@
     "contentSnippet": "はじめに\n「なぜマネージャーはこんなことをしているのか？」とマネジメントについて、メンバーの方が疑問に思うことがあります。\nこの記事は、そんなマネジメント”される”人のための解説記事です。\n「マネジメントされる人」の方が人数は多いにも関わらず、「マネジメントされる人」のた..."
   },
   {
-    "title": "進捗報告のやり方 - Slava Akhmechet",
-    "link": "https://zenn.dev/contradiction29/articles/f482262d1ab3c0",
-    "pubDate": "Sun, 19 Oct 2025 03:06:09 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この文章は、Slava Akhmechet氏の書いたブログ・エントリHow to send progress updatesを日本語に翻訳した文章です\n本人から翻訳の許可をいただき、翻訳を行いました\n良質な文章を紹介できる機会をもらえたことを、この場で感謝します\n\n\n価値のある仕事をしていると、遅かれ早かれ人々は興味を持ち、進捗状況の報告を求めるようになる。進捗報告のやり方は、四半期ごとの投資家向"
-  },
-  {
-    "title": "【図解】ゼロ知識証明のPLONKとは？Groth16との違いを世界一わかりやすく解説！",
-    "link": "https://zenn.dev/mashharuki/articles/zk_groth16-plonk",
-    "pubDate": "Sun, 19 Oct 2025 02:53:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n「ゼロ知識証明（Zero-Knowledge Proof, ZKP）」という言葉を耳にしたことはありますか？ 🤔\nWeb3やブロックチェーンの世界で、プライバシー保護やスケーラビリティ問題※を解決する魔法の技術として、今大きな注目を集めています。\n\nスケーラビリティ問題\nブロックチェーンの利用者が増えることで、取引の処理が遅れたり手数料が高騰したりする問題のこと。\n\nゼロ知識証明には様"
-  },
-  {
-    "title": "Anthropicが発表した「Claude Skills」：AIをあなたの業務に最適化する新時代の機能",
-    "link": "https://qiita.com/Maki-HamarukiLab/items/23a0bc27842e4b4b7a4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-18T15:41:14.000Z",
+    "title": "初心者がハマりがちなインフラ構築の落とし穴10選【チェックリスト】",
+    "link": "https://qiita.com/kosuke_shoji/items/cbb566d0ed4c54909323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T08:55:27.000Z",
     "source": "Qiita",
-    "contentSnippet": "2025年10月、AnthropicがClaude向けに導入した新機能「Skills（スキル）」が、AIアシスタントとの働き方を大きく変えようとしています。この記事では、公式情報、技術ブログ、海外メディア、そしてX（旧Twitter）上での実際の反応を基に、スキルの全貌を..."
-  },
-  {
-    "title": "Reactのデータ再取得、タイムスタンプで管理すると宣言的になる話【AI生成】",
-    "link": "https://zenn.dev/uhyo/articles/timestamp-refetch-pattern-ai",
-    "pubDate": "Sat, 18 Oct 2025 15:29:13 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AI生成記事について\nこの記事は、AIが生成した記事を無修正で公開しています。投稿者（人間）の普段の作風・意見と異なる点や内容の粗もありますが、技術記事として公開するに足るクオリティであるという投稿者の判断と責任により投稿するものです。\nただし、記事に含まれる、経験に基づくエピソードは全てAIによる創造である点はご了承ください。\nちなみに、記事の生成は事前に用意したスタイルガイドに基づき、人間が記"
-  },
-  {
-    "title": "iOS ファーストな CMS をショートカットで構築する",
-    "link": "https://zenn.dev/yamatoiizuka/articles/79ad1b2099b966",
-    "pubDate": "Sat, 18 Oct 2025 13:32:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Web サイトの更新を iPhone から手軽にやりたい。\nたどり着いたのはショートカットで作る CMS ツール群でした。\n\n 作った Web サイト\n1日につき、画像1枚と短いテキストが入る日記サイトです。\nSNS ライクな投稿ボリュームなので、絶対にスマホから更新したい。\n\nhttps://diary.yamatoiizuka.com/\n\n CMS の要件\nビルドは GitHub Action"
-  },
-  {
-    "title": "iPhoneだけでiOSアプリ開発するワークフロー",
-    "link": "https://zenn.dev/oikon/articles/dev-from-mobile",
-    "pubDate": "Sat, 18 Oct 2025 09:06:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Oikonです。普段はAIツール、特にClaude Codeで遊んでいます。\n先日、Claude Code Meetup Tokyoがあり登壇の機会をいただきました。主催はAIエージェントユーザー会（AIAU）さまとAI駆動開発さまです。\nちなみに登壇内容は以下のスライドです：\nClaude Codeを駆使した初めてのiOSアプリ開発 ~ゼロから3週間でグローバルハッカソンで入賞するまで~\nhtt"
-  },
-  {
-    "title": "serdeに入門しよう！",
-    "link": "https://zenn.dev/sileader/articles/c16929968e00e9",
-    "pubDate": "Sat, 18 Oct 2025 08:53:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "serdeとは？\nserdeはRust向けのシリアライゼーションライブラリです。\nserialize + deserializeでser + de、合わせてserdeです。\nserdeはシリアライズとデシリアライズを行う仕組みを提供し、実際にJSONやTOMLなどのフォーマットに変換するのはserde_jsonやtomlなどそれぞれのcrateが担当します。\n本記事ではserde_jsonでJSO"
-  },
-  {
-    "title": "【Amazon Bedrock AgentCore】エージェントをRuntimeにデプロイしてみる",
-    "link": "https://qiita.com/yakumo_09/items/eaa3b6062396227615a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-18T01:34:31.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n今話題のAmazon Bedrock AgentCore、東京リージョンにも登場し、一般提供も開始されたことで気づけば一大トレンドですね。\n\n機能が多くて追っかけるのが大変ですが、なんとか私も最近入門しました。\n本記事では一番メジャーなRuntime機能につ..."
-  },
-  {
-    "title": "Playwright Agentsでテストの自動生成をやってみた",
-    "link": "https://qiita.com/resound/items/24f129a920b34677e7f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T00:38:15.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは、鷹野です。\nPlaywright v1.56からの新機能でPlaywright Agentsが追加されました。 この Playwright Agents は、3つの主要なエージェントから構成されており、これらが協調して動作することでテストプロセス全体..."
+    "contentSnippet": "◆はじめに\n前回の記事で初心者がハマりがちなインフラ構築の落とし穴10選（解説編）を書きましたが、追加でチェックリスト的なものを書いていきたいと思います！\n※最低限、この項目はチェックしておきましょう的な粒度です。\n\n✅インフラ構築チェックリスト\n\n1. 設計・計画\n\n..."
   },
   {
     "title": "Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業プロジェクトに",

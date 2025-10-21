@@ -1,73 +1,80 @@
 [
   {
-    "title": "Professional Roadmap Oct.20.2025",
-    "link": "https://dev.to/aragom7/professional-roadmap-oct202025-4m7d",
-    "pubDate": "Tue, 21 Oct 2025 01:50:41 +0000",
+    "title": "My 6-Week Dev.to Plan for Building Authority as an AI Writer",
+    "link": "https://dev.to/jaideepparashar/my-6-week-devto-plan-for-building-authority-as-an-ai-writer-4afd",
+    "pubDate": "Tue, 21 Oct 2025 06:37:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Focusing on strengthening my technical profile.\nI have about fourteen months before returning to university, and I’ll use this time to up skill myself as a whole — rebuilding the habits that drive pro"
+    "contentSnippet": "When I began writing on Dev.to, my goal wasn’t just to post articles; it was to build trust, consistency, and authority around one theme:\nHow AI can transform the way developers think, build, and grow"
   },
   {
-    "title": "Slaydover: Responsive Overlay & Drawer Component for Vue and Nuxt",
-    "link": "https://dev.to/jqueryscript/slaydover-responsive-overlay-drawer-component-for-vue-and-nuxt-1i63",
-    "pubDate": "Tue, 21 Oct 2025 01:35:48 +0000",
+    "title": "Sleep Patterns Predict Mental Health Episodes 3-7 Days Ahead: Building SleepMind.ai",
+    "link": "https://dev.to/alex_chen_3a43ce352a43d3d/sleep-patterns-predict-mental-health-episodes-3-7-days-ahead-building-sleepmindai-2icn",
+    "pubDate": "Tue, 21 Oct 2025 06:36:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Slaydover: A responsive overlay component for Vue 3 and Nuxt that adjusts position based on screen breakpoints.\nKey features:\n📱 Position changes by breakpoint (e.g., bottom on mobile, right on deskto"
+    "contentSnippet": "The Discovery That Changed Everything\n\n\nLast week, I stumbled upon a 4-year longitudinal study published in Nature Digital Medicine (October 2, 2025) that completely shifted how I think about mental h"
   },
   {
-    "title": "How to Structure Your Spring Boot Project for Clean, Scalable Code",
-    "link": "https://dev.to/hbetabessi/how-to-structure-your-spring-boot-project-for-clean-scalable-code-2oha",
-    "pubDate": "Tue, 21 Oct 2025 01:29:15 +0000",
+    "title": "💥 Supercharge your Laravel API calls with Http::pool()",
+    "link": "https://dev.to/bhaidar/supercharge-your-laravel-api-calls-with-httppool-2cdp",
+    "pubDate": "Tue, 21 Oct 2025 06:24:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Wondering how to organize your Spring Boot project like a pro? This guide breaks down the essential packages you need to build maintainable, scalable, and readable applications.\nWhen you start a Sprin"
+    "contentSnippet": "Did you know you can send multiple HTTP requests in parallel in Laravel, instead of one after another?\nThat’s what Http::pool() does. It’s built on top of Guzzle and can massively boost performance wh"
   },
   {
-    "title": "Understanding the Repomix Compress Feature",
-    "link": "https://dev.to/oleksandrakordonets/code-reading-analysis-understanding-the-repomix-compress-feature-264p",
-    "pubDate": "Tue, 21 Oct 2025 01:28:59 +0000",
+    "title": "\"#1 Understanding Scope in JavaScript — The Invisible Boundaries of Your Code\"",
+    "link": "https://dev.to/mithukr/understanding-scope-in-javascript-the-invisible-boundaries-of-your-code-29b2",
+    "pubDate": "Tue, 21 Oct 2025 06:23:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hi, today I want to talk about how I expanded my CLI tool’s functionality by analyzing another similar open-source project, Repomix. Before diving into the code, I wanted to get a sense of what the pr"
+    "contentSnippet": "\"Understanding Scope in JavaScript —\"\n\n\nIn JavaScript, scope defines where a variable is accessible within your code. Think of it as the visibility zone for your variables. There are three main types "
   },
   {
-    "title": "Integración PayPal-NEQUI: Análisis Técnico y Arquitectura de Pagos",
-    "link": "https://dev.to/huyen_hanhpham_11b4f63234/integracion-paypal-nequi-analisis-tecnico-y-arquitectura-de-pagos-6hh",
-    "pubDate": "Tue, 21 Oct 2025 01:27:04 +0000",
+    "title": "South Africa’s Emerging Tech Renaissance: How Digital Innovation Is Empowering a New African Future",
+    "link": "https://dev.to/clicknmedia/south-africas-emerging-tech-renaissance-how-digital-innovation-is-empowering-a-new-african-future-9d5",
+    "pubDate": "Tue, 21 Oct 2025 06:23:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Descripción General\n🏗️ Arquitectura de la Integración\n\n// Estructura probable de la integración\nclass PayPalNequiIntegration {\n  constructor() {\n    this.authEndpoint = 'https://api.paypal.com/v1/"
+    "contentSnippet": "In the heart of Africa’s economic powerhouse, South Africa is leading a digital renaissance that is transforming the continent’s social and economic landscape. From Johannesburg’s fintech corridors to"
   },
   {
-    "title": "Finding and Updating Items in React Arrays",
-    "link": "https://dev.to/philrez/finding-and-updating-items-in-react-arrays-4afa",
-    "pubDate": "Tue, 21 Oct 2025 01:08:38 +0000",
+    "title": "Evidence-Based Engineering: How Research Shapes My Full Stack Development Process",
+    "link": "https://dev.to/sain_bux_dev/evidence-based-engineering-how-research-shapes-my-full-stack-development-process-44dl",
+    "pubDate": "Tue, 21 Oct 2025 06:20:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "State Updates\n\n\nManaging arrays in React state is a fundamental skill, especially when dealing with dynamic data like a list of users, products, or, in this case, selected items. While array methods l"
+    "contentSnippet": "Introduction\n\n\nIn today’s fast-paced world of web development, many developers focus on speed — shipping features as quickly as possible. But speed without structure often leads to technical debt and "
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/ben/-1l4n",
-    "pubDate": "Tue, 21 Oct 2025 01:03:52 +0000",
+    "title": "Andrew Huang: Using a vocal generator very wrong",
+    "link": "https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1l3p",
+    "pubDate": "Tue, 21 Oct 2025 06:13:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Smart Water Pump Controller using ESP32 and Firebase (IoT Project)\nYugesh K ・ Oct 20\n#iot\n        #esp32\n        #firebase\n        #website"
+    "contentSnippet": "Using a vocal generator very wrong\n\n\nAndrew Huang takes Voice by Auribus’s AI vocal plugin for a joyride, starting with the ethics of AI singing and quickly spiraling into absurd territory—turning dru"
   },
   {
-    "title": "The Effects of Performance Appraisal: A Study of 7up Bottling Company in Aba, Abia State",
-    "link": "https://dev.to/loveline/the-effects-of-performance-appraisal-a-study-of-7up-bottling-company-in-aba-abia-state-3k50",
-    "pubDate": "Tue, 21 Oct 2025 01:00:51 +0000",
+    "title": "Cercle: OFF STAGE WITH WhoMadeWho & Tripolism",
+    "link": "https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-40b0",
+    "pubDate": "Tue, 21 Oct 2025 06:13:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In my undergraduate research project, I explored how performance appraisal systems influence employee motivation and productivity in structured organizations.\nThis study focused on 7up Bottling Compan"
+    "contentSnippet": "Cercle Records just unveiled an off-stage session featuring electro-pop trio WhoMadeWho and beat innovator Tripolism.\nThis unexpected collab packs raw behind-the-scenes energy, fresh grooves, and expe"
   },
   {
-    "title": "🧠 Bringing AI to One Keystroke",
-    "link": "https://dev.to/louis7/bringing-ai-to-one-keystroke-5kn",
-    "pubDate": "Tue, 21 Oct 2025 00:47:43 +0000",
+    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-179j",
+    "pubDate": "Tue, 21 Oct 2025 06:13:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the 2025 Hacktoberfest Writing Challenge: Maintainer Spotlight\nAI is powerful — but using it still feels… awkward.\nI live inside Slack, Notion, VS Code, and a dozen other tool"
+    "contentSnippet": "Indys Blu, a New Orleans vocalist, brings raw emotion and poetic flair to her stirring performance of “Saddest Song” on A COLORS SHOW, weaving heartbreak into every note.\nCatch the full set via the CO"
   },
   {
-    "title": "Unleashing the Power of AI in Your Development Workflow",
-    "link": "https://dev.to/mikeover/unleashing-the-power-of-ai-in-your-development-workflow-3n45",
-    "pubDate": "Tue, 21 Oct 2025 00:35:53 +0000",
+    "title": "KEXP: Adrian Quesada - Puedes Decir De Mi (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-adrian-quesada-puedes-decir-de-mi-live-on-kexp-4d9o",
+    "pubDate": "Tue, 21 Oct 2025 06:12:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction: The Future is Now\n\n\nIn the fast-evolving world of software development, staying ahead of the curve often means embracing new technologies and methodologies. One of the most transformativ"
+    "contentSnippet": "Adrian Quesada rolls into the KEXP studio on September 2, 2025 to unleash a live version of “Puedes Decir De Mí” featuring the silky vocals and acoustic guitar of Gaby Moreno. Backed by Joshy Soul (ke"
+  },
+  {
+    "title": "Next.js 15 / React 19 実践設計ガイド 実装観点別のベストプラクティス",
+    "link": "https://zenn.dev/k_mori/books/24320553af0956",
+    "pubDate": "Tue, 21 Oct 2025 02:44:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Next.js 15とReact 19を使用したWebアプリケーション開発における、実践的な設計方針とベストプラクティスをまとめたガイドを作成しました。\n\n本書では、Next.js 15 / React 19を活用したモダンなWebアプリケーション開発における設計方針を、実装観点ごとに整理しています。App Routerを前提とし、ディレクトリ構成、コンポーネント設計、データ取得、データ更新、状態"
   },
   {
     "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",
@@ -173,13 +180,6 @@
     "pubDate": "Sun, 19 Oct 2025 22:00:01 GMT",
     "source": "Zenn",
     "contentSnippet": "GitHub Copilot Coding Agent とは\nGitHub Copilot Coding Agent は、GitHub が提供する Copilot 関連機能のひとつで、開発者の指示に応じて コードの変更や Pull Request（PR） の作成を自動で実行する自律エージェント です。\nhttps://docs.github.com/ja/copilot/concepts/agen"
-  },
-  {
-    "title": "自分用 LLMコーディングエージェント ノウハウまとめ 2025年10月版",
-    "link": "https://zenn.dev/engawawa/articles/8936c60d13bafd",
-    "pubDate": "Sun, 19 Oct 2025 17:29:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "■ はじめに\n\n色々情報拾ったり使ってみたりでなんとなく上手く使えてきたので現時点のノウハウをまとめる\nCLIで利用できるツールに関して主に取り扱う\n\nissueやPRでの運用は反復コストが思ったより大きくてあまりしていない\n\n\nLLMそのものの仕組みには特に触れず、ツールとしての使い方にフォーカスしている\n\n!\n自分なりの整理と共有用なので最新かつベストなやり方とは限らないので注意。\nまた、調べ"
   },
   {
     "title": "シスコ、AIにセキュアなコードを生成させるためのルールセット「Project CodeGuard」をオープンソースで公開",

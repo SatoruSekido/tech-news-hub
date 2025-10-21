@@ -1,73 +1,73 @@
 [
   {
-    "title": "ReactJS Day 2025: TanStack Start & Real World Experiences",
-    "link": "https://dev.to/this-is-learning/reactjs-day-2025-tanstack-start-real-world-experiences-16b9",
-    "pubDate": "Mon, 20 Oct 2025 18:32:45 +0000",
+    "title": "Professional Roadmap Oct.20.2025",
+    "link": "https://dev.to/aragom7/professional-roadmap-oct202025-4m7d",
+    "pubDate": "Tue, 21 Oct 2025 01:50:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I'm writing this I'm still on the train back from ReactJSDay, the largest conference on ReactJS in Italy, reflecting on something that happened from the audience.\nI gave my talk about TanStack St"
+    "contentSnippet": "Focusing on strengthening my technical profile.\nI have about fourteen months before returning to university, and I’ll use this time to up skill myself as a whole — rebuilding the habits that drive pro"
   },
   {
-    "title": "What I’ve Learned About Enterprise Development in 15 Years",
-    "link": "https://dev.to/nigel_t/what-ive-learned-about-enterprise-development-in-15-years-2bap",
-    "pubDate": "Mon, 20 Oct 2025 18:30:00 +0000",
+    "title": "Slaydover: Responsive Overlay & Drawer Component for Vue and Nuxt",
+    "link": "https://dev.to/jqueryscript/slaydover-responsive-overlay-drawer-component-for-vue-and-nuxt-1i63",
+    "pubDate": "Tue, 21 Oct 2025 01:35:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I started in enterprise development believing technology was the answer. Fifteen years later I know it’s rarely the first one. I’ve worked with hundreds of clients and built thousands of systems. The "
+    "contentSnippet": "Slaydover: A responsive overlay component for Vue 3 and Nuxt that adjusts position based on screen breakpoints.\nKey features:\n📱 Position changes by breakpoint (e.g., bottom on mobile, right on deskto"
   },
   {
-    "title": "🧭 From QA Engineer to Mentor: What I’ve Learned Through ADPList",
-    "link": "https://dev.to/dasha_tsion_31379cfb51dd7/from-qa-engineer-to-mentor-what-ive-learned-through-adplist-5fpf",
-    "pubDate": "Mon, 20 Oct 2025 18:25:38 +0000",
+    "title": "How to Structure Your Spring Boot Project for Clean, Scalable Code",
+    "link": "https://dev.to/hbetabessi/how-to-structure-your-spring-boot-project-for-clean-scalable-code-2oha",
+    "pubDate": "Tue, 21 Oct 2025 01:29:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I joined ADPList as a mentor, I didn’t expect how much I’d learn from my mentees.\n\nOver first sessions, I’ve talked to developers, automation engineers, and other leaders from all over the world "
+    "contentSnippet": "Wondering how to organize your Spring Boot project like a pro? This guide breaks down the essential packages you need to build maintainable, scalable, and readable applications.\nWhen you start a Sprin"
   },
   {
-    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3an5",
-    "pubDate": "Mon, 20 Oct 2025 18:12:15 +0000",
+    "title": "Understanding the Repomix Compress Feature",
+    "link": "https://dev.to/oleksandrakordonets/code-reading-analysis-understanding-the-repomix-compress-feature-264p",
+    "pubDate": "Tue, 21 Oct 2025 01:28:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Beautiful new music making environment! (GRM Atelier)\n\n\nAndrew Huang gets an early peek at GRM Tools Atelier, a sleek, modular music-making environment packed with global processing features and a min"
+    "contentSnippet": "Hi, today I want to talk about how I expanded my CLI tool’s functionality by analyzing another similar open-source project, Repomix. Before diving into the code, I wanted to get a sense of what the pr"
   },
   {
-    "title": "Andrew Huang: Using a vocal generator very wrong",
-    "link": "https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-568d",
-    "pubDate": "Mon, 20 Oct 2025 18:12:08 +0000",
+    "title": "Integración PayPal-NEQUI: Análisis Técnico y Arquitectura de Pagos",
+    "link": "https://dev.to/huyen_hanhpham_11b4f63234/integracion-paypal-nequi-analisis-tecnico-y-arquitectura-de-pagos-6hh",
+    "pubDate": "Tue, 21 Oct 2025 01:27:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Andrew Huang’s video Using a Vocal Generator Very Wrong teams up with Voice by Auribus for a hilarious deep dive into AI vocals gone rogue. He experiments with everything from turning instruments into"
+    "contentSnippet": "🚀 Descripción General\n🏗️ Arquitectura de la Integración\n\n// Estructura probable de la integración\nclass PayPalNequiIntegration {\n  constructor() {\n    this.authEndpoint = 'https://api.paypal.com/v1/"
   },
   {
-    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a9i",
-    "pubDate": "Mon, 20 Oct 2025 18:11:51 +0000",
+    "title": "Finding and Updating Items in React Arrays",
+    "link": "https://dev.to/philrez/finding-and-updating-items-in-react-arrays-4afa",
+    "pubDate": "Tue, 21 Oct 2025 01:08:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indys Blu pours her New Orleans soul into a heart-tugging rendition of her single “Saddest Song” on A COLORS SHOW, weaving poetic lyrics with raw, emotional vocals.\nCatch the full performance on COLOR"
+    "contentSnippet": "State Updates\n\n\nManaging arrays in React state is a fundamental skill, especially when dealing with dynamic data like a list of users, products, or, in this case, selected items. While array methods l"
   },
   {
-    "title": "COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5213",
-    "pubDate": "Mon, 20 Oct 2025 18:11:39 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/ben/-1l4n",
+    "pubDate": "Tue, 21 Oct 2025 01:03:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Dear Silas brings some serious southern flair to the COLORS stage, fusing his crisp rap flow with jazzy trumpet riffs on his latest single, Still Southern Playalistic. The Mississippi native’s perform"
+    "contentSnippet": "Smart Water Pump Controller using ESP32 and Firebase (IoT Project)\nYugesh K ・ Oct 20\n#iot\n        #esp32\n        #firebase\n        #website"
   },
   {
-    "title": "KEXP: Car Seat Headrest - The Catastrophe (Good Luck With That, Man) (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-2g7l",
-    "pubDate": "Mon, 20 Oct 2025 18:11:25 +0000",
+    "title": "The Effects of Performance Appraisal: A Study of 7up Bottling Company in Aba, Abia State",
+    "link": "https://dev.to/loveline/the-effects-of-performance-appraisal-a-study-of-7up-bottling-company-in-aba-abia-state-3k50",
+    "pubDate": "Tue, 21 Oct 2025 01:00:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Car Seat Headrest tore into “The Catastrophe (Good Luck With That, Man)” live at KEXP on August 22, 2025, with Will Toledo on vocals and guitar, Ethan Ives on guitar and vocals, Andrew Katz on drums a"
+    "contentSnippet": "In my undergraduate research project, I explored how performance appraisal systems influence employee motivation and productivity in structured organizations.\nThis study focused on 7up Bottling Compan"
   },
   {
-    "title": "KEXP: Adrian Quesada - El Muchacho De Los Ojos Tristes (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-adrian-quesada-el-muchacho-de-los-ojos-tristes-live-on-kexp-5gil",
-    "pubDate": "Mon, 20 Oct 2025 18:11:15 +0000",
+    "title": "🧠 Bringing AI to One Keystroke",
+    "link": "https://dev.to/louis7/bringing-ai-to-one-keystroke-5kn",
+    "pubDate": "Tue, 21 Oct 2025 00:47:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Adrian Quesada rolls into the KEXP studio for a live take on “El Muchacho De Los Ojos Tristes,” featuring vocals and acoustic guitar from Gaby Moreno. Backed by Joshy Soul on keys, Jay Mumford on drum"
+    "contentSnippet": "This is a submission for the 2025 Hacktoberfest Writing Challenge: Maintainer Spotlight\nAI is powerful — but using it still feels… awkward.\nI live inside Slack, Notion, VS Code, and a dozen other tool"
   },
   {
-    "title": "KEXP: Adrian Quesada - Hoy Que Llueve (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-adrian-quesada-hoy-que-llueve-live-on-kexp-4la7",
-    "pubDate": "Mon, 20 Oct 2025 18:11:05 +0000",
+    "title": "Unleashing the Power of AI in Your Development Workflow",
+    "link": "https://dev.to/mikeover/unleashing-the-power-of-ai-in-your-development-workflow-3n45",
+    "pubDate": "Tue, 21 Oct 2025 00:35:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Adrian Quesada rolled into the KEXP studio on September 2, 2025, to lay down a live take of “Hoy Que Llueve,” featuring Trish Toledo’s vocals alongside Gabby Moreno and Angelica Garcia. Backed by Josh"
+    "contentSnippet": "Introduction: The Future is Now\n\n\nIn the fast-evolving world of software development, staying ahead of the curve often means embracing new technologies and methodologies. One of the most transformativ"
   },
   {
     "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",
@@ -89,6 +89,20 @@
     "pubDate": "2025-10-20T04:59:28.000Z",
     "source": "Qiita",
     "contentSnippet": "初めに\nみなさんはmysql2を使ったことがありますか？Node.js上でMySQLに接続する際のクライアントライブラリとして、mysql2が主要な選択肢の一つだと思います。その際に、SQL文を実行するときのquery関数とexecute関数の使い分けが曖昧だったので整理..."
+  },
+  {
+    "title": "帰ってきた IETF 124 Side Meeting 差分アップデート（2025年10月19日版）",
+    "link": "https://qiita.com/satokan3/items/1a8d5cb33b35c6acc59e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T04:04:54.000Z",
+    "source": "Qiita",
+    "contentSnippet": "そろそろIETF124の開催が近づいてきてきましたね！\nGMOコネクト 菅野（かんの）です。\n10月14日に公開した「【徹底分析】IETF 124 Side Meeting まとめ」から、Trelloボード上の構成が複数更新されました。\n本記事では、Trello公式ボード・..."
+  },
+  {
+    "title": "Rust の derive macro を書いてみよう",
+    "link": "https://zenn.dev/doctormate/articles/0a7cc9365d90cd",
+    "pubDate": "Mon, 20 Oct 2025 03:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "前回は cargo-expand を使って thiserror crate の derive macro の展開結果を見てみました 。今回は derive macro を書いて derive macro に慣れてみようと思います。\n\n derive macro とは\nderive macro とは、手続き的マクロ (procedural macro) の一種で、struct や enum などに "
   },
   {
     "title": "LLMの責務を最小化する設計 — Claude Codeの中身は50代のベテランエンジニアかもしれない件",
@@ -117,6 +131,20 @@
     "pubDate": "Mon, 20 Oct 2025 01:30:00 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめまして、_minoです！\nこの記事では、最近公開されたムーザルちゃんねるさんの動画「2025年版「Webアプリ作るなら技術どれにする？」」を見て、私も今年を振り返り採用してよかった技術や、トレンドから見た来年以降流行りそうな技術についてまとめました。\n「その技術いいよね！」「この技術よかった!」などのご意見がありましたら、コメントで教えていただけると嬉しいです!\n!\n筆者がフロントエンドメイ"
+  },
+  {
+    "title": "Railsでメール認証コードを送信＆照合するAPIを実装してみた（Flutter連携・前編）",
+    "link": "https://qiita.com/chara-gida/items/fe058d4ef9da1a490f06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T00:39:34.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nスマートフォンアプリなどでよくある\n「メールアドレスを入力 → 認証コードを受信 → 入力して認証」\nという仕組みを、自前のRails APIで構築する方法を紹介します。\n今回はその前編として、バックエンド側での\n\n認証コードの生成\nメール送信（ActionMa..."
+  },
+  {
+    "title": "【Claude Code】Serenaの導入でAI活用を加速！",
+    "link": "https://zenn.dev/hacobell_dev/articles/claude-code-serena-mcp-experience",
+    "pubDate": "Mon, 20 Oct 2025 00:30:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "3行まとめ\n\nClaude Codeの出力精度を安定させるための設定ファイル整備に苦労していた\nSerena導入で、コードベース全体の一貫性を保持しつつ、暗黙知の言語化コストを大幅削減\nLSPとIndexingによりToken使用量が削減され、APIコストを低減\n\n\n はじめに\nClaude Codeを導入してみたものの、期待した効果が得られずに悩んでいる方も多いのではないでしょうか。私もその一人"
   },
   {
     "title": "containerlab × FRRoutingで実現！BGP冗長化シナリオと自動経路切り替え 実験レシピ",
@@ -161,18 +189,11 @@
     "contentSnippet": "シスコシステムズは、AIコーディングツールを用いてコーディングを行う際に、生成されるコードが脆弱性を持たず安全なパターンを用いたものにするためのルールセットなどを備えた「Project CodeGuard」をオープンソースで公開しました。 Markdownで書かれたセキュリティルールなど Project CodeGuardは、コミュニティによって作成されたMarkdown形式で書かれたセキュリティ"
   },
   {
-    "title": "【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由",
-    "link": "https://zenn.dev/bmth/articles/interface-props-extends",
-    "pubDate": "Sun, 19 Oct 2025 15:32:46 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nTypeScriptでコンポーネントのPropsやオブジェクトの型を定義するとき、typeとinterfaceのどちらを使うべきか、一度は悩んだことがあるのではないでしょうか。\n巷では「どちらでも良い」「チームで統一されていればOK」といった意見もよく見かけます。\nしかし、私は 明確な理由をもって「基本的にはinterfaceを使うべき」 だと主張します。\nこの記事では私の実体験で遭遇し"
-  },
-  {
-    "title": "Private Link Serviceの新機能 Direct Connectを試してみた🚀",
-    "link": "https://zenn.dev/mrt/articles/dd9f87f8aadd42",
-    "pubDate": "Sun, 19 Oct 2025 13:22:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025/10にPrivate Link ServiceのDirect Connect機能がPreview提供されました🎉\n実際に試してみながら、今回のアップデートを解説してみます！\n\n Private Link Serviceとは\nPrivate Link Serviceとは、独自のアプリを利用者側のVNetからアクセスできるように公開するための仕組みです。\n\nアプリの提供者（Pro"
+    "title": "Amazon Bedrock のモデルアクセス廃止に関しておさえておくとよいこと",
+    "link": "https://qiita.com/hayao_k/items/aaaf92e15a60bebd137a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-19T14:25:00.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n2025/10/15 のアップデートで Amazon Bedrock のモデルアクセスが廃止され、Bedrock で提供される基盤モデルへの初期アクセスが簡素化されました。\n\n単に機能として消えただけではなく、周辺の動作がそれなりに変わっているようです..."
   },
   {
     "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",
@@ -180,20 +201,6 @@
     "pubDate": "2025-10-19T10:56:47.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nJISOUで学習しているHeyho-です。\nReactの学習の一環として、個人アプリのアイデア出しからMVP作成、そしてアプリ開発までを行いました。\n約1ヶ月という限られた期間で、「0から1を作る」という初めての経験を通じて、多くの学びと気づきを得ることができま..."
-  },
-  {
-    "title": "【Next.js】Next.jsでQiita + microCMSを連携した技術ブログアプリを作りました",
-    "link": "https://qiita.com/nagi-0106/items/b98a918affeb899da1bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T10:05:40.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。\nNext.jsの学習の一環として、Next.jsを用いた外部サービスのAPIを利用した技術ブログを作成しました。\n今回の記事では、ブログアプリを作った上で気づいた点や学びになった点を言語化していければと思います。\n\n作ったもの\n個人記事としてQiitaの記事を..."
-  },
-  {
-    "title": "【Next.js】MediaRecorder APIとWhisper APIで音声メモアプリを作ってみた",
-    "link": "https://qiita.com/asa129/items/41621b6db287bf6e78e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T09:48:41.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n現在、個人開発の機能で音声メモを検討しており、技術検証を進めていました。\nNext.jsで利用できるものを前提に検証し、MDNや公式ドキュメント上にあったAPIを用いて音声メモアプリを再現しました。\n\n使用技術\n\nNext.js 15.4.6\nMediaStre..."
   },
   {
     "title": "【GitHub】100日間コミットしてみた感想と気付き",
@@ -215,13 +222,6 @@
     "pubDate": "2025-10-19T03:18:03.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n「なぜマネージャーはこんなことをしているのか？」とマネジメントについて、メンバーの方が疑問に思うことがあります。\nこの記事は、そんなマネジメント”される”人のための解説記事です。\n「マネジメントされる人」の方が人数は多いにも関わらず、「マネジメントされる人」のた..."
-  },
-  {
-    "title": "初心者がハマりがちなインフラ構築の落とし穴10選【チェックリスト】",
-    "link": "https://qiita.com/kosuke_shoji/items/cbb566d0ed4c54909323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T08:55:27.000Z",
-    "source": "Qiita",
-    "contentSnippet": "◆はじめに\n前回の記事で初心者がハマりがちなインフラ構築の落とし穴10選（解説編）を書きましたが、追加でチェックリスト的なものを書いていきたいと思います！\n※最低限、この項目はチェックしておきましょう的な粒度です。\n\n✅インフラ構築チェックリスト\n\n1. 設計・計画\n\n..."
   },
   {
     "title": "Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業プロジェクトに",

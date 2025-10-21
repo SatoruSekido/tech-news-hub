@@ -1,73 +1,80 @@
 [
   {
-    "title": "Deploying Containerized Application on AWS LightSail with OpenRouter Integration",
-    "link": "https://dev.to/ibshafique/deploying-containerized-application-on-aws-lightsail-with-openrouter-integration-103b",
-    "pubDate": "Tue, 21 Oct 2025 12:45:44 +0000",
+    "title": "Genesis DB Community Edition: Open Access to a Modern Event-Sourcing Database",
+    "link": "https://dev.to/patriceckhart/genesis-db-community-edition-open-access-to-a-modern-event-sourcing-database-8p8",
+    "pubDate": "Tue, 21 Oct 2025 18:23:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AWS LightSail is a simple and cost-effective way to run containers, virtual servers, and managed services without complex configurations. It’s ideal for developers who want quick deployments with pred"
+    "contentSnippet": "The Genesis DB Community Edition is on the way. \nBuilt for developers, innovators, and production workloads that don't require built-in GDPR tooling, schema registration, or the advanced query engine "
   },
   {
-    "title": "what are intersection type?",
-    "link": "https://dev.to/omkar_garde_c2555540edf29/what-are-intersection-type-2fgc",
-    "pubDate": "Tue, 21 Oct 2025 12:34:49 +0000",
+    "title": "Python basics - Day 11",
+    "link": "https://dev.to/ian_b838138a27a917398d181/python-basics-day-11-2e1d",
+    "pubDate": "Tue, 21 Oct 2025 18:20:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "intersection type are create a new type by extending exciting types using\n& operator\ninterface type1{...}\ninterface type2{...}\ntype type3 = type1 & type2\n\nusing & works same way as using extends claus"
-  },
-  {
-    "title": "Things I learned picking up a new language as an adult",
-    "link": "https://dev.to/365talents/things-i-learned-picking-up-a-new-language-as-an-adult-52f6",
-    "pubDate": "Tue, 21 Oct 2025 12:33:57 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Since I came to France six months ago, I have made a lot of progress with the French language. What started as nearly incomprehensible stuttering are now full phrases with rich vocabulary and even one"
-  },
-  {
-    "title": "Why do we need async/await in JavaScript?",
-    "link": "https://dev.to/365talents/why-do-we-need-asyncawait-in-javascript-37fe",
-    "pubDate": "Tue, 21 Oct 2025 12:32:19 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Async/await is a major source of confusion in JavaScript. People tend just to add and remove the async and await keywords until the code works (or seems to work). In this article, I want to explain wh"
-  },
-  {
-    "title": "🧺 Built-in Data Structures in Java",
-    "link": "https://dev.to/mohamad_mhana/built-in-data-structures-in-java-1fl0",
-    "pubDate": "Tue, 21 Oct 2025 12:30:56 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "When you start writing real-world Java programs, managing data efficiently becomes crucial. That’s where Java’s built-in data structures come into play — they help you store, organize, and manipulate "
-  },
-  {
-    "title": "Database Design: Start from Business Logic or Jump into Code?",
-    "link": "https://dev.to/pascal_cescato_692b7a8a20/database-design-start-from-business-logic-or-jump-into-code-1k5m",
-    "pubDate": "Tue, 21 Oct 2025 12:27:55 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nBefore writing a single line of code, take one day to model your data.\nThis simple discipline turns chaos into clarity, prevents endless refactors, and keeps your logic aligned with real busin"
-  },
-  {
-    "title": "I Just Published My Book: Docker and Kubernetes Security",
-    "link": "https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo",
-    "pubDate": "Tue, 21 Oct 2025 12:26:34 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The book Docker and Kubernetes Security is finally here, after two years, 170 git commits, and countless hours of writing, editing, and reviewing. It's available on DockerSecurity.io. You can get the "
+    "contentSnippet": "Day 11 – Tuples & Sets\n\n\nProject: Build a “Unique Data Manager” using Tuples and Sets\n01. Learning Goal\nBy the end of this lesson, you will be able to:\nUnderstand the difference between lists, tuples,"
   },
   {
     "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-243d",
-    "pubDate": "Tue, 21 Oct 2025 12:25:11 +0000",
+    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4ppk",
+    "pubDate": "Tue, 21 Oct 2025 18:18:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Andrew Huang dives into GRM Tools Atelier with early‐access enthusiasm, spotlighting its unique global effects, spectral processors and a truly game-changing modulation matrix that turns any knob, sli"
+    "contentSnippet": "Andrew Huang gives us a first look at GRM Tools Atelier, a sleek new music-making playground packed with global macros that control multiple modules at once. He walks through its mind-bending modulati"
   },
   {
     "title": "Andrew Huang: Using a vocal generator very wrong",
-    "link": "https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-27ef",
-    "pubDate": "Tue, 21 Oct 2025 12:24:56 +0000",
+    "link": "https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1icb",
+    "pubDate": "Tue, 21 Oct 2025 18:18:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Using a vocal generator completely off-label, Andrew Huang kicks things off by hashing out the ethics of AI vocals, then dives into creative misuse—warbly singing, blood-curdling screams, even non-sin"
+    "contentSnippet": "Andrew Huang teams up with Voice by Auribus to put a vocal generator through its paces in the weirdest ways imaginable. He kicks things off by exploring alternative singing modes and non-singing vocal"
   },
   {
     "title": "Cercle: OFF STAGE WITH WhoMadeWho & Tripolism",
-    "link": "https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-5efe",
-    "pubDate": "Tue, 21 Oct 2025 12:24:42 +0000",
+    "link": "https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-3nhc",
+    "pubDate": "Tue, 21 Oct 2025 18:18:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "OFF STAGE WITH WhoMadeWho & Tripolism\n\n\nDanish electronic outfit WhoMadeWho teams up with rising talent Tripolism for an off-stage Cercle session that’s all about fresh beats and unexpected energy. It"
+    "contentSnippet": "Off Stage with WhoMadeWho & Tripolism\n\n\nGet an exclusive peek behind the curtain as Cercle Records teams up Danish trio WhoMadeWho with electronic producer Tripolism. It’s the off-stage collab we didn"
+  },
+  {
+    "title": "COLORS: Olivia Dean | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-olivia-dean-a-colors-show-3m2k",
+    "pubDate": "Tue, 21 Oct 2025 18:18:25 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Olivia Dean’s silky, London-bred vocals glide front and center in the next A COLORS SHOW session, where the minimalist set-up lets her soulful songwriting really breathe. You can stream her performanc"
+  },
+  {
+    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-228l",
+    "pubDate": "Tue, 21 Oct 2025 18:18:14 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Indys Blu, a soulful New Orleans vocalist, brings raw emotion to her single “Saddest Song” in a stripped-down A COLORS SHOW performance, weaving heartbreak and poetic reflection into every note.  \nCOL"
+  },
+  {
+    "title": "COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-391h",
+    "pubDate": "Tue, 21 Oct 2025 18:18:07 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Mississippi-bred rapper and trumpeter Dear Silas takes over the COLORS stage with “Still Southern Playalistic,” blending tight, Southern-flavored flows and laid-back, jazz-tinged trumpet riffs for a f"
+  },
+  {
+    "title": "COLORS: UMI - 10AM | A COLORS SHOW",
+    "link": "https://dev.to/music_youtube/colors-umi-10am-a-colors-show-35ej",
+    "pubDate": "Tue, 21 Oct 2025 18:17:56 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "UMI, the Los Angeles–based singer-songwriter, delivers a spellbinding COLORS performance of “10AM,” the tender closing track from her latest album people stories. Her soothing presence and ethereal vo"
+  },
+  {
+    "title": "KEXP: Adrian Quesada - El Muchacho De Los Ojos Tristes (Live on KEXP)",
+    "link": "https://dev.to/music_youtube/kexp-adrian-quesada-el-muchacho-de-los-ojos-tristes-live-on-kexp-gj5",
+    "pubDate": "Tue, 21 Oct 2025 18:17:46 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Adrian Quesada Live on KEXP\n\n\nAdrian Quesada dropped by the KEXP studio on September 2, 2025, for a sizzling live take on “El Muchacho De Los Ojos Tristes,” featuring Gaby Moreno on lead vocals and ac"
+  },
+  {
+    "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",
+    "link": "https://www.publickey1.jp/blog/25/awsamazon_ebsamazon_ebs_volume_clones.html",
+    "pubDate": "2025-10-21T15:36:24.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、ブロックストレージを提供するサービス「Amazon EBS（Amazon Elastic Block Store）のストレージボリュームを数秒でコピーできる新機能「Amazon EBS Volume Clones」のリリースを発表しました。 Amazon EBSは、そこで作成したストレージボリュームをAmazon EC2インスタンスにアタッチする"
   },
   {
     "title": "uv × DockerでのPython開発環境構築方法",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-09T15:04:58.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
-  },
-  {
-    "title": "「Diaブラウザ」正式版に、誰でもダウンロード可能。AI時代の業務のためのブラウザを目指す",
-    "link": "https://www.publickey1.jp/blog/25/diaai.html",
-    "pubDate": "2025-10-08T15:05:27.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Arcブラウザで知られるThe Browser Companyが新たに開発しているブラウザ「Diaブラウザ」が正式版となり、誰でもダウンロード可能となりました。 macOS 14以降のOSおよびM1チップ以降のプロセッサを搭載したMacで利用可能です。 Less invites, more ships.Dia is now open to everyone on macOS.Download no"
   }
 ]

@@ -1,73 +1,80 @@
 [
   {
-    "title": "My 6-Week Dev.to Plan for Building Authority as an AI Writer",
-    "link": "https://dev.to/jaideepparashar/my-6-week-devto-plan-for-building-authority-as-an-ai-writer-4afd",
-    "pubDate": "Tue, 21 Oct 2025 06:37:28 +0000",
+    "title": "Deploying Containerized Application on AWS LightSail with OpenRouter Integration",
+    "link": "https://dev.to/ibshafique/deploying-containerized-application-on-aws-lightsail-with-openrouter-integration-103b",
+    "pubDate": "Tue, 21 Oct 2025 12:45:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I began writing on Dev.to, my goal wasn’t just to post articles; it was to build trust, consistency, and authority around one theme:\nHow AI can transform the way developers think, build, and grow"
+    "contentSnippet": "AWS LightSail is a simple and cost-effective way to run containers, virtual servers, and managed services without complex configurations. It’s ideal for developers who want quick deployments with pred"
   },
   {
-    "title": "Sleep Patterns Predict Mental Health Episodes 3-7 Days Ahead: Building SleepMind.ai",
-    "link": "https://dev.to/alex_chen_3a43ce352a43d3d/sleep-patterns-predict-mental-health-episodes-3-7-days-ahead-building-sleepmindai-2icn",
-    "pubDate": "Tue, 21 Oct 2025 06:36:35 +0000",
+    "title": "what are intersection type?",
+    "link": "https://dev.to/omkar_garde_c2555540edf29/what-are-intersection-type-2fgc",
+    "pubDate": "Tue, 21 Oct 2025 12:34:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Discovery That Changed Everything\n\n\nLast week, I stumbled upon a 4-year longitudinal study published in Nature Digital Medicine (October 2, 2025) that completely shifted how I think about mental h"
+    "contentSnippet": "intersection type are create a new type by extending exciting types using\n& operator\ninterface type1{...}\ninterface type2{...}\ntype type3 = type1 & type2\n\nusing & works same way as using extends claus"
   },
   {
-    "title": "💥 Supercharge your Laravel API calls with Http::pool()",
-    "link": "https://dev.to/bhaidar/supercharge-your-laravel-api-calls-with-httppool-2cdp",
-    "pubDate": "Tue, 21 Oct 2025 06:24:54 +0000",
+    "title": "Things I learned picking up a new language as an adult",
+    "link": "https://dev.to/365talents/things-i-learned-picking-up-a-new-language-as-an-adult-52f6",
+    "pubDate": "Tue, 21 Oct 2025 12:33:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Did you know you can send multiple HTTP requests in parallel in Laravel, instead of one after another?\nThat’s what Http::pool() does. It’s built on top of Guzzle and can massively boost performance wh"
+    "contentSnippet": "Since I came to France six months ago, I have made a lot of progress with the French language. What started as nearly incomprehensible stuttering are now full phrases with rich vocabulary and even one"
   },
   {
-    "title": "\"#1 Understanding Scope in JavaScript — The Invisible Boundaries of Your Code\"",
-    "link": "https://dev.to/mithukr/understanding-scope-in-javascript-the-invisible-boundaries-of-your-code-29b2",
-    "pubDate": "Tue, 21 Oct 2025 06:23:50 +0000",
+    "title": "Why do we need async/await in JavaScript?",
+    "link": "https://dev.to/365talents/why-do-we-need-asyncawait-in-javascript-37fe",
+    "pubDate": "Tue, 21 Oct 2025 12:32:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"Understanding Scope in JavaScript —\"\n\n\nIn JavaScript, scope defines where a variable is accessible within your code. Think of it as the visibility zone for your variables. There are three main types "
+    "contentSnippet": "Async/await is a major source of confusion in JavaScript. People tend just to add and remove the async and await keywords until the code works (or seems to work). In this article, I want to explain wh"
   },
   {
-    "title": "South Africa’s Emerging Tech Renaissance: How Digital Innovation Is Empowering a New African Future",
-    "link": "https://dev.to/clicknmedia/south-africas-emerging-tech-renaissance-how-digital-innovation-is-empowering-a-new-african-future-9d5",
-    "pubDate": "Tue, 21 Oct 2025 06:23:33 +0000",
+    "title": "🧺 Built-in Data Structures in Java",
+    "link": "https://dev.to/mohamad_mhana/built-in-data-structures-in-java-1fl0",
+    "pubDate": "Tue, 21 Oct 2025 12:30:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the heart of Africa’s economic powerhouse, South Africa is leading a digital renaissance that is transforming the continent’s social and economic landscape. From Johannesburg’s fintech corridors to"
+    "contentSnippet": "When you start writing real-world Java programs, managing data efficiently becomes crucial. That’s where Java’s built-in data structures come into play — they help you store, organize, and manipulate "
   },
   {
-    "title": "Evidence-Based Engineering: How Research Shapes My Full Stack Development Process",
-    "link": "https://dev.to/sain_bux_dev/evidence-based-engineering-how-research-shapes-my-full-stack-development-process-44dl",
-    "pubDate": "Tue, 21 Oct 2025 06:20:35 +0000",
+    "title": "Database Design: Start from Business Logic or Jump into Code?",
+    "link": "https://dev.to/pascal_cescato_692b7a8a20/database-design-start-from-business-logic-or-jump-into-code-1k5m",
+    "pubDate": "Tue, 21 Oct 2025 12:27:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn today’s fast-paced world of web development, many developers focus on speed — shipping features as quickly as possible. But speed without structure often leads to technical debt and "
+    "contentSnippet": "TL;DR\n\n\nBefore writing a single line of code, take one day to model your data.\nThis simple discipline turns chaos into clarity, prevents endless refactors, and keeps your logic aligned with real busin"
+  },
+  {
+    "title": "I Just Published My Book: Docker and Kubernetes Security",
+    "link": "https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo",
+    "pubDate": "Tue, 21 Oct 2025 12:26:34 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The book Docker and Kubernetes Security is finally here, after two years, 170 git commits, and countless hours of writing, editing, and reviewing. It's available on DockerSecurity.io. You can get the "
+  },
+  {
+    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
+    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-243d",
+    "pubDate": "Tue, 21 Oct 2025 12:25:11 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Andrew Huang dives into GRM Tools Atelier with early‐access enthusiasm, spotlighting its unique global effects, spectral processors and a truly game-changing modulation matrix that turns any knob, sli"
   },
   {
     "title": "Andrew Huang: Using a vocal generator very wrong",
-    "link": "https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1l3p",
-    "pubDate": "Tue, 21 Oct 2025 06:13:29 +0000",
+    "link": "https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-27ef",
+    "pubDate": "Tue, 21 Oct 2025 12:24:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Using a vocal generator very wrong\n\n\nAndrew Huang takes Voice by Auribus’s AI vocal plugin for a joyride, starting with the ethics of AI singing and quickly spiraling into absurd territory—turning dru"
+    "contentSnippet": "Using a vocal generator completely off-label, Andrew Huang kicks things off by hashing out the ethics of AI vocals, then dives into creative misuse—warbly singing, blood-curdling screams, even non-sin"
   },
   {
     "title": "Cercle: OFF STAGE WITH WhoMadeWho & Tripolism",
-    "link": "https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-40b0",
-    "pubDate": "Tue, 21 Oct 2025 06:13:17 +0000",
+    "link": "https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-5efe",
+    "pubDate": "Tue, 21 Oct 2025 12:24:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Cercle Records just unveiled an off-stage session featuring electro-pop trio WhoMadeWho and beat innovator Tripolism.\nThis unexpected collab packs raw behind-the-scenes energy, fresh grooves, and expe"
+    "contentSnippet": "OFF STAGE WITH WhoMadeWho & Tripolism\n\n\nDanish electronic outfit WhoMadeWho teams up with rising talent Tripolism for an off-stage Cercle session that’s all about fresh beats and unexpected energy. It"
   },
   {
-    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-179j",
-    "pubDate": "Tue, 21 Oct 2025 06:13:00 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Indys Blu, a New Orleans vocalist, brings raw emotion and poetic flair to her stirring performance of “Saddest Song” on A COLORS SHOW, weaving heartbreak into every note.\nCatch the full set via the CO"
-  },
-  {
-    "title": "KEXP: Adrian Quesada - Puedes Decir De Mi (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-adrian-quesada-puedes-decir-de-mi-live-on-kexp-4d9o",
-    "pubDate": "Tue, 21 Oct 2025 06:12:13 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Adrian Quesada rolls into the KEXP studio on September 2, 2025 to unleash a live version of “Puedes Decir De Mí” featuring the silky vocals and acoustic guitar of Gaby Moreno. Backed by Joshy Soul (ke"
+    "title": "uv × DockerでのPython開発環境構築方法",
+    "link": "https://zenn.dev/mkj/articles/3aaa36d6f35c08",
+    "pubDate": "Tue, 21 Oct 2025 02:50:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "松尾研究所では、Python開発における標準ツールとしてuvを推奨しています。uvはPythonのパッケージ管理ツールで、依存関係の管理や仮想環境の構築を自動化し、高速で再現性のある開発を可能にすることが特長です。\nPythonパッケージだけでなく、Node.jsやブラウザ周りのツールなど他の依存も扱うときには、uvとDockerを併用するケースもあるかと思います。Dockerのコンテナ上でuvを"
   },
   {
     "title": "Next.js 15 / React 19 実践設計ガイド 実装観点別のベストプラクティス",
@@ -77,6 +84,41 @@
     "contentSnippet": "Next.js 15とReact 19を使用したWebアプリケーション開発における、実践的な設計方針とベストプラクティスをまとめたガイドを作成しました。\n\n本書では、Next.js 15 / React 19を活用したモダンなWebアプリケーション開発における設計方針を、実装観点ごとに整理しています。App Routerを前提とし、ディレクトリ構成、コンポーネント設計、データ取得、データ更新、状態"
   },
   {
+    "title": "0からフロントエンドにテストを導入した話",
+    "link": "https://zenn.dev/eversteel_tech/articles/c510e3f036b2bf",
+    "pubDate": "Tue, 21 Oct 2025 01:07:58 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは。株式会社EVERSTEELで業務委託のソフトウェアエンジニアとして参画している日野原です。\n主にフロントエンドを担当しており、技術としてはNext.jsを使用しています。（詳しい技術内容はこちらを参照）\n少し前の話になりますが、ゼロからテストを導入したので、その過程や戦略について話していこうと思います。\nフロントエンドのテストを検討している方や、テストの運用方法を迷っている方の参考にな"
+  },
+  {
+    "title": "【GIFTech×iwashi】「好奇心」を「価値」に変える。fukabori.fmホストiwashi氏に学ぶ、しなやかで力強いキャリア戦略【GIFTech Cross-Talk vol.4 ゲスト：iwashi】",
+    "link": "https://qiita.com/GIFCat/items/cf86e0579efd99199869?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T00:07:16.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事は、こんな方に向けて書きました\n\n自身の「好奇心」を、市場価値の高い「専門性」へと繋げたいと考えているエンジニア\nチームを率い、周囲を巻き込みながら、より大きなインパクトを生み出したいリーダー\n自身の学びを加速させ、コミュニティと共に成長していきたいと考えている..."
+  },
+  {
+    "title": "RAGが苦手な「ぬるっとした日本語」と戦う",
+    "link": "https://zenn.dev/knowledgesense/articles/83c89503b6531b",
+    "pubDate": "Tue, 21 Oct 2025 00:01:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本記事では、RAGの性能を高めるための「DualCSE」という手法について、ざっくり理解します。\n株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。\n\n この記事は何\nこの記事は、日本語特有の「あいまいな婉曲表現」（=ぬるっとした日本語）を含む文章でもRAGの精度を上げるための手法「DualCSE」の論文[1]について、日本語"
+  },
+  {
+    "title": "【個人開発】マッチング型サービスの技術選定",
+    "link": "https://zenn.dev/yosashusaku/articles/perdev-matching-techselect",
+    "pubDate": "Mon, 20 Oct 2025 23:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nマッチング型の求人サービス「おためし転職」を個人開発しました。本記事では、求職者向け（toC）と企業向け（toB）の2つのプラットフォームを構築する上での技術選定と、その理由について解説します。\n求職者向けサイト（toC）: https://otame4.work/\n企業向けサイト（toB）: https://employer.otame4.work/\n\n 技術スタック\nインフラ：Clo"
+  },
+  {
+    "title": "【ポケモン×Java】Lv11：『キミが技を選ぶ番だ!』〜Scanner〜",
+    "link": "https://qiita.com/hitomin_poke/items/83f677ba022e41ef12a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T15:56:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "前回をまだ読んでない方はこちら\n👉 【ポケモン×Java】Lv10：『選べ、キミの一撃！』〜攻撃メソッド〜\n\n🎮 技を選んで攻撃だ！\nこれまでは、プログラム側で攻撃を指定していたよね？\n\n次は、プレイヤー自身が選んで攻撃できるようにするよ！\n\n💡 Scanner で..."
+  },
+  {
     "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",
     "link": "https://www.publickey1.jp/blog/25/webviteaiviteagent_mode.html",
     "pubDate": "2025-10-20T15:20:25.000Z",
@@ -84,18 +126,46 @@
     "contentSnippet": "オープンソースのWebアプリケーションビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているvoid(0)（VoidZero：ボイドゼロ）は、Viteをベースとした統合開発ツールチェーン「Vite+」を発表しました。 The Unified Toolchain for the WebWe are thrilled to announce Vite+: A unified, Rust-p"
   },
   {
-    "title": "Cortex Analyst と Streamlit を用いた Text2SQL アプリ作成",
-    "link": "https://zenn.dev/chihilong/articles/text2sql-app-cortex-analyst-streamlit",
-    "pubDate": "Mon, 20 Oct 2025 05:13:15 GMT",
+    "title": "やっぱり、ゲーム開発に憧れていた。はじめてのUnity",
+    "link": "https://zenn.dev/ty0627/articles/acd6d546dbf293",
+    "pubDate": "Mon, 20 Oct 2025 11:54:11 GMT",
     "source": "Zenn",
-    "contentSnippet": "記事の概要\nこんにちは。シンプルフォーム株式会社でインターンをしています、長井です。\nこの記事では、Cortex Analyst [1] を用いたチャットアプリケーションを Streamlit [2] で構築した事例を紹介します。具体的には本アプリケーションで実装した以下の機能を説明します。\n\nチャット機能\n\nチャット\nリクエスト数のカウント\nSemantic View の選択\n直前までの質問を参"
+    "contentSnippet": "はじめまして。\n先日、zennの運営会社であるクラスメソッドさん主催の「DevelopersIO 2025 TOKYO」に参加させていただきました。アウトプットの重要性を熱く語っていてとても感動し、一念発起して始めてみました。\nhttps://events.classmethod.jp/seminar/251018-developersio2025-tokyo/\n\n 軽く自己紹介\n学生エンジニア見"
   },
   {
-    "title": "【mysql2】queryとexecuteの使い分け",
-    "link": "https://qiita.com/tomonari_09/items/30f6731e580f98989afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T04:59:28.000Z",
+    "title": "【JavaScript】オブジェクトをfreezeした後でもprivateプロパティを変更できるし生やすこともできる",
+    "link": "https://qiita.com/rana_kualu/items/ede5f5c0135996e72ebc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T11:39:32.000Z",
     "source": "Qiita",
-    "contentSnippet": "初めに\nみなさんはmysql2を使ったことがありますか？Node.js上でMySQLに接続する際のクライアントライブラリとして、mysql2が主要な選択肢の一つだと思います。その際に、SQL文を実行するときのquery関数とexecute関数の使い分けが曖昧だったので整理..."
+    "contentSnippet": "Object.freeze\nObject.freezeすると、そのオブジェクト直下のプロパティを作成変更削除することができなくなります。\nclass HOGE {\n  publicProperty;\n  \n  setPublicProperty(val) {\n    th..."
+  },
+  {
+    "title": "タスク管理に「AIに依頼」機能をつけたら開発体験がめちゃ向上した話",
+    "link": "https://zenn.dev/himara2/articles/03fbe80334b86d",
+    "pubDate": "Mon, 20 Oct 2025 10:43:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "個人開発でタスク管理サービスを作っています。\nそのサービスに 「このタスクをAIに進めてもらう」 機能をつけたらめちゃ体験が良くなったので紹介させてください。\n\n 作ってるもの\ntone（トーン）というWebサービスを作っています。\nコンセプトは「人とAIのためのチームタスク管理」。人が使いやすいインターフェースに加え、MCP経由でAIからも使えるのが特徴のタスク管理サービスです。\nhttps:/"
+  },
+  {
+    "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",
+    "link": "https://qiita.com/comty/items/e1f1f82b89278c1a7e8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T08:45:42.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nアサヒグループは2025年9月29日にサイバー攻撃があったと発表しました。（サイバー攻撃によるシステム障害発生について）\n報道されたランサムウェア起因のシステム障害は、生産設備そのものではなく、受注・出荷・顧客対応といった業務フローが止まることで供給全体が止ま..."
+  },
+  {
+    "title": "React Compiler v1.0がリリースされました！",
+    "link": "https://zenn.dev/terass_dev/articles/eca0bad44e8d39",
+    "pubDate": "Mon, 20 Oct 2025 08:30:16 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TERASSエンジニアの@shuji_koikeです！\n昨年弊社のテックブログで同僚の@myrearが\"React Forget は何を「忘れ」させてくれるのか\"という秀逸なタイトルの記事を投稿したところトレンド入りを果たし、弊ブログとしては快挙と言える数の「いいね」をいただきました。\nそしてついに先日React Conf 2025に合わせて、React Forgetは名前を変えてReact Co"
+  },
+  {
+    "title": "【LLMOps】Vertex AI Gemini(ADC)を、LangfuseのPlaygroundで実行",
+    "link": "https://qiita.com/kkkdev/items/8e5cdf602e1fa1e21ef0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T08:01:58.000Z",
+    "source": "Qiita",
+    "contentSnippet": "株式会社ブレインパッドの津久井です。\n現在は、AI SaaSのエージェントリンリーの開発リードを担当しています。\n弊社プロダクト事業のエンジニアは 連続バズ師の @tomo-2525や @y-tsukasa、\nOracleアウトプット狂(いい意味で)の @take-yoda..."
   },
   {
     "title": "帰ってきた IETF 124 Side Meeting 差分アップデート（2025年10月19日版）",
@@ -103,13 +173,6 @@
     "pubDate": "2025-10-20T04:04:54.000Z",
     "source": "Qiita",
     "contentSnippet": "そろそろIETF124の開催が近づいてきてきましたね！\nGMOコネクト 菅野（かんの）です。\n10月14日に公開した「【徹底分析】IETF 124 Side Meeting まとめ」から、Trelloボード上の構成が複数更新されました。\n本記事では、Trello公式ボード・..."
-  },
-  {
-    "title": "Rust の derive macro を書いてみよう",
-    "link": "https://zenn.dev/doctormate/articles/0a7cc9365d90cd",
-    "pubDate": "Mon, 20 Oct 2025 03:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前回は cargo-expand を使って thiserror crate の derive macro の展開結果を見てみました 。今回は derive macro を書いて derive macro に慣れてみようと思います。\n\n derive macro とは\nderive macro とは、手続き的マクロ (procedural macro) の一種で、struct や enum などに "
   },
   {
     "title": "LLMの責務を最小化する設計 — Claude Codeの中身は50代のベテランエンジニアかもしれない件",
@@ -126,74 +189,11 @@
     "contentSnippet": "2025年10月20日の僕が考えるAIコーディング（バイブコーディング）プロセスです。\n個人的な結論としては、1ミリでも気に食わないコードを生成してきたら、そのタスクは最終的には破棄すべきというものです。「このコード気に食わない」「この設計気に食わない」の直感がAIコーディングで品質を維持する生命線です。\n\n\nバイブコーディング時代ではコードレビューのお局ビリティが鍵です。\nレビューに全時間を割こ"
   },
   {
-    "title": "なぜResult型ライブラリを再発明したのか",
-    "link": "https://zenn.dev/praha/articles/9d24390b869499",
-    "pubDate": "Mon, 20 Oct 2025 02:00:19 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nTypeScriptでエラーハンドリングを型安全に行いたいと考えたとき、皆さんはどのようなアプローチを取るでしょうか。\nJavaScript/TypeScriptの標準的なエラーハンドリング手法であるtry/catchは、型安全性に欠け、エラーが発生する可能性のあるコードを追跡するのが難しいという問題があります。\nそんな課題を解決するために、よく用いられるのがResult型を用いたエラー"
-  },
-  {
-    "title": "2025年版 スタートアップエンジニアが考えるWebアプリの技術選定",
-    "link": "https://zenn.dev/m_noto/articles/5e4c9f705f500b",
-    "pubDate": "Mon, 20 Oct 2025 01:30:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめまして、_minoです！\nこの記事では、最近公開されたムーザルちゃんねるさんの動画「2025年版「Webアプリ作るなら技術どれにする？」」を見て、私も今年を振り返り採用してよかった技術や、トレンドから見た来年以降流行りそうな技術についてまとめました。\n「その技術いいよね！」「この技術よかった!」などのご意見がありましたら、コメントで教えていただけると嬉しいです!\n!\n筆者がフロントエンドメイ"
-  },
-  {
-    "title": "Railsでメール認証コードを送信＆照合するAPIを実装してみた（Flutter連携・前編）",
-    "link": "https://qiita.com/chara-gida/items/fe058d4ef9da1a490f06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T00:39:34.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nスマートフォンアプリなどでよくある\n「メールアドレスを入力 → 認証コードを受信 → 入力して認証」\nという仕組みを、自前のRails APIで構築する方法を紹介します。\n今回はその前編として、バックエンド側での\n\n認証コードの生成\nメール送信（ActionMa..."
-  },
-  {
-    "title": "【Claude Code】Serenaの導入でAI活用を加速！",
-    "link": "https://zenn.dev/hacobell_dev/articles/claude-code-serena-mcp-experience",
-    "pubDate": "Mon, 20 Oct 2025 00:30:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "3行まとめ\n\nClaude Codeの出力精度を安定させるための設定ファイル整備に苦労していた\nSerena導入で、コードベース全体の一貫性を保持しつつ、暗黙知の言語化コストを大幅削減\nLSPとIndexingによりToken使用量が削減され、APIコストを低減\n\n\n はじめに\nClaude Codeを導入してみたものの、期待した効果が得られずに悩んでいる方も多いのではないでしょうか。私もその一人"
-  },
-  {
-    "title": "containerlab × FRRoutingで実現！BGP冗長化シナリオと自動経路切り替え 実験レシピ",
-    "link": "https://qiita.com/ntaka329/items/1a4291591dc63a55a05c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T00:02:58.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n前回の記事を投稿したところ、暗号のおねえさん から「一般的なご家庭なら経路冗長化するよね！」と素敵なコメントがありました。\n確かに、お家では経路の冗長化は必須ですね！ということで、今回はBGPの冗長構成について試してみます。\nPrim..."
-  },
-  {
-    "title": "ReActを使ったAIエージェントによる自律的ワークフローをOracle DBの機能だけで実装してみた (26ai Select AI Agent)",
-    "link": "https://qiita.com/ssfujita/items/80454001845fa1493495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T23:32:56.000Z",
-    "source": "Qiita",
-    "contentSnippet": "先日のOracle AI World開催に合わせて、Autonomous AI Database 26ai (旧Autonomous Database 23ai) に「Select AI Agent」という機能が追加されました。\n詳細は下記アナウンスをご参照ください。\n\n..."
-  },
-  {
-    "title": "Trocco の運用を Terraform 管理に変えてみた",
-    "link": "https://zenn.dev/medley/articles/a68e98452e1adf",
-    "pubDate": "Sun, 19 Oct 2025 23:23:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、メドレーでデータエンジニアをしている山邉（@beniyama）です。\n先日、弊社で利用中の Trocco についてこちらの記事を寄稿させていただきましたが、今後の展望として以下を挙げていました。\n\n上述の通り段々と規模が大きくなってきて GUI での管理が大変になってきているため、API や Terraform 経由でのプロビジョニングも生成 AI を絡めて試していきたいです"
-  },
-  {
-    "title": "GitHub Copilot Coding Agent に実装を任せて、作業を並行化する",
-    "link": "https://zenn.dev/shintaro/articles/48c0abd59a6088",
-    "pubDate": "Sun, 19 Oct 2025 22:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "GitHub Copilot Coding Agent とは\nGitHub Copilot Coding Agent は、GitHub が提供する Copilot 関連機能のひとつで、開発者の指示に応じて コードの変更や Pull Request（PR） の作成を自動で実行する自律エージェント です。\nhttps://docs.github.com/ja/copilot/concepts/agen"
-  },
-  {
     "title": "シスコ、AIにセキュアなコードを生成させるためのルールセット「Project CodeGuard」をオープンソースで公開",
     "link": "https://www.publickey1.jp/blog/25/aiproject_codeguard.html",
     "pubDate": "2025-10-19T15:35:02.000Z",
     "source": "Publickey",
     "contentSnippet": "シスコシステムズは、AIコーディングツールを用いてコーディングを行う際に、生成されるコードが脆弱性を持たず安全なパターンを用いたものにするためのルールセットなどを備えた「Project CodeGuard」をオープンソースで公開しました。 Markdownで書かれたセキュリティルールなど Project CodeGuardは、コミュニティによって作成されたMarkdown形式で書かれたセキュリティ"
-  },
-  {
-    "title": "Amazon Bedrock のモデルアクセス廃止に関しておさえておくとよいこと",
-    "link": "https://qiita.com/hayao_k/items/aaaf92e15a60bebd137a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T14:25:00.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n2025/10/15 のアップデートで Amazon Bedrock のモデルアクセスが廃止され、Bedrock で提供される基盤モデルへの初期アクセスが簡素化されました。\n\n単に機能として消えただけではなく、周辺の動作がそれなりに変わっているようです..."
   },
   {
     "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",

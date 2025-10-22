@@ -1,73 +1,80 @@
 [
   {
-    "title": "Premium Courses You Can Access for Free as a Student",
-    "link": "https://dev.to/connectalamin/premium-courses-you-can-access-for-free-as-a-student-37lh",
-    "pubDate": "Wed, 22 Oct 2025 12:56:22 +0000",
+    "title": "A Complete Guide to Building a Payment System with Payload CMS and Lemon Squeezy",
+    "link": "https://dev.to/aaronksaunders/a-complete-guide-to-building-a-payment-system-with-payload-cms-and-lemon-squeezy-3n9n",
+    "pubDate": "Wed, 22 Oct 2025 18:30:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hope everyone is well!\nToday I’ll show you how you can access premium subscriptions like DataCamp, Frontend Masters, Scrimba, and more — completely free, just for being a student.\nIf you're a student "
+    "contentSnippet": "Learn how to build a full payment system using the modern stack of Payload CMS, Next.js API Routes, and Lemon Squeezy, including a deep dive into debugging common API errors.\nIntegrating payments into"
   },
   {
-    "title": "Copilot Premium Requests—More Than Asked, Exactly What You Need 💸",
-    "link": "https://dev.to/anchildress1/copilot-premium-requests-more-than-asked-exactly-what-you-need-8ph",
-    "pubDate": "Wed, 22 Oct 2025 12:48:00 +0000",
+    "title": "Despliega Agentes de IA con memoria a largo plazo a Producción en 15 Minutos (Sin Docker, Sin Kubernetes, Sin Dolor de Cabeza)",
+    "link": "https://dev.to/aws-espanol/despliega-agentes-de-ia-con-memoria-a-largo-plazo-a-produccion-en-15-minutos-sin-docker-sin-1l5c",
+    "pubDate": "Wed, 22 Oct 2025 18:26:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Any time I make a plan—like last week’s noble intention to finish part two of my slightly theoretical, totally manual AI attribution solution—the universe just laughs. I’ll finish that one soon, I "
+    "contentSnippet": "🇻🇪🇨🇱 Dev.to LinkedIn GitHub Twitter Instagram YouTube\nElizabeth Fuentes LFollow\n\n    \nAWS Developer Advocate specializing in AI/ML and Generative AI. \nI simplify complex cloud concepts through han"
   },
   {
-    "title": "What's new in C# 14: overview",
-    "link": "https://dev.to/pvsdev/whats-new-in-c-14-overview-13d4",
-    "pubDate": "Wed, 22 Oct 2025 12:47:27 +0000",
+    "title": "Fight the Future: The Anti-AI Reflex",
+    "link": "https://dev.to/p3ngu1nzz/fight-the-future-the-anti-ai-reflex-6db",
+    "pubDate": "Wed, 22 Oct 2025 18:22:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "C# 14 is almost here, so it's time for our annual feature overview. This year brought fewer changes than the last. Some might consider them minor, but is it really so? Let's take a closer look.\n\nYes, "
+    "contentSnippet": "Why Do Some People Loathe AI? A First-Person Exploration of the Psychology, Social Dynamics, and Cultural Pathology Behind Anti-AI Troll Behavior\n\n\n\nAuthor: Kara Rawson {rawsonkara@gmail.com} \nDate: O"
   },
   {
-    "title": "Fixing Symfony CORS OPTIONS Errors: A Pro-Tip on Event Listeners (No Bundle Needed!)",
-    "link": "https://dev.to/andreagelmini/fixing-symfony-cors-options-errors-a-pro-tip-on-event-listeners-no-bundle-needed-1klj",
-    "pubDate": "Wed, 22 Oct 2025 12:37:48 +0000",
+    "title": "AI-Powered Git Commits: Alternative for GitHub Copilot with Mistral codestral",
+    "link": "https://dev.to/d-oit/ai-powered-git-commits-alternative-for-github-copilot-with-mistral-codestral-502n",
+    "pubDate": "Wed, 22 Oct 2025 18:17:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey #Symfony developers and #webdev community!\nAre you constantly battling those frustrating Access-Control-Allow-Origin CORS errors, especially when dealing with OPTIONS preflight requests from your "
+    "contentSnippet": "Building clear, concise commit messages can feel like a chore—especially when you’ve got context switching, PR reviews, and deadlines breathing down your neck. GitHub Copilot’s “generate commit” featu"
   },
   {
-    "title": "Why Could ChatGPT Atlas Make Your Web Browsing Smarter and Faster?",
-    "link": "https://dev.to/jovin_george_733dcfc16291/why-could-chatgpt-atlas-make-your-web-browsing-smarter-and-faster-1422",
-    "pubDate": "Wed, 22 Oct 2025 12:37:10 +0000",
+    "title": "Testing Oxide CMS to Dev.to Integration",
+    "link": "https://dev.to/richet/testing-oxide-cms-to-devto-integration-1h1b",
+    "pubDate": "Wed, 22 Oct 2025 18:13:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "ChatGPT Atlas is OpenAI's new browser that blends AI into daily surfing. Launched on October 21, 2025, it aims to make online tasks quicker and more intuitive by predicting needs and handling routines"
+    "contentSnippet": "Hello from Oxide CMS!\n\n\nThis is a test article published from Oxide CMS to Dev.to using our plugin system.\nMarkdown formatting\nCode syntax highlighting\nPlugin-based adapter system\n\n\n\n\nfn main() {\n    "
   },
   {
-    "title": "Auth Explained (Part 1): ID vs Access vs Refresh tokens — 🤔what they ACTUALLY do (and why localStorage is a trap)",
-    "link": "https://dev.to/sylwia-lask/auth-explained-part-1-id-vs-access-vs-refresh-tokens-what-they-actually-do-and-why-2l1",
-    "pubDate": "Wed, 22 Oct 2025 12:33:54 +0000",
+    "title": "Calico Node Readiness Probe Failed Issues",
+    "link": "https://dev.to/abirk/calico-node-readiness-probe-failed-issues-42i8",
+    "pubDate": "Wed, 22 Oct 2025 18:11:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A while ago in a technical interview I got asked:\n“Can you walk me through how authentication and authorization actually work under the hood?”\nAnd like many devs I knew just enough to plug in Auth0/Ne"
+    "contentSnippet": "🛠️ Resolving Calico Node Readiness Issues: A Practical Guide\n\n\n\n  \n  \n  🧩 Problem Overview\n\n\nIn Kubernetes clusters utilizing Calico as the networking solution, nodes may occasionally report a \"not "
   },
   {
-    "title": "How to Ensure Cross-Browser Compatibility With Open Source Testing Tools?",
-    "link": "https://dev.to/sophielane/how-to-ensure-cross-browser-compatibility-with-open-source-testing-tools-371c",
-    "pubDate": "Wed, 22 Oct 2025 12:31:59 +0000",
+    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)",
+    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-50hm",
+    "pubDate": "Wed, 22 Oct 2025 18:09:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever clicked through your web app on multiple browsers and noticed something looked slightly off—or worse, a feature didn’t work at all? That’s why cross-browser testing is essential. Users expect you"
+    "contentSnippet": "I took on the head pro at Heswall GC in a winner-takes-£1,000 shootout for Episode 1 of my series, powered by Titleist. These guys aren’t just sponsoring Tom—they’re backing club pros across the UK an"
   },
   {
-    "title": "The Return of Assembly: When LLMs No Longer Need High-Level Languages",
-    "link": "https://dev.to/ionionascu/the-return-of-assembly-when-llms-no-longer-need-high-level-languages-1dak",
-    "pubDate": "Wed, 22 Oct 2025 12:30:14 +0000",
+    "title": "🎥 I Built a Professional YouTube Downloader with Python - Here's How!",
+    "link": "https://dev.to/dusmamud/i-built-a-professional-youtube-downloader-with-python-heres-how-p4b",
+    "pubDate": "Wed, 22 Oct 2025 18:09:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most people in IT have at least heard of assembly language. Some even saw it during university - just enough to know it exists, but not enough to use it for anything real.\nAssembly used to be the secr"
+    "contentSnippet": "🎥 I Built a Professional YouTube Downloader with Python\n\n\nEver wanted to download YouTube videos or extract audio for offline listening? I created a comprehensive, production-ready YouTube downloader"
   },
   {
-    "title": "How We Distribute Orders Among Couriers at Mixfood",
-    "link": "https://dev.to/mixfood/how-we-distribute-orders-among-couriers-at-mixfood-3ha1",
-    "pubDate": "Wed, 22 Oct 2025 12:20:16 +0000",
+    "title": "Bring AI agents with Long-Term memory into production in minutes",
+    "link": "https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l",
+    "pubDate": "Wed, 22 Oct 2025 18:06:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "One of the key challenges in a food delivery service is ensuring that orders reach customers quickly while minimizing courier idle time (the time when they're online but without an active order). It s"
+    "contentSnippet": "Give Your AI Agents Long-Term Memory: Amazon Bedrock AgentCore Memory in Action\n\n\n\nMy Amazon Bedrock AgentCore code sample\nPart 2 of the AgentCore Series\n🇻🇪🇨🇱 Dev.to LinkedIn GitHub Twitter Instag"
   },
   {
-    "title": "DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA",
-    "link": "https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4",
-    "pubDate": "Wed, 22 Oct 2025 12:19:10 +0000",
+    "title": "Ringer Movies: The 10 Best Horror Movies of 2025",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-5a38",
+    "pubDate": "Wed, 22 Oct 2025 18:03:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "bu kurulum için bir domain adına ihtiyacımız var benim senaryomda keycloak.local olarak ilerleyeceğim.\n1. Adım: Host makinemde, yani browserımla keycloak'a erişeceğim makinede /etc/hosts dosyasını nan"
+    "contentSnippet": "**Sean Fennessey and Chris Ryan kick off their horror deep-dive with juicy headlines—from a Nolan trailer tease to casting scoops for Behemoth!—before tearing into Scott Derrickson’s disappointing The"
+  },
+  {
+    "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",
+    "link": "https://www.publickey1.jp/blog/25/aws_kiro.html",
+    "pubDate": "2025-10-22T15:50:43.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、Visual Studio Code（VS Code）互換のコードエディタに生成AIを統合したAIコードエディタ「Kiro」のウェイトリストが終了し、誰でもダウンロードして利用可能になったことを明らかにしました。 と同時に、「Spec Context in Chat」や「Dev server support」などの新機能も追加されました。 Kir"
   },
   {
     "title": "エクセルのスピルについて",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-13T15:42:38.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトが主導して開発しているオープンソースのテスト自動化フレームワーク「Playwright」の新バージョン「Playwright 1.56」がリリースされました。 Playwrightはデスクトップ向けのWebアプリケーションやモバイル向けのWebアプリケーションのテスト自動化が可能で、Chromium、WebKit、Firefoxなどの主要なモダンブラウザのエンジンのヘッドレス、ヘッド"
-  },
-  {
-    "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",
-    "link": "https://www.publickey1.jp/blog/25/googlegemini_enterpriseofficesalesforcesapjira.html",
-    "pubDate": "2025-10-09T15:04:58.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Googleは、Geminiをベースにエンタープライズ向けの包括的なAIサービスを提供する「Gemini Enterprise」を発表しました。 Gemini Enterpriseの特徴は、Google Workspaceなどの特定のプロダクトに統合されたAIサービスではなく、企業内で業務を行う上で必要な複数のさまざまなサービスやアプリケーションと連携し、それらのデータを基にビジネスやユーザーのコ"
   }
 ]

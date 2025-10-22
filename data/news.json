@@ -1,73 +1,87 @@
 [
   {
-    "title": "Running Frappe/ERPNext on Windows with WSL — A Web Developer’s Perspective",
-    "link": "https://dev.to/aditorito/running-frappeerpnext-on-windows-with-wsl-a-web-developers-perspective-2ami",
-    "pubDate": "Wed, 22 Oct 2025 06:35:54 +0000",
+    "title": "Premium Courses You Can Access for Free as a Student",
+    "link": "https://dev.to/connectalamin/premium-courses-you-can-access-for-free-as-a-student-37lh",
+    "pubDate": "Wed, 22 Oct 2025 12:56:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 How It Started\nI’m a MERN-stack developer exploring ERP software then I come to know about ERNnext based on Frappe, an open-source Python + MariaDB framework.\nFrappe runs perfectly on Linux/Mac, bu"
+    "contentSnippet": "Hope everyone is well!\nToday I’ll show you how you can access premium subscriptions like DataCamp, Frontend Masters, Scrimba, and more — completely free, just for being a student.\nIf you're a student "
   },
   {
-    "title": "Using Claude Code with GitHub Copilot Subscription",
-    "link": "https://dev.to/allentcm/using-claude-code-with-github-copilot-subscription-2obj",
-    "pubDate": "Wed, 22 Oct 2025 06:24:17 +0000",
+    "title": "Copilot Premium Requests—More Than Asked, Exactly What You Need 💸",
+    "link": "https://dev.to/anchildress1/copilot-premium-requests-more-than-asked-exactly-what-you-need-8ph",
+    "pubDate": "Wed, 22 Oct 2025 12:48:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Do you have a Github Copilot subscription sitting around doing nothing? Why not pair it with the Claude Code (claimed by many developers as the best AI coding agent thus far).\nInstall Python on your l"
+    "contentSnippet": "🦄 Any time I make a plan—like last week’s noble intention to finish part two of my slightly theoretical, totally manual AI attribution solution—the universe just laughs. I’ll finish that one soon, I "
   },
   {
-    "title": "Open-Source Cypress Testing Project – 40+ UI Test Cases!",
-    "link": "https://dev.to/masaid_zeb_a57995c342d96b/open-source-cypress-testing-project-40-ui-test-cases-3d76",
-    "pubDate": "Wed, 22 Oct 2025 06:22:06 +0000",
+    "title": "What's new in C# 14: overview",
+    "link": "https://dev.to/pvsdev/whats-new-in-c-14-overview-13d4",
+    "pubDate": "Wed, 22 Oct 2025 12:47:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey testers, devs, and automation learners! 👋\n🧪 Project: Cypress-Sample-Test-Cases\n🌐 Tech: JavaScript + Cypress\n🎯 What’s Inside?\n✅ 40+ test cases covering:\nAssertions & validations\nDropdowns & tab"
+    "contentSnippet": "C# 14 is almost here, so it's time for our annual feature overview. This year brought fewer changes than the last. Some might consider them minor, but is it really so? Let's take a closer look.\n\nYes, "
   },
   {
-    "title": "New universal drivers for IoT Platform",
-    "link": "https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe",
-    "pubDate": "Wed, 22 Oct 2025 06:19:26 +0000",
+    "title": "Fixing Symfony CORS OPTIONS Errors: A Pro-Tip on Event Listeners (No Bundle Needed!)",
+    "link": "https://dev.to/andreagelmini/fixing-symfony-cors-options-errors-a-pro-tip-on-event-listeners-no-bundle-needed-1klj",
+    "pubDate": "Wed, 22 Oct 2025 12:37:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In some of the previous blogs, I wrote a lot about the IoT platform from Total.js. Like what it is, why it can be useful, how to install individual parts to get it working, and how to set it up and st"
+    "contentSnippet": "Hey #Symfony developers and #webdev community!\nAre you constantly battling those frustrating Access-Control-Allow-Origin CORS errors, especially when dealing with OPTIONS preflight requests from your "
   },
   {
-    "title": "Build and push Docker images to Amazon ECR using Terraform",
-    "link": "https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67",
-    "pubDate": "Wed, 22 Oct 2025 06:19:16 +0000",
+    "title": "Why Could ChatGPT Atlas Make Your Web Browsing Smarter and Faster?",
+    "link": "https://dev.to/jovin_george_733dcfc16291/why-could-chatgpt-atlas-make-your-web-browsing-smarter-and-faster-1422",
+    "pubDate": "Wed, 22 Oct 2025 12:37:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn general you would want to deploy infrastructure using terraform, build and push docker images in CI/CD phase. But let's say, just in case, someone pointed a gun at your head asking y"
+    "contentSnippet": "ChatGPT Atlas is OpenAI's new browser that blends AI into daily surfing. Launched on October 21, 2025, it aims to make online tasks quicker and more intuitive by predicting needs and handling routines"
   },
   {
-    "title": "#2 Lexical Scoping && Closure in JavaScript --",
-    "link": "https://dev.to/mithukr/2-lexical-scoping-closure-in-javascript--48pa",
-    "pubDate": "Wed, 22 Oct 2025 06:16:26 +0000",
+    "title": "Auth Explained (Part 1): ID vs Access vs Refresh tokens — 🤔what they ACTUALLY do (and why localStorage is a trap)",
+    "link": "https://dev.to/sylwia-lask/auth-explained-part-1-id-vs-access-vs-refresh-tokens-what-they-actually-do-and-why-2l1",
+    "pubDate": "Wed, 22 Oct 2025 12:33:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🧠 Lexical Scoping and Closures —\n\n\nEver seen a function in JavaScript remember a variable even after it's done running?\n\nThat’s not magic — it’s Lexical Scoping and Closures.\n\nLet’s break it down wit"
+    "contentSnippet": "A while ago in a technical interview I got asked:\n“Can you walk me through how authentication and authorization actually work under the hood?”\nAnd like many devs I knew just enough to plug in Auth0/Ne"
   },
   {
-    "title": "Translating Requirements into Test Plan & Strategy: My HNGi13 QA Journey",
-    "link": "https://dev.to/amidat_sule_6ba4feb8bcbe2/translating-requirements-into-test-plan-strategy-my-hngi13-qa-journey-59hc",
-    "pubDate": "Wed, 22 Oct 2025 06:08:07 +0000",
+    "title": "How to Ensure Cross-Browser Compatibility With Open Source Testing Tools?",
+    "link": "https://dev.to/sophielane/how-to-ensure-cross-browser-compatibility-with-open-source-testing-tools-371c",
+    "pubDate": "Wed, 22 Oct 2025 12:31:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Stage 1 of the HNGi13 QA Track focused on reviewing requirement documents and translating them into an actionable test plan.\nFor this task, I worked on Gradific, a grading and task management platform"
+    "contentSnippet": "Ever clicked through your web app on multiple browsers and noticed something looked slightly off—or worse, a feature didn’t work at all? That’s why cross-browser testing is essential. Users expect you"
   },
   {
-    "title": "Digital Alchemy: Turning Ideas into Interactive Worlds with AI",
-    "link": "https://dev.to/arvind_sundararajan/digital-alchemy-turning-ideas-into-interactive-worlds-with-ai-j37",
-    "pubDate": "Wed, 22 Oct 2025 06:02:06 +0000",
+    "title": "The Return of Assembly: When LLMs No Longer Need High-Level Languages",
+    "link": "https://dev.to/ionionascu/the-return-of-assembly-when-llms-no-longer-need-high-level-languages-1dak",
+    "pubDate": "Wed, 22 Oct 2025 12:30:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Digital Alchemy: Turning Ideas into Interactive Worlds with AI\n\n\nTired of spending months building simulators for your AI experiments or game development projects? What if you could describe a complex"
+    "contentSnippet": "Most people in IT have at least heard of assembly language. Some even saw it during university - just enough to know it exists, but not enough to use it for anything real.\nAssembly used to be the secr"
   },
   {
-    "title": "🚀 Next.js 16 — A Huge Leap in Web Development",
-    "link": "https://dev.to/shaahzaibrehman/nextjs-16-a-huge-leap-in-web-development-5fli",
-    "pubDate": "Wed, 22 Oct 2025 05:57:15 +0000",
+    "title": "How We Distribute Orders Among Couriers at Mixfood",
+    "link": "https://dev.to/mixfood/how-we-distribute-orders-among-couriers-at-mixfood-3ha1",
+    "pubDate": "Wed, 22 Oct 2025 12:20:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Next.js team has just released Next.js 16, and it’s one of the biggest updates we’ve seen in recent versions. This release focuses heavily on performance, caching, developer experience, and explic"
+    "contentSnippet": "One of the key challenges in a food delivery service is ensuring that orders reach customers quickly while minimizing courier idle time (the time when they're online but without an active order). It s"
   },
   {
-    "title": "Something Could Double the Development Efficiency of Java Programmers",
-    "link": "https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-3md",
-    "pubDate": "Wed, 22 Oct 2025 05:48:11 +0000",
+    "title": "DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA",
+    "link": "https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4",
+    "pubDate": "Wed, 22 Oct 2025 12:19:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Computing dilemma in the application\n\n\nDevelopment and Framework, which should be given the higher priority?\nMap<Integer, Map<String, Double>> summary = new HashMap<>();\n    for (Order order : orders)"
+    "contentSnippet": "bu kurulum için bir domain adına ihtiyacımız var benim senaryomda keycloak.local olarak ilerleyeceğim.\n1. Adım: Host makinemde, yani browserımla keycloak'a erişeceğim makinede /etc/hosts dosyasını nan"
+  },
+  {
+    "title": "エクセルのスピルについて",
+    "link": "https://qiita.com/Katu_any/items/d9bd669bdbaee5dfc25a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T04:47:45.000Z",
+    "source": "Qiita",
+    "contentSnippet": "一般的なスピルの意味\nまず最初にこの一般的なスピルの意味とは「こぼす」「投げ出す」「あふれる」等の意味があります。\n\nエクセルのスピルについて\nひとつのセルに入力した数式の結果が隣接するセルに自動的に展開される機能だそうです。\nつまり起点となるセルにのみ数式を入れることで..."
+  },
+  {
+    "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
+    "link": "https://qiita.com/shirok/items/94385d1345ce86ade5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T00:09:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "オラクルは、業界をリードする生成AIモデルを企業のデータ、アプリケーション、ワークフローに安全に接続できるよう設計された包括的なプラットフォーム「Oracle AI Data Platform」の一般提供開始を発表しました。自動データ取り込み、セマンティック・エンリッチメ..."
   },
   {
     "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",
@@ -75,6 +89,27 @@
     "pubDate": "2025-10-21T15:36:24.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、ブロックストレージを提供するサービス「Amazon EBS（Amazon Elastic Block Store）のストレージボリュームを数秒でコピーできる新機能「Amazon EBS Volume Clones」のリリースを発表しました。 Amazon EBSは、そこで作成したストレージボリュームをAmazon EC2インスタンスにアタッチする"
+  },
+  {
+    "title": "†二分探索†で怠惰なカーソル移動をしよう",
+    "link": "https://zenn.dev/kamecha/articles/de680018133636",
+    "pubDate": "Tue, 21 Oct 2025 15:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "まえがき\nvim のカーソル移動…面倒臭いですよね…\n特に縦移動\nこれを補助するプラグイン等はあるのですが、ラベルを付けてそれを認知する必要があったりと、なかなかしっくり来るものが無い印象です\nそれもそのはずで、大体のものは明確な行き先があり、それに対して最小のキー数で移動する事を目標としてるんですよね\n自分の場合はそういうのではなくて、\nざっくりこの辺りに移動したいなぁ〜ってのがあって、そこへ大"
+  },
+  {
+    "title": "Strix HaloでローカルLLMをFine-tuningする",
+    "link": "https://zenn.dev/robustonian/articles/strix-halo_full_finetuning",
+    "pubDate": "Tue, 21 Oct 2025 13:01:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nStrix Haloで便利なツールを次々に開発されているDonato Capitellaさんが新しい動画を公開されていた。今回はなんと、Strix HaloでFull Fine-tuningを実現するツールを公開されており、面白そうなのでEVO-X2で動かすことにした。\nというわけで、本記事ではREADME.mdを参考に導入から学習、推論までを一通り動作させる手順を備忘録的にまとめる。\n"
+  },
+  {
+    "title": "AWKの簡単な使い方",
+    "link": "https://qiita.com/ynaru-yzrh/items/5dc4896a1f37319fd97f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T11:18:38.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\n前回書いた記事でAWKをほんの少しだけ使用したが、AWKとは何ですか？とごく少数の人に聞かれたので自分の知っている範囲で記載します\nGNU awkであることを前提としています\n\nAWKとは\n\nAWKとはAWKスクリプトを処理するインタプリタで、プログラミン..."
   },
   {
     "title": "Dockerを使ってワードプレスの環境構築をする",
@@ -89,6 +124,13 @@
     "pubDate": "Tue, 21 Oct 2025 07:25:00 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこんにちは、エクスプラザの@_mkazutakaです。\n今回は、10/16にAnthropicが発表した、Claude Skills(Agent Skills)について入門と題して紹介したいと思います。\nClaude SkillsなのかAgent Skillsなのか少し不明瞭なのですが、公式ニュースのTitleタグ以外にClaude Skillsというワードは見つけられなかったので、本記"
+  },
+  {
+    "title": "レガシーC#コード対比集（昔こう→今こう）",
+    "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T07:23:56.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nC#は急速に進化してきた言語です。10年前の「当たり前」は、今では保守性やパフォーマンスの観点から非推奨になっていることもあります。\n今回は、レガシーシステムの保守や段階的なリファクタリングに携わる開発者向けに、よくある「昔の書き方」から「現在の推奨」への置き換..."
   },
   {
     "title": "あなたは5年後必要な人材ですか？",
@@ -140,13 +182,6 @@
     "contentSnippet": "はじめに\nマッチング型の求人サービス「おためし転職」を個人開発しました。本記事では、求職者向け（toC）と企業向け（toB）の2つのプラットフォームを構築する上での技術選定と、その理由について解説します。\n求職者向けサイト（toC）: https://otame4.work/\n企業向けサイト（toB）: https://employer.otame4.work/\n\n 技術スタック\nインフラ：Clo"
   },
   {
-    "title": "【ポケモン×Java】Lv11：『キミが技を選ぶ番だ!』〜Scanner〜",
-    "link": "https://qiita.com/hitomin_poke/items/83f677ba022e41ef12a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T15:56:24.000Z",
-    "source": "Qiita",
-    "contentSnippet": "前回をまだ読んでない方はこちら\n👉 【ポケモン×Java】Lv10：『選べ、キミの一撃！』〜攻撃メソッド〜\n\n🎮 技を選んで攻撃だ！\nこれまでは、プログラム側で攻撃を指定していたよね？\n\n次は、プレイヤー自身が選んで攻撃できるようにするよ！\n\n💡 Scanner で..."
-  },
-  {
     "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",
     "link": "https://www.publickey1.jp/blog/25/webviteaiviteagent_mode.html",
     "pubDate": "2025-10-20T15:20:25.000Z",
@@ -168,13 +203,6 @@
     "contentSnippet": "Object.freeze\nObject.freezeすると、そのオブジェクト直下のプロパティを作成変更削除することができなくなります。\nclass HOGE {\n  publicProperty;\n  \n  setPublicProperty(val) {\n    th..."
   },
   {
-    "title": "タスク管理に「AIに依頼」機能をつけたら開発体験がめちゃ向上した話",
-    "link": "https://zenn.dev/himara2/articles/03fbe80334b86d",
-    "pubDate": "Mon, 20 Oct 2025 10:43:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "個人開発でタスク管理サービスを作っています。\nそのサービスに 「このタスクをAIに進めてもらう」 機能をつけたらめちゃ体験が良くなったので紹介させてください。\n\n 作ってるもの\ntone（トーン）というWebサービスを作っています。\nコンセプトは「人とAIのためのチームタスク管理」。人が使いやすいインターフェースに加え、MCP経由でAIからも使えるのが特徴のタスク管理サービスです。\nhttps:/"
-  },
-  {
     "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",
     "link": "https://qiita.com/comty/items/e1f1f82b89278c1a7e8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-20T08:45:42.000Z",
@@ -182,25 +210,11 @@
     "contentSnippet": "はじめに\nアサヒグループは2025年9月29日にサイバー攻撃があったと発表しました。（サイバー攻撃によるシステム障害発生について）\n報道されたランサムウェア起因のシステム障害は、生産設備そのものではなく、受注・出荷・顧客対応といった業務フローが止まることで供給全体が止ま..."
   },
   {
-    "title": "React Compiler v1.0がリリースされました！",
-    "link": "https://zenn.dev/terass_dev/articles/eca0bad44e8d39",
-    "pubDate": "Mon, 20 Oct 2025 08:30:16 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TERASSエンジニアの@shuji_koikeです！\n昨年弊社のテックブログで同僚の@myrearが\"React Forget は何を「忘れ」させてくれるのか\"という秀逸なタイトルの記事を投稿したところトレンド入りを果たし、弊ブログとしては快挙と言える数の「いいね」をいただきました。\nそしてついに先日React Conf 2025に合わせて、React Forgetは名前を変えてReact Co"
-  },
-  {
     "title": "シスコ、AIにセキュアなコードを生成させるためのルールセット「Project CodeGuard」をオープンソースで公開",
     "link": "https://www.publickey1.jp/blog/25/aiproject_codeguard.html",
     "pubDate": "2025-10-19T15:35:02.000Z",
     "source": "Publickey",
     "contentSnippet": "シスコシステムズは、AIコーディングツールを用いてコーディングを行う際に、生成されるコードが脆弱性を持たず安全なパターンを用いたものにするためのルールセットなどを備えた「Project CodeGuard」をオープンソースで公開しました。 Markdownで書かれたセキュリティルールなど Project CodeGuardは、コミュニティによって作成されたMarkdown形式で書かれたセキュリティ"
-  },
-  {
-    "title": "ミニPC「GMKtec EVO-X2」でローカルLLM： LM Studio で ROCm llama.cpp（Windows）＋ gpt-oss-120b を利用【Ryzen AI Max+ 395・メモリ128GB搭載の PC】",
-    "link": "https://qiita.com/youtoy/items/b6b376cae88b11e11100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T13:58:24.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nローカルLLMまわりの情報を追いかけている方は、高確率で目にすることもあると思われるミニPC「GMKtec EVO-X2」で、LM Studio を使ったローカルLLM を試した手順のメモ、という感じの記事になります。\n試す環境について、今回使うランタイムは「R..."
   },
   {
     "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",
@@ -215,20 +229,6 @@
     "pubDate": "2025-10-19T09:03:32.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n2025年の夏から秋にかけて、100日間連続でGitHubにコミットすることを目標にしました。\n最初は「毎日コードを書いて習慣化したい」くらいの気持ちでしたが、気づけば生活と考え方そのものが変わっていたと思います。\n実際に100日間続けてみて感じたこと・得られた..."
-  },
-  {
-    "title": "これだけAIが流行っても単純作業が残っている理由",
-    "link": "https://qiita.com/ktdatascience/items/4e2cd31bedebcedb0ff2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T07:58:50.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n昨今のAIブームは凄まじいですよね。毎日のようにモデルの進化があり、カンファレンスでもAIの話ばかり。しかしいろんな事例を聞いているとそれって御社のパフォーマンスですよね？っていう話も多く、自分が手元で動かしている所感と大きく乖離がある部分も多いです。今回はその..."
-  },
-  {
-    "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
-    "link": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T03:18:03.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n「なぜマネージャーはこんなことをしているのか？」とマネジメントについて、メンバーの方が疑問に思うことがあります。\nこの記事は、そんなマネジメント”される”人のための解説記事です。\n「マネジメントされる人」の方が人数は多いにも関わらず、「マネジメントされる人」のた..."
   },
   {
     "title": "Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業プロジェクトに",

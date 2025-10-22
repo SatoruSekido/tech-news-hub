@@ -1,73 +1,73 @@
 [
   {
-    "title": "Build Apps with Google AI Studio: Your Calories Companion",
-    "link": "https://dev.to/coffeejuseyo/build-apps-with-google-ai-studio-your-calories-companion-mdd",
-    "pubDate": "Wed, 22 Oct 2025 01:50:07 +0000",
+    "title": "Running Frappe/ERPNext on Windows with WSL — A Web Developer’s Perspective",
+    "link": "https://dev.to/aditorito/running-frappeerpnext-on-windows-with-wsl-a-web-developers-perspective-2ami",
+    "pubDate": "Wed, 22 Oct 2025 06:35:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.\nI built an intelligent calorie tracking application that leverages the Gemini API to provide users with personaliz"
+    "contentSnippet": "🚀 How It Started\nI’m a MERN-stack developer exploring ERP software then I come to know about ERNnext based on Frappe, an open-source Python + MariaDB framework.\nFrappe runs perfectly on Linux/Mac, bu"
   },
   {
-    "title": "Passwordless SSH Setup in 5 Minutes",
-    "link": "https://dev.to/kingyou/passwordless-ssh-setup-in-5-minutes-212p",
-    "pubDate": "Wed, 22 Oct 2025 01:46:11 +0000",
+    "title": "Using Claude Code with GitHub Copilot Subscription",
+    "link": "https://dev.to/allentcm/using-claude-code-with-github-copilot-subscription-2obj",
+    "pubDate": "Wed, 22 Oct 2025 06:24:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Tired of typing passwords every time you log into a server via SSH? Passwordless SSH authentication using SSH keys is the way to go. It’s secure, efficient, and saves you time. In this guide, I’ll wal"
+    "contentSnippet": "Do you have a Github Copilot subscription sitting around doing nothing? Why not pair it with the Claude Code (claimed by many developers as the best AI coding agent thus far).\nInstall Python on your l"
   },
   {
-    "title": "When Claude Agent Says “Sandbox It” — What Does That Really Mean?",
-    "link": "https://dev.to/jun_ma_6eded523cd4b29efd2/when-claude-agent-says-sandbox-it-what-does-that-really-mean-bon",
-    "pubDate": "Wed, 22 Oct 2025 01:38:29 +0000",
+    "title": "Open-Source Cypress Testing Project – 40+ UI Test Cases!",
+    "link": "https://dev.to/masaid_zeb_a57995c342d96b/open-source-cypress-testing-project-40-ui-test-cases-3d76",
+    "pubDate": "Wed, 22 Oct 2025 06:22:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Profound Shift Behind One Piece of Advice From Anthropic\n\n\nIf you've thoroughly read Anthropic's latest Claude Agent SDK Guide, you'll notice a seemingly simple but crucial piece of advice right a"
+    "contentSnippet": "Hey testers, devs, and automation learners! 👋\n🧪 Project: Cypress-Sample-Test-Cases\n🌐 Tech: JavaScript + Cypress\n🎯 What’s Inside?\n✅ 40+ test cases covering:\nAssertions & validations\nDropdowns & tab"
   },
   {
-    "title": "Beyond the basics: 21 TypeScript features you might not know about",
-    "link": "https://dev.to/lingodotdev/beyond-the-basics-21-typescript-features-you-might-not-know-about-1dbn",
-    "pubDate": "Wed, 22 Oct 2025 01:34:02 +0000",
+    "title": "New universal drivers for IoT Platform",
+    "link": "https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe",
+    "pubDate": "Wed, 22 Oct 2025 06:19:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nAt Lingo.dev, I write a lot of TypeScript code. I'm definitely not a wizard, but I do try to play with features that go beyond the basic types.\nThis post describes a number of features "
+    "contentSnippet": "In some of the previous blogs, I wrote a lot about the IoT platform from Total.js. Like what it is, why it can be useful, how to install individual parts to get it working, and how to set it up and st"
   },
   {
-    "title": "**Beyond Binary RAG: Enhancing Decision-Making with Nuanced",
-    "link": "https://dev.to/drcarlosruizviquez/beyond-binary-rag-enhancing-decision-making-with-nuanced-4501",
-    "pubDate": "Wed, 22 Oct 2025 01:26:44 +0000",
+    "title": "Build and push Docker images to Amazon ECR using Terraform",
+    "link": "https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67",
+    "pubDate": "Wed, 22 Oct 2025 06:19:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Beyond Binary RAG: Enhancing Decision-Making with Nuanced Risk Assessment\nThe all-too-familiar Red, Amber, Green (RAG) system has become a staple in risk management and decision-making processes acros"
+    "contentSnippet": "Introduction\n\n\nIn general you would want to deploy infrastructure using terraform, build and push docker images in CI/CD phase. But let's say, just in case, someone pointed a gun at your head asking y"
   },
   {
-    "title": "Enhance Your SMS Communication with Automatic OPT-OUT Handling",
-    "link": "https://dev.to/smsmobileapi/enhance-your-sms-communication-with-automatic-opt-out-handling-4idl",
-    "pubDate": "Wed, 22 Oct 2025 01:25:53 +0000",
+    "title": "#2 Lexical Scoping && Closure in JavaScript --",
+    "link": "https://dev.to/mithukr/2-lexical-scoping-closure-in-javascript--48pa",
+    "pubDate": "Wed, 22 Oct 2025 06:16:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Enhance Your SMS Communication with Automatic OPT-OUT Handling\n\n\nIn today's digital landscape, respecting your contacts' preferences is paramount. With the rise of stringent regulations around communi"
+    "contentSnippet": "🧠 Lexical Scoping and Closures —\n\n\nEver seen a function in JavaScript remember a variable even after it's done running?\n\nThat’s not magic — it’s Lexical Scoping and Closures.\n\nLet’s break it down wit"
   },
   {
-    "title": "The debate surrounding AI-powered ad personalization has spa",
-    "link": "https://dev.to/drcarlosruizviquez/the-debate-surrounding-ai-powered-ad-personalization-has-spa-73m",
-    "pubDate": "Wed, 22 Oct 2025 01:23:38 +0000",
+    "title": "Translating Requirements into Test Plan & Strategy: My HNGi13 QA Journey",
+    "link": "https://dev.to/amidat_sule_6ba4feb8bcbe2/translating-requirements-into-test-plan-strategy-my-hngi13-qa-journey-59hc",
+    "pubDate": "Wed, 22 Oct 2025 06:08:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The debate surrounding AI-powered ad personalization has sparked concerns about the potential loss of cultural diversity and creativity in advertising. On one hand, AI algorithms can analyze vast amou"
+    "contentSnippet": "Stage 1 of the HNGi13 QA Track focused on reviewing requirement documents and translating them into an actionable test plan.\nFor this task, I worked on Gradific, a grading and task management platform"
   },
   {
-    "title": "equals, hashcode, hashmap",
-    "link": "https://dev.to/jaumdev1/equals-hashcode-hashmap-5ah2",
-    "pubDate": "Wed, 22 Oct 2025 01:18:13 +0000",
+    "title": "Digital Alchemy: Turning Ideas into Interactive Worlds with AI",
+    "link": "https://dev.to/arvind_sundararajan/digital-alchemy-turning-ideas-into-interactive-worlds-with-ai-j37",
+    "pubDate": "Wed, 22 Oct 2025 06:02:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "O papel de equals() e hashCode() no Java\n\n\nEsses dois métodos vêm da classe Object, a base de todas as classes em Java.\nEles determinam como o Java compara objetos e como eles são organizados em coleç"
+    "contentSnippet": "Digital Alchemy: Turning Ideas into Interactive Worlds with AI\n\n\nTired of spending months building simulators for your AI experiments or game development projects? What if you could describe a complex"
   },
   {
-    "title": "Froala Shortcut Secrets That Supercharge Your Productivity",
-    "link": "https://dev.to/froala_e3824d66439393cbce/froala-shortcut-secrets-that-supercharge-your-productivity-fkn",
-    "pubDate": "Wed, 22 Oct 2025 01:17:07 +0000",
+    "title": "🚀 Next.js 16 — A Huge Leap in Web Development",
+    "link": "https://dev.to/shaahzaibrehman/nextjs-16-a-huge-leap-in-web-development-5fli",
+    "pubDate": "Wed, 22 Oct 2025 05:57:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "By Mostafa Yousef\nImagine this: you’re writing, editing, and formatting text — all flowing smoothly — when suddenly you have to grab your mouse just to make text bold or insert a link. That small brea"
+    "contentSnippet": "The Next.js team has just released Next.js 16, and it’s one of the biggest updates we’ve seen in recent versions. This release focuses heavily on performance, caching, developer experience, and explic"
   },
   {
-    "title": "Redpanda in Production: 3 Traps I Fell Into (and How to Avoid Them)",
-    "link": "https://dev.to/devflex-pro/redpanda-in-production-3-traps-i-fell-into-and-how-to-avoid-them-4h91",
-    "pubDate": "Wed, 22 Oct 2025 01:16:35 +0000",
+    "title": "Something Could Double the Development Efficiency of Java Programmers",
+    "link": "https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-3md",
+    "pubDate": "Wed, 22 Oct 2025 05:48:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"Redpanda looked like the holy grail — Kafka-compatible, lightning fast, no ZooKeeper, no JVM.\n\n\n\n\n\n\n\n  \n  \n  ⚙️ The Setup\n\n\nOur team runs a high-load B2B marketplace built around event-driven Go micr"
+    "contentSnippet": "Computing dilemma in the application\n\n\nDevelopment and Framework, which should be given the higher priority?\nMap<Integer, Map<String, Double>> summary = new HashMap<>();\n    for (Order order : orders)"
   },
   {
     "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",

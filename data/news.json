@@ -1,73 +1,73 @@
 [
   {
-    "title": "Genesis DB Community Edition: Open Access to a Modern Event-Sourcing Database",
-    "link": "https://dev.to/patriceckhart/genesis-db-community-edition-open-access-to-a-modern-event-sourcing-database-8p8",
-    "pubDate": "Tue, 21 Oct 2025 18:23:10 +0000",
+    "title": "Build Apps with Google AI Studio: Your Calories Companion",
+    "link": "https://dev.to/coffeejuseyo/build-apps-with-google-ai-studio-your-calories-companion-mdd",
+    "pubDate": "Wed, 22 Oct 2025 01:50:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Genesis DB Community Edition is on the way. \nBuilt for developers, innovators, and production workloads that don't require built-in GDPR tooling, schema registration, or the advanced query engine "
+    "contentSnippet": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.\nI built an intelligent calorie tracking application that leverages the Gemini API to provide users with personaliz"
   },
   {
-    "title": "Python basics - Day 11",
-    "link": "https://dev.to/ian_b838138a27a917398d181/python-basics-day-11-2e1d",
-    "pubDate": "Tue, 21 Oct 2025 18:20:31 +0000",
+    "title": "Passwordless SSH Setup in 5 Minutes",
+    "link": "https://dev.to/kingyou/passwordless-ssh-setup-in-5-minutes-212p",
+    "pubDate": "Wed, 22 Oct 2025 01:46:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Day 11 – Tuples & Sets\n\n\nProject: Build a “Unique Data Manager” using Tuples and Sets\n01. Learning Goal\nBy the end of this lesson, you will be able to:\nUnderstand the difference between lists, tuples,"
+    "contentSnippet": "Tired of typing passwords every time you log into a server via SSH? Passwordless SSH authentication using SSH keys is the way to go. It’s secure, efficient, and saves you time. In this guide, I’ll wal"
   },
   {
-    "title": "Andrew Huang: Beautiful new music making environment! (GRM Atelier)",
-    "link": "https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4ppk",
-    "pubDate": "Tue, 21 Oct 2025 18:18:57 +0000",
+    "title": "When Claude Agent Says “Sandbox It” — What Does That Really Mean?",
+    "link": "https://dev.to/jun_ma_6eded523cd4b29efd2/when-claude-agent-says-sandbox-it-what-does-that-really-mean-bon",
+    "pubDate": "Wed, 22 Oct 2025 01:38:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Andrew Huang gives us a first look at GRM Tools Atelier, a sleek new music-making playground packed with global macros that control multiple modules at once. He walks through its mind-bending modulati"
+    "contentSnippet": "The Profound Shift Behind One Piece of Advice From Anthropic\n\n\nIf you've thoroughly read Anthropic's latest Claude Agent SDK Guide, you'll notice a seemingly simple but crucial piece of advice right a"
   },
   {
-    "title": "Andrew Huang: Using a vocal generator very wrong",
-    "link": "https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1icb",
-    "pubDate": "Tue, 21 Oct 2025 18:18:44 +0000",
+    "title": "Beyond the basics: 21 TypeScript features you might not know about",
+    "link": "https://dev.to/lingodotdev/beyond-the-basics-21-typescript-features-you-might-not-know-about-1dbn",
+    "pubDate": "Wed, 22 Oct 2025 01:34:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Andrew Huang teams up with Voice by Auribus to put a vocal generator through its paces in the weirdest ways imaginable. He kicks things off by exploring alternative singing modes and non-singing vocal"
+    "contentSnippet": "Introduction\n\n\nAt Lingo.dev, I write a lot of TypeScript code. I'm definitely not a wizard, but I do try to play with features that go beyond the basic types.\nThis post describes a number of features "
   },
   {
-    "title": "Cercle: OFF STAGE WITH WhoMadeWho & Tripolism",
-    "link": "https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-3nhc",
-    "pubDate": "Tue, 21 Oct 2025 18:18:34 +0000",
+    "title": "**Beyond Binary RAG: Enhancing Decision-Making with Nuanced",
+    "link": "https://dev.to/drcarlosruizviquez/beyond-binary-rag-enhancing-decision-making-with-nuanced-4501",
+    "pubDate": "Wed, 22 Oct 2025 01:26:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Off Stage with WhoMadeWho & Tripolism\n\n\nGet an exclusive peek behind the curtain as Cercle Records teams up Danish trio WhoMadeWho with electronic producer Tripolism. It’s the off-stage collab we didn"
+    "contentSnippet": "Beyond Binary RAG: Enhancing Decision-Making with Nuanced Risk Assessment\nThe all-too-familiar Red, Amber, Green (RAG) system has become a staple in risk management and decision-making processes acros"
   },
   {
-    "title": "COLORS: Olivia Dean | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-olivia-dean-a-colors-show-3m2k",
-    "pubDate": "Tue, 21 Oct 2025 18:18:25 +0000",
+    "title": "Enhance Your SMS Communication with Automatic OPT-OUT Handling",
+    "link": "https://dev.to/smsmobileapi/enhance-your-sms-communication-with-automatic-opt-out-handling-4idl",
+    "pubDate": "Wed, 22 Oct 2025 01:25:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Olivia Dean’s silky, London-bred vocals glide front and center in the next A COLORS SHOW session, where the minimalist set-up lets her soulful songwriting really breathe. You can stream her performanc"
+    "contentSnippet": "Enhance Your SMS Communication with Automatic OPT-OUT Handling\n\n\nIn today's digital landscape, respecting your contacts' preferences is paramount. With the rise of stringent regulations around communi"
   },
   {
-    "title": "COLORS: Indys Blu - Saddest Song | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-228l",
-    "pubDate": "Tue, 21 Oct 2025 18:18:14 +0000",
+    "title": "The debate surrounding AI-powered ad personalization has spa",
+    "link": "https://dev.to/drcarlosruizviquez/the-debate-surrounding-ai-powered-ad-personalization-has-spa-73m",
+    "pubDate": "Wed, 22 Oct 2025 01:23:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Indys Blu, a soulful New Orleans vocalist, brings raw emotion to her single “Saddest Song” in a stripped-down A COLORS SHOW performance, weaving heartbreak and poetic reflection into every note.  \nCOL"
+    "contentSnippet": "The debate surrounding AI-powered ad personalization has sparked concerns about the potential loss of cultural diversity and creativity in advertising. On one hand, AI algorithms can analyze vast amou"
   },
   {
-    "title": "COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-391h",
-    "pubDate": "Tue, 21 Oct 2025 18:18:07 +0000",
+    "title": "equals, hashcode, hashmap",
+    "link": "https://dev.to/jaumdev1/equals-hashcode-hashmap-5ah2",
+    "pubDate": "Wed, 22 Oct 2025 01:18:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mississippi-bred rapper and trumpeter Dear Silas takes over the COLORS stage with “Still Southern Playalistic,” blending tight, Southern-flavored flows and laid-back, jazz-tinged trumpet riffs for a f"
+    "contentSnippet": "O papel de equals() e hashCode() no Java\n\n\nEsses dois métodos vêm da classe Object, a base de todas as classes em Java.\nEles determinam como o Java compara objetos e como eles são organizados em coleç"
   },
   {
-    "title": "COLORS: UMI - 10AM | A COLORS SHOW",
-    "link": "https://dev.to/music_youtube/colors-umi-10am-a-colors-show-35ej",
-    "pubDate": "Tue, 21 Oct 2025 18:17:56 +0000",
+    "title": "Froala Shortcut Secrets That Supercharge Your Productivity",
+    "link": "https://dev.to/froala_e3824d66439393cbce/froala-shortcut-secrets-that-supercharge-your-productivity-fkn",
+    "pubDate": "Wed, 22 Oct 2025 01:17:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "UMI, the Los Angeles–based singer-songwriter, delivers a spellbinding COLORS performance of “10AM,” the tender closing track from her latest album people stories. Her soothing presence and ethereal vo"
+    "contentSnippet": "By Mostafa Yousef\nImagine this: you’re writing, editing, and formatting text — all flowing smoothly — when suddenly you have to grab your mouse just to make text bold or insert a link. That small brea"
   },
   {
-    "title": "KEXP: Adrian Quesada - El Muchacho De Los Ojos Tristes (Live on KEXP)",
-    "link": "https://dev.to/music_youtube/kexp-adrian-quesada-el-muchacho-de-los-ojos-tristes-live-on-kexp-gj5",
-    "pubDate": "Tue, 21 Oct 2025 18:17:46 +0000",
+    "title": "Redpanda in Production: 3 Traps I Fell Into (and How to Avoid Them)",
+    "link": "https://dev.to/devflex-pro/redpanda-in-production-3-traps-i-fell-into-and-how-to-avoid-them-4h91",
+    "pubDate": "Wed, 22 Oct 2025 01:16:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Adrian Quesada Live on KEXP\n\n\nAdrian Quesada dropped by the KEXP studio on September 2, 2025, for a sizzling live take on “El Muchacho De Los Ojos Tristes,” featuring Gaby Moreno on lead vocals and ac"
+    "contentSnippet": "\"Redpanda looked like the holy grail — Kafka-compatible, lightning fast, no ZooKeeper, no JVM.\n\n\n\n\n\n\n\n  \n  \n  ⚙️ The Setup\n\n\nOur team runs a high-load B2B marketplace built around event-driven Go micr"
   },
   {
     "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",
@@ -75,6 +75,34 @@
     "pubDate": "2025-10-21T15:36:24.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、ブロックストレージを提供するサービス「Amazon EBS（Amazon Elastic Block Store）のストレージボリュームを数秒でコピーできる新機能「Amazon EBS Volume Clones」のリリースを発表しました。 Amazon EBSは、そこで作成したストレージボリュームをAmazon EC2インスタンスにアタッチする"
+  },
+  {
+    "title": "Dockerを使ってワードプレスの環境構築をする",
+    "link": "https://qiita.com/sun_22/items/9fd95e4515969eae4f6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T08:36:29.000Z",
+    "source": "Qiita",
+    "contentSnippet": "経緯\n元々ローカルでの環境設定にLocalを使用していたけど、システムのバージョンアップの時にphp7.3とかの低いバージョンに落とせなくて動作確認ができなかったから。\n調べてみるとDockerならWP-CLIを用いて、固定ページとかの作成もコマンドからできるのがわかって..."
+  },
+  {
+    "title": "Claude Skills (Agent Skills) 入門",
+    "link": "https://zenn.dev/explaza/articles/b3dde4451aa249",
+    "pubDate": "Tue, 21 Oct 2025 07:25:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは、エクスプラザの@_mkazutakaです。\n今回は、10/16にAnthropicが発表した、Claude Skills(Agent Skills)について入門と題して紹介したいと思います。\nClaude SkillsなのかAgent Skillsなのか少し不明瞭なのですが、公式ニュースのTitleタグ以外にClaude Skillsというワードは見つけられなかったので、本記"
+  },
+  {
+    "title": "あなたは5年後必要な人材ですか？",
+    "link": "https://zenn.dev/coconala/articles/c33e04818367b5",
+    "pubDate": "Tue, 21 Oct 2025 06:36:45 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nはじめまして、hibikiです。株式会社ココナラでプロダクト開発のエンジニアとして働いており、今年で3年目になります。\n直近では、開発エディタ「Cursor」の全社導入や「Claude Code」の活用推進といった、AIで開発組織全体の生産性を向上させる取り組みを担当しています。\nこうしたAI推進の業務に携わる中で、「AIを中心とした世界で、エンジニアとしての自分の価値、人材としてのポジ"
+  },
+  {
+    "title": "最新のNext.js15 / React19における実践的な設計方針とベストプラクティスを体系的にまとめました",
+    "link": "https://zenn.dev/assign/articles/482e93693773e5",
+    "pubDate": "Tue, 21 Oct 2025 02:50:20 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nNext.js 15とReact 19が登場し、App Routerを中心とした新しい開発体験が標準となってきました。Server ComponentとClient Componentを意識したコンポーネント設計、データハンドリング、状態管理、キャッシュ戦略など、実務で求められる設計判断は多岐にわたります。\n筆者は、2023年7月のApp Routerリリース直後から現在まで、約2年に渡"
   },
   {
     "title": "uv × DockerでのPython開発環境構築方法",
@@ -96,13 +124,6 @@
     "pubDate": "Tue, 21 Oct 2025 01:07:58 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは。株式会社EVERSTEELで業務委託のソフトウェアエンジニアとして参画している日野原です。\n主にフロントエンドを担当しており、技術としてはNext.jsを使用しています。（詳しい技術内容はこちらを参照）\n少し前の話になりますが、ゼロからテストを導入したので、その過程や戦略について話していこうと思います。\nフロントエンドのテストを検討している方や、テストの運用方法を迷っている方の参考にな"
-  },
-  {
-    "title": "【GIFTech×iwashi】「好奇心」を「価値」に変える。fukabori.fmホストiwashi氏に学ぶ、しなやかで力強いキャリア戦略【GIFTech Cross-Talk vol.4 ゲスト：iwashi】",
-    "link": "https://qiita.com/GIFCat/items/cf86e0579efd99199869?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T00:07:16.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事は、こんな方に向けて書きました\n\n自身の「好奇心」を、市場価値の高い「専門性」へと繋げたいと考えているエンジニア\nチームを率い、周囲を巻き込みながら、より大きなインパクトを生み出したいリーダー\n自身の学びを加速させ、コミュニティと共に成長していきたいと考えている..."
   },
   {
     "title": "RAGが苦手な「ぬるっとした日本語」と戦う",
@@ -133,11 +154,11 @@
     "contentSnippet": "オープンソースのWebアプリケーションビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているvoid(0)（VoidZero：ボイドゼロ）は、Viteをベースとした統合開発ツールチェーン「Vite+」を発表しました。 The Unified Toolchain for the WebWe are thrilled to announce Vite+: A unified, Rust-p"
   },
   {
-    "title": "やっぱり、ゲーム開発に憧れていた。はじめてのUnity",
-    "link": "https://zenn.dev/ty0627/articles/acd6d546dbf293",
-    "pubDate": "Mon, 20 Oct 2025 11:54:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめまして。\n先日、zennの運営会社であるクラスメソッドさん主催の「DevelopersIO 2025 TOKYO」に参加させていただきました。アウトプットの重要性を熱く語っていてとても感動し、一念発起して始めてみました。\nhttps://events.classmethod.jp/seminar/251018-developersio2025-tokyo/\n\n 軽く自己紹介\n学生エンジニア見"
+    "title": "ホタルイカの身投げ量を予測するWebサイトを作ってみた",
+    "link": "https://qiita.com/yuchi1128/items/eca2bb94dec63ecbff93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T13:11:10.000Z",
+    "source": "Qiita",
+    "contentSnippet": "目次\n1. はじめに\n2. アプリ概要\n3. 使用技術\n4. アプリケーション構成図\n5. 開発の流れ\n6. 機械学習モデルの訓練\n7. 予測APIの開発\n8. Webサイトの構築\n9. 課題点や懸念点\n10. 終わりに\n\nはじめに\n\nホタルイカの身投げについて\n初めまし..."
   },
   {
     "title": "【JavaScript】オブジェクトをfreezeした後でもprivateプロパティを変更できるし生やすこともできる",
@@ -168,39 +189,18 @@
     "contentSnippet": "TERASSエンジニアの@shuji_koikeです！\n昨年弊社のテックブログで同僚の@myrearが\"React Forget は何を「忘れ」させてくれるのか\"という秀逸なタイトルの記事を投稿したところトレンド入りを果たし、弊ブログとしては快挙と言える数の「いいね」をいただきました。\nそしてついに先日React Conf 2025に合わせて、React Forgetは名前を変えてReact Co"
   },
   {
-    "title": "【LLMOps】Vertex AI Gemini(ADC)を、LangfuseのPlaygroundで実行",
-    "link": "https://qiita.com/kkkdev/items/8e5cdf602e1fa1e21ef0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T08:01:58.000Z",
-    "source": "Qiita",
-    "contentSnippet": "株式会社ブレインパッドの津久井です。\n現在は、AI SaaSのエージェントリンリーの開発リードを担当しています。\n弊社プロダクト事業のエンジニアは 連続バズ師の @tomo-2525や @y-tsukasa、\nOracleアウトプット狂(いい意味で)の @take-yoda..."
-  },
-  {
-    "title": "帰ってきた IETF 124 Side Meeting 差分アップデート（2025年10月19日版）",
-    "link": "https://qiita.com/satokan3/items/1a8d5cb33b35c6acc59e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T04:04:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "そろそろIETF124の開催が近づいてきてきましたね！\nGMOコネクト 菅野（かんの）です。\n10月14日に公開した「【徹底分析】IETF 124 Side Meeting まとめ」から、Trelloボード上の構成が複数更新されました。\n本記事では、Trello公式ボード・..."
-  },
-  {
-    "title": "LLMの責務を最小化する設計 — Claude Codeの中身は50代のベテランエンジニアかもしれない件",
-    "link": "https://zenn.dev/sogab3/articles/fbf0230234ffe1",
-    "pubDate": "Mon, 20 Oct 2025 02:59:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TL;DR\n本記事は、著者自身の振り返りとClaude Codeの分析を通して得た気づきを共有するものです。要点は下記です：\n\nDeep Learning時代のEnd-to-End学習の成功体験が、汎用LLM時代では逆に足かせになっているのではないか\n汎用性が高すぎるLLMには、むしろ古典的な設計原則（SOLID、関心の分離）が必要\n\nClaude Codeの成功には、LLMの責務を最小化し従来の"
-  },
-  {
-    "title": "2025/10/20時点で最良のAIコーディングプロセス",
-    "link": "https://zenn.dev/erukiti/articles/2510-ai-coding",
-    "pubDate": "Mon, 20 Oct 2025 02:09:26 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年10月20日の僕が考えるAIコーディング（バイブコーディング）プロセスです。\n個人的な結論としては、1ミリでも気に食わないコードを生成してきたら、そのタスクは最終的には破棄すべきというものです。「このコード気に食わない」「この設計気に食わない」の直感がAIコーディングで品質を維持する生命線です。\n\n\nバイブコーディング時代ではコードレビューのお局ビリティが鍵です。\nレビューに全時間を割こ"
-  },
-  {
     "title": "シスコ、AIにセキュアなコードを生成させるためのルールセット「Project CodeGuard」をオープンソースで公開",
     "link": "https://www.publickey1.jp/blog/25/aiproject_codeguard.html",
     "pubDate": "2025-10-19T15:35:02.000Z",
     "source": "Publickey",
     "contentSnippet": "シスコシステムズは、AIコーディングツールを用いてコーディングを行う際に、生成されるコードが脆弱性を持たず安全なパターンを用いたものにするためのルールセットなどを備えた「Project CodeGuard」をオープンソースで公開しました。 Markdownで書かれたセキュリティルールなど Project CodeGuardは、コミュニティによって作成されたMarkdown形式で書かれたセキュリティ"
+  },
+  {
+    "title": "ミニPC「GMKtec EVO-X2」でローカルLLM： LM Studio で ROCm llama.cpp（Windows）＋ gpt-oss-120b を利用【Ryzen AI Max+ 395・メモリ128GB搭載の PC】",
+    "link": "https://qiita.com/youtoy/items/b6b376cae88b11e11100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-19T13:58:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nローカルLLMまわりの情報を追いかけている方は、高確率で目にすることもあると思われるミニPC「GMKtec EVO-X2」で、LM Studio を使ったローカルLLM を試した手順のメモ、という感じの記事になります。\n試す環境について、今回使うランタイムは「R..."
   },
   {
     "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",
@@ -217,11 +217,11 @@
     "contentSnippet": "はじめに\n2025年の夏から秋にかけて、100日間連続でGitHubにコミットすることを目標にしました。\n最初は「毎日コードを書いて習慣化したい」くらいの気持ちでしたが、気づけば生活と考え方そのものが変わっていたと思います。\n実際に100日間続けてみて感じたこと・得られた..."
   },
   {
-    "title": "【個人開発】ライター教育用アプリ\"曖昧表現チェッカー\"を作成【React × OpenAI × Supabase】",
-    "link": "https://qiita.com/Uyuki_0409/items/d72485b388e6e07d2027?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T09:00:57.000Z",
+    "title": "これだけAIが流行っても単純作業が残っている理由",
+    "link": "https://qiita.com/ktdatascience/items/4e2cd31bedebcedb0ff2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-19T07:58:50.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n医療系 SEO コンテンツの編集をしていた頃、ライターさんとの修正往復で最も時間を取られていたのが\"曖昧表現の指摘\"でした。\n「〜でしょう」「場合がある」といった表現が多用されると、読者に内容が伝わりにくいだけでなく、クリニックの信頼性低下にも直結します。\nこれ..."
+    "contentSnippet": "はじめに\n昨今のAIブームは凄まじいですよね。毎日のようにモデルの進化があり、カンファレンスでもAIの話ばかり。しかしいろんな事例を聞いているとそれって御社のパフォーマンスですよね？っていう話も多く、自分が手元で動かしている所感と大きく乖離がある部分も多いです。今回はその..."
   },
   {
     "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",

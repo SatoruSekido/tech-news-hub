@@ -1,73 +1,73 @@
 [
   {
-    "title": "A Complete Guide to Building a Payment System with Payload CMS and Lemon Squeezy",
-    "link": "https://dev.to/aaronksaunders/a-complete-guide-to-building-a-payment-system-with-payload-cms-and-lemon-squeezy-3n9n",
-    "pubDate": "Wed, 22 Oct 2025 18:30:21 +0000",
+    "title": "Saving Budget With OpenTelemetry Sampling",
+    "link": "https://dev.to/sykrabadi/saving-budget-with-opentelemetry-sampling-3iee",
+    "pubDate": "Thu, 23 Oct 2025 01:57:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Learn how to build a full payment system using the modern stack of Payload CMS, Next.js API Routes, and Lemon Squeezy, including a deep dive into debugging common API errors.\nIntegrating payments into"
+    "contentSnippet": "Background\n\n\nOn early October 2025, we was doing PoC of using OpenTelemetry\nunset status, and we are happy with it.\nto save budget\nIn this article, we are going to explore definition of sampling, samp"
   },
   {
-    "title": "Despliega Agentes de IA con memoria a largo plazo a Producción en 15 Minutos (Sin Docker, Sin Kubernetes, Sin Dolor de Cabeza)",
-    "link": "https://dev.to/aws-espanol/despliega-agentes-de-ia-con-memoria-a-largo-plazo-a-produccion-en-15-minutos-sin-docker-sin-1l5c",
-    "pubDate": "Wed, 22 Oct 2025 18:26:49 +0000",
+    "title": "Stop Calling QA ‘Testing’: What It Really Is and Why It Matters",
+    "link": "https://dev.to/developerpartners/stop-calling-qa-testing-what-it-really-is-and-why-it-matters-1h83",
+    "pubDate": "Thu, 23 Oct 2025 01:52:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🇻🇪🇨🇱 Dev.to LinkedIn GitHub Twitter Instagram YouTube\nElizabeth Fuentes LFollow\n\n    \nAWS Developer Advocate specializing in AI/ML and Generative AI. \nI simplify complex cloud concepts through han"
+    "contentSnippet": "When it comes to software development, quality can make or break a product. But one persistent myth keeps popping up: Quality Assurance is just another word for testing. It’s easy to see why, testing "
   },
   {
-    "title": "Fight the Future: The Anti-AI Reflex",
-    "link": "https://dev.to/p3ngu1nzz/fight-the-future-the-anti-ai-reflex-6db",
-    "pubDate": "Wed, 22 Oct 2025 18:22:15 +0000",
+    "title": "Verifying CUDA Kernels in Coq with Rust MIR (Introducing cuq)",
+    "link": "https://dev.to/neeljsomani/verifying-cuda-kernels-in-coq-with-rust-mir-introducing-cuq-2b21",
+    "pubDate": "Thu, 23 Oct 2025 01:51:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why Do Some People Loathe AI? A First-Person Exploration of the Psychology, Social Dynamics, and Cultural Pathology Behind Anti-AI Troll Behavior\n\n\n\nAuthor: Kara Rawson {rawsonkara@gmail.com} \nDate: O"
+    "contentSnippet": "Overview\n\n\nGPU kernels are notoriously difficult to reason about formally. While prior work such as Lustig et al. (ASPLOS 2019) defined a Coq model of the PTX memory semantics, there has not been a pr"
   },
   {
-    "title": "AI-Powered Git Commits: Alternative for GitHub Copilot with Mistral codestral",
-    "link": "https://dev.to/d-oit/ai-powered-git-commits-alternative-for-github-copilot-with-mistral-codestral-502n",
-    "pubDate": "Wed, 22 Oct 2025 18:17:57 +0000",
+    "title": "TMCP: Reimagining Model Context Protocol Server Architecture with Modern TypeScript",
+    "link": "https://dev.to/om_shree_0709/tmcp-reimagining-model-context-protocol-server-architecture-with-modern-typescript-2mi",
+    "pubDate": "Thu, 23 Oct 2025 01:43:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building clear, concise commit messages can feel like a chore—especially when you’ve got context switching, PR reviews, and deadlines breathing down your neck. GitHub Copilot’s “generate commit” featu"
+    "contentSnippet": "The emergence of advanced AI models has made it necessary to create standardized techniques for supplying them with real-time, external, or domain-specific data.  A technical specification known as th"
   },
   {
-    "title": "Testing Oxide CMS to Dev.to Integration",
-    "link": "https://dev.to/richet/testing-oxide-cms-to-devto-integration-1h1b",
-    "pubDate": "Wed, 22 Oct 2025 18:13:28 +0000",
+    "title": "Optical Clear Adhesive (OCA): Why It Matters in Modern Display Assembly",
+    "link": "https://dev.to/jasonliu112/optical-clear-adhesive-oca-why-it-matters-in-modern-display-assembly-1agl",
+    "pubDate": "Thu, 23 Oct 2025 01:41:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello from Oxide CMS!\n\n\nThis is a test article published from Oxide CMS to Dev.to using our plugin system.\nMarkdown formatting\nCode syntax highlighting\nPlugin-based adapter system\n\n\n\n\nfn main() {\n    "
+    "contentSnippet": "Modern displays are more than just LCD panels and touch sensors.\n\nBetween the layers that make up your smartphone, automotive dashboard, or industrial HMI, there’s a transparent film doing critical wo"
   },
   {
-    "title": "Calico Node Readiness Probe Failed Issues",
-    "link": "https://dev.to/abirk/calico-node-readiness-probe-failed-issues-42i8",
-    "pubDate": "Wed, 22 Oct 2025 18:11:04 +0000",
+    "title": "How to Merge Word Documents with Spire.Doc for Java: A Comprehensive Guide",
+    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-merge-word-documents-with-spiredoc-for-java-a-comprehensive-guide-4bic",
+    "pubDate": "Thu, 23 Oct 2025 01:37:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🛠️ Resolving Calico Node Readiness Issues: A Practical Guide\n\n\n\n  \n  \n  🧩 Problem Overview\n\n\nIn Kubernetes clusters utilizing Calico as the networking solution, nodes may occasionally report a \"not "
+    "contentSnippet": "Merging Word documents is a common requirement in various professional contexts, from compiling reports to consolidating legal documents. This task, while seemingly simple, can become complex when dea"
   },
   {
-    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)",
-    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-50hm",
-    "pubDate": "Wed, 22 Oct 2025 18:09:24 +0000",
+    "title": "Understanding the Agent Loop in AWS Strands Agent Framework",
+    "link": "https://dev.to/sreeni5018/understanding-the-agent-loop-in-aws-strands-agent-framework-4hhn",
+    "pubDate": "Thu, 23 Oct 2025 01:37:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I took on the head pro at Heswall GC in a winner-takes-£1,000 shootout for Episode 1 of my series, powered by Titleist. These guys aren’t just sponsoring Tom—they’re backing club pros across the UK an"
+    "contentSnippet": "Introduction.\n\n\nThe Beating Heart of Intelligent, Autonomous AI Agents\nIf you’ve ever written a for or while loop in programming, you already understand the core idea behind the Agent Loop. It’s a cyc"
   },
   {
-    "title": "🎥 I Built a Professional YouTube Downloader with Python - Here's How!",
-    "link": "https://dev.to/dusmamud/i-built-a-professional-youtube-downloader-with-python-heres-how-p4b",
-    "pubDate": "Wed, 22 Oct 2025 18:09:04 +0000",
+    "title": "Jenis-Jenis Integrasi AI di Aplikasi Modern",
+    "link": "https://dev.to/naandan/jenis-jenis-integrasi-ai-di-aplikasi-modern-1609",
+    "pubDate": "Thu, 23 Oct 2025 01:37:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎥 I Built a Professional YouTube Downloader with Python\n\n\nEver wanted to download YouTube videos or extract audio for offline listening? I created a comprehensive, production-ready YouTube downloader"
+    "contentSnippet": "AI kini bukan cuma tren, tapi sudah jadi bagian inti dari banyak aplikasi modern. Dari chatbot hingga automation agent, integrasi AI punya beberapa pola utama yang umum dipakai. Berikut ringkasannya:\n"
   },
   {
-    "title": "Bring AI agents with Long-Term memory into production in minutes",
-    "link": "https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l",
-    "pubDate": "Wed, 22 Oct 2025 18:06:33 +0000",
+    "title": "RISC-V Test Generation: Using Random and Directed Stimulus to Achieve Coverage Closure",
+    "link": "https://dev.to/alpinumblogs/risc-v-test-generation-using-random-and-directed-stimulus-to-achieve-coverage-closure-221d",
+    "pubDate": "Thu, 23 Oct 2025 01:29:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Give Your AI Agents Long-Term Memory: Amazon Bedrock AgentCore Memory in Action\n\n\n\nMy Amazon Bedrock AgentCore code sample\nPart 2 of the AgentCore Series\n🇻🇪🇨🇱 Dev.to LinkedIn GitHub Twitter Instag"
+    "contentSnippet": "Introduction\nRandom testing can explore broad state spaces but often leaves gaps. Directed tests provide structure but risk missing unexpected interactions. The most effective approach combines the tw"
   },
   {
-    "title": "Ringer Movies: The 10 Best Horror Movies of 2025",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-the-10-best-horror-movies-of-2025-5a38",
-    "pubDate": "Wed, 22 Oct 2025 18:03:18 +0000",
+    "title": "When you train AI to think with your logic, you don’t just save time; you multiply your focus across industries.\r\n\r\nAI isn’t replacing assistants; it’s redefining what one assistant can achieve.",
+    "link": "https://dev.to/jaideepparashar/when-you-train-ai-to-think-with-your-logic-you-dont-just-save-time-you-multiply-your-focus-blm",
+    "pubDate": "Thu, 23 Oct 2025 01:25:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "**Sean Fennessey and Chris Ryan kick off their horror deep-dive with juicy headlines—from a Nolan trailer tease to casting scoops for Behemoth!—before tearing into Scott Derrickson’s disappointing The"
+    "contentSnippet": "How I Run 3 Brands With 1 AI Assistant: My ChatGPT Workflow\nJaideep Parashar ・ Oct 23\n#webdev\n        #programming\n        #ai\n        #productivity"
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",
@@ -77,6 +77,20 @@
     "contentSnippet": "Amazon Web Services（AWS）は、Visual Studio Code（VS Code）互換のコードエディタに生成AIを統合したAIコードエディタ「Kiro」のウェイトリストが終了し、誰でもダウンロードして利用可能になったことを明らかにしました。 と同時に、「Spec Context in Chat」や「Dev server support」などの新機能も追加されました。 Kir"
   },
   {
+    "title": "ContainerLabでBGP環境にsFlowを導入！macOS(ARM64)でハマった話と解決法",
+    "link": "https://qiita.com/ntaka329/items/9fec29217abf98769690?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T05:59:08.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n前回の記事のBGP最小topologyに対し、sFlowでのテレメトリ収集を入れてみました。\nmacOSで動作させる場合に、意外と苦労したので、手順をまとめておきます。\n\nまとめ\n\nBGPルータにsFlowテレメトリ収集機能を..."
+  },
+  {
+    "title": "Contact Form 7でオリジナルのタグを作成する",
+    "link": "https://qiita.com/ssc-wkani/items/4d55bc1617efd9fe7225?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T04:52:23.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nContact Form 7でお問い合わせフォームを作成中に、自分が作成したタグも使用できたら良いのになと思い、自作タグを利用できる方法を調べたので、アウトプットとして記載します。\n\n概要\nContact Form 7のフォーム編集画面では、[text]や[em..."
+  },
+  {
     "title": "エクセルのスピルについて",
     "link": "https://qiita.com/Katu_any/items/d9bd669bdbaee5dfc25a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T04:47:45.000Z",
@@ -84,11 +98,32 @@
     "contentSnippet": "一般的なスピルの意味\nまず最初にこの一般的なスピルの意味とは「こぼす」「投げ出す」「あふれる」等の意味があります。\n\nエクセルのスピルについて\nひとつのセルに入力した数式の結果が隣接するセルに自動的に展開される機能だそうです。\nつまり起点となるセルにのみ数式を入れることで..."
   },
   {
+    "title": "複数の並行開発におけるDocker Composeのポート競合を何とかする（Mac）",
+    "link": "https://zenn.dev/shinoyu/articles/6a79758070df88",
+    "pubDate": "Wed, 22 Oct 2025 04:43:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "とにかく競合しがちな3000と8000\n複数の開発のお仕事を頂いて対応していると、このポート競合に悩まされてしまうということがよくあります。まあその時立ち上げるcomposeの環境を一つだけに限定すればいい、という話ではあるのですが、AIコーディングが常用化された今の環境化では平行に開発できないと辛いというのが実情なわけです。\n大体の現場は、並行で開発をしないといけないタイプのエンジニアのことは特"
+  },
+  {
     "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
     "link": "https://qiita.com/shirok/items/94385d1345ce86ade5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T00:09:52.000Z",
     "source": "Qiita",
     "contentSnippet": "オラクルは、業界をリードする生成AIモデルを企業のデータ、アプリケーション、ワークフローに安全に接続できるよう設計された包括的なプラットフォーム「Oracle AI Data Platform」の一般提供開始を発表しました。自動データ取り込み、セマンティック・エンリッチメ..."
+  },
+  {
+    "title": "SnowCamp 2025 Autumn のすごくすごい進化",
+    "link": "https://zenn.dev/dataheroes/articles/c5bf0e52cadff7",
+    "pubDate": "Tue, 21 Oct 2025 23:24:06 GMT",
+    "source": "Zenn",
+    "contentSnippet": "前置き\nこんにちは。さすらいのデータエンジニアのこみぃです。\n暑すぎた夏がようやく終わりつつあり、季節は秋へと移ろう昨今ですが、皆様いかがお過ごしでしょうか？\nさて、前回大盛況だったリアルキャンプイベント、名付けてSnowCampの第二回が10/17-19に行われたので今回はそんな話をしましょう。\n\n 前回の様子\n前回のイベントの様子はこちらです。写真をばらっと眺めていただくだけでも楽しさが伝わる"
+  },
+  {
+    "title": "Claude Skills × GitHub Actions でバグ修正の自動化を試す！",
+    "link": "https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix",
+    "pubDate": "Tue, 21 Oct 2025 23:08:25 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n2025年10月、Anthropicから立て続けに2つの発表がありました。\n\n\n10月16日: Agent Skills - AIが自律的に使える「スキル」の仕組み\n\n10月20日: Claude Code on the web - ブラウザでコーディングエージェントを動かせる WebUI\n\n正直なところ、最初は「また新しい機能か」程度の印象でした。しかし、公式ドキュメントやコミュニティ"
   },
   {
     "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",
@@ -103,13 +138,6 @@
     "pubDate": "Tue, 21 Oct 2025 15:00:01 GMT",
     "source": "Zenn",
     "contentSnippet": "まえがき\nvim のカーソル移動…面倒臭いですよね…\n特に縦移動\nこれを補助するプラグイン等はあるのですが、ラベルを付けてそれを認知する必要があったりと、なかなかしっくり来るものが無い印象です\nそれもそのはずで、大体のものは明確な行き先があり、それに対して最小のキー数で移動する事を目標としてるんですよね\n自分の場合はそういうのではなくて、\nざっくりこの辺りに移動したいなぁ〜ってのがあって、そこへ大"
-  },
-  {
-    "title": "Strix HaloでローカルLLMをFine-tuningする",
-    "link": "https://zenn.dev/robustonian/articles/strix-halo_full_finetuning",
-    "pubDate": "Tue, 21 Oct 2025 13:01:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nStrix Haloで便利なツールを次々に開発されているDonato Capitellaさんが新しい動画を公開されていた。今回はなんと、Strix HaloでFull Fine-tuningを実現するツールを公開されており、面白そうなのでEVO-X2で動かすことにした。\nというわけで、本記事ではREADME.mdを参考に導入から学習、推論までを一通り動作させる手順を備忘録的にまとめる。\n"
   },
   {
     "title": "AWKの簡単な使い方",
@@ -147,6 +175,13 @@
     "contentSnippet": "はじめに\nはじめまして、hibikiです。株式会社ココナラでプロダクト開発のエンジニアとして働いており、今年で3年目になります。\n直近では、開発エディタ「Cursor」の全社導入や「Claude Code」の活用推進といった、AIで開発組織全体の生産性を向上させる取り組みを担当しています。\nこうしたAI推進の業務に携わる中で、「AIを中心とした世界で、エンジニアとしての自分の価値、人材としてのポジ"
   },
   {
+    "title": "OpenTelemetry が拡げる Gemini CLI の可観測性",
+    "link": "https://zenn.dev/t_hayashi/articles/0fce56bbba5b6f",
+    "pubDate": "Tue, 21 Oct 2025 05:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025 年 10 月 20 日行われた Jagu'e'r クラウドネイティブ分科会 Meetup#20 に登壇させていただきました。\n「クラウドネイティブ × Gemini CLI」 をテーマに Long Session × 2 本・LT × 4 本が行われました。私は LT として、Gemini CLI のオブザーバビリティにフォーカスしてお話させていただきました。\nここでは、LT の中で話き"
+  },
+  {
     "title": "最新のNext.js15 / React19における実践的な設計方針とベストプラクティスを体系的にまとめました",
     "link": "https://zenn.dev/assign/articles/482e93693773e5",
     "pubDate": "Tue, 21 Oct 2025 02:50:20 GMT",
@@ -166,27 +201,6 @@
     "pubDate": "Tue, 21 Oct 2025 02:44:31 GMT",
     "source": "Zenn",
     "contentSnippet": "Next.js 15とReact 19を使用したWebアプリケーション開発における、実践的な設計方針とベストプラクティスをまとめたガイドを作成しました。\n\n本書では、Next.js 15 / React 19を活用したモダンなWebアプリケーション開発における設計方針を、実装観点ごとに整理しています。App Routerを前提とし、ディレクトリ構成、コンポーネント設計、データ取得、データ更新、状態"
-  },
-  {
-    "title": "0からフロントエンドにテストを導入した話",
-    "link": "https://zenn.dev/eversteel_tech/articles/c510e3f036b2bf",
-    "pubDate": "Tue, 21 Oct 2025 01:07:58 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。株式会社EVERSTEELで業務委託のソフトウェアエンジニアとして参画している日野原です。\n主にフロントエンドを担当しており、技術としてはNext.jsを使用しています。（詳しい技術内容はこちらを参照）\n少し前の話になりますが、ゼロからテストを導入したので、その過程や戦略について話していこうと思います。\nフロントエンドのテストを検討している方や、テストの運用方法を迷っている方の参考にな"
-  },
-  {
-    "title": "RAGが苦手な「ぬるっとした日本語」と戦う",
-    "link": "https://zenn.dev/knowledgesense/articles/83c89503b6531b",
-    "pubDate": "Tue, 21 Oct 2025 00:01:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本記事では、RAGの性能を高めるための「DualCSE」という手法について、ざっくり理解します。\n株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。\n\n この記事は何\nこの記事は、日本語特有の「あいまいな婉曲表現」（=ぬるっとした日本語）を含む文章でもRAGの精度を上げるための手法「DualCSE」の論文[1]について、日本語"
-  },
-  {
-    "title": "【個人開発】マッチング型サービスの技術選定",
-    "link": "https://zenn.dev/yosashusaku/articles/perdev-matching-techselect",
-    "pubDate": "Mon, 20 Oct 2025 23:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nマッチング型の求人サービス「おためし転職」を個人開発しました。本記事では、求職者向け（toC）と企業向け（toB）の2つのプラットフォームを構築する上での技術選定と、その理由について解説します。\n求職者向けサイト（toC）: https://otame4.work/\n企業向けサイト（toB）: https://employer.otame4.work/\n\n 技術スタック\nインフラ：Clo"
   },
   {
     "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",
@@ -222,20 +236,6 @@
     "pubDate": "2025-10-19T15:35:02.000Z",
     "source": "Publickey",
     "contentSnippet": "シスコシステムズは、AIコーディングツールを用いてコーディングを行う際に、生成されるコードが脆弱性を持たず安全なパターンを用いたものにするためのルールセットなどを備えた「Project CodeGuard」をオープンソースで公開しました。 Markdownで書かれたセキュリティルールなど Project CodeGuardは、コミュニティによって作成されたMarkdown形式で書かれたセキュリティ"
-  },
-  {
-    "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",
-    "link": "https://qiita.com/y-keiyu/items/86a75714a4f14d484c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T10:56:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nJISOUで学習しているHeyho-です。\nReactの学習の一環として、個人アプリのアイデア出しからMVP作成、そしてアプリ開発までを行いました。\n約1ヶ月という限られた期間で、「0から1を作る」という初めての経験を通じて、多くの学びと気づきを得ることができま..."
-  },
-  {
-    "title": "【GitHub】100日間コミットしてみた感想と気付き",
-    "link": "https://qiita.com/Uyuki_0409/items/eb2090074251dc4e6d1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T09:03:32.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n2025年の夏から秋にかけて、100日間連続でGitHubにコミットすることを目標にしました。\n最初は「毎日コードを書いて習慣化したい」くらいの気持ちでしたが、気づけば生活と考え方そのものが変わっていたと思います。\n実際に100日間続けてみて感じたこと・得られた..."
   },
   {
     "title": "Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業プロジェクトに",

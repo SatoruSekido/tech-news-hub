@@ -1,73 +1,115 @@
 [
   {
-    "title": "Event-Driven Architecture in Production: Designing with AWS EventBridge and Go",
-    "link": "https://dev.to/voskan89/event-driven-architecture-in-production-designing-with-aws-eventbridge-and-go-306b",
-    "pubDate": "Thu, 23 Oct 2025 06:32:42 +0000",
+    "title": "Being professional goes beyond just technical skills; demonstrating professionalism in behavior is equally, if not more, important. Be kind.",
+    "link": "https://dev.to/westernal/being-professional-goes-beyond-just-technical-skills-demonstrating-professionalism-in-behavior-is-4g74",
+    "pubDate": "Thu, 23 Oct 2025 12:46:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We recently finished moving a set of synchronous REST flows at SolarGenix.ai to an event-driven core. The goal wasn’t to chase buzzwords; we wanted fewer cross-service dependencies, clearer ownership,"
+    "contentSnippet": "We Need to Talk About How Toxic Dev Culture Has Become (And How We Fix It)\nElvis Sautet ・ Oct 23\n#culture\n        #community\n        #mentalhealth\n        #webdev"
   },
   {
-    "title": "ASP.NET Core Dependency Injection From Scopes & Lifetimes to .NET 9 Source Generators",
-    "link": "https://dev.to/oguzhan-agir-02/aspnet-core-dependency-injection-from-scopes-lifetimes-to-net-9-source-generators-3f06",
-    "pubDate": "Thu, 23 Oct 2025 06:19:24 +0000",
+    "title": "The `match` Expression in PHP",
+    "link": "https://dev.to/ashallendesign/the-match-expression-in-php-1c99",
+    "pubDate": "Thu, 23 Oct 2025 12:33:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Dependency Injection in ASP.NET Core is simple... until you hit a subtle memory leak or a captive dependency bug.\nAre you positive you're not creating a \"captive dependency\"? Do you know the right way"
+    "contentSnippet": "Introduction\n\n\nThe match expression is a PHP feature that I love using. It was introduced in PHP 8.0 (released in November 2020), so it's been around for a while now. But I thought I'd put together a "
   },
   {
-    "title": "Google SWE Intern Interview Experience — The Key to Nailing Both Rounds",
-    "link": "https://dev.to/net_programhelp_e160eef28/google-swe-intern-interview-experience-the-key-to-nailing-both-rounds-5465",
-    "pubDate": "Thu, 23 Oct 2025 06:17:49 +0000",
+    "title": "Secure API Routes in Next.js with Middleware and JWT",
+    "link": "https://dev.to/djamware_tutorial_eba1a61/secure-api-routes-in-nextjs-with-middleware-and-jwt-5anb",
+    "pubDate": "Thu, 23 Oct 2025 12:31:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Just finished my Google Software Engineer Intern interview process — two rounds, both passed smoothly. Here’s a detailed breakdown of the real interview content, structure, and the reasoning behind ea"
+    "contentSnippet": "Protect your Next.js API endpoints with JWT authentication and middleware-based route protection.\n👉 Read the full guide on Djamware:\nhttps://www.djamware.com/post/68f99de910360530b36a6596/secure-api-"
   },
   {
-    "title": "Tuya Module Selection and Hardware Development Guide: WiFi, BLE, and Zigbee Comparison",
-    "link": "https://dev.to/zediot/tuya-module-selection-and-hardware-development-guide-wifi-ble-and-zigbee-comparison-2kl9",
-    "pubDate": "Thu, 23 Oct 2025 06:14:27 +0000",
+    "title": "🤩 My Lightbulb Moment: Understanding React State the Right Way",
+    "link": "https://dev.to/usama_dev/my-lightbulb-moment-understanding-react-state-the-right-way-49pp",
+    "pubDate": "Thu, 23 Oct 2025 12:27:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why Module Selection Is Key to IoT Success\n\n\nIn smart home and IoT product design, choosing the right module determines performance, cost, user experience, and ecosystem compatibility.\nPoor selection "
+    "contentSnippet": "Today I finally understood what makes React so powerful — state.\nOnce you realize that your UI is just a reflection of state, React suddenly clicks.\nI created a small component that shows three steps:"
   },
   {
-    "title": "Taming the Cloud Cost Beast: A Crawl, Walk, Run Guide to Enterprise FinOps",
-    "link": "https://dev.to/taniya1004/taming-the-cloud-cost-beast-a-crawl-walk-run-guide-to-enterprise-finops-3151",
-    "pubDate": "Thu, 23 Oct 2025 06:11:29 +0000",
+    "title": "The out Parameter in Turbine: A Markdown-like Scripting Language",
+    "link": "https://dev.to/tsubo164/the-out-parameter-in-turbine-a-markdown-like-scripting-language-53ab",
+    "pubDate": "Thu, 23 Oct 2025 12:26:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every enterprise that has embraced the public cloud has experienced \"the moment\"—the day the monthly cloud bill arrives, and the collective gasp is heard from the engineering department all the way to"
+    "contentSnippet": "In previous posts, I’ve introduced some of the key syntax and features of Turbine, a Markdown-inspired scripting language.\nout parameter, a mechanism for returning multiple values from a function, sim"
   },
   {
-    "title": "Webflow vs Framer vs WordPress (2025 Edition): What Should You Use?",
-    "link": "https://dev.to/pixel_mosaic/webflow-vs-framer-vs-wordpress-2025-edition-what-should-you-use-3b2k",
-    "pubDate": "Thu, 23 Oct 2025 06:10:55 +0000",
+    "title": "Zshell [My Dev Environment]",
+    "link": "https://dev.to/pkorsch/zshell-my-dev-environment-1mcl",
+    "pubDate": "Thu, 23 Oct 2025 12:26:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The no-code era is no longer coming — it’s here.\n\nBut which tool truly empowers creators in 2025?\n\n\n\nPlatform\nIdeal For\nStrength\nWeakness\n\n\n\n\nWebflow\nDesigners & devs\nVisual CSS control, CMS power\nCos"
+    "contentSnippet": "If you spend a good chunk of your day in the terminal, you know how much difference a well-tuned shell can make. For years, I worked with the default Bash setup. Yeah, it got the job done, but it alwa"
   },
   {
-    "title": "Implémenter une politique de logging pour les Equipes IT",
-    "link": "https://dev.to/kleinhouzin/implementer-une-politique-de-logging-pour-les-equipes-it-4khi",
-    "pubDate": "Thu, 23 Oct 2025 06:10:15 +0000",
+    "title": "Why Edge-Native MVNOs Are Critical for IoT Success: A Developer’s Perspective",
+    "link": "https://dev.to/hassham_1_f5926bd173cb1a5/why-edge-native-mvnos-are-critical-for-iot-success-a-developers-perspective-43fb",
+    "pubDate": "Thu, 23 Oct 2025 12:09:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nDans l'ère numérique actuelle, à l'époque de l'IA, les logs sont bien plus que de simples traces techniques - ce sont les yeux et les oreilles de votre infrastructure IT. Une politique "
+    "contentSnippet": "By 2030, “5G-only” MVNOs won’t cut it. Speed and coverage have become baseline expectations. The real differentiator? Edge-native architecture — and for developers building IoT, AR/VR, smart city plat"
   },
   {
-    "title": "100 Days of DevOps: Day 76",
-    "link": "https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7",
-    "pubDate": "Thu, 23 Oct 2025 06:07:34 +0000",
+    "title": "From Beginner to Codex CLI Pro",
+    "link": "https://dev.to/andyrewlee/from-beginner-to-codex-cli-pro-4no3",
+    "pubDate": "Thu, 23 Oct 2025 12:08:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jenkins Security Configuration: Project-Based Authorization\n\n\n\n  \n  \n  Project Summary\n\n\nThis article documents the configuration process to grant fine-grained, job-specific permissions to new develop"
+    "contentSnippet": "I've spent the last month living inside of Codex CLI. Here are the most helpful tips.\nI copy and paste images into Codex all the time. The easiest way to do this is to capture it into your clipboard a"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-p9n",
-    "pubDate": "Thu, 23 Oct 2025 06:02:47 +0000",
+    "title": "Developers Spend Just 1% of Coding Time Using VS Code's Debugger (11,805 Sessions Analyzed)",
+    "link": "https://dev.to/floustate/developers-spend-just-1-of-coding-time-using-vs-codes-debugger-11805-sessions-analyzed-2b84",
+    "pubDate": "Thu, 23 Oct 2025 12:08:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Every Saw Movie EVER is CinemaSins’ latest deep-dive, calling out every “sin” in the entire Saw franchise so far. The video description points fans to their main site, linktr.ee "
+    "contentSnippet": "Analysis of 11,805 coding sessions from 68 developers tracked over 3 months. Developers spend just 1.4% of their time using VS Code's debugger - most rely on console.log statements instead.\n68 develop"
   },
   {
-    "title": "Dynamic Lightpaths: Reimagining Collective Communication for Hyperscale Workloads",
-    "link": "https://dev.to/arvind_sundararajan/dynamic-lightpaths-reimagining-collective-communication-for-hyperscale-workloads-4d0d",
-    "pubDate": "Thu, 23 Oct 2025 06:02:08 +0000",
+    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)",
+    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-5997",
+    "pubDate": "Thu, 23 Oct 2025 12:07:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Dynamic Lightpaths: Reimagining Collective Communication for Hyperscale Workloads\n\n\nTired of watching your massive machine learning jobs crawl due to network bottlenecks? Are collective communication "
+    "contentSnippet": "I went head-to-head with Heswall GC’s head pro in a £1,000 match, backed by Titleist—who aren’t just sponsoring this series, but have also pledged support for the club’s junior section based on how th"
+  },
+  {
+    "title": "Hono CLI 爆誕",
+    "link": "https://zenn.dev/yusukebe/articles/ff69c13ccafb28",
+    "pubDate": "Thu, 23 Oct 2025 06:59:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "これまでHonoは数々の新しいことを提供してきました。正規表現を活かしたルーター、サーバーサイドの軽量JSX、TypeScriptの型によるRPC、Web Standardを使ったマルチランタイム対応などなど。アイデアと実装力で世界と戦って来たわけです。\n本日私達が紹介するのは「Hono CLI」です。\nHono CLIは全く新しいコンセプトのコマンドラインインターフェースです。\n\n\ncreate"
+  },
+  {
+    "title": "【2025年版】サービスメッシュに関連するOSSの動向調査記録",
+    "link": "https://qiita.com/melsuga/items/f655bc5cd576bc064399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T05:14:04.000Z",
+    "source": "Qiita",
+    "contentSnippet": "本記事の要約\n本記事は、サービスメッシュに関連するOSSについて2025年時点での動向を調査したものです。具体的には以下の3点についてまとめました。\n\n5つのサービスメッシュに関連するOSSを抜粋し、概要レベルで調査しました。\n抜粋したOSSを2グループに分類し、各OSS..."
+  },
+  {
+    "title": "Claude Code導入3ヶ月後の社内アンケートから分かったこと",
+    "link": "https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07",
+    "pubDate": "Thu, 23 Oct 2025 03:15:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "背景と目的\nClaude Code が ver.1.0.0 になってから 5 ヶ月、弊社が全エンジニアに展開してから 3 ヶ月が経過しました。\nその中で生産性が上がった人とそうでない人が明確に分かれていたり、新たな大変さが生まれてフラストレーションも多く抱えています。\nWeb 開発の現場で LLM 開発を導入することで何に困るのか明確にして次の施策につなげたいと考え、定性・定量の両面からチーム全体"
+  },
+  {
+    "title": "『MCPたくさん入れたいけどコンテキストが...』を解決した話",
+    "link": "https://zenn.dev/bm_sms/articles/modular_mcp_context_optimize",
+    "pubDate": "Thu, 23 Oct 2025 01:21:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nMCP (Model Context Protocol) が Anthropic から公開されてもうすぐ1年[1]になりますね。\n各社ベンダーや個人が便利な MCP を公開しできることが増えていく一方で、MCP をたくさん登録しておくことによるコンテキストの肥大化問題にも焦点が当たるようになってきました。\n単一の MCP サーバーから複数のツールが登録され、それぞれのツールに対する de"
+  },
+  {
+    "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
+    "link": "https://qiita.com/Zucky2022/items/28af0394b86f64b76321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T23:36:28.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nAPI開発において、仕様書の管理、テスト実行、モックサーバーの構築は重要な作業です。\n私は長年Postmanを使用してきましたが、以下の課題を感じていました。\n\nPostmanで感じていた課題\n\nSwaggerとの二重管理: API仕様書をSwaggerで管理..."
+  },
+  {
+    "title": "ブラウザバックで無限スクロールが振り出しに戻る問題をNext.jsの「URL付きモーダル」で解決する",
+    "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
+    "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「ブラウザバックで無限スクロールが振り出しに戻る」という著名な（？）問題を、Next.js App Router の Intercepting Routes と Parallel Routes を組み合わせたモーダルで、従来のデメリットを解消しながらうまく回避できました。\n下記、操作を再現したショート動画です。\nhttps://www.youtube.com/shorts/WwxlTY1"
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",
@@ -77,25 +119,18 @@
     "contentSnippet": "Amazon Web Services（AWS）は、Visual Studio Code（VS Code）互換のコードエディタに生成AIを統合したAIコードエディタ「Kiro」のウェイトリストが終了し、誰でもダウンロードして利用可能になったことを明らかにしました。 と同時に、「Spec Context in Chat」や「Dev server support」などの新機能も追加されました。 Kir"
   },
   {
-    "title": "ContainerLabでBGP環境にsFlowを導入！macOS(ARM64)でハマった話と解決法",
-    "link": "https://qiita.com/ntaka329/items/9fec29217abf98769690?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T05:59:08.000Z",
+    "title": "Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形",
+    "link": "https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T11:23:07.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n前回の記事のBGP最小topologyに対し、sFlowでのテレメトリ収集を入れてみました。\nmacOSで動作させる場合に、意外と苦労したので、手順をまとめておきます。\n\nまとめ\n\nBGPルータにsFlowテレメトリ収集機能を..."
+    "contentSnippet": "はじめに\n最近、脆弱性に関する記事が注目されることが多くなった @___nix___ です。\n\n背景\nMicrosoft 365 Copilot は業務データにアクセスできるAIとして普及していますが、自律的にコンテンツを解析する性質が悪用されるリスクがあります。過去の「..."
   },
   {
-    "title": "Contact Form 7でオリジナルのタグを作成する",
-    "link": "https://qiita.com/ssc-wkani/items/4d55bc1617efd9fe7225?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T04:52:23.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nContact Form 7でお問い合わせフォームを作成中に、自分が作成したタグも使用できたら良いのになと思い、自作タグを利用できる方法を調べたので、アウトプットとして記載します。\n\n概要\nContact Form 7のフォーム編集画面では、[text]や[em..."
-  },
-  {
-    "title": "エクセルのスピルについて",
-    "link": "https://qiita.com/Katu_any/items/d9bd669bdbaee5dfc25a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T04:47:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "一般的なスピルの意味\nまず最初にこの一般的なスピルの意味とは「こぼす」「投げ出す」「あふれる」等の意味があります。\n\nエクセルのスピルについて\nひとつのセルに入力した数式の結果が隣接するセルに自動的に展開される機能だそうです。\nつまり起点となるセルにのみ数式を入れることで..."
+    "title": "Rustのproc-macroで自動微分してGPT-2を学習してみた",
+    "link": "https://zenn.dev/ho_oto/articles/32a460c64e963b",
+    "pubDate": "Wed, 22 Oct 2025 11:04:13 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n深層学習フレームワークにおいては、自動微分によってロスの勾配を求め、勾配降下法によってモデルのパラメータを最適化することで学習が進みます。\n例えばPyTorchの場合、torch.Tensorを使うことで計算グラフが記録されていき、この情報から誤差逆伝播法によって勾配が計算されます[1]。\nところで、自動微分はよりコード生成的なアプローチ、即ち、関数の定義を受け取り、その導関数の定義を自"
   },
   {
     "title": "複数の並行開発におけるDocker Composeのポート競合を何とかする（Mac）",
@@ -105,6 +140,13 @@
     "contentSnippet": "とにかく競合しがちな3000と8000\n複数の開発のお仕事を頂いて対応していると、このポート競合に悩まされてしまうということがよくあります。まあその時立ち上げるcomposeの環境を一つだけに限定すればいい、という話ではあるのですが、AIコーディングが常用化された今の環境化では平行に開発できないと辛いというのが実情なわけです。\n大体の現場は、並行で開発をしないといけないタイプのエンジニアのことは特"
   },
   {
+    "title": "GopherCon 2025に行ってきました！",
+    "link": "https://zenn.dev/logica0419/articles/gophercon-2025",
+    "pubDate": "Wed, 22 Oct 2025 02:45:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "どうもこんにちは。\nブログを書くのは久しぶりのTakuto Nagamiです。\n今回の記事は、8/26～28にアメリカ・ニューヨークで行われたGopherConに参加してきた体験レポートです！🇺🇸\n\n\n 前置き\n今回のGopherCon参加にあたり、一般社団法人Gophers Japanの海外カンファレンス向けスカラーシップ制度で旅費支援をしていただきました。\nこれによって今回必要になった費用"
+  },
+  {
     "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
     "link": "https://qiita.com/shirok/items/94385d1345ce86ade5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T00:09:52.000Z",
@@ -112,18 +154,18 @@
     "contentSnippet": "オラクルは、業界をリードする生成AIモデルを企業のデータ、アプリケーション、ワークフローに安全に接続できるよう設計された包括的なプラットフォーム「Oracle AI Data Platform」の一般提供開始を発表しました。自動データ取り込み、セマンティック・エンリッチメ..."
   },
   {
-    "title": "SnowCamp 2025 Autumn のすごくすごい進化",
-    "link": "https://zenn.dev/dataheroes/articles/c5bf0e52cadff7",
-    "pubDate": "Tue, 21 Oct 2025 23:24:06 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前置き\nこんにちは。さすらいのデータエンジニアのこみぃです。\n暑すぎた夏がようやく終わりつつあり、季節は秋へと移ろう昨今ですが、皆様いかがお過ごしでしょうか？\nさて、前回大盛況だったリアルキャンプイベント、名付けてSnowCampの第二回が10/17-19に行われたので今回はそんな話をしましょう。\n\n 前回の様子\n前回のイベントの様子はこちらです。写真をばらっと眺めていただくだけでも楽しさが伝わる"
-  },
-  {
     "title": "Claude Skills × GitHub Actions でバグ修正の自動化を試す！",
     "link": "https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix",
     "pubDate": "Tue, 21 Oct 2025 23:08:25 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\n2025年10月、Anthropicから立て続けに2つの発表がありました。\n\n\n10月16日: Agent Skills - AIが自律的に使える「スキル」の仕組み\n\n10月20日: Claude Code on the web - ブラウザでコーディングエージェントを動かせる WebUI\n\n正直なところ、最初は「また新しい機能か」程度の印象でした。しかし、公式ドキュメントやコミュニティ"
+    "contentSnippet": "はじめに\n2025年10月、Anthropic から立て続けに2つの発表がありました。\n\n\n10月16日: Agent Skills - AIが自律的に使える「スキル」の仕組み\n\n10月20日: Claude Code on the web - ブラウザでコーディングエージェントを動かせる WebUI\n\n正直なところ、最初は「また新しい機能か」程度の印象でした。しかし、公式ドキュメントやコミュニテ"
+  },
+  {
+    "title": "Claude × MCPで社内DBに話しかけてみた",
+    "link": "https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T23:03:38.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n本記事で紹介する Model Context Protocol （MCP） サーバーは、クラウドや社内ネットワーク上のリモートサーバーではなく、ローカル PC 上で動作するローカルサーバーです。\n最終的に Claude Desktop との通信も標準入出力（st..."
   },
   {
     "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",
@@ -140,11 +182,18 @@
     "contentSnippet": "まえがき\nvim のカーソル移動…面倒臭いですよね…\n特に縦移動\nこれを補助するプラグイン等はあるのですが、ラベルを付けてそれを認知する必要があったりと、なかなかしっくり来るものが無い印象です\nそれもそのはずで、大体のものは明確な行き先があり、それに対して最小のキー数で移動する事を目標としてるんですよね\n自分の場合はそういうのではなくて、\nざっくりこの辺りに移動したいなぁ〜ってのがあって、そこへ大"
   },
   {
-    "title": "AWKの簡単な使い方",
-    "link": "https://qiita.com/ynaru-yzrh/items/5dc4896a1f37319fd97f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T11:18:38.000Z",
+    "title": "Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来",
+    "link": "https://zenn.dev/lnest_knowledge/articles/9629c5083357aa",
+    "pubDate": "Tue, 21 Oct 2025 10:27:55 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来\n\n はじめに\n2025年10月20日、Anthropicが「Claude Code Web版」をリリースしました。これまでターミナルでのみ利用可能だったClaude Codeが、ついにブラウザから直接使える時代が来たのです。\n筆者は、このweb版を使ってQ-Learningの迷路問題をStreamlitで実装してみまし"
+  },
+  {
+    "title": "Webサーバーサイド言語としてのRustについてご紹介",
+    "link": "https://qiita.com/kazaf91/items/50ed0a3ce74c7409d46a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T09:38:55.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n\n前回書いた記事でAWKをほんの少しだけ使用したが、AWKとは何ですか？とごく少数の人に聞かれたので自分の知っている範囲で記載します\nGNU awkであることを前提としています\n\nAWKとは\n\nAWKとはAWKスクリプトを処理するインタプリタで、プログラミン..."
+    "contentSnippet": "前置き\n社内にてRustを採用したい旨を弊社CTOに相談する際、まとめた資料です。\nWebサーバーサイド言語としてのRustの現状と今後の展望を自分なりに記載しています。\nちょっとでも興味を持ってもらえたら嬉しい & せっかくなので外部公開することにしました。\n\nスライド..."
   },
   {
     "title": "Dockerを使ってワードプレスの環境構築をする",
@@ -154,53 +203,11 @@
     "contentSnippet": "経緯\n元々ローカルでの環境設定にLocalを使用していたけど、システムのバージョンアップの時にphp7.3とかの低いバージョンに落とせなくて動作確認ができなかったから。\n調べてみるとDockerならWP-CLIを用いて、固定ページとかの作成もコマンドからできるのがわかって..."
   },
   {
-    "title": "Claude Skills (Agent Skills) 入門",
-    "link": "https://zenn.dev/explaza/articles/b3dde4451aa249",
-    "pubDate": "Tue, 21 Oct 2025 07:25:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、エクスプラザの@_mkazutakaです。\n今回は、10/16にAnthropicが発表した、Claude Skills(Agent Skills)について入門と題して紹介したいと思います。\nClaude SkillsなのかAgent Skillsなのか少し不明瞭なのですが、公式ニュースのTitleタグ以外にClaude Skillsというワードは見つけられなかったので、本記"
-  },
-  {
     "title": "レガシーC#コード対比集（昔こう→今こう）",
     "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-21T07:23:56.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nC#は急速に進化してきた言語です。10年前の「当たり前」は、今では保守性やパフォーマンスの観点から非推奨になっていることもあります。\n今回は、レガシーシステムの保守や段階的なリファクタリングに携わる開発者向けに、よくある「昔の書き方」から「現在の推奨」への置き換..."
-  },
-  {
-    "title": "あなたは5年後必要な人材ですか？",
-    "link": "https://zenn.dev/coconala/articles/c33e04818367b5",
-    "pubDate": "Tue, 21 Oct 2025 06:36:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nはじめまして、hibikiです。株式会社ココナラでプロダクト開発のエンジニアとして働いており、今年で3年目になります。\n直近では、開発エディタ「Cursor」の全社導入や「Claude Code」の活用推進といった、AIで開発組織全体の生産性を向上させる取り組みを担当しています。\nこうしたAI推進の業務に携わる中で、「AIを中心とした世界で、エンジニアとしての自分の価値、人材としてのポジ"
-  },
-  {
-    "title": "OpenTelemetry が拡げる Gemini CLI の可観測性",
-    "link": "https://zenn.dev/t_hayashi/articles/0fce56bbba5b6f",
-    "pubDate": "Tue, 21 Oct 2025 05:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025 年 10 月 20 日行われた Jagu'e'r クラウドネイティブ分科会 Meetup#20 に登壇させていただきました。\n「クラウドネイティブ × Gemini CLI」 をテーマに Long Session × 2 本・LT × 4 本が行われました。私は LT として、Gemini CLI のオブザーバビリティにフォーカスしてお話させていただきました。\nここでは、LT の中で話き"
-  },
-  {
-    "title": "最新のNext.js15 / React19における実践的な設計方針とベストプラクティスを体系的にまとめました",
-    "link": "https://zenn.dev/assign/articles/482e93693773e5",
-    "pubDate": "Tue, 21 Oct 2025 02:50:20 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nNext.js 15とReact 19が登場し、App Routerを中心とした新しい開発体験が標準となってきました。Server ComponentとClient Componentを意識したコンポーネント設計、データハンドリング、状態管理、キャッシュ戦略など、実務で求められる設計判断は多岐にわたります。\n筆者は、2023年7月のApp Routerリリース直後から現在まで、約2年に渡"
-  },
-  {
-    "title": "uv × DockerでのPython開発環境構築方法",
-    "link": "https://zenn.dev/mkj/articles/3aaa36d6f35c08",
-    "pubDate": "Tue, 21 Oct 2025 02:50:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "松尾研究所では、Python開発における標準ツールとしてuvを推奨しています。uvはPythonのパッケージ管理ツールで、依存関係の管理や仮想環境の構築を自動化し、高速で再現性のある開発を可能にすることが特長です。\nPythonパッケージだけでなく、Node.jsやブラウザ周りのツールなど他の依存も扱うときには、uvとDockerを併用するケースもあるかと思います。Dockerのコンテナ上でuvを"
-  },
-  {
-    "title": "Next.js 15 / React 19 実践設計ガイド 実装観点別のベストプラクティス",
-    "link": "https://zenn.dev/k_mori/books/24320553af0956",
-    "pubDate": "Tue, 21 Oct 2025 02:44:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Next.js 15とReact 19を使用したWebアプリケーション開発における、実践的な設計方針とベストプラクティスをまとめたガイドを作成しました。\n\n本書では、Next.js 15 / React 19を活用したモダンなWebアプリケーション開発における設計方針を、実装観点ごとに整理しています。App Routerを前提とし、ディレクトリ構成、コンポーネント設計、データ取得、データ更新、状態"
   },
   {
     "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",
@@ -215,13 +222,6 @@
     "pubDate": "2025-10-20T13:11:10.000Z",
     "source": "Qiita",
     "contentSnippet": "目次\n1. はじめに\n2. アプリ概要\n3. 使用技術\n4. アプリケーション構成図\n5. 開発の流れ\n6. 機械学習モデルの訓練\n7. 予測APIの開発\n8. Webサイトの構築\n9. 課題点や懸念点\n10. 終わりに\n\nはじめに\n\nホタルイカの身投げについて\n初めまし..."
-  },
-  {
-    "title": "【JavaScript】オブジェクトをfreezeした後でもprivateプロパティを変更できるし生やすこともできる",
-    "link": "https://qiita.com/rana_kualu/items/ede5f5c0135996e72ebc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T11:39:32.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Object.freeze\nObject.freezeすると、そのオブジェクト直下のプロパティを作成変更削除することができなくなります。\nclass HOGE {\n  publicProperty;\n  \n  setPublicProperty(val) {\n    th..."
   },
   {
     "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",

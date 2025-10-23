@@ -1,73 +1,73 @@
 [
   {
-    "title": "Saving Budget With OpenTelemetry Sampling",
-    "link": "https://dev.to/sykrabadi/saving-budget-with-opentelemetry-sampling-3iee",
-    "pubDate": "Thu, 23 Oct 2025 01:57:10 +0000",
+    "title": "Event-Driven Architecture in Production: Designing with AWS EventBridge and Go",
+    "link": "https://dev.to/voskan89/event-driven-architecture-in-production-designing-with-aws-eventbridge-and-go-306b",
+    "pubDate": "Thu, 23 Oct 2025 06:32:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Background\n\n\nOn early October 2025, we was doing PoC of using OpenTelemetry\nunset status, and we are happy with it.\nto save budget\nIn this article, we are going to explore definition of sampling, samp"
+    "contentSnippet": "We recently finished moving a set of synchronous REST flows at SolarGenix.ai to an event-driven core. The goal wasn’t to chase buzzwords; we wanted fewer cross-service dependencies, clearer ownership,"
   },
   {
-    "title": "Stop Calling QA ‘Testing’: What It Really Is and Why It Matters",
-    "link": "https://dev.to/developerpartners/stop-calling-qa-testing-what-it-really-is-and-why-it-matters-1h83",
-    "pubDate": "Thu, 23 Oct 2025 01:52:36 +0000",
+    "title": "ASP.NET Core Dependency Injection From Scopes & Lifetimes to .NET 9 Source Generators",
+    "link": "https://dev.to/oguzhan-agir-02/aspnet-core-dependency-injection-from-scopes-lifetimes-to-net-9-source-generators-3f06",
+    "pubDate": "Thu, 23 Oct 2025 06:19:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When it comes to software development, quality can make or break a product. But one persistent myth keeps popping up: Quality Assurance is just another word for testing. It’s easy to see why, testing "
+    "contentSnippet": "Dependency Injection in ASP.NET Core is simple... until you hit a subtle memory leak or a captive dependency bug.\nAre you positive you're not creating a \"captive dependency\"? Do you know the right way"
   },
   {
-    "title": "Verifying CUDA Kernels in Coq with Rust MIR (Introducing cuq)",
-    "link": "https://dev.to/neeljsomani/verifying-cuda-kernels-in-coq-with-rust-mir-introducing-cuq-2b21",
-    "pubDate": "Thu, 23 Oct 2025 01:51:00 +0000",
+    "title": "Google SWE Intern Interview Experience — The Key to Nailing Both Rounds",
+    "link": "https://dev.to/net_programhelp_e160eef28/google-swe-intern-interview-experience-the-key-to-nailing-both-rounds-5465",
+    "pubDate": "Thu, 23 Oct 2025 06:17:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\n\n\nGPU kernels are notoriously difficult to reason about formally. While prior work such as Lustig et al. (ASPLOS 2019) defined a Coq model of the PTX memory semantics, there has not been a pr"
+    "contentSnippet": "Just finished my Google Software Engineer Intern interview process — two rounds, both passed smoothly. Here’s a detailed breakdown of the real interview content, structure, and the reasoning behind ea"
   },
   {
-    "title": "TMCP: Reimagining Model Context Protocol Server Architecture with Modern TypeScript",
-    "link": "https://dev.to/om_shree_0709/tmcp-reimagining-model-context-protocol-server-architecture-with-modern-typescript-2mi",
-    "pubDate": "Thu, 23 Oct 2025 01:43:29 +0000",
+    "title": "Tuya Module Selection and Hardware Development Guide: WiFi, BLE, and Zigbee Comparison",
+    "link": "https://dev.to/zediot/tuya-module-selection-and-hardware-development-guide-wifi-ble-and-zigbee-comparison-2kl9",
+    "pubDate": "Thu, 23 Oct 2025 06:14:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The emergence of advanced AI models has made it necessary to create standardized techniques for supplying them with real-time, external, or domain-specific data.  A technical specification known as th"
+    "contentSnippet": "Why Module Selection Is Key to IoT Success\n\n\nIn smart home and IoT product design, choosing the right module determines performance, cost, user experience, and ecosystem compatibility.\nPoor selection "
   },
   {
-    "title": "Optical Clear Adhesive (OCA): Why It Matters in Modern Display Assembly",
-    "link": "https://dev.to/jasonliu112/optical-clear-adhesive-oca-why-it-matters-in-modern-display-assembly-1agl",
-    "pubDate": "Thu, 23 Oct 2025 01:41:46 +0000",
+    "title": "Taming the Cloud Cost Beast: A Crawl, Walk, Run Guide to Enterprise FinOps",
+    "link": "https://dev.to/taniya1004/taming-the-cloud-cost-beast-a-crawl-walk-run-guide-to-enterprise-finops-3151",
+    "pubDate": "Thu, 23 Oct 2025 06:11:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern displays are more than just LCD panels and touch sensors.\n\nBetween the layers that make up your smartphone, automotive dashboard, or industrial HMI, there’s a transparent film doing critical wo"
+    "contentSnippet": "Every enterprise that has embraced the public cloud has experienced \"the moment\"—the day the monthly cloud bill arrives, and the collective gasp is heard from the engineering department all the way to"
   },
   {
-    "title": "How to Merge Word Documents with Spire.Doc for Java: A Comprehensive Guide",
-    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-merge-word-documents-with-spiredoc-for-java-a-comprehensive-guide-4bic",
-    "pubDate": "Thu, 23 Oct 2025 01:37:44 +0000",
+    "title": "Webflow vs Framer vs WordPress (2025 Edition): What Should You Use?",
+    "link": "https://dev.to/pixel_mosaic/webflow-vs-framer-vs-wordpress-2025-edition-what-should-you-use-3b2k",
+    "pubDate": "Thu, 23 Oct 2025 06:10:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Merging Word documents is a common requirement in various professional contexts, from compiling reports to consolidating legal documents. This task, while seemingly simple, can become complex when dea"
+    "contentSnippet": "The no-code era is no longer coming — it’s here.\n\nBut which tool truly empowers creators in 2025?\n\n\n\nPlatform\nIdeal For\nStrength\nWeakness\n\n\n\n\nWebflow\nDesigners & devs\nVisual CSS control, CMS power\nCos"
   },
   {
-    "title": "Understanding the Agent Loop in AWS Strands Agent Framework",
-    "link": "https://dev.to/sreeni5018/understanding-the-agent-loop-in-aws-strands-agent-framework-4hhn",
-    "pubDate": "Thu, 23 Oct 2025 01:37:30 +0000",
+    "title": "Implémenter une politique de logging pour les Equipes IT",
+    "link": "https://dev.to/kleinhouzin/implementer-une-politique-de-logging-pour-les-equipes-it-4khi",
+    "pubDate": "Thu, 23 Oct 2025 06:10:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction.\n\n\nThe Beating Heart of Intelligent, Autonomous AI Agents\nIf you’ve ever written a for or while loop in programming, you already understand the core idea behind the Agent Loop. It’s a cyc"
+    "contentSnippet": "Introduction\n\n\nDans l'ère numérique actuelle, à l'époque de l'IA, les logs sont bien plus que de simples traces techniques - ce sont les yeux et les oreilles de votre infrastructure IT. Une politique "
   },
   {
-    "title": "Jenis-Jenis Integrasi AI di Aplikasi Modern",
-    "link": "https://dev.to/naandan/jenis-jenis-integrasi-ai-di-aplikasi-modern-1609",
-    "pubDate": "Thu, 23 Oct 2025 01:37:11 +0000",
+    "title": "100 Days of DevOps: Day 76",
+    "link": "https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7",
+    "pubDate": "Thu, 23 Oct 2025 06:07:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI kini bukan cuma tren, tapi sudah jadi bagian inti dari banyak aplikasi modern. Dari chatbot hingga automation agent, integrasi AI punya beberapa pola utama yang umum dipakai. Berikut ringkasannya:\n"
+    "contentSnippet": "Jenkins Security Configuration: Project-Based Authorization\n\n\n\n  \n  \n  Project Summary\n\n\nThis article documents the configuration process to grant fine-grained, job-specific permissions to new develop"
   },
   {
-    "title": "RISC-V Test Generation: Using Random and Directed Stimulus to Achieve Coverage Closure",
-    "link": "https://dev.to/alpinumblogs/risc-v-test-generation-using-random-and-directed-stimulus-to-achieve-coverage-closure-221d",
-    "pubDate": "Thu, 23 Oct 2025 01:29:18 +0000",
+    "title": "CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-p9n",
+    "pubDate": "Thu, 23 Oct 2025 06:02:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nRandom testing can explore broad state spaces but often leaves gaps. Directed tests provide structure but risk missing unexpected interactions. The most effective approach combines the tw"
+    "contentSnippet": "Everything Wrong With Every Saw Movie EVER is CinemaSins’ latest deep-dive, calling out every “sin” in the entire Saw franchise so far. The video description points fans to their main site, linktr.ee "
   },
   {
-    "title": "When you train AI to think with your logic, you don’t just save time; you multiply your focus across industries.\r\n\r\nAI isn’t replacing assistants; it’s redefining what one assistant can achieve.",
-    "link": "https://dev.to/jaideepparashar/when-you-train-ai-to-think-with-your-logic-you-dont-just-save-time-you-multiply-your-focus-blm",
-    "pubDate": "Thu, 23 Oct 2025 01:25:13 +0000",
+    "title": "Dynamic Lightpaths: Reimagining Collective Communication for Hyperscale Workloads",
+    "link": "https://dev.to/arvind_sundararajan/dynamic-lightpaths-reimagining-collective-communication-for-hyperscale-workloads-4d0d",
+    "pubDate": "Thu, 23 Oct 2025 06:02:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How I Run 3 Brands With 1 AI Assistant: My ChatGPT Workflow\nJaideep Parashar ・ Oct 23\n#webdev\n        #programming\n        #ai\n        #productivity"
+    "contentSnippet": "Dynamic Lightpaths: Reimagining Collective Communication for Hyperscale Workloads\n\n\nTired of watching your massive machine learning jobs crawl due to network bottlenecks? Are collective communication "
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

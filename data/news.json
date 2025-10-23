@@ -1,73 +1,73 @@
 [
   {
-    "title": "Being professional goes beyond just technical skills; demonstrating professionalism in behavior is equally, if not more, important. Be kind.",
-    "link": "https://dev.to/westernal/being-professional-goes-beyond-just-technical-skills-demonstrating-professionalism-in-behavior-is-4g74",
-    "pubDate": "Thu, 23 Oct 2025 12:46:35 +0000",
+    "title": "Não falo português, só estou postando para dar o pontapé inicial. Por favor, perdoe qualquer erro. 😭",
+    "link": "https://dev.to/ben/nao-falo-portugues-so-estou-postando-para-dar-o-pontape-inicial-por-favor-perdoe-qualquer-erro-3605",
+    "pubDate": "Thu, 23 Oct 2025 18:25:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We Need to Talk About How Toxic Dev Culture Has Become (And How We Fix It)\nElvis Sautet ・ Oct 23\n#culture\n        #community\n        #mentalhealth\n        #webdev"
+    "contentSnippet": ""
   },
   {
-    "title": "The `match` Expression in PHP",
-    "link": "https://dev.to/ashallendesign/the-match-expression-in-php-1c99",
-    "pubDate": "Thu, 23 Oct 2025 12:33:10 +0000",
+    "title": "Tudo o que é publicado neste espaço é facilmente descoberto no ecossistema DEV, mas esperamos que este possa ser um espaço para servir mais diretamente esta comunidade!",
+    "link": "https://dev.to/ben/tudo-o-que-e-publicado-neste-espaco-e-facilmente-descoberto-no-ecossistema-dev-mas-esperamos-que-3794",
+    "pubDate": "Thu, 23 Oct 2025 18:24:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nThe match expression is a PHP feature that I love using. It was introduced in PHP 8.0 (released in November 2020), so it's been around for a while now. But I thought I'd put together a "
+    "contentSnippet": ""
   },
   {
-    "title": "Secure API Routes in Next.js with Middleware and JWT",
-    "link": "https://dev.to/djamware_tutorial_eba1a61/secure-api-routes-in-nextjs-with-middleware-and-jwt-5anb",
-    "pubDate": "Thu, 23 Oct 2025 12:31:40 +0000",
+    "title": "olá mundo",
+    "link": "https://dev.to/ben/ola-mundo-3b3g",
+    "pubDate": "Thu, 23 Oct 2025 18:23:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Protect your Next.js API endpoints with JWT authentication and middleware-based route protection.\n👉 Read the full guide on Djamware:\nhttps://www.djamware.com/post/68f99de910360530b36a6596/secure-api-"
+    "contentSnippet": ""
   },
   {
-    "title": "🤩 My Lightbulb Moment: Understanding React State the Right Way",
-    "link": "https://dev.to/usama_dev/my-lightbulb-moment-understanding-react-state-the-right-way-49pp",
-    "pubDate": "Thu, 23 Oct 2025 12:27:51 +0000",
+    "title": "Scaling Coupyn: Handling Millions of Requests a Day on $50 Using Cloudflare Edge Caching",
+    "link": "https://dev.to/coupyn/scaling-coupyn-handling-millions-of-requests-a-day-on-50-using-cloudflare-edge-caching-3o46",
+    "pubDate": "Thu, 23 Oct 2025 18:21:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today I finally understood what makes React so powerful — state.\nOnce you realize that your UI is just a reflection of state, React suddenly clicks.\nI created a small component that shows three steps:"
+    "contentSnippet": "When people hear “millions of requests per day”, they imagine big clusters, Kubernetes dashboards, and five-digit cloud bills.\nCoupyn runs on $50/month.\nCoupyn was built solo — no investors, no team, "
   },
   {
-    "title": "The out Parameter in Turbine: A Markdown-like Scripting Language",
-    "link": "https://dev.to/tsubo164/the-out-parameter-in-turbine-a-markdown-like-scripting-language-53ab",
-    "pubDate": "Thu, 23 Oct 2025 12:26:21 +0000",
+    "title": "Building XMLtoMD: Real-Time XML Validation with Monaco Editor in React",
+    "link": "https://dev.to/muhammad_yousuf_83c011ea8/building-xmltomd-real-time-xml-validation-with-monaco-editor-in-react-41la",
+    "pubDate": "Thu, 23 Oct 2025 18:21:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In previous posts, I’ve introduced some of the key syntax and features of Turbine, a Markdown-inspired scripting language.\nout parameter, a mechanism for returning multiple values from a function, sim"
+    "contentSnippet": "Building XMLtoMD: Real-Time XML Validation with Monaco Editor in Next.js\n\n\nI recently launched XMLtoMD, a free XML to Markdown converter with professional code editor UX. In this post, I'll share how "
   },
   {
-    "title": "Zshell [My Dev Environment]",
-    "link": "https://dev.to/pkorsch/zshell-my-dev-environment-1mcl",
-    "pubDate": "Thu, 23 Oct 2025 12:26:02 +0000",
+    "title": "So much of what we do is building in public, but we need to use this space more to talk about it.",
+    "link": "https://dev.to/ben/so-much-of-what-we-do-is-building-in-public-but-we-need-to-use-this-space-more-to-talk-about-it-57g5",
+    "pubDate": "Thu, 23 Oct 2025 18:21:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you spend a good chunk of your day in the terminal, you know how much difference a well-tuned shell can make. For years, I worked with the default Bash setup. Yeah, it got the job done, but it alwa"
+    "contentSnippet": ""
   },
   {
-    "title": "Why Edge-Native MVNOs Are Critical for IoT Success: A Developer’s Perspective",
-    "link": "https://dev.to/hassham_1_f5926bd173cb1a5/why-edge-native-mvnos-are-critical-for-iot-success-a-developers-perspective-43fb",
-    "pubDate": "Thu, 23 Oct 2025 12:09:10 +0000",
+    "title": "Understanding Next.js Client Routing - The Fundamentals",
+    "link": "https://dev.to/alexandru-ene-dev/understanding-nextjs-client-routing-the-fundamentals-3h9a",
+    "pubDate": "Thu, 23 Oct 2025 18:21:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "By 2030, “5G-only” MVNOs won’t cut it. Speed and coverage have become baseline expectations. The real differentiator? Edge-native architecture — and for developers building IoT, AR/VR, smart city plat"
+    "contentSnippet": "Intro\n\n\nHi, guys! \nIn this post we're going to talk about Next.js routing. This time we will only cover the core concepts of routing and in another post we will learn more about advanced concepts for "
   },
   {
-    "title": "From Beginner to Codex CLI Pro",
-    "link": "https://dev.to/andyrewlee/from-beginner-to-codex-cli-pro-4no3",
-    "pubDate": "Thu, 23 Oct 2025 12:08:53 +0000",
+    "title": "Hoping to make improvements to quickie posts like this so they show up when appropriate in feeds (currently they sink pretty quickly) without overwhelming or taking away from the experience.",
+    "link": "https://dev.to/ben/hoping-to-make-improvements-to-quickie-posts-like-this-so-they-show-up-when-appropriate-in-feeds-dc4",
+    "pubDate": "Thu, 23 Oct 2025 18:21:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've spent the last month living inside of Codex CLI. Here are the most helpful tips.\nI copy and paste images into Codex all the time. The easiest way to do this is to capture it into your clipboard a"
+    "contentSnippet": ""
   },
   {
-    "title": "Developers Spend Just 1% of Coding Time Using VS Code's Debugger (11,805 Sessions Analyzed)",
-    "link": "https://dev.to/floustate/developers-spend-just-1-of-coding-time-using-vs-codes-debugger-11805-sessions-analyzed-2b84",
-    "pubDate": "Thu, 23 Oct 2025 12:08:30 +0000",
+    "title": "**Harness the Power of LlamaColab: An Underrated Fine-Tuning",
+    "link": "https://dev.to/drcarlosruizviquez/harness-the-power-of-llamacolab-an-underrated-fine-tuning-1h3f",
+    "pubDate": "Thu, 23 Oct 2025 18:20:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Analysis of 11,805 coding sessions from 68 developers tracked over 3 months. Developers spend just 1.4% of their time using VS Code's debugger - most rely on console.log statements instead.\n68 develop"
+    "contentSnippet": "Harness the Power of LlamaColab: An Underrated Fine-Tuning Tool\nIn the realm of natural language processing (NLP), fine-tuning large language models has become an essential step in achieving state-of-"
   },
   {
-    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)",
-    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-5997",
-    "pubDate": "Thu, 23 Oct 2025 12:07:18 +0000",
+    "title": "Olá pessoal, se você encontrar alguma área que não esteja traduzida ou traduzida incorretamente, sinta-se à vontade para nos informar em https://core.forem.com ou abra um problema diretamente em https://github.com/forem/forem",
+    "link": "https://dev.to/ben/ola-pessoal-se-voce-encontrar-alguma-area-que-nao-esteja-traduzida-ou-traduzida-incorretamente-3jd2",
+    "pubDate": "Thu, 23 Oct 2025 18:20:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I went head-to-head with Heswall GC’s head pro in a £1,000 match, backed by Titleist—who aren’t just sponsoring this series, but have also pledged support for the club’s junior section based on how th"
+    "contentSnippet": "Forem Core\n          \n        \n          \n            Discussing the core forem open source software project — features, bugs, performance, self-hosting.\n          \n        \n            \n          cor"
   },
   {
     "title": "Hono CLI 爆誕",
@@ -109,7 +109,7 @@
     "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
     "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\n「ブラウザバックで無限スクロールが振り出しに戻る」という著名な（？）問題を、Next.js App Router の Intercepting Routes と Parallel Routes を組み合わせたモーダルで、従来のデメリットを解消しながらうまく回避できました。\n下記、操作を再現したショート動画です。\nhttps://www.youtube.com/shorts/WwxlTY1"
+    "contentSnippet": "はじめに\n「ブラウザバックで無限スクロールが振り出しに戻る」という著名な（？）問題を、Next.js App Router の Intercepting Routes と Parallel Routes を組み合わせたモーダルで、従来のデメリットを解消しながらうまく回避できました。\nブラウザバックしても無限スクロールのスクロール位置が失われていない\nこのDEMOアプリは実際に試せます。\nNext."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

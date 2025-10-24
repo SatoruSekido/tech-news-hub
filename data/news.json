@@ -1,73 +1,73 @@
 [
   {
-    "title": "Regolamentazione AI per Applicazioni Consumer: Come Prepararsi alle Nuove Normative 2025 | Business",
-    "link": "https://dev.to/fabiolauria/regolamentazione-ai-per-applicazioni-consumer-come-prepararsi-alle-nuove-normative-2025-business-4f09",
-    "pubDate": "Fri, 24 Oct 2025 12:51:30 +0000",
+    "title": "AEO, GEO, and LLMO: The New Frontier of SEO in the Age of AI",
+    "link": "https://dev.to/lovestaco/aeo-geo-and-llmo-the-new-frontier-of-seo-in-the-age-of-ai-4bbj",
+    "pubDate": "Fri, 24 Oct 2025 18:31:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "La regolamentazione dell’intelligenza artificiale sta vivendo una trasformazione epocale nel 2025, con particolare focus sulle applicazioni consumer-facing. Le aziende che utilizzano chatbot AI, siste"
+    "contentSnippet": "Hello, I'm Maneshwar. I'm working on FreeDevTools online currently building *one place for all dev tools, cheat codes, and TLDRs* — a free, open-source hub where developers can quickly find and use to"
   },
   {
-    "title": "Email Validation and SMTP Handshake With Go",
-    "link": "https://dev.to/joybtw/email-validation-and-smtp-handshake-with-go-39gp",
-    "pubDate": "Fri, 24 Oct 2025 12:47:29 +0000",
+    "title": "Apache Doris 4.0: One Engine for Analytics, Full-Text Search, and Vector Search",
+    "link": "https://dev.to/apachedoris/apache-doris-40-one-engine-for-analytics-full-text-search-and-vector-search-k8n",
+    "pubDate": "Fri, 24 Oct 2025 18:28:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I was implementing a signup endpoint for an API where users can register via email. There are many ways to verify an email address. You could use a popular library like go-playground/validator to chec"
+    "contentSnippet": "We're excited to announce the official release of Apache Doris 4.0: a major milestone release that focused on improving four main areas: 1) new AI capabilities vector search, and AI functions, 2) stro"
   },
   {
-    "title": "Investing in Green: Sustainable Energy Investment Trends",
-    "link": "https://dev.to/victor-lang/investing-in-green-sustainable-energy-investment-trends-48ah",
-    "pubDate": "Fri, 24 Oct 2025 12:47:24 +0000",
+    "title": "Wie ein Chatbot Event-Anfragen revolutionieren kann – von der Idee zur automatisierten DJ-Buchung",
+    "link": "https://dev.to/25heartbeats_djservice_1/wie-ein-chatbot-event-anfragen-revolutionieren-kann-von-der-idee-zur-automatisierten-dj-buchung-54e0",
+    "pubDate": "Fri, 24 Oct 2025 18:17:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The global energy landscape is undergoing a profound transformation. Businesses, investors, and policymakers alike are increasingly focused on green and sustainable energy solutions as climate concern"
+    "contentSnippet": "Hier ist ein Vorschlag für deinen DEV.to-Post-Text, der deinen Link natürlich einbindet und das Thema „Chatbot für Event-Anfragen“ mit deinem DJ-Business verknüpft:\nTitle:\nTags:\nText:\nStell dir vor, e"
   },
   {
-    "title": "What Is AsterDEX Chain? — Inside the Blockchain Powering the DEX",
-    "link": "https://dev.to/stablecoinstrategist/what-is-asterdex-chain-inside-the-blockchain-powering-the-dex-1820",
-    "pubDate": "Fri, 24 Oct 2025 12:46:00 +0000",
+    "title": "The Strategic Migration: Transforming a Manual QA Team into an Automation Powerhouse",
+    "link": "https://dev.to/mohsen_akbari_ebe53d7cbc2/the-strategic-migration-transforming-a-manual-qa-team-into-an-automation-powerhouse-54mb",
+    "pubDate": "Fri, 24 Oct 2025 18:15:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The decentralized finance (DeFi) landscape has evolved into a global ecosystem driven by transparency, security, and innovation.\n\nAt the center of this transformation stands AsterDEX — not just anothe"
+    "contentSnippet": "Introduction\nThis article outlines a proven, five-phase blueprint for evolving manual QA teams into automation-driven, value-focused quality partners. Using a modern stack—Pytest, Appium, Allure, and "
   },
   {
-    "title": "Java Delete Files: A No-BS Guide to delete(), NIO, & Best Practices",
-    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-delete-files-a-no-bs-guide-to-delete-nio-best-practices-6ja",
-    "pubDate": "Fri, 24 Oct 2025 12:44:28 +0000",
+    "title": "Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers",
+    "link": "https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4oob",
+    "pubDate": "Fri, 24 Oct 2025 18:08:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Java Delete Files: Your Ultimate Guide to Cleaning Up the Digital Mess\n\n\nLet's be real. In the world of programming, we're often so focused on the fancy stuff—the complex algorithms, the sleek UIs, th"
+    "contentSnippet": "Steal the Productivity System I Taught to 6,642 Googlers\nJeff Su lays out the CORE workflow he taught at Google—Capture every idea immediately, Organize with minimal friction, Review during scheduled "
   },
   {
-    "title": "Writing and Running Unit Tests in Autotools",
-    "link": "https://dev.to/pauljlucas/writing-and-running-unit-tests-in-autotools-1ob2",
-    "pubDate": "Fri, 24 Oct 2025 12:43:57 +0000",
+    "title": "How I Simplified My Laravel Filters Using the Pipeline Pattern (With Real Examples)",
+    "link": "https://dev.to/jahid02/how-to-use-laravel-pipeline-4jek",
+    "pubDate": "Fri, 24 Oct 2025 18:07:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIf your project is like others, you’ll probably have a util.h and util.c files containing general utility functions.  For example, suppose you want a function strnspn that’s like strspn"
+    "contentSnippet": "Today I learned a new topic in Laravel — Laravel Pipeline.\nProduct::when(isset($request->status), function ($query) use ($request) {\n    $query->where('status', $request->status);\n})\n->when(isset($req"
   },
   {
-    "title": "Master Java Read Files: Your No-Fluff Guide to File Handling in Java",
-    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-read-files-your-no-fluff-guide-to-file-handling-in-java-a37",
-    "pubDate": "Fri, 24 Oct 2025 12:39:36 +0000",
+    "title": "The Cost of Clarity: Building Libraries For Artists",
+    "link": "https://dev.to/bekalah/the-cost-of-clarity-building-libraries-for-artists-50g3",
+    "pubDate": "Fri, 24 Oct 2025 18:03:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Master Java Read Files: Your No-Fluff Guide to File Handling\n\n\nAlright, let's talk about something that is literally everywhere in the world of software: Files. Config files, data dumps, user uploads,"
+    "contentSnippet": "After months of building, documenting, and re-explaining the same boundaries, I realized something:\nThat’s how Spec-Kit and OpenSpec were born — not from theory, but from exhaustion.\nThis isn’t about "
   },
   {
-    "title": "DNS Block‑Rate Report",
-    "link": "https://dev.to/jundata/dns-block-rate-report-594g",
-    "pubDate": "Fri, 24 Oct 2025 12:36:34 +0000",
+    "title": "Day 23 of 100 days dsa coding challenge",
+    "link": "https://dev.to/manasi_patil_/day-23-of-100-days-dsa-coding-challenge-58ml",
+    "pubDate": "Fri, 24 Oct 2025 18:01:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Purpose: Capture the architecture, basic operation, and recent statistics of my self‑hosted DNS filtering setup.\nI’ve been running my own DNS resolver for the past ≈ 2 years. It’s a hobby‑grade servic"
+    "contentSnippet": "Taking on a new challenge: solving GeeksforGeeks POTD daily and sharing my solutions! 💻🔥\nProblem:\n\nhttps://www.geeksforgeeks.org/problems/split-array-subsequences/1\nSplit Array Subsequences\nDifficul"
   },
   {
-    "title": "This Week In React #255 : Next.js, RSC, shadcn, TanStack, 3D, Fumadocs | Solito, Expo, MMKV, ImGui | Node.js, Vitest",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-255-nextjs-rsc-shadcn-tanstack-3d-fumadocs-solito-expo-mmkv-imgui-1m40",
-    "pubDate": "Fri, 24 Oct 2025 12:36:21 +0000",
+    "title": "Day 28 of #30DaysOfCode",
+    "link": "https://dev.to/justacoder_0x/day-28-of-30daysofcode-5b0k",
+    "pubDate": "Fri, 24 Oct 2025 18:01:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hi everyone!\nThis week we have a lot of interesting content about Next.js, with a new major release dropping just before their flagship conf. But also fair cricitisms showing that not everyone is sati"
+    "contentSnippet": "Things i did today :\nsolved the potd \npracticed 2 ques , 1 based on str , the other one based on array + hashmap+ simulation \nwent to the gym today after diwali holidays , tmr will do a bit of dev cuz"
   },
   {
-    "title": "Day 69 : Meta Arguments in Terraform",
-    "link": "https://dev.to/udoh_deborah_b1e484c474bf/day-69-meta-arguments-in-terraform-4ead",
-    "pubDate": "Fri, 24 Oct 2025 12:31:51 +0000",
+    "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-54h9",
+    "pubDate": "Fri, 24 Oct 2025 18:01:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A. two ready-to-run Terraform examples (one count demo, one for_each demo), \nB. step-by-step instructions to run and inspect results, \nC.  a clear explanation of meta-arguments and best practices, and"
+    "contentSnippet": "Cinema Sins is back in theaters for a second round of Frankenweenie, dishing out every quirk and nitpick in under 14 minutes—yes, even though they secretly love the film. Along the way they drop links"
   },
   {
     "title": "【未経験エンジニアの告白】「エラーが出ないと不安」先輩に言われた「エラーホリック」から卒業した話",

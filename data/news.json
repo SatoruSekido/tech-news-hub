@@ -1,73 +1,73 @@
 [
   {
-    "title": "Não falo português, só estou postando para dar o pontapé inicial. Por favor, perdoe qualquer erro. 😭",
-    "link": "https://dev.to/ben/nao-falo-portugues-so-estou-postando-para-dar-o-pontape-inicial-por-favor-perdoe-qualquer-erro-3605",
-    "pubDate": "Thu, 23 Oct 2025 18:25:42 +0000",
+    "title": "Token Count Optimization feature on Repomix",
+    "link": "https://dev.to/dharam_ghevariya_0d946c37/token-count-optimization-feature-on-repomix-528h",
+    "pubDate": "Fri, 24 Oct 2025 01:39:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "For this week, I had to extend my repo-contextr project with some additional features. However, this time the catch was that we didn’t have a feature requirement beforehand. Our professor gave us a CL"
   },
   {
-    "title": "Tudo o que é publicado neste espaço é facilmente descoberto no ecossistema DEV, mas esperamos que este possa ser um espaço para servir mais diretamente esta comunidade!",
-    "link": "https://dev.to/ben/tudo-o-que-e-publicado-neste-espaco-e-facilmente-descoberto-no-ecossistema-dev-mas-esperamos-que-3794",
-    "pubDate": "Thu, 23 Oct 2025 18:24:53 +0000",
+    "title": "Por Que Adotei Expo (React Native) e Express.js para a Escalabilidade do Nutrilow",
+    "link": "https://dev.to/bendevoficial/por-que-adotei-expo-react-native-e-expressjs-para-a-escalabilidade-do-nutrilow-5hja",
+    "pubDate": "Fri, 24 Oct 2025 01:34:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "Como Criador e Arquiteto do Nutrilow, uma plataforma de nutrição que foi arquitetada para escalar rapidamente e lidar com um alto volume de dados em tempo real (registros de refeições, gestão de plano"
   },
   {
-    "title": "olá mundo",
-    "link": "https://dev.to/ben/ola-mundo-3b3g",
-    "pubDate": "Thu, 23 Oct 2025 18:23:44 +0000",
+    "title": "🚀 Coding 3 Faster with PM Knowledge: Why True Speed Comes from Team Alignment, Not Typing Faster",
+    "link": "https://dev.to/joedev090/coding-3x-faster-with-pm-knowledge-why-true-speed-comes-from-team-alignment-not-typing-faster-56n4",
+    "pubDate": "Fri, 24 Oct 2025 01:34:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "Hey Coders \nContext:\nThe title of the video caught my attention...\n\"Code 3x Faster without AI\"\nHere you can see the link of the video:\nWhen I was watching the video, I checked the reference it mention"
   },
   {
-    "title": "Scaling Coupyn: Handling Millions of Requests a Day on $50 Using Cloudflare Edge Caching",
-    "link": "https://dev.to/coupyn/scaling-coupyn-handling-millions-of-requests-a-day-on-50-using-cloudflare-edge-caching-3o46",
-    "pubDate": "Thu, 23 Oct 2025 18:21:55 +0000",
+    "title": "AI can help us in managing high output while keeping energy, focus, and peace intact.",
+    "link": "https://dev.to/jaideepparashar/ai-can-help-us-in-managing-high-output-while-keeping-energy-focus-and-peace-intact-2cn8",
+    "pubDate": "Fri, 24 Oct 2025 01:32:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When people hear “millions of requests per day”, they imagine big clusters, Kubernetes dashboards, and five-digit cloud bills.\nCoupyn runs on $50/month.\nCoupyn was built solo — no investors, no team, "
+    "contentSnippet": "How I Manage My Brand, Podcast, Music, and AI Company Without Burning Out\nJaideep Parashar ・ Oct 24\n#webdev\n        #programming\n        #ai\n        #productivity"
   },
   {
-    "title": "Building XMLtoMD: Real-Time XML Validation with Monaco Editor in React",
-    "link": "https://dev.to/muhammad_yousuf_83c011ea8/building-xmltomd-real-time-xml-validation-with-monaco-editor-in-react-41la",
-    "pubDate": "Thu, 23 Oct 2025 18:21:51 +0000",
+    "title": "How I Manage My Brand, Podcast, Music, and AI Company Without Burning Out",
+    "link": "https://dev.to/jaideepparashar/how-i-manage-my-brand-podcast-music-and-ai-company-without-burning-out-2mpe",
+    "pubDate": "Fri, 24 Oct 2025 01:27:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building XMLtoMD: Real-Time XML Validation with Monaco Editor in Next.js\n\n\nI recently launched XMLtoMD, a free XML to Markdown converter with professional code editor UX. In this post, I'll share how "
+    "contentSnippet": "When people hear I run ReThynk AI, Vista Liberata, and Valintra Tunes, while writing books, hosting podcasts, and publishing daily on Dev.to, they often ask:\n“How do you not burn out?”\nThe truth? I ne"
   },
   {
-    "title": "So much of what we do is building in public, but we need to use this space more to talk about it.",
-    "link": "https://dev.to/ben/so-much-of-what-we-do-is-building-in-public-but-we-need-to-use-this-space-more-to-talk-about-it-57g5",
-    "pubDate": "Thu, 23 Oct 2025 18:21:44 +0000",
+    "title": "Introduction to Github",
+    "link": "https://dev.to/demilade/introduction-to-github-2hd9",
+    "pubDate": "Fri, 24 Oct 2025 01:20:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "Have you ever wondered how to store or keep track of your project versions as a developer or software engineer? How to present your project to clients or collaborate with other developers? \nWe will go"
   },
   {
-    "title": "Understanding Next.js Client Routing - The Fundamentals",
-    "link": "https://dev.to/alexandru-ene-dev/understanding-nextjs-client-routing-the-fundamentals-3h9a",
-    "pubDate": "Thu, 23 Oct 2025 18:21:27 +0000",
+    "title": "ai in speech therapy?? explore the other side of genai. a personal story..",
+    "link": "https://dev.to/ujjavala/ai-in-speech-therapy-explore-the-other-side-of-genai-a-personal-story-53gh",
+    "pubDate": "Fri, 24 Oct 2025 01:11:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Intro\n\n\nHi, guys! \nIn this post we're going to talk about Next.js routing. This time we will only cover the core concepts of routing and in another post we will learn more about advanced concepts for "
+    "contentSnippet": "Exploring Generative AI for Personal Growth and Care\nujjavala ・ Aug 15\n#promptengineering\n        #genai\n        #webdev\n        #ai"
   },
   {
-    "title": "Hoping to make improvements to quickie posts like this so they show up when appropriate in feeds (currently they sink pretty quickly) without overwhelming or taking away from the experience.",
-    "link": "https://dev.to/ben/hoping-to-make-improvements-to-quickie-posts-like-this-so-they-show-up-when-appropriate-in-feeds-dc4",
-    "pubDate": "Thu, 23 Oct 2025 18:21:19 +0000",
+    "title": "dive into quirks, surprises, all about claude code",
+    "link": "https://dev.to/ujjavala/dive-into-quirks-surprises-all-about-claude-code-5ho0",
+    "pubDate": "Fri, 24 Oct 2025 01:10:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "A week with Claude Code: lessons, surprises and smarter workflows\nujjavala ・ Sep 27\n#programming\n        #ai\n        #productivity\n        #learning"
   },
   {
-    "title": "**Harness the Power of LlamaColab: An Underrated Fine-Tuning",
-    "link": "https://dev.to/drcarlosruizviquez/harness-the-power-of-llamacolab-an-underrated-fine-tuning-1h3f",
-    "pubDate": "Thu, 23 Oct 2025 18:20:10 +0000",
+    "title": "The Future of Backend: How Serverless and Edge Functions Are Changing the Game",
+    "link": "https://dev.to/softwaredeveloper01/the-future-of-backend-how-serverless-and-edge-functions-are-changing-the-game-3go1",
+    "pubDate": "Fri, 24 Oct 2025 01:10:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Harness the Power of LlamaColab: An Underrated Fine-Tuning Tool\nIn the realm of natural language processing (NLP), fine-tuning large language models has become an essential step in achieving state-of-"
+    "contentSnippet": "1. What is Serverless Computing?\n\n\n\n\nDefinition: Serverless doesn’t mean “no servers” — it means developers don’t manage them.\nFaaS explained: Code runs in response to events without worrying about se"
   },
   {
-    "title": "Olá pessoal, se você encontrar alguma área que não esteja traduzida ou traduzida incorretamente, sinta-se à vontade para nos informar em https://core.forem.com ou abra um problema diretamente em https://github.com/forem/forem",
-    "link": "https://dev.to/ben/ola-pessoal-se-voce-encontrar-alguma-area-que-nao-esteja-traduzida-ou-traduzida-incorretamente-3jd2",
-    "pubDate": "Thu, 23 Oct 2025 18:20:05 +0000",
+    "title": "Daily Artificial Intelligence Digest - Oct 24, 2025",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-24-2025-5egn",
+    "pubDate": "Fri, 24 Oct 2025 01:08:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Forem Core\n          \n        \n          \n            Discussing the core forem open source software project — features, bugs, performance, self-hosting.\n          \n        \n            \n          cor"
+    "contentSnippet": "Model Advances & Infrastructure\n\n\nThis section highlights advancements in AI model architecture and the underlying infrastructure supporting them. Significant progress includes new techniques like Mar"
   },
   {
     "title": "Hono CLI 爆誕",
@@ -91,11 +91,39 @@
     "contentSnippet": "背景と目的\nClaude Code が ver.1.0.0 になってから 5 ヶ月、弊社が全エンジニアに展開してから 3 ヶ月が経過しました。\nその中で生産性が上がった人とそうでない人が明確に分かれていたり、新たな大変さが生まれてフラストレーションも多く抱えています。\nWeb 開発の現場で LLM 開発を導入することで何に困るのか明確にして次の施策につなげたいと考え、定性・定量の両面からチーム全体"
   },
   {
+    "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください",
+    "link": "https://qiita.com/TooMe/items/873540da84567733d16b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T02:56:26.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGitHub Copilotを使っている開発者の皆さん、.github/copilot-instructions.mdというファイルを作成していますか？\nこのファイル1つで、Copilotをあなたのプロジェクト専用にカスタマイズし、もっと賢く、便利に使いこなすこ..."
+  },
+  {
+    "title": "社内AI活用推進のためにAWS S3 Vectorsを使ってみました！（データのベクトル化と投入、検索まで）",
+    "link": "https://zenn.dev/fukurou_labo/articles/1b38f6d0940917",
+    "pubDate": "Thu, 23 Oct 2025 02:44:52 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n株式会社フクロウラボで情シスを担当している高島です。\n最近はゼロトラスト推進やSaaS運用・改善にとどまらず、事業をドライブするために「攻めの情シス」業務に注力しようとしています。AI推進を行うべく、社内に点在する膨大なナレッジ（Slack、Notion、PDF資料など）をAIエージェントに学習させ、業務効率化を図るミッションを掲げています。\n最新のLLMも社内の固有ルールは知らないため"
+  },
+  {
+    "title": "[Next.js] URL末尾に .md つけたらMarkdownをそのまま返す！",
+    "link": "https://zenn.dev/chot/articles/nextjs-md-suffix",
+    "pubDate": "Thu, 23 Oct 2025 01:32:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Next.jsのドキュメントやQiitaなどでは、URLの末尾に .md を付けるとページ内容を生のMarkdownで取得できます。AIエージェントにコンテキストを渡したり、別クライアントから取り込んだりするのに便利なパターンです。\nこの記事では Rewrites + Route Handlers（App Router） で、/post/hello はHTML、/post/hello.md は t"
+  },
+  {
     "title": "『MCPたくさん入れたいけどコンテキストが...』を解決した話",
     "link": "https://zenn.dev/bm_sms/articles/modular_mcp_context_optimize",
     "pubDate": "Thu, 23 Oct 2025 01:21:57 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nMCP (Model Context Protocol) が Anthropic から公開されてもうすぐ1年[1]になりますね。\n各社ベンダーや個人が便利な MCP を公開しできることが増えていく一方で、MCP をたくさん登録しておくことによるコンテキストの肥大化問題にも焦点が当たるようになってきました。\n単一の MCP サーバーから複数のツールが登録され、それぞれのツールに対する de"
+  },
+  {
+    "title": "複数の Docker Compose 環境を同時に立ち上げる",
+    "link": "https://zenn.dev/socialdog/articles/multiple-docker-compose-up",
+    "pubDate": "Thu, 23 Oct 2025 00:32:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nDocker Compose を利用して開発環境を構築するプロジェクトは多いと思います。\nClaude Code をはじめとするコーディングエージェントの普及により、git-worktree を使って複数の作業ブランチを並行して開発することが増えてきました。Docker Compose で構築する開発環境は、ワークツリーが違えどほとんどの場合同じような構成になるため、ワークツリーごとに環"
   },
   {
     "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
@@ -105,18 +133,25 @@
     "contentSnippet": "はじめに\nAPI開発において、仕様書の管理、テスト実行、モックサーバーの構築は重要な作業です。\n私は長年Postmanを使用してきましたが、以下の課題を感じていました。\n\nPostmanで感じていた課題\n\nSwaggerとの二重管理: API仕様書をSwaggerで管理..."
   },
   {
-    "title": "ブラウザバックで無限スクロールが振り出しに戻る問題をNext.jsの「URL付きモーダル」で解決する",
-    "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
-    "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n「ブラウザバックで無限スクロールが振り出しに戻る」という著名な（？）問題を、Next.js App Router の Intercepting Routes と Parallel Routes を組み合わせたモーダルで、従来のデメリットを解消しながらうまく回避できました。\nブラウザバックしても無限スクロールのスクロール位置が失われていない\nこのDEMOアプリは実際に試せます。\nNext."
-  },
-  {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",
     "link": "https://www.publickey1.jp/blog/25/aws_kiro.html",
     "pubDate": "2025-10-22T15:50:43.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、Visual Studio Code（VS Code）互換のコードエディタに生成AIを統合したAIコードエディタ「Kiro」のウェイトリストが終了し、誰でもダウンロードして利用可能になったことを明らかにしました。 と同時に、「Spec Context in Chat」や「Dev server support」などの新機能も追加されました。 Kir"
+  },
+  {
+    "title": "Bedrock AgentCore IdentityでGoogleドライブにアクセス！（GA対応版）",
+    "link": "https://qiita.com/moritalous/items/7660a570292eb3e0b605?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T14:51:39.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Bedrock AgentCoreがGAしまして、それに伴い、AgentCore Identityの仕様変更があったようです。\nところがどっこい、ドキュメントやサンプルがまだ反映されてません。😭😭😭\n試行錯誤とAmazon Q Developerの助けを受け、未知の新仕様で..."
+  },
+  {
+    "title": "増えすぎた GitHub Actions を「3 層アーキテクチャ」で整理した話",
+    "link": "https://zenn.dev/simpleform_blog/articles/99cea8c1af0657",
+    "pubDate": "Wed, 22 Oct 2025 12:34:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nGitHub Actions (GHA)、便利ですよね。\n便利なんですが、じゃんじゃん作るとワークフローが増えてエラいことになりませんか？私はなりました。\n\n環境ごとに似たようなワークフローが乱立し、保守が大変\n変更を加える際、複数のファイルを修正する必要がある\nワークフローの構造がアプリケーションごとに異なり、認知負荷が高い\nそもそも数が多すぎて何が何やら...\n\nGHA は特にこう構"
   },
   {
     "title": "Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形",
@@ -126,11 +161,11 @@
     "contentSnippet": "はじめに\n最近、脆弱性に関する記事が注目されることが多くなった @___nix___ です。\n\n背景\nMicrosoft 365 Copilot は業務データにアクセスできるAIとして普及していますが、自律的にコンテンツを解析する性質が悪用されるリスクがあります。過去の「..."
   },
   {
-    "title": "Rustのproc-macroで自動微分してGPT-2を学習してみた",
-    "link": "https://zenn.dev/ho_oto/articles/32a460c64e963b",
-    "pubDate": "Wed, 22 Oct 2025 11:04:13 GMT",
+    "title": "スクラムを導入したのに、なぜ組織は変わらないのか",
+    "link": "https://zenn.dev/nttdata_tech/articles/34b4172b467aee",
+    "pubDate": "Wed, 22 Oct 2025 08:00:01 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\n深層学習フレームワークにおいては、自動微分によってロスの勾配を求め、勾配降下法によってモデルのパラメータを最適化することで学習が進みます。\n例えばPyTorchの場合、torch.Tensorを使うことで計算グラフが記録されていき、この情報から誤差逆伝播法によって勾配が計算されます[1]。\nところで、自動微分はよりコード生成的なアプローチ、即ち、関数の定義を受け取り、その導関数の定義を自"
+    "contentSnippet": "デイリースタンドアップ、スプリントプランニング、レトロスペクティブ。スクラムのフレームワークは完全に導入した。チームは毎日15分のスタンドアップをしているし、2週間ごとにふりかえりとカイゼンアイテムの特定をしている。でも、何かが違う。現場は相変わらず「忙しい」と言い続け、部門間の壁は高いままで、意思決定のスピードは上がらない。\nアジャイルやスクラムを始めたばかりのチームや組織において、このような状"
   },
   {
     "title": "複数の並行開発におけるDocker Composeのポート競合を何とかする（Mac）",
@@ -154,13 +189,6 @@
     "contentSnippet": "オラクルは、業界をリードする生成AIモデルを企業のデータ、アプリケーション、ワークフローに安全に接続できるよう設計された包括的なプラットフォーム「Oracle AI Data Platform」の一般提供開始を発表しました。自動データ取り込み、セマンティック・エンリッチメ..."
   },
   {
-    "title": "Claude Skills × GitHub Actions でバグ修正の自動化を試す！",
-    "link": "https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix",
-    "pubDate": "Tue, 21 Oct 2025 23:08:25 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025年10月、Anthropic から立て続けに2つの発表がありました。\n\n\n10月16日: Agent Skills - AIが自律的に使える「スキル」の仕組み\n\n10月20日: Claude Code on the web - ブラウザでコーディングエージェントを動かせる WebUI\n\n正直なところ、最初は「また新しい機能か」程度の印象でした。しかし、公式ドキュメントやコミュニテ"
-  },
-  {
     "title": "Claude × MCPで社内DBに話しかけてみた",
     "link": "https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-21T23:03:38.000Z",
@@ -173,20 +201,6 @@
     "pubDate": "2025-10-21T15:36:24.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、ブロックストレージを提供するサービス「Amazon EBS（Amazon Elastic Block Store）のストレージボリュームを数秒でコピーできる新機能「Amazon EBS Volume Clones」のリリースを発表しました。 Amazon EBSは、そこで作成したストレージボリュームをAmazon EC2インスタンスにアタッチする"
-  },
-  {
-    "title": "†二分探索†で怠惰なカーソル移動をしよう",
-    "link": "https://zenn.dev/kamecha/articles/de680018133636",
-    "pubDate": "Tue, 21 Oct 2025 15:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "まえがき\nvim のカーソル移動…面倒臭いですよね…\n特に縦移動\nこれを補助するプラグイン等はあるのですが、ラベルを付けてそれを認知する必要があったりと、なかなかしっくり来るものが無い印象です\nそれもそのはずで、大体のものは明確な行き先があり、それに対して最小のキー数で移動する事を目標としてるんですよね\n自分の場合はそういうのではなくて、\nざっくりこの辺りに移動したいなぁ〜ってのがあって、そこへ大"
-  },
-  {
-    "title": "Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来",
-    "link": "https://zenn.dev/lnest_knowledge/articles/9629c5083357aa",
-    "pubDate": "Tue, 21 Oct 2025 10:27:55 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来\n\n はじめに\n2025年10月20日、Anthropicが「Claude Code Web版」をリリースしました。これまでターミナルでのみ利用可能だったClaude Codeが、ついにブラウザから直接使える時代が来たのです。\n筆者は、このweb版を使ってQ-Learningの迷路問題をStreamlitで実装してみまし"
   },
   {
     "title": "Webサーバーサイド言語としてのRustについてご紹介",
@@ -215,20 +229,6 @@
     "pubDate": "2025-10-20T15:20:25.000Z",
     "source": "Publickey",
     "contentSnippet": "オープンソースのWebアプリケーションビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているvoid(0)（VoidZero：ボイドゼロ）は、Viteをベースとした統合開発ツールチェーン「Vite+」を発表しました。 The Unified Toolchain for the WebWe are thrilled to announce Vite+: A unified, Rust-p"
-  },
-  {
-    "title": "ホタルイカの身投げ量を予測するWebサイトを作ってみた",
-    "link": "https://qiita.com/yuchi1128/items/eca2bb94dec63ecbff93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T13:11:10.000Z",
-    "source": "Qiita",
-    "contentSnippet": "目次\n1. はじめに\n2. アプリ概要\n3. 使用技術\n4. アプリケーション構成図\n5. 開発の流れ\n6. 機械学習モデルの訓練\n7. 予測APIの開発\n8. Webサイトの構築\n9. 課題点や懸念点\n10. 終わりに\n\nはじめに\n\nホタルイカの身投げについて\n初めまし..."
-  },
-  {
-    "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",
-    "link": "https://qiita.com/comty/items/e1f1f82b89278c1a7e8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T08:45:42.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nアサヒグループは2025年9月29日にサイバー攻撃があったと発表しました。（サイバー攻撃によるシステム障害発生について）\n報道されたランサムウェア起因のシステム障害は、生産設備そのものではなく、受注・出荷・顧客対応といった業務フローが止まることで供給全体が止ま..."
   },
   {
     "title": "シスコ、AIにセキュアなコードを生成させるためのルールセット「Project CodeGuard」をオープンソースで公開",

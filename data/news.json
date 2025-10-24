@@ -1,73 +1,73 @@
 [
   {
-    "title": "Token Count Optimization feature on Repomix",
-    "link": "https://dev.to/dharam_ghevariya_0d946c37/token-count-optimization-feature-on-repomix-528h",
-    "pubDate": "Fri, 24 Oct 2025 01:39:56 +0000",
+    "title": "Build a Blazing-Fast TCP Server in Go: A Practical Guide",
+    "link": "https://dev.to/jones_charles_ad50858dbc0/build-a-blazing-fast-tcp-server-in-go-a-practical-guide-29d",
+    "pubDate": "Fri, 24 Oct 2025 06:28:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For this week, I had to extend my repo-contextr project with some additional features. However, this time the catch was that we didn’t have a feature requirement beforehand. Our professor gave us a CL"
+    "contentSnippet": "Imagine you're the air traffic controller of a bustling digital airport, guiding thousands of data packets to their destinations with precision. That's the life of a TCP server, the unsung hero behind"
   },
   {
-    "title": "Por Que Adotei Expo (React Native) e Express.js para a Escalabilidade do Nutrilow",
-    "link": "https://dev.to/bendevoficial/por-que-adotei-expo-react-native-e-expressjs-para-a-escalabilidade-do-nutrilow-5hja",
-    "pubDate": "Fri, 24 Oct 2025 01:34:30 +0000",
+    "title": "𝗪𝗵𝘆 𝗨𝘀𝗶𝗻𝗴 𝗮 𝗦𝘁𝗮𝘁𝗶𝗰 𝗗𝗯𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗖𝗮𝗻 𝗕𝗿𝗲𝗮𝗸 𝗬𝗼𝘂𝗿 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻",
+    "link": "https://dev.to/supraja_tangella_b7f0738e/-3k7n",
+    "pubDate": "Fri, 24 Oct 2025 06:25:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Como Criador e Arquiteto do Nutrilow, uma plataforma de nutrição que foi arquitetada para escalar rapidamente e lidar com um alto volume de dados em tempo real (registros de refeições, gestão de plano"
+    "contentSnippet": "These code snippets are helpful during the technical interview process and for understanding real-world pitfalls in ASP.NET Core development.\nEver used a static class with new AppDbContext() and wonde"
   },
   {
-    "title": "🚀 Coding 3 Faster with PM Knowledge: Why True Speed Comes from Team Alignment, Not Typing Faster",
-    "link": "https://dev.to/joedev090/coding-3x-faster-with-pm-knowledge-why-true-speed-comes-from-team-alignment-not-typing-faster-56n4",
-    "pubDate": "Fri, 24 Oct 2025 01:34:04 +0000",
+    "title": "The Link Layer Explained: How Your Data Hops Across Local Networks (CSMA/CD to CRC)",
+    "link": "https://dev.to/tanishq_sangle_f26270c682/the-link-layer-explained-how-your-data-hops-across-local-networks-csmacd-to-crc-2mp6",
+    "pubDate": "Fri, 24 Oct 2025 06:23:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey Coders \nContext:\nThe title of the video caught my attention...\n\"Code 3x Faster without AI\"\nHere you can see the link of the video:\nWhen I was watching the video, I checked the reference it mention"
+    "contentSnippet": "I. Introduction / Motivation\nThe fundamental job of this layer is to convert the network layer's datagrams into frames, the data unit specific to Layer 2. A frame consists of the original datagram plu"
   },
   {
-    "title": "AI can help us in managing high output while keeping energy, focus, and peace intact.",
-    "link": "https://dev.to/jaideepparashar/ai-can-help-us-in-managing-high-output-while-keeping-energy-focus-and-peace-intact-2cn8",
-    "pubDate": "Fri, 24 Oct 2025 01:32:02 +0000",
+    "title": "Why your business needs a Bespoke Application",
+    "link": "https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna",
+    "pubDate": "Fri, 24 Oct 2025 06:18:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How I Manage My Brand, Podcast, Music, and AI Company Without Burning Out\nJaideep Parashar ・ Oct 24\n#webdev\n        #programming\n        #ai\n        #productivity"
+    "contentSnippet": "Off-the-shelf software can only take you so far. When your business has unique workflows, complex systems, or specific goals, you need something tailor-made — that’s where **[bespoke software applicat"
   },
   {
-    "title": "How I Manage My Brand, Podcast, Music, and AI Company Without Burning Out",
-    "link": "https://dev.to/jaideepparashar/how-i-manage-my-brand-podcast-music-and-ai-company-without-burning-out-2mpe",
-    "pubDate": "Fri, 24 Oct 2025 01:27:58 +0000",
+    "title": "Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes)",
+    "link": "https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d",
+    "pubDate": "Fri, 24 Oct 2025 06:18:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When people hear I run ReThynk AI, Vista Liberata, and Valintra Tunes, while writing books, hosting podcasts, and publishing daily on Dev.to, they often ask:\n“How do you not burn out?”\nThe truth? I ne"
+    "contentSnippet": "Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes)\n\n\nLast Saturday, I watched my friend spend four hours setting up his new MacBook Pro. Four. Hours.\nHe wasn't doing anythi"
   },
   {
-    "title": "Introduction to Github",
-    "link": "https://dev.to/demilade/introduction-to-github-2hd9",
-    "pubDate": "Fri, 24 Oct 2025 01:20:44 +0000",
+    "title": "Building a Gas Optimization Tool: Technical Deep Dive",
+    "link": "https://dev.to/gentian_428090dca51d08f02/building-a-gas-optimization-tool-technical-deep-dive-3cc9",
+    "pubDate": "Fri, 24 Oct 2025 06:17:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Have you ever wondered how to store or keep track of your project versions as a developer or software engineer? How to present your project to clients or collaborate with other developers? \nWe will go"
+    "contentSnippet": "Ethereum gas prices follow predictable daily patterns, but most users have no visibility into how much poor timing costs them. Here's how I built a tool to solve this problem.\nEthereum gas prices vary"
   },
   {
-    "title": "ai in speech therapy?? explore the other side of genai. a personal story..",
-    "link": "https://dev.to/ujjavala/ai-in-speech-therapy-explore-the-other-side-of-genai-a-personal-story-53gh",
-    "pubDate": "Fri, 24 Oct 2025 01:11:51 +0000",
+    "title": "Unlocking Dual Revenue: Monetize Your LLM Apps with AI-Powered Ads",
+    "link": "https://dev.to/monetzly/unlocking-dual-revenue-monetize-your-llm-apps-with-ai-powered-ads-4o5j",
+    "pubDate": "Fri, 24 Oct 2025 06:17:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Exploring Generative AI for Personal Growth and Care\nujjavala ・ Aug 15\n#promptengineering\n        #genai\n        #webdev\n        #ai"
+    "contentSnippet": "How We Built Ad Injection That Users Actually Appreciate: Introducing Monetization in AI Conversations\n\n\nIn the ever-evolving landscape of AI applications, developers face a pressing challenge: how to"
   },
   {
-    "title": "dive into quirks, surprises, all about claude code",
-    "link": "https://dev.to/ujjavala/dive-into-quirks-surprises-all-about-claude-code-5ho0",
-    "pubDate": "Fri, 24 Oct 2025 01:10:27 +0000",
+    "title": "How to Create Smooth UX in React Native Using Reanimated 3",
+    "link": "https://dev.to/lucy1/how-to-create-smooth-ux-in-react-native-using-reanimated-3-1gen",
+    "pubDate": "Fri, 24 Oct 2025 06:16:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A week with Claude Code: lessons, surprises and smarter workflows\nujjavala ・ Sep 27\n#programming\n        #ai\n        #productivity\n        #learning"
+    "contentSnippet": "Smoothness is quality in mobile apps.  One lateness or one frame-drop on one gesture can shatter trust and wreck immersion.  Reanimated 3, a bundle that drives gestures and animations right onto the U"
   },
   {
-    "title": "The Future of Backend: How Serverless and Edge Functions Are Changing the Game",
-    "link": "https://dev.to/softwaredeveloper01/the-future-of-backend-how-serverless-and-edge-functions-are-changing-the-game-3go1",
-    "pubDate": "Fri, 24 Oct 2025 01:10:00 +0000",
+    "title": "Oracle AI Database 26ai: RESETTABLE Clause",
+    "link": "https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-resettable-clause-4pho",
+    "pubDate": "Fri, 24 Oct 2025 06:11:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. What is Serverless Computing?\n\n\n\n\nDefinition: Serverless doesn’t mean “no servers” — it means developers don’t manage them.\nFaaS explained: Code runs in response to events without worrying about se"
+    "contentSnippet": "In Oracle, PL/SQL packages can maintain a session-level state. This means that once a package is loaded into a user session, its global variables retain values across multiple calls. In previous Oracl"
   },
   {
-    "title": "Daily Artificial Intelligence Digest - Oct 24, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-24-2025-5egn",
-    "pubDate": "Fri, 24 Oct 2025 01:08:44 +0000",
+    "title": "Meet the AI Voice Agent That Actually Gets Your Customers",
+    "link": "https://dev.to/array_platforms/meet-the-ai-voice-agent-that-actually-gets-your-customers-p8l",
+    "pubDate": "Fri, 24 Oct 2025 06:10:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Model Advances & Infrastructure\n\n\nThis section highlights advancements in AI model architecture and the underlying infrastructure supporting them. Significant progress includes new techniques like Mar"
+    "contentSnippet": "We’ve all been there waiting on hold, repeating ourselves, getting frustrated. Now, imagine a world where your customers don’t have to go through that. Where calls feel smooth, natural, and productive"
   },
   {
     "title": "Hono CLI 爆誕",

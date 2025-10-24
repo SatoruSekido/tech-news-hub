@@ -1,73 +1,122 @@
 [
   {
-    "title": "Build a Blazing-Fast TCP Server in Go: A Practical Guide",
-    "link": "https://dev.to/jones_charles_ad50858dbc0/build-a-blazing-fast-tcp-server-in-go-a-practical-guide-29d",
-    "pubDate": "Fri, 24 Oct 2025 06:28:37 +0000",
+    "title": "Regolamentazione AI per Applicazioni Consumer: Come Prepararsi alle Nuove Normative 2025 | Business",
+    "link": "https://dev.to/fabiolauria/regolamentazione-ai-per-applicazioni-consumer-come-prepararsi-alle-nuove-normative-2025-business-4f09",
+    "pubDate": "Fri, 24 Oct 2025 12:51:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Imagine you're the air traffic controller of a bustling digital airport, guiding thousands of data packets to their destinations with precision. That's the life of a TCP server, the unsung hero behind"
+    "contentSnippet": "La regolamentazione dell’intelligenza artificiale sta vivendo una trasformazione epocale nel 2025, con particolare focus sulle applicazioni consumer-facing. Le aziende che utilizzano chatbot AI, siste"
   },
   {
-    "title": "𝗪𝗵𝘆 𝗨𝘀𝗶𝗻𝗴 𝗮 𝗦𝘁𝗮𝘁𝗶𝗰 𝗗𝗯𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗖𝗮𝗻 𝗕𝗿𝗲𝗮𝗸 𝗬𝗼𝘂𝗿 𝗔𝗦𝗣.𝗡𝗘𝗧 𝗖𝗼𝗿𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻",
-    "link": "https://dev.to/supraja_tangella_b7f0738e/-3k7n",
-    "pubDate": "Fri, 24 Oct 2025 06:25:49 +0000",
+    "title": "Email Validation and SMTP Handshake With Go",
+    "link": "https://dev.to/joybtw/email-validation-and-smtp-handshake-with-go-39gp",
+    "pubDate": "Fri, 24 Oct 2025 12:47:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "These code snippets are helpful during the technical interview process and for understanding real-world pitfalls in ASP.NET Core development.\nEver used a static class with new AppDbContext() and wonde"
+    "contentSnippet": "I was implementing a signup endpoint for an API where users can register via email. There are many ways to verify an email address. You could use a popular library like go-playground/validator to chec"
   },
   {
-    "title": "The Link Layer Explained: How Your Data Hops Across Local Networks (CSMA/CD to CRC)",
-    "link": "https://dev.to/tanishq_sangle_f26270c682/the-link-layer-explained-how-your-data-hops-across-local-networks-csmacd-to-crc-2mp6",
-    "pubDate": "Fri, 24 Oct 2025 06:23:06 +0000",
+    "title": "Investing in Green: Sustainable Energy Investment Trends",
+    "link": "https://dev.to/victor-lang/investing-in-green-sustainable-energy-investment-trends-48ah",
+    "pubDate": "Fri, 24 Oct 2025 12:47:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I. Introduction / Motivation\nThe fundamental job of this layer is to convert the network layer's datagrams into frames, the data unit specific to Layer 2. A frame consists of the original datagram plu"
+    "contentSnippet": "The global energy landscape is undergoing a profound transformation. Businesses, investors, and policymakers alike are increasingly focused on green and sustainable energy solutions as climate concern"
   },
   {
-    "title": "Why your business needs a Bespoke Application",
-    "link": "https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna",
-    "pubDate": "Fri, 24 Oct 2025 06:18:40 +0000",
+    "title": "What Is AsterDEX Chain? — Inside the Blockchain Powering the DEX",
+    "link": "https://dev.to/stablecoinstrategist/what-is-asterdex-chain-inside-the-blockchain-powering-the-dex-1820",
+    "pubDate": "Fri, 24 Oct 2025 12:46:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Off-the-shelf software can only take you so far. When your business has unique workflows, complex systems, or specific goals, you need something tailor-made — that’s where **[bespoke software applicat"
+    "contentSnippet": "The decentralized finance (DeFi) landscape has evolved into a global ecosystem driven by transparency, security, and innovation.\n\nAt the center of this transformation stands AsterDEX — not just anothe"
   },
   {
-    "title": "Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes)",
-    "link": "https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d",
-    "pubDate": "Fri, 24 Oct 2025 06:18:20 +0000",
+    "title": "Java Delete Files: A No-BS Guide to delete(), NIO, & Best Practices",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-delete-files-a-no-bs-guide-to-delete-nio-best-practices-6ja",
+    "pubDate": "Fri, 24 Oct 2025 12:44:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes)\n\n\nLast Saturday, I watched my friend spend four hours setting up his new MacBook Pro. Four. Hours.\nHe wasn't doing anythi"
+    "contentSnippet": "Java Delete Files: Your Ultimate Guide to Cleaning Up the Digital Mess\n\n\nLet's be real. In the world of programming, we're often so focused on the fancy stuff—the complex algorithms, the sleek UIs, th"
   },
   {
-    "title": "Building a Gas Optimization Tool: Technical Deep Dive",
-    "link": "https://dev.to/gentian_428090dca51d08f02/building-a-gas-optimization-tool-technical-deep-dive-3cc9",
-    "pubDate": "Fri, 24 Oct 2025 06:17:52 +0000",
+    "title": "Writing and Running Unit Tests in Autotools",
+    "link": "https://dev.to/pauljlucas/writing-and-running-unit-tests-in-autotools-1ob2",
+    "pubDate": "Fri, 24 Oct 2025 12:43:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ethereum gas prices follow predictable daily patterns, but most users have no visibility into how much poor timing costs them. Here's how I built a tool to solve this problem.\nEthereum gas prices vary"
+    "contentSnippet": "Introduction\n\n\nIf your project is like others, you’ll probably have a util.h and util.c files containing general utility functions.  For example, suppose you want a function strnspn that’s like strspn"
   },
   {
-    "title": "Unlocking Dual Revenue: Monetize Your LLM Apps with AI-Powered Ads",
-    "link": "https://dev.to/monetzly/unlocking-dual-revenue-monetize-your-llm-apps-with-ai-powered-ads-4o5j",
-    "pubDate": "Fri, 24 Oct 2025 06:17:40 +0000",
+    "title": "Master Java Read Files: Your No-Fluff Guide to File Handling in Java",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-read-files-your-no-fluff-guide-to-file-handling-in-java-a37",
+    "pubDate": "Fri, 24 Oct 2025 12:39:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How We Built Ad Injection That Users Actually Appreciate: Introducing Monetization in AI Conversations\n\n\nIn the ever-evolving landscape of AI applications, developers face a pressing challenge: how to"
+    "contentSnippet": "Master Java Read Files: Your No-Fluff Guide to File Handling\n\n\nAlright, let's talk about something that is literally everywhere in the world of software: Files. Config files, data dumps, user uploads,"
   },
   {
-    "title": "How to Create Smooth UX in React Native Using Reanimated 3",
-    "link": "https://dev.to/lucy1/how-to-create-smooth-ux-in-react-native-using-reanimated-3-1gen",
-    "pubDate": "Fri, 24 Oct 2025 06:16:35 +0000",
+    "title": "DNS Block‑Rate Report",
+    "link": "https://dev.to/jundata/dns-block-rate-report-594g",
+    "pubDate": "Fri, 24 Oct 2025 12:36:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Smoothness is quality in mobile apps.  One lateness or one frame-drop on one gesture can shatter trust and wreck immersion.  Reanimated 3, a bundle that drives gestures and animations right onto the U"
+    "contentSnippet": "Purpose: Capture the architecture, basic operation, and recent statistics of my self‑hosted DNS filtering setup.\nI’ve been running my own DNS resolver for the past ≈ 2 years. It’s a hobby‑grade servic"
   },
   {
-    "title": "Oracle AI Database 26ai: RESETTABLE Clause",
-    "link": "https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-resettable-clause-4pho",
-    "pubDate": "Fri, 24 Oct 2025 06:11:43 +0000",
+    "title": "This Week In React #255 : Next.js, RSC, shadcn, TanStack, 3D, Fumadocs | Solito, Expo, MMKV, ImGui | Node.js, Vitest",
+    "link": "https://dev.to/sebastienlorber/this-week-in-react-255-nextjs-rsc-shadcn-tanstack-3d-fumadocs-solito-expo-mmkv-imgui-1m40",
+    "pubDate": "Fri, 24 Oct 2025 12:36:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In Oracle, PL/SQL packages can maintain a session-level state. This means that once a package is loaded into a user session, its global variables retain values across multiple calls. In previous Oracl"
+    "contentSnippet": "Hi everyone!\nThis week we have a lot of interesting content about Next.js, with a new major release dropping just before their flagship conf. But also fair cricitisms showing that not everyone is sati"
   },
   {
-    "title": "Meet the AI Voice Agent That Actually Gets Your Customers",
-    "link": "https://dev.to/array_platforms/meet-the-ai-voice-agent-that-actually-gets-your-customers-p8l",
-    "pubDate": "Fri, 24 Oct 2025 06:10:11 +0000",
+    "title": "Day 69 : Meta Arguments in Terraform",
+    "link": "https://dev.to/udoh_deborah_b1e484c474bf/day-69-meta-arguments-in-terraform-4ead",
+    "pubDate": "Fri, 24 Oct 2025 12:31:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We’ve all been there waiting on hold, repeating ourselves, getting frustrated. Now, imagine a world where your customers don’t have to go through that. Where calls feel smooth, natural, and productive"
+    "contentSnippet": "A. two ready-to-run Terraform examples (one count demo, one for_each demo), \nB. step-by-step instructions to run and inspect results, \nC.  a clear explanation of meta-arguments and best practices, and"
+  },
+  {
+    "title": "【未経験エンジニアの告白】「エラーが出ないと不安」先輩に言われた「エラーホリック」から卒業した話",
+    "link": "https://qiita.com/shimada_slj/items/c10f16b6527fb31f04eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T00:39:36.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは、エンジニア4年目の嶋田です。\n1年目のある日、私はいつものように実装を進めていました。\n$ php artisan serve\n# よし、動いた...あれ、でも一発でエラー出なかったな\n\n私：「先輩、エラー出ないんですけど、これで本当に合ってますか？..."
+  },
+  {
+    "title": "今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選",
+    "link": "https://zenn.dev/fastdoctor/articles/ebe3e41039a98f",
+    "pubDate": "Fri, 24 Oct 2025 00:02:49 GMT",
+    "source": "Zenn",
+    "contentSnippet": "背景\nClaude Codeサービス提供以来ずっと下記の理由で大好きでMaxプランを利用して、一緒にたくさんの価値を創りました。\n\n Claude Codeを好きな理由\n\n 1. Default状態でアウトプットの質が高い\n依頼Prompt以外、何にも用意しない状態で相談することで、専門家レベルの議論ができます。\nKnowledge-baseやCLAUDE.mdちゃんと用意すれば、意図した通りco"
+  },
+  {
+    "title": "HonoでJWTのaudクレームを検証する機能がなかった問題（CVE-2025-62610）",
+    "link": "https://zenn.dev/okazu_dm/articles/d72419e2431761",
+    "pubDate": "Thu, 23 Oct 2025 23:19:45 GMT",
+    "source": "Zenn",
+    "contentSnippet": "今回、Honoに関する問題を報告して、脆弱性として認められたため大まかに情報をまとめてみました。\n\n 3行まとめ\n\n\nHonoのJWT 認証ミドルウェアには aud（Audience）クレームを検する機能がなかったため、脆弱性として報告しました\n上記の脆弱性により、他サービス向けトークンを自分の API が受け入れてしまうリスクがありました。\n修正版は v4.10.2。aud を明示的に検証できる"
+  },
+  {
+    "title": "【ポケモン×Java】知識編 Scanner#1 〜Scannerを完全攻略 - 基本編 -〜",
+    "link": "https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T16:53:46.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nJavaで「ユーザーに質問して答えてもらう」小さなアプリを作るとき、最初に出会うのが Scanner（スキャナー） です。\n\nキーボードで入力した文字を、プログラムが扱いやすい形にしてくれる“読み取り係”。\n\nむずかしく考えなくて大丈夫。今回は いちばん最初の一..."
+  },
+  {
+    "title": "AgentCore Runtimeの非同期実行で広がる、Ambient Agentの可能性",
+    "link": "https://qiita.com/har1101/items/a99fafb7526145e475b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T16:28:59.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n以下登壇資料の詳細解説です。\n\nもともとやりたかったこと\nAgentCoreをイベント駆動/スケジュール駆動で動かそうと考えていました。\nただ、EventBridgeからAgentCoreは直接コールできませんでした。\nそうなると、Lambdaを挟まないと..."
+  },
+  {
+    "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform（AIDP）」を試す：ADBと連携してデータ結合",
+    "link": "https://qiita.com/yushibats/items/0b26c68882f2a80e49cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T13:40:34.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n10月14日、「Oracle AI Data Platform（AIDP）」の一般提供が開始されました。（プレスリリース)\nAIDPは、OCI上でデータの収集・管理・分析・AI活用を一元的に行える統合データ基盤です。\nデータレイク、カタログ、ノートブック、アクセ..."
+  },
+  {
+    "title": "Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる",
+    "link": "https://zenn.dev/assign/articles/vitest-4-schema-matching",
+    "pubDate": "Thu, 23 Oct 2025 12:25:33 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは、株式会社アサインでエンジニアをしているうちほり(@showichiro0123)です。\n2025年10月22日にリリースされたVitest 4には、テスト駆動開発やスキーマ駆動開発を加速させる新機能が多数追加されました。中でも私の目を引いたのは、Zodなどのスキーマライブラリと統合できるexpect.schemaMatchingです。\n本記事では、Vitest 4の新機能を概"
   },
   {
     "title": "Hono CLI 爆誕",
@@ -75,13 +124,6 @@
     "pubDate": "Thu, 23 Oct 2025 06:59:08 GMT",
     "source": "Zenn",
     "contentSnippet": "これまでHonoは数々の新しいことを提供してきました。正規表現を活かしたルーター、サーバーサイドの軽量JSX、TypeScriptの型によるRPC、Web Standardを使ったマルチランタイム対応などなど。アイデアと実装力で世界と戦って来たわけです。\n本日私達が紹介するのは「Hono CLI」です。\nHono CLIは全く新しいコンセプトのコマンドラインインターフェースです。\n\n\ncreate"
-  },
-  {
-    "title": "【2025年版】サービスメッシュに関連するOSSの動向調査記録",
-    "link": "https://qiita.com/melsuga/items/f655bc5cd576bc064399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T05:14:04.000Z",
-    "source": "Qiita",
-    "contentSnippet": "本記事の要約\n本記事は、サービスメッシュに関連するOSSについて2025年時点での動向を調査したものです。具体的には以下の3点についてまとめました。\n\n5つのサービスメッシュに関連するOSSを抜粋し、概要レベルで調査しました。\n抜粋したOSSを2グループに分類し、各OSS..."
   },
   {
     "title": "Claude Code導入3ヶ月後の社内アンケートから分かったこと",
@@ -98,11 +140,11 @@
     "contentSnippet": "はじめに\nGitHub Copilotを使っている開発者の皆さん、.github/copilot-instructions.mdというファイルを作成していますか？\nこのファイル1つで、Copilotをあなたのプロジェクト専用にカスタマイズし、もっと賢く、便利に使いこなすこ..."
   },
   {
-    "title": "社内AI活用推進のためにAWS S3 Vectorsを使ってみました！（データのベクトル化と投入、検索まで）",
-    "link": "https://zenn.dev/fukurou_labo/articles/1b38f6d0940917",
-    "pubDate": "Thu, 23 Oct 2025 02:44:52 GMT",
+    "title": "Gemini CLI でセキュアで堅牢な開発をするためのプラクティス集",
+    "link": "https://zenn.dev/kimitsu/articles/secure-and-robust-development-with-gemini-cli",
+    "pubDate": "Thu, 23 Oct 2025 01:52:31 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\n株式会社フクロウラボで情シスを担当している高島です。\n最近はゼロトラスト推進やSaaS運用・改善にとどまらず、事業をドライブするために「攻めの情シス」業務に注力しようとしています。AI推進を行うべく、社内に点在する膨大なナレッジ（Slack、Notion、PDF資料など）をAIエージェントに学習させ、業務効率化を図るミッションを掲げています。\n最新のLLMも社内の固有ルールは知らないため"
+    "contentSnippet": "先日、クラウドネイティブ × Gemini CLIというイベントで『Gemini CLI でもセキュアで堅牢な開発をしたい！』というタイトルで登壇させていただきました。\n時間都合で端折ってしまった部分が多かったため、本記事で行間を埋めつつ最新の状況をお伝えします。\n登壇の内容は全て記載するため、イベントに参加されなかった方も読んでいただければと思います。\n\n はじめに\n本記事は Gemini CL"
   },
   {
     "title": "[Next.js] URL末尾に .md つけたらMarkdownをそのまま返す！",
@@ -133,6 +175,13 @@
     "contentSnippet": "はじめに\nAPI開発において、仕様書の管理、テスト実行、モックサーバーの構築は重要な作業です。\n私は長年Postmanを使用してきましたが、以下の課題を感じていました。\n\nPostmanで感じていた課題\n\nSwaggerとの二重管理: API仕様書をSwaggerで管理..."
   },
   {
+    "title": "ブラウザバックで無限スクロールが振り出しに戻る問題をNext.jsの「URL付きモーダル」で解決する",
+    "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
+    "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「ブラウザバックで無限スクロールが振り出しに戻る」という著名な（？）問題を、Next.js App Router の Intercepting Routes と Parallel Routes を組み合わせたモーダルで、従来のデメリットを解消しながらうまく回避できました。\nブラウザバックしても無限スクロールのスクロール位置が失われていない\nこのDEMOアプリは実際に試せます。\nNext."
+  },
+  {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",
     "link": "https://www.publickey1.jp/blog/25/aws_kiro.html",
     "pubDate": "2025-10-22T15:50:43.000Z",
@@ -140,53 +189,11 @@
     "contentSnippet": "Amazon Web Services（AWS）は、Visual Studio Code（VS Code）互換のコードエディタに生成AIを統合したAIコードエディタ「Kiro」のウェイトリストが終了し、誰でもダウンロードして利用可能になったことを明らかにしました。 と同時に、「Spec Context in Chat」や「Dev server support」などの新機能も追加されました。 Kir"
   },
   {
-    "title": "Bedrock AgentCore IdentityでGoogleドライブにアクセス！（GA対応版）",
-    "link": "https://qiita.com/moritalous/items/7660a570292eb3e0b605?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T14:51:39.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Bedrock AgentCoreがGAしまして、それに伴い、AgentCore Identityの仕様変更があったようです。\nところがどっこい、ドキュメントやサンプルがまだ反映されてません。😭😭😭\n試行錯誤とAmazon Q Developerの助けを受け、未知の新仕様で..."
-  },
-  {
-    "title": "増えすぎた GitHub Actions を「3 層アーキテクチャ」で整理した話",
-    "link": "https://zenn.dev/simpleform_blog/articles/99cea8c1af0657",
-    "pubDate": "Wed, 22 Oct 2025 12:34:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nGitHub Actions (GHA)、便利ですよね。\n便利なんですが、じゃんじゃん作るとワークフローが増えてエラいことになりませんか？私はなりました。\n\n環境ごとに似たようなワークフローが乱立し、保守が大変\n変更を加える際、複数のファイルを修正する必要がある\nワークフローの構造がアプリケーションごとに異なり、認知負荷が高い\nそもそも数が多すぎて何が何やら...\n\nGHA は特にこう構"
-  },
-  {
     "title": "Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形",
     "link": "https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T11:23:07.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n最近、脆弱性に関する記事が注目されることが多くなった @___nix___ です。\n\n背景\nMicrosoft 365 Copilot は業務データにアクセスできるAIとして普及していますが、自律的にコンテンツを解析する性質が悪用されるリスクがあります。過去の「..."
-  },
-  {
-    "title": "スクラムを導入したのに、なぜ組織は変わらないのか",
-    "link": "https://zenn.dev/nttdata_tech/articles/34b4172b467aee",
-    "pubDate": "Wed, 22 Oct 2025 08:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "デイリースタンドアップ、スプリントプランニング、レトロスペクティブ。スクラムのフレームワークは完全に導入した。チームは毎日15分のスタンドアップをしているし、2週間ごとにふりかえりとカイゼンアイテムの特定をしている。でも、何かが違う。現場は相変わらず「忙しい」と言い続け、部門間の壁は高いままで、意思決定のスピードは上がらない。\nアジャイルやスクラムを始めたばかりのチームや組織において、このような状"
-  },
-  {
-    "title": "複数の並行開発におけるDocker Composeのポート競合を何とかする（Mac）",
-    "link": "https://zenn.dev/shinoyu/articles/6a79758070df88",
-    "pubDate": "Wed, 22 Oct 2025 04:43:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "とにかく競合しがちな3000と8000\n複数の開発のお仕事を頂いて対応していると、このポート競合に悩まされてしまうということがよくあります。まあその時立ち上げるcomposeの環境を一つだけに限定すればいい、という話ではあるのですが、AIコーディングが常用化された今の環境化では平行に開発できないと辛いというのが実情なわけです。\n大体の現場は、並行で開発をしないといけないタイプのエンジニアのことは特"
-  },
-  {
-    "title": "GopherCon 2025に行ってきました！",
-    "link": "https://zenn.dev/logica0419/articles/gophercon-2025",
-    "pubDate": "Wed, 22 Oct 2025 02:45:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "どうもこんにちは。\nブログを書くのは久しぶりのTakuto Nagamiです。\n今回の記事は、8/26～28にアメリカ・ニューヨークで行われたGopherConに参加してきた体験レポートです！🇺🇸\n\n\n 前置き\n今回のGopherCon参加にあたり、一般社団法人Gophers Japanの海外カンファレンス向けスカラーシップ制度で旅費支援をしていただきました。\nこれによって今回必要になった費用"
-  },
-  {
-    "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
-    "link": "https://qiita.com/shirok/items/94385d1345ce86ade5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T00:09:52.000Z",
-    "source": "Qiita",
-    "contentSnippet": "オラクルは、業界をリードする生成AIモデルを企業のデータ、アプリケーション、ワークフローに安全に接続できるよう設計された包括的なプラットフォーム「Oracle AI Data Platform」の一般提供開始を発表しました。自動データ取り込み、セマンティック・エンリッチメ..."
   },
   {
     "title": "Claude × MCPで社内DBに話しかけてみた",
@@ -215,13 +222,6 @@
     "pubDate": "2025-10-21T08:36:29.000Z",
     "source": "Qiita",
     "contentSnippet": "経緯\n元々ローカルでの環境設定にLocalを使用していたけど、システムのバージョンアップの時にphp7.3とかの低いバージョンに落とせなくて動作確認ができなかったから。\n調べてみるとDockerならWP-CLIを用いて、固定ページとかの作成もコマンドからできるのがわかって..."
-  },
-  {
-    "title": "レガシーC#コード対比集（昔こう→今こう）",
-    "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T07:23:56.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nC#は急速に進化してきた言語です。10年前の「当たり前」は、今では保守性やパフォーマンスの観点から非推奨になっていることもあります。\n今回は、レガシーシステムの保守や段階的なリファクタリングに携わる開発者向けに、よくある「昔の書き方」から「現在の推奨」への置き換..."
   },
   {
     "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",

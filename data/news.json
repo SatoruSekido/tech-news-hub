@@ -1,73 +1,94 @@
 [
   {
-    "title": "AEO, GEO, and LLMO: The New Frontier of SEO in the Age of AI",
-    "link": "https://dev.to/lovestaco/aeo-geo-and-llmo-the-new-frontier-of-seo-in-the-age-of-ai-4bbj",
-    "pubDate": "Fri, 24 Oct 2025 18:31:41 +0000",
+    "title": "I Built an Enterprise-Grade VPN with Terraform. It's Also My Ultimate \"Life Hack\" Tool.",
+    "link": "https://dev.to/dieguezz/i-built-an-enterprise-grade-vpn-with-terraform-its-also-my-ultimate-life-hack-tool-3704",
+    "pubDate": "Sat, 25 Oct 2025 01:44:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello, I'm Maneshwar. I'm working on FreeDevTools online currently building *one place for all dev tools, cheat codes, and TLDRs* — a free, open-source hub where developers can quickly find and use to"
+    "contentSnippet": "I originally created this project to solve a complex engineering problem: how to deploy a hardened, hybrid VPN (modern WireGuard® for users, classic IPsec for partners) on GCP, all managed as code. It"
   },
   {
-    "title": "Apache Doris 4.0: One Engine for Analytics, Full-Text Search, and Vector Search",
-    "link": "https://dev.to/apachedoris/apache-doris-40-one-engine-for-analytics-full-text-search-and-vector-search-k8n",
-    "pubDate": "Fri, 24 Oct 2025 18:28:48 +0000",
+    "title": "🏗️ 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬 — 𝐓𝐡𝐞 𝐁𝐥𝐮𝐞𝐩𝐫𝐢𝐧𝐭 𝐨𝐟 𝐒𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬",
+    "link": "https://dev.to/zamirul_kabir/--31nb",
+    "pubDate": "Sat, 25 Oct 2025 01:41:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We're excited to announce the official release of Apache Doris 4.0: a major milestone release that focused on improving four main areas: 1) new AI capabilities vector search, and AI functions, 2) stro"
+    "contentSnippet": "🏗️ 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬 — 𝐓𝐡𝐞 𝐁𝐥𝐮𝐞𝐩𝐫𝐢𝐧𝐭 𝐨𝐟 𝐒𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬\n🔹 𝐖𝐡𝐚𝐭 𝐀𝐫𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡\ud835"
   },
   {
-    "title": "Wie ein Chatbot Event-Anfragen revolutionieren kann – von der Idee zur automatisierten DJ-Buchung",
-    "link": "https://dev.to/25heartbeats_djservice_1/wie-ein-chatbot-event-anfragen-revolutionieren-kann-von-der-idee-zur-automatisierten-dj-buchung-54e0",
-    "pubDate": "Fri, 24 Oct 2025 18:17:49 +0000",
+    "title": "Why Is Blazor Still Behind Next.js in the Web Development Race? 🚀",
+    "link": "https://dev.to/engbassam_alqadhi_0db9d5/why-is-blazor-still-behind-nextjs-in-the-web-development-race-2hdb",
+    "pubDate": "Sat, 25 Oct 2025 01:38:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hier ist ein Vorschlag für deinen DEV.to-Post-Text, der deinen Link natürlich einbindet und das Thema „Chatbot für Event-Anfragen“ mit deinem DJ-Business verknüpft:\nTitle:\nTags:\nText:\nStell dir vor, e"
+    "contentSnippet": "⚡ First Load Performance\nThe biggest challenge facing Blazor WebAssembly is initial load time:\nBlazor WebAssembly needs to download the full .NET runtime, with bundles reaching 2–3 MB, which significa"
   },
   {
-    "title": "The Strategic Migration: Transforming a Manual QA Team into an Automation Powerhouse",
-    "link": "https://dev.to/mohsen_akbari_ebe53d7cbc2/the-strategic-migration-transforming-a-manual-qa-team-into-an-automation-powerhouse-54mb",
-    "pubDate": "Fri, 24 Oct 2025 18:15:30 +0000",
+    "title": "SafeMigrations: A Rails Gem for Easy Migrations",
+    "link": "https://dev.to/nikom/safemigrations-a-rails-gem-for-easy-migrations-34h4",
+    "pubDate": "Sat, 25 Oct 2025 01:35:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nThis article outlines a proven, five-phase blueprint for evolving manual QA teams into automation-driven, value-focused quality partners. Using a modern stack—Pytest, Appium, Allure, and "
+    "contentSnippet": "I've spent years working on Rails projects, and migrations have often been a source of frustration. Have you ever had a migration fail because a table or column already existed? Or seen a rollback cau"
   },
   {
-    "title": "Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers",
-    "link": "https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4oob",
-    "pubDate": "Fri, 24 Oct 2025 18:08:35 +0000",
+    "title": "#2 Small Apps Update(CSS)",
+    "link": "https://dev.to/koichi_yoshikawa_dbd33319/2-small-apps-updatecss-411j",
+    "pubDate": "Sat, 25 Oct 2025 00:53:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Steal the Productivity System I Taught to 6,642 Googlers\nJeff Su lays out the CORE workflow he taught at Google—Capture every idea immediately, Organize with minimal friction, Review during scheduled "
+    "contentSnippet": "Today, I added a few lines of text with different font size and inserted an image into the app which I built yesterday. I want to make it a habit to write code every day --- even if it's just for 10 m"
   },
   {
-    "title": "How I Simplified My Laravel Filters Using the Pipeline Pattern (With Real Examples)",
-    "link": "https://dev.to/jahid02/how-to-use-laravel-pipeline-4jek",
-    "pubDate": "Fri, 24 Oct 2025 18:07:49 +0000",
+    "title": "Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack",
+    "link": "https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm",
+    "pubDate": "Sat, 25 Oct 2025 00:45:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today I learned a new topic in Laravel — Laravel Pipeline.\nProduct::when(isset($request->status), function ($query) use ($request) {\n    $query->where('status', $request->status);\n})\n->when(isset($req"
+    "contentSnippet": "Introduction: The Evolution of Analytics Architecture\n\n\nThe modern analytics landscape demands a stack that can handle petabyte-scale data, deliver sub-second query performance, and maintain ACID comp"
   },
   {
-    "title": "The Cost of Clarity: Building Libraries For Artists",
-    "link": "https://dev.to/bekalah/the-cost-of-clarity-building-libraries-for-artists-50g3",
-    "pubDate": "Fri, 24 Oct 2025 18:03:20 +0000",
+    "title": "My journey to Go",
+    "link": "https://dev.to/ruxozheng/my-journey-to-go-2ji2",
+    "pubDate": "Sat, 25 Oct 2025 00:39:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "After months of building, documenting, and re-explaining the same boundaries, I realized something:\nThat’s how Spec-Kit and OpenSpec were born — not from theory, but from exhaustion.\nThis isn’t about "
+    "contentSnippet": "I'm now starting to look at the Go language seriously, whereas before I just thought it was an \"Indy\" language. In the past month, I've had the chance to work with a team that uses Go, which led me to"
   },
   {
-    "title": "Day 23 of 100 days dsa coding challenge",
-    "link": "https://dev.to/manasi_patil_/day-23-of-100-days-dsa-coding-challenge-58ml",
-    "pubDate": "Fri, 24 Oct 2025 18:01:42 +0000",
+    "title": "Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams",
+    "link": "https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f",
+    "pubDate": "Sat, 25 Oct 2025 00:35:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Taking on a new challenge: solving GeeksforGeeks POTD daily and sharing my solutions! 💻🔥\nProblem:\n\nhttps://www.geeksforgeeks.org/problems/split-array-subsequences/1\nSplit Array Subsequences\nDifficul"
+    "contentSnippet": "In the fast-paced world of software development, the ability to collaborate effectively can make or break a project. With teams often spread across different locations, time zones, and even continents"
   },
   {
-    "title": "Day 28 of #30DaysOfCode",
-    "link": "https://dev.to/justacoder_0x/day-28-of-30daysofcode-5b0k",
-    "pubDate": "Fri, 24 Oct 2025 18:01:38 +0000",
+    "title": "an introduction to Dask",
+    "link": "https://dev.to/sengseng/an-introduction-to-dask-4kgi",
+    "pubDate": "Sat, 25 Oct 2025 00:32:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Things i did today :\nsolved the potd \npracticed 2 ques , 1 based on str , the other one based on array + hashmap+ simulation \nwent to the gym today after diwali holidays , tmr will do a bit of dev cuz"
+    "contentSnippet": "Dask is a large and useful Python library that is regularly used for parallel and distributed computing. If your Python code is written using a loop structure, it can be parallelized with Dask.\nFirstl"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-54h9",
-    "pubDate": "Fri, 24 Oct 2025 18:01:24 +0000",
+    "title": "New in BC 2024 Wave 2: Production Scrap Report for Manufacturing Teams",
+    "link": "https://dev.to/jeffreybulanadi/new-in-bc-2024-wave-2-production-scrap-report-for-manufacturing-teams-2h5h",
+    "pubDate": "Sat, 25 Oct 2025 00:19:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Cinema Sins is back in theaters for a second round of Frankenweenie, dishing out every quirk and nitpick in under 14 minutes—yes, even though they secretly love the film. Along the way they drop links"
+    "contentSnippet": "Heads up, #msdyn365BC developers and consultants, there’s a new report in town.\nThe Production Scrap report just landed in BC 2024 Wave 2, and it’s a must-have for manufacturing visibility.\nHere’s wha"
+  },
+  {
+    "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
+    "link": "https://zenn.dev/karaage0703/articles/985ddbd8fa15d3",
+    "pubDate": "Fri, 24 Oct 2025 08:30:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "NVIDIA DGX Sparkの概要\nNVIDIA DGX SparkをNVIDIA様から貸与いただきました。NVIDIA DGX Sparkは、手のひらサイズでペタFLOPS級性能を持つ「超小型AIスーパーコンピュータ」です。AI用のスーパーコンピュータであるDGXシリーズ（DGX-1→DGX A100→DGX H100など）の系譜を組みながら、手軽にデスクトップで使えるようにした存在です。\n"
+  },
+  {
+    "title": "では素晴らしい提案をしよう。お前もライブラリを作らないか？",
+    "link": "https://zenn.dev/kyome/articles/10bed29cc08c35",
+    "pubDate": "Fri, 24 Oct 2025 04:26:24 GMT",
+    "source": "Zenn",
+    "contentSnippet": "「〇〇、なぜお前が至高の領域に踏み入れないのか教えてやろう」\n「経験不足だからだ、視野が狭いからだ、品質への意識が低いからだ」\n「ライブラリを作ろう、〇〇」\n「そうすればプロダクションコードと独立したフィールドで経験を積める、強くなれる」\n「そして、俺とどこまでも高め合おう」\n「その資格がお前にはある」\n\n\n閑話休題\n\n!\nこの記事は、CYBOZU SUMMER BLOG FES '25の記事です"
+  },
+  {
+    "title": "ハニーポット観測：CVE-2024-3721を悪用した攻撃の観測",
+    "link": "https://qiita.com/melkruri/items/a3d567acb9e92b3676a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T02:37:29.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは、三菱電機の大塚です。\n三菱電機　情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。\n運用しているハニーポットの1つに、IoT機器を応答機能に設置した「IoT家電ハニーポット」..."
   },
   {
     "title": "【未経験エンジニアの告白】「エラーが出ないと不安」先輩に言われた「エラーホリック」から卒業した話",
@@ -105,7 +126,14 @@
     "contentSnippet": "はじめに\n以下登壇資料の詳細解説です。\n\nもともとやりたかったこと\nAgentCoreをイベント駆動/スケジュール駆動で動かそうと考えていました。\nただ、EventBridgeからAgentCoreは直接コールできませんでした。\nそうなると、Lambdaを挟まないと..."
   },
   {
-    "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform（AIDP）」を試す：ADBと連携してデータ結合",
+    "title": "[TypeScript] Object.freeze() の代替としての as const satisfies の活用",
+    "link": "https://zenn.dev/aldagram_tech/articles/8992a053b08d34",
+    "pubDate": "Thu, 23 Oct 2025 14:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "アルダグラムでソフトウェアエンジニアとして活動している松田です。\nTypeScriptでオブジェクトを定義する場合、プロパティの変更を防ぎたいことがあります。\n例えば、以下のような設定オブジェクトがあるとします。\nconst appConfig = {\n  API_URL: \"https://example.com\",\n  API_VERSION: \"v2\",\n  TIMEOUT: 5000,\n}"
+  },
+  {
+    "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform (AIDP)」を試す：ADBと連携してデータ結合",
     "link": "https://qiita.com/yushibats/items/0b26c68882f2a80e49cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-23T13:40:34.000Z",
     "source": "Qiita",
@@ -117,6 +145,13 @@
     "pubDate": "Thu, 23 Oct 2025 12:25:33 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこんにちは、株式会社アサインでエンジニアをしているうちほり(@showichiro0123)です。\n2025年10月22日にリリースされたVitest 4には、テスト駆動開発やスキーマ駆動開発を加速させる新機能が多数追加されました。中でも私の目を引いたのは、Zodなどのスキーマライブラリと統合できるexpect.schemaMatchingです。\n本記事では、Vitest 4の新機能を概"
+  },
+  {
+    "title": "AI時代の3層アーキテクチャ：関数型コア・決定的シェル・非決定的エッジ",
+    "link": "https://zenn.dev/loglass/articles/7e40d2a253bfd3",
+    "pubDate": "Thu, 23 Oct 2025 07:35:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに：もしもAIが、あなたの会社の在庫を「-400個」にしたら？\n想像してみてください。あなたが導入した最新のLLM（大規模言語モデル）ベースの需要予測システムが、稼働数日後に暴走を始めたら...。\n在庫管理システムを見ると、異常な発注が実行され、DB上の在庫が「-400個」というあり得ない数値になっています。慌てて原因を調査すると、LLMが提案した発注数を、検証なしにそのままデータベースに書"
   },
   {
     "title": "Hono CLI 爆誕",
@@ -147,39 +182,11 @@
     "contentSnippet": "先日、クラウドネイティブ × Gemini CLIというイベントで『Gemini CLI でもセキュアで堅牢な開発をしたい！』というタイトルで登壇させていただきました。\n時間都合で端折ってしまった部分が多かったため、本記事で行間を埋めつつ最新の状況をお伝えします。\n登壇の内容は全て記載するため、イベントに参加されなかった方も読んでいただければと思います。\n\n はじめに\n本記事は Gemini CL"
   },
   {
-    "title": "[Next.js] URL末尾に .md つけたらMarkdownをそのまま返す！",
-    "link": "https://zenn.dev/chot/articles/nextjs-md-suffix",
-    "pubDate": "Thu, 23 Oct 2025 01:32:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Next.jsのドキュメントやQiitaなどでは、URLの末尾に .md を付けるとページ内容を生のMarkdownで取得できます。AIエージェントにコンテキストを渡したり、別クライアントから取り込んだりするのに便利なパターンです。\nこの記事では Rewrites + Route Handlers（App Router） で、/post/hello はHTML、/post/hello.md は t"
-  },
-  {
-    "title": "『MCPたくさん入れたいけどコンテキストが...』を解決した話",
-    "link": "https://zenn.dev/bm_sms/articles/modular_mcp_context_optimize",
-    "pubDate": "Thu, 23 Oct 2025 01:21:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nMCP (Model Context Protocol) が Anthropic から公開されてもうすぐ1年[1]になりますね。\n各社ベンダーや個人が便利な MCP を公開しできることが増えていく一方で、MCP をたくさん登録しておくことによるコンテキストの肥大化問題にも焦点が当たるようになってきました。\n単一の MCP サーバーから複数のツールが登録され、それぞれのツールに対する de"
-  },
-  {
-    "title": "複数の Docker Compose 環境を同時に立ち上げる",
-    "link": "https://zenn.dev/socialdog/articles/multiple-docker-compose-up",
-    "pubDate": "Thu, 23 Oct 2025 00:32:10 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nDocker Compose を利用して開発環境を構築するプロジェクトは多いと思います。\nClaude Code をはじめとするコーディングエージェントの普及により、git-worktree を使って複数の作業ブランチを並行して開発することが増えてきました。Docker Compose で構築する開発環境は、ワークツリーが違えどほとんどの場合同じような構成になるため、ワークツリーごとに環"
-  },
-  {
     "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
     "link": "https://qiita.com/Zucky2022/items/28af0394b86f64b76321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T23:36:28.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nAPI開発において、仕様書の管理、テスト実行、モックサーバーの構築は重要な作業です。\n私は長年Postmanを使用してきましたが、以下の課題を感じていました。\n\nPostmanで感じていた課題\n\nSwaggerとの二重管理: API仕様書をSwaggerで管理..."
-  },
-  {
-    "title": "ブラウザバックで無限スクロールが振り出しに戻る問題をNext.jsの「URL付きモーダル」で解決する",
-    "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
-    "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n「ブラウザバックで無限スクロールが振り出しに戻る」という著名な（？）問題を、Next.js App Router の Intercepting Routes と Parallel Routes を組み合わせたモーダルで、従来のデメリットを解消しながらうまく回避できました。\nブラウザバックしても無限スクロールのスクロール位置が失われていない\nこのDEMOアプリは実際に試せます。\nNext."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",
@@ -196,6 +203,13 @@
     "contentSnippet": "はじめに\n最近、脆弱性に関する記事が注目されることが多くなった @___nix___ です。\n\n背景\nMicrosoft 365 Copilot は業務データにアクセスできるAIとして普及していますが、自律的にコンテンツを解析する性質が悪用されるリスクがあります。過去の「..."
   },
   {
+    "title": "AWS大規模障害の教訓：単一クラウドが単一障害点になる時代、金融システムはどう備えるべきか",
+    "link": "https://qiita.com/yoshimitsu-k-i-a/items/5dedf016adab925eae2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T10:38:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "2025年10月20日、AWSのN. Virginia (us-east-1) リージョンで発生した大規模なサービス障害は、クラウドを利用するすべての企業、特に金融システムのようなミッションクリティカルなシステムに、改めて重大な教訓を突きつけました。\n本記事では、この障害が..."
+  },
+  {
     "title": "Claude × MCPで社内DBに話しかけてみた",
     "link": "https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-21T23:03:38.000Z",
@@ -208,20 +222,6 @@
     "pubDate": "2025-10-21T15:36:24.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、ブロックストレージを提供するサービス「Amazon EBS（Amazon Elastic Block Store）のストレージボリュームを数秒でコピーできる新機能「Amazon EBS Volume Clones」のリリースを発表しました。 Amazon EBSは、そこで作成したストレージボリュームをAmazon EC2インスタンスにアタッチする"
-  },
-  {
-    "title": "Webサーバーサイド言語としてのRustについてご紹介",
-    "link": "https://qiita.com/kazaf91/items/50ed0a3ce74c7409d46a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T09:38:55.000Z",
-    "source": "Qiita",
-    "contentSnippet": "前置き\n社内にてRustを採用したい旨を弊社CTOに相談する際、まとめた資料です。\nWebサーバーサイド言語としてのRustの現状と今後の展望を自分なりに記載しています。\nちょっとでも興味を持ってもらえたら嬉しい & せっかくなので外部公開することにしました。\n\nスライド..."
-  },
-  {
-    "title": "Dockerを使ってワードプレスの環境構築をする",
-    "link": "https://qiita.com/sun_22/items/9fd95e4515969eae4f6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T08:36:29.000Z",
-    "source": "Qiita",
-    "contentSnippet": "経緯\n元々ローカルでの環境設定にLocalを使用していたけど、システムのバージョンアップの時にphp7.3とかの低いバージョンに落とせなくて動作確認ができなかったから。\n調べてみるとDockerならWP-CLIを用いて、固定ページとかの作成もコマンドからできるのがわかって..."
   },
   {
     "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",

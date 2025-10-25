@@ -1,73 +1,101 @@
 [
   {
-    "title": "Check out the guide on - Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions",
-    "link": "https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-tableau-sales-dashboard-performance-the-art-of-turning-data-into-32on",
-    "pubDate": "Sat, 25 Oct 2025 06:18:05 +0000",
+    "title": "Why Prompt Engineering is a Mind Game (I know it sounds dramatic. But trust me, it is.)",
+    "link": "https://dev.to/quillofacoder/why-prompt-engineering-is-a-mind-game-i-know-it-sounds-dramatic-but-trust-me-it-is-15h3",
+    "pubDate": "Sat, 25 Oct 2025 12:42:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions\nAnshuman ・ Oct 25"
+    "contentSnippet": "“Originally published on Medium — exploring why prompt engineering isn’t just technical but psychological.”\nI think you should get yourself a coffee before taking a seat. Cause it’s gonna be a ride.\nI"
   },
   {
-    "title": "Unlocking AI Monetization: Dual Revenue Streams for LLM Developers with Monetzly",
-    "link": "https://dev.to/monetzly/unlocking-ai-monetization-dual-revenue-streams-for-llm-developers-with-monetzly-d38",
-    "pubDate": "Sat, 25 Oct 2025 06:16:13 +0000",
+    "title": "How Neurolov Engineered a Decentralized Supercloud — Lessons from History and Infrastructure Design",
+    "link": "https://dev.to/neurolov__ai/how-neurolov-engineered-a-decentralized-supercloud-lessons-from-history-and-infrastructure-design-45gf",
+    "pubDate": "Sat, 25 Oct 2025 12:30:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why 90% of AI Apps Fail to Monetize Effectively (and How You Can Succeed with Monetzly)\n\n\nThe AI app landscape is booming—yet, shockingly, 90% of AI applications fail to monetize effectively. Develope"
+    "contentSnippet": "In the 1860s, America was sitting on an oil boom. Drillers in Pennsylvania discovered “black gold,” but without pipelines, oil had to be moved in barrels by wagon — slow, costly, and inefficient. The "
   },
   {
-    "title": "Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸",
-    "link": "https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--58mp",
-    "pubDate": "Sat, 25 Oct 2025 06:15:52 +0000",
+    "title": "🔐 OTP CLI Utils — A Simple and Powerful CLI tool for TOTP Codes",
+    "link": "https://dev.to/dilanka-rathnasiri/otp-cli-utils-a-simple-and-powerful-cli-tool-for-totp-codes-197p",
+    "pubDate": "Sat, 25 Oct 2025 12:29:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nI still remember the bug that kept me up all night. A payment callback endpoint, when handling a rare, exceptional status code from a third-party payment gateway, had a .catch() that was a"
+    "contentSnippet": "Hello everyone 👋\nI recently built a new Python CLI tool called OTP CLI Utils — a lightweight command-line utility to generate, validate, and manage Time-based One-Time Password (TOTP) codes. If you u"
   },
   {
-    "title": "i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions",
-    "link": "https://dev.to/member_3bfe2e68/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4m7e",
-    "pubDate": "Sat, 25 Oct 2025 06:15:52 +0000",
+    "title": "Task, Thread και async/await στο .NET",
+    "link": "https://dev.to/__b63657/task-thread-kai-asyncawait-sto-net-m07",
+    "pubDate": "Sat, 25 Oct 2025 12:29:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "About Hyperlane Framework\n\n\nHyperlane is a lightweight, high-performance, cross-platform Rust HTTP server framework built on Tokio async runtime.\nPerformance: 324,323 QPS (Keep-Alive on), 51,031 QPS ("
+    "contentSnippet": "Η σωστή διαχείριση συναρτήσεων που τρέχουν παράλληλα ή ασύγχρονα είναι κρίσιμη για απόδοση και scalability σε .NET εφαρμογές.\n1. Τι είναι Thread στο .NET\nThread: Μικρότερο execution unit που τρέχει εν"
   },
   {
-    "title": "Security-is-Not-a-Feature-Its-a-Foundation",
-    "link": "https://dev.to/member_ece4a271/security-is-not-a-feature-its-a-foundation-4b7",
-    "pubDate": "Sat, 25 Oct 2025 06:15:52 +0000",
+    "title": "Stop-Guessing-Start-Measuring-A-Pragmatic-Guide-to-Web-Performance",
+    "link": "https://dev.to/member_3bfe2e68/stop-guessing-start-measuring-a-pragmatic-guide-to-web-performance-3254",
+    "pubDate": "Sat, 25 Oct 2025 12:27:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nAbout ten years into my career, I experienced a security incident that still gives me chills. We were developing an online trading system for a financial client. A young programmer on the "
+    "contentSnippet": "GitHub Home\nIt was another Black Friday. At 3 AM, my phone started screaming like crazy. 😱 It wasn't my alarm; it was the monitoring alert. Our flagship e-commerce service, the system we had poured s"
   },
   {
-    "title": "i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions",
-    "link": "https://dev.to/member_083ff294/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-26in",
-    "pubDate": "Sat, 25 Oct 2025 06:15:52 +0000",
+    "title": "You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events",
+    "link": "https://dev.to/member_083ff294/you-might-not-need-websockets-the-simple-power-of-server-sent-events-e69",
+    "pubDate": "Sat, 25 Oct 2025 12:27:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "About Hyperlane Framework\n\n\nHyperlane is a lightweight, high-performance, cross-platform Rust HTTP server framework built on Tokio async runtime.\nPerformance: 324,323 QPS (Keep-Alive on), 51,031 QPS ("
+    "contentSnippet": "GitHub Home\nIn our toolbox, there are always a few \"star\" tools. 🛠️ In the realm of real-time web communication, WebSocket is undoubtedly the brightest star. It's powerful, supports bidirectional com"
   },
   {
-    "title": "Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration",
-    "link": "https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd",
-    "pubDate": "Sat, 25 Oct 2025 06:09:16 +0000",
+    "title": "Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart",
+    "link": "https://dev.to/member_ece4a271/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-177l",
+    "pubDate": "Sat, 25 Oct 2025 12:27:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Back in the 1960s, when computers were rare and applications even rarer, the term API quietly entered the scene. It wasn't about the web or microservices back then; it was about getting one piece of s"
+    "contentSnippet": "GitHub Home\nAs developers, we all cherish that \"flow state.\" When you're fully focused, code flows from your fingertips, and with every save, the service in the terminal automatically restarts. A quic"
   },
   {
-    "title": "The History of HTTP",
-    "link": "https://dev.to/iarchitsharma/the-history-of-http-32ga",
-    "pubDate": "Sat, 25 Oct 2025 06:06:47 +0000",
+    "title": "Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling",
+    "link": "https://dev.to/member_875c0744/files-are-not-just-data-a-guide-to-robust-file-handling-4hbh",
+    "pubDate": "Sat, 25 Oct 2025 12:27:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "HTTP (HyperText Transfer Protocol) is a protocol used for fetching resources such as HTML documents. Its primary function is to enable a conversation between a client (like a web browser) and a server"
+    "contentSnippet": "GitHub Home\nI'll never forget that afternoon. We had just launched a new feature allowing users to upload their profile pictures. Everything seemed perfect. Until one user, whether intentionally or no"
   },
   {
-    "title": "No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365",
-    "link": "https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-172",
-    "pubDate": "Sat, 25 Oct 2025 06:06:30 +0000",
+    "title": "Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart",
+    "link": "https://dev.to/member_25c2e834/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-3nai",
+    "pubDate": "Sat, 25 Oct 2025 12:27:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Booth Vol.23 kicks off with Cody and Neil tossing out mea culpas (and collecting some from the audience) as they catch up on Neil’s suburban migration, hardware store loyalties, binge-worthy shows"
+    "contentSnippet": "GitHub Home\nAs developers, we all cherish that \"flow state.\" When you're fully focused, code flows from your fingertips, and with every save, the service in the terminal automatically restarts. A quic"
   },
   {
-    "title": "S3 aws guide",
-    "link": "https://dev.to/sachin841/s3-aws-guide-45e1",
-    "pubDate": "Sat, 25 Oct 2025 06:06:12 +0000",
+    "title": "Web Developer Travis McCracken on Using GitHub Actions for Rust CI",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp",
+    "pubDate": "Sat, 25 Oct 2025 12:16:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is Amazon S3?\n\n\nAmazon Simple Storage Service (S3) is a scalable object storage service provided by AWS. It allows users to store and retrieve any amount of data, such as text files, images, vide"
+    "contentSnippet": "Exploring Backend Development with Rust and Go: A Web Developer’s Perspective\nHello, I’m Travis McCracken — a passionate Web Developer with a deep focus on backend development. Over the years, I’ve ex"
+  },
+  {
+    "title": "Kaggle Notebook で始める CUDAプログラミング入門",
+    "link": "https://zenn.dev/kaerururu/articles/101f9261ae923a",
+    "pubDate": "Sat, 25 Oct 2025 03:07:39 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは！kaerururu です。\n普段、私は PyTorch や cuML といったライブラリを通じて、実装の詳細を意識することなくCUDA の恩恵を受けています。CUDA プログラミングができるようになるともっと速いコードが書けそうです。\nこの記事では、NVIDIA公式のドキュメントなどを頼りにCUDAプログラミングを学んだ記録を共有します。C++での実装から、Pythonのラッ"
+  },
+  {
+    "title": "ここが変だよLLMコーディングエージェント(Codex)",
+    "link": "https://zenn.dev/takeshy/articles/20b8b2ab499b6f",
+    "pubDate": "Sat, 25 Oct 2025 00:51:36 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n最近LLMコーディングエージェント(主にCodex)tipsを書きましたが、やっぱりLLMコーディングエージェントは頼りにしすぎてはいけない、重要なところは自分で書こうという思いが強まってきています。\nどういうとこが変なのかをまとめることで、なぜそう感じるのかを説明したいと思います。\n\n 1. 引数のバリエーションが無駄に多い\n一箇所からしか呼ばれていないメソッドで現状の呼び出し箇所は引"
+  },
+  {
+    "title": "React学習ログ No.13",
+    "link": "https://qiita.com/maedaHARUYA/items/e964eb78681c7050ccd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T23:37:37.000Z",
+    "source": "Qiita",
+    "contentSnippet": "React(JavaScriptメモ)：分割代入とスプレッド構文\n\n1. 分割代入\n\n目的\n配列やオブジェクトから必要な値を個別の変数として抽出\nコードを簡潔に\n\n応用テクニック\n\n項目\n構文\n詳細\n\nデフォルト値\n{ key = defaultValue } ..."
+  },
+  {
+    "title": "今日のQiitaトレンド記事をポッドキャストで聴こう！ 2025/10/25",
+    "link": "https://qiita.com/ennagara128/items/36c0bf0a091fc00722f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T22:03:13.000Z",
+    "source": "Qiita",
+    "contentSnippet": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nGitHub Copilotを使っている人は全..."
   },
   {
     "title": "Typst 0.14.0 の内容を早めに深堀り",
@@ -77,11 +105,32 @@
     "contentSnippet": "はじめに\n本記事では、2025/10/24 にリリースされた Typst 0.14.0 の新機能や変更点を紹介します。\n!\n本記事のタイトルと構成は、前回から引き続き あずんひさんが継続されている「Rust 1.xx を早めに深堀り」シリーズからお借りしています。\n\n\n リリースノート・深堀り記事一覧\n\n\n\nリリース日\nバージョン\n公式リリースノート\n深堀り記事\n\n\n\n\n2024/10/18\n0."
   },
   {
+    "title": "AI駆動開発のお供にknipがステキな理由",
+    "link": "https://zenn.dev/kondo_script/articles/knip-with-ai",
+    "pubDate": "Fri, 24 Oct 2025 13:53:53 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事の目的\nClaude Codeでvibe codingをしていたときにknipを併用したら体験がとても良かったのでシェア\nknipを使っている人が一人でも増えたら嬉しいです。\n\n knipとは\n\nTypescriptプロジェクト用のデッドコード検知ツール\n\n未使用のファイル/関数/exportをいい感じに削除してくれる\n未使用のcss assetsや不要なpackage.jsonのライブラ"
+  },
+  {
+    "title": "スマホでバイブコーディングする技術",
+    "link": "https://zenn.dev/tsuvic/articles/4a866f40142d8b",
+    "pubDate": "Fri, 24 Oct 2025 13:23:27 GMT",
+    "source": "Zenn",
+    "contentSnippet": "先月、東京AI祭 ハッカソンで、スマホでバイブコーディングして、賞金20万円を獲得しました。\n何をどんな仕組みで作ったのか実践知を共有したいなと思います。\n\n東京AI祭 ハッカソンは、CoreWeaveさんが公式サポーターで、GMOさんのサポートもあったようでした。Weights & Biasesについて気軽に質問したり、H100などのGPUを自由に使い倒すことができる環境でファインチューニングし"
+  },
+  {
     "title": "TemporalのDurableさを覗く #LayerX_AI_Agent_ブログリレー",
     "link": "https://zenn.dev/layerx/articles/3985768bda6e5a",
     "pubDate": "Fri, 24 Oct 2025 12:29:44 GMT",
     "source": "Zenn",
     "contentSnippet": "LayerX AI Agent ブログリレー 32 日目の記事です。\nバクラク事業部 @itkq です。Platform Engineering部 SRE チームで仕事をしています。以下の記事が公開されているように、AI Agentの文脈でTemporalをやっていっています。\nhttps://zenn.dev/layerx/articles/b5f6cf6e47221e\nhttps://zenn"
+  },
+  {
+    "title": "AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する",
+    "link": "https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T10:01:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. はじめに\nクラウドインフラをコードで管理する「IaC（Infrastructure as Code）」は、\n今や開発者にとって避けて通れない領域になりました。\nその中でも AWS CDK（Cloud Development Kit） は、TypeScriptやPyt..."
   },
   {
     "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
@@ -91,11 +140,18 @@
     "contentSnippet": "NVIDIA DGX Sparkの概要\nNVIDIA DGX SparkをNVIDIA様から貸与いただきました。NVIDIA DGX Sparkは、手のひらサイズでペタFLOPS級性能を持つ「超小型AIスーパーコンピュータ」です。AI用のスーパーコンピュータであるDGXシリーズ（DGX-1→DGX A100→DGX H100など）の系譜を組みながら、手軽にデスクトップで使えるようにした存在です。\n"
   },
   {
-    "title": "\"AWS AI Agent ブログ祭り\" 開催！！AI Agent のブログが毎日公開！！",
-    "link": "https://zenn.dev/aws_japan/articles/711a12ee6db8df",
-    "pubDate": "Fri, 24 Oct 2025 04:45:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめまして。AWS JapanでAI/ML Specialist SAをしている近藤 (https://x.com/yakitori_eng)です。\n\n 今日から１ヶ月間毎日AI AgentのブログをAWSメンバーが投稿します！！\nXのハッシュタグ #AWS_AI_AGENT_ブログ祭り でもわいわい盛り上がりましょう！！\n決してLayerXさんやIVRyさんのブログリレー企画のパクリではありま"
+    "title": "Microsoft Agent Framework開発入門",
+    "link": "https://qiita.com/matayuuu/items/e028904453dded34d18f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T06:58:36.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Microsoft Agent Framework とは\n\n概要\nMicrosoft Agent Framework は、Microsoft が OSS として提供する AI エージェント & マルチエージェントワークフローを開発する フレームワークです。\nMicroso..."
+  },
+  {
+    "title": "VS Code（Cursor）で現在開いているタブを一目で分かるようにする方法",
+    "link": "https://qiita.com/yosei_ikegami/items/baf3f6ba7467d0db6f7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T04:34:27.000Z",
+    "source": "Qiita",
+    "contentSnippet": "問題\nマルチタブ環境で作業していると、現在開いているファイルがどれか分からなくなることがあります。\n\n解決方法\nVS Code（Cursor）の標準設定をカスタマイズして、アクティブなタブに色付きのボーダーを追加してみました。\n\n設定手順\n\nコマンドパレットを開く\n..."
   },
   {
     "title": "では素晴らしい提案をしよう。お前もライブラリを作らないか？",
@@ -105,18 +161,11 @@
     "contentSnippet": "「〇〇、なぜお前が至高の領域に踏み入れないのか教えてやろう」\n「経験不足だからだ、視野が狭いからだ、品質への意識が低いからだ」\n「ライブラリを作ろう、〇〇」\n「そうすればプロダクションコードと独立したフィールドで経験を積める、強くなれる」\n「そして、俺とどこまでも高め合おう」\n「その資格がお前にはある」\n\n\n閑話休題\n\n!\nこの記事は、CYBOZU SUMMER BLOG FES '25の記事です"
   },
   {
-    "title": "ハニーポット観測：CVE-2024-3721を悪用した攻撃の観測",
-    "link": "https://qiita.com/melkruri/items/a3d567acb9e92b3676a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T02:37:29.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは、三菱電機の大塚です。\n三菱電機　情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。\n運用しているハニーポットの1つに、IoT機器を応答機能に設置した「IoT家電ハニーポット」..."
-  },
-  {
-    "title": "【未経験エンジニアの告白】「エラーが出ないと不安」先輩に言われた「エラーホリック」から卒業した話",
-    "link": "https://qiita.com/shimada_slj/items/c10f16b6527fb31f04eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T00:39:36.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは、エンジニア4年目の嶋田です。\n1年目のある日、私はいつものように実装を進めていました。\n$ php artisan serve\n# よし、動いた...あれ、でも一発でエラー出なかったな\n\n私：「先輩、エラー出ないんですけど、これで本当に合ってますか？..."
+    "title": "ユニットテストがしやすいコード構成について過去を振り返って考えてみた",
+    "link": "https://zenn.dev/levtech/articles/feae08d88c039d",
+    "pubDate": "Fri, 24 Oct 2025 03:00:44 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nインテグレーションテスト主体でテストを書いていく場合、テスト実行時間が長い問題が出てきた。\n（インスタンスをたくさん並べてパラレル実行にするとかやりようはあると思う）\n解決するためには出来る限りユニットテストに寄せた方が良いが、どういったコード構成ならユニットテストに寄せやすいのか？考えた。\n\n 今あるアーキテクチャから選べばいいじゃんという話もあるが。。。\n既存アーキテクチャだとなんか"
   },
   {
     "title": "今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選",
@@ -126,53 +175,11 @@
     "contentSnippet": "背景\nClaude Codeサービス提供以来ずっと下記の理由で大好きでMaxプランを利用して、一緒にたくさんの価値を創りました。\n\n Claude Codeを好きな理由\n\n 1. Default状態でアウトプットの質が高い\n依頼Prompt以外、何にも用意しない状態で相談することで、専門家レベルの議論ができます。\nKnowledge-baseやCLAUDE.mdちゃんと用意すれば、意図した通りco"
   },
   {
-    "title": "HonoでJWTのaudクレームを検証する機能がなかった問題（CVE-2025-62610）",
-    "link": "https://zenn.dev/okazu_dm/articles/d72419e2431761",
-    "pubDate": "Thu, 23 Oct 2025 23:19:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "今回、Honoに関する問題を報告して、脆弱性として認められたため大まかに情報をまとめてみました。\n\n 3行まとめ\n\n\nHonoのJWT 認証ミドルウェアには aud（Audience）クレームを検する機能がなかったため、脆弱性として報告しました\n上記の脆弱性により、他サービス向けトークンを自分の API が受け入れてしまうリスクがありました。\n修正版は v4.10.2。aud を明示的に検証できる"
-  },
-  {
-    "title": "モダンな自社開発企業で働く意味を問う: 大阪のしがない受託開発社長からみた今後のWebエンジニアの生存戦略",
-    "link": "https://zenn.dev/mikana0918/articles/dab9caa7f31a3b",
-    "pubDate": "Thu, 23 Oct 2025 18:37:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "まわりを見れば焦っている人もいれば、全く焦っていない人もいたりしますが、受託開発会社でフリーランスエンジニアへの発注と、また自身もフリーランス・もしくは外注先として発注を受けている中で、「エンジニアとして手を動かすだけではこれから先は買い叩かれてしまう」という未来がなんとなくみえていると感じています。今回はなぜそう思うのか、またどうすればいいのかを手を動かすエンジニアを対象読者として提示したいと思"
-  },
-  {
-    "title": "【ポケモン×Java】知識編 Scanner#1 〜Scannerを完全攻略 - 基本編 -〜",
-    "link": "https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T16:53:46.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nJavaで「ユーザーに質問して答えてもらう」小さなアプリを作るとき、最初に出会うのが Scanner（スキャナー） です。\n\nキーボードで入力した文字を、プログラムが扱いやすい形にしてくれる“読み取り係”。\n\nむずかしく考えなくて大丈夫。今回は いちばん最初の一..."
-  },
-  {
-    "title": "AgentCore Runtimeの非同期実行で広がる、Ambient Agentの可能性",
-    "link": "https://qiita.com/har1101/items/a99fafb7526145e475b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T16:28:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n以下登壇資料の詳細解説です。\n\nもともとやりたかったこと\nAgentCoreをイベント駆動/スケジュール駆動で動かそうと考えていました。\nただ、EventBridgeからAgentCoreは直接コールできませんでした。\nそうなると、Lambdaを挟まないと..."
-  },
-  {
-    "title": "[TypeScript] Object.freeze() の代替としての as const satisfies の活用",
-    "link": "https://zenn.dev/aldagram_tech/articles/8992a053b08d34",
-    "pubDate": "Thu, 23 Oct 2025 14:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "アルダグラムでソフトウェアエンジニアとして活動している松田です。\nTypeScriptでオブジェクトを定義する場合、プロパティの変更を防ぎたいことがあります。\n例えば、以下のような設定オブジェクトがあるとします。\nconst appConfig = {\n  API_URL: \"https://example.com\",\n  API_VERSION: \"v2\",\n  TIMEOUT: 5000,\n}"
-  },
-  {
     "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform (AIDP)」を試す：ADBと連携してデータ結合",
     "link": "https://qiita.com/yushibats/items/0b26c68882f2a80e49cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-23T13:40:34.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n10月14日、「Oracle AI Data Platform（AIDP）」の一般提供が開始されました。（プレスリリース)\nAIDPは、OCI上でデータの収集・管理・分析・AI活用を一元的に行える統合データ基盤です。\nデータレイク、カタログ、ノートブック、アクセ..."
-  },
-  {
-    "title": "Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる",
-    "link": "https://zenn.dev/assign/articles/vitest-4-schema-matching",
-    "pubDate": "Thu, 23 Oct 2025 12:25:33 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、株式会社アサインでエンジニアをしているうちほり(@showichiro0123)です。\n2025年10月22日にリリースされたVitest 4には、テスト駆動開発やスキーマ駆動開発を加速させる新機能が多数追加されました。中でも私の目を引いたのは、Zodなどのスキーマライブラリと統合できるexpect.schemaMatchingです。\n本記事では、Vitest 4の新機能を概"
   },
   {
     "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください",
@@ -208,13 +215,6 @@
     "pubDate": "2025-10-22T10:38:24.000Z",
     "source": "Qiita",
     "contentSnippet": "2025年10月20日、AWSのN. Virginia (us-east-1) リージョンで発生した大規模なサービス障害は、クラウドを利用するすべての企業、特に金融システムのようなミッションクリティカルなシステムに、改めて重大な教訓を突きつけました。\n本記事では、この障害が..."
-  },
-  {
-    "title": "Claude × MCPで社内DBに話しかけてみた",
-    "link": "https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T23:03:38.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n本記事で紹介する Model Context Protocol （MCP） サーバーは、クラウドや社内ネットワーク上のリモートサーバーではなく、ローカル PC 上で動作するローカルサーバーです。\n最終的に Claude Desktop との通信も標準入出力（st..."
   },
   {
     "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",

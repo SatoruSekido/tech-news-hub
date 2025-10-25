@@ -1,73 +1,87 @@
 [
   {
-    "title": "I Built an Enterprise-Grade VPN with Terraform. It's Also My Ultimate \"Life Hack\" Tool.",
-    "link": "https://dev.to/dieguezz/i-built-an-enterprise-grade-vpn-with-terraform-its-also-my-ultimate-life-hack-tool-3704",
-    "pubDate": "Sat, 25 Oct 2025 01:44:33 +0000",
+    "title": "Check out the guide on - Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions",
+    "link": "https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-tableau-sales-dashboard-performance-the-art-of-turning-data-into-32on",
+    "pubDate": "Sat, 25 Oct 2025 06:18:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I originally created this project to solve a complex engineering problem: how to deploy a hardened, hybrid VPN (modern WireGuard® for users, classic IPsec for partners) on GCP, all managed as code. It"
+    "contentSnippet": "Tableau Sales Dashboard Performance: The Art of Turning Data into Decisions\nAnshuman ・ Oct 25"
   },
   {
-    "title": "🏗️ 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬 — 𝐓𝐡𝐞 𝐁𝐥𝐮𝐞𝐩𝐫𝐢𝐧𝐭 𝐨𝐟 𝐒𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬",
-    "link": "https://dev.to/zamirul_kabir/--31nb",
-    "pubDate": "Sat, 25 Oct 2025 01:41:28 +0000",
+    "title": "Unlocking AI Monetization: Dual Revenue Streams for LLM Developers with Monetzly",
+    "link": "https://dev.to/monetzly/unlocking-ai-monetization-dual-revenue-streams-for-llm-developers-with-monetzly-d38",
+    "pubDate": "Sat, 25 Oct 2025 06:16:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🏗️ 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬 — 𝐓𝐡𝐞 𝐁𝐥𝐮𝐞𝐩𝐫𝐢𝐧𝐭 𝐨𝐟 𝐒𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬\n🔹 𝐖𝐡𝐚𝐭 𝐀𝐫𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡\ud835"
+    "contentSnippet": "Why 90% of AI Apps Fail to Monetize Effectively (and How You Can Succeed with Monetzly)\n\n\nThe AI app landscape is booming—yet, shockingly, 90% of AI applications fail to monetize effectively. Develope"
   },
   {
-    "title": "Why Is Blazor Still Behind Next.js in the Web Development Race? 🚀",
-    "link": "https://dev.to/engbassam_alqadhi_0db9d5/why-is-blazor-still-behind-nextjs-in-the-web-development-race-2hdb",
-    "pubDate": "Sat, 25 Oct 2025 01:38:33 +0000",
+    "title": "Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸",
+    "link": "https://dev.to/member_25c2e834/your-error-handling-is-a-mess-and-its-costing-you--58mp",
+    "pubDate": "Sat, 25 Oct 2025 06:15:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "⚡ First Load Performance\nThe biggest challenge facing Blazor WebAssembly is initial load time:\nBlazor WebAssembly needs to download the full .NET runtime, with bundles reaching 2–3 MB, which significa"
+    "contentSnippet": "GitHub Home\nI still remember the bug that kept me up all night. A payment callback endpoint, when handling a rare, exceptional status code from a third-party payment gateway, had a .catch() that was a"
   },
   {
-    "title": "SafeMigrations: A Rails Gem for Easy Migrations",
-    "link": "https://dev.to/nikom/safemigrations-a-rails-gem-for-easy-migrations-34h4",
-    "pubDate": "Sat, 25 Oct 2025 01:35:55 +0000",
+    "title": "i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions",
+    "link": "https://dev.to/member_3bfe2e68/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-4m7e",
+    "pubDate": "Sat, 25 Oct 2025 06:15:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've spent years working on Rails projects, and migrations have often been a source of frustration. Have you ever had a migration fail because a table or column already existed? Or seen a rollback cau"
+    "contentSnippet": "About Hyperlane Framework\n\n\nHyperlane is a lightweight, high-performance, cross-platform Rust HTTP server framework built on Tokio async runtime.\nPerformance: 324,323 QPS (Keep-Alive on), 51,031 QPS ("
   },
   {
-    "title": "#2 Small Apps Update(CSS)",
-    "link": "https://dev.to/koichi_yoshikawa_dbd33319/2-small-apps-updatecss-411j",
-    "pubDate": "Sat, 25 Oct 2025 00:53:42 +0000",
+    "title": "Security-is-Not-a-Feature-Its-a-Foundation",
+    "link": "https://dev.to/member_ece4a271/security-is-not-a-feature-its-a-foundation-4b7",
+    "pubDate": "Sat, 25 Oct 2025 06:15:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today, I added a few lines of text with different font size and inserted an image into the app which I built yesterday. I want to make it a habit to write code every day --- even if it's just for 10 m"
+    "contentSnippet": "GitHub Home\nAbout ten years into my career, I experienced a security incident that still gives me chills. We were developing an online trading system for a financial client. A young programmer on the "
   },
   {
-    "title": "Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack",
-    "link": "https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm",
-    "pubDate": "Sat, 25 Oct 2025 00:45:40 +0000",
+    "title": "i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions",
+    "link": "https://dev.to/member_083ff294/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-26in",
+    "pubDate": "Sat, 25 Oct 2025 06:15:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction: The Evolution of Analytics Architecture\n\n\nThe modern analytics landscape demands a stack that can handle petabyte-scale data, deliver sub-second query performance, and maintain ACID comp"
+    "contentSnippet": "About Hyperlane Framework\n\n\nHyperlane is a lightweight, high-performance, cross-platform Rust HTTP server framework built on Tokio async runtime.\nPerformance: 324,323 QPS (Keep-Alive on), 51,031 QPS ("
   },
   {
-    "title": "My journey to Go",
-    "link": "https://dev.to/ruxozheng/my-journey-to-go-2ji2",
-    "pubDate": "Sat, 25 Oct 2025 00:39:44 +0000",
+    "title": "Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration",
+    "link": "https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd",
+    "pubDate": "Sat, 25 Oct 2025 06:09:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I'm now starting to look at the Go language seriously, whereas before I just thought it was an \"Indy\" language. In the past month, I've had the chance to work with a team that uses Go, which led me to"
+    "contentSnippet": "Back in the 1960s, when computers were rare and applications even rarer, the term API quietly entered the scene. It wasn't about the web or microservices back then; it was about getting one piece of s"
   },
   {
-    "title": "Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams",
-    "link": "https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f",
-    "pubDate": "Sat, 25 Oct 2025 00:35:46 +0000",
+    "title": "The History of HTTP",
+    "link": "https://dev.to/iarchitsharma/the-history-of-http-32ga",
+    "pubDate": "Sat, 25 Oct 2025 06:06:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the fast-paced world of software development, the ability to collaborate effectively can make or break a project. With teams often spread across different locations, time zones, and even continents"
+    "contentSnippet": "HTTP (HyperText Transfer Protocol) is a protocol used for fetching resources such as HTML documents. Its primary function is to enable a conversation between a client (like a web browser) and a server"
   },
   {
-    "title": "an introduction to Dask",
-    "link": "https://dev.to/sengseng/an-introduction-to-dask-4kgi",
-    "pubDate": "Sat, 25 Oct 2025 00:32:41 +0000",
+    "title": "No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365",
+    "link": "https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-172",
+    "pubDate": "Sat, 25 Oct 2025 06:06:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Dask is a large and useful Python library that is regularly used for parallel and distributed computing. If your Python code is written using a loop structure, it can be parallelized with Dask.\nFirstl"
+    "contentSnippet": "The Booth Vol.23 kicks off with Cody and Neil tossing out mea culpas (and collecting some from the audience) as they catch up on Neil’s suburban migration, hardware store loyalties, binge-worthy shows"
   },
   {
-    "title": "New in BC 2024 Wave 2: Production Scrap Report for Manufacturing Teams",
-    "link": "https://dev.to/jeffreybulanadi/new-in-bc-2024-wave-2-production-scrap-report-for-manufacturing-teams-2h5h",
-    "pubDate": "Sat, 25 Oct 2025 00:19:09 +0000",
+    "title": "S3 aws guide",
+    "link": "https://dev.to/sachin841/s3-aws-guide-45e1",
+    "pubDate": "Sat, 25 Oct 2025 06:06:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Heads up, #msdyn365BC developers and consultants, there’s a new report in town.\nThe Production Scrap report just landed in BC 2024 Wave 2, and it’s a must-have for manufacturing visibility.\nHere’s wha"
+    "contentSnippet": "What is Amazon S3?\n\n\nAmazon Simple Storage Service (S3) is a scalable object storage service provided by AWS. It allows users to store and retrieve any amount of data, such as text files, images, vide"
+  },
+  {
+    "title": "Typst 0.14.0 の内容を早めに深堀り",
+    "link": "https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14",
+    "pubDate": "Fri, 24 Oct 2025 15:10:24 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n本記事では、2025/10/24 にリリースされた Typst 0.14.0 の新機能や変更点を紹介します。\n!\n本記事のタイトルと構成は、前回から引き続き あずんひさんが継続されている「Rust 1.xx を早めに深堀り」シリーズからお借りしています。\n\n\n リリースノート・深堀り記事一覧\n\n\n\nリリース日\nバージョン\n公式リリースノート\n深堀り記事\n\n\n\n\n2024/10/18\n0."
+  },
+  {
+    "title": "TemporalのDurableさを覗く #LayerX_AI_Agent_ブログリレー",
+    "link": "https://zenn.dev/layerx/articles/3985768bda6e5a",
+    "pubDate": "Fri, 24 Oct 2025 12:29:44 GMT",
+    "source": "Zenn",
+    "contentSnippet": "LayerX AI Agent ブログリレー 32 日目の記事です。\nバクラク事業部 @itkq です。Platform Engineering部 SRE チームで仕事をしています。以下の記事が公開されているように、AI Agentの文脈でTemporalをやっていっています。\nhttps://zenn.dev/layerx/articles/b5f6cf6e47221e\nhttps://zenn"
   },
   {
     "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
@@ -75,6 +89,13 @@
     "pubDate": "Fri, 24 Oct 2025 08:30:01 GMT",
     "source": "Zenn",
     "contentSnippet": "NVIDIA DGX Sparkの概要\nNVIDIA DGX SparkをNVIDIA様から貸与いただきました。NVIDIA DGX Sparkは、手のひらサイズでペタFLOPS級性能を持つ「超小型AIスーパーコンピュータ」です。AI用のスーパーコンピュータであるDGXシリーズ（DGX-1→DGX A100→DGX H100など）の系譜を組みながら、手軽にデスクトップで使えるようにした存在です。\n"
+  },
+  {
+    "title": "\"AWS AI Agent ブログ祭り\" 開催！！AI Agent のブログが毎日公開！！",
+    "link": "https://zenn.dev/aws_japan/articles/711a12ee6db8df",
+    "pubDate": "Fri, 24 Oct 2025 04:45:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめまして。AWS JapanでAI/ML Specialist SAをしている近藤 (https://x.com/yakitori_eng)です。\n\n 今日から１ヶ月間毎日AI AgentのブログをAWSメンバーが投稿します！！\nXのハッシュタグ #AWS_AI_AGENT_ブログ祭り でもわいわい盛り上がりましょう！！\n決してLayerXさんやIVRyさんのブログリレー企画のパクリではありま"
   },
   {
     "title": "では素晴らしい提案をしよう。お前もライブラリを作らないか？",
@@ -112,6 +133,13 @@
     "contentSnippet": "今回、Honoに関する問題を報告して、脆弱性として認められたため大まかに情報をまとめてみました。\n\n 3行まとめ\n\n\nHonoのJWT 認証ミドルウェアには aud（Audience）クレームを検する機能がなかったため、脆弱性として報告しました\n上記の脆弱性により、他サービス向けトークンを自分の API が受け入れてしまうリスクがありました。\n修正版は v4.10.2。aud を明示的に検証できる"
   },
   {
+    "title": "モダンな自社開発企業で働く意味を問う: 大阪のしがない受託開発社長からみた今後のWebエンジニアの生存戦略",
+    "link": "https://zenn.dev/mikana0918/articles/dab9caa7f31a3b",
+    "pubDate": "Thu, 23 Oct 2025 18:37:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "まわりを見れば焦っている人もいれば、全く焦っていない人もいたりしますが、受託開発会社でフリーランスエンジニアへの発注と、また自身もフリーランス・もしくは外注先として発注を受けている中で、「エンジニアとして手を動かすだけではこれから先は買い叩かれてしまう」という未来がなんとなくみえていると感じています。今回はなぜそう思うのか、またどうすればいいのかを手を動かすエンジニアを対象読者として提示したいと思"
+  },
+  {
     "title": "【ポケモン×Java】知識編 Scanner#1 〜Scannerを完全攻略 - 基本編 -〜",
     "link": "https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-23T16:53:46.000Z",
@@ -147,39 +175,11 @@
     "contentSnippet": "はじめに\nこんにちは、株式会社アサインでエンジニアをしているうちほり(@showichiro0123)です。\n2025年10月22日にリリースされたVitest 4には、テスト駆動開発やスキーマ駆動開発を加速させる新機能が多数追加されました。中でも私の目を引いたのは、Zodなどのスキーマライブラリと統合できるexpect.schemaMatchingです。\n本記事では、Vitest 4の新機能を概"
   },
   {
-    "title": "AI時代の3層アーキテクチャ：関数型コア・決定的シェル・非決定的エッジ",
-    "link": "https://zenn.dev/loglass/articles/7e40d2a253bfd3",
-    "pubDate": "Thu, 23 Oct 2025 07:35:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに：もしもAIが、あなたの会社の在庫を「-400個」にしたら？\n想像してみてください。あなたが導入した最新のLLM（大規模言語モデル）ベースの需要予測システムが、稼働数日後に暴走を始めたら...。\n在庫管理システムを見ると、異常な発注が実行され、DB上の在庫が「-400個」というあり得ない数値になっています。慌てて原因を調査すると、LLMが提案した発注数を、検証なしにそのままデータベースに書"
-  },
-  {
-    "title": "Hono CLI 爆誕",
-    "link": "https://zenn.dev/yusukebe/articles/ff69c13ccafb28",
-    "pubDate": "Thu, 23 Oct 2025 06:59:08 GMT",
-    "source": "Zenn",
-    "contentSnippet": "これまでHonoは数々の新しいことを提供してきました。正規表現を活かしたルーター、サーバーサイドの軽量JSX、TypeScriptの型によるRPC、Web Standardを使ったマルチランタイム対応などなど。アイデアと実装力で世界と戦って来たわけです。\n本日私達が紹介するのは「Hono CLI」です。\nHono CLIは全く新しいコンセプトのコマンドラインインターフェースです。\n\n\ncreate"
-  },
-  {
-    "title": "Claude Code導入3ヶ月後の社内アンケートから分かったこと",
-    "link": "https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07",
-    "pubDate": "Thu, 23 Oct 2025 03:15:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "背景と目的\nClaude Code が ver.1.0.0 になってから 5 ヶ月、弊社が全エンジニアに展開してから 3 ヶ月が経過しました。\nその中で生産性が上がった人とそうでない人が明確に分かれていたり、新たな大変さが生まれてフラストレーションも多く抱えています。\nWeb 開発の現場で LLM 開発を導入することで何に困るのか明確にして次の施策につなげたいと考え、定性・定量の両面からチーム全体"
-  },
-  {
     "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください",
     "link": "https://qiita.com/TooMe/items/873540da84567733d16b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-23T02:56:26.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGitHub Copilotを使っている開発者の皆さん、.github/copilot-instructions.mdというファイルを作成していますか？\nこのファイル1つで、Copilotをあなたのプロジェクト専用にカスタマイズし、もっと賢く、便利に使いこなすこ..."
-  },
-  {
-    "title": "Gemini CLI でセキュアで堅牢な開発をするためのプラクティス集",
-    "link": "https://zenn.dev/kimitsu/articles/secure-and-robust-development-with-gemini-cli",
-    "pubDate": "Thu, 23 Oct 2025 01:52:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "先日、クラウドネイティブ × Gemini CLIというイベントで『Gemini CLI でもセキュアで堅牢な開発をしたい！』というタイトルで登壇させていただきました。\n時間都合で端折ってしまった部分が多かったため、本記事で行間を埋めつつ最新の状況をお伝えします。\n登壇の内容は全て記載するため、イベントに参加されなかった方も読んでいただければと思います。\n\n はじめに\n本記事は Gemini CL"
   },
   {
     "title": "API開発を効率化するApidogの使い方とPostmanとの違い",

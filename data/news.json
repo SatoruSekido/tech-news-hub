@@ -1,73 +1,87 @@
 [
   {
-    "title": "I Built A Free Developer Toolkit with 20+ Developer Tools",
-    "link": "https://dev.to/technical_leap_53b6f15370/i-built-a-free-developer-toolkit-with-20-developer-tools-1k9a",
-    "pubDate": "Sun, 26 Oct 2025 06:26:12 +0000",
+    "title": "Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart",
+    "link": "https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fl0",
+    "pubDate": "Sun, 26 Oct 2025 12:39:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey DEV 👋\nfreedevtoolkit.com — a free, fast-loading collection of developer tools built to save time and cut through the clutter.\nI’d love your feedback, bug reports, or ideas for new tools. If you f"
+    "contentSnippet": "GitHub Home\nAs developers, we all cherish that \"flow state.\" When you're fully focused, code flows from your fingertips, and with every save, the service in the terminal automatically restarts. A quic"
   },
   {
-    "title": "How Software Architects Choose the Right Technology Stack",
-    "link": "https://dev.to/adityathearchitect/how-software-architects-choose-the-right-technology-stack-54i1",
-    "pubDate": "Sun, 26 Oct 2025 06:23:13 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/hamidrazadev/-4mao",
+    "pubDate": "Sun, 26 Oct 2025 12:37:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🌟 The Moment Every Architect Faces\nYou’ve just been promoted to Solution Architect at a large MNC.\n“We’re planning a new internal platform. Pick the right stack — your call.”\nYou nod confidently but "
+    "contentSnippet": "🚀 Meet the NextPWA Starter: Your Shortcut to Building Modern Web Apps\nMuhammad Hamid Raza ・ Oct 26\n#pwa\n        #pwabuilder\n        #nextjs\n        #productivity"
   },
   {
-    "title": "Unlocking Developer Revenue: Dual Monetization Strategies for LLM Apps with Monetzly",
-    "link": "https://dev.to/monetzly/unlocking-developer-revenue-dual-monetization-strategies-for-llm-apps-with-monetzly-4oep",
-    "pubDate": "Sun, 26 Oct 2025 06:16:42 +0000",
+    "title": "Addressing the Need for Orchestration Layers Beyond MCP and LLMs in Building Reliable AI Agents",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/addressing-the-need-for-orchestration-layers-beyond-mcp-and-llms-in-building-reliable-ai-agents-5gh8",
+    "pubDate": "Sun, 26 Oct 2025 12:33:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When Ads Become Helpful Suggestions Instead of Interruptions\n\n\nAs developers, we’ve all felt the pressure to monetize our applications effectively while ensuring a seamless user experience. Enter Mone"
+    "contentSnippet": "TL;DR\n\n\nReliable AI agents require orchestration layers that coordinate prompts, tools, memory, evaluation, and observability across providers—not just an LLM plus Model Context Protocol (MCP). Teams "
   },
   {
-    "title": "Build Your First Movie Recommendation Engine in Python",
-    "link": "https://dev.to/saint2706/build-your-first-movie-recommendation-engine-in-python-5585",
-    "pubDate": "Sun, 26 Oct 2025 06:15:52 +0000",
+    "title": "The Classic WordPress Template Hierarchy — The Map Behind Every Them",
+    "link": "https://dev.to/muhammadmedhat/the-classic-wordpress-template-hierarchy-the-map-behind-every-them-3pbj",
+    "pubDate": "Sun, 26 Oct 2025 12:32:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever wonder how Netflix or Spotify seems to know exactly what you want to watch or listen to next? It's not magic, it's the power of recommendation systems. In this post, we'll pull back the curtain a"
+    "contentSnippet": "The Classic WordPress Template Hierarchy — Explained Like a Map\n\n\nWhen you open a page on a WordPress site, you might think the system just “loads the right file.”\nTemplate Hierarchy.\nThis hierarchy i"
   },
   {
-    "title": "14 AI-Powered Low-Code Platforms on GitHub Worth Watching",
-    "link": "https://dev.to/nocobase/14-ai-powered-low-code-platforms-on-github-worth-watching-3cim",
-    "pubDate": "Sun, 26 Oct 2025 06:15:29 +0000",
+    "title": "Anyone Can Commit Code as You on GitHub (Here's How to Stop Them)",
+    "link": "https://dev.to/nickytonline/anyone-can-commit-code-as-you-on-github-heres-how-to-stop-them-2in7",
+    "pubDate": "Sun, 26 Oct 2025 12:31:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Originally published athttps://www.nocobase.com/en/blog/14-ai-low-code-platforms-github\nRecently, while browsing the r/AI_Agents subreddit on Reddit, I came across a question that felt surprisingly re"
+    "contentSnippet": "I've been signing my Git commits since 2020, and it's one of those security practices that seems optional until you realize how easy it is for someone to impersonate you. GitHub commit signing uses GP"
   },
   {
-    "title": "Untitled",
-    "link": "https://dev.to/saba_khamis_3a3156e541302/untitled-aab",
-    "pubDate": "Sun, 26 Oct 2025 06:14:38 +0000",
+    "title": "Turning emotional struggles into “bug reports” — my side project, Life.exe",
+    "link": "https://dev.to/soulinmind_labs_b17962211/turning-emotional-struggles-into-bug-reports-my-side-project-lifeexe-3e3g",
+    "pubDate": "Sun, 26 Oct 2025 12:31:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Check out this Pen I made!"
+    "contentSnippet": "Hey folks 👋\nI’ve been working on a small web app called Life.exe — it turns emotional struggles into playful “bug reports.”\nInstead of journaling or ranting, you can write a one-liner like:\nError: Ho"
   },
   {
-    "title": "Check out the guide on - Forget Departmental Stores; Superstores Are Leading the Way",
-    "link": "https://dev.to/dipti_moryani_9137d0a2e44/check-out-the-guide-on-forget-departmental-stores-superstores-are-leading-the-way-4j85",
-    "pubDate": "Sun, 26 Oct 2025 06:13:59 +0000",
+    "title": "Helloween AI chat agent",
+    "link": "https://dev.to/rogeriorioli/helloween-ai-chat-agent-1o8j",
+    "pubDate": "Sun, 26 Oct 2025 12:31:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Forget Departmental Stores; Superstores Are Leading the Way\nDipti Moryani ・ Oct 26"
+    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, Perfect Landing\nHello Chat is an interactive AI-powered chat interface with a spooky Halloween theme. I created a modern chat applicati"
   },
   {
-    "title": "Django REST Framework Views Decoded: Choosing Between FBVs, APIView, Generics, and ViewSets",
-    "link": "https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-rest-framework-views-decoded-choosing-between-fbvs-apiview-generics-and-viewsets-32i9",
-    "pubDate": "Sun, 26 Oct 2025 06:12:53 +0000",
+    "title": "Flutter Clean Architecture: Build Scalable Apps Step-by-Step",
+    "link": "https://dev.to/djamware_tutorial_eba1a61/flutter-clean-architecture-build-scalable-apps-step-by-step-3bhb",
+    "pubDate": "Sun, 26 Oct 2025 12:30:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Stop Copy-Pasting DRF Code: Here's How to Choose the Right View\n\n\nYou're building a Django REST API. You search \"DRF list view\" and find five different ways to do the same thing. Should you use a func"
+    "contentSnippet": "Learn how to build a modular, testable Flutter app using Clean Architecture principles.\nYou'll also learn:\nHow to organize folders and dependencies\nImplementing repositories and use cases\nWriting test"
   },
   {
-    "title": "Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault",
-    "link": "https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-432o",
-    "pubDate": "Sun, 26 Oct 2025 06:12:31 +0000",
+    "title": "5 Ways to Detect AI Agent Hallucinations",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/5-ways-to-detect-ai-agent-hallucinations-3hb8",
+    "pubDate": "Sun, 26 Oct 2025 12:27:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nEvery programmer has had that moment. You join a new project, or you open up a project you wrote yourself six months ago, and then you feel it—that familiar, suffocating chaos. 🌪️ The uti"
+    "contentSnippet": "TL;DR\n\n\nAI agent hallucinations—when models generate plausible but incorrect information—threaten production reliability and user trust. This article outlines five detection methods: implementing eval"
   },
   {
-    "title": "8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu",
-    "link": "https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-1cga",
-    "pubDate": "Sun, 26 Oct 2025 06:08:55 +0000",
+    "title": "5 lines of code = OTP login system in Telegram 🤯",
+    "link": "https://dev.to/jahongir2007/5-lines-of-code-otp-login-system-in-telegram-p82",
+    "pubDate": "Sun, 26 Oct 2025 12:25:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Masashi Hamauzu’s music lives in vibrant, meticulously voiced chords—especially a “Sus Chord Slash Chord” that stacks sus2 over sus4 for a lush, floating vibe. This quick deep-dive breaks down how to "
+    "contentSnippet": "Hey devs 👋\nLet's make OTP login system in just 5 lines of codes (and it's possible bro😱👇). There's legendary codes:\nconst AuthVerify = require('auth-verify');\nconst auth = new AuthVerify({storeToke"
+  },
+  {
+    "title": "なんとなく聞き流しがちな「圧縮」をGoの実装から理解する（可逆圧縮編）",
+    "link": "https://zenn.dev/yuta_kakiki/articles/13f54dd123e0d8",
+    "pubDate": "Sun, 26 Oct 2025 03:40:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「データを圧縮すれば小さいサイズでレスポンスを返せて速くなるぞ」(唐突)\n\nそこで大抵、「まあそうだよね」と答えられるはずです。これは非エンジニアだとしてもなんとなくそういうふうに思えるはずです。\n.....でも、よく考えたら、データを「圧縮」「小さくする」って、実際何をしてるんだろうか。\n\n「よし、概念的に調べるぞ、ソースコードも読むぞ」ということで、RFCをはじめ色々調べてみたのでま"
+  },
+  {
+    "title": "バイナリ編集プラグインの歴史と新世代のバイナリ編集プラグイン ddx.vim",
+    "link": "https://zenn.dev/shougo/articles/ddx-vim-beta",
+    "pubDate": "Sun, 26 Oct 2025 01:20:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "始めに\nddt.vim の開発が一通り終了し、次に作成するプラグインについて検討しました。\n自分が欲しかったプラグインをどんどん作ってきた私ですが、そろそろ最後の本丸であるバイナリ編集プラグインの開発にとりかかったほうがよいのではないかと考えたのです。\nなぜならばバイナリ編集というのはテキストエディタに出会う前、私の原点でもあったからです。\n私はプログラミングを学び、パソコンの全てを知りたいと思っ"
   },
   {
     "title": "【しくじり】ハッカソンで大苦戦して分かったAI駆動開発の実践的ハウツー",
@@ -98,18 +112,11 @@
     "contentSnippet": "AWS FTRとは\nAWS FTR（Foundational Technical Review）とは、AWSパートナー企業がAWS上でサービスを提供する際、その環境がAWSのベストプラクティスに沿って設計・構築・運用されているかを評価するプログラムです。レビューを通過する..."
   },
   {
-    "title": "Blog series Google Cloud セキュアな土台作り: 第8回",
-    "link": "https://zenn.dev/densan_techblog/articles/09c41af2d99651",
-    "pubDate": "Sat, 25 Oct 2025 04:58:48 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n2025.10.26 8-2,8-3が歯抜けになっていた状態を復旧いたしました。\n\n\n 第8回：最後の砦！データ保護戦略（暗号化とVPC-SC）\n\n はじめに\nお疲れ様です。SKYこと関谷です。\n前回の第7回では、ログの集中管理と監視アラートについて学びました。\nCloud Logging と Cloud Monitoring で重要な事象を自動検知する仕組みを構築し、「何が起きているか把握す"
-  },
-  {
-    "title": "[Python]Hono CLIを参考にCLI型コーディングエージェントでドキュメント参照できるようにした(Click)",
-    "link": "https://zenn.dev/tkithrta/articles/eae041b95f1acb",
-    "pubDate": "Sat, 25 Oct 2025 04:51:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n最近XでこのPostを見ました。\nhttps://x.com/yusukebe/status/1981597688736166000\nなるほど。\nやっていきます。\n今回実装するCLI型コーディングエージェントShaftはこちら。\nhttps://gitlab.com/tkithrta/shaft\n\n Hono CLI Docs\nHono CLI v0.1.0のDocsコマンドはどうなって"
+    "title": "ターミナルとシェルの違いについて、改めてまとめ直してみた",
+    "link": "https://qiita.com/kazutorahattori/items/01f7ba96554a483aefd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T07:48:58.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nターミナルとシェルの違いについて、理解が不十分だったところがあったので、もう一度まとめ直したいと思います。\n\nターミナルとは？\nターミナルは ユーザーが文字を入力・出力するキーボード(入力)、ディスプレイ(出力)などのハードウェアのことを指す。\nターミナルをソフ..."
   },
   {
     "title": "Kaggle Notebook で始める CUDAプログラミング入門",
@@ -119,6 +126,13 @@
     "contentSnippet": "はじめに\nこんにちは！kaerururu です。\n普段、私は PyTorch や cuML といったライブラリを通じて、実装の詳細を意識することなくCUDA の恩恵を受けています。CUDA プログラミングができるようになるともっと速いコードが書けそうです。\nこの記事では、NVIDIA公式のドキュメントなどを頼りにCUDAプログラミングを学んだ記録を共有します。C++での実装から、Pythonのラッ"
   },
   {
+    "title": "自称調整さんを超える日程調整アプリをAIと作ってみたけど、巨大すぎる◯◯の壁が超えられない",
+    "link": "https://zenn.dev/yasaidev/articles/2cb87a5a2d072e",
+    "pubDate": "Sat, 25 Oct 2025 02:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "なにをつくったのか - 『いい幹事さん』すぐに使える日程調整アプリ\nhttps://e-kanji-san.com\nとにかく『調整さん』の使いごこちはそのまま、更に研ぎ澄ましたアプリです。\n動作が気に入ったら乗り換えご検討ください。\nhttps://x.com/YasaiDev/status/1977605685979619475\n!\nちなみにクソ使いやすい傾斜計算アプリも付属しています。\n\nht"
+  },
+  {
     "title": "ここが変だよLLMコーディングエージェント(Codex)",
     "link": "https://zenn.dev/takeshy/articles/20b8b2ab499b6f",
     "pubDate": "Sat, 25 Oct 2025 00:51:36 GMT",
@@ -126,18 +140,11 @@
     "contentSnippet": "はじめに\n最近LLMコーディングエージェント(主にCodex)tipsを書きましたが、やっぱりLLMコーディングエージェントは頼りにしすぎてはいけない、重要なところは自分で書こうという思いが強まってきています。\nどういうとこが変なのかをまとめることで、なぜそう感じるのかを説明したいと思います。\n\n 1. 引数のバリエーションが無駄に多い\n一箇所からしか呼ばれていないメソッドで現状の呼び出し箇所は引"
   },
   {
-    "title": "React学習ログ No.13",
-    "link": "https://qiita.com/maedaHARUYA/items/e964eb78681c7050ccd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T23:37:37.000Z",
+    "title": "うわああああ！MacでVSCodeが小さくなっちゃった！しかもショートカットも効かない！誰か助k...の解決方法",
+    "link": "https://qiita.com/yoyoh_/items/ce0142050cfb55fb6f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T23:28:10.000Z",
     "source": "Qiita",
-    "contentSnippet": "React(JavaScriptメモ)：分割代入とスプレッド構文\n\n1. 分割代入\n\n目的\n配列やオブジェクトから必要な値を個別の変数として抽出\nコードを簡潔に\n\n応用テクニック\n\n項目\n構文\n詳細\n\nデフォルト値\n{ key = defaultValue } ..."
-  },
-  {
-    "title": "今日のQiitaトレンド記事をポッドキャストで聴こう！ 2025/10/25",
-    "link": "https://qiita.com/ennagara128/items/36c0bf0a091fc00722f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T22:03:13.000Z",
-    "source": "Qiita",
-    "contentSnippet": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nGitHub Copilotを使っている人は全..."
+    "contentSnippet": "悲劇は突然に\nうわああああ！\nなんにも見えねええええ！\n\nどうしてだよおおおお！\n\n拡大ショートカットで簡単に解決するはずだったのに\nみなさんもうっかりMacのVSCodeで縮小のショートカットCommand + -に当たってしまい、VSCodeの画面が以下のように小さく..."
   },
   {
     "title": "【脱・ランサムウェア被害】中小企業向けSaaSは「サーバーレス×APIファースト」で防御力を劇的に高める",
@@ -168,11 +175,18 @@
     "contentSnippet": "先月、東京AI祭 ハッカソンで、スマホでバイブコーディングして、賞金20万円を獲得しました。\n何をどんな仕組みで作ったのか実践知を共有したいなと思います。\n\n東京AI祭 ハッカソンは、CoreWeaveさんが公式サポーターで、GMOさんのサポートもあったようでした。Weights & Biasesについて気軽に質問したり、H100などのGPUを自由に使い倒すことができる環境でファインチューニングし"
   },
   {
-    "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
-    "link": "https://zenn.dev/karaage0703/articles/985ddbd8fa15d3",
-    "pubDate": "Fri, 24 Oct 2025 08:30:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "NVIDIA DGX Sparkの概要\nNVIDIA DGX SparkをNVIDIA様から貸与いただきました。NVIDIA DGX Sparkは、手のひらサイズでペタFLOPS級性能を持つ「超小型AIスーパーコンピュータ」です。AI用のスーパーコンピュータであるDGXシリーズ（DGX-1→DGX A100→DGX H100など）の系譜を組みながら、手軽にデスクトップで使えるようにした存在です。\n"
+    "title": "iOS 26のSafariで100vh的なスタイルを上手く表示するためのCSSハック",
+    "link": "https://qiita.com/kskwtnk/items/df4d6b15f6df7026cfeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T12:00:26.000Z",
+    "source": "Qiita",
+    "contentSnippet": "問題\niOS 26のSafariでは、上部のステータスバーと下部のタブバーが透過してしまい、背景が透けて見える問題が発生しています。\n次の画像は、画面いっぱいにグレーの背景を敷いたときのSafariとArcでの見え方の差です。\n\nSafari\nArc\n\n..."
+  },
+  {
+    "title": "個人的GitHub Copilotの使い方メモ",
+    "link": "https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T10:42:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点）\n基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！..."
   },
   {
     "title": "Microsoft Agent Framework開発入門",
@@ -194,20 +208,6 @@
     "pubDate": "2025-10-23T16:15:18.000Z",
     "source": "Qiita",
     "contentSnippet": "はい、miku_JK_Jbです\n今回は自作OSをセキュアブートに対応させたり、ブートローダーの機能を大幅に強化した作業を紹介していくよ。\nまた久しぶりの自作OS関連のブログ更新だな笑\nまあ、開発に時間がめっちゃかかるからしょうがないか\nまずはセキュアブートとは何なのかについ..."
-  },
-  {
-    "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください",
-    "link": "https://qiita.com/TooMe/items/873540da84567733d16b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T02:56:26.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGitHub Copilotを使っている開発者の皆さん、.github/copilot-instructions.mdというファイルを作成していますか？\nこのファイル1つで、Copilotをあなたのプロジェクト専用にカスタマイズし、もっと賢く、便利に使いこなすこ..."
-  },
-  {
-    "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
-    "link": "https://qiita.com/Zucky2022/items/28af0394b86f64b76321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T23:36:28.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nAPI開発において、仕様書の管理、テスト実行、モックサーバーの構築は重要な作業です。\n私は長年Postmanを使用してきましたが、以下の課題を感じていました。\n\nPostmanで感じていた課題\n\nSwaggerとの二重管理: API仕様書をSwaggerで管理..."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

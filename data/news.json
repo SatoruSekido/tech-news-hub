@@ -1,73 +1,94 @@
 [
   {
-    "title": "Your-Dev-Server-is-Lying-to-You-The-Critical-Difference-Between-Hot-Reload-and-Hot-Restart",
-    "link": "https://dev.to/member_875c0744/your-dev-server-is-lying-to-you-the-critical-difference-between-hot-reload-and-hot-restart-5fl0",
-    "pubDate": "Sun, 26 Oct 2025 12:39:42 +0000",
+    "title": "We Built a Self-Hosted AI Meeting Note Taker Because Every Cloud Solution Failed Our Privacy Requirements",
+    "link": "https://dev.to/zackriya/we-built-a-self-hosted-ai-meeting-note-taker-because-every-cloud-solution-failed-our-privacy-1eml",
+    "pubDate": "Sun, 26 Oct 2025 18:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nAs developers, we all cherish that \"flow state.\" When you're fully focused, code flows from your fingertips, and with every save, the service in the terminal automatically restarts. A quic"
+    "contentSnippet": "TL;DR - Quick Answer\n\n\nWhat is Meetily? A self-hosted, privacy-first AI meeting assistant built with Rust that runs entirely on your device. Unlike Otter.ai, Fireflies, or Granola, your sensitive conv"
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/hamidrazadev/-4mao",
-    "pubDate": "Sun, 26 Oct 2025 12:37:44 +0000",
+    "title": "Part 1: Understanding AWS Identity and Access Management (IAM)",
+    "link": "https://dev.to/ciberconscientes/part-1-understanding-aws-identity-and-access-management-iam-2826",
+    "pubDate": "Sun, 26 Oct 2025 18:23:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Meet the NextPWA Starter: Your Shortcut to Building Modern Web Apps\nMuhammad Hamid Raza ・ Oct 26\n#pwa\n        #pwabuilder\n        #nextjs\n        #productivity"
+    "contentSnippet": "Identity and Access Management (IAM) is one of the most essential services in the AWS ecosystem. It handles authentication (who you are),  authorization (what you’re allowed to do) across your AWS env"
   },
   {
-    "title": "Addressing the Need for Orchestration Layers Beyond MCP and LLMs in Building Reliable AI Agents",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/addressing-the-need-for-orchestration-layers-beyond-mcp-and-llms-in-building-reliable-ai-agents-5gh8",
-    "pubDate": "Sun, 26 Oct 2025 12:33:12 +0000",
+    "title": "What Testing a Real App Taught Me About Building One",
+    "link": "https://dev.to/divyansh_kumar_1/what-testing-a-real-app-taught-me-about-building-one-2ifm",
+    "pubDate": "Sun, 26 Oct 2025 18:15:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nReliable AI agents require orchestration layers that coordinate prompts, tools, memory, evaluation, and observability across providers—not just an LLM plus Model Context Protocol (MCP). Teams "
+    "contentSnippet": "When I joined Stapubox as a Backend + QA Intern, I thought testing would be the “less exciting” part of the journey.\nWithin the first week, I realized testing isn’t about clicking buttons or breaking "
   },
   {
-    "title": "The Classic WordPress Template Hierarchy — The Map Behind Every Them",
-    "link": "https://dev.to/muhammadmedhat/the-classic-wordpress-template-hierarchy-the-map-behind-every-them-3pbj",
-    "pubDate": "Sun, 26 Oct 2025 12:32:34 +0000",
+    "title": "6 months CSE - The System Suite",
+    "link": "https://dev.to/cz_writes/6-months-cse-the-system-suite-3l23",
+    "pubDate": "Sun, 26 Oct 2025 18:14:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Classic WordPress Template Hierarchy — Explained Like a Map\n\n\nWhen you open a page on a WordPress site, you might think the system just “loads the right file.”\nTemplate Hierarchy.\nThis hierarchy i"
+    "contentSnippet": "Hey, as mentioned in the previous post, we are gunning at project-based CSE learning.  \nThe list of projects here are curated with the intention of depth in breadth. The breadth aspect is the number o"
   },
   {
-    "title": "Anyone Can Commit Code as You on GitHub (Here's How to Stop Them)",
-    "link": "https://dev.to/nickytonline/anyone-can-commit-code-as-you-on-github-heres-how-to-stop-them-2in7",
-    "pubDate": "Sun, 26 Oct 2025 12:31:59 +0000",
+    "title": "🚀 Just Launched — My Personal Cloud & DevOps Portfolio! 🌩️",
+    "link": "https://dev.to/swapi123/just-launched-my-personal-cloud-devops-portfolio-20ni",
+    "pubDate": "Sun, 26 Oct 2025 18:14:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've been signing my Git commits since 2020, and it's one of those security practices that seems optional until you realize how easy it is for someone to impersonate you. GitHub commit signing uses GP"
+    "contentSnippet": "After months of building, debugging, and fine-tuning…\n🔗 Live Now: https://swapnil.mohite.in/\n💡 Tech Behind the Build:\n📂 What You’ll Find Inside:\n💬 I’d love your thoughts!\n\n\n\n  \n  \n  DevOps #Cloud "
   },
   {
-    "title": "Turning emotional struggles into “bug reports” — my side project, Life.exe",
-    "link": "https://dev.to/soulinmind_labs_b17962211/turning-emotional-struggles-into-bug-reports-my-side-project-lifeexe-3e3g",
-    "pubDate": "Sun, 26 Oct 2025 12:31:49 +0000",
+    "title": "NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints",
+    "link": "https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej",
+    "pubDate": "Sun, 26 Oct 2025 18:10:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey folks 👋\nI’ve been working on a small web app called Life.exe — it turns emotional struggles into playful “bug reports.”\nInstead of journaling or ranting, you can write a one-liner like:\nError: Ho"
+    "contentSnippet": "NaViL: A Smarter AI That Learns to See and Talk Together\n\n\nEver wondered how a robot could look at a photo and describe it as naturally as a friend? Scientists have discovered a fresh approach called "
   },
   {
-    "title": "Helloween AI chat agent",
-    "link": "https://dev.to/rogeriorioli/helloween-ai-chat-agent-1o8j",
-    "pubDate": "Sun, 26 Oct 2025 12:31:01 +0000",
+    "title": "How to Write Clean DTO & Entity Mappers in Java (with Spring Boot)",
+    "link": "https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6",
+    "pubDate": "Sun, 26 Oct 2025 18:08:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, Perfect Landing\nHello Chat is an interactive AI-powered chat interface with a spooky Halloween theme. I created a modern chat applicati"
+    "contentSnippet": "How to Write Clean DTO & Entity Mappers in Java (with Spring Boot)\n\n\n\n  \n  \n  Introduction\n\n\nWhen building a Spring Boot application, one of the most common patterns you’ll encounter is mapping betwee"
   },
   {
-    "title": "Flutter Clean Architecture: Build Scalable Apps Step-by-Step",
-    "link": "https://dev.to/djamware_tutorial_eba1a61/flutter-clean-architecture-build-scalable-apps-step-by-step-3bhb",
-    "pubDate": "Sun, 26 Oct 2025 12:30:06 +0000",
+    "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
+    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-32dj",
+    "pubDate": "Sun, 26 Oct 2025 18:07:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Learn how to build a modular, testable Flutter app using Clean Architecture principles.\nYou'll also learn:\nHow to organize folders and dependencies\nImplementing repositories and use cases\nWriting test"
+    "contentSnippet": "The Productivity System Jeff Su taught to over 6,600 Googlers is built around a simple 4-step “CORE” workflow:\n\n• Capture everything immediately\n\n• Organize with minimal friction\n\n• Review during sche"
   },
   {
-    "title": "5 Ways to Detect AI Agent Hallucinations",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/5-ways-to-detect-ai-agent-hallucinations-3hb8",
-    "pubDate": "Sun, 26 Oct 2025 12:27:40 +0000",
+    "title": "Visualize Tailscale Network Flow Logs with New Relic",
+    "link": "https://dev.to/pnvnd/visualize-tailscale-network-flow-logs-with-new-relic-1mfg",
+    "pubDate": "Sun, 26 Oct 2025 18:06:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nAI agent hallucinations—when models generate plausible but incorrect information—threaten production reliability and user trust. This article outlines five detection methods: implementing eval"
+    "contentSnippet": "Introduction\n\n\nDid you know that Tailscale network flow logs can be visualized in New Relic? Take a look at my dashboard:\n\nTo get started, you'll need to have Tailscale Enterprise, as this is the only"
   },
   {
-    "title": "5 lines of code = OTP login system in Telegram 🤯",
-    "link": "https://dev.to/jahongir2007/5-lines-of-code-otp-login-system-in-telegram-p82",
-    "pubDate": "Sun, 26 Oct 2025 12:25:58 +0000",
+    "title": "Why New Businesses Should Build Their Websites with Next.js",
+    "link": "https://dev.to/shoyayeb/why-new-businesses-should-build-their-websites-with-nextjs-4ek4",
+    "pubDate": "Sun, 26 Oct 2025 18:05:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey devs 👋\nLet's make OTP login system in just 5 lines of codes (and it's possible bro😱👇). There's legendary codes:\nconst AuthVerify = require('auth-verify');\nconst auth = new AuthVerify({storeToke"
+    "contentSnippet": "In today’s digital world, your website isn’t just your online presence — it’s your growth engine. Whether you’re a startup, freelancer, or growing brand, building your site on the right framework can "
+  },
+  {
+    "title": "Apple、「Swift SDK for Android」プレビュー公開。Swift言語でAndroid対応アプリを開発",
+    "link": "https://www.publickey1.jp/blog/25/appleswift_sdk_for_androidswiftandroid.html",
+    "pubDate": "2025-10-26T15:49:40.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Appleは、Swift言語でAndroid対応アプリケーションを開発するための開発キットである「Swift SDK for Android」プレビューリリース版を公開しました。 Announcing the first preview releases of Swift for Android, enabling you to build Android business logic with "
+  },
+  {
+    "title": "Rails 8.1正式リリース。長時間かかるタスクの一時停止と再開やMarkdownレンダリングなど新機能",
+    "link": "https://www.publickey1.jp/blog/25/rails_81markdown.html",
+    "pubDate": "2025-10-26T15:46:41.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Rubyを用いたWebアプリケーションフレームワーク「Ruby on Rails」の最新バージョン「Ruby on Rails 8.1」（以下、Rails 8.1）の正式版がリリースされました。 Rails 8.1 has been released! It includes job continuations, structured events, local CI, registry-free"
+  },
+  {
+    "title": "ソフトウェアエンジニアはいかにしてAIを真に愛するに 至ったか - コードを書く人から設計意図を定義する人へ -",
+    "link": "https://zenn.dev/hidenorigoto/books/ba347b4e77cae0",
+    "pubDate": "Sun, 26 Oct 2025 04:27:06 GMT",
+    "source": "Zenn",
+    "contentSnippet": "ソフトウェアエンジニアリングの未来に対する考察"
   },
   {
     "title": "なんとなく聞き流しがちな「圧縮」をGoの実装から理解する（可逆圧縮編）",
@@ -168,13 +189,6 @@
     "contentSnippet": "この記事の目的\nClaude Codeでvibe codingをしていたときにknipを併用したら体験がとても良かったのでシェア\nknipを使っている人が一人でも増えたら嬉しいです。\n\n knipとは\n\nTypescriptプロジェクト用のデッドコード検知ツール\n\n未使用のファイル/関数/exportをいい感じに削除してくれる\n未使用のcss assetsや不要なpackage.jsonのライブラ"
   },
   {
-    "title": "スマホでバイブコーディングする技術",
-    "link": "https://zenn.dev/tsuvic/articles/4a866f40142d8b",
-    "pubDate": "Fri, 24 Oct 2025 13:23:27 GMT",
-    "source": "Zenn",
-    "contentSnippet": "先月、東京AI祭 ハッカソンで、スマホでバイブコーディングして、賞金20万円を獲得しました。\n何をどんな仕組みで作ったのか実践知を共有したいなと思います。\n\n東京AI祭 ハッカソンは、CoreWeaveさんが公式サポーターで、GMOさんのサポートもあったようでした。Weights & Biasesについて気軽に質問したり、H100などのGPUを自由に使い倒すことができる環境でファインチューニングし"
-  },
-  {
     "title": "iOS 26のSafariで100vh的なスタイルを上手く表示するためのCSSハック",
     "link": "https://qiita.com/kskwtnk/items/df4d6b15f6df7026cfeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-24T12:00:26.000Z",
@@ -264,19 +278,5 @@
     "pubDate": "2025-10-14T16:52:43.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Servicesは、エンタープライズ向けのAIエージェントサービス「Amazon Quick Suite」の提供開始を発表しました（日本語公式ブログ）。 社内外のデータソースと接続可能 Amazon Quick Suiteは、Amazon RedshiftやAmazon S3などのAWS上のデータソースに加えて、Google Drive、OneDrive、SharePoint"
-  },
-  {
-    "title": "Python 3.14登場、フリースレッド版正式サポート。実験的JITコンパイラも公式バイナリで利用可能に",
-    "link": "https://www.publickey1.jp/blog/25/python_314jit.html",
-    "pubDate": "2025-10-14T13:37:23.000Z",
-    "source": "Publickey",
-    "contentSnippet": "スクリプト言語Pythonの最新版となる「Python 3.14」正式版が公開されました。 Python 3.14での大きな新機能はフリースレッド版の正式サポートと公式バイナリでの実験的JITコンパイラ導入でしょう。 フリースレッド版Pythonの正式サポート Pythonは2023年8月、グローバルインタプリタロック（GIL）を解消し、マルチスレッド処理を高速化する方向で開発を進めていくという方"
-  },
-  {
-    "title": "テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど",
-    "link": "https://www.publickey1.jp/blog/25/playwrightai.html",
-    "pubDate": "2025-10-13T15:42:38.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトが主導して開発しているオープンソースのテスト自動化フレームワーク「Playwright」の新バージョン「Playwright 1.56」がリリースされました。 Playwrightはデスクトップ向けのWebアプリケーションやモバイル向けのWebアプリケーションのテスト自動化が可能で、Chromium、WebKit、Firefoxなどの主要なモダンブラウザのエンジンのヘッドレス、ヘッド"
   }
 ]

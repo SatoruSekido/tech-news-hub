@@ -1,73 +1,94 @@
 [
   {
-    "title": "Εισαγωγή στο Clean Architecture",
-    "link": "https://dev.to/__b63657/eisagoge-sto-clean-architecture-1d36",
-    "pubDate": "Sat, 25 Oct 2025 18:30:13 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Κεφάλαιο 1: Εισαγωγή στο Clean Architecture\n\n\nΘα προσπαθήσω στο παρακάτω άρθρο να περιγράψω τι είναι το Clean Architecture και πότε και γιατί κάποιος θα ήθελε να το χρησιμοποιήσει για να στήσει ένα so"
-  },
-  {
-    "title": "🧑🏻‍🚀My Hacktoberfest 2025 Journey: From Bug Fixes to Full-Stack Features",
-    "link": "https://dev.to/rishabhrawat05/my-hacktoberfest-2025-journey-from-bug-fixes-to-full-stack-features-2261",
-    "pubDate": "Sat, 25 Oct 2025 18:21:42 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "October 2025 marked my active participation in Hacktoberfest, where I contributed to 4 open-source projects spanning Java demonstrations, full-stack web applications, and interactive games. This artic"
-  },
-  {
-    "title": "Why Your Authentication Architecture Is Your Biggest Security Blind Spot",
-    "link": "https://dev.to/abraham_arellanotavara_7/why-your-authentication-architecture-is-your-biggest-security-blind-spot-2b3",
-    "pubDate": "Sat, 25 Oct 2025 18:20:56 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Every second, millions of authentication decisions are being made across global networks. Each one is a potential point of vulnerability—or a fortress of trust.\nAfter architecting authentication syste"
-  },
-  {
-    "title": "Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & hybrids",
-    "link": "https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc",
-    "pubDate": "Sat, 25 Oct 2025 18:06:03 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Why 90% of golfers block their irons (and hybrids)\n\nDanny Maude says it all boils down to five setup/swing sins: your sternum’s in the wrong spot, your forearms aren’t aligned, your posture’s off, you"
-  },
-  {
     "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
-    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak",
-    "pubDate": "Sat, 25 Oct 2025 18:05:41 +0000",
+    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-19hi",
+    "pubDate": "Sun, 26 Oct 2025 02:05:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Productivity System I Taught to 6,642 Googlers\n\n\nJeff Su’s CORE workflow is a simple, four-step system for handling all your workplace info: Capture anything the moment it pops up, Organize with m"
-  },
-  {
-    "title": "ApexQuest: Architecting Trust - Where Every AI Agent is Authenticated by Auth0",
-    "link": "https://dev.to/divyasinghdev/apexquest-architecting-trust-where-every-ai-agent-is-authenticated-by-auth0-23l9",
-    "pubDate": "Sat, 25 Oct 2025 18:02:05 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "This is a submission for the Auth0 for AI Agents Challenge\nWhat I Built\n\n\nI built ApexQuest to solve a problem that has bugged me for a considerable time: What happens when AI systems make decisions a"
+    "contentSnippet": "TL;DR\n\n\nJeff Su shares the exact CORE productivity system he taught to over 6,600 Googlers in nine years:  \nCapture everything immediately\n\n\nOrganize with minimal friction\n\n\nReview in scheduled sessio"
   },
   {
     "title": "CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-54h3",
-    "pubDate": "Sat, 25 Oct 2025 18:00:37 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-5aep",
+    "pubDate": "Sun, 26 Oct 2025 02:00:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR: CinemaSins has put together a (very) tongue-in-cheek video called “Everything Wrong With Every Saw Movie EVER (That We’ve Sinned So Far),” ripping into all the Saw films one sin at a time. They"
+    "contentSnippet": "Everything Wrong With Every Saw Movie EVER (That We’ve Sinned So Far)\n\n\nCinema Sins has whipped up a hilarious deep-dive into every Saw film’s biggest sins—complete with their signature snark and a ta"
   },
   {
     "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-245l",
-    "pubDate": "Sat, 25 Oct 2025 18:00:27 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-2hg9",
+    "pubDate": "Sun, 26 Oct 2025 02:00:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less has CinemaSins lovingly roasting Tim Burton’s beloved dog-revival flick as it returns to theaters. In classic CinemaSins style, the crew dishe"
+    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less\n\n\nCinemaSins is back in theaters with Tim Burton’s Frankenweenie, roasting every little quirk in under 14 minutes—even though they admit the m"
+  },
+  {
+    "title": "CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-ham",
+    "pubDate": "Sun, 26 Oct 2025 02:00:37 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Summary\n\n\nCinemaSins just dropped “Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less,” poking fun at every over-the-top moment in this “art and science” of a movie—nonsense del"
   },
   {
     "title": "Mr Sunday Movies: The Alien VS Predator Series - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-1n10",
-    "pubDate": "Sat, 25 Oct 2025 18:00:16 +0000",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-the-alien-vs-predator-series-caravan-of-garbage-4099",
+    "pubDate": "Sun, 26 Oct 2025 02:00:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Alien VS Predator Series – Caravan of Garbage\n\n\nAfter decades of crossover comics, video games and a tiny Predator 2 hint, we finally got two live-action mash-ups: Alien VS Predator (2004) and Ali"
+    "contentSnippet": "Caravan of Garbage takes a playful look at the birthday of Alien vs. Predator in live-action form, tracing over a decade of crossover comics, games and that 1991 Predator 2 nod before the films finall"
   },
   {
     "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-3h3n",
-    "pubDate": "Sat, 25 Oct 2025 18:00:09 +0000",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-1kgl",
+    "pubDate": "Sun, 26 Oct 2025 02:00:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Caravan of Garbage kicks off a four-week series on the Predator movies with the 1987 original, hyping it as the peak of ’80s action and sci-fi thanks to its killer direction, tight writing, unforgetta"
+    "contentSnippet": "Predator – Caravan of Garbage explores the first four Predator flicks, kicking off with the 1987 original starring Arnold Schwarzenegger. The hosts declare it the pinnacle of ’80s action-sci-fi, prais"
+  },
+  {
+    "title": "Longest Repeating Character Replacement",
+    "link": "https://dev.to/ram1234/longest-repeating-character-replacement-4bb0",
+    "pubDate": "Sun, 26 Oct 2025 01:54:51 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "I'm writing this post about an specific data structure and algorithm well known problem that is \"Longest Repeating Character Replacement\".\nI have tried to solve this problem with javascript and using "
+  },
+  {
+    "title": "The Model Context Protocol Registry: Standardizing Server Discovery in a Decentralized Ecosystem",
+    "link": "https://dev.to/om_shree_0709/the-model-context-protocol-registry-standardizing-server-discovery-in-a-decentralized-ecosystem-436l",
+    "pubDate": "Sun, 26 Oct 2025 01:54:07 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The Model Context Protocol (MCP) provides a standardized interface that allows large language Agents to interact with external services, referred to as MCP Servers or Tools 1. As the number of special"
+  },
+  {
+    "title": "A beginner's guide to the Imagen-4 model by Google on Replicate",
+    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-imagen-4-model-by-google-on-replicate-54h1",
+    "pubDate": "Sun, 26 Oct 2025 01:45:17 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "This is a simplified guide to an AI model called Imagen-4 maintained by Google. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nImagen-4 represents Google's "
+  },
+  {
+    "title": "Latest Tech News 26th Oct 2025",
+    "link": "https://dev.to/barak_codes/latest-tech-news-26th-oct-2025-31mb",
+    "pubDate": "Sun, 26 Oct 2025 01:34:05 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "📰 Major Tech News: Oct 26th, 2025\nOm Shree ・ Oct 26\n#crypto\n        #ai\n        #blockchain\n        #security"
+  },
+  {
+    "title": "サイバーセキュリティ情報インプット集 2025年版",
+    "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T12:34:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "セキュリティガイドライン、フレームワーク集\n業界や技術等の軸で存在感のあるガイドラインやフレームワークを学習することは非常に有益です。\n本記事は、普段は参照しないようなものから幅広い知見を得ることでセキュリティ業界全体を盛り上げたい。という思いで作成しています。そのため、..."
+  },
+  {
+    "title": "Vue Fes Japan 2025参加してきた！",
+    "link": "https://zenn.dev/thirdlf/articles/37-zenn-vue-fes",
+    "pubDate": "Sat, 25 Oct 2025 12:02:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n著者のVueの知識はチュートリアルに毛が生えた程度なので、間違いがあるかもしれません。\nご理解ください。\nまた、感想欄は講演の内容 + 自分の感想になってます。\nセッション聴きながら書いているので、誤字脱字等があるかもしれないです\n\n 学生支援制度\n今回、学生支援制度を使って参加しました。\n福岡から東京行こうと思うと、そこそこお金がかかるので交通費を出していただけるのはすごく助かりました"
+  },
+  {
+    "title": "AWS FTR（Foundational Technical Review）を取得してAWS認定ソフトウェアとなりました",
+    "link": "https://qiita.com/infra365/items/bb75ab188dcf19398a9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T10:25:14.000Z",
+    "source": "Qiita",
+    "contentSnippet": "AWS FTRとは\nAWS FTR（Foundational Technical Review）とは、AWSパートナー企業がAWS上でサービスを提供する際、その環境がAWSのベストプラクティスに沿って設計・構築・運用されているかを評価するプログラムです。レビューを通過する..."
   },
   {
     "title": "Kaggle Notebook で始める CUDAプログラミング入門",
@@ -75,6 +96,13 @@
     "pubDate": "Sat, 25 Oct 2025 03:07:39 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこんにちは！kaerururu です。\n普段、私は PyTorch や cuML といったライブラリを通じて、実装の詳細を意識することなくCUDA の恩恵を受けています。CUDA プログラミングができるようになるともっと速いコードが書けそうです。\nこの記事では、NVIDIA公式のドキュメントなどを頼りにCUDAプログラミングを学んだ記録を共有します。C++での実装から、Pythonのラッ"
+  },
+  {
+    "title": "Unityでリファクタリングことはじめ、サンプルで見かける冗長コードのアンチパターン",
+    "link": "https://zenn.dev/junshimura/articles/1d1803ed16bd50",
+    "pubDate": "Sat, 25 Oct 2025 01:19:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "ダメだといわれるコードを書いてしまう要因\nUnityの初心者向けのサイトや書籍でよくやってしまう悪手が幾つかあります。気付かない原因は、スケールが小さいゲームだと処理落ちも最初はほとんどなくて放置していること、全体が小さいので自分で管理しているだけだと気にならない、という場合です。その後、スケールが大きくなったり多人数で共同作業すると失敗することがあります。そうしたパターンを並べてみます。\n\n 何"
   },
   {
     "title": "ここが変だよLLMコーディングエージェント(Codex)",
@@ -98,6 +126,13 @@
     "contentSnippet": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nGitHub Copilotを使っている人は全..."
   },
   {
+    "title": "【脱・ランサムウェア被害】中小企業向けSaaSは「サーバーレス×APIファースト」で防御力を劇的に高める",
+    "link": "https://qiita.com/yoshimitsu-k-i-a/items/2ab27e73bf40b31b5827?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T16:20:18.000Z",
+    "source": "Qiita",
+    "contentSnippet": "近年、大規模なランサムウェア被害が連日のように報道されていますが、セキュリティ体制が手薄になりがちな中小企業（SMB）を主要顧客とするSaaS事業者にとって、自社システムの防御は喫緊の課題です。\nしかし、クライアントPC管理の難しさを抱えるSMB事業者が、従来のアーキテクチ..."
+  },
+  {
     "title": "Typst 0.14.0 の内容を早めに深堀り",
     "link": "https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14",
     "pubDate": "Fri, 24 Oct 2025 15:10:24 GMT",
@@ -117,20 +152,6 @@
     "pubDate": "Fri, 24 Oct 2025 13:23:27 GMT",
     "source": "Zenn",
     "contentSnippet": "先月、東京AI祭 ハッカソンで、スマホでバイブコーディングして、賞金20万円を獲得しました。\n何をどんな仕組みで作ったのか実践知を共有したいなと思います。\n\n東京AI祭 ハッカソンは、CoreWeaveさんが公式サポーターで、GMOさんのサポートもあったようでした。Weights & Biasesについて気軽に質問したり、H100などのGPUを自由に使い倒すことができる環境でファインチューニングし"
-  },
-  {
-    "title": "TemporalのDurableさを覗く #LayerX_AI_Agent_ブログリレー",
-    "link": "https://zenn.dev/layerx/articles/3985768bda6e5a",
-    "pubDate": "Fri, 24 Oct 2025 12:29:44 GMT",
-    "source": "Zenn",
-    "contentSnippet": "LayerX AI Agent ブログリレー 32 日目の記事です。\nバクラク事業部 @itkq です。Platform Engineering部 SRE チームで仕事をしています。以下の記事が公開されているように、AI Agentの文脈でTemporalをやっていっています。\nhttps://zenn.dev/layerx/articles/b5f6cf6e47221e\nhttps://zenn"
-  },
-  {
-    "title": "AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する",
-    "link": "https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T10:01:53.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. はじめに\nクラウドインフラをコードで管理する「IaC（Infrastructure as Code）」は、\n今や開発者にとって避けて通れない領域になりました。\nその中でも AWS CDK（Cloud Development Kit） は、TypeScriptやPyt..."
   },
   {
     "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
@@ -168,18 +189,11 @@
     "contentSnippet": "はじめに\nインテグレーションテスト主体でテストを書いていく場合、テスト実行時間が長い問題が出てきた。\n（インスタンスをたくさん並べてパラレル実行にするとかやりようはあると思う）\n解決するためには出来る限りユニットテストに寄せた方が良いが、どういったコード構成ならユニットテストに寄せやすいのか？考えた。\n\n 今あるアーキテクチャから選べばいいじゃんという話もあるが。。。\n既存アーキテクチャだとなんか"
   },
   {
-    "title": "今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選",
-    "link": "https://zenn.dev/fastdoctor/articles/ebe3e41039a98f",
-    "pubDate": "Fri, 24 Oct 2025 00:02:49 GMT",
-    "source": "Zenn",
-    "contentSnippet": "背景\nClaude Codeサービス提供以来ずっと下記の理由で大好きでMaxプランを利用して、一緒にたくさんの価値を創りました。\n\n Claude Codeを好きな理由\n\n 1. Default状態でアウトプットの質が高い\n依頼Prompt以外、何にも用意しない状態で相談することで、専門家レベルの議論ができます。\nKnowledge-baseやCLAUDE.mdちゃんと用意すれば、意図した通りco"
-  },
-  {
-    "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform (AIDP)」を試す：ADBと連携してデータ結合",
-    "link": "https://qiita.com/yushibats/items/0b26c68882f2a80e49cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T13:40:34.000Z",
+    "title": "自作OSをセキュアブートに対応させてみた また、セキュアブートとは何なのか解説",
+    "link": "https://qiita.com/miku_JK_Jb/items/36c9dad33f6e9a1fb0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T16:15:18.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n10月14日、「Oracle AI Data Platform（AIDP）」の一般提供が開始されました。（プレスリリース)\nAIDPは、OCI上でデータの収集・管理・分析・AI活用を一元的に行える統合データ基盤です。\nデータレイク、カタログ、ノートブック、アクセ..."
+    "contentSnippet": "はい、miku_JK_Jbです\n今回は自作OSをセキュアブートに対応させたり、ブートローダーの機能を大幅に強化した作業を紹介していくよ。\nまた久しぶりの自作OS関連のブログ更新だな笑\nまあ、開発に時間がめっちゃかかるからしょうがないか\nまずはセキュアブートとは何なのかについ..."
   },
   {
     "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください",
@@ -201,20 +215,6 @@
     "pubDate": "2025-10-22T15:50:43.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、Visual Studio Code（VS Code）互換のコードエディタに生成AIを統合したAIコードエディタ「Kiro」のウェイトリストが終了し、誰でもダウンロードして利用可能になったことを明らかにしました。 と同時に、「Spec Context in Chat」や「Dev server support」などの新機能も追加されました。 Kir"
-  },
-  {
-    "title": "Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形",
-    "link": "https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T11:23:07.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n最近、脆弱性に関する記事が注目されることが多くなった @___nix___ です。\n\n背景\nMicrosoft 365 Copilot は業務データにアクセスできるAIとして普及していますが、自律的にコンテンツを解析する性質が悪用されるリスクがあります。過去の「..."
-  },
-  {
-    "title": "AWS大規模障害の教訓：単一クラウドが単一障害点になる時代、金融システムはどう備えるべきか",
-    "link": "https://qiita.com/yoshimitsu-k-i-a/items/5dedf016adab925eae2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T10:38:24.000Z",
-    "source": "Qiita",
-    "contentSnippet": "2025年10月20日、AWSのN. Virginia (us-east-1) リージョンで発生した大規模なサービス障害は、クラウドを利用するすべての企業、特に金融システムのようなミッションクリティカルなシステムに、改めて重大な教訓を突きつけました。\n本記事では、この障害が..."
   },
   {
     "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",

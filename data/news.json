@@ -1,73 +1,80 @@
 [
   {
-    "title": "Bytearray in Python (3)",
-    "link": "https://dev.to/hyperkai/bytearray-in-python-3-4cdp",
-    "pubDate": "Mon, 27 Oct 2025 12:46:51 +0000",
+    "title": "Code Reading Analysis – Repomix Ignore Feature",
+    "link": "https://dev.to/kkrishnan10/code-reading-analysis-repomix-ignore-feature-mem",
+    "pubDate": "Mon, 27 Oct 2025 18:31:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Buy Me a Coffee☕\n*Memo:\nMy post explains a bytearray (1).\nMy post explains a bytearray (2).\nMy post explains a bytearray (4).\nMy post explains a bytearray (5).\nMy post explains bytearray().\nA bytearra"
+    "contentSnippet": "For Lab 6, I studied how Repomix implements its ignore functionality to learn from an established open-source project before extending my own tool. Repomix goal is to bundle repository content while a"
   },
   {
-    "title": "How to Use Code Coverage to Identify Untested Code Paths?",
-    "link": "https://dev.to/sophielane/how-to-use-code-coverage-to-identify-untested-code-paths-3305",
-    "pubDate": "Mon, 27 Oct 2025 12:42:53 +0000",
+    "title": "Week 6: Understanding React through a project🎨",
+    "link": "https://dev.to/nikhilsharma6/week-6-understanding-react-through-a-project-2k7a",
+    "pubDate": "Mon, 27 Oct 2025 18:30:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Software quality depends on how thoroughly it is tested. Even when a team has a robust test suite, some areas of the code may remain untested, introducing hidden risks. Code coverage is a key metric t"
+    "contentSnippet": "This week I decided to go deeper into React with a small project. The knowledge required to do this was not vast by any means, but it was nice to move away from snippets and theory to do something mor"
   },
   {
-    "title": "Vibe Coding: The Good, The Bad, and The Architect's New Role",
-    "link": "https://dev.to/sanjaynaker/vibe-coding-the-good-the-bad-and-the-architects-new-role-1i0n",
-    "pubDate": "Mon, 27 Oct 2025 12:42:44 +0000",
+    "title": "Full-Stack Mobile Development (Flutter + Serverpod) #2 — Serverpod Installation and Setup",
+    "link": "https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-2-serverpod-installation-and-setup-5a64",
+    "pubDate": "Mon, 27 Oct 2025 18:24:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Vibe Coding, a term popularised by Andrej Karpathy, represents one of the most conversational and intent-driven shifts in software development yet. It moves us from manually writing code to guiding an"
+    "contentSnippet": "Hey, Flutter devs! If you’re diving into full-stack Dart like the 2025 community is, where top questions on Reddit’s r/FlutterDev like “What’s the easiest backend setup without JS headaches?” and “How"
   },
   {
-    "title": "Kubernetes GitOps: How to Manage & Automate Deployments",
-    "link": "https://dev.to/spacelift/kubernetes-gitops-how-to-manage-automate-deployments-3odl",
-    "pubDate": "Mon, 27 Oct 2025 12:41:00 +0000",
+    "title": "Bevy Discord 0.17 Migration Guide",
+    "link": "https://dev.to/as1100k/bevy-discord-017-migration-guide-3f8c",
+    "pubDate": "Mon, 27 Oct 2025 18:22:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In modern DevOps practices, manually deploying applications to Kubernetes is no longer scalable or safe. Teams need reliable, automated deployment strategies that work seamlessly across environments. "
+    "contentSnippet": "Hello Bevy developers!\nThe latest version of bevy-discord, version 0.7 is now live! This is a significant update that brings support for the much-anticipated Bevy 0.17. This release also introduces se"
   },
   {
-    "title": "How to Integrate Google Sheets API with Shopify Using OAuth 2.0",
-    "link": "https://dev.to/lucy1/how-to-integrate-google-sheets-api-with-shopify-using-oauth-20-47nn",
-    "pubDate": "Mon, 27 Oct 2025 12:37:44 +0000",
+    "title": "Engineering is dead, long live engineering.",
+    "link": "https://dev.to/kaanrkaraman/engineering-is-dead-long-live-engineering-19o0",
+    "pubDate": "Mon, 27 Oct 2025 18:19:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Shopify merchants often rely on Google Sheets to manage products, analyze sales, and track inventory. Manually exporting and importing data, however, is inefficient and error-prone. The more innovativ"
+    "contentSnippet": "I remember times when solving a problem in code meant adding print statements, commenting out blocks of code, rerunning the code endlessly… Sometimes you would just stop and do something else, then yo"
   },
   {
-    "title": "Day 1 what is unity UI and usefull things",
-    "link": "https://dev.to/solvindra/day-1-what-is-unity-ui-and-usefull-things-37i6",
-    "pubDate": "Mon, 27 Oct 2025 12:36:57 +0000",
+    "title": "Building for the Real World: Why ERP Integration Matters More Than Fancy Dashboards",
+    "link": "https://dev.to/hasshamalam/building-for-the-real-world-why-erp-integration-matters-more-than-fancy-dashboards-2mc0",
+    "pubDate": "Mon, 27 Oct 2025 18:14:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "So after installing Unity you learn a thing or two.\nHierarchy = The Hierarchy window shows a list of all the GameObjects currently in your scene.\n\n\nAssets (Project Window) = The Project Window (often "
+    "contentSnippet": "As developers, we love clean UIs and smart analytics — but in real-world businesses, what really matters is connectivity.\nThat’s the silent gap a lot of project or feasibility tools overlook: integrat"
   },
   {
-    "title": "🚨 I Almost Got Hacked: A Sophisticated Job Scam Targeting Developers",
-    "link": "https://dev.to/sebastianthomas94/i-almost-got-hacked-a-sophisticated-job-scam-targeting-developers-4nem",
-    "pubDate": "Mon, 27 Oct 2025 12:33:13 +0000",
+    "title": "Lab 6: Writing the Git-Aware Ignore Feature in My Project",
+    "link": "https://dev.to/kkrishnan10/lab-6-writing-the-git-aware-ignore-feature-in-my-project-5420",
+    "pubDate": "Mon, 27 Oct 2025 18:14:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR: I was targeted by a sophisticated social engineering attack disguised as a high-paying job offer. The attacker attempted to install a malicious npm package (dataflow-unified) that would have gi"
+    "contentSnippet": "After exploring how Repomix handled file-ignoring logic, I wrote the same type of feature in my own project, ContextWeaver. My goal was to make my repo ContextWeaver automatically skip irrelevant file"
   },
   {
-    "title": "Best AI Compute Network of 2025: How Neurolov Is Redefining Decentralized AI Infrastructure",
-    "link": "https://dev.to/neurolov__ai/best-ai-compute-network-of-2025-how-neurolov-is-redefining-decentralized-ai-infrastructure-37h0",
-    "pubDate": "Mon, 27 Oct 2025 12:30:22 +0000",
+    "title": "Unifying Enterprise Knowledge Search with MindsDB",
+    "link": "https://dev.to/prasanna_fdb846e8c3a99074/unifying-enterprise-knowledge-search-with-mindsdb-2cho",
+    "pubDate": "Mon, 27 Oct 2025 18:11:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Q: What is the best decentralized AI compute project in 2025?\nA: Neurolov — the world’s first browser-based Web3 AI compute network, backed by a $12M institutional partnership and powered by 15,000+ G"
+    "contentSnippet": "TL;DR: We built a production-ready, multi-source RAG system in just a few days by leveraging MindsDB's Knowledge Bases. What would have required 5+ separate services now runs on declarative SQL querie"
   },
   {
-    "title": "How Do Zapier Experts Solve Automation Errors?",
-    "link": "https://dev.to/asharmalik/how-do-zapier-experts-solve-automation-errors-2gkb",
-    "pubDate": "Mon, 27 Oct 2025 12:29:44 +0000",
+    "title": "🧠 The Death of Manual Email Campaigns: Automating Newsletters with AI",
+    "link": "https://dev.to/surajai/the-death-of-manual-email-campaigns-automating-newsletters-with-ai-n74",
+    "pubDate": "Mon, 27 Oct 2025 18:10:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In a world where businesses rely on automation to save time, reduce manual tasks, and scale operations, even a small error in your workflows can bring productivity to a halt. That’s where Zapier Exper"
+    "contentSnippet": "Remember when sending a newsletter meant copy-pasting text into Mailchimp, scheduling it manually, and hoping it didn’t land in the Promotions tab? Yeah, those days are basically over.\nAI has stepped "
   },
   {
-    "title": "OpenStack Cinder: Comprehensive Guide to Block Storage Management in Cloud Environments",
-    "link": "https://dev.to/raza_shaikh_eb0dd7d1ca772/openstack-cinder-comprehensive-guide-to-block-storage-management-in-cloud-environments-30cl",
-    "pubDate": "Mon, 27 Oct 2025 12:29:05 +0000",
+    "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
+    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-8ca",
+    "pubDate": "Mon, 27 Oct 2025 18:07:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "OpenStack Cinder serves as the cornerstone of storage management in OpenStack's cloud computing ecosystem. As a robust block storage service, OpenStack Cinder enables organizations to provision and ma"
+    "contentSnippet": "The Productivity System I Taught to 6,642 Googlers\n\n\nOver nine years and thousands of employees later, Jeff Su’s CORE workflow turns information overload into action. It’s built on four steps—Capture "
+  },
+  {
+    "title": "さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始",
+    "link": "https://www.publickey1.jp/blog/25/24365.html",
+    "pubDate": "2025-10-27T15:01:19.000Z",
+    "source": "Publickey",
+    "contentSnippet": "さくらインターネットは、同社が提供するクラウドサービス「さくらのクラウド」向けに、24時間365日対応の有償サポートを11月10日から提供開始すると発表しました。 同社は現行のサポート体制として、平日10時から18時に問い合わせフォームもしくはコールバック予約の電話にてサポートを提供してきました。 新しく設定されるプレミアムサポートは24時間365日体制でクラウドコントロールパネルの問い合わせフォ"
   },
   {
     "title": "ゴルフコンペをAIで盛り上げてみた 〜OCI Data Scienceでつくる『AIベストスマイル賞』〜",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-14T17:51:17.000Z",
     "source": "Publickey",
     "contentSnippet": "オラクルは今日（日本時間2025年10月15日未明）に開幕した同社のイベント「Oracle AI World 2025」で、同社の中核製品であるOracle Databaseの最新版となる「Oracle AI Database 26ai」を発表しました（プレスリリース、ブログ）。 By architecting AI and data together, our AI Database makes"
-  },
-  {
-    "title": "AWS、企業向けAIエージェント「Amazon Quick Suite」提供開始。Google DriveやSharePoint、Amazon Redshiftなど企業内外のデータソースに接続、分析や自動処理など可能に",
-    "link": "https://www.publickey1.jp/blog/25/awsaiamazon_quick_suitegoogle_drivesharepointamazon_redshift.html",
-    "pubDate": "2025-10-14T16:52:43.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Servicesは、エンタープライズ向けのAIエージェントサービス「Amazon Quick Suite」の提供開始を発表しました（日本語公式ブログ）。 社内外のデータソースと接続可能 Amazon Quick Suiteは、Amazon RedshiftやAmazon S3などのAWS上のデータソースに加えて、Google Drive、OneDrive、SharePoint"
   }
 ]

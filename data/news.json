@@ -1,73 +1,73 @@
 [
   {
-    "title": "We Built a Self-Hosted AI Meeting Note Taker Because Every Cloud Solution Failed Our Privacy Requirements",
-    "link": "https://dev.to/zackriya/we-built-a-self-hosted-ai-meeting-note-taker-because-every-cloud-solution-failed-our-privacy-1eml",
-    "pubDate": "Sun, 26 Oct 2025 18:30:00 +0000",
+    "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4aee",
+    "pubDate": "Mon, 27 Oct 2025 02:00:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR - Quick Answer\n\n\nWhat is Meetily? A self-hosted, privacy-first AI meeting assistant built with Rust that runs entirely on your device. Unlike Otter.ai, Fireflies, or Granola, your sensitive conv"
+    "contentSnippet": "CinemaSins has unleashed “Everything Wrong With Frankenweenie In 14 Minutes Or Less,” a playful roast of Tim Burton’s reanimated pup flick as it hits theaters again. Expect their signature rapid-fire "
   },
   {
-    "title": "Part 1: Understanding AWS Identity and Access Management (IAM)",
-    "link": "https://dev.to/ciberconscientes/part-1-understanding-aws-identity-and-access-management-iam-2826",
-    "pubDate": "Sun, 26 Oct 2025 18:23:09 +0000",
+    "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-234i",
+    "pubDate": "Mon, 27 Oct 2025 02:00:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Identity and Access Management (IAM) is one of the most essential services in the AWS ecosystem. It handles authentication (who you are),  authorization (what you’re allowed to do) across your AWS env"
+    "contentSnippet": "Predator – Caravan of Garbage kicks off a four-week deep dive into the first four Predator films, starting with Schwarzenegger’s 1987 original. They celebrate it as the ultimate 80s action-sci-fi mash"
   },
   {
-    "title": "What Testing a Real App Taught Me About Building One",
-    "link": "https://dev.to/divyansh_kumar_1/what-testing-a-real-app-taught-me-about-building-one-2ifm",
-    "pubDate": "Sun, 26 Oct 2025 18:15:56 +0000",
+    "title": "Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸",
+    "link": "https://dev.to/member_875c0744/your-error-handling-is-a-mess-and-its-costing-you--2lp6",
+    "pubDate": "Mon, 27 Oct 2025 01:59:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I joined Stapubox as a Backend + QA Intern, I thought testing would be the “less exciting” part of the journey.\nWithin the first week, I realized testing isn’t about clicking buttons or breaking "
+    "contentSnippet": "GitHub Home\nI still remember the bug that kept me up all night. A payment callback endpoint, when handling a rare, exceptional status code from a third-party payment gateway, had a .catch() that was a"
   },
   {
-    "title": "6 months CSE - The System Suite",
-    "link": "https://dev.to/cz_writes/6-months-cse-the-system-suite-3l23",
-    "pubDate": "Sun, 26 Oct 2025 18:14:15 +0000",
+    "title": "Building a Production-Ready Refund Agent That Won't Break Your Business",
+    "link": "https://dev.to/hadywalied/building-a-production-ready-refund-agent-that-wont-break-your-business-19mm",
+    "pubDate": "Mon, 27 Oct 2025 01:58:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey, as mentioned in the previous post, we are gunning at project-based CSE learning.  \nThe list of projects here are curated with the intention of depth in breadth. The breadth aspect is the number o"
+    "contentSnippet": "AI agents can automate business processes. But most demos ignore a critical question: What happens when something goes wrong mid-workflow?\nConsider a customer refund process:\nProcess refund via paymen"
   },
   {
-    "title": "🚀 Just Launched — My Personal Cloud & DevOps Portfolio! 🌩️",
-    "link": "https://dev.to/swapi123/just-launched-my-personal-cloud-devops-portfolio-20ni",
-    "pubDate": "Sun, 26 Oct 2025 18:14:13 +0000",
+    "title": "Por Que Todo Desenvolvedor Deveria Dominar Regra de 3",
+    "link": "https://dev.to/james-smithh/por-que-todo-desenvolvedor-deveria-dominar-regra-de-3-3bj3",
+    "pubDate": "Mon, 27 Oct 2025 01:56:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "After months of building, debugging, and fine-tuning…\n🔗 Live Now: https://swapnil.mohite.in/\n💡 Tech Behind the Build:\n📂 What You’ll Find Inside:\n💬 I’d love your thoughts!\n\n\n\n  \n  \n  DevOps #Cloud "
+    "contentSnippet": "Você já parou pra pensar quantas vezes usa proporção no seu código sem perceber? Pois é, eu também não ligava muito até começar a trabalhar com APIs de pagamento e perceber que tinha um padrão matemát"
   },
   {
-    "title": "NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints",
-    "link": "https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej",
-    "pubDate": "Sun, 26 Oct 2025 18:10:41 +0000",
+    "title": "Parenting in 2025: Finding Our Center in a World That Never Stops",
+    "link": "https://dev.to/om_shree_0709/parenting-in-2025-finding-our-center-in-a-world-that-never-stops-5g9o",
+    "pubDate": "Mon, 27 Oct 2025 01:55:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "NaViL: A Smarter AI That Learns to See and Talk Together\n\n\nEver wondered how a robot could look at a photo and describe it as naturally as a friend? Scientists have discovered a fresh approach called "
+    "contentSnippet": "Parenting has always been a journey of constant adaptation, but for families in 2025, the landscape feels exceptionally fluid. The rapid pace of technology, evolving social norms, and the pressure of "
   },
   {
-    "title": "How to Write Clean DTO & Entity Mappers in Java (with Spring Boot)",
-    "link": "https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6",
-    "pubDate": "Sun, 26 Oct 2025 18:08:17 +0000",
+    "title": "Agent hardening with Auth0",
+    "link": "https://dev.to/yuwtennis/agent-hardening-with-auth0-3pkl",
+    "pubDate": "Mon, 27 Oct 2025 01:55:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How to Write Clean DTO & Entity Mappers in Java (with Spring Boot)\n\n\n\n  \n  \n  Introduction\n\n\nWhen building a Spring Boot application, one of the most common patterns you’ll encounter is mapping betwee"
+    "contentSnippet": "This is a submission for the Auth0 for AI Agents Challenge\nI have built a agent that provides answer for confidential information to the right person.\nBefore starting with the implementation, lets sta"
   },
   {
-    "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
-    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-32dj",
-    "pubDate": "Sun, 26 Oct 2025 18:07:08 +0000",
+    "title": "Security-is-Not-a-Feature-Its-a-Foundation",
+    "link": "https://dev.to/member_ece4a271/security-is-not-a-feature-its-a-foundation-3jkf",
+    "pubDate": "Mon, 27 Oct 2025 01:51:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Productivity System Jeff Su taught to over 6,600 Googlers is built around a simple 4-step “CORE” workflow:\n\n• Capture everything immediately\n\n• Organize with minimal friction\n\n• Review during sche"
+    "contentSnippet": "GitHub Home\nAbout ten years into my career, I experienced a security incident that still gives me chills. We were developing an online trading system for a financial client. A young programmer on the "
   },
   {
-    "title": "Visualize Tailscale Network Flow Logs with New Relic",
-    "link": "https://dev.to/pnvnd/visualize-tailscale-network-flow-logs-with-new-relic-1mfg",
-    "pubDate": "Sun, 26 Oct 2025 18:06:35 +0000",
+    "title": "Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance",
+    "link": "https://dev.to/member_083ff294/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-2m45",
+    "pubDate": "Mon, 27 Oct 2025 01:51:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nDid you know that Tailscale network flow logs can be visualized in New Relic? Take a look at my dashboard:\n\nTo get started, you'll need to have Tailscale Enterprise, as this is the only"
+    "contentSnippet": "GitHub Home\nHyperlane is a lightweight, high-performance, cross-platform Rust HTTP server framework built on Tokio async runtime.\nPerformance: 324,323 QPS (Keep-Alive on), 51,031 QPS (Keep-Alive off) "
   },
   {
-    "title": "Why New Businesses Should Build Their Websites with Next.js",
-    "link": "https://dev.to/shoyayeb/why-new-businesses-should-build-their-websites-with-nextjs-4ek4",
-    "pubDate": "Sun, 26 Oct 2025 18:05:36 +0000",
+    "title": "Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing",
+    "link": "https://dev.to/member_25c2e834/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-2imc",
+    "pubDate": "Mon, 27 Oct 2025 01:41:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s digital world, your website isn’t just your online presence — it’s your growth engine. Whether you’re a startup, freelancer, or growing brand, building your site on the right framework can "
+    "contentSnippet": "GitHub Home\n\"We should write more tests.\"\nIn every technical meeting, this sentence is repeated like a sacred mantra. Everyone nods in agreement, everyone knows this is the \"right\" thing to do. But ba"
   },
   {
     "title": "Apple、「Swift SDK for Android」プレビュー公開。Swift言語でAndroid対応アプリを開発",
@@ -82,6 +82,62 @@
     "pubDate": "2025-10-26T15:46:41.000Z",
     "source": "Publickey",
     "contentSnippet": "Rubyを用いたWebアプリケーションフレームワーク「Ruby on Rails」の最新バージョン「Ruby on Rails 8.1」（以下、Rails 8.1）の正式版がリリースされました。 Rails 8.1 has been released! It includes job continuations, structured events, local CI, registry-free"
+  },
+  {
+    "title": "Vercel AI SDKはなぜ複数ステップのLLM呼び出しを1つのStreamで返せるのか？",
+    "link": "https://zenn.dev/condy/articles/2fd43ba8819f04",
+    "pubDate": "Sun, 26 Oct 2025 12:19:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "最近業務で AI エージェントの実装をすることが多い新卒 1 年目のエンジニアです。\nVercel AI SDK の実装で面白いなと思った部分について記事にしてみました！（初投稿）\n\n はじめに\nVercel AI SDK では、以下のようにstreamTextに prompt や tool などを渡すだけで、AI エージェントを簡単に作ることができます。\n\nexample.ts\n// お天気エー"
+  },
+  {
+    "title": "【Amazon Bedrock AgentCore】Gatewayを触りながらざっくり理解する",
+    "link": "https://qiita.com/yakumo_09/items/d7b8aedc166ac19231eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-26T11:43:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nAgentCoreのRuntime機能に続き、Gateway機能もやってみたいと思ったのでやっていこうと思います。\n今回は公式ドキュメントの手順がかなりわかりやすかったのでそれに沿って実施してみました。\nそれに加えて私なりにGatewayの仕組みを解説していきた..."
+  },
+  {
+    "title": "JPYC決済の実装パターンを考える：オフチェーン決済IDとオンチェーンTxを紐付けるためには",
+    "link": "https://zenn.dev/mameta29/articles/4f880f8a7199b7",
+    "pubDate": "Sun, 26 Oct 2025 08:13:33 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nJPYCは、USDCと同様にEIP-2612 (permit)やEIP-3009 (Authorization系)といった規格を実装しており、さまざまな決済機能があります。\nしかし、これらの機能を実際の決済システム（ECサイト、POSレジ、サブスクリプション）に組み込む際の課題の1つとして、「オフチェーンで管理される決済ID（例：order_123）と、ブロックチェーン上で実行されるトラ"
+  },
+  {
+    "title": "[2025年10月26日] WebがMCPになる日 (週刊AI)",
+    "link": "https://zenn.dev/carenet/articles/1938c544c41c04",
+    "pubDate": "Sun, 26 Oct 2025 07:44:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、Kaiです。\n先週は投稿をお休みしたので2週間ぶりですね。\n大きな話題としては、ClaudeのAgent Skills、OpenAIのAtlas、Googleの量子コンピュータあたりでしょうか。\nClaudeはもう正統進化という印象で、特に開発者にとってかゆいところに手が届くアップデートを積み重ねています。あくまで手触りのよい善きツールに徹する、というスタンスなのかもしれません。\n一方"
+  },
+  {
+    "title": "【イベントレポート兼リンク集】Microsoft 365 CopilotとCopilot Studioのライセンスの話",
+    "link": "https://qiita.com/Oyu3m/items/fd6a820a4fbf7da7025a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-26T06:24:15.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. 導入・イベント概要\nイベント名：なんでもCopilot（プレビュー）#3「Copilotのライセンスを見る会」\n開催日：2025年10月1日 22:00～23:30\n形式：オンライン\n主催・登壇者：おゆ、ぺぺ（なんでもCopilot運営）\n目的：ライセンスに関する雑..."
+  },
+  {
+    "title": "感覚で理解するベクトル制御",
+    "link": "https://qiita.com/Doraemonjayo/items/37cc77e6d5a6aeb2694e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-26T06:00:15.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事で学べる事\nブラシレスモータを自分で制御する方法がわかります。\n\n方位磁針を回すには？\nあるところにコンパスがありました。\n\nこのコンパスを見て、あなたは「このコンパスを正方向(反時計回り)に回したいなぁ...。」と思いました。そのためには、とりあえず、コンパスの..."
+  },
+  {
+    "title": "【KotlinFest 2025にて発表予定】内部実装から理解するKotlin Coroutines",
+    "link": "https://zenn.dev/kaseken/articles/681c5aea0639c7",
+    "pubDate": "Sun, 26 Oct 2025 05:53:33 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本記事では、2025年11月1日に開催される Kotlin Fest 2025 にて発表予定の\n「内部実装から理解する Coroutines ― Continuation・Structured Concurrency・Dispatcher」のスライドおよび発表原稿を事前公開します。\n同時刻には他にも魅力的なセッションが2つ予定されているため、本記事が「どのセッションを聴講するか」の判断材料としてお"
+  },
+  {
+    "title": "国土数値情報の Shapefile をブラウザ上で変換するツールを Rust で書くために苦労したところ",
+    "link": "https://zenn.dev/mierune/articles/adcfed5a11b70d",
+    "pubDate": "Sun, 26 Oct 2025 05:36:54 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Rust と WebAssembly の勉強のために趣味で、国土数値情報の Shapefile をブラウザ上で変換するツールを開発しています。\nツール: https://yutannihilation.github.io/ksj2gp/\nソースコード：https://github.com/yutannihilation/ksj2gp/\n\nksj2gp の画面\nまだ開発中で結果の正しさは保証できない"
   },
   {
     "title": "ソフトウェアエンジニアはいかにしてAIを真に愛するに 至ったか - コードを書く人から設計意図を定義する人へ -",
@@ -105,11 +161,11 @@
     "contentSnippet": "始めに\nddt.vim の開発が一通り終了し、次に作成するプラグインについて検討しました。\n自分が欲しかったプラグインをどんどん作ってきた私ですが、そろそろ最後の本丸であるバイナリ編集プラグインの開発にとりかかったほうがよいのではないかと考えたのです。\nなぜならばバイナリ編集というのはテキストエディタに出会う前、私の原点でもあったからです。\n私はプログラミングを学び、パソコンの全てを知りたいと思っ"
   },
   {
-    "title": "【しくじり】ハッカソンで大苦戦して分かったAI駆動開発の実践的ハウツー",
-    "link": "https://zenn.dev/caen/articles/27b84a320982ac",
-    "pubDate": "Sat, 25 Oct 2025 15:36:47 GMT",
+    "title": "Tailwind CSSは本当に便利？従来のCSSとの比較で分かる、メリット・デメリット",
+    "link": "https://zenn.dev/crebo_tech/articles/article-0018-20251026",
+    "pubDate": "Sat, 25 Oct 2025 21:54:50 GMT",
     "source": "Zenn",
-    "contentSnippet": "初めまして。株式会社CAENの大森と申します。\n普段はAI駆動をフル活用してゴリゴリと個人開発しています。\n今回、10月25日に行われた  < WaytoAGI > Vibe Codingハッカソン  に参加してきました。\n「わずか３時間でプロダクトを開発＆発表」というかなりハードなハッカソンだったのですが、AI駆動開発に振り回されて、粗だらけのプロダクトで発表に臨むという、すご〜く恥ずかしい気持"
+    "contentSnippet": "はじめに\n「classに大量のユーティリティクラスを書くのって保守性が悪くない？」\nTailwind CSSを初めて見たとき、こんな疑問を抱いた方は多いのではないでしょうか。HTML要素のclass属性に長々とクラス名が並ぶ姿は、一見すると混乱を招きそうに見えます。\nしかし、実際に使ってみると、その考えが変わるかもしれません。本記事では、従来のCSS（BEM記法など）、CSS Modules、Ta"
   },
   {
     "title": "サイバーセキュリティ情報インプット集 2025年版",
@@ -133,34 +189,6 @@
     "contentSnippet": "AWS FTRとは\nAWS FTR（Foundational Technical Review）とは、AWSパートナー企業がAWS上でサービスを提供する際、その環境がAWSのベストプラクティスに沿って設計・構築・運用されているかを評価するプログラムです。レビューを通過する..."
   },
   {
-    "title": "ターミナルとシェルの違いについて、改めてまとめ直してみた",
-    "link": "https://qiita.com/kazutorahattori/items/01f7ba96554a483aefd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T07:48:58.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nターミナルとシェルの違いについて、理解が不十分だったところがあったので、もう一度まとめ直したいと思います。\n\nターミナルとは？\nターミナルは ユーザーが文字を入力・出力するキーボード(入力)、ディスプレイ(出力)などのハードウェアのことを指す。\nターミナルをソフ..."
-  },
-  {
-    "title": "Kaggle Notebook で始める CUDAプログラミング入門",
-    "link": "https://zenn.dev/kaerururu/articles/101f9261ae923a",
-    "pubDate": "Sat, 25 Oct 2025 03:07:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは！kaerururu です。\n普段、私は PyTorch や cuML といったライブラリを通じて、実装の詳細を意識することなくCUDA の恩恵を受けています。CUDA プログラミングができるようになるともっと速いコードが書けそうです。\nこの記事では、NVIDIA公式のドキュメントなどを頼りにCUDAプログラミングを学んだ記録を共有します。C++での実装から、Pythonのラッ"
-  },
-  {
-    "title": "自称調整さんを超える日程調整アプリをAIと作ってみたけど、巨大すぎる◯◯の壁が超えられない",
-    "link": "https://zenn.dev/yasaidev/articles/2cb87a5a2d072e",
-    "pubDate": "Sat, 25 Oct 2025 02:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "なにをつくったのか - 『いい幹事さん』すぐに使える日程調整アプリ\nhttps://e-kanji-san.com\nとにかく『調整さん』の使いごこちはそのまま、更に研ぎ澄ましたアプリです。\n動作が気に入ったら乗り換えご検討ください。\nhttps://x.com/YasaiDev/status/1977605685979619475\n!\nちなみにクソ使いやすい傾斜計算アプリも付属しています。\n\nht"
-  },
-  {
-    "title": "ここが変だよLLMコーディングエージェント(Codex)",
-    "link": "https://zenn.dev/takeshy/articles/20b8b2ab499b6f",
-    "pubDate": "Sat, 25 Oct 2025 00:51:36 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n最近LLMコーディングエージェント(主にCodex)tipsを書きましたが、やっぱりLLMコーディングエージェントは頼りにしすぎてはいけない、重要なところは自分で書こうという思いが強まってきています。\nどういうとこが変なのかをまとめることで、なぜそう感じるのかを説明したいと思います。\n\n 1. 引数のバリエーションが無駄に多い\n一箇所からしか呼ばれていないメソッドで現状の呼び出し箇所は引"
-  },
-  {
     "title": "うわああああ！MacでVSCodeが小さくなっちゃった！しかもショートカットも効かない！誰か助k...の解決方法",
     "link": "https://qiita.com/yoyoh_/items/ce0142050cfb55fb6f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-24T23:28:10.000Z",
@@ -173,27 +201,6 @@
     "pubDate": "2025-10-24T16:20:18.000Z",
     "source": "Qiita",
     "contentSnippet": "近年、大規模なランサムウェア被害が連日のように報道されていますが、セキュリティ体制が手薄になりがちな中小企業（SMB）を主要顧客とするSaaS事業者にとって、自社システムの防御は喫緊の課題です。\nしかし、クライアントPC管理の難しさを抱えるSMB事業者が、従来のアーキテクチ..."
-  },
-  {
-    "title": "Typst 0.14.0 の内容を早めに深堀り",
-    "link": "https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14",
-    "pubDate": "Fri, 24 Oct 2025 15:10:24 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n本記事では、2025/10/24 にリリースされた Typst 0.14.0 の新機能や変更点を紹介します。\n!\n本記事のタイトルと構成は、前回から引き続き あずんひさんが継続されている「Rust 1.xx を早めに深堀り」シリーズからお借りしています。\n\n\n リリースノート・深堀り記事一覧\n\n\n\nリリース日\nバージョン\n公式リリースノート\n深堀り記事\n\n\n\n\n2024/10/18\n0."
-  },
-  {
-    "title": "AI駆動開発のお供にknipがステキな理由",
-    "link": "https://zenn.dev/kondo_script/articles/knip-with-ai",
-    "pubDate": "Fri, 24 Oct 2025 13:53:53 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事の目的\nClaude Codeでvibe codingをしていたときにknipを併用したら体験がとても良かったのでシェア\nknipを使っている人が一人でも増えたら嬉しいです。\n\n knipとは\n\nTypescriptプロジェクト用のデッドコード検知ツール\n\n未使用のファイル/関数/exportをいい感じに削除してくれる\n未使用のcss assetsや不要なpackage.jsonのライブラ"
-  },
-  {
-    "title": "iOS 26のSafariで100vh的なスタイルを上手く表示するためのCSSハック",
-    "link": "https://qiita.com/kskwtnk/items/df4d6b15f6df7026cfeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T12:00:26.000Z",
-    "source": "Qiita",
-    "contentSnippet": "問題\niOS 26のSafariでは、上部のステータスバーと下部のタブバーが透過してしまい、背景が透けて見える問題が発生しています。\n次の画像は、画面いっぱいにグレーの背景を敷いたときのSafariとArcでの見え方の差です。\n\nSafari\nArc\n\n..."
   },
   {
     "title": "個人的GitHub Copilotの使い方メモ",
@@ -215,13 +222,6 @@
     "pubDate": "2025-10-24T04:34:27.000Z",
     "source": "Qiita",
     "contentSnippet": "問題\nマルチタブ環境で作業していると、現在開いているファイルがどれか分からなくなることがあります。\n\n解決方法\nVS Code（Cursor）の標準設定をカスタマイズして、アクティブなタブに色付きのボーダーを追加してみました。\n\n設定手順\n\nコマンドパレットを開く\n..."
-  },
-  {
-    "title": "自作OSをセキュアブートに対応させてみた また、セキュアブートとは何なのか解説",
-    "link": "https://qiita.com/miku_JK_Jb/items/36c9dad33f6e9a1fb0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T16:15:18.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はい、miku_JK_Jbです\n今回は自作OSをセキュアブートに対応させたり、ブートローダーの機能を大幅に強化した作業を紹介していくよ。\nまた久しぶりの自作OS関連のブログ更新だな笑\nまあ、開発に時間がめっちゃかかるからしょうがないか\nまずはセキュアブートとは何なのかについ..."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

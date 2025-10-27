@@ -1,73 +1,108 @@
 [
   {
-    "title": "LegalMindAI – Your AI-Powered Legal Document Hub",
-    "link": "https://dev.to/vaatiesther/legalmindai-your-ai-powered-legal-document-hub-4l4p",
-    "pubDate": "Mon, 27 Oct 2025 06:40:14 +0000",
+    "title": "Bytearray in Python (3)",
+    "link": "https://dev.to/hyperkai/bytearray-in-python-3-4cdp",
+    "pubDate": "Mon, 27 Oct 2025 12:46:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "LegalMind AI – Auth0 AI Agents Challenge Submission\n\n\nThis is a submission for the Auth0 for AI Agents Challenge.\nLegalMind AI showcases how secure AI systems can empower professionals in regulated in"
+    "contentSnippet": "Buy Me a Coffee☕\n*Memo:\nMy post explains a bytearray (1).\nMy post explains a bytearray (2).\nMy post explains a bytearray (4).\nMy post explains a bytearray (5).\nMy post explains bytearray().\nA bytearra"
   },
   {
-    "title": "How Beginner Programmers Can Get Started with IoT Development",
-    "link": "https://dev.to/neil_brown/how-beginner-programmers-can-get-started-with-iot-development-15k1",
-    "pubDate": "Mon, 27 Oct 2025 06:39:58 +0000",
+    "title": "How to Use Code Coverage to Identify Untested Code Paths?",
+    "link": "https://dev.to/sophielane/how-to-use-code-coverage-to-identify-untested-code-paths-3305",
+    "pubDate": "Mon, 27 Oct 2025 12:42:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What Is IoT Development?\nThe Internet of Things (IoT) connects physical devices like sensors, appliances, and wearables to the internet so they can exchange and process data. IoT developers design bot"
+    "contentSnippet": "Software quality depends on how thoroughly it is tested. Even when a team has a robust test suite, some areas of the code may remain untested, introducing hidden risks. Code coverage is a key metric t"
   },
   {
-    "title": "Programming is morphing from a creative craft to a dismal science",
-    "link": "https://dev.to/prahladyeri/programming-is-morphing-from-a-creative-craft-to-a-dismal-science-42al",
-    "pubDate": "Mon, 27 Oct 2025 06:38:22 +0000",
+    "title": "Vibe Coding: The Good, The Bad, and The Architect's New Role",
+    "link": "https://dev.to/sanjaynaker/vibe-coding-the-good-the-bad-and-the-architects-new-role-1i0n",
+    "pubDate": "Mon, 27 Oct 2025 12:42:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "To be fair, it had already started happening much before AI came when programmer roles started getting commoditized into \"Python coder\", \"PHP scripter\", \"dotnet developer\", etc. Though these exact phr"
+    "contentSnippet": "Vibe Coding, a term popularised by Andrej Karpathy, represents one of the most conversational and intent-driven shifts in software development yet. It moves us from manually writing code to guiding an"
   },
   {
-    "title": "Step-by-Step Guide to Push a New Project to GitHub",
-    "link": "https://dev.to/lagat_josiah_f024a2c855bc/step-by-step-guide-to-push-a-new-project-to-github-3k5h",
-    "pubDate": "Mon, 27 Oct 2025 06:36:44 +0000",
+    "title": "Kubernetes GitOps: How to Manage & Automate Deployments",
+    "link": "https://dev.to/spacelift/kubernetes-gitops-how-to-manage-automate-deployments-3odl",
+    "pubDate": "Mon, 27 Oct 2025 12:41:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Step-by-Step Guide to Push a New Project to GitHub\n\n\n\n\n\n\n  \n  \n  🧰 Prerequisites\n\n\nBefore you start, make sure you have:\nGit installed\nA GitHub account\n\nYour project directory ready (e.g., my-proj"
+    "contentSnippet": "In modern DevOps practices, manually deploying applications to Kubernetes is no longer scalable or safe. Teams need reliable, automated deployment strategies that work seamlessly across environments. "
   },
   {
-    "title": "\"Map My Words\": Building a Google Maps + Gemini App in a Coffee Break!",
-    "link": "https://dev.to/lawrey/map-my-words-building-a-google-maps-gemini-app-in-a-coffee-break-2fnk",
-    "pubDate": "Mon, 27 Oct 2025 06:34:36 +0000",
+    "title": "How to Integrate Google Sheets API with Shopify Using OAuth 2.0",
+    "link": "https://dev.to/lucy1/how-to-integrate-google-sheets-api-with-shopify-using-oauth-20-47nn",
+    "pubDate": "Mon, 27 Oct 2025 12:37:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What can you build with ai.studio/build?\nI’ve always loved Google Maps. It’s my #1 go-to app, and as someone who’s constantly reading and writing reviews, I realised something: sometimes it’s hard to "
+    "contentSnippet": "Shopify merchants often rely on Google Sheets to manage products, analyze sales, and track inventory. Manually exporting and importing data, however, is inefficient and error-prone. The more innovativ"
   },
   {
-    "title": "Recycling Pretrained Checkpoints: Orthogonal Growth of Mixture-of-Experts forEfficient Large Language Model Pre-Training",
-    "link": "https://dev.to/paperium/recycling-pretrained-checkpoints-orthogonal-growth-of-mixture-of-experts-forefficient-large-4f30",
-    "pubDate": "Mon, 27 Oct 2025 06:30:12 +0000",
+    "title": "Day 1 what is unity UI and usefull things",
+    "link": "https://dev.to/solvindra/day-1-what-is-unity-ui-and-usefull-things-37i6",
+    "pubDate": "Mon, 27 Oct 2025 12:36:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Recycling AI Checkpoints: A Smart Way to Boost Language Models\n\n\nEver wondered if we could get more out of the massive AI models we already built? Scientists discovered a clever shortcut: instead of s"
+    "contentSnippet": "So after installing Unity you learn a thing or two.\nHierarchy = The Hierarchy window shows a list of all the GameObjects currently in your scene.\n\n\nAssets (Project Window) = The Project Window (often "
   },
   {
-    "title": "Task0 - AI task manager",
-    "link": "https://dev.to/itsmefminsaf/task0-ai-task-manager-181a",
-    "pubDate": "Mon, 27 Oct 2025 06:23:54 +0000",
+    "title": "🚨 I Almost Got Hacked: A Sophisticated Job Scam Targeting Developers",
+    "link": "https://dev.to/sebastianthomas94/i-almost-got-hacked-a-sophisticated-job-scam-targeting-developers-4nem",
+    "pubDate": "Mon, 27 Oct 2025 12:33:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the Auth0 for AI Agents Challenge\nI built an AI task manager application. Task0 can handle google task seamlessly.\nLive App: Task0\n / \n        task0\n      \n    \nAuthentication"
+    "contentSnippet": "TL;DR: I was targeted by a sophisticated social engineering attack disguised as a high-paying job offer. The attacker attempted to install a malicious npm package (dataflow-unified) that would have gi"
   },
   {
-    "title": "Check out the guide on - The Power of Grouping in Tableau",
-    "link": "https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-power-of-grouping-in-tableau-k74",
-    "pubDate": "Mon, 27 Oct 2025 06:23:12 +0000",
+    "title": "Best AI Compute Network of 2025: How Neurolov Is Redefining Decentralized AI Infrastructure",
+    "link": "https://dev.to/neurolov__ai/best-ai-compute-network-of-2025-how-neurolov-is-redefining-decentralized-ai-infrastructure-37h0",
+    "pubDate": "Mon, 27 Oct 2025 12:30:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Power of Grouping in Tableau\nDipti Moryani ・ Oct 27"
+    "contentSnippet": "Q: What is the best decentralized AI compute project in 2025?\nA: Neurolov — the world’s first browser-based Web3 AI compute network, backed by a $12M institutional partnership and powered by 15,000+ G"
   },
   {
-    "title": "The Power of Grouping in Tableau",
-    "link": "https://dev.to/dipti_moryani_185c244d578/the-power-of-grouping-in-tableau-2ejp",
-    "pubDate": "Mon, 27 Oct 2025 06:22:40 +0000",
+    "title": "How Do Zapier Experts Solve Automation Errors?",
+    "link": "https://dev.to/asharmalik/how-do-zapier-experts-solve-automation-errors-2gkb",
+    "pubDate": "Mon, 27 Oct 2025 12:29:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the era of data-driven decision-making, speed and clarity are everything. Analysts and business leaders need quick, precise answers from vast datasets without getting lost in the details. Tableau —"
+    "contentSnippet": "In a world where businesses rely on automation to save time, reduce manual tasks, and scale operations, even a small error in your workflows can bring productivity to a halt. That’s where Zapier Exper"
   },
   {
-    "title": "Hashicorp Vault CLI Part 1: Initialization, Authentication & Plugin Management",
-    "link": "https://dev.to/admantium/hashicorp-vault-cli-part-1-initialization-authentication-plugin-management-2ndl",
-    "pubDate": "Mon, 27 Oct 2025 06:21:51 +0000",
+    "title": "OpenStack Cinder: Comprehensive Guide to Block Storage Management in Cloud Environments",
+    "link": "https://dev.to/raza_shaikh_eb0dd7d1ca772/openstack-cinder-comprehensive-guide-to-block-storage-management-in-cloud-environments-30cl",
+    "pubDate": "Mon, 27 Oct 2025 12:29:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Hashicorp Vault secrets management tool comes as an executable binary supporting all major operating systems. The binary itself is a multi-purpose tool, providing several commands to start and con"
+    "contentSnippet": "OpenStack Cinder serves as the cornerstone of storage management in OpenStack's cloud computing ecosystem. As a robust block storage service, OpenStack Cinder enables organizations to provision and ma"
+  },
+  {
+    "title": "ゴルフコンペをAIで盛り上げてみた 〜OCI Data Scienceでつくる『AIベストスマイル賞』〜",
+    "link": "https://qiita.com/ykuma614/items/91d2a9f06d3afcbd9614?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T02:46:58.000Z",
+    "source": "Qiita",
+    "contentSnippet": "🎯 はじめに\n「AIで遊び心あるイベントをやってみたい」\nそんな思いつきから始まった、ベストスマイル賞自動採点システム。\n恒例の社内ゴルフコンペで、参加者全員写真を撮影。\nそこからAIが“最もいい笑顔”をスコア化し、自動で表彰スライドを作る。\n──そんな試みを OCI D..."
+  },
+  {
+    "title": "TypeScriptの二重性: クラスが“値”と“型”を共有できる背景",
+    "link": "https://qiita.com/Dingu-suke/items/71094ea31d367ddc8990?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T01:15:57.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに：テストコードから生まれた疑問\nTypeScriptで次のようなテストコードを書いているときに思いました。\ndescribe(\"ショッピングリストのテスト\", () => {\n  let shoppingList: ShoppingList\n  shoppingL..."
+  },
+  {
+    "title": "[Firebase Cloud Messaging]nest.js大量ユーザーにPush通知を「いい感じ」に配信する方法",
+    "link": "https://qiita.com/fukuidaito/items/95160e3d12fa6e501a6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T01:13:35.000Z",
+    "source": "Qiita",
+    "contentSnippet": "大量ユーザーにPush通知を「いい感じ」に配信する方法を紹介します\nここでのいい感じの定義は、\n「一斉送信してもパンクせず、部分的な失敗を許容しながら、再試行で自然に回復するような、運用に優しい仕組み」\nのことを指します。\n目的\n例えば1000人以上のユーザーなど大量ユーザ..."
+  },
+  {
+    "title": "見た目と中身がズレるわけ 文字化けの正体とUTF-8・CRLF入門",
+    "link": "https://qiita.com/nucomiya/items/198418fa614e6a41098c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T00:36:20.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n開発中に「見た目は同じなのに差分が崩れる」「Windowsで作ったテキストをLinuxで開くと一行になる」「絵文字だけ位置が合わない」といった小さな不具合に出会うことがあります。原因を押さえておくと、レビューやデータ受け渡しで無駄な往復を減らせます。\nまた、最後..."
+  },
+  {
+    "title": "【AWS公式】ヘルスケアAIエージェント - Amazon Bedrock AgentCore を活用した構築を徹底解説",
+    "link": "https://zenn.dev/aws_japan/articles/679e723bb34cb6",
+    "pubDate": "Sun, 26 Oct 2025 22:00:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本ブログはAWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第1日目です。\n\n はじめに\n\n AWS Samples\nこのヘルスケアAIエージェントプロジェクトは AWS Samples (github.com/aws-samples)に含まれるサンプルコードです。\nこのリポジトリについて:\n\n\nGitHub:"
   },
   {
     "title": "Apple、「Swift SDK for Android」プレビュー公開。Swift言語でAndroid対応アプリを開発",
@@ -82,6 +117,13 @@
     "pubDate": "2025-10-26T15:46:41.000Z",
     "source": "Publickey",
     "contentSnippet": "Rubyを用いたWebアプリケーションフレームワーク「Ruby on Rails」の最新バージョン「Ruby on Rails 8.1」（以下、Rails 8.1）の正式版がリリースされました。 Rails 8.1 has been released! It includes job continuations, structured events, local CI, registry-free"
+  },
+  {
+    "title": "Vue Fes JAPAN 2025に参加してきました。",
+    "link": "https://zenn.dev/mameshiba_274/articles/a5a6ae9257cd7f",
+    "pubDate": "Sun, 26 Oct 2025 15:00:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n今回、Vue Fes JAPAN 2025に学生支援制度枠として参加させて頂きましたので、参加レポートを書きたいと思います。\n私自身、普段はTypeScriptやNode.js、Reactを用いたフロントエンド寄りのコードを書くことが多く、Vueを書く機会はあまりないのですが、フロントエンドのエコシステムや、デザインエンジニアリングという文脈での開発について興味があります。今回のVue "
   },
   {
     "title": "Amazon Bedrock AgentCore が GA したので人間の実働 3 分で Runtime を動かす",
@@ -133,20 +175,6 @@
     "contentSnippet": "こんにちは、Kaiです。\n先週は投稿をお休みしたので2週間ぶりですね。\n大きな話題としては、ClaudeのAgent Skills、OpenAIのAtlas、Googleの量子コンピュータあたりでしょうか。\nClaudeはもう正統進化という印象で、特に開発者にとってかゆいところに手が届くアップデートを積み重ねています。あくまで手触りのよい善きツールに徹する、というスタンスなのかもしれません。\n一方"
   },
   {
-    "title": "Go でログに機密情報を出力していないか静的解析するツールを作った",
-    "link": "https://zenn.dev/nilpoona/articles/c68387ec5415f7",
-    "pubDate": "Sun, 26 Oct 2025 07:06:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nアプリケーション開発において、デバッグやモニタリングのためにログを出力することは一般的です。しかし、うっかりパスワードやAPIキーなどの機密情報をログに含めてしまうと、重大なセキュリティインシデントにつながる可能性があります。\n本記事では、Go で書かれたコードを静的解析し、機密情報がログに出力されていないかチェックするツール leakhound を紹介します。\nhttps://gith"
-  },
-  {
-    "title": "【イベントレポート兼リンク集】Microsoft 365 CopilotとCopilot Studioのライセンスの話",
-    "link": "https://qiita.com/Oyu3m/items/fd6a820a4fbf7da7025a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-26T06:24:15.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. 導入・イベント概要\nイベント名：なんでもCopilot（プレビュー）#3「Copilotのライセンスを見る会」\n開催日：2025年10月1日 22:00～23:30\n形式：オンライン\n主催・登壇者：おゆ、ぺぺ（なんでもCopilot運営）\n目的：ライセンスに関する雑..."
-  },
-  {
     "title": "感覚で理解するベクトル制御",
     "link": "https://qiita.com/Doraemonjayo/items/37cc77e6d5a6aeb2694e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-26T06:00:15.000Z",
@@ -168,13 +196,6 @@
     "contentSnippet": "ソフトウェアエンジニアリングの未来に対する考察"
   },
   {
-    "title": "なんとなく聞き流しがちな「圧縮」をGoの実装から理解する（可逆圧縮編）",
-    "link": "https://zenn.dev/yuta_kakiki/articles/13f54dd123e0d8",
-    "pubDate": "Sun, 26 Oct 2025 03:40:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n「データを圧縮すれば小さいサイズでレスポンスを返せて速くなるぞ」(唐突)\n\nそこで大抵、「まあそうだよね」と答えられるはずです。これは非エンジニアだとしてもなんとなくそういうふうに思えるはずです。\n.....でも、よく考えたら、データを「圧縮」「小さくする」って、実際何をしてるんだろうか。\n\n「よし、概念的に調べるぞ、ソースコードも読むぞ」ということで、RFCをはじめ色々調べてみたのでま"
-  },
-  {
     "title": "サイバーセキュリティ情報インプット集 2025年版",
     "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-25T12:34:52.000Z",
@@ -182,18 +203,11 @@
     "contentSnippet": "セキュリティガイドライン、フレームワーク集\n業界や技術等の軸で存在感のあるガイドラインやフレームワークを学習することは非常に有益です。\n本記事は、普段は参照しないようなものから幅広い知見を得ることでセキュリティ業界全体を盛り上げたい。という思いで作成しています。そのため、..."
   },
   {
-    "title": "AWS FTR（Foundational Technical Review）を取得してAWS認定ソフトウェアとなりました",
-    "link": "https://qiita.com/infra365/items/bb75ab188dcf19398a9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T10:25:14.000Z",
+    "title": "【振り返り】2025年10月20日AWS大規模障害、何が起こったの？",
+    "link": "https://qiita.com/zhang_hang/items/e63468ec53a95bb605a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T03:07:22.000Z",
     "source": "Qiita",
-    "contentSnippet": "AWS FTRとは\nAWS FTR（Foundational Technical Review）とは、AWSパートナー企業がAWS上でサービスを提供する際、その環境がAWSのベストプラクティスに沿って設計・構築・運用されているかを評価するプログラムです。レビューを通過する..."
-  },
-  {
-    "title": "うわああああ！MacでVSCodeが小さくなっちゃった！しかもショートカットも効かない！誰か助k...の解決方法",
-    "link": "https://qiita.com/yoyoh_/items/ce0142050cfb55fb6f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T23:28:10.000Z",
-    "source": "Qiita",
-    "contentSnippet": "悲劇は突然に\nうわああああ！\nなんにも見えねええええ！\n\nどうしてだよおおおお！\n\n拡大ショートカットで簡単に解決するはずだったのに\nみなさんもうっかりMacのVSCodeで縮小のショートカットCommand + -に当たってしまい、VSCodeの画面が以下のように小さく..."
+    "contentSnippet": "AWSと関わるエンジニアになってから、一番濃かった月曜でしたね。\n日本の会社なので、US-EAST-1（バージニア北部）リージョンに重いワークロードを積んでいないとはいえ、サポート起票できず、マネコンもままならない状況は、ある種の「非日常」に感じました。\n（個人的には、Pe..."
   },
   {
     "title": "【脱・ランサムウェア被害】中小企業向けSaaSは「サーバーレス×APIファースト」で防御力を劇的に高める",
@@ -208,20 +222,6 @@
     "pubDate": "2025-10-24T10:42:06.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n個人的に GitHub Copilot（以降: Copilot）にとてもお世話になっているので、自分なりの設定や良いなと思っている点をメモとしてまとめてみました！（2025/10時点）\n基本的なことばかりかもしれませんが、どなたかの参考になりましたら嬉しいです！..."
-  },
-  {
-    "title": "Microsoft Agent Framework開発入門",
-    "link": "https://qiita.com/matayuuu/items/e028904453dded34d18f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T06:58:36.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Microsoft Agent Framework とは\n\n概要\nMicrosoft Agent Framework は、Microsoft が OSS として提供する AI エージェント & マルチエージェントワークフローを開発する フレームワークです。\nMicroso..."
-  },
-  {
-    "title": "VS Code（Cursor）で現在開いているタブを一目で分かるようにする方法",
-    "link": "https://qiita.com/yosei_ikegami/items/baf3f6ba7467d0db6f7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T04:34:27.000Z",
-    "source": "Qiita",
-    "contentSnippet": "問題\nマルチタブ環境で作業していると、現在開いているファイルがどれか分からなくなることがあります。\n\n解決方法\nVS Code（Cursor）の標準設定をカスタマイズして、アクティブなタブに色付きのボーダーを追加してみました。\n\n設定手順\n\nコマンドパレットを開く\n..."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

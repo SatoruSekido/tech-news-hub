@@ -1,73 +1,73 @@
 [
   {
-    "title": "Ferramentas de Segurança do IAM: seus aliados na proteção da conta AWS",
-    "link": "https://dev.to/sinngjpeg/ferramentas-de-seguranca-do-iam-seus-aliados-na-protecao-da-conta-aws-1ac0",
-    "pubDate": "Tue, 28 Oct 2025 01:50:39 +0000",
+    "title": "The Rise of Cybercrime-as-a-Service: Inside the Hacker Marketplace",
+    "link": "https://dev.to/shivakshi_rawat_e69cf6990/the-rise-of-cybercrime-as-a-service-inside-the-hacker-marketplace-29lg",
+    "pubDate": "Tue, 28 Oct 2025 06:36:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "IAM (Identity and Access Management) é o coração da segurança na nuvem. É ele que controla quem pode fazer o quê dentro da sua conta e, claro, ajuda a garantir que ninguém tenha mais acesso do que rea"
+    "contentSnippet": "In a world increasingly shaped by data and connectivity, the line between innovation and exploitation is thinner than ever. At IntelligenceX, our work in digital threat intelligence has revealed a wor"
   },
   {
-    "title": "A beginner's guide to the Video-Utils model by Nicolascoutureau on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-video-utils-model-by-nicolascoutureau-on-replicate-lhf",
-    "pubDate": "Tue, 28 Oct 2025 01:46:30 +0000",
+    "title": "SEO and Next.js: How to Implement and Optimize for Better Results",
+    "link": "https://dev.to/adetolaesther/seo-and-nextjs-how-to-implement-and-optimize-for-better-results-54pj",
+    "pubDate": "Tue, 28 Oct 2025 06:29:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Video-Utils maintained by Nicolascoutureau. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nThe video-utils "
+    "contentSnippet": "What is SEO?\n\n\nSEO stands for Search Engine Optimization. It is the process of making a website more visible in search results to increase both the quality and quantity of traffic. Unlike paid ads, SE"
   },
   {
-    "title": "A beginner's guide to the Seedream-4 model by Bytedance on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-seedream-4-model-by-bytedance-on-replicate-56j7",
-    "pubDate": "Tue, 28 Oct 2025 01:45:57 +0000",
+    "title": "Building Smarter AI: Types of Memory and How to Make Your Agent Remember",
+    "link": "https://dev.to/chaitrali_kakde/building-smarter-ai-types-of-memory-and-how-to-make-your-agent-remember-11ek",
+    "pubDate": "Tue, 28 Oct 2025 06:22:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Seedream-4 maintained by Bytedance. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nseedream-4 represents By"
+    "contentSnippet": "I’ve worked with multiple AI agents and noticed a common issue - they forget.\nNo matter how advanced the model is, most AI agents lose context fast. They forget earlier parts of a conversation, start "
   },
   {
-    "title": "FluxCD on EKS with IRSA for ECR using Terraform",
-    "link": "https://dev.to/santanu_das/fluxcd-on-eks-with-irsa-for-ecr-using-terraform-4l1n",
-    "pubDate": "Tue, 28 Oct 2025 01:45:16 +0000",
+    "title": "The Hidden Cost of Manual Competitor Tracking",
+    "link": "https://dev.to/tracksimple/the-hidden-cost-of-manual-competitor-tracking-2hni",
+    "pubDate": "Tue, 28 Oct 2025 06:21:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Table Of Contents\n\n\n\nThe Goal\nArchitecture\nEnd-to-End Flow\nDeployment Itmes\nTerraform Code\nVerification\nTroubleshooting\nSecurity\nChange Log\nThe New Zenler is moving to a shiny new platform (at the tim"
+    "contentSnippet": "The Hidden Cost of Manual Competitor Tracking\n\n\nLast Tuesday, your biggest competitor quietly lowered their enterprise pricing by 20%. You didn't notice until Friday when a prospect asked why your sol"
   },
   {
-    "title": "Funções do IAM na AWS",
-    "link": "https://dev.to/sinngjpeg/funcoes-do-iam-na-aws-19nh",
-    "pubDate": "Tue, 28 Oct 2025 01:44:45 +0000",
+    "title": "WAMP vs XAMPP: Choosing the Best Local Server for WordPress Development",
+    "link": "https://dev.to/medha_bhatt_21b7dc4cc53e7/wamp-vs-xampp-choosing-the-best-local-server-for-wordpress-development-44i",
+    "pubDate": "Tue, 28 Oct 2025 06:14:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Entendendo as Funções do IAM na AWS\nO que são Funções do IAM?\nQuando você começa a trabalhar com AWS, é comum se deparar com o termo IAM (Identity and Access Management) , o sistema que controla quem "
+    "contentSnippet": "Are you trying to figure out if WAMP is better than XAMPP to power up your local servers for WordPress development?\nSetting up a local server environment is a crucial step for developers aiming to bui"
   },
   {
-    "title": "Acessando a AWS",
-    "link": "https://dev.to/sinngjpeg/acessando-a-aws-3884",
-    "pubDate": "Tue, 28 Oct 2025 01:41:11 +0000",
+    "title": "How to Avoid Burnout: Strategic PM for Team Resilience",
+    "link": "https://dev.to/hardikbhawsar/how-to-avoid-burnout-strategic-pm-for-team-resilience-2cif",
+    "pubDate": "Tue, 28 Oct 2025 06:13:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Como podemos acessar a AWS\nQuando a gente começa a estudar AWS, uma das primeiras perguntas que surgem é: “Beleza, mas como eu realmente acesso a AWS pra criar e gerenciar meus recursos?”\nA resposta é"
+    "contentSnippet": "Burnout is the kind of crisis that threatens the very foundation of team performance and creativity.\nThe pressure to maintain content velocity and stay \"always on,\" and constantly innovate has transfo"
   },
   {
-    "title": "3354. Make Array Elements Equal to Zero",
-    "link": "https://dev.to/mdarifulhaque/3354-make-array-elements-equal-to-zero-3f6c",
-    "pubDate": "Tue, 28 Oct 2025 01:40:00 +0000",
+    "title": "Build a No-Code AI App That Turns Video to Text with Gemini 2.5",
+    "link": "https://dev.to/momen_hq/build-a-no-code-ai-app-that-turns-video-to-text-with-gemini-25-3j0",
+    "pubDate": "Tue, 28 Oct 2025 06:11:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "3354. Make Array Elements Equal to Zero\nDifficulty: Easy\nTopics: Array, Simulation, Prefix Sum, Weekly Contest 424\nYou are given an integer array nums.\nStart by selecting a starting position curr such"
+    "contentSnippet": "In the ever-evolving landscape of AI and no-code development, the ability to transform video content into structured, searchable text is a game-changer. This article explores how to build a no-code AI"
   },
   {
-    "title": "Construir Mi servidor casero. ¿El problema? …Venezuela",
-    "link": "https://dev.to/1phiexdric/construir-mi-servidor-casero-el-problema-venezuela-10d3",
-    "pubDate": "Tue, 28 Oct 2025 01:38:31 +0000",
+    "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
+    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3eim",
+    "pubDate": "Tue, 28 Oct 2025 06:05:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Desde hace varias semanas estoy investigando la posibilidad de crear un servidor casero (homelab) para alojar mis proyectos, bases de datos y bots, además de aprender sobre administración de sistemas "
+    "contentSnippet": "The Productivity System I Taught to 6,642 Googlers\n\n\nJeff Su lays out his CORE workflow—a simple, four-step process (Capture, Organize, Review, Engage) that he taught to over 6,600 Google employees ac"
   },
   {
-    "title": "#5 The basic syntax of Python",
-    "link": "https://dev.to/koichi_yoshikawa_dbd33319/5-the-basic-syntax-of-python-21b5",
-    "pubDate": "Tue, 28 Oct 2025 01:38:17 +0000",
+    "title": "Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-38e7",
+    "pubDate": "Tue, 28 Oct 2025 06:00:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today, I reviewed the basic syntax of Python.\nIt’s been about five years since I last worked with Python, so I had forgotten most of it.\nI’m going to keep learning a little bit every day."
+    "contentSnippet": "‘Halloween II’ Deep Dive with Bill Simmons, Chris Ryan & Van Lathan\n\n\nBill, Chris, and Van revisit Michael Myers’s 1981 comeback in Halloween II—and suddenly “death” gets real confusing. They kick off"
   },
   {
-    "title": "Políticas IAM: Entendendo como o acesso funciona na AWS",
-    "link": "https://dev.to/sinngjpeg/politicas-iam-entendendo-como-o-acesso-funciona-na-aws-cl5",
-    "pubDate": "Tue, 28 Oct 2025 01:35:57 +0000",
+    "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-h9",
+    "pubDate": "Tue, 28 Oct 2025 06:00:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Se você está começando a estudar AWS, provavelmente já ouviu falar em IAM (Identity and Access Management) , o serviço que controla quem pode fazer o quê dentro da nuvem. Mas, à primeira vista, ele po"
+    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less is Cinemasins’ latest cheeky take on Tim Burton’s re-released stop-motion throwback, celebrating its “Franky-good-boy” charm while gleefully t"
   },
   {
     "title": "さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始",

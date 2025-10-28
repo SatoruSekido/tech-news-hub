@@ -1,73 +1,101 @@
 [
   {
-    "title": "The Rise of Cybercrime-as-a-Service: Inside the Hacker Marketplace",
-    "link": "https://dev.to/shivakshi_rawat_e69cf6990/the-rise-of-cybercrime-as-a-service-inside-the-hacker-marketplace-29lg",
-    "pubDate": "Tue, 28 Oct 2025 06:36:06 +0000",
+    "title": "What you’ll learn 👇 \r\n🔹 When and why to refactor old React apps \r\n🔹 How to introduce micro-frontends step by step \r\n🔹 Avoiding common refactor pitfalls \r\n🔹 Building for scalability and speed",
+    "link": "https://dev.to/tahamjp/what-youll-learn-when-and-why-to-refactor-old-react-apps-how-to-introduce-196e",
+    "pubDate": "Tue, 28 Oct 2025 12:47:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In a world increasingly shaped by data and connectivity, the line between innovation and exploitation is thinner than ever. At IntelligenceX, our work in digital threat intelligence has revealed a wor"
+    "contentSnippet": "🛠️ Refactoring Legacy React Apps: The Micro-Frontend Path\nTaha Majlesi Pour ・ Oct 28\n#react\n        #javascript\n        #frontend\n        #architecture"
   },
   {
-    "title": "SEO and Next.js: How to Implement and Optimize for Better Results",
-    "link": "https://dev.to/adetolaesther/seo-and-nextjs-how-to-implement-and-optimize-for-better-results-54pj",
-    "pubDate": "Tue, 28 Oct 2025 06:29:28 +0000",
+    "title": "Why Do Agencies Rely on Zapier Specialists?",
+    "link": "https://dev.to/asharmalik/why-do-agencies-rely-on-zapier-specialists-517c",
+    "pubDate": "Tue, 28 Oct 2025 12:45:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is SEO?\n\n\nSEO stands for Search Engine Optimization. It is the process of making a website more visible in search results to increase both the quality and quantity of traffic. Unlike paid ads, SE"
+    "contentSnippet": "Automation has become the backbone of modern digital agencies. Whether it’s managing client data, streamlining reports, or ensuring leads flow smoothly between platforms, efficiency is key. That’s exa"
   },
   {
-    "title": "Building Smarter AI: Types of Memory and How to Make Your Agent Remember",
-    "link": "https://dev.to/chaitrali_kakde/building-smarter-ai-types-of-memory-and-how-to-make-your-agent-remember-11ek",
-    "pubDate": "Tue, 28 Oct 2025 06:22:00 +0000",
+    "title": "test_devto",
+    "link": "https://dev.to/__f27cfeca2e21de8d2378/testdevto-18pi",
+    "pubDate": "Tue, 28 Oct 2025 12:39:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’ve worked with multiple AI agents and noticed a common issue - they forget.\nNo matter how advanced the model is, most AI agents lose context fast. They forget earlier parts of a conversation, start "
+    "contentSnippet": "Test DEV.to Post\n\n\nThis is a test post to verify the publishing process."
   },
   {
-    "title": "The Hidden Cost of Manual Competitor Tracking",
-    "link": "https://dev.to/tracksimple/the-hidden-cost-of-manual-competitor-tracking-2hni",
-    "pubDate": "Tue, 28 Oct 2025 06:21:19 +0000",
+    "title": "merge jsonschema",
+    "link": "https://dev.to/devangular/merge-jsonschema-3667",
+    "pubDate": "Tue, 28 Oct 2025 12:39:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Hidden Cost of Manual Competitor Tracking\n\n\nLast Tuesday, your biggest competitor quietly lowered their enterprise pricing by 20%. You didn't notice until Friday when a prospect asked why your sol"
+    "contentSnippet": "@SuppressWarnings(\"unchecked\")\nprivate static Document innerJsonSchema(Document full) {\n  // full is { \"$jsonSchema\": { ... } }\n  return (Document) full.get(\"$jsonSchema\");\n}\n\nprivate static Document "
   },
   {
-    "title": "WAMP vs XAMPP: Choosing the Best Local Server for WordPress Development",
-    "link": "https://dev.to/medha_bhatt_21b7dc4cc53e7/wamp-vs-xampp-choosing-the-best-local-server-for-wordpress-development-44i",
-    "pubDate": "Tue, 28 Oct 2025 06:14:04 +0000",
+    "title": "Why Manual Testing Isn’t “Old School” - It’s the Secret Sauce for Smart Automation",
+    "link": "https://dev.to/uziman-qa/why-manual-testing-isnt-old-school-its-the-secret-sauce-for-smart-automation-4f60",
+    "pubDate": "Tue, 28 Oct 2025 12:36:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Are you trying to figure out if WAMP is better than XAMPP to power up your local servers for WordPress development?\nSetting up a local server environment is a crucial step for developers aiming to bui"
+    "contentSnippet": "Hey there, fellow testers! Let me tell you a secret: manual testing isn’t just “doing things by hand.” It’s the R&D lab for automation. Think of it like this: automation is a super-fast robot. You giv"
   },
   {
-    "title": "How to Avoid Burnout: Strategic PM for Team Resilience",
-    "link": "https://dev.to/hardikbhawsar/how-to-avoid-burnout-strategic-pm-for-team-resilience-2cif",
-    "pubDate": "Tue, 28 Oct 2025 06:13:02 +0000",
+    "title": "🛠️ Refactoring Legacy React Apps: The Micro-Frontend Path",
+    "link": "https://dev.to/tahamjp/refactoring-legacy-react-apps-the-micro-frontend-path-3icf",
+    "pubDate": "Tue, 28 Oct 2025 12:36:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Burnout is the kind of crisis that threatens the very foundation of team performance and creativity.\nThe pressure to maintain content velocity and stay \"always on,\" and constantly innovate has transfo"
+    "contentSnippet": "Our React app started like a puppy 🐶. Cute, small, easy.\nEvery feature slowed us down.\n\n\nEvery release felt risky.\n\n\nThe “quick fixes” piled up into tech debt.\n\n\n\nWe needed a way to break it apart wi"
   },
   {
-    "title": "Build a No-Code AI App That Turns Video to Text with Gemini 2.5",
-    "link": "https://dev.to/momen_hq/build-a-no-code-ai-app-that-turns-video-to-text-with-gemini-25-3j0",
-    "pubDate": "Tue, 28 Oct 2025 06:11:10 +0000",
+    "title": "Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸",
+    "link": "https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--19i8",
+    "pubDate": "Tue, 28 Oct 2025 12:36:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the ever-evolving landscape of AI and no-code development, the ability to transform video content into structured, searchable text is a game-changer. This article explores how to build a no-code AI"
+    "contentSnippet": "GitHub Home\nI still remember the bug that kept me up all night. A payment callback endpoint, when handling a rare, exceptional status code from a third-party payment gateway, had a .catch() that was a"
   },
   {
-    "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
-    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-3eim",
-    "pubDate": "Tue, 28 Oct 2025 06:05:17 +0000",
+    "title": "SnarkyType, the Snarkier Way to Type gets better?",
+    "link": "https://dev.to/codemonster240/snarkytype-the-snarkier-way-to-type-gets-better-1hcn",
+    "pubDate": "Tue, 28 Oct 2025 12:34:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Productivity System I Taught to 6,642 Googlers\n\n\nJeff Su lays out his CORE workflow—a simple, four-step process (Capture, Organize, Review, Engage) that he taught to over 6,600 Google employees ac"
+    "contentSnippet": "A long time ago, I had AI write me a blog post about my progress on SnarkyType because I never thought that I would finish it. Back then, SnarkyType was in Alpha, so it was kinda boring. But, I have N"
   },
   {
-    "title": "Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-38e7",
-    "pubDate": "Tue, 28 Oct 2025 06:00:28 +0000",
+    "title": "Building a Test Data Platform After Watching Teams Secretly Use Production for Years",
+    "link": "https://dev.to/alex_hayward_ff2d88ff331e/building-a-test-data-platform-after-watching-teams-secretly-use-production-for-years-31b6",
+    "pubDate": "Tue, 28 Oct 2025 12:34:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "‘Halloween II’ Deep Dive with Bill Simmons, Chris Ryan & Van Lathan\n\n\nBill, Chris, and Van revisit Michael Myers’s 1981 comeback in Halloween II—and suddenly “death” gets real confusing. They kick off"
+    "contentSnippet": "Two weeks ago I asked data engineers on Reddit how much time they lose getting test data ready. Top response was brutally honest:\n\"Everywhere I've worked with sensitive data, everybody ended up secret"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-h9",
-    "pubDate": "Tue, 28 Oct 2025 06:00:21 +0000",
+    "title": "First sakila project log",
+    "link": "https://dev.to/aka_artem_dd17be93c/first-sakila-project-log-3hl4",
+    "pubDate": "Tue, 28 Oct 2025 12:33:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less is Cinemasins’ latest cheeky take on Tim Burton’s re-released stop-motion throwback, celebrating its “Franky-good-boy” charm while gleefully t"
+    "contentSnippet": "📅 Date: 2025-10-16 → 2025-10-18\n🔧 Tools: Python, Pydantic, MySQL, JSON, Git Submodules\n⸻\n\nHow It Started\nI hit a point where my project needed more than raw input() checks.\nAt the same time, my teac"
+  },
+  {
+    "title": "Java/Mavenビルドが1秒に！Docker Multi-stage Build＋BuildKitで98%短縮した話",
+    "link": "https://qiita.com/ntaka329/items/882e90d61671bdbd024f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T01:51:27.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n開発中、コードを少し変更するたびに「docker compose build」を実行して数十秒待つ...この繰り返しにストレスを感じたことはありませんか？\n今回、JavaアプリケーションのDocker開発環境において、ビルド時間を約3..."
+  },
+  {
+    "title": "DGX Sparkと「nanochat」でゼロから丸一日学習させてLLMを自作してみた",
+    "link": "https://zenn.dev/karaage0703/articles/aedade69a9463f",
+    "pubDate": "Mon, 27 Oct 2025 22:44:18 GMT",
+    "source": "Zenn",
+    "contentSnippet": "nanochatとは\nOpenAI共同設立者、元テスラディレクターであり。バイブコーディング・コンテキストエンジニアリングといった言葉を生み出したAndrej Karpathy氏が公開したソフトウェアです。\nhttps://github.com/karpathy/nanochat\nなんと、ChatGPTのような対話可能なLLMを、規模こそ違えど約100ドルのコストでゼロから4時間で学習させることが"
+  },
+  {
+    "title": "ブラウザの「戻る」で通信が走らない...?  Cache-Control: no-storeとbfcache",
+    "link": "https://zenn.dev/keisuke_05410/articles/689fcdcb49318b",
+    "pubDate": "Mon, 27 Oct 2025 16:28:26 GMT",
+    "source": "Zenn",
+    "contentSnippet": "⚠️⚠️⚠️\n本記事で出てくる「戻るボタン」ってのはchromeの左上にある戻るボタンです。\nブラウザバックってやつです。\n⚠️⚠️⚠️\n\n ことの発端: 戻るボタンを押した時の挙動がおかしい。。。\nある日、ちょっとしたフォームをPOSTする処理を書いていて、\n「ンンンンン？戻るボタン押したときの挙動がおかしいな…」\nページを戻っても、サーバーにリクエストが飛ばない。\nなのに、画面の状態がそのまま"
+  },
+  {
+    "title": "Hono + Cloudflare Workers でOG画像を動的に生成する",
+    "link": "https://zenn.dev/chocolat5/articles/64de392a7132d4",
+    "pubDate": "Mon, 27 Oct 2025 15:48:18 GMT",
+    "source": "Zenn",
+    "contentSnippet": "最近リリースした cinefil.me はユーザーが映画に特化した個別のプロフィールを作成できるwebアプリケーションで、ユーザーの個別ページではOG画像を動的に作成する必要がありました。\nhttps://cinefil.me/\n実現したいことは、og画像生成用のapiエンドポイントを作成し、ユーザーのプロフィールページで以下のようにuserIdを渡してアクセスして動的にOG画像を生成することです"
   },
   {
     "title": "さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始",
@@ -77,6 +105,41 @@
     "contentSnippet": "さくらインターネットは、同社が提供するクラウドサービス「さくらのクラウド」向けに、24時間365日対応の有償サポートを11月10日から提供開始すると発表しました。 同社は現行のサポート体制として、平日10時から18時に問い合わせフォームもしくはコールバック予約の電話にてサポートを提供してきました。 新しく設定されるプレミアムサポートは24時間365日体制でクラウドコントロールパネルの問い合わせフォ"
   },
   {
+    "title": "Vercel AI SDK 6 のアツい機能: needsApproval, ToolLoopAgent, prepareCalls",
+    "link": "https://zenn.dev/layerx/articles/5538adfc79b14e",
+    "pubDate": "Mon, 27 Oct 2025 13:45:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "例のごとく og:image 設定できないので泣く泣く先頭に配置されたアイキャッチ画像\nLayerX AI Agent ブログリレー 33 日目の記事です。 どこまでいくんだろう。\nバクラク事業部 スタッフエンジニアの @izumin5210 です。\nPlatform Engineering 部 Enabling チームでいろいろなことをしています。\n\n Vercel AI SDK 6\nAI SD"
+  },
+  {
+    "title": "ソフトウェアエンジニアリングAIエージェントの変遷――「補完」から「自律」への4年間",
+    "link": "https://qiita.com/hummer/items/06d5797e0c4ddcddfff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T13:04:25.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGitHub Copilot(2021/6)が発表されてから約4年が経過しました。\nこの短い期間で、AIとソフトウェア開発の関係は劇的に変化してきました。筆者自身、日々の開発業務でAIツールを活用しながら、その進化の速さに驚かされ続けています。単なる「コード補完..."
+  },
+  {
+    "title": "Grafana Loki による AWS ログ監視基盤の構築",
+    "link": "https://zenn.dev/shunsei/articles/e3a2640a39ef40",
+    "pubDate": "Mon, 27 Oct 2025 12:04:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n初めまして、木村俊星 です。この度、某S社の SRE を専門とする事業部のインターンに参加しました。インターンでは、Grafana Loki によってログの監視基盤を構築する方法と、Amazon CloudWatch Logs と比較したときの得失について調査しました。本記事では、その調査結果を紹介します。\n環境構築と調査結果を1つの記事に書くと長くなりすぎてしまうため、以下の2部構成と"
+  },
+  {
+    "title": "Kaggle | Jigsawコンペ振り返りメモ",
+    "link": "https://zenn.dev/hasibirok0/articles/adb47c6df37ca6",
+    "pubDate": "Mon, 27 Oct 2025 11:12:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n2025/10/24に終了したJigsaw - Agile Community Rules Classificationに参加し、幻の金メダルを獲得しました(*後述)。非常に悔しい結果に終わったので、拙速な内容にはなりますが、コンペの概要、基本解法、上位解法についてまとめました。個人的な復習のためのメモでもありますが、間違い・抜け漏れなどあればコメント等でご指摘いただけると幸いです。\nh"
+  },
+  {
+    "title": "Vue Fes Japan 2025 に参加しました！",
+    "link": "https://zenn.dev/sekibuuun/articles/d8f7dce7750940",
+    "pubDate": "Mon, 27 Oct 2025 10:58:43 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは、Sekibuuunです。\n今回、学生支援制度プログラムを用いて、Vue Fes Japan 2025 に参加したため、レポートを書きました。\n普段はVueではなくReactを書いているのですが、共通する部分もあると思うので、勉強になればと思い参加しました。\n\n 学生支援制度プログラムとは\nhttps://note.com/naoki_haba/n/n445d7f19fcd4\n"
+  },
+  {
     "title": "個人的もっと知られてほしいNeovim/Vimプラグイン８選",
     "link": "https://zenn.dev/sirasagi62/articles/196e0f592a6177",
     "pubDate": "Mon, 27 Oct 2025 09:58:21 GMT",
@@ -84,11 +147,25 @@
     "contentSnippet": "!\n本記事は Vim 駅伝 の 10/27 の記事です。\n前回は10/24のkuri-sunさんによる自分のデストップに合うNeovimテーマがなかったので、作ってみた。という記事でした。\n\nこの間、NeovimのLSP設定を久しぶりに見直してみました。ついでにプラグインの入れ替えを行ったので、これを機に個人的に便利だけどあんまり知られていない（と思う）Neovim/Vimプラグインを紹介してみよ"
   },
   {
+    "title": "Vue Fes Japan 2025 で初めてスポンサーブース運営やってみたレポ",
+    "link": "https://qiita.com/Yohei_Suda/items/fdcfad4a4712262d6f9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T06:59:49.000Z",
+    "source": "Qiita",
+    "contentSnippet": "どんな人に読んでもらいたいか？\n\nVue Fes Japan の裏側を知りたい方\nスポンサーブース出展を検討している企業担当者\n「急にブース運営を任されたけど何をすればいいの？」と困っている方\n\nはじめに\nGENEROSITYでWeb開発をしている須田です。\n2025年..."
+  },
+  {
     "title": "GPU搭載インスタンスは高い？実測したら逆に8.7倍も安かった話【AWS コスパ検証】",
     "link": "https://qiita.com/noji777/items/a0322c10b010eb210feb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-27T06:00:37.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGMOコネクトの野尻です。\n「高性能の環境って結構コストがお高くなるものだが、クラウドサービスって使った時間だけ料金が発生するのでタイムパフォーマンス加味すると必ずしも高性能環境の方がお金がかかるわけでもないよな？」と思い、今回AWS上で提供されている高性能イン..."
+  },
+  {
+    "title": "ベクトルインデックスのすゝめ",
+    "link": "https://zenn.dev/exwzd/articles/20251015_a_guide_to_vector_indexing",
+    "pubDate": "Mon, 27 Oct 2025 05:47:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n初めまして、株式会社エクサウィザーズのWANDチームでインターンをしている東光です。本記事では、近年注目を集めているベクトルDBのパフォーマンス向上を目的とした、最適なベクトルインデックスの選択方法を紹介します。具体的には、一般的なベクトルインデックスへの見解と実際に実験した知見から、ベストプラクティスを目指すための考え方を示します。\n\n 背景\n\n ベクトルDBとベクトルインデックスの関"
   },
   {
     "title": "技術ブログの書き方 - 好きな技術を紹介する",
@@ -105,25 +182,11 @@
     "contentSnippet": "🎯 はじめに\n「AIで遊び心あるイベントをやってみたい」\nそんな思いつきから始まった、ベストスマイル賞自動採点システム。\n恒例の社内ゴルフコンペで、参加者全員写真を撮影。\nそこからAIが“最もいい笑顔”をスコア化し、自動で表彰スライドを作る。\n──そんな試みを OCI D..."
   },
   {
-    "title": "GitHub × Obsidian × ChatGPT で “知識アシスタント” をつくる方法",
-    "link": "https://zenn.dev/jambo_dev/articles/ea771dd08140b4",
-    "pubDate": "Mon, 27 Oct 2025 02:08:51 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nはじめまして、株式会社ジャンボでiOSエンジニアをしている齊藤です！\n入社してから4ヶ月が経ち、業務にも少しずつ慣れてきました。\n未経験からiOSエンジニアとしての採用でしたので、日々学ぶことが多くて楽しいです。\nその学びを以下のように、Obsidian に開発メモ・設計ノート・学習ログとして書き溜めています。\n\nただ、メモが増えてくると次のような壁にぶつかることはないでしょうか。\n\nあ"
-  },
-  {
-    "title": "TypeScriptの二重性: クラスが“値”と“型”を共有できる背景",
-    "link": "https://qiita.com/Dingu-suke/items/71094ea31d367ddc8990?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T01:15:57.000Z",
+    "title": "なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」",
+    "link": "https://qiita.com/nakaizumi_slj/items/f9f59a2db8fcd6a3d7cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T00:41:22.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに：テストコードから生まれた疑問\nTypeScriptで次のようなテストコードを書いているときに思いました。\ndescribe(\"ショッピングリストのテスト\", () => {\n  let shoppingList: ShoppingList\n  shoppingL..."
-  },
-  {
-    "title": "[Firebase Cloud Messaging]nest.js大量ユーザーにPush通知を「いい感じ」に配信する方法",
-    "link": "https://qiita.com/fukuidaito/items/95160e3d12fa6e501a6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T01:13:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "大量ユーザーにPush通知を「いい感じ」に配信する方法を紹介します\nここでのいい感じの定義は、\n「一斉送信してもパンクせず、部分的な失敗を許容しながら、再試行で自然に回復するような、運用に優しい仕組み」\nのことを指します。\n目的\n例えば1000人以上のユーザーなど大量ユーザ..."
+    "contentSnippet": "働き始めてから、本を読む時間がどんどん減っていませんか？\n朝はTech系ニュース、昼は公式ドキュメント、夜はQiitaやZennの記事……。\n私たちエンジニアは、学び続ける日々の中で、気づけば本を開かなくなっていることがあるのです。\nそしてある日、ふと気づきました。\n「学ん..."
   },
   {
     "title": "見た目と中身がズレるわけ 文字化けの正体とUTF-8・CRLF入門",
@@ -131,20 +194,6 @@
     "pubDate": "2025-10-27T00:36:20.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n開発中に「見た目は同じなのに差分が崩れる」「Windowsで作ったテキストをLinuxで開くと一行になる」「絵文字だけ位置が合わない」といった小さな不具合に出会うことがあります。原因を押さえておくと、レビューやデータ受け渡しで無駄な往復を減らせます。\nまた、最後..."
-  },
-  {
-    "title": "「SQS＊Step Functions＊Fargate」でジョブの待ち時間を解消したら、コストも80%削減できた話",
-    "link": "https://zenn.dev/hacobell_dev/articles/4d395887fb6522",
-    "pubDate": "Mon, 27 Oct 2025 00:30:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、ハコベルでエンジニアリングマネージャー兼テックリードをやっている吉岡です。\nこの記事では、ハコベル配車計画 チームで実施した、インフラアーキテクチャ改善事例についてご紹介します。\n\n これまでのアーキテクチャと課題\nハコベル配車計画が提供する機能の一つに、配送ルートの最適化計算があります。ユーザーは、この計算が想定している時間通りに終わることを前提に業務を組んでいるため、遅延すると配車"
-  },
-  {
-    "title": "【AWS公式】ヘルスケアAIエージェント - Amazon Bedrock AgentCore を活用した構築を徹底解説",
-    "link": "https://zenn.dev/aws_japan/articles/679e723bb34cb6",
-    "pubDate": "Sun, 26 Oct 2025 22:00:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本ブログはAWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第1日目です。\n\n はじめに\n\n AWS Samples\nこのヘルスケアAIエージェントプロジェクトは AWS Samples (github.com/aws-samples)に含まれるサンプルコードです。\nこのリポジトリについて:\n\n\nGitHub:"
   },
   {
     "title": "Apple、「Swift SDK for Android」プレビュー公開。Swift言語でAndroid対応アプリを開発",
@@ -161,46 +210,11 @@
     "contentSnippet": "Rubyを用いたWebアプリケーションフレームワーク「Ruby on Rails」の最新バージョン「Ruby on Rails 8.1」（以下、Rails 8.1）の正式版がリリースされました。 Rails 8.1 has been released! It includes job continuations, structured events, local CI, registry-free"
   },
   {
-    "title": "Amazon Bedrock AgentCore が GA したので人間の実働 3 分で Runtime を動かす",
-    "link": "https://zenn.dev/aws_japan/articles/088f2051eb6ab3",
-    "pubDate": "Sun, 26 Oct 2025 15:00:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本ブログはAWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 1 日目です。\n\n Amazon Bedrock AgentCore is Generally Available\n出ました。\nhttps://aws.amazon.com/jp/blogs/machine-learning/amazon-bedr"
-  },
-  {
-    "title": "Vercel AI SDKはなぜ複数ステップのLLM呼び出しを1つのStreamで返せるのか？",
-    "link": "https://zenn.dev/condy/articles/2fd43ba8819f04",
-    "pubDate": "Sun, 26 Oct 2025 12:19:34 GMT",
-    "source": "Zenn",
-    "contentSnippet": "最近業務で AI エージェントの実装をすることが多い新卒 1 年目のエンジニアです。\nVercel AI SDK の実装で面白いなと思った部分について記事にしてみました！（初投稿）\n\n はじめに\nVercel AI SDK では、以下のようにstreamTextに prompt や tool などを渡すだけで、AI エージェントを簡単に作ることができます。\n\nexample.ts\n// お天気エー"
-  },
-  {
-    "title": "Vue Fes Japan 2025 登壇資料まとめ",
-    "link": "https://zenn.dev/shun91/articles/vue-fes-japan-2025",
-    "pubDate": "Sun, 26 Oct 2025 09:22:29 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025 年 10 月 25 日に Vue Fes Japan 2025 が開催されました。\n私は参加することはできなかったのですが、登壇資料を早く読みたいと思っていたので X のポストを中心に公開されている資料を探してまとめました。\nAI による簡単な概要も記載しています。\n随時更新予定なので、資料の情報提供、間違いの指摘など歓迎です。\n!\n更新履歴はコミットログをご確認ください。\nhttps:"
-  },
-  {
     "title": "結婚式でLTをして一部界隈にだけ刺さった話（メッセージ生成LINE bot）",
     "link": "https://qiita.com/takacpu55/items/336c838827fd52720523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-26T08:11:35.000Z",
     "source": "Qiita",
     "contentSnippet": "初めに\nこんにちは、ぱそきいろ（@takacpu55)です。\n普段は、はてなブログで記事を書いていますが、割とゆるめな記事なのでQiitaにおいておこうと思います。\n興味のある方は以下からご覧になってください。\n\n結婚式でLTをした話\n私ごとですが、先日結婚式を挙げ..."
-  },
-  {
-    "title": "OSSにスターをするところから始めませんか？？",
-    "link": "https://zenn.dev/ao_kun/articles/thanks-stars",
-    "pubDate": "Sun, 26 Oct 2025 08:06:29 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nつい先日、MinIOがDocker Imageの無料配布を停止したニュースが話題になりました。\nOSSはメンテナの善意で提供されており、我々はsponsorをしていないものについては無料で使わせてもらっているということを改めて認識しなければならないニュースです。\n一方で、普段使っているossすべてにsponsorをするほどの資金力はないという現実もあります。\n\n なら、せめてお世話になっ"
-  },
-  {
-    "title": "[2025年10月26日] WebがMCPになる日 (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/1938c544c41c04",
-    "pubDate": "Sun, 26 Oct 2025 07:44:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、Kaiです。\n先週は投稿をお休みしたので2週間ぶりですね。\n大きな話題としては、ClaudeのAgent Skills、OpenAIのAtlas、Googleの量子コンピュータあたりでしょうか。\nClaudeはもう正統進化という印象で、特に開発者にとってかゆいところに手が届くアップデートを積み重ねています。あくまで手触りのよい善きツールに徹する、というスタンスなのかもしれません。\n一方"
   },
   {
     "title": "感覚で理解するベクトル制御",
@@ -215,20 +229,6 @@
     "pubDate": "2025-10-25T12:34:52.000Z",
     "source": "Qiita",
     "contentSnippet": "セキュリティガイドライン、フレームワーク集\n業界や技術等の軸で存在感のあるガイドラインやフレームワークを学習することは非常に有益です。\n本記事は、普段は参照しないようなものから幅広い知見を得ることでセキュリティ業界全体を盛り上げたい。という思いで作成しています。そのため、..."
-  },
-  {
-    "title": "APIテスト工数を劇的削減！ AI活用型 vs 仕様書連携型 vs CI/CD型 〜OpenAPIを活用したテスト自動化ツールを徹底比較〜",
-    "link": "https://qiita.com/taikidanbara/items/db21ae0df42acce44663?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T08:39:17.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nREST APIの結合試験(統合試験)を手動で実施するのは、時間がかかり、ミスも発生しやすい作業です。本記事では、OpenAPI仕様書を活用して、結合試験を自動化するツールを比較解説します。\n\n本記事の対象読者\n\nOpenAPI/Swagger仕様書からテストを..."
-  },
-  {
-    "title": "【振り返り】2025年10月20日AWS大規模障害、何が起こったの？",
-    "link": "https://qiita.com/zhang_hang/items/e63468ec53a95bb605a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T03:07:22.000Z",
-    "source": "Qiita",
-    "contentSnippet": "AWSと関わるエンジニアになってから、一番濃かった月曜でしたね。\n日本の会社なので、US-EAST-1（バージニア北部）リージョンに重いワークロードを積んでいないとはいえ、サポート起票できず、マネコンもままならない状況は、ある種の「非日常」に感じました。\n（個人的には、Pe..."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

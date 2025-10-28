@@ -1,73 +1,94 @@
 [
   {
-    "title": "What you’ll learn 👇 \r\n🔹 When and why to refactor old React apps \r\n🔹 How to introduce micro-frontends step by step \r\n🔹 Avoiding common refactor pitfalls \r\n🔹 Building for scalability and speed",
-    "link": "https://dev.to/tahamjp/what-youll-learn-when-and-why-to-refactor-old-react-apps-how-to-introduce-196e",
-    "pubDate": "Tue, 28 Oct 2025 12:47:39 +0000",
+    "title": "Fault-Tolerant Realtime Data Ingestion with QuestDB Write-Ahead Logs",
+    "link": "https://dev.to/nilutpal_/fault-tolerant-realtime-data-ingestion-with-questdb-write-ahead-logs-51e5",
+    "pubDate": "Tue, 28 Oct 2025 18:26:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🛠️ Refactoring Legacy React Apps: The Micro-Frontend Path\nTaha Majlesi Pour ・ Oct 28\n#react\n        #javascript\n        #frontend\n        #architecture"
+    "contentSnippet": "When you’re tracking thousands of moving objects — drivers, delivery agents, or devices — reliability matters just as much as speed.\nYou can’t afford to lose a single GPS ping.\nThat’s where QuestDB’s "
   },
   {
-    "title": "Why Do Agencies Rely on Zapier Specialists?",
-    "link": "https://dev.to/asharmalik/why-do-agencies-rely-on-zapier-specialists-517c",
-    "pubDate": "Tue, 28 Oct 2025 12:45:14 +0000",
+    "title": "How do I delegate when I can do it faster myself?",
+    "link": "https://dev.to/valeriavg/how-do-i-delegate-when-i-can-do-it-faster-myself-5lh",
+    "pubDate": "Tue, 28 Oct 2025 18:24:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Automation has become the backbone of modern digital agencies. Whether it’s managing client data, streamlining reports, or ensuring leads flow smoothly between platforms, efficiency is key. That’s exa"
+    "contentSnippet": "I remember why I became a manager. The team needed someone to advocate for their growth, compensation and overall well-being. I knew very little about leadership or management and the resources were s"
   },
   {
-    "title": "test_devto",
-    "link": "https://dev.to/__f27cfeca2e21de8d2378/testdevto-18pi",
-    "pubDate": "Tue, 28 Oct 2025 12:39:27 +0000",
+    "title": "Role-Based Access Control for AI Development: Managing Prompts, Evals, and Data Securely",
+    "link": "https://dev.to/kuldeep_paul/role-based-access-control-for-ai-development-managing-prompts-evals-and-data-securely-1a66",
+    "pubDate": "Tue, 28 Oct 2025 18:24:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Test DEV.to Post\n\n\nThis is a test post to verify the publishing process."
+    "contentSnippet": "Modern AI applications—spanning copilots, voice agents, and multimodal RAG systems—introduce unique security and governance challenges that traditional web services never had to contend with. These sy"
   },
   {
-    "title": "merge jsonschema",
-    "link": "https://dev.to/devangular/merge-jsonschema-3667",
-    "pubDate": "Tue, 28 Oct 2025 12:39:11 +0000",
+    "title": "The Model Context Protocol (MCP): A Foundational Standard for Agentic AI Systems",
+    "link": "https://dev.to/lucash_ribeiro_dev/the-model-context-protocol-mcp-a-foundational-standard-for-agentic-ai-systems-4dg",
+    "pubDate": "Tue, 28 Oct 2025 18:24:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "@SuppressWarnings(\"unchecked\")\nprivate static Document innerJsonSchema(Document full) {\n  // full is { \"$jsonSchema\": { ... } }\n  return (Document) full.get(\"$jsonSchema\");\n}\n\nprivate static Document "
-  },
-  {
-    "title": "Why Manual Testing Isn’t “Old School” - It’s the Secret Sauce for Smart Automation",
-    "link": "https://dev.to/uziman-qa/why-manual-testing-isnt-old-school-its-the-secret-sauce-for-smart-automation-4f60",
-    "pubDate": "Tue, 28 Oct 2025 12:36:40 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Hey there, fellow testers! Let me tell you a secret: manual testing isn’t just “doing things by hand.” It’s the R&D lab for automation. Think of it like this: automation is a super-fast robot. You giv"
-  },
-  {
-    "title": "🛠️ Refactoring Legacy React Apps: The Micro-Frontend Path",
-    "link": "https://dev.to/tahamjp/refactoring-legacy-react-apps-the-micro-frontend-path-3icf",
-    "pubDate": "Tue, 28 Oct 2025 12:36:36 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Our React app started like a puppy 🐶. Cute, small, easy.\nEvery feature slowed us down.\n\n\nEvery release felt risky.\n\n\nThe “quick fixes” piled up into tech debt.\n\n\n\nWe needed a way to break it apart wi"
+    "contentSnippet": "Abstract\n\n\nThis paper presents an exhaustive analysis of the Model Context Protocol (MCP), an open standard that represents a paradigm shift from ad-hoc integrations to a standardized, secure, and sca"
   },
   {
     "title": "Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸",
-    "link": "https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--19i8",
-    "pubDate": "Tue, 28 Oct 2025 12:36:11 +0000",
+    "link": "https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--1o6i",
+    "pubDate": "Tue, 28 Oct 2025 18:23:51 +0000",
     "source": "DEV.to",
     "contentSnippet": "GitHub Home\nI still remember the bug that kept me up all night. A payment callback endpoint, when handling a rare, exceptional status code from a third-party payment gateway, had a .catch() that was a"
   },
   {
-    "title": "SnarkyType, the Snarkier Way to Type gets better?",
-    "link": "https://dev.to/codemonster240/snarkytype-the-snarkier-way-to-type-gets-better-1hcn",
-    "pubDate": "Tue, 28 Oct 2025 12:34:40 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/hassan_rezaali_b64d94d40a/-111h",
+    "pubDate": "Tue, 28 Oct 2025 18:22:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A long time ago, I had AI write me a blog post about my progress on SnarkyType because I never thought that I would finish it. Back then, SnarkyType was in Alpha, so it was kinda boring. But, I have N"
+    "contentSnippet": "10 Best AI Interview Copilot Tools for 2026 🤖\nHadil Ben Abdallah for Final Round AI ・ Oct 17\n#programming\n        #ai\n        #interview\n        #career"
   },
   {
-    "title": "Building a Test Data Platform After Watching Teams Secretly Use Production for Years",
-    "link": "https://dev.to/alex_hayward_ff2d88ff331e/building-a-test-data-platform-after-watching-teams-secretly-use-production-for-years-31b6",
-    "pubDate": "Tue, 28 Oct 2025 12:34:39 +0000",
+    "title": "New file change detection and improved source control validation in Puppet Continuous Delivery 5.12.0",
+    "link": "https://dev.to/puppet/new-file-change-detection-and-improved-source-control-validation-in-puppet-continuous-delivery-4ed9",
+    "pubDate": "Tue, 28 Oct 2025 18:22:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Two weeks ago I asked data engineers on Reddit how much time they lose getting test data ready. Top response was brutally honest:\n\"Everywhere I've worked with sensitive data, everybody ended up secret"
+    "contentSnippet": "The latest updates to Continuous Delivery for Puppet Enterprise are now available, bringing new capabilities and improvements to both current and previous major versions! Whether you're on the latest "
   },
   {
-    "title": "First sakila project log",
-    "link": "https://dev.to/aka_artem_dd17be93c/first-sakila-project-log-3hl4",
-    "pubDate": "Tue, 28 Oct 2025 12:33:40 +0000",
+    "title": "🎃 CSS Halloween — *Crypt-o-Crypt*",
+    "link": "https://dev.to/mdarifulhaque/css-halloween-crypt-o-crypt-fog",
+    "pubDate": "Tue, 28 Oct 2025 18:18:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "📅 Date: 2025-10-16 → 2025-10-18\n🔧 Tools: Python, Pydantic, MySQL, JSON, Git Submodules\n⸻\n\nHow It Started\nI hit a point where my project needed more than raw input() checks.\nAt the same time, my teac"
+    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, CSS Art.\nCodePen demo: https://codepen.io/mah-shamim/full/GgoBojo\nhttps://github.com/mah-shamim/crypto-crypt.git\nI built Crypt-o-Crypt,"
+  },
+  {
+    "title": "Automation QandA Part 1 How can APIs be integrated with RPA bots",
+    "link": "https://dev.to/janvi_patel_f1f56b5e8f1d2/automation-qanda-part-1-how-can-apis-be-integrated-with-rpa-bots-2bn4",
+    "pubDate": "Tue, 28 Oct 2025 18:15:09 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Integrating APIs with RPA bots transforms traditional automation into a robust, intelligent system that connects both user interfaces and backend services. APIs allow RPA bots to exchange data directl"
+  },
+  {
+    "title": "Persist Large Object Graphs in PHP",
+    "link": "https://dev.to/melia72/persist-php-objects-without-a-database-5fip",
+    "pubDate": "Tue, 28 Oct 2025 18:12:32 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Tired of spinning up a DB for small tools? You can persist PHP objects to disk with lazy loading, TTLs, and safe writes using melia/object-storage. It’s fast to adopt, crash-safe, and keeps memory low"
+  },
+  {
+    "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",
+    "link": "https://www.publickey1.jp/blog/25/github_copilot_coding_agentslack.html",
+    "pubDate": "2025-10-28T16:42:37.000Z",
+    "source": "Publickey",
+    "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、GitHub Copilot Coding AgentとSlackとの連携機能を搭載したことを発表しました。 GitHub Copilot Coding AgentはすでにアトラシアンのJira、Microsoft Teams、Azure Boards、Raycastなどとの連携機能を搭載してお"
+  },
+  {
+    "title": "［速報］GitHub、新機能「Mission control」を発表。得意分野が異なるAIエージェントをタスクに割り当てるなど、「Agent HQ」構想に対応",
+    "link": "https://www.publickey1.jp/blog/25/githubmission_controlaiagent_hq.html",
+    "pubDate": "2025-10-28T16:03:17.000Z",
+    "source": "Publickey",
+    "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして発表した「Agent HQ」構想に対応したGitHubの新機能「Mission control」を発表しました。 Agent HQは、ソフトウェア開発において複数のAIエージェントをGitHubの下に統合するという、今回発表された同社のビジョンです。 参考：［速報］GitHu"
+  },
+  {
+    "title": "［速報］GitHub、AIエージェントを統べる「Agent HQ」構想を発表。ClaudeやCodex、Devinなど他社AIエージェントも利用可能に",
+    "link": "https://www.publickey1.jp/blog/25/githubaiagent_hqgithubclaudecodexdevinai.html",
+    "pubDate": "2025-10-28T16:02:26.000Z",
+    "source": "Publickey",
+    "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして「Agent HQ」を発表しました。 同社は、AIを活用したソフトウェア開発の未来は単一のAIエージェントに依存するのではなく、複数の専門分野を持つAIエージェントがそれぞれ得意とする分野の複雑なタスクを並行して実行する形式になるとしました。 そうした複数のエージェントを統合"
   },
   {
     "title": "Java/Mavenビルドが1秒に！Docker Multi-stage Build＋BuildKitで98%短縮した話",
@@ -257,26 +278,5 @@
     "pubDate": "2025-10-19T15:35:02.000Z",
     "source": "Publickey",
     "contentSnippet": "シスコシステムズは、AIコーディングツールを用いてコーディングを行う際に、生成されるコードが脆弱性を持たず安全なパターンを用いたものにするためのルールセットなどを備えた「Project CodeGuard」をオープンソースで公開しました。 Markdownで書かれたセキュリティルールなど Project CodeGuardは、コミュニティによって作成されたMarkdown形式で書かれたセキュリティ"
-  },
-  {
-    "title": "Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業プロジェクトに",
-    "link": "https://www.publickey1.jp/blog/25/kubernetesknativecncf.html",
-    "pubDate": "2025-10-16T15:34:18.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Cloud Native Computing Foundation（CNCF）は、Kubernetes上にサーバレス基盤を構築できる「Knative」が十分成熟した段階になったとして、CNCFの卒業（Graduation）プロジェクトになったことを発表しました。 Knative has officially graduated within CNCF!This milestone marks th"
-  },
-  {
-    "title": "JavaScriptランタイム「Bun 1.3」登場、CPUの無駄なアイドルを100分の1に、npmからのシームレスマイグレーションなど新機能",
-    "link": "https://www.publickey1.jp/blog/25/javascriptbun_13cpu1001npm.html",
-    "pubDate": "2025-10-15T15:21:00.000Z",
-    "source": "Publickey",
-    "contentSnippet": "オープンソースで開発されているJavaScriptランタイム「Bun」の最新版となる「Bun 1.3」正式版がリリースされました。 Bunの作者であるJarred Sumner氏 BunはJavaScriptとTypeScriptのランタイム機能を備えるだけでなく、トランスパイラ、バンドラ、タスクランナー、npm互換のパッケージマネージャなど、JavaScript/TypeScriptのツールチェ"
-  },
-  {
-    "title": "オラクル、「Oracle AI Database 26ai」発表。AIベクトルサーチをデータベースのコア機能に統合、MCPサーバをサポートなど。Oracle AI World 2025",
-    "link": "https://www.publickey1.jp/blog/25/oracle_database_26aiaimcporacle_ai_world_2025.html",
-    "pubDate": "2025-10-14T17:51:17.000Z",
-    "source": "Publickey",
-    "contentSnippet": "オラクルは今日（日本時間2025年10月15日未明）に開幕した同社のイベント「Oracle AI World 2025」で、同社の中核製品であるOracle Databaseの最新版となる「Oracle AI Database 26ai」を発表しました（プレスリリース、ブログ）。 By architecting AI and data together, our AI Database makes"
   }
 ]

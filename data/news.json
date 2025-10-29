@@ -1,73 +1,101 @@
 [
   {
-    "title": "Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3",
-    "link": "https://dev.to/igornosatov_15/slicing-through-complexity-modular-design-vs-feature-sliced-design-in-vue-3-13dh",
-    "pubDate": "Wed, 29 Oct 2025 06:21:25 +0000",
+    "title": "🧠 Customer Churn Analysis with Power BI — Understanding Why Customers Leave",
+    "link": "https://dev.to/gateru/customer-churn-analysis-with-power-bi-understanding-why-customers-leave-4gpk",
+    "pubDate": "Wed, 29 Oct 2025 12:42:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3\n\n\n\n  \n  \n  The Architecture Dilemma Every Vue Developer Faces\n\n\nYou've been there: your Vue 3 project starts beautifully or"
+    "contentSnippet": "Introduction.\n\n\n\nIn today's competitive business world, customer retention is the new growth strategy. It's far cheaper to keep an existing customer than to acquire a new one -yet many companies strug"
   },
   {
-    "title": "WebAssembly 3.0 and the Infrastructure We Actually Need",
-    "link": "https://dev.to/aronchick/webassembly-30-and-the-infrastructure-we-actually-need-3joa",
-    "pubDate": "Wed, 29 Oct 2025 06:11:38 +0000",
+    "title": "Advanced YouTube to mp4 Converter.",
+    "link": "https://dev.to/joseph_harrison_3e22b55af/advanced-youtube-to-mp4-converter-3kg5",
+    "pubDate": "Wed, 29 Oct 2025 12:40:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"We've finished the model... when do we get to the value?\"\nHere's what I'm watching happen in real time: DevOps teams are spending $$$$$$ annually on cloud egress fees just to move ML models between e"
+    "contentSnippet": "How the “YouTube to MP4” App Works\nHigh-level overview\nThe YouTube to mp4.exe app is a self-contained Windows program that takes a YouTube URL and produces an .mp4 file on disk. Behind the scenes it’s"
   },
   {
-    "title": "WASM's \"Identity Crisis\" Is Actually Its Superpower",
-    "link": "https://dev.to/aronchick/wasms-identity-crisis-is-actually-its-superpower-16m3",
-    "pubDate": "Wed, 29 Oct 2025 06:11:37 +0000",
+    "title": "MVP Conf 2025 - OWASP API Security Top 10",
+    "link": "https://dev.to/tbertuzzi/mvp-conf-2025-owasp-api-security-top-10-315",
+    "pubDate": "Wed, 29 Oct 2025 12:38:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "(Continuing the thoughts from last time...)\nI'm an enormous fan of  Matt Butcher (CEO of Fermyon) - generally - but I loved this quote,  \"We haven't hit that key Docker moment yet, But we're getting c"
+    "contentSnippet": "Fala galera,\nTudo beleza?\nSexta-feira dia 24/10/2025 tive o prazer de ter participado do MVPConf 2025, onde tive a oportunidade de palestrar sobre o tema OWASP API Security Top 10: Recomendações impor"
   },
   {
-    "title": "How I Built a Spring Boot Todo API in One Hour",
-    "link": "https://dev.to/amrut_p_51ca0dd7c54b9/how-i-built-a-spring-boot-todo-api-in-one-hour-5e5m",
-    "pubDate": "Wed, 29 Oct 2025 06:10:17 +0000",
+    "title": "The Complete Remote Work Guide for 2025: What Actually Works Now",
+    "link": "https://dev.to/teamcamp/the-complete-remote-work-guide-for-2025-what-actually-works-now-mg3",
+    "pubDate": "Wed, 29 Oct 2025 12:35:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey everyone! 👋\nSo last weekend I challenged myself to build a REST API from scratch as quickly as possible. I've been wanting to level up my Spring Boot skills, and what better way than a good old T"
+    "contentSnippet": "Can remote work really match the speed, connection, and creativity of an in-office team? Turns out when done right, it often beats it.\nWe’ve seen remote work shift from a temporary fix to a permanent,"
   },
   {
-    "title": "NPR Music: The Beaches: Tiny Desk Concert",
-    "link": "https://dev.to/music_youtube/npr-music-the-beaches-tiny-desk-concert-187",
-    "pubDate": "Wed, 29 Oct 2025 06:10:05 +0000",
+    "title": "Building MindSpark AI: The Future of Smart Learning with Flashcards and Quizzes",
+    "link": "https://dev.to/debasis_panda_31e768f5e44/building-mindspark-ai-the-future-of-smart-learning-with-flashcards-and-quizzes-4gp1",
+    "pubDate": "Wed, 29 Oct 2025 12:31:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Beaches braved the Tiny Desk stage with a sun-soaked five-song set that felt like an eternal summer jam session. Fresh off their late-August album No Hard Feelings—packed with new-wave pop-rock ba"
+    "contentSnippet": "Introduction\n\n\nLearning should be simple, smart, and engaging — not repetitive or overwhelming.\nMindSpark AI aims to achieve.\nMindSpark AI is an AI-powered learning assistant that helps students, educ"
   },
   {
-    "title": "Asupixel",
-    "link": "https://dev.to/samuel_asuse10chimela_/asupixel-4ki2",
-    "pubDate": "Wed, 29 Oct 2025 06:09:44 +0000",
+    "title": "Designing an Efficient, Secure, and Scalable Cloud System: AWS SAP-C02 Exam Study Guide",
+    "link": "https://dev.to/jerry_1fd8dc58194335413ae/designing-an-efficient-secure-and-scalable-cloud-system-aws-sap-c02-exam-study-guide-5bh9",
+    "pubDate": "Wed, 29 Oct 2025 12:27:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "**Asupixel: Your creative partner for pixel-perfect web development, strategic branding, and engaging media production"
+    "contentSnippet": "Preparing for the AWS Certified Solutions Architect Professional exam requires a solid understanding of cloud architecture, security, and scalability. This AWS SAP-C02 Exam preparation guide is design"
   },
   {
-    "title": "US-Based Client Communications Partner",
-    "link": "https://dev.to/james_hayashi_3760ec30f86/us-based-client-communications-partner-484i",
-    "pubDate": "Wed, 29 Oct 2025 06:09:31 +0000",
+    "title": "AI in Marketing Automation 2025: The Rise of Intelligent, Intent-Driven Marketing",
+    "link": "https://dev.to/shubh_e01f22da2137f1d7b2b/ai-in-marketing-automation-2025-the-rise-of-intelligent-intent-driven-marketing-51d6",
+    "pubDate": "Wed, 29 Oct 2025 12:26:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "About the role\n\n\nWe’re a Japan-based software firm expanding our US client base. We’re looking for a US-based collaborator to handle client communication. No coding is required, but you should be up-t"
+    "contentSnippet": "The world of digital marketing is evolving faster than ever, and at the heart of this transformation lies AI in marketing automation — a shift from reactive marketing to predictive, intent-driven enga"
   },
   {
-    "title": "🏦 Day 24 of #30DaysOfSolidity — Build a Secure Conditional Payments (Escrow) System in Solidity",
-    "link": "https://dev.to/sauravkumar8178/day-24-of-30daysofsolidity-build-a-secure-conditional-payments-escrow-system-in-solidity-4hm7",
-    "pubDate": "Wed, 29 Oct 2025 06:07:25 +0000",
+    "title": "PDF Print Engine - Reliable HTML-to-PDF Conversion for Production",
+    "link": "https://dev.to/boilerplate/pdf-print-engine-reliable-html-to-pdf-conversion-for-production-k43",
+    "pubDate": "Wed, 29 Oct 2025 12:24:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever wondered how to make payments safe in decentralized marketplaces?\nSecure Escrow System — a smart contract that holds funds until both parties fulfill agreed conditions.\nIt’s like a digital middle"
+    "contentSnippet": "If you’ve ever tried generating PDFs in a web app, you already know the pain.\n\nWhat looks perfect in the browser suddenly shifts, breaks, or crashes when you try to export it.\n\nAnd when your app is un"
   },
   {
-    "title": "Enhance Project Outcomes Through Effective Productivity Management",
-    "link": "https://dev.to/lovely_baghel_f8747016ba8/enhance-project-outcomes-through-effective-productivity-management-57g",
-    "pubDate": "Wed, 29 Oct 2025 06:07:07 +0000",
+    "title": "Hacktoberfest 2025 — Advancing SQL Tooling in Draw.io",
+    "link": "https://dev.to/lastlink/hacktoberfest-2025-advancing-sql-tooling-in-drawio-35bi",
+    "pubDate": "Wed, 29 Oct 2025 12:21:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction: In today’s fast-paced IT industry, success depends not only on technical skills but also on how efficiently teams manage their time, resources, and workflows. Delivering projects on time"
+    "contentSnippet": "Back in Hacktoberfest 2022, I kicked off a set of contributions aimed at making SQL DDL generation and schema visualization easier using open-source tools. This year, I revisited those efforts with a "
   },
   {
-    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)",
-    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-4if2",
-    "pubDate": "Wed, 29 Oct 2025 06:05:11 +0000",
+    "title": "How to Design a Spiral Spring Toy using 3D CAD Software",
+    "link": "https://dev.to/julia970/how-to-design-a-spiral-spring-toy-using-3d-cad-software-15jo",
+    "pubDate": "Wed, 29 Oct 2025 12:18:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I took on the head pro at Carlisle Golf Club in a high-stakes £1,000 showdown, with Titleist throwing their weight behind the match (and supporting club pros across the UK). As a bonus, Titleist is al"
+    "contentSnippet": "How to Design a Spiral Spring Toy using 3D CAD Software\nhttps://www.selfcad.com/tutorials/584j6a2x5rs4s2w4m512e2t4g6u661p4a3kg\nOnce you’ve launched the editor;\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://www.selfcad.com/tuto"
+  },
+  {
+    "title": "AI エージェント時代のリスク対策 : 認証・認可をあらためて学ぶ",
+    "link": "https://zenn.dev/aws_japan/articles/f1a0549c8e533a",
+    "pubDate": "Wed, 29 Oct 2025 02:49:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "皆さんセキュリティには詳しいでしょうか? \"AI エージェント元年\" などと言われていますが、その中で認証・認可の重要性はより高まっています。なぜなら、AI エージェントは単なるチャットボットを超え「目的を与えれば自律的にタスクを完遂する」存在へと移行しているためです。AI エージェントがあなたの身近な存在となった時、あなたの代わりに社内のプロジェクト管理ツールを操作したり機微な顧客情報を参照した"
+  },
+  {
+    "title": "Unityでのマスタデータ管理にMasterMemoryを導入する",
+    "link": "https://zenn.dev/takodevlog/articles/9a66226d3f7a72",
+    "pubDate": "Wed, 29 Oct 2025 01:13:35 GMT",
+    "source": "Zenn",
+    "contentSnippet": "背景\n先日学生の制作予定作品の中でゲームのデータが膨大になりそうな企画がありました。\nこれまで軽微なものであればScriptableObjectで対応していましたが、テーブルで管理するようなデータで件数も多いものだと100近くあり、\nさすがにその数をScriptableObjectで管理するのはやりづらいなぁ…と。\n以前ソシャゲ開発をしていた学生はSQLiteを使ってローカルのテーブルを管理してい"
+  },
+  {
+    "title": "【アプリ開発】人事の一言で爆誕！Slackの通知にタスクが溺れてたので、ボタンで救出してみた！",
+    "link": "https://qiita.com/ishikawa_slj/items/cbff9aa44ffe320733ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-29T00:31:18.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n最近、「業務で困っていることありますか？」というアンケートを社内で行ったところ、\n人事の方からこんな意見がありました！\n「他の人に依頼をかけることが多いんだけど、Slackだとタスク内容や期限が埋もれちゃうんだよね…」..."
+  },
+  {
+    "title": "【ポケモン×Java】知識編 Scanner#2 〜基本編②-nextLine-〜",
+    "link": "https://qiita.com/hitomin_poke/items/0d9dc4d60fa6ba840f01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T17:43:46.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n前回の記事 #1 で「Scannerは読み取り係」だと分かりました。\n今回は いちばんよく使う基本技、nextLine() で「質問→1行読む→すぐ返事」を作ります。シンプルだけど、実務でもこれが土台です。\n\n🎓 今日やること（ゴール）\n\nキーボードから 1行..."
   },
   {
     "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",
@@ -89,6 +117,20 @@
     "pubDate": "2025-10-28T16:02:26.000Z",
     "source": "Publickey",
     "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして「Agent HQ」を発表しました。 同社は、AIを活用したソフトウェア開発の未来は単一のAIエージェントに依存するのではなく、複数の専門分野を持つAIエージェントがそれぞれ得意とする分野の複雑なタスクを並行して実行する形式になるとしました。 そうした複数のエージェントを統合"
+  },
+  {
+    "title": "無料でも使える！Avalonia Accelerate",
+    "link": "https://zenn.dev/inuinu/articles/avalonia-accelerate-community",
+    "pubDate": "Tue, 28 Oct 2025 15:15:55 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n2025年10月、「Avalonia UI」の公式有料便利ツール「Avalonia Accelerate」に非商用無料ライセンス版が追加されました。\nこの記事では無料の範囲でできるようになったことを紹介します。\n\n そもそも「Avalonia UI」って何？\nhttps://x.com/i/status/1972530585794228469\n\nOSSで無料、クロスプラットフォーム、.N"
+  },
+  {
+    "title": "ChatGPT × GenSparkで提案書を自動生成する実践フロー",
+    "link": "https://qiita.com/sh-ohtani/items/643c977af71e4952f882?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T10:35:30.000Z",
+    "source": "Qiita",
+    "contentSnippet": "💡 ChatGPT × GenSparkで提案書を自動生成する実践フロー\n〜構成 → レビュー → デザイン調整プロンプト生成まで〜\n\n🏁 はじめに：なぜAIで提案書を作るのか\n提案書は「考える」「書く」「整える」という3つの作業から成ります。\nこのうち「書く」と「整え..."
   },
   {
     "title": "Swift SDK for Android プレビューを動かしてみる",
@@ -126,11 +168,18 @@
     "contentSnippet": "はじめに\n\n\n 対象\n\n船頭多くして船山に登る現場に、現状を説明したい開発者向け。\n\n\n ダブルバインドを知る\n!\n筆者は専門家ではないので、詳細は信頼できる情報源でチェックしてください。\n\n\nある人が、メッセージとメタメッセージが矛盾するコミュニケーション状況におかれること。\nダブルバインド - Wikipedia 『フリー百科事典 ウィキペディア日本語版』2025/09/24(日) 09:00"
   },
   {
+    "title": "Snowflake特徴量ストアのベストプラクティス",
+    "link": "https://zenn.dev/takikomi/articles/cd6c0d26b76f89",
+    "pubDate": "Tue, 28 Oct 2025 03:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Snowflakeの特徴量ストアについて、ベストプラクティスガイドがチュートリアルの中に用意されていました。\n体系的にまとまっていて良い内容だったので、サンプルデータを交えて解説したいと思います。\nhttps://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-feature-store/blob/main/best"
+  },
+  {
     "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ",
     "link": "https://qiita.com/nolanlover0527/items/071277263f8851012e6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-28T02:09:42.000Z",
     "source": "Qiita",
-    "contentSnippet": "重くなる主な原因\nVSCodeが重くなる最も一般的な原因は、インストールされている拡張機能の数や質です。その他の原因として以下が挙げられます↓\n\n大規模なプロジェクトを開いていると、VSCodeが必要とするリソースが増加\nファイル監視プロセス（watcherService..."
+    "contentSnippet": "重くなる主な原因\nVSCodeが重くなる最も一般的な原因は、インストールされている拡張機能の数や質です。その他の原因として以下が挙げられます↓\n\n大規模なプロジェクトを開いていると、VSCodeが必要とするリソースが増加\nファイル監視プロセス（watcherServ..."
   },
   {
     "title": "Java/Mavenビルドが1秒に！Docker Multi-stage Build＋BuildKitで98%短縮した話",
@@ -140,39 +189,11 @@
     "contentSnippet": "はじめに\nGMOコネクトの永田です。\n開発中、コードを少し変更するたびに「docker compose build」を実行して数十秒待つ...この繰り返しにストレスを感じたことはありませんか？\n今回、JavaアプリケーションのDocker開発環境において、ビルド時間を約3..."
   },
   {
-    "title": "設計書づくりをAIと共同作成して効率化した話",
-    "link": "https://qiita.com/hara-h/items/309fff92d034a89a8f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T01:34:49.000Z",
-    "source": "Qiita",
-    "contentSnippet": "TL;DR\n\n初稿到達のリードタイムが短くなり、レビュー着手が前倒しに。\n章立てと書式の揺れが減り、レビューの論点が「文章校正→仕様の妥当性」にシフト。\nただし誤推論の混入と図版の手作業は残り、人手レビューは不可欠。\n\nなぜ効率が上がったのか（構造的な理由）\n\n1...."
-  },
-  {
     "title": "AgentCore Memory で AI エージェントの記憶をマネージドに管理するぞ",
     "link": "https://zenn.dev/aws_japan/articles/dd0bf7fa9a3f12",
     "pubDate": "Mon, 27 Oct 2025 23:49:44 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは！ AWS でソリューションアーキテクトをしているこば D（ https://x.com/kobayasd ） です。本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 2 日目です。私は「AgentCore Memory」をテーマに、入門記事を書かせていただきます✌\n!\n📚 第 1 "
-  },
-  {
-    "title": "DGX Sparkと「nanochat」でゼロから丸一日学習させてLLMを自作してみた",
-    "link": "https://zenn.dev/karaage0703/articles/aedade69a9463f",
-    "pubDate": "Mon, 27 Oct 2025 22:44:18 GMT",
-    "source": "Zenn",
-    "contentSnippet": "nanochatとは\nOpenAI共同設立者、元テスラディレクターであり。バイブコーディング・コンテキストエンジニアリングといった言葉を生み出したAndrej Karpathy氏が公開したソフトウェアです。\nhttps://github.com/karpathy/nanochat\nなんと、ChatGPTのような対話可能なLLMを、規模こそ違えど約100ドルのコストでゼロから4時間で学習させることが"
-  },
-  {
-    "title": "ブラウザの「戻る」で通信が走らない...?  Cache-Control: no-storeとbfcache",
-    "link": "https://zenn.dev/keisuke_05410/articles/689fcdcb49318b",
-    "pubDate": "Mon, 27 Oct 2025 16:28:26 GMT",
-    "source": "Zenn",
-    "contentSnippet": "⚠️⚠️⚠️\n本記事で出てくる「戻るボタン」ってのはchromeの左上にある戻るボタンです。\nブラウザバックってやつです。\n⚠️⚠️⚠️\n\n ことの発端: 戻るボタンを押した時の挙動がおかしい。。。\nある日、ちょっとしたフォームをPOSTする処理を書いていて、\n「ンンンンン？戻るボタン押したときの挙動がおかしいな…」\nページを戻っても、サーバーにリクエストが飛ばない。\nなのに、画面の状態がそのまま"
-  },
-  {
-    "title": "Hono + Cloudflare Workers でOG画像を動的に生成する",
-    "link": "https://zenn.dev/chocolat5/articles/64de392a7132d4",
-    "pubDate": "Mon, 27 Oct 2025 15:48:18 GMT",
-    "source": "Zenn",
-    "contentSnippet": "最近リリースした cinefil.me はユーザーが映画に特化した個別のプロフィールを作成できるwebアプリケーションで、ユーザーの個別ページではOG画像を動的に作成する必要がありました。\nhttps://cinefil.me/\n実現したいことは、og画像生成用のapiエンドポイントを作成し、ユーザーのプロフィールページで以下のようにuserIdを渡してアクセスして動的にOG画像を生成することです"
   },
   {
     "title": "さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始",
@@ -187,20 +208,6 @@
     "pubDate": "2025-10-27T13:04:25.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGitHub Copilot(2021/6)が発表されてから約4年が経過しました。\nこの短い期間で、AIとソフトウェア開発の関係は劇的に変化してきました。筆者自身、日々の開発業務でAIツールを活用しながら、その進化の速さに驚かされ続けています。単なる「コード補完..."
-  },
-  {
-    "title": "拡大・平行移動・回転行列で作る円形カルーセル",
-    "link": "https://zenn.dev/studio/articles/445bfb6e55d8b3",
-    "pubDate": "Mon, 27 Oct 2025 12:32:42 GMT",
-    "source": "Zenn",
-    "contentSnippet": "1. はじめに\nAI エンジニアの山田です。\n普段はAI開発をメインにしていて、ウェブのフロントエンドの経験はありません。\nそんな私が社内のUI勉強会に参加し、 WebGL でのアニメーションに初めて挑戦した備忘録です。\n今回のUI Lab #0のテーマは「カルーセルUI」です。\nhttps://zenn.dev/studio/articles/7a1d2d294aec11\nカルーセルUIを検索し"
-  },
-  {
-    "title": "GPU搭載インスタンスは高い？実測したら逆に8.7倍も安かった話【AWS コスパ検証】",
-    "link": "https://qiita.com/noji777/items/a0322c10b010eb210feb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T06:00:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの野尻です。\n「高性能の環境って結構コストがお高くなるものだが、クラウドサービスって使った時間だけ料金が発生するのでタイムパフォーマンス加味すると必ずしも高性能環境の方がお金がかかるわけでもないよな？」と思い、今回AWS上で提供されている高性能イン..."
   },
   {
     "title": "なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」",
@@ -243,13 +250,6 @@
     "pubDate": "2025-10-26T08:11:35.000Z",
     "source": "Qiita",
     "contentSnippet": "初めに\nこんにちは、ぱそきいろ（@takacpu55)です。\n普段は、はてなブログで記事を書いていますが、割とゆるめな記事なのでQiitaにおいておこうと思います。\n興味のある方は以下からご覧になってください。\n\n結婚式でLTをした話\n私ごとですが、先日結婚式を挙げ..."
-  },
-  {
-    "title": "感覚で理解するベクトル制御",
-    "link": "https://qiita.com/Doraemonjayo/items/37cc77e6d5a6aeb2694e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-26T06:00:15.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事で学べる事\nブラシレスモータを自分で制御する方法がわかります。\n\n方位磁針を回すには？\nあるところにコンパスがありました。\n\nこのコンパスを見て、あなたは「このコンパスを正方向(反時計回り)に回したいなぁ...。」と思いました。そのためには、とりあえず、コンパスの..."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

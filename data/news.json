@@ -1,73 +1,73 @@
 [
   {
-    "title": "Fault-Tolerant Realtime Data Ingestion with QuestDB Write-Ahead Logs",
-    "link": "https://dev.to/nilutpal_/fault-tolerant-realtime-data-ingestion-with-questdb-write-ahead-logs-51e5",
-    "pubDate": "Tue, 28 Oct 2025 18:26:56 +0000",
+    "title": "A Universal Standard for Securing Prompts in AI Systems: Introducing UPSS",
+    "link": "https://dev.to/alvinveroy/a-universal-standard-for-securing-prompts-in-ai-systems-introducing-upss-224d",
+    "pubDate": "Wed, 29 Oct 2025 01:56:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When you’re tracking thousands of moving objects — drivers, delivery agents, or devices — reliability matters just as much as speed.\nYou can’t afford to lose a single GPS ping.\nThat’s where QuestDB’s "
+    "contentSnippet": "Introduction\nAs artificial intelligence rapidly transforms industries and daily workflows, the security of Large Language Model (LLM) prompts is emerging as a critical concern for developers, enterpri"
   },
   {
-    "title": "How do I delegate when I can do it faster myself?",
-    "link": "https://dev.to/valeriavg/how-do-i-delegate-when-i-can-do-it-faster-myself-5lh",
-    "pubDate": "Tue, 28 Oct 2025 18:24:33 +0000",
+    "title": "Get in Line: Customizing Column Order in MudBlazor",
+    "link": "https://dev.to/the_real_slim_janey/get-in-line-customizing-column-order-in-mudblazor-3ail",
+    "pubDate": "Wed, 29 Oct 2025 01:42:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I remember why I became a manager. The team needed someone to advocate for their growth, compensation and overall well-being. I knew very little about leadership or management and the resources were s"
+    "contentSnippet": "About MudBlazor\n\n\nMudBlazor is an open-source Material Design component library for Blazor, Microsoft’s web framework for building interactive web apps in C#. It provides developers pre-built, stylist"
   },
   {
-    "title": "Role-Based Access Control for AI Development: Managing Prompts, Evals, and Data Securely",
-    "link": "https://dev.to/kuldeep_paul/role-based-access-control-for-ai-development-managing-prompts-evals-and-data-securely-1a66",
-    "pubDate": "Tue, 28 Oct 2025 18:24:25 +0000",
+    "title": "Bra just zil...",
+    "link": "https://dev.to/bibimbop123/bra-just-zil-419j",
+    "pubDate": "Wed, 29 Oct 2025 01:37:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern AI applications—spanning copilots, voice agents, and multimodal RAG systems—introduce unique security and governance challenges that traditional web services never had to contend with. These sy"
+    "contentSnippet": "🇧🇷 The Complete Guide to the Brazil Meme: From Chaos to Code\n\n\n\n\"Pack your bags. You’re going to Brazil.\"\n\n—The Internet, circa 2019\nIntroduction: Why Brazil?\nThe Origin Story: “We’re Sending You to"
   },
   {
-    "title": "The Model Context Protocol (MCP): A Foundational Standard for Agentic AI Systems",
-    "link": "https://dev.to/lucash_ribeiro_dev/the-model-context-protocol-mcp-a-foundational-standard-for-agentic-ai-systems-4dg",
-    "pubDate": "Tue, 28 Oct 2025 18:24:17 +0000",
+    "title": "Elevating Your Excel Reports: Programmatically Setting Backgrounds with Java",
+    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/elevating-your-excel-reports-programmatically-setting-backgrounds-with-java-3l1h",
+    "pubDate": "Wed, 29 Oct 2025 01:36:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Abstract\n\n\nThis paper presents an exhaustive analysis of the Model Context Protocol (MCP), an open standard that represents a paradigm shift from ad-hoc integrations to a standardized, secure, and sca"
+    "contentSnippet": "Visually appealing Excel reports are crucial for clear communication and professional presentation. However, manually customizing backgrounds for numerous reports can be tedious and error-prone. This "
   },
   {
-    "title": "Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸",
-    "link": "https://dev.to/member_ece4a271/your-error-handling-is-a-mess-and-its-costing-you--1o6i",
-    "pubDate": "Tue, 28 Oct 2025 18:23:51 +0000",
+    "title": "Descomplicando Simple Factory Method",
+    "link": "https://dev.to/yuripeixinho/descomplicando-simple-factory-method-5hfk",
+    "pubDate": "Wed, 29 Oct 2025 01:30:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nI still remember the bug that kept me up all night. A payment callback endpoint, when handling a rare, exceptional status code from a third-party payment gateway, had a .catch() that was a"
+    "contentSnippet": "Introdução\n\n\nO Simple Factory Method não é um padrão de projeto oficial GOF, isso significa que ele não está catalogados nos livros, portanto é reconhecido como uma introdução a outros dois design pat"
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/hassan_rezaali_b64d94d40a/-111h",
-    "pubDate": "Tue, 28 Oct 2025 18:22:30 +0000",
+    "title": "Docker Containers Unable to Access Internet? Check Your VPS Private Network",
+    "link": "https://dev.to/bisark/docker-containers-unable-to-access-internet-check-your-vps-private-network-3jf1",
+    "pubDate": "Wed, 29 Oct 2025 01:29:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "10 Best AI Interview Copilot Tools for 2026 🤖\nHadil Ben Abdallah for Final Round AI ・ Oct 17\n#programming\n        #ai\n        #interview\n        #career"
+    "contentSnippet": "If your Docker containers can’t reach the internet, the issue might not be Docker itself. On VPS environments with a private network (like 192.168.x.x), the host’s default route may be misconfigured.\n"
   },
   {
-    "title": "New file change detection and improved source control validation in Puppet Continuous Delivery 5.12.0",
-    "link": "https://dev.to/puppet/new-file-change-detection-and-improved-source-control-validation-in-puppet-continuous-delivery-4ed9",
-    "pubDate": "Tue, 28 Oct 2025 18:22:03 +0000",
+    "title": "Debian First Aid Kit",
+    "link": "https://dev.to/divsmart/debian-first-aid-kit-2llm",
+    "pubDate": "Wed, 29 Oct 2025 01:10:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The latest updates to Continuous Delivery for Puppet Enterprise are now available, bringing new capabilities and improvements to both current and previous major versions! Whether you're on the latest "
+    "contentSnippet": "Welcome to the Debian First Aid Kit!\n\n\nMaybe you're completely new to the command line. Either way, you've probably discovered something: Debian help is everywhere, but it's scattered across forums, w"
   },
   {
-    "title": "🎃 CSS Halloween — *Crypt-o-Crypt*",
-    "link": "https://dev.to/mdarifulhaque/css-halloween-crypt-o-crypt-fog",
-    "pubDate": "Tue, 28 Oct 2025 18:18:40 +0000",
+    "title": "Binary Brains: Secure AI on the Edge with In-Memory Magic by Arvind Sundararajan",
+    "link": "https://dev.to/arvind_sundararajan/binary-brains-secure-ai-on-the-edge-with-in-memory-magic-by-arvind-sundararajan-2j98",
+    "pubDate": "Wed, 29 Oct 2025 01:02:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, CSS Art.\nCodePen demo: https://codepen.io/mah-shamim/full/GgoBojo\nhttps://github.com/mah-shamim/crypto-crypt.git\nI built Crypt-o-Crypt,"
+    "contentSnippet": "Binary Brains: Secure AI on the Edge with In-Memory Magic\n\n\nImagine an AI-powered sensor constantly monitoring critical infrastructure. Now imagine that sensor drained its battery in minutes, or worse"
   },
   {
-    "title": "Automation QandA Part 1 How can APIs be integrated with RPA bots",
-    "link": "https://dev.to/janvi_patel_f1f56b5e8f1d2/automation-qanda-part-1-how-can-apis-be-integrated-with-rpa-bots-2bn4",
-    "pubDate": "Tue, 28 Oct 2025 18:15:09 +0000",
+    "title": "Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling",
+    "link": "https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-58pi",
+    "pubDate": "Wed, 29 Oct 2025 00:57:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Integrating APIs with RPA bots transforms traditional automation into a robust, intelligent system that connects both user interfaces and backend services. APIs allow RPA bots to exchange data directl"
+    "contentSnippet": "GitHub Home\nI'll never forget that afternoon. We had just launched a new feature allowing users to upload their profile pictures. Everything seemed perfect. Until one user, whether intentionally or no"
   },
   {
-    "title": "Persist Large Object Graphs in PHP",
-    "link": "https://dev.to/melia72/persist-php-objects-without-a-database-5fip",
-    "pubDate": "Tue, 28 Oct 2025 18:12:32 +0000",
+    "title": "🚀 Launch Announcement — SQAToolBox is Now Live",
+    "link": "https://dev.to/sqaesabbir/launch-announcement-sqatoolbox-is-now-live-4ib7",
+    "pubDate": "Wed, 29 Oct 2025 00:57:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Tired of spinning up a DB for small tools? You can persist PHP objects to disk with lazy loading, TTLs, and safe writes using melia/object-storage. It’s fast to adopt, crash-safe, and keeps memory low"
+    "contentSnippet": "SQAToolBox is an innovative tool-based platform offering a collection of free, simple, and effective online tools designed to make everyday tasks faster and easier. From text manipulation and format c"
   },
   {
     "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",
@@ -91,11 +91,60 @@
     "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして「Agent HQ」を発表しました。 同社は、AIを活用したソフトウェア開発の未来は単一のAIエージェントに依存するのではなく、複数の専門分野を持つAIエージェントがそれぞれ得意とする分野の複雑なタスクを並行して実行する形式になるとしました。 そうした複数のエージェントを統合"
   },
   {
+    "title": "Swift SDK for Android プレビューを動かしてみる",
+    "link": "https://zenn.dev/koogawa/articles/163a72131498b6",
+    "pubDate": "Tue, 28 Oct 2025 08:58:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Swift SDK for Androidのプレビューリリース版が2025年10月27日に公開されました。\n\nさっそく動かしてみたので、以下手順をメモしておきます。\n\n 動作環境\nApple Swift version 6.3-dev (LLVM 0d0246569621d5b, Swift 199240b3fe97eda)\nTarget: arm64-apple-macosx15.0\nmacOS"
+  },
+  {
+    "title": "Vue Fes Japan 2025に参加しました！",
+    "link": "https://zenn.dev/toreis_up/articles/6644f4a19d34a1",
+    "pubDate": "Tue, 28 Oct 2025 06:47:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年10月25日（土）、東京は大手町プレイスホールにて開催された Vue Fes Japan 2025 に参加してきました！\n私自身、初のテックカンファということもあり勝手に大緊張していましたが、カジュアルに楽しんできました。(うれしい！)\nということで、「テックカンファ怖いめぅ><」という方に「来年は参加してみようかな…？」と思ってもらうべく、レポートします！\n!\nこのレポートは、私が「楽"
+  },
+  {
+    "title": "【心理学】ダブルバインドが横行する殺伐とした開発現場は実在するので、メンバーは自己防衛の手段としての心理学を身に付けて冷静に対処したい",
+    "link": "https://zenn.dev/noranuko13/articles/98d2082ea65374",
+    "pubDate": "Tue, 28 Oct 2025 03:03:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n\n\n 対象\n\n船頭多くして船山に登る現場に、現状を説明したい開発者向け。\n\n\n ダブルバインドを知る\n!\n筆者は専門家ではないので、詳細は信頼できる情報源でチェックしてください。\n\n\nある人が、メッセージとメタメッセージが矛盾するコミュニケーション状況におかれること。\nダブルバインド - Wikipedia 『フリー百科事典 ウィキペディア日本語版』2025/09/24(日) 09:00"
+  },
+  {
+    "title": "Snowflake特徴量ストアのベストプラクティス",
+    "link": "https://zenn.dev/takikomi/articles/cd6c0d26b76f89",
+    "pubDate": "Tue, 28 Oct 2025 03:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Snowflakeの特徴量ストアについて、ベストプラクティスガイドがチュートリアルの中に用意されていました。\n体系的にまとまっていて良い内容だったので、サンプルデータを交えて解説したいと思います。\nhttps://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-feature-store/blob/main/best"
+  },
+  {
+    "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ",
+    "link": "https://qiita.com/nolanlover0527/items/071277263f8851012e6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T02:09:42.000Z",
+    "source": "Qiita",
+    "contentSnippet": "重くなる主な原因\nVSCodeが重くなる最も一般的な原因は、インストールされている拡張機能の数や質です。その他の原因として以下が挙げられます↓\n\n大規模なプロジェクトを開いていると、VSCodeが必要とするリソースが増加\nファイル監視プロセス（watcherService..."
+  },
+  {
     "title": "Java/Mavenビルドが1秒に！Docker Multi-stage Build＋BuildKitで98%短縮した話",
     "link": "https://qiita.com/ntaka329/items/882e90d61671bdbd024f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-28T01:51:27.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGMOコネクトの永田です。\n開発中、コードを少し変更するたびに「docker compose build」を実行して数十秒待つ...この繰り返しにストレスを感じたことはありませんか？\n今回、JavaアプリケーションのDocker開発環境において、ビルド時間を約3..."
+  },
+  {
+    "title": "設計書づくりをAIと共同作成して効率化した話",
+    "link": "https://qiita.com/hara-h/items/309fff92d034a89a8f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T01:34:49.000Z",
+    "source": "Qiita",
+    "contentSnippet": "TL;DR\n\n初稿到達のリードタイムが短くなり、レビュー着手が前倒しに。\n章立てと書式の揺れが減り、レビューの論点が「文章校正→仕様の妥当性」にシフト。\nただし誤推論の混入と図版の手作業は残り、人手レビューは不可欠。\n\nなぜ効率が上がったのか（構造的な理由）\n\n1...."
+  },
+  {
+    "title": "AgentCore Memory で AI エージェントの記憶をマネージドに管理するぞ",
+    "link": "https://zenn.dev/aws_japan/articles/dd0bf7fa9a3f12",
+    "pubDate": "Mon, 27 Oct 2025 23:49:44 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！ AWS でソリューションアーキテクトをしているこば D（ https://x.com/kobayasd ） です。本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 2 日目です。私は「AgentCore Memory」をテーマに、入門記事を書かせていただきます✌\n!\n📚 第 1 "
   },
   {
     "title": "DGX Sparkと「nanochat」でゼロから丸一日学習させてLLMを自作してみた",
@@ -126,13 +175,6 @@
     "contentSnippet": "さくらインターネットは、同社が提供するクラウドサービス「さくらのクラウド」向けに、24時間365日対応の有償サポートを11月10日から提供開始すると発表しました。 同社は現行のサポート体制として、平日10時から18時に問い合わせフォームもしくはコールバック予約の電話にてサポートを提供してきました。 新しく設定されるプレミアムサポートは24時間365日体制でクラウドコントロールパネルの問い合わせフォ"
   },
   {
-    "title": "Vercel AI SDK 6 のアツい機能: needsApproval, ToolLoopAgent, prepareCalls",
-    "link": "https://zenn.dev/layerx/articles/5538adfc79b14e",
-    "pubDate": "Mon, 27 Oct 2025 13:45:41 GMT",
-    "source": "Zenn",
-    "contentSnippet": "例のごとく og:image 設定できないので泣く泣く先頭に配置されたアイキャッチ画像\nLayerX AI Agent ブログリレー 33 日目の記事です。 どこまでいくんだろう。\nバクラク事業部 スタッフエンジニアの @izumin5210 です。\nPlatform Engineering 部 Enabling チームでいろいろなことをしています。\n\n Vercel AI SDK 6\nAI SD"
-  },
-  {
     "title": "ソフトウェアエンジニアリングAIエージェントの変遷――「補完」から「自律」への4年間",
     "link": "https://qiita.com/hummer/items/06d5797e0c4ddcddfff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-27T13:04:25.000Z",
@@ -140,39 +182,11 @@
     "contentSnippet": "はじめに\nGitHub Copilot(2021/6)が発表されてから約4年が経過しました。\nこの短い期間で、AIとソフトウェア開発の関係は劇的に変化してきました。筆者自身、日々の開発業務でAIツールを活用しながら、その進化の速さに驚かされ続けています。単なる「コード補完..."
   },
   {
-    "title": "Grafana Loki による AWS ログ監視基盤の構築",
-    "link": "https://zenn.dev/shunsei/articles/e3a2640a39ef40",
-    "pubDate": "Mon, 27 Oct 2025 12:04:46 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n初めまして、木村俊星 です。この度、某S社の SRE を専門とする事業部のインターンに参加しました。インターンでは、Grafana Loki によってログの監視基盤を構築する方法と、Amazon CloudWatch Logs と比較したときの得失について調査しました。本記事では、その調査結果を紹介します。\n環境構築と調査結果を1つの記事に書くと長くなりすぎてしまうため、以下の2部構成と"
-  },
-  {
-    "title": "Kaggle | Jigsawコンペ振り返りメモ",
-    "link": "https://zenn.dev/hasibirok0/articles/adb47c6df37ca6",
-    "pubDate": "Mon, 27 Oct 2025 11:12:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025/10/24に終了したJigsaw - Agile Community Rules Classificationに参加し、幻の金メダルを獲得しました(*後述)。非常に悔しい結果に終わったので、拙速な内容にはなりますが、コンペの概要、基本解法、上位解法についてまとめました。個人的な復習のためのメモでもありますが、間違い・抜け漏れなどあればコメント等でご指摘いただけると幸いです。\nh"
-  },
-  {
-    "title": "Vue Fes Japan 2025 に参加しました！",
-    "link": "https://zenn.dev/sekibuuun/articles/d8f7dce7750940",
-    "pubDate": "Mon, 27 Oct 2025 10:58:43 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、Sekibuuunです。\n今回、学生支援制度プログラムを用いて、Vue Fes Japan 2025 に参加したため、レポートを書きました。\n普段はVueではなくReactを書いているのですが、共通する部分もあると思うので、勉強になればと思い参加しました。\n\n 学生支援制度プログラムとは\nhttps://note.com/naoki_haba/n/n445d7f19fcd4\n"
-  },
-  {
     "title": "個人的もっと知られてほしいNeovim/Vimプラグイン８選",
     "link": "https://zenn.dev/sirasagi62/articles/196e0f592a6177",
     "pubDate": "Mon, 27 Oct 2025 09:58:21 GMT",
     "source": "Zenn",
     "contentSnippet": "!\n本記事は Vim 駅伝 の 10/27 の記事です。\n前回は10/24のkuri-sunさんによる自分のデストップに合うNeovimテーマがなかったので、作ってみた。という記事でした。\n\nこの間、NeovimのLSP設定を久しぶりに見直してみました。ついでにプラグインの入れ替えを行ったので、これを機に個人的に便利だけどあんまり知られていない（と思う）Neovim/Vimプラグインを紹介してみよ"
-  },
-  {
-    "title": "Vue Fes Japan 2025 で初めてスポンサーブース運営やってみたレポ",
-    "link": "https://qiita.com/Yohei_Suda/items/fdcfad4a4712262d6f9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T06:59:49.000Z",
-    "source": "Qiita",
-    "contentSnippet": "どんな人に読んでもらいたいか？\n\nVue Fes Japan の裏側を知りたい方\nスポンサーブース出展を検討している企業担当者\n「急にブース運営を任されたけど何をすればいいの？」と困っている方\n\nはじめに\nGENEROSITYでWeb開発をしている須田です。\n2025年..."
   },
   {
     "title": "GPU搭載インスタンスは高い？実測したら逆に8.7倍も安かった話【AWS コスパ検証】",
@@ -189,25 +203,18 @@
     "contentSnippet": "はじめに\n初めまして、株式会社エクサウィザーズのWANDチームでインターンをしている東光です。本記事では、近年注目を集めているベクトルDBのパフォーマンス向上を目的とした、最適なベクトルインデックスの選択方法を紹介します。具体的には、一般的なベクトルインデックスへの見解と実際に実験した知見から、ベストプラクティスを目指すための考え方を示します。\n\n 背景\n\n ベクトルDBとベクトルインデックスの関"
   },
   {
-    "title": "技術ブログの書き方 - 好きな技術を紹介する",
-    "link": "https://zenn.dev/nttdata_tech/articles/764fa74bbbb3c3",
-    "pubDate": "Mon, 27 Oct 2025 04:12:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "ブログ執筆者倍増計画\nNTT DATAでは、2025年4月からZennでの技術ブログを始めました。\nこれまでに約140記事が投稿され、比較的盛り上がっていると思うのですが、もっと執筆者を増やしたいけどどうしたらいいかなと広報部の方から聞かれたりしています。\n「なんで俺に聞くねん」と思ったりもしたのですが、一説によると、技術ブログを始めることになったきっかけは私が社長に言った一言だったらしく、私は知"
-  },
-  {
-    "title": "ゴルフコンペをAIで盛り上げてみた 〜OCI Data Scienceでつくる『AIベストスマイル賞』〜",
-    "link": "https://qiita.com/ykuma614/items/91d2a9f06d3afcbd9614?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T02:46:58.000Z",
-    "source": "Qiita",
-    "contentSnippet": "🎯 はじめに\n「AIで遊び心あるイベントをやってみたい」\nそんな思いつきから始まった、ベストスマイル賞自動採点システム。\n恒例の社内ゴルフコンペで、参加者全員写真を撮影。\nそこからAIが“最もいい笑顔”をスコア化し、自動で表彰スライドを作る。\n──そんな試みを OCI D..."
-  },
-  {
     "title": "なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」",
     "link": "https://qiita.com/nakaizumi_slj/items/f9f59a2db8fcd6a3d7cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-27T00:41:22.000Z",
     "source": "Qiita",
     "contentSnippet": "働き始めてから、本を読む時間がどんどん減っていませんか？\n朝はTech系ニュース、昼は公式ドキュメント、夜はQiitaやZennの記事……。\n私たちエンジニアは、学び続ける日々の中で、気づけば本を開かなくなっていることがあるのです。\nそしてある日、ふと気づきました。\n「学ん..."
+  },
+  {
+    "title": "SESからメガベンチャーに転職して学んだことまとめ",
+    "link": "https://qiita.com/Toshi-Shumi/items/e71ee26d16f0b288981c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T00:40:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "本記事を書いたきっかけ\n先日、3年半ほど勤めたメガベンチャーから、ずっと憧れていたグローバルテック企業に転職しました。\nこの3年半の間、前職(メガベンチャー)では本当に多くのことを学ばせてもらったので、「この学びを忘れないよう」「今後もこの学びを有効活用できるよう」本記事..."
   },
   {
     "title": "見た目と中身がズレるわけ 文字化けの正体とUTF-8・CRLF入門",
@@ -243,13 +250,6 @@
     "pubDate": "2025-10-26T06:00:15.000Z",
     "source": "Qiita",
     "contentSnippet": "この記事で学べる事\nブラシレスモータを自分で制御する方法がわかります。\n\n方位磁針を回すには？\nあるところにコンパスがありました。\n\nこのコンパスを見て、あなたは「このコンパスを正方向(反時計回り)に回したいなぁ...。」と思いました。そのためには、とりあえず、コンパスの..."
-  },
-  {
-    "title": "サイバーセキュリティ情報インプット集 2025年版",
-    "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T12:34:52.000Z",
-    "source": "Qiita",
-    "contentSnippet": "セキュリティガイドライン、フレームワーク集\n業界や技術等の軸で存在感のあるガイドラインやフレームワークを学習することは非常に有益です。\n本記事は、普段は参照しないようなものから幅広い知見を得ることでセキュリティ業界全体を盛り上げたい。という思いで作成しています。そのため、..."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

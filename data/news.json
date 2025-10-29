@@ -1,73 +1,73 @@
 [
   {
-    "title": "A Universal Standard for Securing Prompts in AI Systems: Introducing UPSS",
-    "link": "https://dev.to/alvinveroy/a-universal-standard-for-securing-prompts-in-ai-systems-introducing-upss-224d",
-    "pubDate": "Wed, 29 Oct 2025 01:56:00 +0000",
+    "title": "Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3",
+    "link": "https://dev.to/igornosatov_15/slicing-through-complexity-modular-design-vs-feature-sliced-design-in-vue-3-13dh",
+    "pubDate": "Wed, 29 Oct 2025 06:21:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nAs artificial intelligence rapidly transforms industries and daily workflows, the security of Large Language Model (LLM) prompts is emerging as a critical concern for developers, enterpri"
+    "contentSnippet": "Slicing Through Complexity: Modular Design vs Feature-Sliced Design in Vue 3\n\n\n\n  \n  \n  The Architecture Dilemma Every Vue Developer Faces\n\n\nYou've been there: your Vue 3 project starts beautifully or"
   },
   {
-    "title": "Get in Line: Customizing Column Order in MudBlazor",
-    "link": "https://dev.to/the_real_slim_janey/get-in-line-customizing-column-order-in-mudblazor-3ail",
-    "pubDate": "Wed, 29 Oct 2025 01:42:29 +0000",
+    "title": "WebAssembly 3.0 and the Infrastructure We Actually Need",
+    "link": "https://dev.to/aronchick/webassembly-30-and-the-infrastructure-we-actually-need-3joa",
+    "pubDate": "Wed, 29 Oct 2025 06:11:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "About MudBlazor\n\n\nMudBlazor is an open-source Material Design component library for Blazor, Microsoft’s web framework for building interactive web apps in C#. It provides developers pre-built, stylist"
+    "contentSnippet": "\"We've finished the model... when do we get to the value?\"\nHere's what I'm watching happen in real time: DevOps teams are spending $$$$$$ annually on cloud egress fees just to move ML models between e"
   },
   {
-    "title": "Bra just zil...",
-    "link": "https://dev.to/bibimbop123/bra-just-zil-419j",
-    "pubDate": "Wed, 29 Oct 2025 01:37:59 +0000",
+    "title": "WASM's \"Identity Crisis\" Is Actually Its Superpower",
+    "link": "https://dev.to/aronchick/wasms-identity-crisis-is-actually-its-superpower-16m3",
+    "pubDate": "Wed, 29 Oct 2025 06:11:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🇧🇷 The Complete Guide to the Brazil Meme: From Chaos to Code\n\n\n\n\"Pack your bags. You’re going to Brazil.\"\n\n—The Internet, circa 2019\nIntroduction: Why Brazil?\nThe Origin Story: “We’re Sending You to"
+    "contentSnippet": "(Continuing the thoughts from last time...)\nI'm an enormous fan of  Matt Butcher (CEO of Fermyon) - generally - but I loved this quote,  \"We haven't hit that key Docker moment yet, But we're getting c"
   },
   {
-    "title": "Elevating Your Excel Reports: Programmatically Setting Backgrounds with Java",
-    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/elevating-your-excel-reports-programmatically-setting-backgrounds-with-java-3l1h",
-    "pubDate": "Wed, 29 Oct 2025 01:36:55 +0000",
+    "title": "How I Built a Spring Boot Todo API in One Hour",
+    "link": "https://dev.to/amrut_p_51ca0dd7c54b9/how-i-built-a-spring-boot-todo-api-in-one-hour-5e5m",
+    "pubDate": "Wed, 29 Oct 2025 06:10:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Visually appealing Excel reports are crucial for clear communication and professional presentation. However, manually customizing backgrounds for numerous reports can be tedious and error-prone. This "
+    "contentSnippet": "Hey everyone! 👋\nSo last weekend I challenged myself to build a REST API from scratch as quickly as possible. I've been wanting to level up my Spring Boot skills, and what better way than a good old T"
   },
   {
-    "title": "Descomplicando Simple Factory Method",
-    "link": "https://dev.to/yuripeixinho/descomplicando-simple-factory-method-5hfk",
-    "pubDate": "Wed, 29 Oct 2025 01:30:52 +0000",
+    "title": "NPR Music: The Beaches: Tiny Desk Concert",
+    "link": "https://dev.to/music_youtube/npr-music-the-beaches-tiny-desk-concert-187",
+    "pubDate": "Wed, 29 Oct 2025 06:10:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introdução\n\n\nO Simple Factory Method não é um padrão de projeto oficial GOF, isso significa que ele não está catalogados nos livros, portanto é reconhecido como uma introdução a outros dois design pat"
+    "contentSnippet": "The Beaches braved the Tiny Desk stage with a sun-soaked five-song set that felt like an eternal summer jam session. Fresh off their late-August album No Hard Feelings—packed with new-wave pop-rock ba"
   },
   {
-    "title": "Docker Containers Unable to Access Internet? Check Your VPS Private Network",
-    "link": "https://dev.to/bisark/docker-containers-unable-to-access-internet-check-your-vps-private-network-3jf1",
-    "pubDate": "Wed, 29 Oct 2025 01:29:57 +0000",
+    "title": "Asupixel",
+    "link": "https://dev.to/samuel_asuse10chimela_/asupixel-4ki2",
+    "pubDate": "Wed, 29 Oct 2025 06:09:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If your Docker containers can’t reach the internet, the issue might not be Docker itself. On VPS environments with a private network (like 192.168.x.x), the host’s default route may be misconfigured.\n"
+    "contentSnippet": "**Asupixel: Your creative partner for pixel-perfect web development, strategic branding, and engaging media production"
   },
   {
-    "title": "Debian First Aid Kit",
-    "link": "https://dev.to/divsmart/debian-first-aid-kit-2llm",
-    "pubDate": "Wed, 29 Oct 2025 01:10:15 +0000",
+    "title": "US-Based Client Communications Partner",
+    "link": "https://dev.to/james_hayashi_3760ec30f86/us-based-client-communications-partner-484i",
+    "pubDate": "Wed, 29 Oct 2025 06:09:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome to the Debian First Aid Kit!\n\n\nMaybe you're completely new to the command line. Either way, you've probably discovered something: Debian help is everywhere, but it's scattered across forums, w"
+    "contentSnippet": "About the role\n\n\nWe’re a Japan-based software firm expanding our US client base. We’re looking for a US-based collaborator to handle client communication. No coding is required, but you should be up-t"
   },
   {
-    "title": "Binary Brains: Secure AI on the Edge with In-Memory Magic by Arvind Sundararajan",
-    "link": "https://dev.to/arvind_sundararajan/binary-brains-secure-ai-on-the-edge-with-in-memory-magic-by-arvind-sundararajan-2j98",
-    "pubDate": "Wed, 29 Oct 2025 01:02:06 +0000",
+    "title": "🏦 Day 24 of #30DaysOfSolidity — Build a Secure Conditional Payments (Escrow) System in Solidity",
+    "link": "https://dev.to/sauravkumar8178/day-24-of-30daysofsolidity-build-a-secure-conditional-payments-escrow-system-in-solidity-4hm7",
+    "pubDate": "Wed, 29 Oct 2025 06:07:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Binary Brains: Secure AI on the Edge with In-Memory Magic\n\n\nImagine an AI-powered sensor constantly monitoring critical infrastructure. Now imagine that sensor drained its battery in minutes, or worse"
+    "contentSnippet": "Ever wondered how to make payments safe in decentralized marketplaces?\nSecure Escrow System — a smart contract that holds funds until both parties fulfill agreed conditions.\nIt’s like a digital middle"
   },
   {
-    "title": "Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling",
-    "link": "https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-58pi",
-    "pubDate": "Wed, 29 Oct 2025 00:57:40 +0000",
+    "title": "Enhance Project Outcomes Through Effective Productivity Management",
+    "link": "https://dev.to/lovely_baghel_f8747016ba8/enhance-project-outcomes-through-effective-productivity-management-57g",
+    "pubDate": "Wed, 29 Oct 2025 06:07:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nI'll never forget that afternoon. We had just launched a new feature allowing users to upload their profile pictures. Everything seemed perfect. Until one user, whether intentionally or no"
+    "contentSnippet": "Introduction: In today’s fast-paced IT industry, success depends not only on technical skills but also on how efficiently teams manage their time, resources, and workflows. Delivering projects on time"
   },
   {
-    "title": "🚀 Launch Announcement — SQAToolBox is Now Live",
-    "link": "https://dev.to/sqaesabbir/launch-announcement-sqatoolbox-is-now-live-4ib7",
-    "pubDate": "Wed, 29 Oct 2025 00:57:27 +0000",
+    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)",
+    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-4if2",
+    "pubDate": "Wed, 29 Oct 2025 06:05:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SQAToolBox is an innovative tool-based platform offering a collection of free, simple, and effective online tools designed to make everyday tasks faster and easier. From text manipulation and format c"
+    "contentSnippet": "I took on the head pro at Carlisle Golf Club in a high-stakes £1,000 showdown, with Titleist throwing their weight behind the match (and supporting club pros across the UK). As a bonus, Titleist is al"
   },
   {
     "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",
@@ -98,6 +98,13 @@
     "contentSnippet": "Swift SDK for Androidのプレビューリリース版が2025年10月27日に公開されました。\n\nさっそく動かしてみたので、以下手順をメモしておきます。\n\n 動作環境\nApple Swift version 6.3-dev (LLVM 0d0246569621d5b, Swift 199240b3fe97eda)\nTarget: arm64-apple-macosx15.0\nmacOS"
   },
   {
+    "title": "Vue SFC と AI 駆動開発の相性が良い理由",
+    "link": "https://zenn.dev/ytr0903/articles/2a3cc9dfba9945",
+    "pubDate": "Tue, 28 Oct 2025 08:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこの記事では、私が最近試して手応えを感じている、カスタムブロックを用いた「Vue だからこそ実現できる」AI 開発のアプローチについて紹介します。\nVue SFC と AI 駆動開発の相性の良さについて興味を持って頂けたら幸いです！\n!\nこの記事は以下の記事をダイジェストとして短く再構成したものです。<spec> ブロックを基にAIが書いた具体的なコード例を交えてメリット・デメリットを詳"
+  },
+  {
     "title": "Vue Fes Japan 2025に参加しました！",
     "link": "https://zenn.dev/toreis_up/articles/6644f4a19d34a1",
     "pubDate": "Tue, 28 Oct 2025 06:47:38 GMT",
@@ -105,18 +112,18 @@
     "contentSnippet": "2025年10月25日（土）、東京は大手町プレイスホールにて開催された Vue Fes Japan 2025 に参加してきました！\n私自身、初のテックカンファということもあり勝手に大緊張していましたが、カジュアルに楽しんできました。(うれしい！)\nということで、「テックカンファ怖いめぅ><」という方に「来年は参加してみようかな…？」と思ってもらうべく、レポートします！\n!\nこのレポートは、私が「楽"
   },
   {
+    "title": "産休に入るエンジニアです。いろんな気づきと今の気持ち",
+    "link": "https://zenn.dev/moneyforward/articles/4cb965f1251ed0",
+    "pubDate": "Tue, 28 Oct 2025 06:27:36 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこのたび産休に入ることになりました。\nこれまでの仕事のこと、妊娠中に感じたこと、そして今の気持ちを少し残しておこうと思い、このエントリを書いています✏️\n同じようにライフイベントを迎える方や、チームの誰かが産休・育休を取る立場になったときに、少しでも参考になれば嬉しいです。\n\n\n 妊娠して初めて知ったこと・感じたこと 🩺\n妊娠するまで知らなかったことが本当にたくさんありました。\n体調だ"
+  },
+  {
     "title": "【心理学】ダブルバインドが横行する殺伐とした開発現場は実在するので、メンバーは自己防衛の手段としての心理学を身に付けて冷静に対処したい",
     "link": "https://zenn.dev/noranuko13/articles/98d2082ea65374",
     "pubDate": "Tue, 28 Oct 2025 03:03:01 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n\n\n 対象\n\n船頭多くして船山に登る現場に、現状を説明したい開発者向け。\n\n\n ダブルバインドを知る\n!\n筆者は専門家ではないので、詳細は信頼できる情報源でチェックしてください。\n\n\nある人が、メッセージとメタメッセージが矛盾するコミュニケーション状況におかれること。\nダブルバインド - Wikipedia 『フリー百科事典 ウィキペディア日本語版』2025/09/24(日) 09:00"
-  },
-  {
-    "title": "Snowflake特徴量ストアのベストプラクティス",
-    "link": "https://zenn.dev/takikomi/articles/cd6c0d26b76f89",
-    "pubDate": "Tue, 28 Oct 2025 03:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Snowflakeの特徴量ストアについて、ベストプラクティスガイドがチュートリアルの中に用意されていました。\n体系的にまとまっていて良い内容だったので、サンプルデータを交えて解説したいと思います。\nhttps://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-feature-store/blob/main/best"
   },
   {
     "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ",
@@ -182,11 +189,11 @@
     "contentSnippet": "はじめに\nGitHub Copilot(2021/6)が発表されてから約4年が経過しました。\nこの短い期間で、AIとソフトウェア開発の関係は劇的に変化してきました。筆者自身、日々の開発業務でAIツールを活用しながら、その進化の速さに驚かされ続けています。単なる「コード補完..."
   },
   {
-    "title": "個人的もっと知られてほしいNeovim/Vimプラグイン８選",
-    "link": "https://zenn.dev/sirasagi62/articles/196e0f592a6177",
-    "pubDate": "Mon, 27 Oct 2025 09:58:21 GMT",
+    "title": "拡大・平行移動・回転行列で作る円形カルーセル",
+    "link": "https://zenn.dev/studio/articles/445bfb6e55d8b3",
+    "pubDate": "Mon, 27 Oct 2025 12:32:42 GMT",
     "source": "Zenn",
-    "contentSnippet": "!\n本記事は Vim 駅伝 の 10/27 の記事です。\n前回は10/24のkuri-sunさんによる自分のデストップに合うNeovimテーマがなかったので、作ってみた。という記事でした。\n\nこの間、NeovimのLSP設定を久しぶりに見直してみました。ついでにプラグインの入れ替えを行ったので、これを機に個人的に便利だけどあんまり知られていない（と思う）Neovim/Vimプラグインを紹介してみよ"
+    "contentSnippet": "1. はじめに\nAI エンジニアの山田です。\n普段はAI開発をメインにしていて、ウェブのフロントエンドの経験はありません。\nそんな私が社内のUI勉強会に参加し、 WebGL でのアニメーションに初めて挑戦した備忘録です。\n今回のUI Lab #0のテーマは「カルーセルUI」です。\nhttps://zenn.dev/studio/articles/7a1d2d294aec11\nカルーセルUIを検索し"
   },
   {
     "title": "GPU搭載インスタンスは高い？実測したら逆に8.7倍も安かった話【AWS コスパ検証】",
@@ -194,13 +201,6 @@
     "pubDate": "2025-10-27T06:00:37.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGMOコネクトの野尻です。\n「高性能の環境って結構コストがお高くなるものだが、クラウドサービスって使った時間だけ料金が発生するのでタイムパフォーマンス加味すると必ずしも高性能環境の方がお金がかかるわけでもないよな？」と思い、今回AWS上で提供されている高性能イン..."
-  },
-  {
-    "title": "ベクトルインデックスのすゝめ",
-    "link": "https://zenn.dev/exwzd/articles/20251015_a_guide_to_vector_indexing",
-    "pubDate": "Mon, 27 Oct 2025 05:47:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n初めまして、株式会社エクサウィザーズのWANDチームでインターンをしている東光です。本記事では、近年注目を集めているベクトルDBのパフォーマンス向上を目的とした、最適なベクトルインデックスの選択方法を紹介します。具体的には、一般的なベクトルインデックスへの見解と実際に実験した知見から、ベストプラクティスを目指すための考え方を示します。\n\n 背景\n\n ベクトルDBとベクトルインデックスの関"
   },
   {
     "title": "なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」",

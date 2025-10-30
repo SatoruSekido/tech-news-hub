@@ -1,73 +1,80 @@
 [
   {
-    "title": "Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-25l6",
-    "pubDate": "Thu, 30 Oct 2025 02:01:17 +0000",
+    "title": "🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻",
+    "link": "https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n",
+    "pubDate": "Thu, 30 Oct 2025 06:29:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan\n\n\nThe Ringer crew reunites to tackle the 1981 sequel “Halloween II,” breaking down whether Michael Myers earns GOAT horror-villain status, "
+    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, Perfect Landing\nFor this Dev.to Frontend Challenge, I built a responsive Halloween landing page called Halloween Party 2025, a spooky, "
+  },
+  {
+    "title": "GitHub Co‑Creator: Tetrix for Codebase Mastery",
+    "link": "https://dev.to/akkii2022/github-co-creator-tetrix-for-codebase-mastery-4bnp",
+    "pubDate": "Thu, 30 Oct 2025 06:16:54 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "See how Tetrix uses your repository context to speed up navigation, generation, and review. With your code indexed in a knowledge graph, Tetrix can find the right files instantly, generate code that f"
+  },
+  {
+    "title": "Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & Hybrids",
+    "link": "https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4hbb",
+    "pubDate": "Thu, 30 Oct 2025 06:05:51 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Turns out most golfers can’t strike their irons or hybrids purely because their setup is off: your sternum and forearms need proper alignment, your posture must be spot-on, you’ve got to transfer weig"
+  },
+  {
+    "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
+    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308",
+    "pubDate": "Thu, 30 Oct 2025 06:05:40 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The Productivity System I Taught to 6,642 Googlers\n\nOver nine years, Jeff Su distilled every bit of workplace info into a four-step CORE workflow—Capture, Organize, Review, Engage—that you can plug in"
+  },
+  {
+    "title": "Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2k9b",
+    "pubDate": "Thu, 30 Oct 2025 06:00:37 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Bill Simmons, Chris Ryan, and Van Lathan reunite to rewatch 1981’s Halloween II, debating whether Michael Myers truly earns GOAT status, sharing their most rewatchable moments, and hashing out fun cat"
   },
   {
     "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-31la",
-    "pubDate": "Thu, 30 Oct 2025 02:01:04 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4he1",
+    "pubDate": "Thu, 30 Oct 2025 06:00:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less is CinemaSins’ tongue-in-cheek takedown of Tim Burton’s beloved stop-motion dog-resurrection tale, timed to its theatrical re-release. The cre"
+    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less\n\nCinemaSins rolls into theaters once more to put Tim Burton’s beloved “Franky boy” under the sin-scope, delivering 14 minutes of playful jabs,"
   },
   {
     "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2c0h",
-    "pubDate": "Thu, 30 Oct 2025 02:00:49 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-16pb",
+    "pubDate": "Thu, 30 Oct 2025 06:00:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins just dropped Everything Wrong With Longlegs… in under 24 minutes they roast Nicolas Cage’s wild antics in Longlegs while teasing Osgood Perkins’s upcoming thriller, Keeper. It’s classic Cin"
+    "contentSnippet": "Everything Wrong With Longlegs in 24 Minutes (Or Less)\n\n\nCinemaSins takes on Longlegs, roasting every wild Nicolas Cage moment (and yes, those literally extra-long limbs) in a tight, 24-minute rundown"
   },
   {
-    "title": "我的第一篇 API 发布文章",
-    "link": "https://dev.to/zaki_zaki_6190b1c9c92c066/wo-de-di-pian-api-fa-bu-wen-zhang-9i5",
-    "pubDate": "Thu, 30 Oct 2025 01:43:25 +0000",
+    "title": "My First Post via the DEV API 🚀",
+    "link": "https://dev.to/vishal_singhthapa_353965/my-first-post-via-the-dev-api-2omp",
+    "pubDate": "Thu, 30 Oct 2025 05:53:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "你好，世界！\n\n\n这是我使用 Python 脚本发布的第二篇文章。\n列表项 1\n列表项 2\nprint(\"Hello dev.to\")"
+    "contentSnippet": "Hello DEV Community! 👋\nThis post was published using the DEV API.\n\n\n  \n  \n  api #automation #devto"
   },
   {
-    "title": "How to Convert PPT(X) to PNG Using Python",
-    "link": "https://dev.to/jelizaveta/how-to-convert-pptx-to-png-using-python-fah",
-    "pubDate": "Thu, 30 Oct 2025 01:43:01 +0000",
+    "title": "Check out the guide on - Mastering the Naïve Bayes Classifier in R: From Concept to Real-World Applications",
+    "link": "https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-mastering-the-naive-bayes-classifier-in-r-from-concept-to-real-world-579j",
+    "pubDate": "Thu, 30 Oct 2025 05:50:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today's fast-paced digital landscape, the need to programmatically manipulate and convert documents is more prevalent than ever. Developers, data scientists, and automation enthusiasts often face t"
+    "contentSnippet": "Mastering the Naïve Bayes Classifier in R: From Concept to Real-World Applications\nDipti Moryani ・ Oct 30"
   },
   {
-    "title": "Hacktoberfest 2025 Reflection: Three Years, Three Lessons, One Evolution",
-    "link": "https://dev.to/lymah/hacktoberfest-2025-reflection-three-years-three-lessons-one-evolution-29ba",
-    "pubDate": "Thu, 30 Oct 2025 01:40:36 +0000",
+    "title": "🚀 How I Built My Personal AI-Powered Portfolio – surajrana.dev",
+    "link": "https://dev.to/suraj_rana_0d6acb0a1adac3/how-i-built-my-personal-ai-powered-portfolio-surajranadev-1ah5",
+    "pubDate": "Thu, 30 Oct 2025 05:49:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the 2025 Hacktoberfest Writing Challenge: Open Source Reflections\nThis was my third Hacktoberfest, and each year taught me something different about what open source really me"
+    "contentSnippet": "Intro:\nHey developers 👋,\nIn this post, I’ll walk you through how I built it, what tech stack I used, and what I learned along the way.\nTech Stack Used 🧠\nFrontend: Next.js 14 + Tailwind CSS\nBackend: "
   },
   {
-    "title": "AIと無料APIで\"マルチ投稿ブログ\"を自動化してみた（第2回）— 記事内容に合うカバー画像を自動生成",
-    "link": "https://dev.to/beachone1155/aitowu-liao-apidemarutitou-gao-buroguwozi-dong-hua-sitemitadi-2hui-ji-shi-nei-rong-nihe-ukabahua-xiang-wozi-dong-sheng-cheng-4n87",
-    "pubDate": "Thu, 30 Oct 2025 01:39:08 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "第1回では「1枚のMarkdownからマルチ投稿」を整えました。第2回は、記事に“合う”カバー画像を無料の生成AI×画像APIで自動生成します。\n記事のタイトル・要約・タグからプロンプトを生成し、Hugging Face Inference Providers（Stable Diffusion XL）で画像を生成\n生成に失敗・レート制限等の際はUnsplash APIに自動フォールバック\n取得/生"
-  },
-  {
-    "title": "Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault",
-    "link": "https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4ad8",
-    "pubDate": "Thu, 30 Oct 2025 01:33:21 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nEvery programmer has had that moment. You join a new project, or you open up a project you wrote yourself six months ago, and then you feel it—that familiar, suffocating chaos. 🌪️ The uti"
-  },
-  {
-    "title": "How Large Language Models (LLMs) actually work",
-    "link": "https://dev.to/wdp/how-large-language-models-llms-actually-work-37d5",
-    "pubDate": "Thu, 30 Oct 2025 01:29:50 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "In the first article of this AI series, Why AI struggles with “no” and what that teaches us about ourselves, we explored how language models often misinterpret negation and how those mistakes mirror s"
-  },
-  {
-    "title": "Daily Artificial Intelligence Digest - Oct 30, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-30-2025-jej",
-    "pubDate": "Thu, 30 Oct 2025 01:27:47 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "AI Model Advances & Practical Applications\n\n\nGoogle DeepMind is advancing the AI for math initiative with new research, further demonstrating the potential of AI in complex problem-solving. This devel"
+    "title": "【感謝】Vue Fes Japan 2025 登壇しました【初】",
+    "link": "https://zenn.dev/kosuke_naito/articles/making-vuefes2025-dx-ntr-pc",
+    "pubDate": "Wed, 29 Oct 2025 17:16:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nナイトウ(@naitokosuke)と申します。\n\nVue Fes Japan 2025 にて『最高の DX - Nuxt Typed Router と Pinia Colada で実現する次世代 Vue/Nuxt 開発』という題で発表させていただきました。\n\nhttps://naitokosuke.github.io/vue-fes-japan-2025-slide/\nいい加減な発表に"
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",
@@ -75,6 +82,41 @@
     "pubDate": "2025-10-29T15:29:01.000Z",
     "source": "Publickey",
     "contentSnippet": "GitHubは、日本時間10月29日未明から開催中の年次イベント「GitHub Universe 2025」で、Visual Studio CodeにおけるGitHub Copilotの新機能として、AIが仕様作成を支援する「Planモード」を発表しました。 GitHub Copilotにはすでに、質問や相談にAIが対応してくれる「Askモード」、コードの編集をAIが行ってくれる「Editモード」"
+  },
+  {
+    "title": "自分が大学1年生の時に欲しかった資料",
+    "link": "https://zenn.dev/ayarnte/articles/9a5ae9347fe387",
+    "pubDate": "Wed, 29 Oct 2025 14:52:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこの記事は，IT系の仕事に転職したいがどのようなものがあるのかどうかも全くわからず自分のスキルをどのようにつければいいのかがわからないから教えてと言われた際に作成したものである．\n自分でこのスキルを身につけるためにはどのように形成していけばいいのかを考えたり，本などを読んで全体像を確かめていくのももちろん大切ではあるが，実際に何もわからない状況だとそれすらも考えられないのではないか？周り"
+  },
+  {
+    "title": "Pandasで「野根（None）」という地名が欠損値（NaN）になってしまった話",
+    "link": "https://zenn.dev/mierune/articles/014c283ecd2be6",
+    "pubDate": "Wed, 29 Oct 2025 08:38:17 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Pandasの read_csv における欠損値文字列の扱い\nPythonのデータ解析ライブラリPandasでは、CSVファイルを読み込む際（pd.read_csv()）、特定の文字列が自動的に NaN （欠損値）として扱われるという仕様があります。\nドキュメントによると、デフォルトで以下の値がNaNと解釈されます。\n\nBy default the following values are int"
+  },
+  {
+    "title": "入門 eBPF ①「Hello World」を通して、カーネルに耳をすませよう",
+    "link": "https://zenn.dev/nanocy/articles/befac3edb47118",
+    "pubDate": "Wed, 29 Oct 2025 08:27:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "今回の目的\n\nPythonの BCC（BPF Compiler Collection） ライブラリを使って、カーネル空間で「Hello World」を表示する最小のeBPFプログラムを実行してみます。\n\neBPFがどうやってカーネルの内部を観察できるのかを体感することが今回の目標です。\n\n\n 筆者の実行環境\n\n実行環境：UTM上の Linux（Ubuntu）\n→ Mac上で仮想的にLinuxを動か"
+  },
+  {
+    "title": "Cloudflare Workers, D1, Hono, Next.jsを使ってちゃんと使えるアプリを作成する",
+    "link": "https://zenn.dev/fatricepaddyy/books/cf_sample_app",
+    "pubDate": "Wed, 29 Oct 2025 07:50:53 GMT",
+    "source": "Zenn",
+    "contentSnippet": "以下の技術を使い、モノレポでちゃんと使えるアプリケーションのテンプレートとなるものを作成します。\n- Cloudflare Workers\n- Cloudflare D1\n- Hono\n- OpenAPI Hono\n- Next.js\n- Better Auth\n- Drizzle\n- プレビュー環境とプロダクション環境をCloudflare Workersで分離してデプロイ\n- Github A"
+  },
+  {
+    "title": "RerankでRAGの検索精度はどう変わる？軽量日本語モデルで試してみた",
+    "link": "https://zenn.dev/serio/articles/c3690d2a6b382d",
+    "pubDate": "Wed, 29 Oct 2025 05:54:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "背景\n私たちのチームでは、Retrieval Augmented Generation（RAG）を活用して、社内ナレッジをより効果的に活用する取り組みを進めています。ナレッジ情報をベクトル化し、ベクトル検索によって関連する情報を取得し、それをもとにLLMで回答を生成するという流れです。\nしかし、ベクトル検索のみでは検索精度に課題があり、うまく回答が導き出せないケースも少なくありません。\n現状、検索"
   },
   {
     "title": "とんとんぼ式、Devin活用術",
@@ -89,13 +131,6 @@
     "pubDate": "Wed, 29 Oct 2025 02:49:11 GMT",
     "source": "Zenn",
     "contentSnippet": "皆さんセキュリティには詳しいでしょうか? \"AI エージェント元年\" などと言われていますが、その中で認証・認可の重要性はより高まっています。なぜなら、AI エージェントは単なるチャットボットを超え「目的を与えれば自律的にタスクを完遂する」存在へと移行しているためです。AI エージェントがあなたの身近な存在となった時、あなたの代わりに社内のプロジェクト管理ツールを操作したり機微な顧客情報を参照した"
-  },
-  {
-    "title": "Vue Fes Japan 2025 出展レポート",
-    "link": "https://zenn.dev/finatext/articles/vuefesjapan2025",
-    "pubDate": "Wed, 29 Oct 2025 02:06:06 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年10月25日（土）に大手町プレイス ホール＆カンファレンスで開催された「Vue Fes Japan 2025」に、Finatextホールディングスとして初めて協賛し、ブースを出展してきました！このレポートでは、主に当社ブースの様子や会場の雰囲気などをご紹介します。\n\n 0. Vue Fes Japan とは？\n2018年から開催されている、日本最大級のVue.jsのカンファレンスです。\n"
   },
   {
     "title": "Unityでのマスタデータ管理にMasterMemoryを導入する",
@@ -119,11 +154,11 @@
     "contentSnippet": "はじめに\n全国1億2千万の EntraID 戦士のみなさんこんにちは、はしもと（仮名）です。\n本文が長いのでさっさと本題に入ります。\n\n概要\nAmazon Bedrock AgentCore Identityを使用し、AgentCore RuntimeでホストしたAIエー..."
   },
   {
-    "title": "【Amazon Bedrock AgentCore/Strands Agents】AIエージェントで経理業務の課題を解決",
-    "link": "https://zenn.dev/grooves/articles/c49c627a1ad4be",
-    "pubDate": "Wed, 29 Oct 2025 00:12:14 GMT",
+    "title": "製造現場の隙間時間で、Next.jsダッシュボードを作った話",
+    "link": "https://zenn.dev/yamato_snow/articles/b0d625be6d0751",
+    "pubDate": "Tue, 28 Oct 2025 23:17:59 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nAmazon Bedrock AgentCoreがGAしたため、社内で運用している経理エージェントをAmazon Bedrock AgentCoreおよびStrands Agentsで実装してみました。\n\n Amazon Bedrock AgentCore\n今回は以下のサービスを利用しています。\n\n\n\nサービス\n今回の用途\n\n\n\n\nAgentCore Runtime\n経理エージェントのホ"
+    "contentSnippet": "ダイカストマシンが製品を作ってる間、2〜3分くらい待つ時間があるんですよ。製造現場にいると、この「サイクルタイム」っていう隙間時間が1日に何回も訪れます。\n普通、この時間って何もできないんです。機械が止まるのを待つだけ。\nでも、Cursorを使い始めてから、この隙間時間が開発時間になりました。\nサイクルタイムの隙間にPCを開く → Cursorに「この関数を実装して」って指示を入力 → 機械が止ま"
   },
   {
     "title": "【ポケモン×Java】知識編 Scanner#2 〜基本編②-nextLine-〜",
@@ -173,41 +208,6 @@
     "pubDate": "Tue, 28 Oct 2025 08:58:07 GMT",
     "source": "Zenn",
     "contentSnippet": "Swift SDK for Androidのプレビューリリース版が2025年10月27日に公開されました。\n\nさっそく動かしてみたので、以下手順をメモしておきます。\n\n 動作環境\nApple Swift version 6.3-dev (LLVM 0d0246569621d5b, Swift 199240b3fe97eda)\nTarget: arm64-apple-macosx15.0\nmacOS"
-  },
-  {
-    "title": "Vue SFC と AI 駆動開発の相性が良い理由",
-    "link": "https://zenn.dev/ytr0903/articles/2a3cc9dfba9945",
-    "pubDate": "Tue, 28 Oct 2025 08:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこの記事では、私が最近試して手応えを感じている、カスタムブロックを用いた「Vue だからこそ実現できる」AI 開発のアプローチについて紹介します。\nVue SFC と AI 駆動開発の相性の良さについて興味を持って頂けたら幸いです！\n!\nこの記事は以下の記事をダイジェストとして短く再構成したものです。<spec> ブロックを基にAIが書いた具体的なコード例を交えてメリット・デメリットを詳"
-  },
-  {
-    "title": "Vue Fes Japan 2025に参加しました！",
-    "link": "https://zenn.dev/toreis_up/articles/6644f4a19d34a1",
-    "pubDate": "Tue, 28 Oct 2025 06:47:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年10月25日（土）、東京は大手町プレイスホールにて開催された Vue Fes Japan 2025 に参加してきました！\n私自身、初のテックカンファということもあり勝手に大緊張していましたが、カジュアルに楽しんできました。(うれしい！)\nということで、「テックカンファ怖いめぅ><」という方に「来年は参加してみようかな…？」と思ってもらうべく、レポートします！\n!\nこのレポートは、私が「楽"
-  },
-  {
-    "title": "産休に入るエンジニアです。いろんな気づきと今の気持ち",
-    "link": "https://zenn.dev/moneyforward/articles/4cb965f1251ed0",
-    "pubDate": "Tue, 28 Oct 2025 06:27:36 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこのたび産休に入ることになりました。\nこれまでの仕事のこと、妊娠中に感じたこと、そして今の気持ちを少し残しておこうと思い、このエントリを書いています✏️\n同じようにライフイベントを迎える方や、チームの誰かが産休・育休を取る立場になったときに、少しでも参考になれば嬉しいです。\n\n\n 妊娠して初めて知ったこと・感じたこと 🩺\n妊娠するまで知らなかったことが本当にたくさんありました。\n体調だ"
-  },
-  {
-    "title": "【心理学】ダブルバインドが横行する殺伐とした開発現場は実在するので、メンバーは自己防衛の手段としての心理学を身に付けて冷静に対処したい",
-    "link": "https://zenn.dev/noranuko13/articles/98d2082ea65374",
-    "pubDate": "Tue, 28 Oct 2025 03:03:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n\n\n 対象\n\n船頭多くして船山に登る現場に、現状を説明したい開発者向け。\n\n\n ダブルバインドを知る\n!\n筆者は専門家ではないので、詳細は信頼できる情報源でチェックしてください。\n\n\nある人が、メッセージとメタメッセージが矛盾するコミュニケーション状況におかれること。\nダブルバインド - Wikipedia 『フリー百科事典 ウィキペディア日本語版』2025/09/24(日) 09:00"
-  },
-  {
-    "title": "Snowflake特徴量ストアのベストプラクティス",
-    "link": "https://zenn.dev/takikomi/articles/cd6c0d26b76f89",
-    "pubDate": "Tue, 28 Oct 2025 03:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Snowflakeの特徴量ストアについて、ベストプラクティスガイドがチュートリアルの中に用意されていました。\n体系的にまとまっていて良い内容だったので、サンプルデータを交えて解説したいと思います。\nhttps://github.com/Snowflake-Labs/sfguide-getting-started-with-snowflake-feature-store/blob/main/best"
   },
   {
     "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ",

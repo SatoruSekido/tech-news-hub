@@ -1,73 +1,73 @@
 [
   {
-    "title": "🚀 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐓𝐢𝐭𝐥𝐞𝐬 𝐢𝐧 𝐑𝐞𝐚𝐜𝐭: 𝐐𝐮𝐢𝐜𝐤 𝐓𝐢𝐩",
-    "link": "https://dev.to/mirnatul/-18pc",
-    "pubDate": "Wed, 29 Oct 2025 18:29:16 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "If you want to set a dynamic page title in React, you can just put a title tag inside your component. But there’s a catch:\n⚠️ Only one title should be rendered at a time. If more than one component ad"
-  },
-  {
-    "title": "You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events",
-    "link": "https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-15e8",
-    "pubDate": "Wed, 29 Oct 2025 18:20:02 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nIn our toolbox, there are always a few \"star\" tools. 🛠️ In the realm of real-time web communication, WebSocket is undoubtedly the brightest star. It's powerful, supports bidirectional com"
-  },
-  {
-    "title": "Como ajudar as pessoas a contribuirem com seu projeto Open Source",
-    "link": "https://dev.to/morgannadev/como-ajudar-as-pessoas-a-contribuirem-com-seu-projeto-open-source-4cjm",
-    "pubDate": "Wed, 29 Oct 2025 18:16:25 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Essa é uma submissão para o Desafio de escrita do Hacktoberfest 2025: Reflexões sobre Open Source.\nREADME.md legal\n\n\nEsse arquivo é basicamente a vitrine do seu projeto. Então faz sentido que você ded"
-  },
-  {
-    "title": "How I Made an MCP Server That Saves Me an Hour per Week",
-    "link": "https://dev.to/googlecloud/how-i-made-an-mcp-server-that-saves-me-an-hour-per-week-3k8k",
-    "pubDate": "Wed, 29 Oct 2025 18:09:55 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Recently, I’ve been travelling around the country to help engineers learn how to build MCP Servers and AI Agents serverlessly on Cloud Run in our Accelerate AI with Cloud Run workshops. Attendees ofte"
-  },
-  {
-    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)",
-    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-lef",
-    "pubDate": "Wed, 29 Oct 2025 18:07:58 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Finch squared off against Carlisle GC’s head pro in a high-stakes £1,000 match for Episode 2, all backed by Titleist. Not only are they sponsoring the series, but they’re also supporting Carlisle’s ju"
-  },
-  {
-    "title": "Meetup: Show Your Stack! TypeScript Community",
-    "link": "https://dev.to/getjv/meetup-show-your-stack-typescript-community-5587",
-    "pubDate": "Wed, 29 Oct 2025 18:07:37 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "A meetup with a great audience and tons of high-quality content, that’s the best way to describe the last edition of Munich TypeScript: Show Your Stack, very well organized by Carl Assmann at Netlight"
-  },
-  {
     "title": "Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-4623",
-    "pubDate": "Wed, 29 Oct 2025 18:01:49 +0000",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-25l6",
+    "pubDate": "Thu, 30 Oct 2025 02:01:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In this Ringer podcast episode, Bill Simmons, Chris Ryan, and Van Lathan reunite to dissect Halloween II (1981), debating if Michael Myers earns GOAT-horror-villain status, spotlighting their most rew"
+    "contentSnippet": "‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan\n\n\nThe Ringer crew reunites to tackle the 1981 sequel “Halloween II,” breaking down whether Michael Myers earns GOAT horror-villain status, "
   },
   {
     "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1603",
-    "pubDate": "Wed, 29 Oct 2025 18:01:34 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-31la",
+    "pubDate": "Thu, 30 Oct 2025 02:01:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less\n\n\nCinemaSins is back with a lighthearted takedown of Tim Burton’s Frankenweenie—pointing out every “sin” and quirk in under 14 minutes, comple"
-  },
-  {
-    "title": "CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-38cb",
-    "pubDate": "Wed, 29 Oct 2025 18:01:23 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins just tore into Final Destination: Bloodlines—counting up every bit of “fun nonsense” in under 24 minutes. Expect snarky commentary, classic over-the-top deaths and plenty of “sins” "
+    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less is CinemaSins’ tongue-in-cheek takedown of Tim Burton’s beloved stop-motion dog-resurrection tale, timed to its theatrical re-release. The cre"
   },
   {
     "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3nck",
-    "pubDate": "Wed, 29 Oct 2025 18:01:12 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-2c0h",
+    "pubDate": "Thu, 30 Oct 2025 02:00:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less\n\n\nCinemaSins takes on Nicolas Cage’s Longlegs with their trademark snark, counting up all the wild plot holes, bizarre character choices, and—yes—t"
+    "contentSnippet": "CinemaSins just dropped Everything Wrong With Longlegs… in under 24 minutes they roast Nicolas Cage’s wild antics in Longlegs while teasing Osgood Perkins’s upcoming thriller, Keeper. It’s classic Cin"
+  },
+  {
+    "title": "我的第一篇 API 发布文章",
+    "link": "https://dev.to/zaki_zaki_6190b1c9c92c066/wo-de-di-pian-api-fa-bu-wen-zhang-9i5",
+    "pubDate": "Thu, 30 Oct 2025 01:43:25 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "你好，世界！\n\n\n这是我使用 Python 脚本发布的第二篇文章。\n列表项 1\n列表项 2\nprint(\"Hello dev.to\")"
+  },
+  {
+    "title": "How to Convert PPT(X) to PNG Using Python",
+    "link": "https://dev.to/jelizaveta/how-to-convert-pptx-to-png-using-python-fah",
+    "pubDate": "Thu, 30 Oct 2025 01:43:01 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "In today's fast-paced digital landscape, the need to programmatically manipulate and convert documents is more prevalent than ever. Developers, data scientists, and automation enthusiasts often face t"
+  },
+  {
+    "title": "Hacktoberfest 2025 Reflection: Three Years, Three Lessons, One Evolution",
+    "link": "https://dev.to/lymah/hacktoberfest-2025-reflection-three-years-three-lessons-one-evolution-29ba",
+    "pubDate": "Thu, 30 Oct 2025 01:40:36 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "This is a submission for the 2025 Hacktoberfest Writing Challenge: Open Source Reflections\nThis was my third Hacktoberfest, and each year taught me something different about what open source really me"
+  },
+  {
+    "title": "AIと無料APIで\"マルチ投稿ブログ\"を自動化してみた（第2回）— 記事内容に合うカバー画像を自動生成",
+    "link": "https://dev.to/beachone1155/aitowu-liao-apidemarutitou-gao-buroguwozi-dong-hua-sitemitadi-2hui-ji-shi-nei-rong-nihe-ukabahua-xiang-wozi-dong-sheng-cheng-4n87",
+    "pubDate": "Thu, 30 Oct 2025 01:39:08 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "第1回では「1枚のMarkdownからマルチ投稿」を整えました。第2回は、記事に“合う”カバー画像を無料の生成AI×画像APIで自動生成します。\n記事のタイトル・要約・タグからプロンプトを生成し、Hugging Face Inference Providers（Stable Diffusion XL）で画像を生成\n生成に失敗・レート制限等の際はUnsplash APIに自動フォールバック\n取得/生"
+  },
+  {
+    "title": "Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault",
+    "link": "https://dev.to/member_25c2e834/your-projects-a-mess-its-not-you-its-your-frameworks-fault-4ad8",
+    "pubDate": "Thu, 30 Oct 2025 01:33:21 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "GitHub Home\nEvery programmer has had that moment. You join a new project, or you open up a project you wrote yourself six months ago, and then you feel it—that familiar, suffocating chaos. 🌪️ The uti"
+  },
+  {
+    "title": "How Large Language Models (LLMs) actually work",
+    "link": "https://dev.to/wdp/how-large-language-models-llms-actually-work-37d5",
+    "pubDate": "Thu, 30 Oct 2025 01:29:50 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "In the first article of this AI series, Why AI struggles with “no” and what that teaches us about ourselves, we explored how language models often misinterpret negation and how those mistakes mirror s"
+  },
+  {
+    "title": "Daily Artificial Intelligence Digest - Oct 30, 2025",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-30-2025-jej",
+    "pubDate": "Thu, 30 Oct 2025 01:27:47 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "AI Model Advances & Practical Applications\n\n\nGoogle DeepMind is advancing the AI for math initiative with new research, further demonstrating the potential of AI in complex problem-solving. This devel"
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",
@@ -77,11 +77,25 @@
     "contentSnippet": "GitHubは、日本時間10月29日未明から開催中の年次イベント「GitHub Universe 2025」で、Visual Studio CodeにおけるGitHub Copilotの新機能として、AIが仕様作成を支援する「Planモード」を発表しました。 GitHub Copilotにはすでに、質問や相談にAIが対応してくれる「Askモード」、コードの編集をAIが行ってくれる「Editモード」"
   },
   {
+    "title": "とんとんぼ式、Devin活用術",
+    "link": "https://qiita.com/KaitoMuraoka/items/65b4c594c679f47bffd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-29T03:40:05.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Devin、Devinはいいぞ！\nDevin使うの良過ぎてロゴ回してる\n\nはじめに\nこの記事はたまーに更新されます。\n何か良い方法、「自分はこんな感じで運用しているよ！」みたいな話があれば、コメントください！\n\n心構え\nAIを使う上で、100%理想的なコードが返ってくると..."
+  },
+  {
     "title": "AI エージェント時代のリスク対策 : 認証・認可をあらためて学ぶ",
     "link": "https://zenn.dev/aws_japan/articles/f1a0549c8e533a",
     "pubDate": "Wed, 29 Oct 2025 02:49:11 GMT",
     "source": "Zenn",
     "contentSnippet": "皆さんセキュリティには詳しいでしょうか? \"AI エージェント元年\" などと言われていますが、その中で認証・認可の重要性はより高まっています。なぜなら、AI エージェントは単なるチャットボットを超え「目的を与えれば自律的にタスクを完遂する」存在へと移行しているためです。AI エージェントがあなたの身近な存在となった時、あなたの代わりに社内のプロジェクト管理ツールを操作したり機微な顧客情報を参照した"
+  },
+  {
+    "title": "Vue Fes Japan 2025 出展レポート",
+    "link": "https://zenn.dev/finatext/articles/vuefesjapan2025",
+    "pubDate": "Wed, 29 Oct 2025 02:06:06 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年10月25日（土）に大手町プレイス ホール＆カンファレンスで開催された「Vue Fes Japan 2025」に、Finatextホールディングスとして初めて協賛し、ブースを出展してきました！このレポートでは、主に当社ブースの様子や会場の雰囲気などをご紹介します。\n\n 0. Vue Fes Japan とは？\n2018年から開催されている、日本最大級のVue.jsのカンファレンスです。\n"
   },
   {
     "title": "Unityでのマスタデータ管理にMasterMemoryを導入する",
@@ -96,6 +110,20 @@
     "pubDate": "2025-10-29T00:31:18.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n最近、「業務で困っていることありますか？」というアンケートを社内で行ったところ、\n人事の方からこんな意見がありました！\n「他の人に依頼をかけることが多いんだけど、Slackだとタスク内容や期限が埋もれちゃうんだよね…」..."
+  },
+  {
+    "title": "AgentCore IdentityでAIエージェントに対する認証機能を実装する（EntraID × Atlassian Cloud）",
+    "link": "https://qiita.com/s3kzk/items/d6fb5fa77c008c9d47ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-29T00:18:43.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n全国1億2千万の EntraID 戦士のみなさんこんにちは、はしもと（仮名）です。\n本文が長いのでさっさと本題に入ります。\n\n概要\nAmazon Bedrock AgentCore Identityを使用し、AgentCore RuntimeでホストしたAIエー..."
+  },
+  {
+    "title": "【Amazon Bedrock AgentCore/Strands Agents】AIエージェントで経理業務の課題を解決",
+    "link": "https://zenn.dev/grooves/articles/c49c627a1ad4be",
+    "pubDate": "Wed, 29 Oct 2025 00:12:14 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nAmazon Bedrock AgentCoreがGAしたため、社内で運用している経理エージェントをAmazon Bedrock AgentCoreおよびStrands Agentsで実装してみました。\n\n Amazon Bedrock AgentCore\n今回は以下のサービスを利用しています。\n\n\n\nサービス\n今回の用途\n\n\n\n\nAgentCore Runtime\n経理エージェントのホ"
   },
   {
     "title": "【ポケモン×Java】知識編 Scanner#2 〜基本編②-nextLine-〜",
@@ -126,11 +154,11 @@
     "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして「Agent HQ」を発表しました。 同社は、AIを活用したソフトウェア開発の未来は単一のAIエージェントに依存するのではなく、複数の専門分野を持つAIエージェントがそれぞれ得意とする分野の複雑なタスクを並行して実行する形式になるとしました。 そうした複数のエージェントを統合"
   },
   {
-    "title": "無料でも使える！Avalonia Accelerate",
-    "link": "https://zenn.dev/inuinu/articles/avalonia-accelerate-community",
-    "pubDate": "Tue, 28 Oct 2025 15:15:55 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025年10月、「Avalonia UI」の公式有料便利ツール「Avalonia Accelerate」に非商用無料ライセンス版が追加されました。\nこの記事では無料の範囲でできるようになったことを紹介します。\n\n そもそも「Avalonia UI」って何？\nhttps://x.com/i/status/1972530585794228469\n\nOSSで無料、クロスプラットフォーム、.N"
+    "title": "【個人開発】香水オタクから初心者まで楽しめる香り記録・レビューアプリを作りました",
+    "link": "https://qiita.com/mirei-m/items/e985aae8385bd5a6705b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T11:32:09.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n初めまして！まみむです🐰\nプログラミングスクール「RUNTEQ」で2024年11月から学習を始め、未経験からエンジニア転職を目指しています。\nポートフォリオとして開発した「FragranceLog」について、サービスの開発理由やこだわった点について紹介します✨\n..."
   },
   {
     "title": "ChatGPT × GenSparkで提案書を自動生成する実践フロー",
@@ -196,25 +224,11 @@
     "contentSnippet": "はじめに\nGMOコネクトの永田です。\n開発中、コードを少し変更するたびに「docker compose build」を実行して数十秒待つ...この繰り返しにストレスを感じたことはありませんか？\n今回、JavaアプリケーションのDocker開発環境において、ビルド時間を約3..."
   },
   {
-    "title": "AgentCore Memory で AI エージェントの記憶をマネージドに管理するぞ",
-    "link": "https://zenn.dev/aws_japan/articles/dd0bf7fa9a3f12",
-    "pubDate": "Mon, 27 Oct 2025 23:49:44 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！ AWS でソリューションアーキテクトをしているこば D（ https://x.com/kobayasd ） です。本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 2 日目です。私は「AgentCore Memory」をテーマに、入門記事を書かせていただきます✌\n!\n📚 第 1 "
-  },
-  {
     "title": "さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始",
     "link": "https://www.publickey1.jp/blog/25/24365.html",
     "pubDate": "2025-10-27T15:01:19.000Z",
     "source": "Publickey",
     "contentSnippet": "さくらインターネットは、同社が提供するクラウドサービス「さくらのクラウド」向けに、24時間365日対応の有償サポートを11月10日から提供開始すると発表しました。 同社は現行のサポート体制として、平日10時から18時に問い合わせフォームもしくはコールバック予約の電話にてサポートを提供してきました。 新しく設定されるプレミアムサポートは24時間365日体制でクラウドコントロールパネルの問い合わせフォ"
-  },
-  {
-    "title": "ソフトウェアエンジニアリングAIエージェントの変遷――「補完」から「自律」への4年間",
-    "link": "https://qiita.com/hummer/items/06d5797e0c4ddcddfff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T13:04:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGitHub Copilot(2021/6)が発表されてから約4年が経過しました。\nこの短い期間で、AIとソフトウェア開発の関係は劇的に変化してきました。筆者自身、日々の開発業務でAIツールを活用しながら、その進化の速さに驚かされ続けています。単なる「コード補完..."
   },
   {
     "title": "なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」",
@@ -231,13 +245,6 @@
     "contentSnippet": "本記事を書いたきっかけ\n先日、3年半ほど勤めたメガベンチャーから、ずっと憧れていたグローバルテック企業に転職しました。\nこの3年半の間、前職(メガベンチャー)では本当に多くのことを学ばせてもらったので、「この学びを忘れないよう」「今後もこの学びを有効活用できるよう」本記事..."
   },
   {
-    "title": "見た目と中身がズレるわけ 文字化けの正体とUTF-8・CRLF入門",
-    "link": "https://qiita.com/nucomiya/items/198418fa614e6a41098c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T00:36:20.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n開発中に「見た目は同じなのに差分が崩れる」「Windowsで作ったテキストをLinuxで開くと一行になる」「絵文字だけ位置が合わない」といった小さな不具合に出会うことがあります。原因を押さえておくと、レビューやデータ受け渡しで無駄な往復を減らせます。\nまた、最後..."
-  },
-  {
     "title": "Apple、「Swift SDK for Android」プレビュー公開。Swift言語でAndroid対応アプリを開発",
     "link": "https://www.publickey1.jp/blog/25/appleswift_sdk_for_androidswiftandroid.html",
     "pubDate": "2025-10-26T15:49:40.000Z",
@@ -250,13 +257,6 @@
     "pubDate": "2025-10-26T15:46:41.000Z",
     "source": "Publickey",
     "contentSnippet": "Rubyを用いたWebアプリケーションフレームワーク「Ruby on Rails」の最新バージョン「Ruby on Rails 8.1」（以下、Rails 8.1）の正式版がリリースされました。 Rails 8.1 has been released! It includes job continuations, structured events, local CI, registry-free"
-  },
-  {
-    "title": "結婚式でLTをして一部界隈にだけ刺さった話（メッセージ生成LINE bot）",
-    "link": "https://qiita.com/takacpu55/items/336c838827fd52720523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-26T08:11:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "初めに\nこんにちは、ぱそきいろ（@takacpu55)です。\n普段は、はてなブログで記事を書いていますが、割とゆるめな記事なのでQiitaにおいておこうと思います。\n興味のある方は以下からご覧になってください。\n\n結婚式でLTをした話\n私ごとですが、先日結婚式を挙げ..."
   },
   {
     "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",

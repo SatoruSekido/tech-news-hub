@@ -1,73 +1,73 @@
 [
   {
-    "title": "Surviving pnpm + React Native: How I Finally Stopped Metro from Screaming About `@babel/runtime`",
-    "link": "https://dev.to/heyradcode/surviving-pnpm-react-native-how-i-finally-stopped-metro-from-screaming-about-babelruntime-493i",
-    "pubDate": "Thu, 30 Oct 2025 12:53:21 +0000",
+    "title": "From Overwhelmed to Empowered: My Hacktoberfest 2025 Journey",
+    "link": "https://dev.to/codejourney/from-overwhelmed-to-empowered-my-hacktoberfest-2025-journey-f94",
+    "pubDate": "Thu, 30 Oct 2025 18:18:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Do-Not-Stop is a continuously evolving Web3 frontend playground — built with Vite, React, TypeScript, viem, and wagmi.\n\nIt’s designed to grow, adapt, and experiment with the latest in Ethereum, Solana"
+    "contentSnippet": "The Starting Line\n\n\nOctober 1st, 2025. Hacktoberfest had just begun, and I was staring at GitHub feeling completely lost. Everyone seemed to know exactly which projects to contribute to and how to cra"
   },
   {
-    "title": "Supercharge Your React App: Introducing Shadix UI - The Missing Components for Shadcn/UI",
-    "link": "https://dev.to/gihanrangana/supercharge-your-react-app-introducing-shadix-ui-the-missing-components-for-shadcnui-2i1j",
-    "pubDate": "Thu, 30 Oct 2025 12:49:14 +0000",
+    "title": "Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?",
+    "link": "https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8",
+    "pubDate": "Thu, 30 Oct 2025 18:09:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you're building with React or Next.js, you've probably heard of the incredible shadcn/ui. It revolutionized how we build component libraries by moving away from traditional packages and towards a c"
+    "contentSnippet": "When shipping goods from Virginia to New Jersey, businesses and individuals face an important decision: should they choose a local Virginia transporter or rely on a national carrier? Both options have"
   },
   {
-    "title": "Stop Rebasing Everything: Your Git History Isn’t That Special",
-    "link": "https://dev.to/dolig/stop-rebasing-everything-your-git-history-isnt-that-special-ln3",
-    "pubDate": "Thu, 30 Oct 2025 12:43:38 +0000",
+    "title": "Protect Your Software IP with Smart, Automated Licensing Solutions",
+    "link": "https://dev.to/soraco_technologies_85385/protect-your-software-ip-with-smart-automated-licensing-solutions-3nfb",
+    "pubDate": "Thu, 30 Oct 2025 18:00:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "At my company, the default Git strategy for every branch, even feature branches, is to rebase. It’s part of the official workflow, and people treat it almost like a sacred ritual.\nLet’s be honest: reb"
+    "contentSnippet": "Protect Your Software IP with Smart, Automated Licensing Solutions\nMost software publishers lose revenue each year because their intellectual property isn’t properly protected. Your software deserves "
   },
   {
-    "title": "How Does a Zapier Solution Help Small Teams Grow?",
-    "link": "https://dev.to/asharmalik/how-does-a-zapier-solution-help-small-teams-grow-23i",
-    "pubDate": "Thu, 30 Oct 2025 12:39:44 +0000",
+    "title": "🔐 Advanced IAM for the AWS Solutions Architect – Associate (SAA-C03) Exam",
+    "link": "https://dev.to/nishath_jp/advanced-iam-for-the-aws-solutions-architect-associate-saa-c03-exam-4m8",
+    "pubDate": "Thu, 30 Oct 2025 18:00:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s fast-paced digital landscape, small teams face a common challenge — doing more with less. With limited manpower and endless daily tasks, efficiency becomes a key factor in growth. This is w"
+    "contentSnippet": "AWS Organizations\n\n\n• Global service\n\nAdvantages\n• Multi Account vs One Account Multi VPC\nSecurity: Service Control Policies (SCP)\nSCP Hierarchy\n\nSCP strategies\nAllowlist : Allows all actions and deny"
   },
   {
-    "title": "Intresting platform for Edge AI development. Has anyone tried it out?",
-    "link": "https://dev.to/texashall_dev/intresting-platform-for-edge-ai-development-has-anyone-tried-it-out-3bkg",
-    "pubDate": "Thu, 30 Oct 2025 12:37:16 +0000",
+    "title": "Added a /community endpoint as sort of an info hub for every subforem. It's kind of just a proof of concept at the moment but can be refined. Ideally it's customizable so we can link off to places like /challenges etc. but keeping it dynamic vs static.",
+    "link": "https://dev.to/ben/added-a-community-endpoint-as-sort-of-an-info-hub-for-every-subforem-its-kind-of-just-a-proof-of-3b90",
+    "pubDate": "Thu, 30 Oct 2025 17:59:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introducing devtool for running and benchmarking AI on-device\nElina Norling for Embedl Hub ・ Oct 23\n#ai\n        #android\n        #deeplearning\n        #computervision"
+    "contentSnippet": ""
   },
   {
-    "title": "Nutrition in the First Trimester: Foods to Eat and Avoid",
-    "link": "https://dev.to/ashika_chandran_857549718/nutrition-in-the-first-trimester-foods-to-eat-and-avoid-2mgd",
-    "pubDate": "Thu, 30 Oct 2025 12:34:57 +0000",
+    "title": "Automation of Multi-Cloud & Hybrid Challenge with Multi-Tool – Part 2: Hybrid AWS RDS Deployment",
+    "link": "https://dev.to/neamanahmed/automation-of-multi-cloud-hybrid-challenge-with-multi-tool-part-2-hybrid-aws-rds-deployment-1c9o",
+    "pubDate": "Thu, 30 Oct 2025 17:57:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nutrition in the First Trimester: Foods to Eat and Avoid\n                   The first trimester of pregnancy forms one of the most vital periods for both mother and baby. During this time, a well-bala"
+    "contentSnippet": "Part 2: Hybrid AWS RDS Deployments\nWhy Hybrid AWS RDS Matters\nData sovereignty and regulatory compliance requirements (especially in financial and government sectors).\nSecure connectivity between on-p"
   },
   {
-    "title": "Transforming Software Delivery with Managed DevOps Services",
-    "link": "https://dev.to/infimatrix_51246c32c13dcd/transforming-software-delivery-with-managed-devops-services-4ij9",
-    "pubDate": "Thu, 30 Oct 2025 12:34:07 +0000",
+    "title": "Hey dev.to! 👋",
+    "link": "https://dev.to/tanvirjawad/hey-devto-13g6",
+    "pubDate": "Thu, 30 Oct 2025 17:52:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s fast-paced digital world, speed, efficiency, and innovation define the success of every software-driven business. However, achieving seamless collaboration between development and operation"
+    "contentSnippet": "I’m Md. Tanvir Jawad, a 2025 CS graduate from BRAC University, Bangladesh. Over the past year, I’ve been deep in AI, deep learning, and GeoAI with a mission to use technology for disaster management a"
   },
   {
-    "title": "How Framer Website Builder Uses AI to Redefine Web Development in 2026",
-    "link": "https://dev.to/ankit_thakur_fee612d93bdf/how-framer-website-builder-uses-ai-to-redefine-web-development-in-2026-35id",
-    "pubDate": "Thu, 30 Oct 2025 12:33:24 +0000",
+    "title": "Anybody watching the Internet Invitational?",
+    "link": "https://dev.to/ben/anybody-watching-the-internet-invitational-aok",
+    "pubDate": "Thu, 30 Oct 2025 17:45:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Framer Website Builder combines design control, AI automation, and speed—making it a serious competitor in modern web creation. From AI-generated layouts to automatic SEO optimization, Framer Webs"
+    "contentSnippet": ""
   },
   {
-    "title": "How .NET Development Services Improve Scalability",
-    "link": "https://dev.to/emily_smith_5375b4a715f46/how-net-development-services-improve-scalability-20g3",
-    "pubDate": "Thu, 30 Oct 2025 12:33:03 +0000",
+    "title": "🚀 Build Custom AI Agents with Qodo Command",
+    "link": "https://dev.to/dev_kiran/build-custom-ai-agents-with-qodo-command-2j6d",
+    "pubDate": "Thu, 30 Oct 2025 17:37:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s digital-first world, businesses must build software that grows with them. Scalability is no longer optional; it’s essential*.NET Development Services* from Invensis Technologies offer the t"
+    "contentSnippet": "Hello Devs 👋\nI recently tried Qodo Command, a CLI that lets you build, run, and automate AI-powered agents right from your repository like a custom AI assistants that live in your codebase.✨\nUnlike g"
   },
   {
-    "title": "LightReasoner: Can Small Language Models Teach Large Language Models Reasoning?",
-    "link": "https://dev.to/paperium/lightreasoner-can-small-language-models-teach-large-language-models-reasoning-3k9j",
-    "pubDate": "Thu, 30 Oct 2025 12:30:47 +0000",
+    "title": "New blogpost about layer wise PSNR: \r\nhttps://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g",
+    "link": "https://dev.to/elina_norling_embedl/new-blogpost-about-layer-wise-psnr-3mco",
+    "pubDate": "Thu, 30 Oct 2025 17:34:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "LightReasoner: How Tiny AI Tutors Boost Big Brain Power\n\n\nEver wondered if a little helper could make a genius even smarter? Scientists discovered a clever trick: let a small language model point out "
+    "contentSnippet": "Diagnosing layer sensitivity during post training quantization\nElina Norling for Embedl Hub ・ Oct 30\n#deeplearning\n        #machinelearning\n        #ai\n        #embedded"
   },
   {
     "title": "Hono Conference 2025 ─ 主催としての軌跡",

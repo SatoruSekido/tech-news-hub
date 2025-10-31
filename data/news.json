@@ -1,73 +1,87 @@
 [
   {
-    "title": "HTTP STATUS CODE, you need to know for API Development",
-    "link": "https://dev.to/asad10/http-status-code-you-need-to-know-for-api-development-pme",
-    "pubDate": "Fri, 31 Oct 2025 01:54:21 +0000",
+    "title": "Kvart Timer: From Idea to App Store in 2 days",
+    "link": "https://dev.to/valeriavg/kvart-timer-from-idea-to-app-store-in-2-days-2c09",
+    "pubDate": "Fri, 31 Oct 2025 06:32:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "HTTP status codes are 3-digit numbers returned by a web server to indicate the result of a client's request/response.\nIn API development choosing the right codes enhances clarity, debugging, and align"
+    "contentSnippet": "A friend of mine, who works as an organizer, told me that some of her neurodivergent clients are very fond of physical timers for cleaning and count how long it would take in \"kvarts\". Notably what wa"
   },
   {
-    "title": "Improving Project Turnaround Time with Mini Asphalt Plants",
-    "link": "https://dev.to/macroad/improving-project-turnaround-time-with-mini-asphalt-plants-3oei",
-    "pubDate": "Fri, 31 Oct 2025 01:47:15 +0000",
+    "title": "🚀 Queue Warriors: Mastering the Competing Consumers Pattern in Laravel",
+    "link": "https://dev.to/igornosatov_15/queue-warriors-mastering-the-competing-consumers-pattern-in-laravel-1bhn",
+    "pubDate": "Fri, 31 Oct 2025 06:29:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the context of small-scale road maintenance service providers, matching a mini asphalt plant or a mini mobile asphalt mixing plant with lightweight paving equipment significantly improves overall p"
+    "contentSnippet": "🚀 Queue Warriors: Mastering the Competing Consumers Pattern in Laravel\n\n\nEver watched your Laravel app choke during a Black Friday sale or viral marketing campaign? You're not alone. Today, we're div"
   },
   {
-    "title": "If We Rewrote SpringBoot from Scratch, What Different Choices Would We Make?",
-    "link": "https://dev.to/canonical/if-we-rewrote-springboot-from-scratch-what-different-choices-would-we-make-m07",
-    "pubDate": "Fri, 31 Oct 2025 01:46:11 +0000",
+    "title": "How to convert OpenAPI spec to Requestly API collection",
+    "link": "https://dev.to/requestly/how-to-convert-openapi-spec-to-requestly-api-collection-1354",
+    "pubDate": "Fri, 31 Oct 2025 06:26:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SpringBoot is a major leap forward built on the Spring framework. It introduced the concept of dynamic auto-configuration, abandoned cumbersome XML configuration, and fully leveraged Java’s built-in a"
+    "contentSnippet": "If you already have an  OpenAPI Specification  (Swagger) for your API, you don’t need to recreate everything manually. With Requestly’s  OpenAPI Importer, you can instantly convert your  .yaml  or  .j"
   },
   {
-    "title": "Daily Artificial Intelligence Digest - Oct 31, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-31-2025-cae",
-    "pubDate": "Fri, 31 Oct 2025 01:44:48 +0000",
+    "title": "Building My Invoice App – Added File Attachments Today",
+    "link": "https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313",
+    "pubDate": "Fri, 31 Oct 2025 06:19:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI Model Breakthroughs and Algorithmic Innovations\n\n\nCore advances in Large Language Models (LLMs) continue to focus on improving efficiency, scalability, and instruction following, with research expl"
+    "contentSnippet": "I’m still working on my invoice tool for freelancers and small businesses, and today I added a new feature: file attachments for each client or invoice.\nLet users attach receipts, PDFs, images, contra"
   },
   {
-    "title": "Four GIS software programs are adapted to different needs and scenarios",
-    "link": "https://dev.to/kketria/four-gis-software-programs-are-adapted-to-different-needs-and-scenarios-2p9g",
-    "pubDate": "Fri, 31 Oct 2025 01:36:48 +0000",
+    "title": "Unlocking AI Monetization: How Developers Can Double Revenue with Monetzly",
+    "link": "https://dev.to/monetzly/unlocking-ai-monetization-how-developers-can-double-revenue-with-monetzly-hk8",
+    "pubDate": "Fri, 31 Oct 2025 06:18:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In fields such as urban planning, logistics scheduling, and environmental monitoring, GIS software has become a core tool for data processing and spatial analysis. The needs for GIS tools vary signifi"
+    "contentSnippet": "How We Built Ad Injection That Users Actually Appreciate: Meet Monetzly\n\n\nAs the AI app landscape continues to flourish, developers face a pressing challenge: monetizing their innovations without comp"
   },
   {
-    "title": "Create A Resource Group And A Storage Account In Azure",
-    "link": "https://dev.to/cmwokocha/create-a-resource-group-and-a-storage-account-in-azure-4a65",
-    "pubDate": "Fri, 31 Oct 2025 01:36:29 +0000",
+    "title": "Cult of Tiger",
+    "link": "https://dev.to/copyleftdev/cult-of-tiger-4fbn",
+    "pubDate": "Fri, 31 Oct 2025 06:16:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Skilling tasks:\nNo 1: Create and deploy a resource group to hold all your project resources.\n. In the Azure portal, search for and select Resource groups.\n\n. Select + Create.\n\n. Give your resource gro"
+    "contentSnippet": "More than a database. More than a tool. A framework for the soul of systems.\n“There are three things extremely hard: steel, a diamond, and to know one’s self.”\n\n— Benjamin Franklin, First Prophet of t"
   },
   {
-    "title": "Building Intelligent AI Agents with Modular Reinforcement Learning",
-    "link": "https://dev.to/exploredataaiml/building-intelligent-ai-agents-with-modular-reinforcement-learning-323c",
-    "pubDate": "Fri, 31 Oct 2025 01:25:14 +0000",
+    "title": "How to securely delete (zeroize) a Ruby String",
+    "link": "https://dev.to/prudkohliad/how-to-securely-delete-zeroize-a-ruby-string-2913",
+    "pubDate": "Fri, 31 Oct 2025 06:15:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building Intelligent AI Agents with Modular Reinforcement Learning\n\n\n\n  \n  \n  TL;DR\n\n\nI built a modular AI agent system that learns through reinforcement learning, featuring four key components: a Pla"
+    "contentSnippet": "My original blog post\nSensitive data such as passwords, API tokens or private keys often live as simple String objects in memory. In Ruby however, simply dropping a reference doesn’t guarantee the und"
   },
   {
-    "title": "Data-Driven Development: Leveraging Big Data for Smarter Coding",
-    "link": "https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n",
-    "pubDate": "Fri, 31 Oct 2025 01:15:00 +0000",
+    "title": "The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output",
+    "link": "https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1",
+    "pubDate": "Fri, 31 Oct 2025 06:09:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today's fast-paced tech world, developers face an ever-growing need to make faster, smarter decisions. But what if we could take the guesswork out of coding? What if data itself could guide develop"
+    "contentSnippet": "You are 45 minutes into debugging a complex microservices issue. Your mental model of the system is finally clear. Then Slack pings. Your flow state collapses instantly.\nThis scenario repeats daily fo"
   },
   {
-    "title": "New to node how can I make these basic area functions async using node",
-    "link": "https://dev.to/faith_in_errors_7fe9c90f68151/new-to-node-how-can-i-make-these-basic-area-functions-async-using-node-fb7",
-    "pubDate": "Fri, 31 Oct 2025 01:10:16 +0000",
+    "title": "Google Rolls Out Merchant Center for Agencies",
+    "link": "https://dev.to/me_bhavesh/google-rolls-out-merchant-center-for-agencies-80h",
+    "pubDate": "Fri, 31 Oct 2025 06:07:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "`let areaCircle = (radius) => {\nlet areaRect = (length, width) =>{\nexports.areaCircle = areaCircle\n`"
+    "contentSnippet": "Google has officially launched Merchant Center for Agencies, a specialized platform designed exclusively for agencies managing multiple Google Merchant Center accounts for eCommerce clients. This Octo"
   },
   {
-    "title": "From Beginner to Cyber-Aware: Lessons from My First Cybersecurity Course",
-    "link": "https://dev.to/cessamaeeee/from-beginner-to-cyber-aware-lessons-from-my-first-cybersecurity-course-469l",
-    "pubDate": "Fri, 31 Oct 2025 01:08:54 +0000",
+    "title": "My ML Learning Journey: From Confusion to Building a Working Model",
+    "link": "https://dev.to/cessamaeeee/my-ml-learning-journey-from-confusion-to-building-a-working-model-235p",
+    "pubDate": "Fri, 31 Oct 2025 06:07:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I Just Completed Cisco's Introduction to Cybersecurity Course – Here's What I Learned 🔐\n\n\nOver the past few weeks, I dove deep into the world of cybersecurity through Cisco's Introduction to Cybersec"
+    "contentSnippet": "I'm learning machine learning, and I want to share this journey with you. Not as an expert—I literally started Kaggle's \"Intro to Machine Learning\" course last week—but as someone who just figured out"
+  },
+  {
+    "title": "useEffectEvent関数は、useEffectの依存配列に含めてはいけない",
+    "link": "https://zenn.dev/maguro_alterna/articles/17a0938c5b02a3",
+    "pubDate": "Thu, 30 Oct 2025 23:35:26 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこちらを資料に追記したものになります。\nhttps://speakerdeck.com/maguroalternative/react19-dot-2nouseeffecteventwozhui-u\n間違った情報を記載してしまっていたので自省を込めて書いてます。\nこの記事も解釈間違っていたらご指摘いただけると幸いです。\nhttps://twitter.com/sigumataityoud"
+  },
+  {
+    "title": "MySQL (InnoDB) のロック範囲に気をつけよう",
+    "link": "https://zenn.dev/socialplus/articles/2e16da32f39a0c",
+    "pubDate": "Thu, 30 Oct 2025 09:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは otsubo です。MySQL (InnoDB) のロックについて整理する機会があったので記事にします。\n\n はじめに\n全ての ロックタイプ を網羅するのは大変なため、\n\nレコードロック\nギャップロック\nネクストキーロック\n\nを中心にまとめます。この3つはトランザクション内で UPDATE、DELETE、 SELECT ... FOR UPDATE / SHARE するときに獲得される"
   },
   {
     "title": "Hono Conference 2025 ─ 主催としての軌跡",
@@ -75,13 +89,6 @@
     "pubDate": "Thu, 30 Oct 2025 07:40:50 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、あさひです 🙋\nこの度 2025 年 10 月 18 日 (土) に Hono Conference 2025 を開催してきました。今回は yusukebe さんとの縁もあって、弊社 Gemcook も主催として携わることとなりました。\n本記事では僕が Hono Conference を主催した中で「どういう準備をしてきたか」「どういう企画を考えたか」などを軌跡として書き残そうと思い"
-  },
-  {
-    "title": "WebSocket入門：GoでEcho/Chat機能を実装してみた",
-    "link": "https://zenn.dev/takehiro1111/articles/go_web_socket",
-    "pubDate": "Thu, 30 Oct 2025 02:43:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "1.記事を書いた背景\nWebSocket の実装が初めてだったこともあり、頭の中を整理しておこうと思い記事にしました。\n全然関係ないですが、1 年くらい前にプロダクトへサーバレス構成でチャット機能を実装する時にインフラ側の基盤を作ったのが懐かしく感じました。\n\n 2.対象読者\n\nWebSocket って聞いたことあるけど何だっけという方(自分みたいな)\n実装レベルで気になる方(自分みたいな)\n\n\n"
   },
   {
     "title": "Canvaの有効活用とAIツールとの併用",
@@ -173,13 +180,6 @@
     "pubDate": "Wed, 29 Oct 2025 08:27:15 GMT",
     "source": "Zenn",
     "contentSnippet": "今回の目的\n\nPythonの BCC（BPF Compiler Collection） ライブラリを使って、カーネル空間で「Hello World」を表示する最小のeBPFプログラムを実行してみます。\n\neBPFがどうやってカーネルの内部を観察できるのかを体感することが今回の目標です。\n\n\n 筆者の実行環境\n\n実行環境：UTM上の Linux（Ubuntu）\n→ Mac上で仮想的にLinuxを動か"
-  },
-  {
-    "title": "Cloudflare Workers, D1, Hono, Next.jsを使ってちゃんと使えるアプリを作成する",
-    "link": "https://zenn.dev/fatricepaddyy/books/cf_sample_app",
-    "pubDate": "Wed, 29 Oct 2025 07:50:53 GMT",
-    "source": "Zenn",
-    "contentSnippet": "以下の技術を使い、モノレポでちゃんと使えるアプリケーションのテンプレートとなるものを作成します。\n- Cloudflare Workers\n- Cloudflare D1\n- Hono\n- OpenAPI Hono\n- Next.js\n- Better Auth\n- Drizzle\n- プレビュー環境とプロダクション環境をCloudflare Workersで分離してデプロイ\n- Github A"
   },
   {
     "title": "【アプリ開発】人事の一言で爆誕！Slackの通知にタスクが溺れてたので、ボタンで救出してみた！",

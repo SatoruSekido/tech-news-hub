@@ -1,73 +1,94 @@
 [
   {
-    "title": "Kvart Timer: From Idea to App Store in 2 days",
-    "link": "https://dev.to/valeriavg/kvart-timer-from-idea-to-app-store-in-2-days-2c09",
-    "pubDate": "Fri, 31 Oct 2025 06:32:19 +0000",
+    "title": "EIP-7702 Infra Goes Live, Bitget’s Gasless Fees, Base’s Global Finance Vision, Thirdweb’s 4337 Wallets on Hyperliquid",
+    "link": "https://dev.to/etherspot/eip-7702-infra-goes-live-bitgets-gasless-fees-bases-global-finance-vision-thirdwebs-4337-ef0",
+    "pubDate": "Fri, 31 Oct 2025 12:39:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A friend of mine, who works as an organizer, told me that some of her neurodivergent clients are very fond of physical timers for cleaning and count how long it would take in \"kvarts\". Notably what wa"
+    "contentSnippet": "We are welcoming you to our weekly digest! Here, we discuss the latest trends and advancements in account abstraction, chain abstraction and everything related, as well as bring some insights from Eth"
   },
   {
-    "title": "🚀 Queue Warriors: Mastering the Competing Consumers Pattern in Laravel",
-    "link": "https://dev.to/igornosatov_15/queue-warriors-mastering-the-competing-consumers-pattern-in-laravel-1bhn",
-    "pubDate": "Fri, 31 Oct 2025 06:29:36 +0000",
+    "title": "# 🚀 Introducing `vite-plugin-optimize-videos` — Optimize Your Videos at Build Time",
+    "link": "https://dev.to/jaymes/-introducing-vite-plugin-optimize-videos-optimize-your-videos-at-build-time-4jil",
+    "pubDate": "Fri, 31 Oct 2025 12:35:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Queue Warriors: Mastering the Competing Consumers Pattern in Laravel\n\n\nEver watched your Laravel app choke during a Black Friday sale or viral marketing campaign? You're not alone. Today, we're div"
+    "contentSnippet": "I originally built this library to solve a specific problem at a company I was working for.\n\nThe idea turned out so well that I decided to turn it into an open-source library!\nvite-plugin-optimize-vid"
   },
   {
-    "title": "How to convert OpenAPI spec to Requestly API collection",
-    "link": "https://dev.to/requestly/how-to-convert-openapi-spec-to-requestly-api-collection-1354",
-    "pubDate": "Fri, 31 Oct 2025 06:26:33 +0000",
+    "title": "💡Open Source, Open Mind: My Hacktoberfest 2025 Reflection as a First-Time Contributor",
+    "link": "https://dev.to/tanvirmulla11/open-source-open-mind-my-hacktoberfest-2025-reflection-as-a-first-time-contributor-5446",
+    "pubDate": "Fri, 31 Oct 2025 12:35:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you already have an  OpenAPI Specification  (Swagger) for your API, you don’t need to recreate everything manually. With Requestly’s  OpenAPI Importer, you can instantly convert your  .yaml  or  .j"
+    "contentSnippet": "This is a submission for the 2025 Hacktoberfest Writing Challenge: Open Source Reflections.\nThis October marked my very first Hacktoberfest, and it was more than just a coding event —\n\nit was a door i"
   },
   {
-    "title": "Building My Invoice App – Added File Attachments Today",
-    "link": "https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313",
-    "pubDate": "Fri, 31 Oct 2025 06:19:57 +0000",
+    "title": "OpenAI's Browser is here… and 7 more things that shipped this week",
+    "link": "https://dev.to/fabianfrankwerner/openais-browser-is-here-and-7-more-things-that-shipped-this-week-p2c",
+    "pubDate": "Fri, 31 Oct 2025 12:35:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’m still working on my invoice tool for freelancers and small businesses, and today I added a new feature: file attachments for each client or invoice.\nLet users attach receipts, PDFs, images, contra"
+    "contentSnippet": "It’s time for another round of tech news.\nOpenAI released Atlas.\nA full-fledged web browser that bakes ChatGPT right into the interface.\nIt’s designed to let you browse, search, and summarize pages in"
   },
   {
-    "title": "Unlocking AI Monetization: How Developers Can Double Revenue with Monetzly",
-    "link": "https://dev.to/monetzly/unlocking-ai-monetization-how-developers-can-double-revenue-with-monetzly-hk8",
-    "pubDate": "Fri, 31 Oct 2025 06:18:25 +0000",
+    "title": "🗂️ Wallet-as-a-Service: Why Building Your Own Wallet Is So 2025",
+    "link": "https://dev.to/tanelith/wallet-as-a-service-why-building-your-own-wallet-is-so-2025-3fp1",
+    "pubDate": "Fri, 31 Oct 2025 12:32:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How We Built Ad Injection That Users Actually Appreciate: Meet Monetzly\n\n\nAs the AI app landscape continues to flourish, developers face a pressing challenge: monetizing their innovations without comp"
+    "contentSnippet": "Let’s be honest - not every fintech or Web3 startup needs to reinvent the wheel (or the wallet). In 2025, Wallet-as-a-Service (WaaS) has become one of the smartest infrastructure choices for businesse"
   },
   {
-    "title": "Cult of Tiger",
-    "link": "https://dev.to/copyleftdev/cult-of-tiger-4fbn",
-    "pubDate": "Fri, 31 Oct 2025 06:16:44 +0000",
+    "title": "How to Evaluate a Developer’s Capability to Implement AI Automation in Business Workflows",
+    "link": "https://dev.to/smit_gohel/how-to-evaluate-a-developers-capability-to-implement-ai-automation-in-business-workflows-a86",
+    "pubDate": "Fri, 31 Oct 2025 12:29:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "More than a database. More than a tool. A framework for the soul of systems.\n“There are three things extremely hard: steel, a diamond, and to know one’s self.”\n\n— Benjamin Franklin, First Prophet of t"
+    "contentSnippet": "We are moving towards tech tech-driven year 2026, and now a developer’s capability to implement AI automation is not defined by coding skills alone. The true test lies in how well they connect AI tech"
   },
   {
-    "title": "How to securely delete (zeroize) a Ruby String",
-    "link": "https://dev.to/prudkohliad/how-to-securely-delete-zeroize-a-ruby-string-2913",
-    "pubDate": "Fri, 31 Oct 2025 06:15:06 +0000",
+    "title": "How to Recognize a Real vs Fake Cybersecurity Alert",
+    "link": "https://dev.to/deepaksharma/how-to-recognize-a-real-vs-fake-cybersecurity-alert-4eki",
+    "pubDate": "Fri, 31 Oct 2025 12:26:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "My original blog post\nSensitive data such as passwords, API tokens or private keys often live as simple String objects in memory. In Ruby however, simply dropping a reference doesn’t guarantee the und"
+    "contentSnippet": "The digital landscape has become a minefield of deceptive alerts and warnings designed to manipulate users into downloading malware, revealing sensitive information, or spending money on fake security"
   },
   {
-    "title": "The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output",
-    "link": "https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1",
-    "pubDate": "Fri, 31 Oct 2025 06:09:52 +0000",
+    "title": "Performance Issues in Web Services: A Practical Guide to Identification and Resolution",
+    "link": "https://dev.to/byteminds/performance-issues-in-web-services-a-practical-guide-to-identification-and-resolution-226g",
+    "pubDate": "Fri, 31 Oct 2025 12:25:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You are 45 minutes into debugging a complex microservices issue. Your mental model of the system is finally clear. Then Slack pings. Your flow state collapses instantly.\nThis scenario repeats daily fo"
+    "contentSnippet": "In the realm of web development, performance is frequently treated as an afterthought—a quality to be optimised after core functionality is delivered. This approach, however, is fundamentally flawed. "
   },
   {
-    "title": "Google Rolls Out Merchant Center for Agencies",
-    "link": "https://dev.to/me_bhavesh/google-rolls-out-merchant-center-for-agencies-80h",
-    "pubDate": "Fri, 31 Oct 2025 06:07:56 +0000",
+    "title": "🌱 My First Hacktoberfest: How Open Source Changed the Way I See Code",
+    "link": "https://dev.to/tanvirmulla11/my-first-hacktoberfest-how-open-source-changed-the-way-i-see-code-45p6",
+    "pubDate": "Fri, 31 Oct 2025 12:24:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Google has officially launched Merchant Center for Agencies, a specialized platform designed exclusively for agencies managing multiple Google Merchant Center accounts for eCommerce clients. This Octo"
+    "contentSnippet": "This is a submission for the 2025 Hacktoberfest Writing Challenge: Contribution Chronicles.\nThis October, I did something I’d been planning for years —\n\nI participated in Hacktoberfest 2025, my first "
   },
   {
-    "title": "My ML Learning Journey: From Confusion to Building a Working Model",
-    "link": "https://dev.to/cessamaeeee/my-ml-learning-journey-from-confusion-to-building-a-working-model-235p",
-    "pubDate": "Fri, 31 Oct 2025 06:07:00 +0000",
+    "title": "Worker Pools in Go: The Minimal Pattern I Use for High-Efficiency Concurrency",
+    "link": "https://dev.to/evgeny_pantela/worker-pools-in-go-the-minimal-pattern-i-use-for-high-efficiency-concurrency-ein",
+    "pubDate": "Fri, 31 Oct 2025 12:20:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I'm learning machine learning, and I want to share this journey with you. Not as an expert—I literally started Kaggle's \"Intro to Machine Learning\" course last week—but as someone who just figured out"
+    "contentSnippet": "Ever felt that surge of panic when you have 10,000 tasks to run?\n// The \"Oh No\" Pattern\n\n\n...And just like that, you've accidentally DDOSed your own database, hit every rate limit imaginable, or maxed"
+  },
+  {
+    "title": "【生成AI活用】ゼロから2日でできる！Java自動テスト（UT/IT/E2E）導入ガイド【692件実例付】",
+    "link": "https://qiita.com/ntaka329/items/9bfb2a2c136dbf49f2de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T03:22:36.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n5年ぶりぐらいにJava BackendなAPI Serverのメンテナンスに関わりました。\n幸か不幸か、自動テストが全く導入されていなかったプロジェクトだったため（Mavenなどもなかったですが😇）、Github Copilotと相..."
+  },
+  {
+    "title": "LLMによる文単位抽出を高速・安価に行う- fast-bunkaiの活用",
+    "link": "https://zenn.dev/gvatech_blog/articles/cbc9e663238b66",
+    "pubDate": "Fri, 31 Oct 2025 00:15:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "モチベーション\n長い文章を読むのは全く億劫だ。\n頼むから知りたいところだけピンポイントに読ませてくれ。ファスト教養万歳！\nそんな、働いていると本も読めなくなる[1]私たちの嘆きを解決してくれるのがLLMです。\n文書の中から自分が必要としている文章のみをLLMに抽出してもらえば良いのです。\nしかし、LLMに複数行の文章を出力させるには少々時間がかかりますし、その分API利用料金も発生します。\nやはり"
+  },
+  {
+    "title": "コードは書ける、でも\"AIを理解してない\"エンジニアが増えている現実😭",
+    "link": "https://zenn.dev/rakushaking/articles/bf54b07247c6ee",
+    "pubDate": "Fri, 31 Oct 2025 00:05:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "前置き\nAI系プロジェクトのプロジェクトリーダーを数年間担当して私が最近感じていることを書きます。\n今回はAIアプリエンジニアに限った話をします。\nもちろん特定のテック企業やIT系企業、SIerでは当てはまらないと思いますが、おそらく事業会社では多くのパターンで共通する課題ではないかと感じています。\nここで言う「AIアプリエンジニア」とは、生成AI（LLM）を活用した社内アプリやプロトタイプを開発"
   },
   {
     "title": "useEffectEvent関数は、useEffectの依存配列に含めてはいけない",
@@ -75,6 +96,27 @@
     "pubDate": "Thu, 30 Oct 2025 23:35:26 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこちらを資料に追記したものになります。\nhttps://speakerdeck.com/maguroalternative/react19-dot-2nouseeffecteventwozhui-u\n間違った情報を記載してしまっていたので自省を込めて書いてます。\nこの記事も解釈間違っていたらご指摘いただけると幸いです。\nhttps://twitter.com/sigumataityoud"
+  },
+  {
+    "title": "$20分使い切ったのにまだ使える…？Cursor Free Usageをサポート回答で解明",
+    "link": "https://zenn.dev/owayo/articles/1f3a5e73aeb03c",
+    "pubDate": "Thu, 30 Oct 2025 15:25:49 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nCursorの料金体系が変更され、ダッシュボードに新しく Free Usage という列が表示されるようになりました。この記事では、この謎めいた Free Usage が一体何なのか、どのような仕組みで提供されているのかを解説します。\n\n月額$20分のAPIリクエストを使い切った後に Free Usage の値が増えていくのを見て困惑し、公式ドキュメントを探しても情報が見つからなかったた"
+  },
+  {
+    "title": "【初心者向け】Availで学ぶモジュラーブロックチェーン！Nexus SDKで実現する未来のUXとは？",
+    "link": "https://zenn.dev/mashharuki/articles/avail-nexus_1",
+    "pubDate": "Thu, 30 Oct 2025 15:17:14 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに：  Web3の「めんどくさい」を終わらせる旅へようこそ！\n「このDAppを使いたいけど、Polygonチェーンか…MetaMaskのネットワークを切り替えて、ブリッジで資金を移動させて…あぁ、もうめんどくさい！」\nWeb3の世界に足を踏み入れた多くの人が、一度はこんな経験をしたことがあるのではないでしょうか？\nたくさんのブロックチェーンが乱立する現代は、まるで言語の違う国々を旅するような"
+  },
+  {
+    "title": "ベクトル検索の世界(沼)へようこそ！という題で、発表しました！",
+    "link": "https://zenn.dev/xaiondata/articles/cf99cae3a511f6",
+    "pubDate": "Thu, 30 Oct 2025 09:35:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n2025/10/27に、「AIやろうぜ！勉強会」という社内メンバー向けの勉強会に登壇させて頂きました。\nベクトル検索の世界(沼)へようこそ！という題で、基本的な検索の仕組みから、ベクトル検索の原理、活用例、そして実際に運用する際の“沼”ポイントまでを紹介しました。\n沢山の質問を頂いたので、今回はその発表の要約と補足、質問への回答と、個人的な振り返りを行おうと思います。\n\n\n 発表の個人的"
   },
   {
     "title": "MySQL (InnoDB) のロック範囲に気をつけよう",
@@ -91,11 +133,11 @@
     "contentSnippet": "こんにちは、あさひです 🙋\nこの度 2025 年 10 月 18 日 (土) に Hono Conference 2025 を開催してきました。今回は yusukebe さんとの縁もあって、弊社 Gemcook も主催として携わることとなりました。\n本記事では僕が Hono Conference を主催した中で「どういう準備をしてきたか」「どういう企画を考えたか」などを軌跡として書き残そうと思い"
   },
   {
-    "title": "Canvaの有効活用とAIツールとの併用",
-    "link": "https://qiita.com/Y-Y-dev/items/b90de49cff8a32ce5c70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T01:57:29.000Z",
-    "source": "Qiita",
-    "contentSnippet": "概要\n\nCanva は画像作成だけでなく、プレゼン資料（PPTX形式）や提案書の作成にも非常に有用。\nただし、Canva単体では 構成や要件整理などの文章構築力が弱い ため、\nChatGPT（GPT-5）やGemini を組み合わせて使うことで、より高品質な資料を短時間..."
+    "title": "TSで正規表現を型安全に扱う「ArkRegex」を試してみた",
+    "link": "https://zenn.dev/ojoxux/articles/2eddf34f64a1c2",
+    "pubDate": "Thu, 30 Oct 2025 05:10:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n最近 X で話題になっていた ArkRegex というライブラリを試してみたので紹介します。\nhttps://x.com/arktypeio/status/1983210635266498649\nhttps://arktype.io/docs/blog/arkregex\n\n ArkRegex とは\nArkRegex は、公式によるとnew RegExp()の型安全なドロップインリプレース"
   },
   {
     "title": "【AI迷子から卒業する方法】複数AIを並列利用して業務効率化してみよう",
@@ -112,13 +154,6 @@
     "contentSnippet": "SSGOIとは\nSSGOI（スゴイ）はウェブでネイティブアプリのようなページトランジションを実装することができるアニメーションライブラリです。\n2025年10月現在はReact・Svelte・Vueに対応しており、Next.jsなどのフレームワークにも互換性があります。\nブラウザ標準のView Transition APIに依存しない独自の実装となっており、すべてのモダンブラウザへの対応を謳ってい"
   },
   {
-    "title": "日刊IETF (2025-10-29)",
-    "link": "https://qiita.com/tetsuko_room/items/67dabbf630ab7ac8c445?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T00:28:26.000Z",
-    "source": "Qiita",
-    "contentSnippet": "おはようございます！\nGMOコネクトの名もなきエンジニアです。\nよろしくお願いします！\n日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！\n今回は、2025-10-29（UTC基準）に公開された..."
-  },
-  {
     "title": "エンジニアを褒めるだけ(通勤中に見てください)",
     "link": "https://qiita.com/mythree/items/1ea3aba59ecb61af3d12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-29T23:59:09.000Z",
@@ -133,11 +168,11 @@
     "contentSnippet": "Bedrock AgentCoreとAmplifyを組み合わせてAIアプリを作りたい場合、こんな構成が思いつくと思います。AI SDK、めっちゃ便利ですよね。\n\nただ、このアーキテクチャだと、Amplify Histingの制約により ストリーム出力ができません。\n\n我..."
   },
   {
-    "title": "【感謝】Vue Fes Japan 2025 登壇しました【初】",
-    "link": "https://zenn.dev/kosuke_naito/articles/making-vuefes2025-dx-ntr-pc",
-    "pubDate": "Wed, 29 Oct 2025 17:16:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nナイトウ(@naitokosuke)と申します。\n\nVue Fes Japan 2025 にて『最高の DX - Nuxt Typed Router と Pinia Colada で実現する次世代 Vue/Nuxt 開発』という題で発表させていただきました。\n\nhttps://naitokosuke.github.io/vue-fes-japan-2025-slide/\nいい加減な発表に"
+    "title": "LLM推論入門",
+    "link": "https://qiita.com/Yuji181181/items/a87bb3ce9e4ae6314e1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-29T18:11:49.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n最近LLMを使っていると疑問に思うことがありました。\n\n質問を投げると「思考中...」と表示されて、以前と比べて回答が返ってくるまでにかなり時間がかかるのはなぜ？\n\nAPI経由で使う時とWeb版で生成内容が違うのはなぜ？\n\n今回は「LLMがどのように回答を..."
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",
@@ -147,46 +182,11 @@
     "contentSnippet": "GitHubは、日本時間10月29日未明から開催中の年次イベント「GitHub Universe 2025」で、Visual Studio CodeにおけるGitHub Copilotの新機能として、AIが仕様作成を支援する「Planモード」を発表しました。 GitHub Copilotにはすでに、質問や相談にAIが対応してくれる「Askモード」、コードの編集をAIが行ってくれる「Editモード」"
   },
   {
-    "title": "自分が大学1年生の時に欲しかった資料",
-    "link": "https://zenn.dev/ayarnte/articles/9a5ae9347fe387",
-    "pubDate": "Wed, 29 Oct 2025 14:52:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこの記事は，IT系の仕事に転職したいがどのようなものがあるのかどうかも全くわからず自分のスキルをどのようにつければいいのかがわからないから教えてと言われた際に作成したものである．\n自分でこのスキルを身につけるためにはどのように形成していけばいいのかを考えたり，本などを読んで全体像を確かめていくのももちろん大切ではあるが，実際に何もわからない状況だとそれすらも考えられないのではないか？周り"
-  },
-  {
-    "title": "Claude Code を1ヶ月使ってみて",
-    "link": "https://zenn.dev/port_inc/articles/6e13db84b6a99b",
-    "pubDate": "Wed, 29 Oct 2025 11:12:41 GMT",
-    "source": "Zenn",
-    "contentSnippet": "🚀 使い始めたきっかけ\n社内運用予定の広告管理システムを開発することになり、TypeScript や React、Hono、TailwindCSS を使うことが決まっていました。\nところが、TypeScript を書いたことがなく、React も Hono も TailwindCSS も触れたことがありません。\nそこで、AI にコードを書いてもらう開発をしてみようと思い、Claude Code "
-  },
-  {
-    "title": "Mastraを使ってAIエージェントを作ろう！ - 応用編 -",
-    "link": "https://zenn.dev/tokium_dev/articles/mastra-ai-agent-handson-advanced",
-    "pubDate": "Wed, 29 Oct 2025 09:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は、2025/10/30に開催された、サポーターズCoLabオンライン勉強会で利用した資料になります。\n\nhttps://supporterz-seminar.connpass.com/event/371117/\n\n はじめに\n本ハンズオンでは、基礎編(1)、(2)、(3)のようなシンプルなAIエージェントから一段階ステップアップし、外部APIへのアクセス以外の様々な処理の実行を伴うA"
-  },
-  {
-    "title": "Pandasで「野根（None）」という地名が欠損値（NaN）になってしまった話",
-    "link": "https://zenn.dev/mierune/articles/014c283ecd2be6",
-    "pubDate": "Wed, 29 Oct 2025 08:38:17 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Pandasの read_csv における欠損値文字列の扱い\nPythonのデータ解析ライブラリPandasでは、CSVファイルを読み込む際（pd.read_csv()）、特定の文字列が自動的に NaN （欠損値）として扱われるという仕様があります。\nドキュメントによると、デフォルトで以下の値がNaNと解釈されます。\n\nBy default the following values are int"
-  },
-  {
-    "title": "入門 eBPF ①「Hello World」を通して、カーネルに耳をすませよう",
-    "link": "https://zenn.dev/nanocy/articles/befac3edb47118",
-    "pubDate": "Wed, 29 Oct 2025 08:27:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "今回の目的\n\nPythonの BCC（BPF Compiler Collection） ライブラリを使って、カーネル空間で「Hello World」を表示する最小のeBPFプログラムを実行してみます。\n\neBPFがどうやってカーネルの内部を観察できるのかを体感することが今回の目標です。\n\n\n 筆者の実行環境\n\n実行環境：UTM上の Linux（Ubuntu）\n→ Mac上で仮想的にLinuxを動か"
-  },
-  {
-    "title": "【アプリ開発】人事の一言で爆誕！Slackの通知にタスクが溺れてたので、ボタンで救出してみた！",
-    "link": "https://qiita.com/ishikawa_slj/items/cbff9aa44ffe320733ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T00:31:18.000Z",
+    "title": "【C#】Nullチェック後にNull参照が発生する",
+    "link": "https://qiita.com/KM_20005/items/b3c74fcce3cb7a3976a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-29T11:55:27.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n最近、「業務で困っていることありますか？」というアンケートを社内で行ったところ、\n人事の方からこんな意見がありました！\n「他の人に依頼をかけることが多いんだけど、Slackだとタスク内容や期限が埋もれちゃうんだよね…」..."
+    "contentSnippet": "WPF + MVVM パターンでアプリケーションを開発していると、Null チェックを行ったにも関わらず、その直後で Null 参照例外が発生する現象が発生しました。今回は、この問題の原因と解決策について説明します。\n\n問題の発生状況\n自作ファイラーの開発中に発生した事例で..."
   },
   {
     "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",
@@ -210,6 +210,13 @@
     "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして「Agent HQ」を発表しました。 同社は、AIを活用したソフトウェア開発の未来は単一のAIエージェントに依存するのではなく、複数の専門分野を持つAIエージェントがそれぞれ得意とする分野の複雑なタスクを並行して実行する形式になるとしました。 そうした複数のエージェントを統合"
   },
   {
+    "title": "PowerShellで「Windowsの声」をしゃべらせる ～ログ完了を音声で知らせる実用スクリプト～",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/0cfaeaba24bcc39235c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T14:21:09.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\nWindowsには標準で「音声読み上げエンジン（Speech API）」が搭載されています。実はこれ、PowerShellだけで簡単に呼び出すことができます。\n\n使い道の例\n\nログ処理やバックアップ完了を音声で通知\n英語・日本語の自動切り替え\n簡易読み上げリ..."
+  },
+  {
     "title": "【個人開発】香水オタクから初心者まで楽しめる香り記録・レビューアプリを作りました",
     "link": "https://qiita.com/mirei-m/items/e985aae8385bd5a6705b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-28T11:32:09.000Z",
@@ -229,13 +236,6 @@
     "pubDate": "2025-10-28T09:01:33.000Z",
     "source": "Qiita",
     "contentSnippet": "お久しぶりです。\n引っ越しが終わってやっと Qiita を思い出して気づいたら 2 ヵ月くらい放置してました。\nどうも復活した Xu です。\nたまにはちょっと変わった話をしたくて、今日は数学に近い話をしようと思います。\n早速ですが、\nlog_2(1+\\frac{M}{2^{..."
-  },
-  {
-    "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ",
-    "link": "https://qiita.com/nolanlover0527/items/071277263f8851012e6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T02:09:42.000Z",
-    "source": "Qiita",
-    "contentSnippet": "重くなる主な原因\nVSCodeが重くなる最も一般的な原因は、インストールされている拡張機能の数や質です。その他の原因として以下が挙げられます↓\n\n大規模なプロジェクトを開いていると、VSCodeが必要とするリソースが増加\nファイル監視プロセス（watcherServ..."
   },
   {
     "title": "さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始",

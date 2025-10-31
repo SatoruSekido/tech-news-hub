@@ -1,73 +1,73 @@
 [
   {
-    "title": "From Overwhelmed to Empowered: My Hacktoberfest 2025 Journey",
-    "link": "https://dev.to/codejourney/from-overwhelmed-to-empowered-my-hacktoberfest-2025-journey-f94",
-    "pubDate": "Thu, 30 Oct 2025 18:18:47 +0000",
+    "title": "HTTP STATUS CODE, you need to know for API Development",
+    "link": "https://dev.to/asad10/http-status-code-you-need-to-know-for-api-development-pme",
+    "pubDate": "Fri, 31 Oct 2025 01:54:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Starting Line\n\n\nOctober 1st, 2025. Hacktoberfest had just begun, and I was staring at GitHub feeling completely lost. Everyone seemed to know exactly which projects to contribute to and how to cra"
+    "contentSnippet": "HTTP status codes are 3-digit numbers returned by a web server to indicate the result of a client's request/response.\nIn API development choosing the right codes enhances clarity, debugging, and align"
   },
   {
-    "title": "Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?",
-    "link": "https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8",
-    "pubDate": "Thu, 30 Oct 2025 18:09:24 +0000",
+    "title": "Improving Project Turnaround Time with Mini Asphalt Plants",
+    "link": "https://dev.to/macroad/improving-project-turnaround-time-with-mini-asphalt-plants-3oei",
+    "pubDate": "Fri, 31 Oct 2025 01:47:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When shipping goods from Virginia to New Jersey, businesses and individuals face an important decision: should they choose a local Virginia transporter or rely on a national carrier? Both options have"
+    "contentSnippet": "In the context of small-scale road maintenance service providers, matching a mini asphalt plant or a mini mobile asphalt mixing plant with lightweight paving equipment significantly improves overall p"
   },
   {
-    "title": "Protect Your Software IP with Smart, Automated Licensing Solutions",
-    "link": "https://dev.to/soraco_technologies_85385/protect-your-software-ip-with-smart-automated-licensing-solutions-3nfb",
-    "pubDate": "Thu, 30 Oct 2025 18:00:58 +0000",
+    "title": "If We Rewrote SpringBoot from Scratch, What Different Choices Would We Make?",
+    "link": "https://dev.to/canonical/if-we-rewrote-springboot-from-scratch-what-different-choices-would-we-make-m07",
+    "pubDate": "Fri, 31 Oct 2025 01:46:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Protect Your Software IP with Smart, Automated Licensing Solutions\nMost software publishers lose revenue each year because their intellectual property isn’t properly protected. Your software deserves "
+    "contentSnippet": "SpringBoot is a major leap forward built on the Spring framework. It introduced the concept of dynamic auto-configuration, abandoned cumbersome XML configuration, and fully leveraged Java’s built-in a"
   },
   {
-    "title": "🔐 Advanced IAM for the AWS Solutions Architect – Associate (SAA-C03) Exam",
-    "link": "https://dev.to/nishath_jp/advanced-iam-for-the-aws-solutions-architect-associate-saa-c03-exam-4m8",
-    "pubDate": "Thu, 30 Oct 2025 18:00:35 +0000",
+    "title": "Daily Artificial Intelligence Digest - Oct 31, 2025",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-oct-31-2025-cae",
+    "pubDate": "Fri, 31 Oct 2025 01:44:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AWS Organizations\n\n\n• Global service\n\nAdvantages\n• Multi Account vs One Account Multi VPC\nSecurity: Service Control Policies (SCP)\nSCP Hierarchy\n\nSCP strategies\nAllowlist : Allows all actions and deny"
+    "contentSnippet": "AI Model Breakthroughs and Algorithmic Innovations\n\n\nCore advances in Large Language Models (LLMs) continue to focus on improving efficiency, scalability, and instruction following, with research expl"
   },
   {
-    "title": "Added a /community endpoint as sort of an info hub for every subforem. It's kind of just a proof of concept at the moment but can be refined. Ideally it's customizable so we can link off to places like /challenges etc. but keeping it dynamic vs static.",
-    "link": "https://dev.to/ben/added-a-community-endpoint-as-sort-of-an-info-hub-for-every-subforem-its-kind-of-just-a-proof-of-3b90",
-    "pubDate": "Thu, 30 Oct 2025 17:59:57 +0000",
+    "title": "Four GIS software programs are adapted to different needs and scenarios",
+    "link": "https://dev.to/kketria/four-gis-software-programs-are-adapted-to-different-needs-and-scenarios-2p9g",
+    "pubDate": "Fri, 31 Oct 2025 01:36:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "In fields such as urban planning, logistics scheduling, and environmental monitoring, GIS software has become a core tool for data processing and spatial analysis. The needs for GIS tools vary signifi"
   },
   {
-    "title": "Automation of Multi-Cloud & Hybrid Challenge with Multi-Tool – Part 2: Hybrid AWS RDS Deployment",
-    "link": "https://dev.to/neamanahmed/automation-of-multi-cloud-hybrid-challenge-with-multi-tool-part-2-hybrid-aws-rds-deployment-1c9o",
-    "pubDate": "Thu, 30 Oct 2025 17:57:12 +0000",
+    "title": "Create A Resource Group And A Storage Account In Azure",
+    "link": "https://dev.to/cmwokocha/create-a-resource-group-and-a-storage-account-in-azure-4a65",
+    "pubDate": "Fri, 31 Oct 2025 01:36:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Part 2: Hybrid AWS RDS Deployments\nWhy Hybrid AWS RDS Matters\nData sovereignty and regulatory compliance requirements (especially in financial and government sectors).\nSecure connectivity between on-p"
+    "contentSnippet": "Skilling tasks:\nNo 1: Create and deploy a resource group to hold all your project resources.\n. In the Azure portal, search for and select Resource groups.\n\n. Select + Create.\n\n. Give your resource gro"
   },
   {
-    "title": "Hey dev.to! 👋",
-    "link": "https://dev.to/tanvirjawad/hey-devto-13g6",
-    "pubDate": "Thu, 30 Oct 2025 17:52:50 +0000",
+    "title": "Building Intelligent AI Agents with Modular Reinforcement Learning",
+    "link": "https://dev.to/exploredataaiml/building-intelligent-ai-agents-with-modular-reinforcement-learning-323c",
+    "pubDate": "Fri, 31 Oct 2025 01:25:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’m Md. Tanvir Jawad, a 2025 CS graduate from BRAC University, Bangladesh. Over the past year, I’ve been deep in AI, deep learning, and GeoAI with a mission to use technology for disaster management a"
+    "contentSnippet": "Building Intelligent AI Agents with Modular Reinforcement Learning\n\n\n\n  \n  \n  TL;DR\n\n\nI built a modular AI agent system that learns through reinforcement learning, featuring four key components: a Pla"
   },
   {
-    "title": "Anybody watching the Internet Invitational?",
-    "link": "https://dev.to/ben/anybody-watching-the-internet-invitational-aok",
-    "pubDate": "Thu, 30 Oct 2025 17:45:36 +0000",
+    "title": "Data-Driven Development: Leveraging Big Data for Smarter Coding",
+    "link": "https://dev.to/softwaredeveloper01/data-driven-development-leveraging-big-data-for-smarter-coding-1a4n",
+    "pubDate": "Fri, 31 Oct 2025 01:15:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "In today's fast-paced tech world, developers face an ever-growing need to make faster, smarter decisions. But what if we could take the guesswork out of coding? What if data itself could guide develop"
   },
   {
-    "title": "🚀 Build Custom AI Agents with Qodo Command",
-    "link": "https://dev.to/dev_kiran/build-custom-ai-agents-with-qodo-command-2j6d",
-    "pubDate": "Thu, 30 Oct 2025 17:37:55 +0000",
+    "title": "New to node how can I make these basic area functions async using node",
+    "link": "https://dev.to/faith_in_errors_7fe9c90f68151/new-to-node-how-can-i-make-these-basic-area-functions-async-using-node-fb7",
+    "pubDate": "Fri, 31 Oct 2025 01:10:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello Devs 👋\nI recently tried Qodo Command, a CLI that lets you build, run, and automate AI-powered agents right from your repository like a custom AI assistants that live in your codebase.✨\nUnlike g"
+    "contentSnippet": "`let areaCircle = (radius) => {\nlet areaRect = (length, width) =>{\nexports.areaCircle = areaCircle\n`"
   },
   {
-    "title": "New blogpost about layer wise PSNR: \r\nhttps://dev.to/embedl-hub/diagnosing-layer-sensitivity-during-post-training-quantization-115g",
-    "link": "https://dev.to/elina_norling_embedl/new-blogpost-about-layer-wise-psnr-3mco",
-    "pubDate": "Thu, 30 Oct 2025 17:34:54 +0000",
+    "title": "From Beginner to Cyber-Aware: Lessons from My First Cybersecurity Course",
+    "link": "https://dev.to/cessamaeeee/from-beginner-to-cyber-aware-lessons-from-my-first-cybersecurity-course-469l",
+    "pubDate": "Fri, 31 Oct 2025 01:08:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Diagnosing layer sensitivity during post training quantization\nElina Norling for Embedl Hub ・ Oct 30\n#deeplearning\n        #machinelearning\n        #ai\n        #embedded"
+    "contentSnippet": "I Just Completed Cisco's Introduction to Cybersecurity Course – Here's What I Learned 🔐\n\n\nOver the past few weeks, I dove deep into the world of cybersecurity through Cisco's Introduction to Cybersec"
   },
   {
     "title": "Hono Conference 2025 ─ 主催としての軌跡",
@@ -75,6 +75,20 @@
     "pubDate": "Thu, 30 Oct 2025 07:40:50 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、あさひです 🙋\nこの度 2025 年 10 月 18 日 (土) に Hono Conference 2025 を開催してきました。今回は yusukebe さんとの縁もあって、弊社 Gemcook も主催として携わることとなりました。\n本記事では僕が Hono Conference を主催した中で「どういう準備をしてきたか」「どういう企画を考えたか」などを軌跡として書き残そうと思い"
+  },
+  {
+    "title": "WebSocket入門：GoでEcho/Chat機能を実装してみた",
+    "link": "https://zenn.dev/takehiro1111/articles/go_web_socket",
+    "pubDate": "Thu, 30 Oct 2025 02:43:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "1.記事を書いた背景\nWebSocket の実装が初めてだったこともあり、頭の中を整理しておこうと思い記事にしました。\n全然関係ないですが、1 年くらい前にプロダクトへサーバレス構成でチャット機能を実装する時にインフラ側の基盤を作ったのが懐かしく感じました。\n\n 2.対象読者\n\nWebSocket って聞いたことあるけど何だっけという方(自分みたいな)\n実装レベルで気になる方(自分みたいな)\n\n\n"
+  },
+  {
+    "title": "Canvaの有効活用とAIツールとの併用",
+    "link": "https://qiita.com/Y-Y-dev/items/b90de49cff8a32ce5c70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-30T01:57:29.000Z",
+    "source": "Qiita",
+    "contentSnippet": "概要\n\nCanva は画像作成だけでなく、プレゼン資料（PPTX形式）や提案書の作成にも非常に有用。\nただし、Canva単体では 構成や要件整理などの文章構築力が弱い ため、\nChatGPT（GPT-5）やGemini を組み合わせて使うことで、より高品質な資料を短時間..."
   },
   {
     "title": "【AI迷子から卒業する方法】複数AIを並列利用して業務効率化してみよう",
@@ -96,6 +110,13 @@
     "pubDate": "2025-10-30T00:28:26.000Z",
     "source": "Qiita",
     "contentSnippet": "おはようございます！\nGMOコネクトの名もなきエンジニアです。\nよろしくお願いします！\n日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！\n今回は、2025-10-29（UTC基準）に公開された..."
+  },
+  {
+    "title": "エンジニアを褒めるだけ(通勤中に見てください)",
+    "link": "https://qiita.com/mythree/items/1ea3aba59ecb61af3d12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-29T23:59:09.000Z",
+    "source": "Qiita",
+    "contentSnippet": "※エンジニアの皆さんは、読んでいる途中で処理落ちするかもしれませんが、正常な動作です。\nあまり深く考えず、ふわっと理解した！くらいで大丈夫です。\nこの記事はゴリゴリ感性で書いています。\n\n初めまして、ゆりと申します！\n現在、情報システム兼ちょっとエンジニアのお手伝いとして..."
   },
   {
     "title": "Bedrock AgentCoreとAmplifyでAI SDK + Next.jsなAIエージェントをスタイリッシュにホストする方法",
@@ -126,11 +147,11 @@
     "contentSnippet": "はじめに\nこの記事は，IT系の仕事に転職したいがどのようなものがあるのかどうかも全くわからず自分のスキルをどのようにつければいいのかがわからないから教えてと言われた際に作成したものである．\n自分でこのスキルを身につけるためにはどのように形成していけばいいのかを考えたり，本などを読んで全体像を確かめていくのももちろん大切ではあるが，実際に何もわからない状況だとそれすらも考えられないのではないか？周り"
   },
   {
-    "title": "GCP x TypeScript で作る非同期システム",
-    "link": "https://zenn.dev/stak22/articles/df9fea12cbb73e",
-    "pubDate": "Wed, 29 Oct 2025 12:46:41 GMT",
+    "title": "Claude Code を1ヶ月使ってみて",
+    "link": "https://zenn.dev/port_inc/articles/6e13db84b6a99b",
+    "pubDate": "Wed, 29 Oct 2025 11:12:41 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、takahashi（@stak_22）です。\nOtaac（オターク）という会社で新規プロダクトを制作しており、個人的に初めての技術に触れる機会が多いので、紹介していければと思います。\n今回は、GCP(+Firebase) x TypeScript で非同期の仕組みを作ったという話をさせていただきます。背景としては、PUSH通知を送信するため、Firestoreに作成した未来の"
+    "contentSnippet": "🚀 使い始めたきっかけ\n社内運用予定の広告管理システムを開発することになり、TypeScript や React、Hono、TailwindCSS を使うことが決まっていました。\nところが、TypeScript を書いたことがなく、React も Hono も TailwindCSS も触れたことがありません。\nそこで、AI にコードを書いてもらう開発をしてみようと思い、Claude Code "
   },
   {
     "title": "Mastraを使ってAIエージェントを作ろう！ - 応用編 -",
@@ -147,6 +168,13 @@
     "contentSnippet": "Pandasの read_csv における欠損値文字列の扱い\nPythonのデータ解析ライブラリPandasでは、CSVファイルを読み込む際（pd.read_csv()）、特定の文字列が自動的に NaN （欠損値）として扱われるという仕様があります。\nドキュメントによると、デフォルトで以下の値がNaNと解釈されます。\n\nBy default the following values are int"
   },
   {
+    "title": "入門 eBPF ①「Hello World」を通して、カーネルに耳をすませよう",
+    "link": "https://zenn.dev/nanocy/articles/befac3edb47118",
+    "pubDate": "Wed, 29 Oct 2025 08:27:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "今回の目的\n\nPythonの BCC（BPF Compiler Collection） ライブラリを使って、カーネル空間で「Hello World」を表示する最小のeBPFプログラムを実行してみます。\n\neBPFがどうやってカーネルの内部を観察できるのかを体感することが今回の目標です。\n\n\n 筆者の実行環境\n\n実行環境：UTM上の Linux（Ubuntu）\n→ Mac上で仮想的にLinuxを動か"
+  },
+  {
     "title": "Cloudflare Workers, D1, Hono, Next.jsを使ってちゃんと使えるアプリを作成する",
     "link": "https://zenn.dev/fatricepaddyy/books/cf_sample_app",
     "pubDate": "Wed, 29 Oct 2025 07:50:53 GMT",
@@ -154,39 +182,11 @@
     "contentSnippet": "以下の技術を使い、モノレポでちゃんと使えるアプリケーションのテンプレートとなるものを作成します。\n- Cloudflare Workers\n- Cloudflare D1\n- Hono\n- OpenAPI Hono\n- Next.js\n- Better Auth\n- Drizzle\n- プレビュー環境とプロダクション環境をCloudflare Workersで分離してデプロイ\n- Github A"
   },
   {
-    "title": "AI エージェント時代のリスク対策 : 認証・認可をあらためて学ぶ",
-    "link": "https://zenn.dev/aws_japan/articles/f1a0549c8e533a",
-    "pubDate": "Wed, 29 Oct 2025 02:49:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "皆さんセキュリティには詳しいでしょうか? \"AI エージェント元年\" などと言われていますが、その中で認証・認可の重要性はより高まっています。なぜなら、AI エージェントは単なるチャットボットを超え「目的を与えれば自律的にタスクを完遂する」存在へと移行しているためです。AI エージェントがあなたの身近な存在となった時、あなたの代わりに社内のプロジェクト管理ツールを操作したり機微な顧客情報を参照した"
-  },
-  {
-    "title": "【Anthropic Tokyo Builder Summit レポート】効率的なエージェント構築のベストプラクティス",
-    "link": "https://zenn.dev/kmotohas/articles/a36c1e11b3f029",
-    "pubDate": "Wed, 29 Oct 2025 02:36:36 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年10月28日、八芳園で開催された Anthropic Tokyo Builder Summit にて、Anthropic の Stephanie Pang 氏（Claude Skills エンジニア）と Hannah Li 氏（ファインチューニングエンジニア）による「効率的なエージェントの構築」セッションが行われました。本記事では、エージェント構築における最新のベストプラクティスについて"
-  },
-  {
     "title": "【アプリ開発】人事の一言で爆誕！Slackの通知にタスクが溺れてたので、ボタンで救出してみた！",
     "link": "https://qiita.com/ishikawa_slj/items/cbff9aa44ffe320733ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-29T00:31:18.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n最近、「業務で困っていることありますか？」というアンケートを社内で行ったところ、\n人事の方からこんな意見がありました！\n「他の人に依頼をかけることが多いんだけど、Slackだとタスク内容や期限が埋もれちゃうんだよね…」..."
-  },
-  {
-    "title": "予測AIモデルのアルゴリズム選択",
-    "link": "https://qiita.com/obx_y_ueno/items/c94330865c4d4316877c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T23:49:30.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nはじめまして、Orbitics株式会社データサイエンス部の上野です。\n機械学習モデルを構築する上で、目的に合った適切なアルゴリズムを選択することは、その成否を大きく左右します。本記事では、予測AIモデルでよく用いられる主要なアルゴリズムについて、その概要と特徴、..."
-  },
-  {
-    "title": "アジェンダのないミーティングを減らす（可能性をちょっとだけ上げるかもしれない） Chrome 拡張を作りました",
-    "link": "https://qiita.com/shirakurak/items/3117bb0fb77c1a96b588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T21:19:42.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こちら\n\n背景\n私が所属するエンジニア組織には、皆が集中できる（特に非同期の）時間を確保するため、いくつかのコミュニケーションルールが定められています。\n\n（信頼できる唯一の情報源のため）1つの文書を育てる\n（各々のフロー時間の確保のため）会議をできるだけ寄せる\n\nといっ..."
   },
   {
     "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",

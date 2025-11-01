@@ -1,73 +1,94 @@
 [
   {
-    "title": "October Recap - my first Hacktoberfest",
-    "link": "https://dev.to/oleksandrakordonets/october-recap-my-first-hacktoberfest-5ci8",
-    "pubDate": "Sat, 01 Nov 2025 01:50:38 +0000",
+    "title": "Mastering Ownership, Moves, Borrowing, and Lifetimes in Rust",
+    "link": "https://dev.to/amritsingh183/mastering-ownership-moves-borrowing-and-lifetimes-in-rust-5077",
+    "pubDate": "Sat, 01 Nov 2025 06:31:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "October was a busy month. I set out to make useful contributions across a few repos and ended the month with four pulled PRs. Below is a short, friendly summary of what I did each week, how I work, wh"
+    "contentSnippet": "Mastering Rust Ownership: Advanced Patterns, Performance, and Real-World Applications\n\n\nA comprehensive deep-dive into Rust's ownership model for developers ready to move beyond the fundamentals.\nPrer"
   },
   {
-    "title": "The Shocking Truth Behind America's Air Traffic Control Meltdown (And Why Your Business Could Be Next)",
-    "link": "https://dev.to/paul_allen_ccfde9d33a48d5/the-shocking-truth-behind-americas-air-traffic-control-meltdown-and-why-your-business-could-be-3ik2",
-    "pubDate": "Sat, 01 Nov 2025 01:25:32 +0000",
+    "title": "Neural Networks in Coding: A Deep Dive into the AI Coding Paradigm",
+    "link": "https://dev.to/softwaredeveloper01/neural-networks-in-coding-a-deep-dive-into-the-ai-coding-paradigm-4ie1",
+    "pubDate": "Sat, 01 Nov 2025 06:28:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What if a single overlooked leverage point could ground an entire nation’s air travel? The U.S. air traffic control crisis isn’t just about delayed flights—it’s a wake-up call for anyone who manages c"
+    "contentSnippet": "In the ever-evolving world of technology, one of the most revolutionary advancements has been the integration of artificial intelligence (AI) into software development. Among the many AI techniques th"
   },
   {
-    "title": "Recomendo este Artigo",
-    "link": "https://dev.to/anamaria/-352l",
-    "pubDate": "Sat, 01 Nov 2025 01:21:10 +0000",
+    "title": "How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading",
+    "link": "https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5",
+    "pubDate": "Sat, 01 Nov 2025 06:20:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Como ajudar as pessoas a contribuirem com seu projeto Open Source\nMorganna ・ Oct 29\n#devchallenge\n        #hacktoberfest\n        #opensource\n        #braziliandevs"
+    "contentSnippet": "As our product grew, the dashboard started feeling slower than expected, which impacted how quickly users could access key information and complete tasks. Longer load times risked frustrating users an"
   },
   {
-    "title": "ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding",
-    "link": "https://dev.to/paperium/relook-vision-grounded-rl-with-a-multimodal-llm-critic-for-agentic-web-coding-4d0o",
-    "pubDate": "Sat, 01 Nov 2025 01:20:50 +0000",
+    "title": "AI Agents in 2025: A Practical Guide for Developers",
+    "link": "https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep",
+    "pubDate": "Sat, 01 Nov 2025 06:10:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How AI Learns to Build Web Pages by Seeing Them\n\n\nEver wondered how a computer could see a web page and fix its own code? ReLook makes that possible.\nScientists found this loop of generate‑diagnose‑re"
+    "contentSnippet": "TL;DR\n\n\nAI agents in 2025 are production systems, not UI demos.\n\nA reliable agent stack has 7 layers:  \nGenerative Model\n\nKnowledge Base + RAG\n\nOrchestration / State Management\n\nPrompt Engineering\n\nTo"
   },
   {
-    "title": "The Billion-User Tech Power Play Hiding Behind AOL: Why Bending Spoons' Silent Leverage Is Rewriting the Rules",
-    "link": "https://dev.to/paul_allen_ccfde9d33a48d5/the-billion-user-tech-power-play-hiding-behind-aol-why-bending-spoons-silent-leverage-is-3pco",
-    "pubDate": "Sat, 01 Nov 2025 01:19:04 +0000",
+    "title": "Tetrix vs Claude",
+    "link": "https://dev.to/akkii2022/tetrix-vs-claude-4923",
+    "pubDate": "Sat, 01 Nov 2025 06:07:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What if the next tech giant isn't a headline-grabber—but a stealth player quietly controlling over a billion users? While most of the world forgot about AOL, an unknown Italian company named Bending S"
+    "contentSnippet": "Learn how Tetrix connects code, infrastructure, and operations to your AI, enabling it to reason across your full software system.\nhttps://deskree.com/how-it-works"
   },
   {
-    "title": "The Async Iterator Part 2: Streaming Data and Real-World Patterns",
-    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-async-iterator-part-2-streaming-data-and-real-world-patterns-kdj",
-    "pubDate": "Sat, 01 Nov 2025 01:16:16 +0000",
+    "title": "No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366",
+    "link": "https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99",
+    "pubDate": "Sat, 01 Nov 2025 06:07:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The next morning, Timothy arrived at the library early, eager to apply what he'd learned about async iteration. He'd spent the evening refactoring his log analyzer, and now he wanted to tackle somethi"
+    "contentSnippet": "Summary\n\n\nNeil and TC head to Upstate New York for their travel series and end up in a deep-dive conversation with Alex Holderness and John Bourne, the founders of casual-golf apparel brand Holderness"
   },
   {
-    "title": "Unlocking AI Speed: The Hidden Symmetries in Reinforcement Learning",
-    "link": "https://dev.to/arvind_sundararajan/unlocking-ai-speed-the-hidden-symmetries-in-reinforcement-learning-18o2",
-    "pubDate": "Sat, 01 Nov 2025 01:02:06 +0000",
+    "title": "Top 5 Free Online Tools to Download YouTube Videos",
+    "link": "https://dev.to/y2meta/top-5-free-online-tools-to-download-youtube-videos-156l",
+    "pubDate": "Sat, 01 Nov 2025 06:06:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Unlocking AI Speed: The Hidden Symmetries in Reinforcement Learning\n\n\nImagine training an AI to play a complex strategy game. Days turn into weeks, weeks into months, and still, the AI struggles to le"
+    "contentSnippet": "Looking for a simple way to download YouTube videos? Y2Meta makes it easy. These free online tools let you download your favorite videos and music in MP4, MP3, and 4K quality, all accessible on any de"
   },
   {
-    "title": "Daily Artificial Intelligence Digest - Nov 01, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-01-2025-1a08",
-    "pubDate": "Sat, 01 Nov 2025 01:01:24 +0000",
+    "title": "How I Ended Up Choosing Cloudflare Workers for My Projects",
+    "link": "https://dev.to/ukasyah-dev/how-i-ended-up-choosing-cloudflare-workers-for-my-projects-45a",
+    "pubDate": "Sat, 01 Nov 2025 06:06:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI Market Dynamics & Corporate Strategy\n\n\nThe AI sector demonstrates a buoyant yet volatile investment climate, with a perceived \"bubbly\" market characterized by significant seed rounds and data cente"
+    "contentSnippet": "Hi everyone! Hope you’re all doing great.\nIt’s been quite a while since my last post (on other platforms too 😅), and I’m excited to finally share something new with you all.\nLately, I’ve been diving "
   },
   {
-    "title": "\"Unlocking the Musical Secrets of Ancient Civilizations: The",
-    "link": "https://dev.to/drcarlosruizviquez/unlocking-the-musical-secrets-of-ancient-civilizations-the-58n2",
-    "pubDate": "Sat, 01 Nov 2025 01:00:37 +0000",
+    "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
+    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mic",
+    "pubDate": "Sat, 01 Nov 2025 06:05:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"Unlocking the Musical Secrets of Ancient Civilizations: The Power of Generative AI\nImagine being transported to the ancient city of Ur, surrounded by the mysterious sounds of a long-lost culture. Gen"
+    "contentSnippet": "The CORE Productivity System\n\n\nJeff Su’s CORE workflow—Capture, Organize, Review, Engage—breaks down every bit of workplace info into four simple steps. Snap up anything that lands in your inbox, stas"
   },
   {
-    "title": "第 18 课：Web UI 与 API 使用",
-    "link": "https://dev.to/henry_lin_3ac6363747f45b4/di-18-ke-web-ui-yu-api-shi-yong-35do",
-    "pubDate": "Sat, 01 Nov 2025 00:59:45 +0000",
+    "title": "Buying a Global SSL Certificate—My Real-World Experience in Securing Web Apps and APIs",
+    "link": "https://dev.to/hasanmonsur/buying-a-global-ssl-certificate-my-real-world-experience-in-securing-web-apps-and-apis-chh",
+    "pubDate": "Sat, 01 Nov 2025 06:02:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "第 18 课：Web UI 与 API 使用\n\n\n⏱ 课时：1.5 小时\n🎯 学习目标：掌握图形界面和 API 操作\n📚 难度：⭐⭐ 实时信号\n通过 Web UI 和 API，你可以用图形界面管理交易机器人，不再依赖命令行。本课将教你如何启用 API Server，使用 FreqUI 进行可视化管理，以及通过 REST API 进行远程控制。\n定义：Freqtrade 内置的 REST API"
+    "contentSnippet": "Buying a global SSL certificate wasn’t just another DevOps task — it was a real learning curve. From comparing CAs to configuring certificates across multiple servers and APIs, I discovered how small "
+  },
+  {
+    "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",
+    "link": "https://zenn.dev/sunagaku/articles/c5affee1871afb",
+    "pubDate": "Fri, 31 Oct 2025 23:29:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n2025年10月30日〜31日に開催された 「AI駆動開発 Conference Autumn 2025」 に参加してきました。\nhttps://aid.connpass.com/event/367698/\n2日間にわたるイベントを通して、AIを活用した開発の最前線・現場での実践知について、沢山の学びと気づきを得られました。\n本記事では、その中でも特に印象に残った内容を、備忘録としてまと"
+  },
+  {
+    "title": "WebLLM（Wasm上で動くLLM）は何が凄い？3種のLLM実行環境を徹底比較〜ローカルブラウザ型、ローカルネイティブ型、クラウド型〜",
+    "link": "https://zenn.dev/srefin/articles/17ba278f402b5d",
+    "pubDate": "Fri, 31 Oct 2025 08:53:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "近年、プライバシー確保の重要性が高まり、ローカル環境で動作するLLMへの需要が増加しています。その選択肢の一つとしてWebLLMが台頭してきました。\nでも、プライバシー確保が目的ならOllamaでいいんじゃないの？\nこの記事では、そんな疑問を深掘りしていきます！\n\n WebLLMとは\nWebLLMは、Webブラウザ上で直接LLMを実行できるJavaScriptライブラリです。利用可能なLLMモデル"
+  },
+  {
+    "title": "\"ホテルエンジニア\"として半年間やったことをまとめてみた",
+    "link": "https://zenn.dev/7garden/articles/da654bf0684c89",
+    "pubDate": "Fri, 31 Oct 2025 08:50:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nはじめまして。株式会社7gardenでテックリードを担当しているKeitaです。\nこれまでテックカルチャー寄りの企業でソフトウェアエンジニアとしてキャリアを重ねてきた自分が、ホテル企画・運営を専門とする会社で働き始めてから半年ほど経ちました。\n自称\"ホテルエンジニア\"の活動記録をご覧ください。\n\n 入社の経緯\nまずは入社の経緯がてらの自己紹介として、元々自分はオンライン完結のプロダクトと"
   },
   {
     "title": "Claude Code on AWS パターン解説 - Amazon Bedrock / AWS Marketplace",
@@ -75,6 +96,13 @@
     "pubDate": "Fri, 31 Oct 2025 08:13:46 GMT",
     "source": "Zenn",
     "contentSnippet": "👉本ブログは AWS AI Agent ブログ祭り (Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り) の第 5 日目です。\n!\n📚 第 4 日目の記事はこちら！\nAmazon Bedrock AgentCore Memory の Branch 機能の使いどころ\n\n\n 1. はじめに\nAI 駆動開発ツールの導入を検討している方、または現在 Cl"
+  },
+  {
+    "title": "わたし Cursor に乗り換えます",
+    "link": "https://zenn.dev/mohupor03/articles/58a37e9b56066a",
+    "pubDate": "Fri, 31 Oct 2025 07:59:30 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは。@tetsuro_b です。\nついについに・・・！\n私はメインの AI を Claude Code → Cursor に戻すことを決断しました！！\n長い付き合いだった「VSCode x Claude Code」とは、しばらくお別れです...。\nその理由を紹介していきます。\n\n 新機能 Multiple Model の体験が良すぎる\n2025年10月29日 Cursor 2.0 が発表さ"
   },
   {
     "title": "誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話",
@@ -89,6 +117,13 @@
     "pubDate": "2025-10-31T06:13:57.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n今の時代AI使えばなんでも作れるやろ！と思い失敗した失敗談です。\nもっとAIをうまく使えれば精度上げられたのかなとも思うので、こうした方がいいんじゃない？などあればコメント頂けますと幸いです。\n\n背景：Slackの会話が見つからない問題\nSlackを使っていると..."
+  },
+  {
+    "title": "Claude Code on the webを触ってみた",
+    "link": "https://zenn.dev/beagle/articles/bc6ef88dd68615",
+    "pubDate": "Fri, 31 Oct 2025 04:20:19 GMT",
+    "source": "Zenn",
+    "contentSnippet": "びーぐるです🐶\n2025年10月21日、Anthropic社が提供するAIモデルClaudeを利用したAIコーディングエージェントClaude Code on the webがリサーチプレビューとして公開されました。\nhttps://www.anthropic.com/news/claude-code-on-the-web\nこのサービスはクラウド型AIコーディングエージェントと呼ばれるもので、ブ"
   },
   {
     "title": "【生成AI活用】ゼロから2日でできる！Java自動テスト（UT/IT/E2E）導入ガイド【692件実例付】",
@@ -119,13 +154,6 @@
     "contentSnippet": "はじめに\nRaycast は、macOS ユーザーの生産性を高める強力なランチャーアプリです。最大の魅力は、豊富な拡張機能のエコシステムにあります。本記事では、Raycast の拡張機能開発に初めて挑戦する方に向けて、基本から最新の AI 機能まで、公式ドキュメントをもと..."
   },
   {
-    "title": "LLMによる文単位抽出を高速・安価に行う- fast-bunkaiの活用",
-    "link": "https://zenn.dev/gvatech_blog/articles/cbc9e663238b66",
-    "pubDate": "Fri, 31 Oct 2025 00:15:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "モチベーション\n長い文章を読むのは全く億劫だ。\n頼むから知りたいところだけピンポイントに読ませてくれ。ファスト教養万歳！\nそんな、働いていると本も読めなくなる[1]私たちの嘆きを解決してくれるのがLLMです。\n文書の中から自分が必要としている文章のみをLLMに抽出してもらえば良いのです。\nしかし、LLMに複数行の文章を出力させるには少々時間がかかりますし、その分API利用料金も発生します。\nやはり"
-  },
-  {
     "title": "コードは書ける、でも\"AIを理解してない\"エンジニアが増えている現実😭",
     "link": "https://zenn.dev/rakushaking/articles/bf54b07247c6ee",
     "pubDate": "Fri, 31 Oct 2025 00:05:11 GMT",
@@ -140,39 +168,11 @@
     "contentSnippet": "はじめに\nこちらを資料に追記したものになります。\nhttps://speakerdeck.com/maguroalternative/react19-dot-2nouseeffecteventwozhui-u\n間違った情報を記載してしまっていたので自省を込めて書いてます。\nこの記事も解釈間違っていたらご指摘いただけると幸いです。\nhttps://twitter.com/sigumataityoud"
   },
   {
-    "title": "Neo4jで始めるGraphRAG入門",
-    "link": "https://zenn.dev/timelab/articles/23c0705465e0b4",
-    "pubDate": "Thu, 30 Oct 2025 23:07:36 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは。TimelabでカレンダーサービスLynxを開発している諸岡（@hakoten）です。\n本記事では、Neo4jを使って、GraphRAGを実装する方法を紹介します。\nNeo4jの基本的な使い方については、別記事で解説していますので、あわせてご覧ください。\nhttps://zenn.dev/timelab/articles/1850842bf4fa18\n\n データの準備\nまずは"
-  },
-  {
     "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
     "link": "https://qiita.com/keitah/items/d41b0888cf7b8b01616d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-30T14:36:31.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nTerraformとAWS SAM（Serverless Application Model）を組み合わせることで、インフラストラクチャとアプリケーションの責務を明確に分離し、チーム別の適切な権限管理とセキュアなIaC運用を実現できます。\n\nこの構成の核心的なメ..."
-  },
-  {
-    "title": "ベクトル検索の世界(沼)へようこそ！という題で、発表しました！",
-    "link": "https://zenn.dev/xaiondata/articles/cf99cae3a511f6",
-    "pubDate": "Thu, 30 Oct 2025 09:35:46 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025/10/27に、「AIやろうぜ！勉強会」という社内メンバー向けの勉強会に登壇させて頂きました。\nベクトル検索の世界(沼)へようこそ！という題で、基本的な検索の仕組みから、ベクトル検索の原理、活用例、そして実際に運用する際の“沼”ポイントまでを紹介しました。\n沢山の質問を頂いたので、今回はその発表の要約と補足、質問への回答と、個人的な振り返りを行おうと思います。\n\n\n 発表の個人的"
-  },
-  {
-    "title": "MySQL (InnoDB) のロック範囲に気をつけよう",
-    "link": "https://zenn.dev/socialplus/articles/2e16da32f39a0c",
-    "pubDate": "Thu, 30 Oct 2025 09:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは otsubo です。MySQL (InnoDB) のロックについて整理する機会があったので記事にします。\n\n はじめに\n全ての ロックタイプ を網羅するのは大変なため、\n\nレコードロック\nギャップロック\nネクストキーロック\n\nを中心にまとめます。この3つはトランザクション内で UPDATE、DELETE、 SELECT ... FOR UPDATE / SHARE するときに獲得される"
-  },
-  {
-    "title": "Hono Conference 2025 ─ 主催としての軌跡",
-    "link": "https://zenn.dev/gemcook/articles/hono-conference-2025-organizer-report",
-    "pubDate": "Thu, 30 Oct 2025 07:40:50 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、あさひです 🙋\nこの度 2025 年 10 月 18 日 (土) に Hono Conference 2025 を開催してきました。今回は yusukebe さんとの縁もあって、弊社 Gemcook も主催として携わることとなりました。\n本記事では僕が Hono Conference を主催した中で「どういう準備をしてきたか」「どういう企画を考えたか」などを軌跡として書き残そうと思い"
   },
   {
     "title": "【レベル1】Power Automate × Office スクリプトで稼働入力表を自動作成する",

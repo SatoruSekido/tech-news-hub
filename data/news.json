@@ -1,73 +1,73 @@
 [
   {
-    "title": "Data package",
-    "link": "https://dev.to/doccaio/data-package-3hcg",
-    "pubDate": "Sat, 01 Nov 2025 12:43:10 +0000",
+    "title": "Checkout my new post!",
+    "link": "https://dev.to/jay_sheth/checkout-my-new-post-1k10",
+    "pubDate": "Sat, 01 Nov 2025 18:06:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Just like me, many people use these package managers, but often we don't know the differences and advantages of each one. In this article, I hope to clarify those distinctions.\nnpm, Yarn, and pnpm: Di"
+    "contentSnippet": "🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud (Step-by-Step with Screenshots)\nJay Sheth ・ Nov 1"
   },
   {
-    "title": "Check out the guide on - The Art of Tableau Performance Optimization: How Smart Logic Reduced a Dashboard Load Time by 98.9%",
-    "link": "https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-art-of-tableau-performance-optimization-how-smart-logic-reduced-a-j41",
-    "pubDate": "Sat, 01 Nov 2025 12:39:14 +0000",
+    "title": "Danny Maude: 3 Golf Swing Tips That I Wish I'd Told You Sooner",
+    "link": "https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9",
+    "pubDate": "Sat, 01 Nov 2025 18:06:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Art of Tableau Performance Optimization: How Smart Logic Reduced a Dashboard Load Time by 98.9%\nDipti Moryani ・ Nov 1"
+    "contentSnippet": "3 Golf Swing Tips That I Wish I'd Told You Sooner\n\n\nIn this quick, 6-minute practice plan, Danny Maude debunks the “8–10 hours a day” myth and shows how just a few simple drills each session can build"
   },
   {
-    "title": "Daily Dev Challenges - Day 01 🚀",
-    "link": "https://dev.to/kevinrawal/daily-dev-challenges-day-01-5fl6",
-    "pubDate": "Sat, 01 Nov 2025 12:36:02 +0000",
+    "title": "🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud (Step-by-Step with Screenshots)",
+    "link": "https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi",
+    "pubDate": "Sat, 01 Nov 2025 18:04:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Day 1 — In-Memory Cache with TTL\n\n\nI’ve started a daily challenge to improve my skills as a developer.\n\nToday marks Day 1 of the challenge, where I worked on implementing an In-Memory Cache with TTL. "
+    "contentSnippet": "Load balancing is an essential part of modern cloud architectures --- it helps distribute traffic across multiple backend instances, ensuring reliability, scalability, and performance.\nIn this tutoria"
   },
   {
-    "title": "Check out the guide on - Mastering Principal Component Analysis (PCA) in R: A Complete Guide from Basics to Business Insights",
-    "link": "https://dev.to/thedatageek/check-out-the-guide-on-mastering-principal-component-analysis-pca-in-r-a-complete-guide-from-1kjg",
-    "pubDate": "Sat, 01 Nov 2025 12:19:00 +0000",
+    "title": "⚡ Why Vite Feels So Fast — and What You No Longer Need to Configure Manually",
+    "link": "https://dev.to/vishwark/why-vite-feels-so-fast-and-what-you-no-longer-need-to-configure-manually-5g9b",
+    "pubDate": "Sat, 01 Nov 2025 18:02:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mastering Principal Component Analysis (PCA) in R: A Complete Guide from Basics to Business Insights\nDipti ・ Nov 1"
+    "contentSnippet": "If you’ve worked with Webpack before, you probably remember how much setup it needed — loaders, plugins, split chunks, environment variables, and more.\nVite, and suddenly the dev experience felt insta"
   },
   {
-    "title": "Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia",
-    "link": "https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f",
-    "pubDate": "Sat, 01 Nov 2025 12:17:22 +0000",
+    "title": "Smart Form Submissions: Only Send Changed Data with WebForms Core 2",
+    "link": "https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3",
+    "pubDate": "Sat, 01 Nov 2025 18:00:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I started building Alexandrie, I just wanted a fast, offline Markdown note-taking app I could rely on daily.\nThis article walks through one of the toughest challenges I faced: how to model and ma"
+    "contentSnippet": "As you know, we at Elanat are developing version 2 of WebForms Core technology with a focus on the developer experience. This version is supposed to be a milestone in simplifying and optimizing web de"
   },
   {
-    "title": "🧠 Inside an AI’s Brain: What Data Scientists Can Learn from Neuroscience",
-    "link": "https://dev.to/sanskruti_sugandhi/inside-an-ais-brain-what-data-scientists-can-learn-from-neuroscience-2467",
-    "pubDate": "Sat, 01 Nov 2025 12:17:12 +0000",
+    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1nh4",
+    "pubDate": "Sat, 01 Nov 2025 18:00:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever notice how neural networks look suspiciously like brains? That’s no coincidence.\n\n\n\nLet’s pop the hood on both brains — the human one and the artificial one — and see what data scientists can act"
+    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less\n\n\nCinemaSins takes a fun, nitpicky dive into Longlegs, roasting Nicolas Cage’s over-the-top performance and marveling at, you guessed it, those ins"
   },
   {
-    "title": "Web Developer Travis McCracken on Async Queues in Rust vs Python",
-    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-2oca",
-    "pubDate": "Sat, 01 Nov 2025 12:17:03 +0000",
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-26p4",
+    "pubDate": "Sat, 01 Nov 2025 18:00:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Harnessing the Power of Rust and Go for Backend Development: Insights from Web Developer Travis McCracken\nHello, fellow developers! I’m Web Developer Travis McCracken, and today I want to dive into th"
+    "contentSnippet": "CinemaSins just dropped a Halloween-ready “Everything Wrong With…” video that rips into one of the year’s best genre films in just 15 minutes—because even the greatest movies leave room for a few sins"
   },
   {
-    "title": "Learning Elixir: Ranges",
-    "link": "https://dev.to/abreujp/learning-elixir-ranges-1iia",
-    "pubDate": "Sat, 01 Nov 2025 12:16:35 +0000",
+    "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-n07",
+    "pubDate": "Sat, 01 Nov 2025 18:00:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ranges are like bookmarks that mark the start and end of a sequence without actually writing down every number in between. I like to think of a range as a smart recipe that knows how to generate numbe"
+    "contentSnippet": "These folks are kicking off a four-week deep dive into the first four Predator movies, starting with the 1987 Schwarzenegger classic. They rave that Predator is pure 80s action sci-fi perfection—think"
   },
   {
-    "title": "Build a Telegram Bot with ESP32-CAM for Remote Image & Video Capture",
-    "link": "https://dev.to/messin_tom/build-a-telegram-bot-with-esp32-cam-for-remote-image-video-capture-4949",
-    "pubDate": "Sat, 01 Nov 2025 12:15:56 +0000",
+    "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-ee3",
+    "pubDate": "Sat, 01 Nov 2025 18:00:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn this post, I’ll walk you through how to build a wireless image/video capture system using the ESP32‑CAM (AI-Thinker version) and the Telegram Bot API. The goal is to enable remote co"
+    "contentSnippet": "Predator 2 – Caravan of Garbage dives out of the jungle and into a sweltering, crime-ridden Los Angeles where Danny Glover replaces Schwarzenegger at the center of the hunt. With the city in the grip "
   },
   {
-    "title": "Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1g60",
-    "pubDate": "Sat, 01 Nov 2025 12:12:40 +0000",
+    "title": "How modern dev servers decide what to rebuild - a minimal engine",
+    "link": "https://dev.to/alessiopelliccione/how-modern-dev-servers-decide-what-to-rebuild-a-minimal-engine-4ol",
+    "pubDate": "Sat, 01 Nov 2025 17:52:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "‘Halloween II’ Rewatch Breakdown\n\n\nBill Simmons, Chris Ryan, and Van Lathan dive into the 1981 return of Michael Myers in Halloween II, questioning if Myers is the ultimate horror movie villain, shari"
+    "contentSnippet": "by Alessio Pelliccione\nSome days ago at work, I was writing a small dynamic script to trigger a build for a single file. While doing that, I suddenly wondered: how do modern build tools actually work "
   },
   {
     "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",

@@ -1,73 +1,73 @@
 [
   {
-    "title": "Mastering Ownership, Moves, Borrowing, and Lifetimes in Rust",
-    "link": "https://dev.to/amritsingh183/mastering-ownership-moves-borrowing-and-lifetimes-in-rust-5077",
-    "pubDate": "Sat, 01 Nov 2025 06:31:30 +0000",
+    "title": "Data package",
+    "link": "https://dev.to/doccaio/data-package-3hcg",
+    "pubDate": "Sat, 01 Nov 2025 12:43:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mastering Rust Ownership: Advanced Patterns, Performance, and Real-World Applications\n\n\nA comprehensive deep-dive into Rust's ownership model for developers ready to move beyond the fundamentals.\nPrer"
+    "contentSnippet": "Just like me, many people use these package managers, but often we don't know the differences and advantages of each one. In this article, I hope to clarify those distinctions.\nnpm, Yarn, and pnpm: Di"
   },
   {
-    "title": "Neural Networks in Coding: A Deep Dive into the AI Coding Paradigm",
-    "link": "https://dev.to/softwaredeveloper01/neural-networks-in-coding-a-deep-dive-into-the-ai-coding-paradigm-4ie1",
-    "pubDate": "Sat, 01 Nov 2025 06:28:00 +0000",
+    "title": "Check out the guide on - The Art of Tableau Performance Optimization: How Smart Logic Reduced a Dashboard Load Time by 98.9%",
+    "link": "https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-art-of-tableau-performance-optimization-how-smart-logic-reduced-a-j41",
+    "pubDate": "Sat, 01 Nov 2025 12:39:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the ever-evolving world of technology, one of the most revolutionary advancements has been the integration of artificial intelligence (AI) into software development. Among the many AI techniques th"
+    "contentSnippet": "The Art of Tableau Performance Optimization: How Smart Logic Reduced a Dashboard Load Time by 98.9%\nDipti Moryani ・ Nov 1"
   },
   {
-    "title": "How I Reduced My Dashboard Bundle Size from 1.72 MB to 299 KB for Faster Loading",
-    "link": "https://dev.to/naufalyukafi/how-i-reduced-my-dashboard-bundle-size-from-172-mb-to-299-kb-for-faster-loading-3gg5",
-    "pubDate": "Sat, 01 Nov 2025 06:20:39 +0000",
+    "title": "Daily Dev Challenges - Day 01 🚀",
+    "link": "https://dev.to/kevinrawal/daily-dev-challenges-day-01-5fl6",
+    "pubDate": "Sat, 01 Nov 2025 12:36:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As our product grew, the dashboard started feeling slower than expected, which impacted how quickly users could access key information and complete tasks. Longer load times risked frustrating users an"
+    "contentSnippet": "Day 1 — In-Memory Cache with TTL\n\n\nI’ve started a daily challenge to improve my skills as a developer.\n\nToday marks Day 1 of the challenge, where I worked on implementing an In-Memory Cache with TTL. "
   },
   {
-    "title": "AI Agents in 2025: A Practical Guide for Developers",
-    "link": "https://dev.to/navyashipsit/ai-agents-in-2025-a-practical-guide-for-developers-32ep",
-    "pubDate": "Sat, 01 Nov 2025 06:10:38 +0000",
+    "title": "Check out the guide on - Mastering Principal Component Analysis (PCA) in R: A Complete Guide from Basics to Business Insights",
+    "link": "https://dev.to/thedatageek/check-out-the-guide-on-mastering-principal-component-analysis-pca-in-r-a-complete-guide-from-1kjg",
+    "pubDate": "Sat, 01 Nov 2025 12:19:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nAI agents in 2025 are production systems, not UI demos.\n\nA reliable agent stack has 7 layers:  \nGenerative Model\n\nKnowledge Base + RAG\n\nOrchestration / State Management\n\nPrompt Engineering\n\nTo"
+    "contentSnippet": "Mastering Principal Component Analysis (PCA) in R: A Complete Guide from Basics to Business Insights\nDipti ・ Nov 1"
   },
   {
-    "title": "Tetrix vs Claude",
-    "link": "https://dev.to/akkii2022/tetrix-vs-claude-4923",
-    "pubDate": "Sat, 01 Nov 2025 06:07:44 +0000",
+    "title": "Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia",
+    "link": "https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f",
+    "pubDate": "Sat, 01 Nov 2025 12:17:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Learn how Tetrix connects code, infrastructure, and operations to your AI, enabling it to reason across your full software system.\nhttps://deskree.com/how-it-works"
+    "contentSnippet": "When I started building Alexandrie, I just wanted a fast, offline Markdown note-taking app I could rely on daily.\nThis article walks through one of the toughest challenges I faced: how to model and ma"
   },
   {
-    "title": "No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366",
-    "link": "https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99",
-    "pubDate": "Sat, 01 Nov 2025 06:07:16 +0000",
+    "title": "🧠 Inside an AI’s Brain: What Data Scientists Can Learn from Neuroscience",
+    "link": "https://dev.to/sanskruti_sugandhi/inside-an-ais-brain-what-data-scientists-can-learn-from-neuroscience-2467",
+    "pubDate": "Sat, 01 Nov 2025 12:17:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Summary\n\n\nNeil and TC head to Upstate New York for their travel series and end up in a deep-dive conversation with Alex Holderness and John Bourne, the founders of casual-golf apparel brand Holderness"
+    "contentSnippet": "Ever notice how neural networks look suspiciously like brains? That’s no coincidence.\n\n\n\nLet’s pop the hood on both brains — the human one and the artificial one — and see what data scientists can act"
   },
   {
-    "title": "Top 5 Free Online Tools to Download YouTube Videos",
-    "link": "https://dev.to/y2meta/top-5-free-online-tools-to-download-youtube-videos-156l",
-    "pubDate": "Sat, 01 Nov 2025 06:06:57 +0000",
+    "title": "Web Developer Travis McCracken on Async Queues in Rust vs Python",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-2oca",
+    "pubDate": "Sat, 01 Nov 2025 12:17:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Looking for a simple way to download YouTube videos? Y2Meta makes it easy. These free online tools let you download your favorite videos and music in MP4, MP3, and 4K quality, all accessible on any de"
+    "contentSnippet": "Harnessing the Power of Rust and Go for Backend Development: Insights from Web Developer Travis McCracken\nHello, fellow developers! I’m Web Developer Travis McCracken, and today I want to dive into th"
   },
   {
-    "title": "How I Ended Up Choosing Cloudflare Workers for My Projects",
-    "link": "https://dev.to/ukasyah-dev/how-i-ended-up-choosing-cloudflare-workers-for-my-projects-45a",
-    "pubDate": "Sat, 01 Nov 2025 06:06:39 +0000",
+    "title": "Learning Elixir: Ranges",
+    "link": "https://dev.to/abreujp/learning-elixir-ranges-1iia",
+    "pubDate": "Sat, 01 Nov 2025 12:16:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hi everyone! Hope you’re all doing great.\nIt’s been quite a while since my last post (on other platforms too 😅), and I’m excited to finally share something new with you all.\nLately, I’ve been diving "
+    "contentSnippet": "Ranges are like bookmarks that mark the start and end of a sequence without actually writing down every number in between. I like to think of a range as a smart recipe that knows how to generate numbe"
   },
   {
-    "title": "Jeff Su: The Productivity System I Taught to 6,642 Googlers",
-    "link": "https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mic",
-    "pubDate": "Sat, 01 Nov 2025 06:05:57 +0000",
+    "title": "Build a Telegram Bot with ESP32-CAM for Remote Image & Video Capture",
+    "link": "https://dev.to/messin_tom/build-a-telegram-bot-with-esp32-cam-for-remote-image-video-capture-4949",
+    "pubDate": "Sat, 01 Nov 2025 12:15:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The CORE Productivity System\n\n\nJeff Su’s CORE workflow—Capture, Organize, Review, Engage—breaks down every bit of workplace info into four simple steps. Snap up anything that lands in your inbox, stas"
+    "contentSnippet": "Introduction\n\n\nIn this post, I’ll walk you through how to build a wireless image/video capture system using the ESP32‑CAM (AI-Thinker version) and the Telegram Bot API. The goal is to enable remote co"
   },
   {
-    "title": "Buying a Global SSL Certificate—My Real-World Experience in Securing Web Apps and APIs",
-    "link": "https://dev.to/hasanmonsur/buying-a-global-ssl-certificate-my-real-world-experience-in-securing-web-apps-and-apis-chh",
-    "pubDate": "Sat, 01 Nov 2025 06:02:14 +0000",
+    "title": "Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-1g60",
+    "pubDate": "Sat, 01 Nov 2025 12:12:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Buying a global SSL certificate wasn’t just another DevOps task — it was a real learning curve. From comparing CAs to configuring certificates across multiple servers and APIs, I discovered how small "
+    "contentSnippet": "‘Halloween II’ Rewatch Breakdown\n\n\nBill Simmons, Chris Ryan, and Van Lathan dive into the 1981 return of Michael Myers in Halloween II, questioning if Myers is the ultimate horror movie villain, shari"
   },
   {
     "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",
@@ -77,11 +77,32 @@
     "contentSnippet": "はじめに\n2025年10月30日〜31日に開催された 「AI駆動開発 Conference Autumn 2025」 に参加してきました。\nhttps://aid.connpass.com/event/367698/\n2日間にわたるイベントを通して、AIを活用した開発の最前線・現場での実践知について、沢山の学びと気づきを得られました。\n本記事では、その中でも特に印象に残った内容を、備忘録としてまと"
   },
   {
-    "title": "WebLLM（Wasm上で動くLLM）は何が凄い？3種のLLM実行環境を徹底比較〜ローカルブラウザ型、ローカルネイティブ型、クラウド型〜",
-    "link": "https://zenn.dev/srefin/articles/17ba278f402b5d",
-    "pubDate": "Fri, 31 Oct 2025 08:53:48 GMT",
+    "title": "IT業界、特にセキュリティ業界は「個人のスキル」よりも、どこに所属しているかで大きく変わる話",
+    "link": "https://qiita.com/yamada_sec/items/6227a30eb584e10d6f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T14:13:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n1年前、私はこちらの記事をQiitaに書きました。\n\nあの頃はちょうど転職が決まり、\nようやくスタートラインに立てたという安堵と期待の中で記事を書いていました。\nそれから1年。\n環境が変わり、立場が変わり、見える景色も大きく変わりました。\nIT業界、特にセキ..."
+  },
+  {
+    "title": "仮想DOMとは？",
+    "link": "https://qiita.com/generoKoki/items/664b440dd5848d3410cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T11:28:54.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nchibivueをやっており仮想DOMの内容についてふんわりとした理解しかなく\nイマイチ理解が進まなかったので理解深めるために調べたので備忘録です。\n\n仮想DOMとは？\n最初に結論から言うと、仮想DOMとは\n「JavaScriptオブジェクトで表現されたDOMの..."
+  },
+  {
+    "title": "【Dify】ナレッジパイプライン調査レポート1/3 - ドキュメント内画像データの挙動検証",
+    "link": "https://zenn.dev/upgradetech/articles/b8b6f0b18411c1",
+    "pubDate": "Fri, 31 Oct 2025 10:11:47 GMT",
     "source": "Zenn",
-    "contentSnippet": "近年、プライバシー確保の重要性が高まり、ローカル環境で動作するLLMへの需要が増加しています。その選択肢の一つとしてWebLLMが台頭してきました。\nでも、プライバシー確保が目的ならOllamaでいいんじゃないの？\nこの記事では、そんな疑問を深掘りしていきます！\n\n WebLLMとは\nWebLLMは、Webブラウザ上で直接LLMを実行できるJavaScriptライブラリです。利用可能なLLMモデル"
+    "contentSnippet": "はじめに\nLLMアプリケーション開発プラットフォーム「Dify」に、ナレッジ作成におけるデータ処理ワークフローを自動化する新機能「ナレッジパイプライン」が実装されました。\n実際に検証したところ、いくつか注目すべき技術的テーマが見えてきました。今回はその中でも以下三つのテーマに注目して、それぞれを深掘りしていく予定です。\n\n【第1回】 ドキュメント内画像データの挙動検証 （← 今回の記事）\n【第2回"
+  },
+  {
+    "title": "【Scratch API入門】 今日から使えるScratch関連APIまとめ",
+    "link": "https://qiita.com/kakeruzoku/items/120ee994b7fd23273e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T09:09:03.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは。タイトルの通り、ブラウザにコピペで使える、認証情報が必要ないGETメゾットのScratch関連APIをわかる範囲で全部まとめてみた。これを見て面白いと思った人は、以下の記事を見てみると面白いと思う。\n\n本記事は非公式であり、ScratchTeamの気まぐれに..."
   },
   {
     "title": "\"ホテルエンジニア\"として半年間やったことをまとめてみた",
@@ -102,7 +123,7 @@
     "link": "https://zenn.dev/mohupor03/articles/58a37e9b56066a",
     "pubDate": "Fri, 31 Oct 2025 07:59:30 GMT",
     "source": "Zenn",
-    "contentSnippet": "こんにちは。@tetsuro_b です。\nついについに・・・！\n私はメインの AI を Claude Code → Cursor に戻すことを決断しました！！\n長い付き合いだった「VSCode x Claude Code」とは、しばらくお別れです...。\nその理由を紹介していきます。\n\n 新機能 Multiple Model の体験が良すぎる\n2025年10月29日 Cursor 2.0 が発表さ"
+    "contentSnippet": "こんにちは。@tetsuro_b です。\nついについに・・・！\n私はメインの AI を Claude Code → Cursor に戻すことを決断しました！！\n長い付き合いだった「VSCode x Claude Code」とは、しばらくお別れです...。\nその理由を紹介していきます。\n\n 新機能 Multiple Models の体験が良すぎる\n2025年10月29日 Cursor 2.0 が発表"
   },
   {
     "title": "誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話",
@@ -126,20 +147,6 @@
     "contentSnippet": "びーぐるです🐶\n2025年10月21日、Anthropic社が提供するAIモデルClaudeを利用したAIコーディングエージェントClaude Code on the webがリサーチプレビューとして公開されました。\nhttps://www.anthropic.com/news/claude-code-on-the-web\nこのサービスはクラウド型AIコーディングエージェントと呼ばれるもので、ブ"
   },
   {
-    "title": "【生成AI活用】ゼロから2日でできる！Java自動テスト（UT/IT/E2E）導入ガイド【692件実例付】",
-    "link": "https://qiita.com/ntaka329/items/9bfb2a2c136dbf49f2de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T03:22:36.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n5年ぶりぐらいにJava BackendなAPI Serverのメンテナンスに関わりました。\n幸か不幸か、自動テストが全く導入されていなかったプロジェクトだったため（Mavenなどもなかったですが😇）、Github Copilotと相..."
-  },
-  {
-    "title": "Qiita Advent Calendar 2025のアップデートの紹介",
-    "link": "https://qiita.com/Qiita/items/6f8ca2d3ed513f316e66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T03:19:39.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n\n今年もQiitaでは毎年恒例の Qiita Advent Calendarを開催します    \n\nこの記事では、今年のQiita Advent Calendarのアップデートをご紹介します！\n\nアップデート内容\n\nカレンダーにタグを設定できるようになり..."
-  },
-  {
     "title": "キャッシュ戦略改善で月間150万人のアクセスロスを防いだ話",
     "link": "https://zenn.dev/mybest_dev/articles/e0a8072e4a7573",
     "pubDate": "Fri, 31 Oct 2025 02:58:40 GMT",
@@ -147,11 +154,11 @@
     "contentSnippet": "「このページ開けないの私だけかな？」\nきっかけはこの一言のslackメッセージでした。\n少しすると、他のメンバーからもスレッドに返信が続きます。\n「私は開けました！」「私も問題なく開けました！」\nそして、しばらくしてから-----\n「再び開いてみたら、開けました。ただ、さっき開いた時はとても重くて開かなかったです」\nどうやら、なんらかの理由でサービスの表示速度が悪くなる時がありそうですね。\nこれは"
   },
   {
-    "title": "Raycast 拡張機能の作り方",
-    "link": "https://qiita.com/kentosity/items/fb7ab9314a69c0f534d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T02:22:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nRaycast は、macOS ユーザーの生産性を高める強力なランチャーアプリです。最大の魅力は、豊富な拡張機能のエコシステムにあります。本記事では、Raycast の拡張機能開発に初めて挑戦する方に向けて、基本から最新の AI 機能まで、公式ドキュメントをもと..."
+    "title": "LLMによる文単位抽出を高速・安価に行う- fast-bunkaiの活用",
+    "link": "https://zenn.dev/gvatech_blog/articles/cbc9e663238b66",
+    "pubDate": "Fri, 31 Oct 2025 00:15:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "モチベーション\n長い文章を読むのは全く億劫だ。\n頼むから知りたいところだけピンポイントに読ませてくれ。ファスト教養万歳！\nそんな、働いていると本も読めなくなる[1]私たちの嘆きを解決してくれるのがLLMです。\n文書の中から自分が必要としている文章のみをLLMに抽出してもらえば良いのです。\nしかし、LLMに複数行の文章を出力させるには少々時間がかかりますし、その分API利用料金も発生します。\nやはり"
   },
   {
     "title": "コードは書ける、でも\"AIを理解してない\"エンジニアが増えている現実😭",
@@ -161,18 +168,18 @@
     "contentSnippet": "前置き\nAI系プロジェクトのプロジェクトリーダーを数年間担当して私が最近感じていることを書きます。\n今回はAIアプリエンジニアに限った話をします。\nもちろん特定のテック企業やIT系企業、SIerでは当てはまらないと思いますが、おそらく事業会社では多くのパターンで共通する課題ではないかと感じています。\nここで言う「AIアプリエンジニア」とは、生成AI（LLM）を活用した社内アプリやプロトタイプを開発"
   },
   {
-    "title": "useEffectEvent関数は、useEffectの依存配列に含めてはいけない",
-    "link": "https://zenn.dev/maguro_alterna/articles/17a0938c5b02a3",
-    "pubDate": "Thu, 30 Oct 2025 23:35:26 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこちらを資料に追記したものになります。\nhttps://speakerdeck.com/maguroalternative/react19-dot-2nouseeffecteventwozhui-u\n間違った情報を記載してしまっていたので自省を込めて書いてます。\nこの記事も解釈間違っていたらご指摘いただけると幸いです。\nhttps://twitter.com/sigumataityoud"
-  },
-  {
     "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
     "link": "https://qiita.com/keitah/items/d41b0888cf7b8b01616d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-30T14:36:31.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nTerraformとAWS SAM（Serverless Application Model）を組み合わせることで、インフラストラクチャとアプリケーションの責務を明確に分離し、チーム別の適切な権限管理とセキュアなIaC運用を実現できます。\n\nこの構成の核心的なメ..."
+  },
+  {
+    "title": "【実例付き】Claude × Clineで数時間でWebアプリ開発！無料企画→自動実装の完全ガイド",
+    "link": "https://qiita.com/tomota53/items/a79befc442689c3204d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-30T10:42:13.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n「アイデアはあるけど、コーディングに時間がかかる...」\n「プロトタイプを素早く作りたい！」\nそんな悩みを解決する、AI活用の実践的な開発フローを紹介します。\n本記事では、無料のClaudeで企画・設計を行い、VSCode + Cline + Claude AI..."
   },
   {
     "title": "【レベル1】Power Automate × Office スクリプトで稼働入力表を自動作成する",
@@ -208,13 +215,6 @@
     "pubDate": "2025-10-29T11:55:27.000Z",
     "source": "Qiita",
     "contentSnippet": "WPF + MVVM パターンでアプリケーションを開発していると、Null チェックを行ったにも関わらず、その直後で Null 参照例外が発生する現象が発生しました。今回は、この問題の原因と解決策について説明します。\n\n問題の発生状況\n自作ファイラーの開発中に発生した事例で..."
-  },
-  {
-    "title": "予測AIモデルのアルゴリズム選択",
-    "link": "https://qiita.com/obx_y_ueno/items/c94330865c4d4316877c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T23:49:30.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nはじめまして、Orbitics株式会社データサイエンス部の上野です。\n機械学習モデルを構築する上で、目的に合った適切なアルゴリズムを選択することは、その成否を大きく左右します。本記事では、予測AIモデルでよく用いられる主要なアルゴリズムについて、その概要と特徴、..."
   },
   {
     "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",

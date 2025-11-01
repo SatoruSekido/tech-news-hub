@@ -1,73 +1,94 @@
 [
   {
-    "title": "🚀 I’m Open to Building What’s Next — My Journey So Far",
-    "link": "https://dev.to/pavan_kumarmukkera_527ab/im-open-to-building-whats-next-my-journey-so-far-2l0p",
-    "pubDate": "Fri, 31 Oct 2025 18:23:30 +0000",
+    "title": "October Recap - my first Hacktoberfest",
+    "link": "https://dev.to/oleksandrakordonets/october-recap-my-first-hacktoberfest-5ci8",
+    "pubDate": "Sat, 01 Nov 2025 01:50:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hi everyone, 👋\nI’m Mukkera Pavan Kumar, and I’m officially open to new opportunities — where I can combine community, data, and innovation to make a real impact.\nOver the past few years, I’ve realize"
+    "contentSnippet": "October was a busy month. I set out to make useful contributions across a few repos and ended the month with four pulled PRs. Below is a short, friendly summary of what I did each week, how I work, wh"
   },
   {
-    "title": "Why I Built Another Feedback Tool",
-    "link": "https://dev.to/notedisapp/why-i-built-another-feedback-tool-28e2",
-    "pubDate": "Fri, 31 Oct 2025 18:14:52 +0000",
+    "title": "The Shocking Truth Behind America's Air Traffic Control Meltdown (And Why Your Business Could Be Next)",
+    "link": "https://dev.to/paul_allen_ccfde9d33a48d5/the-shocking-truth-behind-americas-air-traffic-control-meltdown-and-why-your-business-could-be-3ik2",
+    "pubDate": "Sat, 01 Nov 2025 01:25:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why I Built Another Feedback Tool\n\n\nLet's be honest - the market doesn't need another feedback tool. But I needed one I could afford.\nAs a freelance developer at Daring Designs, I was paying $59/month"
+    "contentSnippet": "What if a single overlooked leverage point could ground an entire nation’s air travel? The U.S. air traffic control crisis isn’t just about delayed flights—it’s a wake-up call for anyone who manages c"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-48l0",
-    "pubDate": "Fri, 31 Oct 2025 18:12:21 +0000",
+    "title": "Recomendo este Artigo",
+    "link": "https://dev.to/anamaria/-352l",
+    "pubDate": "Sat, 01 Nov 2025 01:21:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Frankenweenie In 14 Minutes Or Less is a new CinemaSins video where the team lovingly roasts Tim Burton’s Frankenweenie, tallying every “sin” while celebrating the film’s charm n"
+    "contentSnippet": "Como ajudar as pessoas a contribuirem com seu projeto Open Source\nMorganna ・ Oct 29\n#devchallenge\n        #hacktoberfest\n        #opensource\n        #braziliandevs"
   },
   {
-    "title": "Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? (International Series)",
-    "link": "https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-547e",
-    "pubDate": "Fri, 31 Oct 2025 18:08:13 +0000",
+    "title": "ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding",
+    "link": "https://dev.to/paperium/relook-vision-grounded-rl-with-a-multimodal-llm-critic-for-agentic-web-coding-4d0o",
+    "pubDate": "Sat, 01 Nov 2025 01:20:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Can We Make the Cut in Our Return to Pro Golf?\n\n\nThe Bryan Bros are back on the course, teeing off in an Asian Tour International Series event and wondering if they can survive the cut on their return"
+    "contentSnippet": "How AI Learns to Build Web Pages by Seeing Them\n\n\nEver wondered how a computer could see a web page and fix its own code? ReLook makes that possible.\nScientists found this loop of generate‑diagnose‑re"
   },
   {
-    "title": "Building Privacy-Safe Attribution Pipelines: A Marketer’s Engineering Approach",
-    "link": "https://dev.to/saka_satish_661/building-privacy-safe-attribution-pipelines-a-marketers-engineering-approach-578l",
-    "pubDate": "Fri, 31 Oct 2025 18:08:01 +0000",
+    "title": "The Billion-User Tech Power Play Hiding Behind AOL: Why Bending Spoons' Silent Leverage Is Rewriting the Rules",
+    "link": "https://dev.to/paul_allen_ccfde9d33a48d5/the-billion-user-tech-power-play-hiding-behind-aol-why-bending-spoons-silent-leverage-is-3pco",
+    "pubDate": "Sat, 01 Nov 2025 01:19:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every marketer has asked this question at some point: which campaign actually worked?\nI’ve lived inside this problem for years. And somewhere between late-night data audits and conversations with deve"
+    "contentSnippet": "What if the next tech giant isn't a headline-grabber—but a stealth player quietly controlling over a billion users? While most of the world forgot about AOL, an unknown Italian company named Bending S"
   },
   {
-    "title": "Why DFS Topological Sort Writes Nodes on Backtracking",
-    "link": "https://dev.to/haris_abdullah_b8fc481573/why-dfs-topological-sort-writes-nodes-on-backtracking-2p34",
-    "pubDate": "Fri, 31 Oct 2025 18:03:58 +0000",
+    "title": "The Async Iterator Part 2: Streaming Data and Real-World Patterns",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-async-iterator-part-2-streaming-data-and-real-world-patterns-kdj",
+    "pubDate": "Sat, 01 Nov 2025 01:16:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Let us have two components, A and B.\nSo whatever component we traverse after A must appear before A in the final output — like B, A — so that if we get an edge B → A, it satisfies the rules of topolog"
+    "contentSnippet": "The next morning, Timothy arrived at the library early, eager to apply what he'd learned about async iteration. He'd spent the evening refactoring his log analyzer, and now he wanted to tackle somethi"
   },
   {
-    "title": "Implementing MQTT 5 in Go: A Deep Dive into Client Design - Part I",
-    "link": "https://dev.to/monsieur_thib/implementing-mqtt-5-in-go-a-deep-dive-into-client-design-part-i-24p1",
-    "pubDate": "Fri, 31 Oct 2025 18:02:46 +0000",
+    "title": "Unlocking AI Speed: The Hidden Symmetries in Reinforcement Learning",
+    "link": "https://dev.to/arvind_sundararajan/unlocking-ai-speed-the-hidden-symmetries-in-reinforcement-learning-18o2",
+    "pubDate": "Sat, 01 Nov 2025 01:02:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn this article, I’ll share my journey of implementing an MQTT 5.0 client in Go.\nWhy build an MQTT client when libraries like Paho already exist? Because I enjoy writing clients, it’s a"
+    "contentSnippet": "Unlocking AI Speed: The Hidden Symmetries in Reinforcement Learning\n\n\nImagine training an AI to play a complex strategy game. Days turn into weeks, weeks into months, and still, the AI struggles to le"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-50c5",
-    "pubDate": "Fri, 31 Oct 2025 18:02:32 +0000",
+    "title": "Daily Artificial Intelligence Digest - Nov 01, 2025",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-01-2025-1a08",
+    "pubDate": "Sat, 01 Nov 2025 01:01:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins just hit us with a Halloween-themed roast of Sinners, cheerfully calling it one of the greatest genre flicks ever… and then gleefully n"
+    "contentSnippet": "AI Market Dynamics & Corporate Strategy\n\n\nThe AI sector demonstrates a buoyant yet volatile investment climate, with a perceived \"bubbly\" market characterized by significant seed rounds and data cente"
   },
   {
-    "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-19cc",
-    "pubDate": "Fri, 31 Oct 2025 18:02:18 +0000",
+    "title": "\"Unlocking the Musical Secrets of Ancient Civilizations: The",
+    "link": "https://dev.to/drcarlosruizviquez/unlocking-the-musical-secrets-of-ancient-civilizations-the-58n2",
+    "pubDate": "Sat, 01 Nov 2025 01:00:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Caravan of Garbage kicks off a four-week deep-dive into the Predator franchise with the 1987 classic starring Arnold Schwarzenegger, and they’re not holding back – calling it the ultimate ’80s action-"
+    "contentSnippet": "\"Unlocking the Musical Secrets of Ancient Civilizations: The Power of Generative AI\nImagine being transported to the ancient city of Ur, surrounded by the mysterious sounds of a long-lost culture. Gen"
   },
   {
-    "title": "Disable antivirus real-time monitoring with PowerShell",
-    "link": "https://dev.to/stasberkov/disable-antivirus-real-time-monitoring-with-powershell-1cje",
-    "pubDate": "Fri, 31 Oct 2025 18:01:45 +0000",
+    "title": "第 18 课：Web UI 与 API 使用",
+    "link": "https://dev.to/henry_lin_3ac6363747f45b4/di-18-ke-web-ui-yu-api-shi-yong-35do",
+    "pubDate": "Sat, 01 Nov 2025 00:59:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is analog of TURBO button of modern days.\n# Get the ID and security principal of the current user account\n$myWindowsID = [System.Security.Principal.WindowsIdentity]::GetCurrent()\n$myWindowsPrinci"
+    "contentSnippet": "第 18 课：Web UI 与 API 使用\n\n\n⏱ 课时：1.5 小时\n🎯 学习目标：掌握图形界面和 API 操作\n📚 难度：⭐⭐ 实时信号\n通过 Web UI 和 API，你可以用图形界面管理交易机器人，不再依赖命令行。本课将教你如何启用 API Server，使用 FreqUI 进行可视化管理，以及通过 REST API 进行远程控制。\n定义：Freqtrade 内置的 REST API"
+  },
+  {
+    "title": "Claude Code on AWS パターン解説 - Amazon Bedrock / AWS Marketplace",
+    "link": "https://zenn.dev/aws_japan/articles/04999e5689d460",
+    "pubDate": "Fri, 31 Oct 2025 08:13:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "👉本ブログは AWS AI Agent ブログ祭り (Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り) の第 5 日目です。\n!\n📚 第 4 日目の記事はこちら！\nAmazon Bedrock AgentCore Memory の Branch 機能の使いどころ\n\n\n 1. はじめに\nAI 駆動開発ツールの導入を検討している方、または現在 Cl"
+  },
+  {
+    "title": "誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話",
+    "link": "https://zenn.dev/misuken/articles/32807daad601d0",
+    "pubDate": "Fri, 31 Oct 2025 06:52:12 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。\nみなさんのプロジェクトには「条件分岐が複雑すぎて誰も把握できなくなった仕様」はありませんか？\nニコニコ生放送のフロントチームでは「Gate」という機能が、まさにそのような状態でした。\nこの記事では、極めて複雑なGate機能を、スプレッドシートによる仕様整理で劇的に改善した取り組みをご紹"
+  },
+  {
+    "title": "【失敗談】ドメイン知識ゼロでSlack自然言語検索アプリを作った結果→精度が低すぎて使い物にならなかった話",
+    "link": "https://qiita.com/generoKoki/items/c90c25c5db99de893879?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T06:13:57.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n今の時代AI使えばなんでも作れるやろ！と思い失敗した失敗談です。\nもっとAIをうまく使えれば精度上げられたのかなとも思うので、こうした方がいいんじゃない？などあればコメント頂けますと幸いです。\n\n背景：Slackの会話が見つからない問題\nSlackを使っていると..."
   },
   {
     "title": "【生成AI活用】ゼロから2日でできる！Java自動テスト（UT/IT/E2E）導入ガイド【692件実例付】",
@@ -75,6 +96,27 @@
     "pubDate": "2025-10-31T03:22:36.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGMOコネクトの永田です。\n5年ぶりぐらいにJava BackendなAPI Serverのメンテナンスに関わりました。\n幸か不幸か、自動テストが全く導入されていなかったプロジェクトだったため（Mavenなどもなかったですが😇）、Github Copilotと相..."
+  },
+  {
+    "title": "Qiita Advent Calendar 2025のアップデートの紹介",
+    "link": "https://qiita.com/Qiita/items/6f8ca2d3ed513f316e66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T03:19:39.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\n今年もQiitaでは毎年恒例の Qiita Advent Calendarを開催します    \n\nこの記事では、今年のQiita Advent Calendarのアップデートをご紹介します！\n\nアップデート内容\n\nカレンダーにタグを設定できるようになり..."
+  },
+  {
+    "title": "キャッシュ戦略改善で月間150万人のアクセスロスを防いだ話",
+    "link": "https://zenn.dev/mybest_dev/articles/e0a8072e4a7573",
+    "pubDate": "Fri, 31 Oct 2025 02:58:40 GMT",
+    "source": "Zenn",
+    "contentSnippet": "「このページ開けないの私だけかな？」\nきっかけはこの一言のslackメッセージでした。\n少しすると、他のメンバーからもスレッドに返信が続きます。\n「私は開けました！」「私も問題なく開けました！」\nそして、しばらくしてから-----\n「再び開いてみたら、開けました。ただ、さっき開いた時はとても重くて開かなかったです」\nどうやら、なんらかの理由でサービスの表示速度が悪くなる時がありそうですね。\nこれは"
+  },
+  {
+    "title": "Raycast 拡張機能の作り方",
+    "link": "https://qiita.com/kentosity/items/fb7ab9314a69c0f534d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T02:22:37.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nRaycast は、macOS ユーザーの生産性を高める強力なランチャーアプリです。最大の魅力は、豊富な拡張機能のエコシステムにあります。本記事では、Raycast の拡張機能開発に初めて挑戦する方に向けて、基本から最新の AI 機能まで、公式ドキュメントをもと..."
   },
   {
     "title": "LLMによる文単位抽出を高速・安価に行う- fast-bunkaiの活用",
@@ -98,18 +140,18 @@
     "contentSnippet": "はじめに\nこちらを資料に追記したものになります。\nhttps://speakerdeck.com/maguroalternative/react19-dot-2nouseeffecteventwozhui-u\n間違った情報を記載してしまっていたので自省を込めて書いてます。\nこの記事も解釈間違っていたらご指摘いただけると幸いです。\nhttps://twitter.com/sigumataityoud"
   },
   {
-    "title": "$20分使い切ったのにまだ使える…？Cursor Free Usageをサポート回答で解明",
-    "link": "https://zenn.dev/owayo/articles/1f3a5e73aeb03c",
-    "pubDate": "Thu, 30 Oct 2025 15:25:49 GMT",
+    "title": "Neo4jで始めるGraphRAG入門",
+    "link": "https://zenn.dev/timelab/articles/23c0705465e0b4",
+    "pubDate": "Thu, 30 Oct 2025 23:07:36 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nCursorの料金体系が変更され、ダッシュボードに新しく Free Usage という列が表示されるようになりました。この記事では、この謎めいた Free Usage が一体何なのか、どのような仕組みで提供されているのかを解説します。\n\n月額$20分のAPIリクエストを使い切った後に Free Usage の値が増えていくのを見て困惑し、公式ドキュメントを探しても情報が見つからなかったた"
+    "contentSnippet": "はじめに\nこんにちは。TimelabでカレンダーサービスLynxを開発している諸岡（@hakoten）です。\n本記事では、Neo4jを使って、GraphRAGを実装する方法を紹介します。\nNeo4jの基本的な使い方については、別記事で解説していますので、あわせてご覧ください。\nhttps://zenn.dev/timelab/articles/1850842bf4fa18\n\n データの準備\nまずは"
   },
   {
-    "title": "【初心者向け】Availで学ぶモジュラーブロックチェーン！Nexus SDKで実現する未来のUXとは？",
-    "link": "https://zenn.dev/mashharuki/articles/avail-nexus_1",
-    "pubDate": "Thu, 30 Oct 2025 15:17:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに：  Web3の「めんどくさい」を終わらせる旅へようこそ！\n「このDAppを使いたいけど、Polygonチェーンか…MetaMaskのネットワークを切り替えて、ブリッジで資金を移動させて…あぁ、もうめんどくさい！」\nWeb3の世界に足を踏み入れた多くの人が、一度はこんな経験をしたことがあるのではないでしょうか？\nたくさんのブロックチェーンが乱立する現代は、まるで言語の違う国々を旅するような"
+    "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
+    "link": "https://qiita.com/keitah/items/d41b0888cf7b8b01616d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-30T14:36:31.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nTerraformとAWS SAM（Serverless Application Model）を組み合わせることで、インフラストラクチャとアプリケーションの責務を明確に分離し、チーム別の適切な権限管理とセキュアなIaC運用を実現できます。\n\nこの構成の核心的なメ..."
   },
   {
     "title": "ベクトル検索の世界(沼)へようこそ！という題で、発表しました！",
@@ -133,25 +175,11 @@
     "contentSnippet": "こんにちは、あさひです 🙋\nこの度 2025 年 10 月 18 日 (土) に Hono Conference 2025 を開催してきました。今回は yusukebe さんとの縁もあって、弊社 Gemcook も主催として携わることとなりました。\n本記事では僕が Hono Conference を主催した中で「どういう準備をしてきたか」「どういう企画を考えたか」などを軌跡として書き残そうと思い"
   },
   {
-    "title": "TSで正規表現を型安全に扱う「ArkRegex」を試してみた",
-    "link": "https://zenn.dev/ojoxux/articles/2eddf34f64a1c2",
-    "pubDate": "Thu, 30 Oct 2025 05:10:22 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n最近 X で話題になっていた ArkRegex というものを試してみたので紹介します。\nhttps://x.com/arktypeio/status/1983210635266498649\nhttps://arktype.io/docs/blog/arkregex\n\n ArkRegex とは\nArkRegex は、公式によるとnew RegExp()の型安全なドロップインリプレースである"
-  },
-  {
-    "title": "【AI迷子から卒業する方法】複数AIを並列利用して業務効率化してみよう",
-    "link": "https://qiita.com/gmo-co-kitaura/items/ea118fb7b3ceee583ac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T01:56:26.000Z",
+    "title": "【レベル1】Power Automate × Office スクリプトで稼働入力表を自動作成する",
+    "link": "https://qiita.com/sonooh/items/2759f1cd8ca2afd8b668?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-30T00:35:04.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n最近、生成AIを仕事に使う人が増えてますよね。でも、こんな悩みありません？\n\n「ChatGPTとClaude、どっちがいいの？」\n「Geminiも気になるけど、試すの面倒…」\n「結局、どれを選べばいいの？」\n\n実は、モデルごとに得意分野が違うので、一つだけ使うと..."
-  },
-  {
-    "title": "View TransitionライブラリSSGOIを使ってNext.jsでネイティブアプリのような画面遷移を再現してみる",
-    "link": "https://zenn.dev/chot/articles/b44f3cf6bda7e1",
-    "pubDate": "Thu, 30 Oct 2025 01:55:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "SSGOIとは\nSSGOI（スゴイ）はウェブでネイティブアプリのようなページトランジションを実装することができるアニメーションライブラリです。\n2025年10月現在はReact・Svelte・Vueに対応しており、Next.jsなどのフレームワークにも互換性があります。\nブラウザ標準のView Transition APIに依存しない独自の実装となっており、すべてのモダンブラウザへの対応を謳ってい"
+    "contentSnippet": "PowerAutomate から特定の Office ファイルの Office スクリプトを実行する、ということをこれまでやってこなかったので、自身の勉強がてらタイトルの取り組みをしてみることにしました。\nもちろんチュートリアルを読めば何ができるかは一通り書いてあるのですが..."
   },
   {
     "title": "エンジニアを褒めるだけ(通勤中に見てください)",
@@ -168,13 +196,6 @@
     "contentSnippet": "Bedrock AgentCoreとAmplifyを組み合わせてAIアプリを作りたい場合、こんな構成が思いつくと思います。AI SDK、めっちゃ便利ですよね。\n\nただ、このアーキテクチャだと、Amplify Histingの制約により ストリーム出力ができません。\n\n我..."
   },
   {
-    "title": "LLM推論入門",
-    "link": "https://qiita.com/Yuji181181/items/a87bb3ce9e4ae6314e1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T18:11:49.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n最近LLMを使っていると疑問に思うことがありました。\n\n質問を投げると「思考中...」と表示されて、以前と比べて回答が返ってくるまでにかなり時間がかかるのはなぜ？\n\nAPI経由で使う時とWeb版で生成内容が違うのはなぜ？\n\n今回は「LLMがどのように回答を..."
-  },
-  {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",
     "link": "https://www.publickey1.jp/blog/25/vs_codecopilotplan.html",
     "pubDate": "2025-10-29T15:29:01.000Z",
@@ -187,6 +208,13 @@
     "pubDate": "2025-10-29T11:55:27.000Z",
     "source": "Qiita",
     "contentSnippet": "WPF + MVVM パターンでアプリケーションを開発していると、Null チェックを行ったにも関わらず、その直後で Null 参照例外が発生する現象が発生しました。今回は、この問題の原因と解決策について説明します。\n\n問題の発生状況\n自作ファイラーの開発中に発生した事例で..."
+  },
+  {
+    "title": "予測AIモデルのアルゴリズム選択",
+    "link": "https://qiita.com/obx_y_ueno/items/c94330865c4d4316877c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T23:49:30.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nはじめまして、Orbitics株式会社データサイエンス部の上野です。\n機械学習モデルを構築する上で、目的に合った適切なアルゴリズムを選択することは、その成否を大きく左右します。本記事では、予測AIモデルでよく用いられる主要なアルゴリズムについて、その概要と特徴、..."
   },
   {
     "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",
@@ -208,34 +236,6 @@
     "pubDate": "2025-10-28T16:02:26.000Z",
     "source": "Publickey",
     "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして「Agent HQ」を発表しました。 同社は、AIを活用したソフトウェア開発の未来は単一のAIエージェントに依存するのではなく、複数の専門分野を持つAIエージェントがそれぞれ得意とする分野の複雑なタスクを並行して実行する形式になるとしました。 そうした複数のエージェントを統合"
-  },
-  {
-    "title": "PowerShellで「Windowsの声」をしゃべらせる ～ログ完了を音声で知らせる実用スクリプト～",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/0cfaeaba24bcc39235c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T14:21:09.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n\nWindowsには標準で「音声読み上げエンジン（Speech API）」が搭載されています。実はこれ、PowerShellだけで簡単に呼び出すことができます。\n\n使い道の例\n\nログ処理やバックアップ完了を音声で通知\n英語・日本語の自動切り替え\n簡易読み上げリ..."
-  },
-  {
-    "title": "【個人開発】香水オタクから初心者まで楽しめる香り記録・レビューアプリを作りました",
-    "link": "https://qiita.com/mirei-m/items/e985aae8385bd5a6705b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T11:32:09.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n初めまして！まみむです🐰\nプログラミングスクール「RUNTEQ」で2024年11月から学習を始め、未経験からエンジニア転職を目指しています。\nポートフォリオとして開発した「FragranceLog」について、サービスの開発理由やこだわった点について紹介します✨\n..."
-  },
-  {
-    "title": "ChatGPT × GenSparkで提案書を自動生成する実践フロー",
-    "link": "https://qiita.com/sh-ohtani/items/643c977af71e4952f882?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T10:35:30.000Z",
-    "source": "Qiita",
-    "contentSnippet": "💡 ChatGPT × GenSparkで提案書を自動生成する実践フロー\n〜構成 → レビュー → デザイン調整プロンプト生成まで〜\n\n🏁 はじめに：なぜAIで提案書を作るのか\n提案書は「考える」「書く」「整える」という3つの作業から成ります。\nこのうち「書く」と「整え..."
-  },
-  {
-    "title": "世界を変えた 4 行のコード - 高速逆平方根",
-    "link": "https://qiita.com/Xudev/items/701906ebe12b4576e7d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T09:01:33.000Z",
-    "source": "Qiita",
-    "contentSnippet": "お久しぶりです。\n引っ越しが終わってやっと Qiita を思い出して気づいたら 2 ヵ月くらい放置してました。\nどうも復活した Xu です。\nたまにはちょっと変わった話をしたくて、今日は数学に近い話をしようと思います。\n早速ですが、\nlog_2(1+\\frac{M}{2^{..."
   },
   {
     "title": "さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始",

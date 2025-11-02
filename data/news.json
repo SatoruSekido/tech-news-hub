@@ -1,73 +1,73 @@
 [
   {
-    "title": "Diving into Uniface 10.4: A Simple Guide to the $ude(\"load\") Function 🚀",
-    "link": "https://dev.to/petercode/diving-into-uniface-104-a-simple-guide-to-the-udeload-function-jp5",
-    "pubDate": "Sun, 02 Nov 2025 12:39:37 +0000",
+    "title": "My Laravel Journey – Part 1: Foundation",
+    "link": "https://dev.to/ashishtechdev/my-laravel-journey-part-1-foundation-259",
+    "pubDate": "Sun, 02 Nov 2025 18:23:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey everyone! 👋 Today, we're going to explore a handy function in the Uniface 10.4 low-code platform: $ude(\"load\"). If you've ever needed to programmatically inspect the inner workings of your compil"
+    "contentSnippet": "Welcome to Phase 1 of My Laravel Journey!\nWhether you’re completely new to Laravel or just refreshing your basics, this is a great place to start! 🚀\n🎯 What You’ll Learn\n✅ What Laravel is and why it’"
   },
   {
-    "title": "Demystifying Uniface 10.4: Importing Symbol Tables with $ude 🚀",
-    "link": "https://dev.to/petercode/demystifying-uniface-104-importing-symbol-tables-with-ude-45ba",
-    "pubDate": "Sun, 02 Nov 2025 12:39:10 +0000",
+    "title": "I Waited 5 Years for AI to Be Good Enough to Build This: A Fully Automatic Logo Designer",
+    "link": "https://dev.to/kamil_uhryn/i-waited-5-years-for-ai-to-be-good-enough-to-build-this-a-fully-automatic-logo-designer-5dhd",
+    "pubDate": "Sun, 02 Nov 2025 18:08:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Disclaimer: This blog post was drafted with the assistance of an AI to help explain technical documentation in a simple and clear way.\nHey everyone! 👋 If you've ever worked on a large, mature Uniface"
+    "contentSnippet": "TL;DR\n\n\nBuilt GoodLogoAI - an AI logo maker that outputs production-ready vector SVG + transparent PNG files. $9.99 one-time payment. Had the vision in 2019, but had to wait for AI models to mature. N"
   },
   {
-    "title": "Docker Use Case and Containerization of a Website 📦",
-    "link": "https://dev.to/hamidrazadev/docker-use-case-and-containerization-of-a-website-4i4a",
-    "pubDate": "Sun, 02 Nov 2025 12:38:43 +0000",
+    "title": "MCUboot: Understanding the Image Trailer and How It Tracks Firmware Update Progress",
+    "link": "https://dev.to/ripan030/mcuboot-understanding-the-image-trailer-and-how-it-tracks-firmware-update-progress-4l76",
+    "pubDate": "Sun, 02 Nov 2025 18:08:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever heard someone say, “It works on my machine!”? That phrase has probably caused more headaches than slow Wi-Fi during a Zoom meeting. Luckily, Docker came to the rescue. It’s like packing your webs"
+    "contentSnippet": "The MCUboot bootloader ensures fail-safe firmware updates on embedded devices by closely tracking the progress of image swaps inside a reserved flash area called the image trailer. The trailer is loca"
   },
   {
-    "title": "25 CSS Projects for Beginners (with Source Code)",
-    "link": "https://dev.to/djamware_tutorial_eba1a61/25-css-projects-for-beginners-with-source-code-3dke",
-    "pubDate": "Sun, 02 Nov 2025 12:35:29 +0000",
+    "title": "No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366",
+    "link": "https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-2hlc",
+    "pubDate": "Sun, 02 Nov 2025 18:08:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CSS is one of the most powerful tools for crafting modern, responsive, and visually appealing web designs. In this tutorial, you’ll find 25 creative CSS projects ranging from animated loaders and stic"
+    "contentSnippet": "How an Apparel Business Gets Built | Trap Draw, Ep 366\n\n\nNeil and TC hit up Upstate New York to chat with Alex Holderness and John Bourne, the dynamic duo behind Holderness & Bourne. What started as a"
   },
   {
-    "title": "Weekly Challenge: Peak Visitors",
-    "link": "https://dev.to/simongreennet/weekly-challenge-peak-visitors-3lei",
-    "pubDate": "Sun, 02 Nov 2025 12:31:06 +0000",
+    "title": "Offline-First Kiosk: Lessons from the Field",
+    "link": "https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e",
+    "pubDate": "Sun, 02 Nov 2025 18:07:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Weekly Challenge 345\n\n\nEach week Mohammad S. Anwar sends out The Weekly Challenge, a chance for all of us to come up with solutions to two weekly tasks. My solutions are written in Python first, and t"
+    "contentSnippet": "When \"Impossible\" Becomes \"Deployed\"\n\n\nPicture this: You have a tight deadline to build a production-ready kiosk application. It needs to work offline, handle outdated hardware, be completely locked d"
   },
   {
-    "title": "What Do Executives Need to Know About AGI vs AI Right Now?",
-    "link": "https://dev.to/jay_all_day/what-do-executives-need-to-know-about-agi-vs-ai-right-now-5gnd",
-    "pubDate": "Sun, 02 Nov 2025 12:29:23 +0000",
+    "title": "Trace Anything: Representing Any Video in 4D via Trajectory Fields",
+    "link": "https://dev.to/paperium/trace-anything-representing-any-video-in-4d-via-trajectory-fields-19fj",
+    "pubDate": "Sun, 02 Nov 2025 18:00:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AGI vs AI drives the conversation about today's intelligent tools. On one hand, narrow AI recommends shows and writes emails. However, AGI is the promise of a single system that understands, learns, a"
+    "contentSnippet": "Watch Any Video Like a 4‑D Map – The “Trace Anything” Breakthrough\n\n\nEver wondered how a single frame could remember its whole story? Scientists have created a new way to see every pixel in a video as"
   },
   {
-    "title": "Using “ibm-granite/granite-speech-3.3–8b” 🪨 for ASR",
-    "link": "https://dev.to/aairom/using-ibm-granitegranite-speech-33-8b-for-asr-8ea",
-    "pubDate": "Sun, 02 Nov 2025 12:26:01 +0000",
+    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-40b5",
+    "pubDate": "Sun, 02 Nov 2025 18:00:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What you need to know using granite-speech-3.3–8b\n\nLarge Language Models (LLMs), originally popularized for natural language tasks like generation and summarization, are increasingly being adapted to "
+    "contentSnippet": "CinemaSins just dropped “Everything Wrong With Longlegs in 24 Minutes or Less,” a rapid-fire roast of Nicolas Cage’s over-the-top performance in Longlegs—legs and all—timed perfectly before Osgood Per"
   },
   {
-    "title": "FlashWorld: High-quality 3D Scene Generation within Seconds",
-    "link": "https://dev.to/paperium/flashworld-high-quality-3d-scene-generation-within-seconds-44lk",
-    "pubDate": "Sun, 02 Nov 2025 12:10:49 +0000",
+    "title": "HacktoberFest: Return to Animation",
+    "link": "https://dev.to/jarvisscript/hacktoberfest-return-to-animation-i1d",
+    "pubDate": "Sun, 02 Nov 2025 18:00:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "FlashWorld: Turning a Single Photo into a 3‑D World in Seconds\n\n\nEver imagined snapping a picture and instantly stepping inside it? FlashWorld makes that magic real.\nScientists found that this breakth"
+    "contentSnippet": "This is a submission for the 2025 Hacktoberfest Writing Challenge: Contribution Chronicles\nAnother HacktoberFest has ended. I completed the challenge and met the new goal of 6 Pull Requests accepted f"
   },
   {
-    "title": "Everything You Need to Know About AI — In One Repository",
-    "link": "https://dev.to/dhanushnehru/everything-you-need-to-know-about-ai-in-one-repository-2fd5",
-    "pubDate": "Sun, 02 Nov 2025 12:08:33 +0000",
+    "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-22p9",
+    "pubDate": "Sun, 02 Nov 2025 18:00:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you've ever felt overwhelmed by the endless maze of AI tools, courses, frameworks and research papers scattered across the internet, you're not alone.\nI've spent months curating what might be the m"
+    "contentSnippet": "Predator – Caravan of Garbage kicks off a four-week deep dive into the first four Predator movies, starting with the 1987 Schwarzenegger original. The hosts hail it as the peak of ’80s action-sci-fi, "
   },
   {
-    "title": "Flutter Development Setup for WSL2 + Windows Android Studio (Complete Guide)",
-    "link": "https://dev.to/abdullahyasir/flutter-development-setup-for-wsl2-windows-android-studio-complete-guide-4493",
-    "pubDate": "Sun, 02 Nov 2025 12:07:49 +0000",
+    "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2op4",
+    "pubDate": "Sun, 02 Nov 2025 18:00:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you love using WSL2 for development but also need Android Studio on Windows — this guide is for you.\n\nThis setup runs Flutter (via FVM) natively inside WSL2, while all Android tools (SDK, Studio, e"
+    "contentSnippet": "Predator 2 – Caravan of Garbage\n\n\nPredator 2 cranks up the action in 1990’s Los Angeles, swapping Schwarzenegger’s jungle showdown for Danny Glover battling a fresh, deadlier Predator amid a citywide "
   },
   {
     "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
@@ -75,6 +75,13 @@
     "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT",
     "source": "Zenn",
     "contentSnippet": "Reactにおいてプロダクトの品質を高く保つには、Reactのやり方に合ったコードを書くことが重要です。公式ドキュメントの名物ページ「そのエフェクトは不要かも」には、useEffectの望ましくない使い方と、それに代わるテクニックが紹介されています。\nこの記事で取り上げるのは、その中でも「props が変更されたときに一部の state を調整する」のセクションで紹介されている、レンダリング中にス"
+  },
+  {
+    "title": "AI加速時代のQAエンジニア：開発スピードと品質のバランス戦略",
+    "link": "https://zenn.dev/pivotmedia/articles/ai-driven-development-qa-challenge",
+    "pubDate": "Sun, 02 Nov 2025 01:01:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "AI加速時代におけるQAエンジニアの生存戦略 ― PIVOTでの実践から\nビジネス映像メディア「PIVOT」でQAエンジニアをしているケイスケです。\n本記事では、AIによる開発工程の加速に直面したとき、QAエンジニアがどのように適応していくか。\nそして、PIVOTというプロダクトで実際にどう取り組んでいるのかをお伝えします。\n\n\n 1. はじめに：AIが加速する開発と取り残されるテスト工程\nGit"
   },
   {
     "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
@@ -180,13 +187,6 @@
     "pubDate": "2025-10-31T10:18:53.000Z",
     "source": "Qiita",
     "contentSnippet": "背景\n私は私生活ではMacbookを使っているのですが、以前、記事を執筆するときにWindows環境が必要になり、\n（昔使ってたPCを引っ張り出すのも面倒だな…）と思っていたら1日100円くらいで使えたので、その紹介です。\n※最安で1日87円は記事執筆時点\n参考：以前執筆..."
-  },
-  {
-    "title": "\"ホテルエンジニア\"として半年間やったことをまとめてみた",
-    "link": "https://zenn.dev/7garden/articles/da654bf0684c89",
-    "pubDate": "Fri, 31 Oct 2025 08:50:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nはじめまして。株式会社7gardenでテックリードを担当しているKeitaです。\nこれまでテックカルチャー寄りの企業でソフトウェアエンジニアとしてキャリアを重ねてきた自分が、ホテル企画・運営を専門とする会社で働き始めてから半年ほど経ちました。\n自称\"ホテルエンジニア\"の活動記録をご覧ください。\n\n 入社の経緯\nまずは入社の経緯がてらの自己紹介として、元々自分はオンライン完結のプロダクトと"
   },
   {
     "title": "【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技10選",

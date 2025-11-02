@@ -1,73 +1,73 @@
 [
   {
-    "title": "Java String codePointCount() Explained: Taming Emojis & Complex Text",
-    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f",
-    "pubDate": "Sun, 02 Nov 2025 06:20:49 +0000",
+    "title": "Diving into Uniface 10.4: A Simple Guide to the $ude(\"load\") Function 🚀",
+    "link": "https://dev.to/petercode/diving-into-uniface-104-a-simple-guide-to-the-udeload-function-jp5",
+    "pubDate": "Sun, 02 Nov 2025 12:39:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Java String codePointCount() Explained: Taming Emojis & Complex Text\n\n\nAlright, let's talk about one of those Java topics that seems simple until it isn't. You're building a cool app, maybe a social m"
+    "contentSnippet": "Hey everyone! 👋 Today, we're going to explore a handy function in the Uniface 10.4 low-code platform: $ude(\"load\"). If you've ever needed to programmatically inspect the inner workings of your compil"
   },
   {
-    "title": "Mastering the IELTS Speaking Test: Tips, Structure, and Strategies",
-    "link": "https://dev.to/mentorslearning/mastering-the-ielts-speaking-test-tips-structure-and-strategies-596p",
-    "pubDate": "Sun, 02 Nov 2025 06:19:26 +0000",
+    "title": "Demystifying Uniface 10.4: Importing Symbol Tables with $ude 🚀",
+    "link": "https://dev.to/petercode/demystifying-uniface-104-importing-symbol-tables-with-ude-45ba",
+    "pubDate": "Sun, 02 Nov 2025 12:39:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The IELTS Speaking Test is one of the most crucial components of the IELTS exam, designed to assess your English speaking ability in a real-life context. Unlike other sections of the IELTS, the speaki"
+    "contentSnippet": "Disclaimer: This blog post was drafted with the assistance of an AI to help explain technical documentation in a simple and clear way.\nHey everyone! 👋 If you've ever worked on a large, mature Uniface"
   },
   {
-    "title": "Unlocking Developer Revenue: Monetize Your LLM Apps with AI Conversations",
-    "link": "https://dev.to/monetzly/unlocking-developer-revenue-monetize-your-llm-apps-with-ai-conversations-2o2n",
-    "pubDate": "Sun, 02 Nov 2025 06:17:00 +0000",
+    "title": "Docker Use Case and Containerization of a Website 📦",
+    "link": "https://dev.to/hamidrazadev/docker-use-case-and-containerization-of-a-website-4i4a",
+    "pubDate": "Sun, 02 Nov 2025 12:38:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Unlocking Sustainable Revenue: Why 90% of AI Apps Fail to Monetize Effectively\n\n\nAs a developer in the booming AI landscape, you’re likely facing a common hurdle: monetization. Did you know that appro"
+    "contentSnippet": "Ever heard someone say, “It works on my machine!”? That phrase has probably caused more headaches than slow Wi-Fi during a Zoom meeting. Luckily, Docker came to the rescue. It’s like packing your webs"
   },
   {
-    "title": "Exploring Next.js 16 File System Conventions",
-    "link": "https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk",
-    "pubDate": "Sun, 02 Nov 2025 06:09:07 +0000",
+    "title": "25 CSS Projects for Beginners (with Source Code)",
+    "link": "https://dev.to/djamware_tutorial_eba1a61/25-css-projects-for-beginners-with-source-code-3dke",
+    "pubDate": "Sun, 02 Nov 2025 12:35:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "📂 Exploring Next.js 16 File System Conventions\n\n\nI recently started playing with Next.js 16 experimental features, especially the new file-system conventions.\n\nAt first glance, it might seem like a s"
+    "contentSnippet": "CSS is one of the most powerful tools for crafting modern, responsive, and visually appealing web designs. In this tutorial, you’ll find 25 creative CSS projects ranging from animated loaders and stic"
   },
   {
-    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)",
-    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a",
-    "pubDate": "Sun, 02 Nov 2025 06:06:20 +0000",
+    "title": "Weekly Challenge: Peak Visitors",
+    "link": "https://dev.to/simongreennet/weekly-challenge-peak-visitors-3lei",
+    "pubDate": "Sun, 02 Nov 2025 12:31:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I took on the head pro at Carlisle GC in a £1,000 winner-takes-all match, with huge thanks to Titleist for backing the series, supporting club pros across the British Isles—and even pitching in to fun"
+    "contentSnippet": "Weekly Challenge 345\n\n\nEach week Mohammad S. Anwar sends out The Weekly Challenge, a chance for all of us to come up with solutions to two weekly tasks. My solutions are written in Python first, and t"
   },
   {
-    "title": "I'm Building an AI Agent That Automates Competitor Research",
-    "link": "https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie",
-    "pubDate": "Sun, 02 Nov 2025 06:03:32 +0000",
+    "title": "What Do Executives Need to Know About AGI vs AI Right Now?",
+    "link": "https://dev.to/jay_all_day/what-do-executives-need-to-know-about-agi-vs-ai-right-now-5gnd",
+    "pubDate": "Sun, 02 Nov 2025 12:29:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As a cybersecurity analyst and a weekend dev, I'm obsessed with automation. I love finding tedious, manual tasks and building tools to make them disappear. Recently, I've been focused on one of the mo"
+    "contentSnippet": "AGI vs AI drives the conversation about today's intelligent tools. On one hand, narrow AI recommends shows and writes emails. However, AGI is the promise of a single system that understands, learns, a"
   },
   {
-    "title": "Building a GPT-5 Telegram Bot with Telegram Stars Monetization",
-    "link": "https://dev.to/king_triton/building-a-gpt-5-telegram-bot-with-telegram-stars-monetization-5g7c",
-    "pubDate": "Sun, 02 Nov 2025 06:01:04 +0000",
+    "title": "Using “ibm-granite/granite-speech-3.3–8b” 🪨 for ASR",
+    "link": "https://dev.to/aairom/using-ibm-granitegranite-speech-33-8b-for-asr-8ea",
+    "pubDate": "Sun, 02 Nov 2025 12:26:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nHave you ever wanted to provide AI-powered services but found ChatGPT's $20/month subscription too expensive for casual users? I built a Telegram bot that offers GPT-5 access for just 1"
+    "contentSnippet": "What you need to know using granite-speech-3.3–8b\n\nLarge Language Models (LLMs), originally popularized for natural language tasks like generation and summarization, are increasingly being adapted to "
   },
   {
-    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-51fd",
-    "pubDate": "Sun, 02 Nov 2025 06:00:42 +0000",
+    "title": "FlashWorld: High-quality 3D Scene Generation within Seconds",
+    "link": "https://dev.to/paperium/flashworld-high-quality-3d-scene-generation-within-seconds-44lk",
+    "pubDate": "Sun, 02 Nov 2025 12:10:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less is CinemaSins’ latest takedown of Nicolas Cage’s delightfully over-the-top performance in Longlegs—complete with every absurdity and “sin” you can "
+    "contentSnippet": "FlashWorld: Turning a Single Photo into a 3‑D World in Seconds\n\n\nEver imagined snapping a picture and instantly stepping inside it? FlashWorld makes that magic real.\nScientists found that this breakth"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2928",
-    "pubDate": "Sun, 02 Nov 2025 06:00:34 +0000",
+    "title": "Everything You Need to Know About AI — In One Repository",
+    "link": "https://dev.to/dhanushnehru/everything-you-need-to-know-about-ai-in-one-repository-2fd5",
+    "pubDate": "Sun, 02 Nov 2025 12:08:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less is CinemaSins’ latest Halloween special, playfully tearing into (and celebrating) one of the year’s best genre films. In under 15 minutes they rack "
+    "contentSnippet": "If you've ever felt overwhelmed by the endless maze of AI tools, courses, frameworks and research papers scattered across the internet, you're not alone.\nI've spent months curating what might be the m"
   },
   {
-    "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-52k9",
-    "pubDate": "Sun, 02 Nov 2025 06:00:23 +0000",
+    "title": "Flutter Development Setup for WSL2 + Windows Android Studio (Complete Guide)",
+    "link": "https://dev.to/abdullahyasir/flutter-development-setup-for-wsl2-windows-android-studio-complete-guide-4493",
+    "pubDate": "Sun, 02 Nov 2025 12:07:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Over the next month the Weekly Planet crew kicks off a four-week deep dive into the Predator franchise, starting with John McTiernan’s 1987 original starring Arnold Schwarzenegger. They hail Predator "
+    "contentSnippet": "If you love using WSL2 for development but also need Android Studio on Windows — this guide is for you.\n\nThis setup runs Flutter (via FVM) natively inside WSL2, while all Android tools (SDK, Studio, e"
   },
   {
     "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
@@ -75,6 +75,13 @@
     "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT",
     "source": "Zenn",
     "contentSnippet": "Reactにおいてプロダクトの品質を高く保つには、Reactのやり方に合ったコードを書くことが重要です。公式ドキュメントの名物ページ「そのエフェクトは不要かも」には、useEffectの望ましくない使い方と、それに代わるテクニックが紹介されています。\nこの記事で取り上げるのは、その中でも「props が変更されたときに一部の state を調整する」のセクションで紹介されている、レンダリング中にス"
+  },
+  {
+    "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
+    "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-01T13:59:29.000Z",
+    "source": "Qiita",
+    "contentSnippet": "OSS監視ツール徹底比較：あなたの環境に合う選択はどれか\n\nはじめに\nクラウドネイティブ化、マルチクラウド、マイクロサービスアーキテクチャの普及により、システムの複雑性は飛躍的に増大しています。こうした環境において、適切な監視ツールの選定は、システムの安定稼働とビジネスの..."
   },
   {
     "title": "カレントディレクトリとは何か  (Unix系OSの場合)",
@@ -103,6 +110,13 @@
     "pubDate": "Sat, 01 Nov 2025 08:39:26 GMT",
     "source": "Zenn",
     "contentSnippet": "1. はじめに\n株式会社 neoAI 26新卒入社の上原将磨です。AI ソリューション事業部でAIプロダクトの開発に携わっています。\n突然ですが、Slackでこんなふうにタスクを依頼されること、ありませんか？\n\nこういうときに「このままNotionに自動で入ってくれたらいいのに」と思っていました。\nそこで開発したのがこのTask Botです。\n\nスレッドでメンションするだけでNotionにタスクの"
+  },
+  {
+    "title": "Amazon Q Developer CLIが教えてくれた`git clean -fdX`という神コマンド",
+    "link": "https://qiita.com/torifukukaiou/items/e7434f22041b0cbd7685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-01T08:17:13.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Qiita Advent Calendar 2025\n今年もこの季節がいよいよ始まりました \n誰よりもこの日を待ちわびていたと自負しております。\n2024年12月26日から首を長くして楽しみにしておりました。\n \n\nはじめに\nCDKプロジェクトの検証中、「出..."
   },
   {
     "title": "React学習ログ No.15",
@@ -140,13 +154,6 @@
     "contentSnippet": "はじめに\n先週（10/27週）に開催されたTailscaleの2025年秋アップデートウィーク。1週間にわたって毎日新しいアップデートが発表され、合計8個の新機能や改善が公開されました。\nその内容は、「ネットワーク管理の簡素化」から「CI/CDとの安全な連携」、さらには「Tailscale自体を認証基盤として使う」といった、Tailscaleが単なる接続ツールから「開発・運用のためのプラットフォー"
   },
   {
-    "title": "ガバメントクラウド運用改善からSaaS製品開発へ",
-    "link": "https://qiita.com/infra365/items/fd0645622d5b6f0ece00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T02:59:48.000Z",
-    "source": "Qiita",
-    "contentSnippet": "昨日、ガバメントクラウドワークショップin大阪で登壇させていただいた内容になります。ガバメントクラウドを運用していく中での課題解決からSaaSサービス開発に繋げた話を記載させていただきます。\n\n運用していく中での課題\n現在、自治体標準化において、ガバメントクラウド環境の構築..."
-  },
-  {
     "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",
     "link": "https://zenn.dev/sunagaku/articles/c5affee1871afb",
     "pubDate": "Fri, 31 Oct 2025 23:29:15 GMT",
@@ -154,11 +161,25 @@
     "contentSnippet": "はじめに\n2025年10月30日〜31日に開催された 「AI駆動開発 Conference Autumn 2025」 に参加してきました。\nhttps://aid.connpass.com/event/367698/\n2日間にわたるイベントを通して、AIを活用した開発の最前線・現場での実践知について、沢山の学びと気づきを得られました。\n本記事では、その中でも特に印象に残った内容を、備忘録としてまと"
   },
   {
+    "title": "便利なvimテクニック",
+    "link": "https://qiita.com/rmatttu/items/2c696c70b812f0c87caa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T14:47:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "内容\n個人的なvimテクニックまとめです。vimを使っていて、後輩に「そんな機能あるんだ」と驚かれたもので、意外に知られていない便利機能をまとめました。\n\nコマンド\n\n次の空行に移動\n\nNormalモード中に{, }\n\n{: 前の空行へ移動\n\n}: 次の空行へ移動\n関数..."
+  },
+  {
     "title": "IT業界、特にセキュリティ業界は「個人のスキル」よりも、どこに所属しているかで大きく変わる話",
     "link": "https://qiita.com/yamada_sec/items/6227a30eb584e10d6f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-31T14:13:50.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n1年前、私はこちらの記事をQiitaに書きました。\n\nあの頃はちょうど転職が決まり、\nようやくスタートラインに立てたという安堵と期待の中で記事を書いていました。\nそれから1年。\n環境が変わり、立場が変わり、見える景色も大きく変わりました。\nIT業界、特にセキ..."
+  },
+  {
+    "title": "Macbookでも1日87円でお手軽にWindows環境を使う（2025年）",
+    "link": "https://qiita.com/t2murata/items/46405d5f616b032236ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T10:18:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "背景\n私は私生活ではMacbookを使っているのですが、以前、記事を執筆するときにWindows環境が必要になり、\n（昔使ってたPCを引っ張り出すのも面倒だな…）と思っていたら1日100円くらいで使えたので、その紹介です。\n※最安で1日87円は記事執筆時点\n参考：以前執筆..."
   },
   {
     "title": "\"ホテルエンジニア\"として半年間やったことをまとめてみた",
@@ -175,39 +196,18 @@
     "contentSnippet": "はじめに\n「数万行のログを目で追っていませんか？」\n「急な障害調査、どこから手をつけていいか焦った経験はありませんか？」\n「キーワードを探すのにプロジェクト全体を一つずつ開いていませんか？」\n現場に入りたての頃、誰もが一度は経験するこんな「調査の泥沼」。実は、grepコマ..."
   },
   {
+    "title": "新米エンジニアが知っておきたい『リーン・スタートアップ』実践ガイド",
+    "link": "https://qiita.com/GIFCat/items/47c68bf85d536703fbe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T00:31:00.000Z",
+    "source": "Qiita",
+    "contentSnippet": "新米エンジニアが知っておきたい『リーン・スタートアップ』実践ガイド\n\nはじめに\n先日の記事で、iwashiさんも薦める『リーン・スタートアップ』についてご紹介します。エリック・リースが提唱した、不確実性の高い状況で新しいプロダクトやサービスを開発するための方法論です。この..."
+  },
+  {
     "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
     "link": "https://qiita.com/keitah/items/d41b0888cf7b8b01616d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-30T14:36:31.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nTerraformとAWS SAM（Serverless Application Model）を組み合わせることで、インフラストラクチャとアプリケーションの責務を明確に分離し、チーム別の適切な権限管理とセキュアなIaC運用を実現できます。\n\nこの構成の核心的なメ..."
-  },
-  {
-    "title": "【実例付き】Claude × Clineで数時間でWebアプリ開発！無料企画→自動実装の完全ガイド",
-    "link": "https://qiita.com/tomota53/items/a79befc442689c3204d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T10:42:13.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n「アイデアはあるけど、コーディングに時間がかかる...」\n「プロトタイプを素早く作りたい！」\nそんな悩みを解決する、AI活用の実践的な開発フローを紹介します。\n本記事では、無料のClaudeで企画・設計を行い、VSCode + Cline + Claude AI..."
-  },
-  {
-    "title": "【レベル1】Power Automate × Office スクリプトで稼働入力表を自動作成する",
-    "link": "https://qiita.com/sonooh/items/2759f1cd8ca2afd8b668?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T00:35:04.000Z",
-    "source": "Qiita",
-    "contentSnippet": "PowerAutomate から特定の Office ファイルの Office スクリプトを実行する、ということをこれまでやってこなかったので、自身の勉強がてらタイトルの取り組みをしてみることにしました。\nもちろんチュートリアルを読めば何ができるかは一通り書いてあるのですが..."
-  },
-  {
-    "title": "エンジニアを褒めるだけ(通勤中に見てください)",
-    "link": "https://qiita.com/mythree/items/1ea3aba59ecb61af3d12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T23:59:09.000Z",
-    "source": "Qiita",
-    "contentSnippet": "※エンジニアの皆さんは、読んでいる途中で処理落ちするかもしれませんが、正常な動作です。\nあまり深く考えず、ふわっと理解した！くらいで大丈夫です。\nこの記事はゴリゴリ感性で書いています。\n\n初めまして、ゆりと申します！\n現在、情報システム兼ちょっとエンジニアのお手伝いとして..."
-  },
-  {
-    "title": "Bedrock AgentCoreとAmplifyでAI SDK + Next.jsなAIエージェントをスタイリッシュにホストする方法",
-    "link": "https://qiita.com/moritalous/items/ea695f8a328585e1313b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T23:09:34.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Bedrock AgentCoreとAmplifyを組み合わせてAIアプリを作りたい場合、こんな構成が思いつくと思います。AI SDK、めっちゃ便利ですよね。\n\nただ、このアーキテクチャだと、Amplify Histingの制約により ストリーム出力ができません。\n\n我..."
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",

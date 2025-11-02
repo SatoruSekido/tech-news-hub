@@ -1,73 +1,122 @@
 [
   {
-    "title": "Checkout my new post!",
-    "link": "https://dev.to/jay_sheth/checkout-my-new-post-1k10",
-    "pubDate": "Sat, 01 Nov 2025 18:06:17 +0000",
+    "title": "Most developers make the mistake of storing prompts in random notes. A serious prompt engineer treats prompts like reusable components.",
+    "link": "https://dev.to/jaideepparashar/most-developers-make-the-mistake-of-storing-prompts-in-random-notes-a-serious-prompt-engineer-2mle",
+    "pubDate": "Sun, 02 Nov 2025 02:00:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud (Step-by-Step with Screenshots)\nJay Sheth ・ Nov 1"
-  },
-  {
-    "title": "Danny Maude: 3 Golf Swing Tips That I Wish I'd Told You Sooner",
-    "link": "https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9",
-    "pubDate": "Sat, 01 Nov 2025 18:06:10 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "3 Golf Swing Tips That I Wish I'd Told You Sooner\n\n\nIn this quick, 6-minute practice plan, Danny Maude debunks the “8–10 hours a day” myth and shows how just a few simple drills each session can build"
-  },
-  {
-    "title": "🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud (Step-by-Step with Screenshots)",
-    "link": "https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi",
-    "pubDate": "Sat, 01 Nov 2025 18:04:49 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Load balancing is an essential part of modern cloud architectures --- it helps distribute traffic across multiple backend instances, ensuring reliability, scalability, and performance.\nIn this tutoria"
-  },
-  {
-    "title": "⚡ Why Vite Feels So Fast — and What You No Longer Need to Configure Manually",
-    "link": "https://dev.to/vishwark/why-vite-feels-so-fast-and-what-you-no-longer-need-to-configure-manually-5g9b",
-    "pubDate": "Sat, 01 Nov 2025 18:02:14 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "If you’ve worked with Webpack before, you probably remember how much setup it needed — loaders, plugins, split chunks, environment variables, and more.\nVite, and suddenly the dev experience felt insta"
-  },
-  {
-    "title": "Smart Form Submissions: Only Send Changed Data with WebForms Core 2",
-    "link": "https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3",
-    "pubDate": "Sat, 01 Nov 2025 18:00:42 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "As you know, we at Elanat are developing version 2 of WebForms Core technology with a focus on the developer experience. This version is supposed to be a milestone in simplifying and optimizing web de"
-  },
-  {
-    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1nh4",
-    "pubDate": "Sat, 01 Nov 2025 18:00:41 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less\n\n\nCinemaSins takes a fun, nitpicky dive into Longlegs, roasting Nicolas Cage’s over-the-top performance and marveling at, you guessed it, those ins"
-  },
-  {
-    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-26p4",
-    "pubDate": "Sat, 01 Nov 2025 18:00:32 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "CinemaSins just dropped a Halloween-ready “Everything Wrong With…” video that rips into one of the year’s best genre films in just 15 minutes—because even the greatest movies leave room for a few sins"
-  },
-  {
-    "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-n07",
-    "pubDate": "Sat, 01 Nov 2025 18:00:19 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "These folks are kicking off a four-week deep dive into the first four Predator movies, starting with the 1987 Schwarzenegger classic. They rave that Predator is pure 80s action sci-fi perfection—think"
+    "contentSnippet": "Building a Prompt Engineering Toolkit for Developers\nJaideep Parashar ・ Nov 2\n#webdev\n        #promptengineering\n        #ai\n        #productivity"
   },
   {
     "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-ee3",
-    "pubDate": "Sat, 01 Nov 2025 18:00:08 +0000",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-3bm6",
+    "pubDate": "Sun, 02 Nov 2025 02:00:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predator 2 – Caravan of Garbage dives out of the jungle and into a sweltering, crime-ridden Los Angeles where Danny Glover replaces Schwarzenegger at the center of the hunt. With the city in the grip "
+    "contentSnippet": "Predator 2 – Caravan of Garbage takes the hunt from the jungle to the neon-soaked streets of 1990s Los Angeles, swapping Schwarzenegger for Danny Glover as a city detective battling a deadlier new Pre"
   },
   {
-    "title": "How modern dev servers decide what to rebuild - a minimal engine",
-    "link": "https://dev.to/alessiopelliccione/how-modern-dev-servers-decide-what-to-rebuild-a-minimal-engine-4ol",
-    "pubDate": "Sat, 01 Nov 2025 17:52:28 +0000",
+    "title": "Building a Prompt Engineering Toolkit for Developers",
+    "link": "https://dev.to/jaideepparashar/building-a-prompt-engineering-toolkit-for-developers-2f8o",
+    "pubDate": "Sun, 02 Nov 2025 01:58:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "by Alessio Pelliccione\nSome days ago at work, I was writing a small dynamic script to trigger a build for a single file. While doing that, I suddenly wondered: how do modern build tools actually work "
+    "contentSnippet": "Prompt engineering is no longer just a “writing skill”; it has become a core developer skill, especially for those building AI-powered products, automations, or internal tools.\nBut to work efficiently"
+  },
+  {
+    "title": "Step-by-step Installation guide for Ruby",
+    "link": "https://dev.to/imlakshay08/step-by-step-installation-guide-for-ruby-3co5",
+    "pubDate": "Sun, 02 Nov 2025 01:49:57 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Installing Ruby on Xubuntu (My Notes from The Odin Project)\n\n\nBefore jumping into Ruby on Rails, we first need to set up Ruby itself.\n\nIt sounds simple, but trust me — this step can get messy if you s"
+  },
+  {
+    "title": "⚡ Brisk — Text-to-Speech Web App 🗣️ Convert text into natural-sounding speech in seconds.",
+    "link": "https://dev.to/sripadh_sujith_1487e8db18/brisk-text-to-speech-web-app-convert-text-into-natural-sounding-speech-in-seconds-d2c",
+    "pubDate": "Sun, 02 Nov 2025 01:23:26 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "💡 Inspiration\n\n\nWe often come across situations where reading long paragraphs or notes becomes tiring — whether it’s studying, accessibility needs, or multitasking.\nOur goal was to build something si"
+  },
+  {
+    "title": "Terraform Basics – Week 1: Deploying Your First Azure VM",
+    "link": "https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86",
+    "pubDate": "Sun, 02 Nov 2025 01:22:59 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Table of Contents\n1. Intro\n2. Prerequisites\n3. What We’re Building This Week\n4. Creating Our Folder and File Structure\n5. Why Multiple .tf Files\n6. Step by Step Implementation\na) providers.tf\nb) resou"
+  },
+  {
+    "title": "R2E APIのデモUIを作りました！Next.js + Render でバックエンド連携する実装記",
+    "link": "https://dev.to/beachone1155/r2e-apinodemouiwozuo-rimasitanextjs-render-debatukuendolian-xi-surushi-zhuang-ji-2j24",
+    "pubDate": "Sun, 02 Nov 2025 01:19:51 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "はじめに\n\n\n以前 Research→Experience API を作りました という記事で、FastAPI + PostgreSQL(pgvector) で「ビジネス課題 → 関連論文探索 → 示唆」を返す API を紹介しました。\n今回は、この API を体験できるフロントエンド UI を Next.js（Vercel）ブログの /portfolio/r2e に追加した実装記です。バックエン"
+  },
+  {
+    "title": "The 7 Paid Subscriptions I Use in 2025 as a Freelance Software Developer",
+    "link": "https://dev.to/nnash/the-7-paid-subscriptions-i-use-in-2025-as-a-freelance-software-developer-285k",
+    "pubDate": "Sun, 02 Nov 2025 01:10:12 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "(And Why I Don’t Regret Paying for a Single One)\nFreelancing in tech is exciting—but it’s also chaotic. Between managing clients, writing clean code, building personal projects, and trying to market y"
+  },
+  {
+    "title": "Browser scrollbar color in the Dark mode.",
+    "link": "https://dev.to/whyang9701/browser-scrollbar-color-in-the-dark-mode-29db",
+    "pubDate": "Sun, 02 Nov 2025 01:08:18 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "SoybeenAdmin is a dashboard template built with Vue 3, Pinia, and TypeScript. With 13.3k stars and 2.3k forks, it is a popular project.\nI fixed a bug where the scrollbar color didn't switch to light w"
+  },
+  {
+    "title": "Daily Artificial Intelligence Digest - Nov 02, 2025",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-02-2025-2o9m",
+    "pubDate": "Sun, 02 Nov 2025 01:05:44 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Industry Trends & Resource Demands\n\n\nOpenAI's rapid growth exemplifies the robust expansion of the AI sector, with significant revenue forecast signaling strong market confidence. This growth is mirro"
+  },
+  {
+    "title": "カレントディレクトリとは何か  (Unix系OSの場合)",
+    "link": "https://zenn.dev/qnighy/articles/c6653eaf49a21a",
+    "pubDate": "Sat, 01 Nov 2025 13:08:39 GMT",
+    "source": "Zenn",
+    "contentSnippet": "結論\nカレントディレクトリ (以下cwd) は、以下の2つの組み合わせで管理される、プロセス状態の構成要素です。\n\n\n物理的なcwd: ディレクトリそのものを指すポインタ。カーネル側で管理される。\n\n論理的なcwd: ディレクトリパス。 PWD という名前の環境変数を経由して、ユーザーランドで管理される。\n\n\n ポイント\n一般論として、ファイルを特定する方法には、ファイルへのポインタを保持する方法"
+  },
+  {
+    "title": "Claude Code on the Webの仕様を徹底解剖",
+    "link": "https://zenn.dev/oikon/articles/claude-code-web-sandbox",
+    "pubDate": "Sat, 01 Nov 2025 09:01:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n\n2025年11月1日時点のClaude Code on the Web環境の調査結果です\n記事執筆時点でのClaude Code on the WebのClaude Codeのバージョンは2.0.25でした\nすでにSandboxの挙動が変わっているのを確認しています。実際の挙動は手元の環境で試してみてください\n\n\nOikonです。普段はAIツール、特にClaude Codeで遊んでいます。\n"
+  },
+  {
+    "title": "「Slackの会話」を「Notionタスク」に変換するAIツールを作ってみた！",
+    "link": "https://zenn.dev/neoai/articles/48ecdf48c51470",
+    "pubDate": "Sat, 01 Nov 2025 08:39:26 GMT",
+    "source": "Zenn",
+    "contentSnippet": "1. はじめに\n株式会社 neoAI 26新卒入社の上原将磨です。AI ソリューション事業部でAIプロダクトの開発に携わっています。\n突然ですが、Slackでこんなふうにタスクを依頼されること、ありませんか？\n\nこういうときに「このままNotionに自動で入ってくれたらいいのに」と思っていました。\nそこで開発したのがこのTask Botです。\n\nスレッドでメンションするだけでNotionにタスクの"
+  },
+  {
+    "title": "React学習ログ No.15",
+    "link": "https://qiita.com/maedaHARUYA/items/ab46d60ca92d8ca82087?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-01T08:00:21.000Z",
+    "source": "Qiita",
+    "contentSnippet": "React状態管理「Recoil」学習メモ\n\n1. Recoilとは\n\nReact用状態管理ライブラリ\n\n2. 環境構築\n\nインストール:\nnpm i recoil\n# または\nyarn add recoil\n\n設定:\n\nアプリケーションのルート（index.js..."
+  },
+  {
+    "title": "個人的にあまり使えていないC#の機能",
+    "link": "https://zenn.dev/prozolic/articles/3a3a416339566e",
+    "pubDate": "Sat, 01 Nov 2025 06:01:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n今回は、C#の機能で個人的に便利だと思うけど、使用できていない機能やどうやって使用するかよく忘れる機能をまとめました。必ずしもこの機能が良い悪いとかではないですが、ライブラリなどのソースを読んでいるときふと出てきた際に思考停止しないようしたいので、インプットも兼ねてまとめました。\n!\nあくまで私が「使えていないな」「よく忘れがちだな」と思う機能になります。\n\n\n 属性の省略可能プロパティ"
+  },
+  {
+    "title": "JAWS FESTA 2025 in 金沢  参加レポート",
+    "link": "https://qiita.com/yakumo_09/items/94848ed1297be3d20e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-01T05:31:48.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\n今回は2025年10月11日(土)に開催された、JAWS FESTA 2025 in 金沢について振り返っていこうと思います。\n運営としても、登壇者としても関わることのできたカンファレンスでたくさんの想いがあるので、ここに書いていこうと思います。\n\nJAWSF..."
+  },
+  {
+    "title": "ガバメントクラウド運用改善からSaaS製品開発へ",
+    "link": "https://qiita.com/infra365/items/fd0645622d5b6f0ece00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-01T02:59:48.000Z",
+    "source": "Qiita",
+    "contentSnippet": "昨日、ガバメントクラウドワークショップin大阪で登壇させていただいた内容になります。ガバメントクラウドを運用していく中での課題解決からSaaSサービス開発に繋げた話を記載させていただきます。\n\n運用していく中での課題\n現在、自治体標準化において、ガバメントクラウド環境の構築..."
   },
   {
     "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",
@@ -82,27 +131,6 @@
     "pubDate": "2025-10-31T14:13:50.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n1年前、私はこちらの記事をQiitaに書きました。\n\nあの頃はちょうど転職が決まり、\nようやくスタートラインに立てたという安堵と期待の中で記事を書いていました。\nそれから1年。\n環境が変わり、立場が変わり、見える景色も大きく変わりました。\nIT業界、特にセキ..."
-  },
-  {
-    "title": "仮想DOMとは？",
-    "link": "https://qiita.com/generoKoki/items/664b440dd5848d3410cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T11:28:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nchibivueをやっており仮想DOMの内容についてふんわりとした理解しかなく\nイマイチ理解が進まなかったので理解深めるために調べたので備忘録です。\n\n仮想DOMとは？\n最初に結論から言うと、仮想DOMとは\n「JavaScriptオブジェクトで表現されたDOMの..."
-  },
-  {
-    "title": "【Dify】ナレッジパイプライン調査レポート1/3 - ドキュメント内画像データの挙動検証",
-    "link": "https://zenn.dev/upgradetech/articles/b8b6f0b18411c1",
-    "pubDate": "Fri, 31 Oct 2025 10:11:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nLLMアプリケーション開発プラットフォーム「Dify」に、ナレッジ作成におけるデータ処理ワークフローを自動化する新機能「ナレッジパイプライン」が実装されました。\n実際に検証したところ、いくつか注目すべき技術的テーマが見えてきました。今回はその中でも以下三つのテーマに注目して、それぞれを深掘りしていく予定です。\n\n【第1回】 ドキュメント内画像データの挙動検証 （← 今回の記事）\n【第2回"
-  },
-  {
-    "title": "【Scratch API入門】 今日から使えるScratch関連APIまとめ",
-    "link": "https://qiita.com/kakeruzoku/items/120ee994b7fd23273e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T09:09:03.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。タイトルの通り、ブラウザにコピペで使える、認証情報が必要ないGETメゾットのScratch関連APIをわかる範囲で全部まとめてみた。これを見て面白いと思った人は、以下の記事を見てみると面白いと思う。\n\n本記事は非公式であり、ScratchTeamの気まぐれに..."
   },
   {
     "title": "\"ホテルエンジニア\"として半年間やったことをまとめてみた",
@@ -133,13 +161,6 @@
     "contentSnippet": "はじめに\nこんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。\nみなさんのプロジェクトには「条件分岐が複雑すぎて誰も把握できなくなった仕様」はありませんか？\nニコニコ生放送のフロントチームでは「Gate」という機能が、まさにそのような状態でした。\nこの記事では、極めて複雑なGate機能を、スプレッドシートによる仕様整理で劇的に改善した取り組みをご紹"
   },
   {
-    "title": "【失敗談】ドメイン知識ゼロでSlack自然言語検索アプリを作った結果→精度が低すぎて使い物にならなかった話",
-    "link": "https://qiita.com/generoKoki/items/c90c25c5db99de893879?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T06:13:57.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n今の時代AI使えばなんでも作れるやろ！と思い失敗した失敗談です。\nもっとAIをうまく使えれば精度上げられたのかなとも思うので、こうした方がいいんじゃない？などあればコメント頂けますと幸いです。\n\n背景：Slackの会話が見つからない問題\nSlackを使っていると..."
-  },
-  {
     "title": "Claude Code on the webを触ってみた",
     "link": "https://zenn.dev/beagle/articles/bc6ef88dd68615",
     "pubDate": "Fri, 31 Oct 2025 04:20:19 GMT",
@@ -147,25 +168,11 @@
     "contentSnippet": "びーぐるです🐶\n2025年10月21日、Anthropic社が提供するAIモデルClaudeを利用したAIコーディングエージェントClaude Code on the webがリサーチプレビューとして公開されました。\nhttps://www.anthropic.com/news/claude-code-on-the-web\nこのサービスはクラウド型AIコーディングエージェントと呼ばれるもので、ブ"
   },
   {
-    "title": "キャッシュ戦略改善で月間150万人のアクセスロスを防いだ話",
-    "link": "https://zenn.dev/mybest_dev/articles/e0a8072e4a7573",
-    "pubDate": "Fri, 31 Oct 2025 02:58:40 GMT",
-    "source": "Zenn",
-    "contentSnippet": "「このページ開けないの私だけかな？」\nきっかけはこの一言のslackメッセージでした。\n少しすると、他のメンバーからもスレッドに返信が続きます。\n「私は開けました！」「私も問題なく開けました！」\nそして、しばらくしてから-----\n「再び開いてみたら、開けました。ただ、さっき開いた時はとても重くて開かなかったです」\nどうやら、なんらかの理由でサービスの表示速度が悪くなる時がありそうですね。\nこれは"
-  },
-  {
-    "title": "LLMによる文単位抽出を高速・安価に行う- fast-bunkaiの活用",
-    "link": "https://zenn.dev/gvatech_blog/articles/cbc9e663238b66",
-    "pubDate": "Fri, 31 Oct 2025 00:15:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "モチベーション\n長い文章を読むのは全く億劫だ。\n頼むから知りたいところだけピンポイントに読ませてくれ。ファスト教養万歳！\nそんな、働いていると本も読めなくなる[1]私たちの嘆きを解決してくれるのがLLMです。\n文書の中から自分が必要としている文章のみをLLMに抽出してもらえば良いのです。\nしかし、LLMに複数行の文章を出力させるには少々時間がかかりますし、その分API利用料金も発生します。\nやはり"
-  },
-  {
-    "title": "コードは書ける、でも\"AIを理解してない\"エンジニアが増えている現実😭",
-    "link": "https://zenn.dev/rakushaking/articles/bf54b07247c6ee",
-    "pubDate": "Fri, 31 Oct 2025 00:05:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前置き\nAI系プロジェクトのプロジェクトリーダーを数年間担当して私が最近感じていることを書きます。\n今回はAIアプリエンジニアに限った話をします。\nもちろん特定のテック企業やIT系企業、SIerでは当てはまらないと思いますが、おそらく事業会社では多くのパターンで共通する課題ではないかと感じています。\nここで言う「AIアプリエンジニア」とは、生成AI（LLM）を活用した社内アプリやプロトタイプを開発"
+    "title": "【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技10選",
+    "link": "https://qiita.com/TonitolCalsis/items/e71715c578c09c2ac960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T03:44:56.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n「数万行のログを目で追っていませんか？」\n「急な障害調査、どこから手をつけていいか焦った経験はありませんか？」\n「キーワードを探すのにプロジェクト全体を一つずつ開いていませんか？」\n現場に入りたての頃、誰もが一度は経験するこんな「調査の泥沼」。実は、grepコマ..."
   },
   {
     "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
@@ -208,13 +215,6 @@
     "pubDate": "2025-10-29T15:29:01.000Z",
     "source": "Publickey",
     "contentSnippet": "GitHubは、日本時間10月29日未明から開催中の年次イベント「GitHub Universe 2025」で、Visual Studio CodeにおけるGitHub Copilotの新機能として、AIが仕様作成を支援する「Planモード」を発表しました。 GitHub Copilotにはすでに、質問や相談にAIが対応してくれる「Askモード」、コードの編集をAIが行ってくれる「Editモード」"
-  },
-  {
-    "title": "【C#】Nullチェック後にNull参照が発生する",
-    "link": "https://qiita.com/KM_20005/items/b3c74fcce3cb7a3976a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T11:55:27.000Z",
-    "source": "Qiita",
-    "contentSnippet": "WPF + MVVM パターンでアプリケーションを開発していると、Null チェックを行ったにも関わらず、その直後で Null 参照例外が発生する現象が発生しました。今回は、この問題の原因と解決策について説明します。\n\n問題の発生状況\n自作ファイラーの開発中に発生した事例で..."
   },
   {
     "title": "［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載",

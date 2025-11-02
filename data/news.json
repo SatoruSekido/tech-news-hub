@@ -1,73 +1,80 @@
 [
   {
-    "title": "Most developers make the mistake of storing prompts in random notes. A serious prompt engineer treats prompts like reusable components.",
-    "link": "https://dev.to/jaideepparashar/most-developers-make-the-mistake-of-storing-prompts-in-random-notes-a-serious-prompt-engineer-2mle",
-    "pubDate": "Sun, 02 Nov 2025 02:00:33 +0000",
+    "title": "Java String codePointCount() Explained: Taming Emojis & Complex Text",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-codepointcount-explained-taming-emojis-complex-text-2l3f",
+    "pubDate": "Sun, 02 Nov 2025 06:20:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a Prompt Engineering Toolkit for Developers\nJaideep Parashar ・ Nov 2\n#webdev\n        #promptengineering\n        #ai\n        #productivity"
+    "contentSnippet": "Java String codePointCount() Explained: Taming Emojis & Complex Text\n\n\nAlright, let's talk about one of those Java topics that seems simple until it isn't. You're building a cool app, maybe a social m"
   },
   {
-    "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-3bm6",
-    "pubDate": "Sun, 02 Nov 2025 02:00:28 +0000",
+    "title": "Mastering the IELTS Speaking Test: Tips, Structure, and Strategies",
+    "link": "https://dev.to/mentorslearning/mastering-the-ielts-speaking-test-tips-structure-and-strategies-596p",
+    "pubDate": "Sun, 02 Nov 2025 06:19:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predator 2 – Caravan of Garbage takes the hunt from the jungle to the neon-soaked streets of 1990s Los Angeles, swapping Schwarzenegger for Danny Glover as a city detective battling a deadlier new Pre"
+    "contentSnippet": "The IELTS Speaking Test is one of the most crucial components of the IELTS exam, designed to assess your English speaking ability in a real-life context. Unlike other sections of the IELTS, the speaki"
   },
   {
-    "title": "Building a Prompt Engineering Toolkit for Developers",
-    "link": "https://dev.to/jaideepparashar/building-a-prompt-engineering-toolkit-for-developers-2f8o",
-    "pubDate": "Sun, 02 Nov 2025 01:58:15 +0000",
+    "title": "Unlocking Developer Revenue: Monetize Your LLM Apps with AI Conversations",
+    "link": "https://dev.to/monetzly/unlocking-developer-revenue-monetize-your-llm-apps-with-ai-conversations-2o2n",
+    "pubDate": "Sun, 02 Nov 2025 06:17:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Prompt engineering is no longer just a “writing skill”; it has become a core developer skill, especially for those building AI-powered products, automations, or internal tools.\nBut to work efficiently"
+    "contentSnippet": "Unlocking Sustainable Revenue: Why 90% of AI Apps Fail to Monetize Effectively\n\n\nAs a developer in the booming AI landscape, you’re likely facing a common hurdle: monetization. Did you know that appro"
   },
   {
-    "title": "Step-by-step Installation guide for Ruby",
-    "link": "https://dev.to/imlakshay08/step-by-step-installation-guide-for-ruby-3co5",
-    "pubDate": "Sun, 02 Nov 2025 01:49:57 +0000",
+    "title": "Exploring Next.js 16 File System Conventions",
+    "link": "https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk",
+    "pubDate": "Sun, 02 Nov 2025 06:09:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Installing Ruby on Xubuntu (My Notes from The Odin Project)\n\n\nBefore jumping into Ruby on Rails, we first need to set up Ruby itself.\n\nIt sounds simple, but trust me — this step can get messy if you s"
+    "contentSnippet": "📂 Exploring Next.js 16 File System Conventions\n\n\nI recently started playing with Next.js 16 experimental features, especially the new file-system conventions.\n\nAt first glance, it might seem like a s"
   },
   {
-    "title": "⚡ Brisk — Text-to-Speech Web App 🗣️ Convert text into natural-sounding speech in seconds.",
-    "link": "https://dev.to/sripadh_sujith_1487e8db18/brisk-text-to-speech-web-app-convert-text-into-natural-sounding-speech-in-seconds-d2c",
-    "pubDate": "Sun, 02 Nov 2025 01:23:26 +0000",
+    "title": "Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)",
+    "link": "https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a",
+    "pubDate": "Sun, 02 Nov 2025 06:06:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "💡 Inspiration\n\n\nWe often come across situations where reading long paragraphs or notes becomes tiring — whether it’s studying, accessibility needs, or multitasking.\nOur goal was to build something si"
+    "contentSnippet": "I took on the head pro at Carlisle GC in a £1,000 winner-takes-all match, with huge thanks to Titleist for backing the series, supporting club pros across the British Isles—and even pitching in to fun"
   },
   {
-    "title": "Terraform Basics – Week 1: Deploying Your First Azure VM",
-    "link": "https://dev.to/ozanguner/terraform-basics-week-1-deploying-your-first-azure-vm-1f86",
-    "pubDate": "Sun, 02 Nov 2025 01:22:59 +0000",
+    "title": "I'm Building an AI Agent That Automates Competitor Research",
+    "link": "https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie",
+    "pubDate": "Sun, 02 Nov 2025 06:03:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Table of Contents\n1. Intro\n2. Prerequisites\n3. What We’re Building This Week\n4. Creating Our Folder and File Structure\n5. Why Multiple .tf Files\n6. Step by Step Implementation\na) providers.tf\nb) resou"
+    "contentSnippet": "As a cybersecurity analyst and a weekend dev, I'm obsessed with automation. I love finding tedious, manual tasks and building tools to make them disappear. Recently, I've been focused on one of the mo"
   },
   {
-    "title": "R2E APIのデモUIを作りました！Next.js + Render でバックエンド連携する実装記",
-    "link": "https://dev.to/beachone1155/r2e-apinodemouiwozuo-rimasitanextjs-render-debatukuendolian-xi-surushi-zhuang-ji-2j24",
-    "pubDate": "Sun, 02 Nov 2025 01:19:51 +0000",
+    "title": "Building a GPT-5 Telegram Bot with Telegram Stars Monetization",
+    "link": "https://dev.to/king_triton/building-a-gpt-5-telegram-bot-with-telegram-stars-monetization-5g7c",
+    "pubDate": "Sun, 02 Nov 2025 06:01:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "はじめに\n\n\n以前 Research→Experience API を作りました という記事で、FastAPI + PostgreSQL(pgvector) で「ビジネス課題 → 関連論文探索 → 示唆」を返す API を紹介しました。\n今回は、この API を体験できるフロントエンド UI を Next.js（Vercel）ブログの /portfolio/r2e に追加した実装記です。バックエン"
+    "contentSnippet": "Introduction\n\n\nHave you ever wanted to provide AI-powered services but found ChatGPT's $20/month subscription too expensive for casual users? I built a Telegram bot that offers GPT-5 access for just 1"
   },
   {
-    "title": "The 7 Paid Subscriptions I Use in 2025 as a Freelance Software Developer",
-    "link": "https://dev.to/nnash/the-7-paid-subscriptions-i-use-in-2025-as-a-freelance-software-developer-285k",
-    "pubDate": "Sun, 02 Nov 2025 01:10:12 +0000",
+    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-51fd",
+    "pubDate": "Sun, 02 Nov 2025 06:00:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "(And Why I Don’t Regret Paying for a Single One)\nFreelancing in tech is exciting—but it’s also chaotic. Between managing clients, writing clean code, building personal projects, and trying to market y"
+    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less is CinemaSins’ latest takedown of Nicolas Cage’s delightfully over-the-top performance in Longlegs—complete with every absurdity and “sin” you can "
   },
   {
-    "title": "Browser scrollbar color in the Dark mode.",
-    "link": "https://dev.to/whyang9701/browser-scrollbar-color-in-the-dark-mode-29db",
-    "pubDate": "Sun, 02 Nov 2025 01:08:18 +0000",
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2928",
+    "pubDate": "Sun, 02 Nov 2025 06:00:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SoybeenAdmin is a dashboard template built with Vue 3, Pinia, and TypeScript. With 13.3k stars and 2.3k forks, it is a popular project.\nI fixed a bug where the scrollbar color didn't switch to light w"
+    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less is CinemaSins’ latest Halloween special, playfully tearing into (and celebrating) one of the year’s best genre films. In under 15 minutes they rack "
   },
   {
-    "title": "Daily Artificial Intelligence Digest - Nov 02, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-02-2025-2o9m",
-    "pubDate": "Sun, 02 Nov 2025 01:05:44 +0000",
+    "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-52k9",
+    "pubDate": "Sun, 02 Nov 2025 06:00:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Industry Trends & Resource Demands\n\n\nOpenAI's rapid growth exemplifies the robust expansion of the AI sector, with significant revenue forecast signaling strong market confidence. This growth is mirro"
+    "contentSnippet": "Over the next month the Weekly Planet crew kicks off a four-week deep dive into the Predator franchise, starting with John McTiernan’s 1987 original starring Arnold Schwarzenegger. They hail Predator "
+  },
+  {
+    "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
+    "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
+    "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Reactにおいてプロダクトの品質を高く保つには、Reactのやり方に合ったコードを書くことが重要です。公式ドキュメントの名物ページ「そのエフェクトは不要かも」には、useEffectの望ましくない使い方と、それに代わるテクニックが紹介されています。\nこの記事で取り上げるのは、その中でも「props が変更されたときに一部の state を調整する」のセクションで紹介されている、レンダリング中にス"
   },
   {
     "title": "カレントディレクトリとは何か  (Unix系OSの場合)",
@@ -75,6 +82,13 @@
     "pubDate": "Sat, 01 Nov 2025 13:08:39 GMT",
     "source": "Zenn",
     "contentSnippet": "結論\nカレントディレクトリ (以下cwd) は、以下の2つの組み合わせで管理される、プロセス状態の構成要素です。\n\n\n物理的なcwd: ディレクトリそのものを指すポインタ。カーネル側で管理される。\n\n論理的なcwd: ディレクトリパス。 PWD という名前の環境変数を経由して、ユーザーランドで管理される。\n\n\n ポイント\n一般論として、ファイルを特定する方法には、ファイルへのポインタを保持する方法"
+  },
+  {
+    "title": "GitHub Actions における Nix バイナリキャッシュ 3 ツールの実測比較",
+    "link": "https://zenn.dev/trifolium/articles/1a2eeca4775e56",
+    "pubDate": "Sat, 01 Nov 2025 12:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nGitHub Actions の CI/CD に Nix を利用する際、バイナリキャッシュを活用することでビルド時間を短縮できます。\n複数のキャッシュツールが存在しますが、スター数もまちまちで、人気だけでツールを選んでよいか判断に迷う場面がありました。\nまた、各ツールの性能を定量的に比較した記事は少なく、自分の環境に最適なツールを選ぶのが難しいと感じました。\n本記事では GitHub A"
   },
   {
     "title": "Claude Code on the Webの仕様を徹底解剖",
@@ -112,6 +126,20 @@
     "contentSnippet": "はじめに\n\n今回は2025年10月11日(土)に開催された、JAWS FESTA 2025 in 金沢について振り返っていこうと思います。\n運営としても、登壇者としても関わることのできたカンファレンスでたくさんの想いがあるので、ここに書いていこうと思います。\n\nJAWSF..."
   },
   {
+    "title": "Figma make の基本的な使い方と活用方法3選",
+    "link": "https://zenn.dev/sunagaku/articles/6ffe29e6f271bb",
+    "pubDate": "Sat, 01 Nov 2025 04:42:19 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n僕は、個人開発が好きでアプリをよく作っています。しかしデザイン作成の経験がないので、UI 作成に時間を取られた上、結局「あまりイケテナイUI」を作るしかありませんでした。\nしかし Figma make を利用すると、この課題を解決することが出来ます！\n僕自身、個人開発ではありますが、UI の作成・修正やメンテナンス効率が上がりました。\nこの記事では、「Figma make の基本的な使い"
+  },
+  {
+    "title": "Tailscale 2025 秋 大型アプデを全部まとめる！",
+    "link": "https://zenn.dev/ikumasudo/articles/ba99e95161b192",
+    "pubDate": "Sat, 01 Nov 2025 04:13:12 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先週（10/27週）に開催されたTailscaleの2025年秋アップデートウィーク。1週間にわたって毎日新しいアップデートが発表され、合計8個の新機能や改善が公開されました。\nその内容は、「ネットワーク管理の簡素化」から「CI/CDとの安全な連携」、さらには「Tailscale自体を認証基盤として使う」といった、Tailscaleが単なる接続ツールから「開発・運用のためのプラットフォー"
+  },
+  {
     "title": "ガバメントクラウド運用改善からSaaS製品開発へ",
     "link": "https://qiita.com/infra365/items/fd0645622d5b6f0ece00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-01T02:59:48.000Z",
@@ -138,34 +166,6 @@
     "pubDate": "Fri, 31 Oct 2025 08:50:56 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nはじめまして。株式会社7gardenでテックリードを担当しているKeitaです。\nこれまでテックカルチャー寄りの企業でソフトウェアエンジニアとしてキャリアを重ねてきた自分が、ホテル企画・運営を専門とする会社で働き始めてから半年ほど経ちました。\n自称\"ホテルエンジニア\"の活動記録をご覧ください。\n\n 入社の経緯\nまずは入社の経緯がてらの自己紹介として、元々自分はオンライン完結のプロダクトと"
-  },
-  {
-    "title": "Claude Code on AWS パターン解説 - Amazon Bedrock / AWS Marketplace",
-    "link": "https://zenn.dev/aws_japan/articles/04999e5689d460",
-    "pubDate": "Fri, 31 Oct 2025 08:13:46 GMT",
-    "source": "Zenn",
-    "contentSnippet": "👉本ブログは AWS AI Agent ブログ祭り (Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り) の第 5 日目です。\n!\n📚 第 4 日目の記事はこちら！\nAmazon Bedrock AgentCore Memory の Branch 機能の使いどころ\n\n\n 1. はじめに\nAI 駆動開発ツールの導入を検討している方、または現在 Cl"
-  },
-  {
-    "title": "わたし Cursor に乗り換えます",
-    "link": "https://zenn.dev/mohupor03/articles/58a37e9b56066a",
-    "pubDate": "Fri, 31 Oct 2025 07:59:30 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。@tetsuro_b です。\nついについに・・・！\n私はメインの AI を Claude Code → Cursor に戻すことを決断しました！！\n長い付き合いだった「VSCode x Claude Code」とは、しばらくお別れです...。\nその理由を紹介していきます。\n\n 新機能 Multiple Models の体験が良すぎる\n2025年10月29日 Cursor 2.0 が発表"
-  },
-  {
-    "title": "誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話",
-    "link": "https://zenn.dev/misuken/articles/32807daad601d0",
-    "pubDate": "Fri, 31 Oct 2025 06:52:12 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。\nみなさんのプロジェクトには「条件分岐が複雑すぎて誰も把握できなくなった仕様」はありませんか？\nニコニコ生放送のフロントチームでは「Gate」という機能が、まさにそのような状態でした。\nこの記事では、極めて複雑なGate機能を、スプレッドシートによる仕様整理で劇的に改善した取り組みをご紹"
-  },
-  {
-    "title": "Claude Code on the webを触ってみた",
-    "link": "https://zenn.dev/beagle/articles/bc6ef88dd68615",
-    "pubDate": "Fri, 31 Oct 2025 04:20:19 GMT",
-    "source": "Zenn",
-    "contentSnippet": "びーぐるです🐶\n2025年10月21日、Anthropic社が提供するAIモデルClaudeを利用したAIコーディングエージェントClaude Code on the webがリサーチプレビューとして公開されました。\nhttps://www.anthropic.com/news/claude-code-on-the-web\nこのサービスはクラウド型AIコーディングエージェントと呼ばれるもので、ブ"
   },
   {
     "title": "【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技10選",

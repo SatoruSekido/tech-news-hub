@@ -1,73 +1,87 @@
 [
   {
-    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-la1",
-    "pubDate": "Mon, 03 Nov 2025 02:00:30 +0000",
+    "title": "https://farhakousar16.medium.com/my-mckinsey-ngwl25-journey-from-selection-to-self-discovery-dd1cf663f3f5",
+    "link": "https://dev.to/farhakousar16/-51nc",
+    "pubDate": "Mon, 03 Nov 2025 06:29:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less\n\n\nCinemaSins rips into Nicolas Cage’s performance in “Longlegs,” packing every hilarious nitpick into a speedy 24-minute video—while also hyping Os"
+    "contentSnippet": "🌍 My McKinsey NGWL’25 Journey — From Selection to Self-Discovery\nFarha kousar ・ Nov 3\n#leadership\n        #learning\n        #mckinsey\n      \n    \n  \n\n\n\n\n\n    \n        \n          \n            \n       "
   },
   {
-    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2gok",
-    "pubDate": "Mon, 03 Nov 2025 02:00:21 +0000",
+    "title": "🌍 My McKinsey NGWL’25 Journey — From Selection to Self-Discovery",
+    "link": "https://dev.to/farhakousar16/my-mckinsey-ngwl25-journey-from-selection-to-self-discovery-38fg",
+    "pubDate": "Mon, 03 Nov 2025 06:29:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins dives into “Sinners,” hailed as one of the greatest genre films ever, and dishes out their signature “sins” roast in under 15 minutes—p"
+    "contentSnippet": "“Leadership is not about having the loudest voice — it’s about using your voice to uplift others.”\nIn early 2025, I received one of the most exciting emails of my life — I’d been selected for McKinsey"
   },
   {
-    "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5ln",
-    "pubDate": "Mon, 03 Nov 2025 02:00:12 +0000",
+    "title": "🚀 Built a Customizable Gantt Chart Component for Vue 3 — Introducing Jordium GanttChart v1.4.2",
+    "link": "https://dev.to/nelson_li_c5265341756c7ab/built-a-customizable-gantt-chart-component-for-vue-3-introducing-jordium-ganttchart-v142-5e19",
+    "pubDate": "Mon, 03 Nov 2025 06:27:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predator 2, the inevitable 1990 follow-up to Schwarzenegger’s jungle hunt, trades the tropics for Danny Glover’s heat-soaked, crime-ridden L.A. It ups the ante with a nastier Predator, Gary Busey anti"
+    "contentSnippet": "Hey everyone 👋\nI’m excited to share something I’ve been building over the past few months — a modern and customizable Gantt Chart component for Vue 3, called Jordium GanttChart\nThis project started f"
   },
   {
-    "title": "Everything You Need to Know About Single Mode Fiber Optic Cable",
-    "link": "https://dev.to/lsolink/everything-you-need-to-know-about-single-mode-fiber-optic-cable-129l",
-    "pubDate": "Mon, 03 Nov 2025 01:57:13 +0000",
+    "title": "Functional Ruby Programming with Trailblazer",
+    "link": "https://dev.to/kinvoki/functional-ruby-programming-with-trailblazer-3h29",
+    "pubDate": "Mon, 03 Nov 2025 06:25:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is Single Mode Fiber?\n\n\n\n  \n  \n  Basic Introduction to Single Mode Fiber Optic Cable\n\n\nFiber optics are an indispensable part of modern communication networks, playing a vital role in signal, dat"
+    "contentSnippet": "You might be surprised to learn that you're already using many functional programming (FP) approaches in your Ruby code without realizing it. While languages like Haskell enforce these principles, Rub"
   },
   {
-    "title": "Daily Artificial Intelligence Digest - Nov 03, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-03-2025-41me",
-    "pubDate": "Mon, 03 Nov 2025 01:45:59 +0000",
+    "title": "Unlock Dual Revenue: Transform Your LLM App with AI Monetization and Ads",
+    "link": "https://dev.to/monetzly/unlock-dual-revenue-transform-your-llm-app-with-ai-monetization-and-ads-ee5",
+    "pubDate": "Mon, 03 Nov 2025 06:19:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI Industry Dynamics & Product Challenges\n\n\nGoogle recently pulled its Gemma model from AI Studio following defamation accusations from Senator Blackburn, highlighting the public and legal complexitie"
+    "contentSnippet": "Transforming AI Conversations with Context-Aware Commerce: Introducing Monetzly\n\n\nImagine a world where the ads you see in your favorite AI app are not just interruptions but helpful suggestions that "
   },
   {
-    "title": "Practical Guide to MCP (Model Context Protocol) in Python",
-    "link": "https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd",
-    "pubDate": "Mon, 03 Nov 2025 01:42:45 +0000",
+    "title": "Data Structure and Algorithms roadmap (with resources)",
+    "link": "https://dev.to/atultrp/data-structure-and-algorithms-roadmap-with-resources-54kb",
+    "pubDate": "Mon, 03 Nov 2025 06:19:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nMCP (Model Context Protocol) is a protocol that connects LLMs with external tools. This article walks through how to use MCP step by step with real code examples. The full source code i"
+    "contentSnippet": "🚀 LeetCode in 2025\nAtul Tripathi ・ Nov 1\n#leetcode\n        #dsa\n        #algorithms\n        #coding"
   },
   {
-    "title": "Untitled",
-    "link": "https://dev.to/zakariahimi/untitled-1997",
-    "pubDate": "Mon, 03 Nov 2025 01:38:52 +0000",
+    "title": "Microfrontend architecture",
+    "link": "https://dev.to/vinit_kotian_b31a215d8ae7/microfrontend-architecture-4ooj",
+    "pubDate": "Mon, 03 Nov 2025 06:15:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Check out this Pen I made!"
+    "contentSnippet": "🧱 What is Microfrontend Architecture?\n\n\nSimply put — just like microservices, microfrontends are an architectural style where independently deliverable frontend applications are composed into a great"
   },
   {
-    "title": "Introducing U-HOP — Universal Hardware Optimization Protocol",
-    "link": "https://dev.to/dbisina/introducing-u-hop-universal-hardware-optimization-protocol-2m6i",
-    "pubDate": "Mon, 03 Nov 2025 01:36:37 +0000",
+    "title": "Stay ahead in web development: latest news, tools, and insights #109",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-109-2844",
+    "pubDate": "Mon, 03 Nov 2025 06:08:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern AI workloads shouldn’t need to be rewritten for every device. Yet today, performance still depends heavily on vendor-specific frameworks, driver stacks, and hand-tuned kernels.\nU-HOP (Universal"
+    "contentSnippet": "Signup here for the newsletter to get the weekly digest right into your inbox.\nweeklyfoo #109 is here: your weekly digest of all webdev news you need to know! This time you'll find 40 valuable links i"
   },
   {
-    "title": "1578. Minimum Time to Make Rope Colorful",
-    "link": "https://dev.to/mdarifulhaque/1578-minimum-time-to-make-rope-colorful-54oo",
-    "pubDate": "Mon, 03 Nov 2025 01:25:19 +0000",
+    "title": "99% of People Use AI Wrong — Here’s How I Actually Learn and Remember Faster",
+    "link": "https://dev.to/nitinfab/99-of-people-use-ai-wrong-heres-how-i-actually-learn-and-remember-faster-5084",
+    "pubDate": "Mon, 03 Nov 2025 06:08:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1578. Minimum Time to Make Rope Colorful\nDifficulty: Medium\nTopics: Array, String, Dynamic Programming, Greedy, Weekly Contest 205\nAlice has n balloons arranged on a rope. You are given a 0-indexed st"
+    "contentSnippet": "Let’s be honest, most of us don’t really “learn”, we just consume.\nWe scroll through videos, read articles, and bookmark threads hoping something will stick. But when it’s time to actually use what we"
   },
   {
-    "title": "Infinite Worlds, Perfect Recall: AI's Leap in Simulated Reality",
-    "link": "https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512",
-    "pubDate": "Mon, 03 Nov 2025 01:02:11 +0000",
+    "title": "UI/UX Design Trends for 2026: What Every Designer Should Know",
+    "link": "https://dev.to/pixel_mosaic/uiux-design-trends-for-2026-what-every-designer-should-know-4179",
+    "pubDate": "Mon, 03 Nov 2025 06:05:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Infinite Worlds, Perfect Recall: AI's Leap in Simulated Reality\n\n\nTired of AI simulations that drift, diverge, and ultimately become useless? Imagine designing a virtual environment for testing autono"
+    "contentSnippet": "The world of design never stands still — and 2026 is shaping up to be a bold year for UI/UX innovation. From AI-assisted creativity to emotion-driven interfaces, designers are rethinking what “good de"
+  },
+  {
+    "title": "VimConf 2025 small に運営として参加しました",
+    "link": "https://zenn.dev/mattn/articles/4efa9e1c42613b",
+    "pubDate": "Mon, 03 Nov 2025 02:25:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n昨日 11/2 秋葉原のアキバプラザ 5F 大ホール。VimConf 2025 small が開催されました。例年の様に僕はスタッフとして参加させて頂きました。\n\n\n受付で「ノベルティを持っていって下さい」と言っていたのが僕です。\n\nスタッフ業をしていたので全ての発表を聞けてなかったのですが。幾らかは聞きました。その中でも僕が気になったのは2つ。\n\n And Yet, Vim Survi"
+  },
+  {
+    "title": "AI駆動開発実践者によるリアルな機能開発プロセスを丁寧に解説してみた",
+    "link": "https://zenn.dev/tmasuyama1114/articles/claude-code-real-dev",
+    "pubDate": "Sun, 02 Nov 2025 16:21:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、とまだです。\nClaude Code で機能開発をする際、「どこから手をつければいいか分からない」「途中で仕様がブレて手戻りが発生する」といった悩みはありませんか?\n私が運営するコミュニティサイトに新機能を追加する際、要件定義から実装、レビューまでを一貫したフローで進める方法を実践してみました。\n今回は、cc-sdd(仕様駆動開発ツール)とMCPを組み合わせた開発プロセスを、実際の試行"
   },
   {
     "title": "Ratatuiのチュートリアルをやる: その1",
@@ -77,18 +91,25 @@
     "contentSnippet": "Ratatuiを使って作りたいツールが出てきたので、Ratatuiの使い方を勉強することにした。Ratatuiにはいくつかのチュートリアルがあり、これらをこなすことでRatatuiの使い方や中に登場する概念を一通り理解できるようになっている。このチュートリアルをやってみる。\nhttps://ratatui.rs/tutorials/\n\n Ratatui\nRatatui（ラタトゥイ）はRustでTU"
   },
   {
+    "title": "minishellで学んだこと",
+    "link": "https://zenn.dev/khanadat/articles/79b570722a65f4",
+    "pubDate": "Sun, 02 Nov 2025 11:09:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "まえがき\n42に少しでも貢献したくminishellの振り返りも兼ねて記事を書きたいと思います。\nはじめに断っておきますがこれはminishellを実装する上での説明書ではありません。\n私がminishellを実装する上でどんなことを考えながら取り組んだのか姿勢についてが大枠を占めます。\n結局、提出される課題は似たりよったりになります。\n実装をするにあたってどんなことを試してどうやってその結果にた"
+  },
+  {
+    "title": "ROG Xbox Ally X の NPU を使って SLM をローカル実行する",
+    "link": "https://zenn.dev/microsoft/articles/3c5f6b8a2983a4",
+    "pubDate": "Sun, 02 Nov 2025 11:01:25 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこの記事の続編です。NPU を使ってモデルを動かすための手順をまとめました。\nhttps://zenn.dev/microsoft/articles/3ba1d4858d2980\n\n 実行方法\n前の記事 (GPU) で実行時に行った環境準備に追加して下記を行います。\n\nVisual Studio 2022 / Desktop development with C++ のインストール\nMi"
+  },
+  {
     "title": "【個人開発】勉強に集中できる場所が見つからない問題を解決する地図アプリを個人開発した【React/Supabase】",
     "link": "https://qiita.com/kazutorahattori/items/b79304ceafae157ba86c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-02T08:00:06.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nお疲れ様です。\n今回の課題では、「Study Spot Vancouver」 という自習スポット検索アプリを開発しました。\nReact・TypeScript・Supabase・Google Maps API・Chakra UIを使用し、\n地図上にピンを表示 → ..."
-  },
-  {
-    "title": "使い捨てできるGPUクラウド Runpodを使おう！",
-    "link": "https://zenn.dev/nttdata_tech/articles/4b742038898d4e",
-    "pubDate": "Sun, 02 Nov 2025 03:34:30 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前置き\nはじめまして！株式会社NTTデータグループの技術革新統括本部AI技術部でSmart AI Agent™のエンジニアをしている岸川です。\n今回は、GPUクラウドサービス「Runpod」について、実際に研究と仕事で活用してきた経験をもとに紹介します。「ちょっとGPU使いたいだけなのに...」という悩みを持つ方に向けて、Runpodの魅力と具体的な使い方を解説していきます！\n!\n免責事項\n本記事"
   },
   {
     "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
@@ -119,18 +140,18 @@
     "contentSnippet": "結論\nカレントディレクトリ (以下cwd) は、以下の2つの組み合わせで管理される、プロセス状態の構成要素です。\n\n\n物理的なcwd: ディレクトリそのものを指すポインタ。カーネル側で管理される。\n\n論理的なcwd: ディレクトリパス。 PWD という名前の環境変数を経由して、ユーザーランドで管理される。\n\n\n ポイント\n一般論として、ファイルを特定する方法には、ファイルへのポインタを保持する方法"
   },
   {
+    "title": "Claude Code と Codex の使い",
+    "link": "https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc",
+    "pubDate": "Sat, 01 Nov 2025 10:25:52 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Claude Code と Codex の使い分け\n\n 1. 導入\n\n私は Claude Code（Anthropic） と Codex（OpenAI） を使っています．[1][2]\n\nどちらも「AIにコードを書かせる／直させる」ツールですが，得意なフェーズが違うので最近は分けて使っています．\nそこで，自分なりに整理してみようと思います（といっても仕様がガンガン変わっていくため，現時点でのよいやり"
+  },
+  {
     "title": "Claude Code on the Webの仕様を徹底解剖",
     "link": "https://zenn.dev/oikon/articles/claude-code-web-sandbox",
     "pubDate": "Sat, 01 Nov 2025 09:01:01 GMT",
     "source": "Zenn",
     "contentSnippet": "!\n\n2025年11月1日時点のClaude Code on the Web環境の調査結果です\n記事執筆時点でのClaude Code on the WebのClaude Codeのバージョンは2.0.25でした\nすでにSandboxの挙動が変わっているのを確認しています。実際の挙動は手元の環境で試してみてください\n\n\nOikonです。普段はAIツール、特にClaude Codeで遊んでいます。\n"
-  },
-  {
-    "title": "「Slackの会話」を「Notionタスク」に変換するAIツールを作ってみた！",
-    "link": "https://zenn.dev/neoai/articles/48ecdf48c51470",
-    "pubDate": "Sat, 01 Nov 2025 08:39:26 GMT",
-    "source": "Zenn",
-    "contentSnippet": "1. はじめに\n株式会社 neoAI 26新卒入社の上原将磨です。AI ソリューション事業部でAIプロダクトの開発に携わっています。\n突然ですが、Slackでこんなふうにタスクを依頼されること、ありませんか？\n\nこういうときに「このままNotionに自動で入ってくれたらいいのに」と思っていました。\nそこで開発したのがこのTask Botです。\n\nスレッドでメンションするだけでNotionにタスクの"
   },
   {
     "title": "Amazon Q Developer CLIが教えてくれた`git clean -fdX`という神コマンド",
@@ -140,32 +161,11 @@
     "contentSnippet": "Qiita Advent Calendar 2025\n今年もこの季節がいよいよ始まりました \n誰よりもこの日を待ちわびていたと自負しております。\n2024年12月26日から首を長くして楽しみにしておりました。\n \n\nはじめに\nCDKプロジェクトの検証中、「出..."
   },
   {
-    "title": "個人的にあまり使えていないC#の機能",
-    "link": "https://zenn.dev/prozolic/articles/3a3a416339566e",
-    "pubDate": "Sat, 01 Nov 2025 06:01:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n今回は、C#の機能で個人的に便利だと思うけど、使用できていない機能やどうやって使用するかよく忘れる機能をまとめました。必ずしもこの機能が良い悪いとかではないですが、ライブラリなどのソースを読んでいるときふと出てきた際に思考停止しないようしたいので、インプットも兼ねてまとめました。\n!\nあくまで私が「使えていないな」「よく忘れがちだな」と思う機能になります。\n\n\n 属性の省略可能プロパティ"
-  },
-  {
     "title": "JAWS FESTA 2025 in 金沢  参加レポート",
     "link": "https://qiita.com/yakumo_09/items/94848ed1297be3d20e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-01T05:31:48.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n\n今回は2025年10月11日(土)に開催された、JAWS FESTA 2025 in 金沢について振り返っていこうと思います。\n運営としても、登壇者としても関わることのできたカンファレンスでたくさんの想いがあるので、ここに書いていこうと思います。\n\nJAWSF..."
-  },
-  {
-    "title": "Figma make の基本的な使い方と活用方法3選",
-    "link": "https://zenn.dev/sunagaku/articles/6ffe29e6f271bb",
-    "pubDate": "Sat, 01 Nov 2025 04:42:19 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n僕は、個人開発が好きでアプリをよく作っています。しかしデザイン作成の経験がないので、UI 作成に時間を取られた上、結局「あまりイケテナイUI」を作るしかありませんでした。\nしかし Figma make を利用すると、この課題を解決することが出来ます！\n僕自身、個人開発ではありますが、UI の作成・修正やメンテナンス効率が上がりました。\nこの記事では、「Figma make の基本的な使い"
-  },
-  {
-    "title": "Tailscale 2025 秋 大型アプデを全部まとめる！",
-    "link": "https://zenn.dev/ikumasudo/articles/ba99e95161b192",
-    "pubDate": "Sat, 01 Nov 2025 04:13:12 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n先週（10/27週）に開催されたTailscaleの2025年秋アップデートウィーク。1週間にわたって毎日新しいアップデートが発表され、合計8個の新機能や改善が公開されました。\nその内容は、「ネットワーク管理の簡素化」から「CI/CDとの安全な連携」、さらには「Tailscale自体を認証基盤として使う」といった、Tailscaleが単なる接続ツールから「開発・運用のためのプラットフォー"
   },
   {
     "title": "便利なvimテクニック",

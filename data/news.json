@@ -1,73 +1,94 @@
 [
   {
-    "title": "My Laravel Journey – Part 1: Foundation",
-    "link": "https://dev.to/ashishtechdev/my-laravel-journey-part-1-foundation-259",
-    "pubDate": "Sun, 02 Nov 2025 18:23:46 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Welcome to Phase 1 of My Laravel Journey!\nWhether you’re completely new to Laravel or just refreshing your basics, this is a great place to start! 🚀\n🎯 What You’ll Learn\n✅ What Laravel is and why it’"
-  },
-  {
-    "title": "I Waited 5 Years for AI to Be Good Enough to Build This: A Fully Automatic Logo Designer",
-    "link": "https://dev.to/kamil_uhryn/i-waited-5-years-for-ai-to-be-good-enough-to-build-this-a-fully-automatic-logo-designer-5dhd",
-    "pubDate": "Sun, 02 Nov 2025 18:08:52 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nBuilt GoodLogoAI - an AI logo maker that outputs production-ready vector SVG + transparent PNG files. $9.99 one-time payment. Had the vision in 2019, but had to wait for AI models to mature. N"
-  },
-  {
-    "title": "MCUboot: Understanding the Image Trailer and How It Tracks Firmware Update Progress",
-    "link": "https://dev.to/ripan030/mcuboot-understanding-the-image-trailer-and-how-it-tracks-firmware-update-progress-4l76",
-    "pubDate": "Sun, 02 Nov 2025 18:08:42 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The MCUboot bootloader ensures fail-safe firmware updates on embedded devices by closely tracking the progress of image swaps inside a reserved flash area called the image trailer. The trailer is loca"
-  },
-  {
-    "title": "No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366",
-    "link": "https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-2hlc",
-    "pubDate": "Sun, 02 Nov 2025 18:08:14 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "How an Apparel Business Gets Built | Trap Draw, Ep 366\n\n\nNeil and TC hit up Upstate New York to chat with Alex Holderness and John Bourne, the dynamic duo behind Holderness & Bourne. What started as a"
-  },
-  {
-    "title": "Offline-First Kiosk: Lessons from the Field",
-    "link": "https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e",
-    "pubDate": "Sun, 02 Nov 2025 18:07:01 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "When \"Impossible\" Becomes \"Deployed\"\n\n\nPicture this: You have a tight deadline to build a production-ready kiosk application. It needs to work offline, handle outdated hardware, be completely locked d"
-  },
-  {
-    "title": "Trace Anything: Representing Any Video in 4D via Trajectory Fields",
-    "link": "https://dev.to/paperium/trace-anything-representing-any-video-in-4d-via-trajectory-fields-19fj",
-    "pubDate": "Sun, 02 Nov 2025 18:00:50 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Watch Any Video Like a 4‑D Map – The “Trace Anything” Breakthrough\n\n\nEver wondered how a single frame could remember its whole story? Scientists have created a new way to see every pixel in a video as"
-  },
-  {
     "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-40b5",
-    "pubDate": "Sun, 02 Nov 2025 18:00:38 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-la1",
+    "pubDate": "Mon, 03 Nov 2025 02:00:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins just dropped “Everything Wrong With Longlegs in 24 Minutes or Less,” a rapid-fire roast of Nicolas Cage’s over-the-top performance in Longlegs—legs and all—timed perfectly before Osgood Per"
+    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less\n\n\nCinemaSins rips into Nicolas Cage’s performance in “Longlegs,” packing every hilarious nitpick into a speedy 24-minute video—while also hyping Os"
   },
   {
-    "title": "HacktoberFest: Return to Animation",
-    "link": "https://dev.to/jarvisscript/hacktoberfest-return-to-animation-i1d",
-    "pubDate": "Sun, 02 Nov 2025 18:00:26 +0000",
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2gok",
+    "pubDate": "Mon, 03 Nov 2025 02:00:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the 2025 Hacktoberfest Writing Challenge: Contribution Chronicles\nAnother HacktoberFest has ended. I completed the challenge and met the new goal of 6 Pull Requests accepted f"
-  },
-  {
-    "title": "Mr Sunday Movies: Predator - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-22p9",
-    "pubDate": "Sun, 02 Nov 2025 18:00:24 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Predator – Caravan of Garbage kicks off a four-week deep dive into the first four Predator movies, starting with the 1987 Schwarzenegger original. The hosts hail it as the peak of ’80s action-sci-fi, "
+    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins dives into “Sinners,” hailed as one of the greatest genre films ever, and dishes out their signature “sins” roast in under 15 minutes—p"
   },
   {
     "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2op4",
-    "pubDate": "Sun, 02 Nov 2025 18:00:08 +0000",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-5ln",
+    "pubDate": "Mon, 03 Nov 2025 02:00:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predator 2 – Caravan of Garbage\n\n\nPredator 2 cranks up the action in 1990’s Los Angeles, swapping Schwarzenegger’s jungle showdown for Danny Glover battling a fresh, deadlier Predator amid a citywide "
+    "contentSnippet": "Predator 2, the inevitable 1990 follow-up to Schwarzenegger’s jungle hunt, trades the tropics for Danny Glover’s heat-soaked, crime-ridden L.A. It ups the ante with a nastier Predator, Gary Busey anti"
+  },
+  {
+    "title": "Everything You Need to Know About Single Mode Fiber Optic Cable",
+    "link": "https://dev.to/lsolink/everything-you-need-to-know-about-single-mode-fiber-optic-cable-129l",
+    "pubDate": "Mon, 03 Nov 2025 01:57:13 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "What is Single Mode Fiber?\n\n\n\n  \n  \n  Basic Introduction to Single Mode Fiber Optic Cable\n\n\nFiber optics are an indispensable part of modern communication networks, playing a vital role in signal, dat"
+  },
+  {
+    "title": "Daily Artificial Intelligence Digest - Nov 03, 2025",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-03-2025-41me",
+    "pubDate": "Mon, 03 Nov 2025 01:45:59 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "AI Industry Dynamics & Product Challenges\n\n\nGoogle recently pulled its Gemma model from AI Studio following defamation accusations from Senator Blackburn, highlighting the public and legal complexitie"
+  },
+  {
+    "title": "Practical Guide to MCP (Model Context Protocol) in Python",
+    "link": "https://dev.to/m_sea_bass/practical-guide-to-mcp-model-context-protocol-in-python-ijd",
+    "pubDate": "Mon, 03 Nov 2025 01:42:45 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Introduction\n\n\nMCP (Model Context Protocol) is a protocol that connects LLMs with external tools. This article walks through how to use MCP step by step with real code examples. The full source code i"
+  },
+  {
+    "title": "Untitled",
+    "link": "https://dev.to/zakariahimi/untitled-1997",
+    "pubDate": "Mon, 03 Nov 2025 01:38:52 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Check out this Pen I made!"
+  },
+  {
+    "title": "Introducing U-HOP — Universal Hardware Optimization Protocol",
+    "link": "https://dev.to/dbisina/introducing-u-hop-universal-hardware-optimization-protocol-2m6i",
+    "pubDate": "Mon, 03 Nov 2025 01:36:37 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Modern AI workloads shouldn’t need to be rewritten for every device. Yet today, performance still depends heavily on vendor-specific frameworks, driver stacks, and hand-tuned kernels.\nU-HOP (Universal"
+  },
+  {
+    "title": "1578. Minimum Time to Make Rope Colorful",
+    "link": "https://dev.to/mdarifulhaque/1578-minimum-time-to-make-rope-colorful-54oo",
+    "pubDate": "Mon, 03 Nov 2025 01:25:19 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "1578. Minimum Time to Make Rope Colorful\nDifficulty: Medium\nTopics: Array, String, Dynamic Programming, Greedy, Weekly Contest 205\nAlice has n balloons arranged on a rope. You are given a 0-indexed st"
+  },
+  {
+    "title": "Infinite Worlds, Perfect Recall: AI's Leap in Simulated Reality",
+    "link": "https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512",
+    "pubDate": "Mon, 03 Nov 2025 01:02:11 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Infinite Worlds, Perfect Recall: AI's Leap in Simulated Reality\n\n\nTired of AI simulations that drift, diverge, and ultimately become useless? Imagine designing a virtual environment for testing autono"
+  },
+  {
+    "title": "Ratatuiのチュートリアルをやる: その1",
+    "link": "https://zenn.dev/helloyuki/articles/e9f25dc546b280",
+    "pubDate": "Sun, 02 Nov 2025 14:10:12 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Ratatuiを使って作りたいツールが出てきたので、Ratatuiの使い方を勉強することにした。Ratatuiにはいくつかのチュートリアルがあり、これらをこなすことでRatatuiの使い方や中に登場する概念を一通り理解できるようになっている。このチュートリアルをやってみる。\nhttps://ratatui.rs/tutorials/\n\n Ratatui\nRatatui（ラタトゥイ）はRustでTU"
+  },
+  {
+    "title": "【個人開発】勉強に集中できる場所が見つからない問題を解決する地図アプリを個人開発した【React/Supabase】",
+    "link": "https://qiita.com/kazutorahattori/items/b79304ceafae157ba86c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-02T08:00:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nお疲れ様です。\n今回の課題では、「Study Spot Vancouver」 という自習スポット検索アプリを開発しました。\nReact・TypeScript・Supabase・Google Maps API・Chakra UIを使用し、\n地図上にピンを表示 → ..."
+  },
+  {
+    "title": "使い捨てできるGPUクラウド Runpodを使おう！",
+    "link": "https://zenn.dev/nttdata_tech/articles/4b742038898d4e",
+    "pubDate": "Sun, 02 Nov 2025 03:34:30 GMT",
+    "source": "Zenn",
+    "contentSnippet": "前置き\nはじめまして！株式会社NTTデータグループの技術革新統括本部AI技術部でSmart AI Agent™のエンジニアをしている岸川です。\n今回は、GPUクラウドサービス「Runpod」について、実際に研究と仕事で活用してきた経験をもとに紹介します。「ちょっとGPU使いたいだけなのに...」という悩みを持つ方に向けて、Runpodの魅力と具体的な使い方を解説していきます！\n!\n免責事項\n本記事"
   },
   {
     "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
@@ -98,13 +119,6 @@
     "contentSnippet": "結論\nカレントディレクトリ (以下cwd) は、以下の2つの組み合わせで管理される、プロセス状態の構成要素です。\n\n\n物理的なcwd: ディレクトリそのものを指すポインタ。カーネル側で管理される。\n\n論理的なcwd: ディレクトリパス。 PWD という名前の環境変数を経由して、ユーザーランドで管理される。\n\n\n ポイント\n一般論として、ファイルを特定する方法には、ファイルへのポインタを保持する方法"
   },
   {
-    "title": "GitHub Actions における Nix バイナリキャッシュ 3 ツールの実測比較",
-    "link": "https://zenn.dev/trifolium/articles/1a2eeca4775e56",
-    "pubDate": "Sat, 01 Nov 2025 12:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nGitHub Actions の CI/CD に Nix を利用する際、バイナリキャッシュを活用することでビルド時間を短縮できます。\n複数のキャッシュツールが存在しますが、スター数もまちまちで、人気だけでツールを選んでよいか判断に迷う場面がありました。\nまた、各ツールの性能を定量的に比較した記事は少なく、自分の環境に最適なツールを選ぶのが難しいと感じました。\n本記事では GitHub A"
-  },
-  {
     "title": "Claude Code on the Webの仕様を徹底解剖",
     "link": "https://zenn.dev/oikon/articles/claude-code-web-sandbox",
     "pubDate": "Sat, 01 Nov 2025 09:01:01 GMT",
@@ -124,13 +138,6 @@
     "pubDate": "2025-11-01T08:17:13.000Z",
     "source": "Qiita",
     "contentSnippet": "Qiita Advent Calendar 2025\n今年もこの季節がいよいよ始まりました \n誰よりもこの日を待ちわびていたと自負しております。\n2024年12月26日から首を長くして楽しみにしておりました。\n \n\nはじめに\nCDKプロジェクトの検証中、「出..."
-  },
-  {
-    "title": "React学習ログ No.15",
-    "link": "https://qiita.com/maedaHARUYA/items/ab46d60ca92d8ca82087?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T08:00:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "React状態管理「Recoil」学習メモ\n\n1. Recoilとは\n\nReact用状態管理ライブラリ\n\n2. 環境構築\n\nインストール:\nnpm i recoil\n# または\nyarn add recoil\n\n設定:\n\nアプリケーションのルート（index.js..."
   },
   {
     "title": "個人的にあまり使えていないC#の機能",
@@ -161,13 +168,6 @@
     "contentSnippet": "はじめに\n先週（10/27週）に開催されたTailscaleの2025年秋アップデートウィーク。1週間にわたって毎日新しいアップデートが発表され、合計8個の新機能や改善が公開されました。\nその内容は、「ネットワーク管理の簡素化」から「CI/CDとの安全な連携」、さらには「Tailscale自体を認証基盤として使う」といった、Tailscaleが単なる接続ツールから「開発・運用のためのプラットフォー"
   },
   {
-    "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",
-    "link": "https://zenn.dev/sunagaku/articles/c5affee1871afb",
-    "pubDate": "Fri, 31 Oct 2025 23:29:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025年10月30日〜31日に開催された 「AI駆動開発 Conference Autumn 2025」 に参加してきました。\nhttps://aid.connpass.com/event/367698/\n2日間にわたるイベントを通して、AIを活用した開発の最前線・現場での実践知について、沢山の学びと気づきを得られました。\n本記事では、その中でも特に印象に残った内容を、備忘録としてまと"
-  },
-  {
     "title": "便利なvimテクニック",
     "link": "https://qiita.com/rmatttu/items/2c696c70b812f0c87caa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-31T14:47:53.000Z",
@@ -175,11 +175,25 @@
     "contentSnippet": "内容\n個人的なvimテクニックまとめです。vimを使っていて、後輩に「そんな機能あるんだ」と驚かれたもので、意外に知られていない便利機能をまとめました。\n\nコマンド\n\n次の空行に移動\n\nNormalモード中に{, }\n\n{: 前の空行へ移動\n\n}: 次の空行へ移動\n関数..."
   },
   {
+    "title": "【1on1】1on1って難しいからAIと壁打ちして分かってきたことまとめてみた",
+    "link": "https://qiita.com/genimura/items/a3299694801d19ad4877?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T14:41:55.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは、genimuraです。\nこれまで、色々と1on1のやり方をキャッチアップしていって、よく傾聴が大事とか、話しやすい環境を作るとか、ティーチングではなくコーチングだとかを学んできました。\nただ、実際やってみるとめちゃめちゃ難しいですよね。ということで、..."
+  },
+  {
     "title": "IT業界、特にセキュリティ業界は「個人のスキル」よりも、どこに所属しているかで大きく変わる話",
     "link": "https://qiita.com/yamada_sec/items/6227a30eb584e10d6f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-31T14:13:50.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n1年前、私はこちらの記事をQiitaに書きました。\n\nあの頃はちょうど転職が決まり、\nようやくスタートラインに立てたという安堵と期待の中で記事を書いていました。\nそれから1年。\n環境が変わり、立場が変わり、見える景色も大きく変わりました。\nIT業界、特にセキ..."
+  },
+  {
+    "title": "【隙間開発】Tauri × Svelteでエイリアスエディタを作ってみた！",
+    "link": "https://qiita.com/genimura/items/43dc28fe79c300638421?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T13:26:38.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは、genimuraです。\n今回はTauri 2 × Svelte 5でデスクトップアプリを作ってみました。\nターミナル作業中にエイリアスを素早く追加・整理したい一方、.zprofileを毎回エディタで開いて手作業するのは面倒で、記述ミスで壊れやすいとい..."
   },
   {
     "title": "Macbookでも1日87円でお手軽にWindows環境を使う（2025年）",
@@ -194,20 +208,6 @@
     "pubDate": "2025-10-31T03:44:56.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n「数万行のログを目で追っていませんか？」\n「急な障害調査、どこから手をつけていいか焦った経験はありませんか？」\n「キーワードを探すのにプロジェクト全体を一つずつ開いていませんか？」\n現場に入りたての頃、誰もが一度は経験するこんな「調査の泥沼」。実は、grepコマ..."
-  },
-  {
-    "title": "新米エンジニアが知っておきたい『リーン・スタートアップ』実践ガイド",
-    "link": "https://qiita.com/GIFCat/items/47c68bf85d536703fbe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T00:31:00.000Z",
-    "source": "Qiita",
-    "contentSnippet": "新米エンジニアが知っておきたい『リーン・スタートアップ』実践ガイド\n\nはじめに\n先日の記事で、iwashiさんも薦める『リーン・スタートアップ』についてご紹介します。エリック・リースが提唱した、不確実性の高い状況で新しいプロダクトやサービスを開発するための方法論です。この..."
-  },
-  {
-    "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
-    "link": "https://qiita.com/keitah/items/d41b0888cf7b8b01616d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T14:36:31.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nTerraformとAWS SAM（Serverless Application Model）を組み合わせることで、インフラストラクチャとアプリケーションの責務を明確に分離し、チーム別の適切な権限管理とセキュアなIaC運用を実現できます。\n\nこの構成の核心的なメ..."
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",

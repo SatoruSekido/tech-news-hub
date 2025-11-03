@@ -1,73 +1,87 @@
 [
   {
-    "title": "What Finally Made Web3 Click for Me",
-    "link": "https://dev.to/itsugo/what-finally-made-web3-click-for-me-2fej",
-    "pubDate": "Mon, 03 Nov 2025 12:52:55 +0000",
+    "title": "Building jsTinker: A Free Desktop JavaScript Playground (And Why I Built It)",
+    "link": "https://dev.to/boadusamuel/building-jstinker-a-free-desktop-javascript-playground-and-why-i-built-it-4109",
+    "pubDate": "Mon, 03 Nov 2025 18:34:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The internet has evolved significantly over the years, transitioning from Web1, which was primarily a read-only platform, to Web2, characterized by user-generated content and social media. Now, we are"
+    "contentSnippet": "The Problem\n\n\nHave you ever needed to quickly test a JavaScript snippet but didn't want to:\nFire up VS Code and create a new project?\nUse an online editor that requires internet?\nPay for a premium too"
   },
   {
-    "title": "Building “Exhibit”: An AI-Powered Portfolio Agent with Mastra, A2A, and Telex",
-    "link": "https://dev.to/humphery7/building-exhibit-an-ai-powered-portfolio-agent-with-mastra-a2a-and-telex-5d15",
-    "pubDate": "Mon, 03 Nov 2025 12:52:47 +0000",
+    "title": "Мир Дикого Запада: Как сериал предсказал будущее искусственного интеллекта и что это значит для разработчиков",
+    "link": "https://dev.to/westworld/mir-dikogho-zapada-kak-sierial-priedskazal-budushchieie-iskusstviennogho-intielliekta-i-chto-eto-znachit-dlia-3n39",
+    "pubDate": "Mon, 03 Nov 2025 18:32:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "By Humphery Otuoniyo\nAs developers, showcasing our work effectively can sometimes be as challenging as building the projects themselves. I recently built Exhibit, an intelligent agent that generates p"
+    "contentSnippet": "Взгляд разработчика на Мир Дикого Запада\nДля тех, кто строит следующее поколение интеллектуальных систем, Westworld — это не просто развлечение. Это предупреждение, источник вдохновения и руководство "
   },
   {
-    "title": "Insurance Cost Prediction",
-    "link": "https://dev.to/jenish_d1a020f6fc2cc4e90d/insurance-cost-prediction-1lbj",
-    "pubDate": "Mon, 03 Nov 2025 12:51:34 +0000",
+    "title": "How I Turned an Old Phone into a Linux Server",
+    "link": "https://dev.to/wlepczynski/how-i-turned-an-old-phone-into-a-linux-server-5f3g",
+    "pubDate": "Mon, 03 Nov 2025 18:28:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Contents\n\n\n\nIntroduction\nExploratory Data Analysis\nHypothesis Testing\nModelling\nModel comparison and performance\nDeployment\nGitHub Repository\n1. Introduction\n\n\n1.1 About Project\n1.2 Objectives\nEnhance"
+    "contentSnippet": "So, I had a few old Android phones lying around, too slow for everyday use but still perfectly functional. Instead of letting them collect dust, I wondered: could I turn one into something useful?\nTha"
   },
   {
-    "title": "7 Systems to Win High-Paying Clients (and Keep Them!)",
-    "link": "https://dev.to/remotebranch/7-systems-to-win-high-paying-clients-and-keep-them-j1n",
-    "pubDate": "Mon, 03 Nov 2025 12:50:58 +0000",
+    "title": "🛡️ Fortify - AI-Powered Security Analysis Platform",
+    "link": "https://dev.to/abhinandan-r/fortify-ai-powered-security-analysis-platform-54i8",
+    "pubDate": "Mon, 03 Nov 2025 18:28:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How to move past the struggle for projects and create steady, high-value client work.\nIndependent consultants often rely on introductions from their network to get their next client. They bill by the "
+    "contentSnippet": "This is a submission for the Agentic Postgres Challenge with Tiger Data\nFortify is a comprehensive security and compliance analysis platform that helps developers identify vulnerabilities, ensure SOC2"
   },
   {
-    "title": "🔒 ProofEasy Now Runs on Haveto Blockchain",
-    "link": "https://dev.to/umang_suthar_9bad6f345a8a/proofeasy-now-runs-on-haveto-blockchain-4bp3",
-    "pubDate": "Mon, 03 Nov 2025 12:49:16 +0000",
+    "title": "5 AI Fullstack Projects You Need to Make in 2026",
+    "link": "https://dev.to/holasoymalva/5-ai-fullstack-projects-you-need-to-make-in-2026-2gm6",
+    "pubDate": "Mon, 03 Nov 2025 18:26:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Strengthening Digital Verification With Transparency and Trust\n\n\n\nBecause your documents deserve more than passwords,\nProofEasy, a digital verification platform, now runs on Haveto Blockchain, ensurin"
+    "contentSnippet": "The last two years in tech have been wild.\n\nAI exploded. Frameworks changed every six months. Job titles shifted from “frontend dev” to “AI engineer” overnight.  \nAnd if you’ve been watching from the "
   },
   {
-    "title": "Building BowlingAlleys.io — $500/mo, 6 signed, 2 on deck",
-    "link": "https://dev.to/gbae420/building-bowlingalleysio-500mo-6-signed-2-on-deck-2879",
-    "pubDate": "Mon, 03 Nov 2025 12:43:01 +0000",
+    "title": "Week 7: React hooks and more!",
+    "link": "https://dev.to/nikhilsharma6/week-7-react-hooks-and-more-36g4",
+    "pubDate": "Mon, 03 Nov 2025 18:25:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’ve been building BowlingAlleys.io — a nationwide bowling alley directory — out of Replit, Firebase, and way too much coffee.  \nNo investors.\n\nNo big team.\n\nJust me, spending about $500 a month betwe"
+    "contentSnippet": "This week was very light. I did not cover anything that was too new or too hard because I needed a break and also wanted to stay in touch! So let's get right into it.\nReact returns- the need to return"
   },
   {
-    "title": "Monthly Amazon Location Service Updates - 2025.10",
-    "link": "https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202510-1mop",
-    "pubDate": "Mon, 03 Nov 2025 12:32:36 +0000",
+    "title": "Being a JavaScript Dev vs. a Framework Dev",
+    "link": "https://dev.to/amandamayfield/being-a-javascript-dev-vs-a-framework-dev-2cjh",
+    "pubDate": "Mon, 03 Nov 2025 18:24:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a summary of the October updates for Amazon Location Service.\nAmazon Location Service introduces new API key restrictions\nAmazon Location Service Introduces New Map Styling Features for Enhanc"
+    "contentSnippet": "I read an interesting article yesterday about Backbone.js vs. React that I’ve linked below.\nhttps://backbonenotbad.hyperclay.com/\nNow, obviously given the name of the blog, it’s not exactly the most u"
   },
   {
-    "title": "Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager",
-    "link": "https://dev.to/latchudevops/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager-27kl",
-    "pubDate": "Mon, 03 Nov 2025 12:24:06 +0000",
+    "title": "🗓 Week 5 Recap — Leveling Up My React Skills!",
+    "link": "https://dev.to/usama_dev/week-5-recap-leveling-up-my-react-skills-38b5",
+    "pubDate": "Mon, 03 Nov 2025 18:22:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Managing Amazon EC2 capacity across multiple accounts, Regions, and instance types can quickly turn into a complex task.\nThat’s where Amazon EC2 Capacity Manager comes in.\nThink of EC2 Capacity Manage"
+    "contentSnippet": "Hey everyone 👋\nReact state management and understanding how components talk to each other. It was both challenging and fun — especially when I started seeing how everything connects together.\nHere’s "
   },
   {
-    "title": "⚡ Supercharging GitHub Actions CI: From Slow to Lightning Fast with Turbo Caching",
-    "link": "https://dev.to/abhilashlr/supercharging-github-actions-ci-from-slow-to-lightning-fast-with-turbo-caching-1bed",
-    "pubDate": "Mon, 03 Nov 2025 12:14:34 +0000",
+    "title": "Git LFS: The Developer’s Solution to Large File Chaos",
+    "link": "https://dev.to/rijultp/git-lfs-the-developers-solution-to-large-file-chaos-kma",
+    "pubDate": "Mon, 03 Nov 2025 18:20:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How we optimized our monorepo CI pipeline and reduced build times by 70% using smart caching strategies\nPicture this: You're working on a critical feature for your React monorepo. You push your change"
+    "contentSnippet": "If you have ever tried pushing large files like videos, datasets, or design assets into a Git repository, you probably know the pain. Git slows down, the repo size balloons, and cloning takes forever."
   },
   {
-    "title": "My AI habit Tracker",
-    "link": "https://dev.to/john_otienoh/my-ai-habit-tracker-1l8j",
-    "pubDate": "Mon, 03 Nov 2025 12:12:55 +0000",
+    "title": "Cracking the Cube: How Competitive Rubik’s Cube Algorithms Inspire Modern AI and Programming",
+    "link": "https://dev.to/gowtham_e9296cf2c1012d9c0/cracking-the-cube-how-competitive-rubiks-cube-algorithms-inspire-modern-ai-and-programming-3m2e",
+    "pubDate": "Mon, 03 Nov 2025 18:17:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Build an intelligent agent, connect it to Telex.im, and make it do something genuinely useful.\nI wanted to create something that combined productivity and motivation — something that helps users stay "
+    "contentSnippet": "Speedcubing isn’t just a display of dexterity, it’s an applied study of algorithms, heuristics, and optimization, concepts that lie at the heart of artificial intelligence and programming. Behind ever"
+  },
+  {
+    "title": "サイバーエージェントがAIアプリ「Dify」のベクトルDBとしてTiDBを選択。AIアプリの全社導入に耐えうる基盤を構築［PR］",
+    "link": "https://www.publickey1.jp/blog/25/aidifydbtidbaipr.html",
+    "pubDate": "2025-11-03T16:42:59.000Z",
+    "source": "Publickey",
+    "contentSnippet": "生成AIを活用した業務の効率化が多くの企業にとって課題となりつつある中で、サイバーエージェントはITエンジニアではない従業員でも業務に役立つAIアプリケーションを作れる「Dify」と呼ばれるノーコードツールと、Difyで利用されるベクトル検索の基盤としてTiDBを採用し、企業全体で月間3000時間もの業務削減を実現したことを明らかにしました。 同社はなぜ社内の生成AI活用にDifyを選択したのか、"
+  },
+  {
+    "title": "開発中のコードを基に、AIがノンプログラマによるUI作成を支援、OKならプルリクエスト作成。JetBrains新ツールが「Matter」発表",
+    "link": "https://www.publickey1.jp/blog/25/aiuiokjetbrainsmatter.html",
+    "pubDate": "2025-11-03T15:40:43.000Z",
+    "source": "Publickey",
+    "contentSnippet": "JetBrainsは、開発中のアプリケーションに対して、デザイナーなどのノンプログラマがAIを通じてユーザーインターフェイスを容易に変更や作成できる新ツール「Matter」を発表しました。 一般にアプリケーションのユーザーインターフェイスを作り込むには、デザイナーなどノンプログラマがデザインをモックアップやプロトタイプとして作成し、それを基にプログラマがコードを作成していくことになることが多いでし"
   },
   {
     "title": "VimConf 2025 small に運営として参加しました",
@@ -84,6 +98,20 @@
     "contentSnippet": "こんにちは、とまだです。\nClaude Code で機能開発をする際、「どこから手をつければいいか分からない」「途中で仕様がブレて手戻りが発生する」といった悩みはありませんか?\n私が運営するコミュニティサイトに新機能を追加する際、要件定義から実装、レビューまでを一貫したフローで進める方法を実践してみました。\n今回は、cc-sdd(仕様駆動開発ツール)とMCPを組み合わせた開発プロセスを、実際の試行"
   },
   {
+    "title": "フロントエンドアーキテクチャ設計 〜Clean Architecture実践パターン〜",
+    "link": "https://zenn.dev/sakisakiika/articles/39f2164796c62b",
+    "pubDate": "Sun, 02 Nov 2025 15:53:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n昨今フロントエンド開発が複雑化する中で、サーバサイドの開発でよく用いられる「クリーンアーキテクチャ」の原則をWebフロントエンドに適用する方法を考えていました。\n本記事はクリーンアーキテクチャの原則をフロントエンドに応用した設計パターンについて紹介します。なお、実装例はReactで記述していますが、設計パターン自体は他のフレームワークでも応用可能です。\n\n アーキテクチャの全体像と各レイ"
+  },
+  {
+    "title": "VS Code → Cursor、1日目で受けた衝撃",
+    "link": "https://zenn.dev/mn329/articles/95a755391542c6",
+    "pubDate": "Sun, 02 Nov 2025 14:53:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "プロフィール\n情報系学生2年。普段はWebの授業を受けているが、知人の紹介でFlutterを触り始めた。将来はモバイルアプリケーションエンジニアをめざして勉強中。\nhttps://x.com/minato_engineer\n⸻\n\n 初日で感じた驚き\nVS CodeからCursorに乗り換えた1日目。普段はFlutterを書いているけど、最初の数時間で「ここまで進化してたんだ」って思うほどの衝撃を受"
+  },
+  {
     "title": "Ratatuiのチュートリアルをやる: その1",
     "link": "https://zenn.dev/helloyuki/articles/e9f25dc546b280",
     "pubDate": "Sun, 02 Nov 2025 14:10:12 GMT",
@@ -91,11 +119,25 @@
     "contentSnippet": "Ratatuiを使って作りたいツールが出てきたので、Ratatuiの使い方を勉強することにした。Ratatuiにはいくつかのチュートリアルがあり、これらをこなすことでRatatuiの使い方や中に登場する概念を一通り理解できるようになっている。このチュートリアルをやってみる。\nhttps://ratatui.rs/tutorials/\n\n Ratatui\nRatatui（ラタトゥイ）はRustでTU"
   },
   {
+    "title": "【PMBOK準拠】実務で使える！Cursor or CodexではじめるAI駆動PM（プロジェクトマネージメント）スターターKitも無料公開",
+    "link": "https://zenn.dev/masa_oka108/articles/27705aa0f83294",
+    "pubDate": "Sun, 02 Nov 2025 14:02:28 GMT",
+    "source": "Zenn",
+    "contentSnippet": "AI駆動PM（プロジェクトマネージメント）を実現する――これは、プロジェクトマネージャーの業務を劇的に変える挑戦です。\n従来のプロジェクト管理ではドキュメント作成やスケジュール作成、リスク検知といった定型業務に多くの時間が費やされてきました。これらに対してAIを活用することで作業時間を大幅に効率化し、PMが本来集中すべき「意思決定」や「ステークホルダーとの調整」などにより多くの時間を割けるようにな"
+  },
+  {
     "title": "【Vue Fes Japan 2025】はじめて技術カンファレンスに参加してみた話",
     "link": "https://qiita.com/otTATto/items/8be62553bbf96d10b10b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-02T13:07:39.000Z",
     "source": "Qiita",
     "contentSnippet": "いろいろな人からいろいろな刺激を受けた、濃密な 1 日でした！\n\n1. はじめに\n2025年10月25日 (土) に行われた Vue Fes Japan 2025 に、学生支援制度1で参加させていただきました！ここでは、その参加レポートを体験記としてまとめています。特に..."
+  },
+  {
+    "title": "ghaperf で GitHub Actions のパフォーマンス分析",
+    "link": "https://zenn.dev/shunsuke_suzuki/articles/ghaperf-github-actions-performance-analysis",
+    "pubDate": "Sun, 02 Nov 2025 12:38:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "GitHub Actions のパフォーマンス分析のための CLI である ghaperf を作ったので紹介します。\nhttps://github.com/suzuki-shunsuke/ghaperf\n\n ghaperf の特徴\nGitHub Actions のパフォーマンス分析のためのツールは他にも色々ありますが、それらと比べて ghaperf は以下の点で優れています。\n\nComposite"
   },
   {
     "title": "【AtCoder】入水しました！！！！！！！！！！！！！！",
@@ -119,13 +161,6 @@
     "contentSnippet": "Docker以外のコンテナエンジン完全ガイド：初心者から実践まで\n最終更新: 2025年11月（Kubernetes 1.34対応確認済み）\n\nはじめに\n「コンテナ = Docker」と思っている方も多いのではないでしょうか？実は、コンテナ技術の世界にはDocker以外に..."
   },
   {
-    "title": "ROG Xbox Ally X の NPU を使って SLM をローカル実行する",
-    "link": "https://zenn.dev/microsoft/articles/3c5f6b8a2983a4",
-    "pubDate": "Sun, 02 Nov 2025 11:01:25 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこの記事の続編です。NPU を使ってモデルを動かすための手順をまとめました。\nhttps://zenn.dev/microsoft/articles/3ba1d4858d2980\n\n 実行方法\n前の記事 (GPU) で実行時に行った環境準備に追加して下記を行います。\n\nVisual Studio 2022 / Desktop development with C++ のインストール\nMi"
-  },
-  {
     "title": "LangfuseでLLMアプリケーションのオブザーバビリティを爆上げしたい - プロンプト管理からトレーシング、評価まで",
     "link": "https://qiita.com/keke21/items/211e70608ba0d09407ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-02T08:03:00.000Z",
@@ -140,18 +175,18 @@
     "contentSnippet": "はじめに\nお疲れ様です。\n今回の課題では、「Study Spot Vancouver」 という自習スポット検索アプリを開発しました。\nReact・TypeScript・Supabase・Google Maps API・Chakra UIを使用し、\n地図上にピンを表示 → ..."
   },
   {
+    "title": "使い捨てできるGPUクラウド Runpodを使おう！",
+    "link": "https://zenn.dev/nttdata_tech/articles/4b742038898d4e",
+    "pubDate": "Sun, 02 Nov 2025 03:34:30 GMT",
+    "source": "Zenn",
+    "contentSnippet": "前置き\nはじめまして！株式会社NTTデータグループの技術革新統括本部AI技術部でSmart AI Agent™のエンジニアをしている岸川です。\n今回は、GPUクラウドサービス「Runpod」について、実際に研究と仕事で活用してきた経験をもとに紹介します。「ちょっとGPU使いたいだけなのに...」という悩みを持つ方に向けて、Runpodの魅力と具体的な使い方を解説していきます！\n!\n免責事項\n本記事"
+  },
+  {
     "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
     "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
     "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT",
     "source": "Zenn",
     "contentSnippet": "Reactにおいてプロダクトの品質を高く保つには、Reactのやり方に合ったコードを書くことが重要です。公式ドキュメントの名物ページ「そのエフェクトは不要かも」には、useEffectの望ましくない使い方と、それに代わるテクニックが紹介されています。\nこの記事で取り上げるのは、その中でも「props が変更されたときに一部の state を調整する」のセクションで紹介されている、レンダリング中にス"
-  },
-  {
-    "title": "AI加速時代のQAエンジニア：開発スピードと品質のバランス戦略",
-    "link": "https://zenn.dev/pivotmedia/articles/ai-driven-development-qa-challenge",
-    "pubDate": "Sun, 02 Nov 2025 01:01:08 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AI加速時代におけるQAエンジニアの生存戦略 ― PIVOTでの実践から\nビジネス映像メディア「PIVOT」でQAエンジニアをしているケイスケです。\n本記事では、AIによる開発工程の加速に直面したとき、QAエンジニアがどのように適応していくか。\nそして、PIVOTというプロダクトで実際にどう取り組んでいるのかをお伝えします。\n\n\n 1. はじめに：AIが加速する開発と取り残されるテスト工程\nGit"
   },
   {
     "title": "Gitサブモジュールで生成AIルールとチーム開発を両立する方法",
@@ -166,27 +201,6 @@
     "pubDate": "2025-11-01T13:59:29.000Z",
     "source": "Qiita",
     "contentSnippet": "OSS監視ツール徹底比較：あなたの環境に合う選択はどれか\n\nはじめに\nクラウドネイティブ化、マルチクラウド、マイクロサービスアーキテクチャの普及により、システムの複雑性は飛躍的に増大しています。こうした環境において、適切な監視ツールの選定は、システムの安定稼働とビジネスの..."
-  },
-  {
-    "title": "カレントディレクトリとは何か  (Unix系OSの場合)",
-    "link": "https://zenn.dev/qnighy/articles/c6653eaf49a21a",
-    "pubDate": "Sat, 01 Nov 2025 13:08:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "結論\nカレントディレクトリ (以下cwd) は、以下の2つの組み合わせで管理される、プロセス状態の構成要素です。\n\n\n物理的なcwd: ディレクトリそのものを指すポインタ。カーネル側で管理される。\n\n論理的なcwd: ディレクトリパス。 PWD という名前の環境変数を経由して、ユーザーランドで管理される。\n\n\n ポイント\n一般論として、ファイルを特定する方法には、ファイルへのポインタを保持する方法"
-  },
-  {
-    "title": "Claude Code と Codex の使い",
-    "link": "https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc",
-    "pubDate": "Sat, 01 Nov 2025 10:25:52 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Claude Code と Codex の使い分け\n\n 1. 導入\n\n私は Claude Code（Anthropic） と Codex（OpenAI） を使っています．[1][2]\n\nどちらも「AIにコードを書かせる／直させる」ツールですが，得意なフェーズが違うので最近は分けて使っています．\nそこで，自分なりに整理してみようと思います（といっても仕様がガンガン変わっていくため，現時点でのよいやり"
-  },
-  {
-    "title": "Claude Code on the Webの仕様を徹底解剖",
-    "link": "https://zenn.dev/oikon/articles/claude-code-web-sandbox",
-    "pubDate": "Sat, 01 Nov 2025 09:01:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n\n2025年11月1日時点のClaude Code on the Web環境の調査結果です\n記事執筆時点でのClaude Code on the WebのClaude Codeのバージョンは2.0.25でした\nすでにSandboxの挙動が変わっているのを確認しています。実際の挙動は手元の環境で試してみてください\n\n\nOikonです。普段はAIツール、特にClaude Codeで遊んでいます。\n"
   },
   {
     "title": "JAWS FESTA 2025 in 金沢  参加レポート",
@@ -264,19 +278,5 @@
     "pubDate": "2025-10-22T15:50:43.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、Visual Studio Code（VS Code）互換のコードエディタに生成AIを統合したAIコードエディタ「Kiro」のウェイトリストが終了し、誰でもダウンロードして利用可能になったことを明らかにしました。 と同時に、「Spec Context in Chat」や「Dev server support」などの新機能も追加されました。 Kir"
-  },
-  {
-    "title": "AWS、Amazon EBSボリュームを数秒でコピーできる「Amazon EBS Volume Clones」リリース",
-    "link": "https://www.publickey1.jp/blog/25/awsamazon_ebsamazon_ebs_volume_clones.html",
-    "pubDate": "2025-10-21T15:36:24.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、ブロックストレージを提供するサービス「Amazon EBS（Amazon Elastic Block Store）のストレージボリュームを数秒でコピーできる新機能「Amazon EBS Volume Clones」のリリースを発表しました。 Amazon EBSは、そこで作成したストレージボリュームをAmazon EC2インスタンスにアタッチする"
-  },
-  {
-    "title": "Webアプリの統合開発ツールチェーン「Vite+」が登場。AIがVite+を使いこなすためのAgent Modeなど計画",
-    "link": "https://www.publickey1.jp/blog/25/webviteaiviteagent_mode.html",
-    "pubDate": "2025-10-20T15:20:25.000Z",
-    "source": "Publickey",
-    "contentSnippet": "オープンソースのWebアプリケーションビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているvoid(0)（VoidZero：ボイドゼロ）は、Viteをベースとした統合開発ツールチェーン「Vite+」を発表しました。 The Unified Toolchain for the WebWe are thrilled to announce Vite+: A unified, Rust-p"
   }
 ]

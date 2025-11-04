@@ -1,73 +1,94 @@
 [
   {
-    "title": "Big news 🚀 Stormkit is now fully open source! This has been my dream for so long, and now it came true! \r\n\r\nHere's the repo: https://github.com/stormkit-io/stormkit-io\r\n\r\nLet's build together!",
-    "link": "https://dev.to/svedova/big-news-stormkit-is-now-fully-open-source-this-has-been-my-dream-for-so-long-and-now-it-came-1pgi",
-    "pubDate": "Tue, 04 Nov 2025 06:35:43 +0000",
+    "title": "Generating Application Specific Go Documentation Using Go AST and Antora",
+    "link": "https://dev.to/frosnerd/generating-application-specific-go-documentation-using-go-ast-and-antora-aho",
+    "pubDate": "Tue, 04 Nov 2025 12:48:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub - stormkit-io/stormkit-io: Self-hostable alternative to Vercel/Netlify. Deploy modern web apps with automated CI/CD, custom domains, and environment management.\n          \n        \n          \n "
+    "contentSnippet": "Motivation\n\n\nIn one of my projects I was working on some in-house Go application to manage complex task pipelines on Kubernetes. On a high level, a task consists of one or multiple steps that are exec"
   },
   {
-    "title": "(aiohttp & asyncio) vs Requests: Comparing Python HTTP Libraries",
-    "link": "https://dev.to/ashutoshsarangi/aiohttp-asyncio-vs-requests-comparing-python-http-libraries-46j9",
-    "pubDate": "Tue, 04 Nov 2025 06:34:22 +0000",
+    "title": "How Indoor Air Quality Affects Sleep & Productivity",
+    "link": "https://dev.to/toby-patrick/how-indoor-air-quality-affects-sleep-productivity-4688",
+    "pubDate": "Tue, 04 Nov 2025 12:45:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Requests - The Simple Synchronous Library\n\n\n\n  \n  \n  What it is:\n\n\n\n\nSynchronous blocking HTTP library\nSimple, intuitive API\nMost popular for basic HTTP operations\nBlocks execution until response i"
+    "contentSnippet": "Every day, people spend nearly 90% of their time indoors — working, relaxing, and sleeping. Yet, few realize how deeply indoor air quality (IAQ) impacts overall well-being. The air circulating through"
   },
   {
-    "title": "Build a Zero-Permission File Picker in React Native with Modern Platform APIs",
-    "link": "https://dev.to/khokanuzzaman_khokan_4831/build-a-zero-permission-file-picker-in-react-native-with-modern-platform-apis-nb1",
-    "pubDate": "Tue, 04 Nov 2025 06:33:38 +0000",
+    "title": "How Do Zapier Specialists Automate Data Flow?",
+    "link": "https://dev.to/asharmalik/how-do-zapier-specialists-automate-data-flow-4cgn",
+    "pubDate": "Tue, 04 Nov 2025 12:41:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "React Native’s new native pickers make it possible to give users a great file-selection experience without scaring them off with permission prompts. I pulled those capabilities into a single package—r"
+    "contentSnippet": "In today’s fast-paced digital world, data is the backbone of every business operation. But with multiple apps, CRMs, and communication platforms involved, managing that data efficiently can quickly tu"
   },
   {
-    "title": "Launching Soon. Need your feedback guys 🙏",
-    "link": "https://dev.to/vino123/launching-soon-need-your-feedback-guys-1ipf",
-    "pubDate": "Tue, 04 Nov 2025 06:30:43 +0000",
+    "title": "My Journey Into Cloud Engineering: Why I Decided to Start",
+    "link": "https://dev.to/adebayo_ganiyatoladunjoy/my-journey-into-cloud-engineering-why-i-decided-to-start-1n54",
+    "pubDate": "Tue, 04 Nov 2025 12:41:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎉150+ BETA users already registered in a month 🎉\nWe’ve been talking with a lot of founders and developers recently, and the same struggles keep coming up:\nRequirements are often vague, which leads t"
+    "contentSnippet": "For most of my career, I’ve worked in the utility industry, ensuring customers receive the best possible support and service. Over the years, I’ve developed a passion for solving problems, understandi"
   },
   {
-    "title": "Mocking HTTP Services in C# with MockH",
-    "link": "https://dev.to/kaliumhexacyanoferrat/mocking-http-services-in-c-with-mockh-2jkj",
-    "pubDate": "Tue, 04 Nov 2025 06:30:20 +0000",
+    "title": "How to build a Heapless Vector using `MaybeUninit<T>` for Better Performance.",
+    "link": "https://dev.to/allwelldotdev/how-to-build-a-heapless-vector-using-maybeuninit-for-better-performance-ojo",
+    "pubDate": "Tue, 04 Nov 2025 12:37:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In acceptance or integration tests of your .NET application, you probably want to mock external HTTP services so you can focus on testing your implemented logic. For this purpose, you might want to mo"
+    "contentSnippet": "Finally understand MaybeUninit<T> and why it offers better performance over Option<T>, and learn to safeguard unsafe Rust with safe APIs.\nTL:DR: Heapless Vector in no_std Rust.\nRust stores data on the"
   },
   {
-    "title": "How Low-Code/No-Code Platforms Are Powering Hyperautomation Across Enterprises",
-    "link": "https://dev.to/logicverse_2025/how-low-codeno-code-platforms-are-powering-hyperautomation-across-enterprises-5hjj",
-    "pubDate": "Tue, 04 Nov 2025 06:29:56 +0000",
+    "title": "Unifying 3 LLM APIs in Python: OpenAI, Anthropic & Google with one SDK",
+    "link": "https://dev.to/inozem/unifying-3-llm-apis-in-python-openai-anthropic-google-with-one-sdk-4l2",
+    "pubDate": "Tue, 04 Nov 2025 12:34:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the race to modernise operations, businesses are increasingly combining the power of low-code/no-code (LC/NC) platforms with hyperautomation—a strategic mix of visual development, robotic process a"
+    "contentSnippet": "A year ago, I released the first version of LLM API Adapter — a lightweight SDK that unified OpenAI, Anthropic, and Google APIs under one interface.  \nIt got 7 ⭐ on GitHub and valuable feedback from e"
   },
   {
-    "title": "3 State Management Mistakes I Wish I Knew Earlier — By Bayajit Islam",
-    "link": "https://dev.to/bayajitislam/3-state-management-mistakes-i-wish-i-knew-earlier-by-bayajit-islam-4gp3",
-    "pubDate": "Tue, 04 Nov 2025 06:18:40 +0000",
+    "title": "Fixing VSCode pip not recognized Error in 5 Minutes",
+    "link": "https://dev.to/devin-rosario/fixing-vscode-pip-not-recognized-error-in-5-minutes-2ndn",
+    "pubDate": "Tue, 04 Nov 2025 12:30:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I first started building Flutter apps, state management felt overwhelming.\n\nI made some mistakes that cost me hours — here are the top 3 I wish I knew earlier 👇\nsetState Everywhere\n\n\nAt first, I"
+    "contentSnippet": "The dreaded \"pip is not recognized\" error is one of the most common and frustrating roadblocks new (and even experienced) Python developers hit when setting up their VS Code environment. It feels like"
   },
   {
-    "title": "How to use Gantt chart for time and project management? High definition template sharing",
-    "link": "https://dev.to/processon/how-to-use-gantt-chart-for-time-and-project-management-high-definition-template-sharing-128k",
-    "pubDate": "Tue, 04 Nov 2025 06:18:04 +0000",
+    "title": "Why Some Web3 Founders Are Accumulating the NLOV Token — A Practical, Cautious Look",
+    "link": "https://dev.to/neurolov__ai/why-some-web3-founders-are-accumulating-the-nlov-token-a-practical-cautious-look-47b9",
+    "pubDate": "Tue, 04 Nov 2025 12:30:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Do you often feel that time is not enough? Why are others so efficient in the same 24 hours, while you always fail to complete your tasks? The most important factor in the gap is the ability to manage"
+    "contentSnippet": "Quiet accumulation isn’t always noise — sometimes it’s strategic alignment. This article looks at why some builders and founders are taking long-term positions in the NLOV token, and what practical si"
   },
   {
-    "title": "🦇 Spooky Portal - Halloween CSS Art 🌙✨",
-    "link": "https://dev.to/dmsmenula/spooky-night-halloween-css-art-4h0n",
-    "pubDate": "Tue, 04 Nov 2025 06:17:37 +0000",
+    "title": "How Playwright Finds Buttons and Text More Smartly Than Selenium",
+    "link": "https://dev.to/magi-magificient/how-playwright-finds-buttons-and-text-more-smartly-than-selenium-129",
+    "pubDate": "Tue, 04 Nov 2025 12:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, CSS Art.\nHalloween has always been about that magical mix of spooky and beautiful — the glowing moon, the flying bats, and the mysterio"
+    "contentSnippet": "This post talks about another testing tool called Playwright.\nDo you want to learn playwright contact testleaf\nThink of Playwright as a modern version of Selenium — it does the same job (checking whet"
   },
   {
-    "title": "The Software Development Journey",
-    "link": "https://dev.to/jedaqsaul/the-software-development-journey-2g6j",
-    "pubDate": "Tue, 04 Nov 2025 06:13:15 +0000",
+    "title": "Client Status Update Emails: 15 Templates That Actually Work for Agencies",
+    "link": "https://dev.to/teamcamp/client-status-update-emails-15-templates-that-actually-work-for-agencies-4gnj",
+    "pubDate": "Tue, 04 Nov 2025 12:27:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "My Journey in Software Development: From Learning to Building Real Projects\nOver the past few months, my journey as a software developer has been nothing short of transformative. What began as a deep "
+    "contentSnippet": "It’s 6 PM on a Tuesday. You’re still typing up client update emails while your team has already logged off. Sound familiar?\nIf you run a digital agency, whether in marketing, design, or development, y"
+  },
+  {
+    "title": "【小ネタ】Azure Functionsから“長期鍵なし”でAWSを操作する ~ OIDC＋AssumeRoleWithWebIdentityでS3を触ってみた~",
+    "link": "https://qiita.com/YutoSekine/items/cbe78c96c18c289ab7a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T05:11:21.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n記事をご覧頂きありがとうございます！\n前回に引き続き、今回も小ネタで、Azure FunctionsからAWSを操作する構成を検証したのでご紹介します。今回はSSO構成を採用せず、OIDC＋AssumeRoleWithWebIdentityで長期鍵なしの接続を検..."
+  },
+  {
+    "title": "OpenAI AgentKitでサクッとAIエージェント作ってみた",
+    "link": "https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T01:29:45.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは！KIYO LearningでAirCourseの開発をしている森下です。今回は、OpenAIが2025年10月6日に発表した、AgentKitについてご紹介します！\nこの記事では、AgentKitを使って星座占いAIエージェントを実際に作ってみるまで..."
+  },
+  {
+    "title": "【ポケモン×Java】知識編 Scanner#3 〜数字入力：安全に文字→数値へ〜",
+    "link": "https://qiita.com/hitomin_poke/items/26eff0158bc24946e93c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-03T23:50:59.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n前回の記事 #2 では nextLine() で「一行を読み取る方法」を学習しました。\nここから一歩進んで、文字で受け取った入力を安全に数値へ変換 する方法を学びます。\n\n今日のゴール\n\n文字列で受けてから Integer.parseInt や Double...."
   },
   {
     "title": "Claude Codeでトークン使用量とGitブランチをリアルタイム表示する方法(解説あり)",
@@ -105,11 +126,11 @@
     "contentSnippet": "0. はじめに\nValueObjectって\"不変性\"や\"同一性を持たない\"という点が特徴ですよね。\nあなたのドメインモデリングは、その特徴を消した実装になっていませんか？\nソフトウェア業界で著名な Vladimir Khorikov 氏は以下のように言及されています。\n\n..."
   },
   {
-    "title": "ガバクラ共同利用方式のように直接操作できないアカウントの EC2 を閉域 API Geteway 経由でオンプレミスから起動停止できるようにする",
-    "link": "https://qiita.com/takeda_h/items/ef6e74da773769519573?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-03T08:31:26.000Z",
+    "title": "【CSS】フォントサイズを横幅ぴったりに合わせるfit-widthの提案",
+    "link": "https://qiita.com/rana_kualu/items/bbdffd6ec5e8d596812e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-03T10:16:25.000Z",
     "source": "Qiita",
-    "contentSnippet": "先日、デジタル庁が 継続的運用経費削減 (FinOps) ガイド を公開しました。この中で「運用保守作業の削減アプローチ例」として、地方自治体向けに作業の内製化が挙げられており、サービスの起動停止処理を自治体職員が行う、といった例示がされていました。\n地方自治体のガバメント..."
+    "contentSnippet": "安いゲームの日本語訳とかで、テキストが画面枠をはみ出て見切れるという何も考えてない実装をよく見かけますよね。\nそれよりは見えるだけまだマシなものとして、文字数が多くなると画面幅に合わせてフォントサイズが小さくなるという実装もたまに見かけます。\n\n※ねとらぼより拝借\nこの後者..."
   },
   {
     "title": "GitHub Universe2025 全アップデート&Keynoteまとめ",
@@ -119,25 +140,18 @@
     "contentSnippet": "Happy Universe(*ﾉωﾉ)\nGitHub Universeの全アップデートKeynoteのまとめをお届けします！KeynoteのSatya NadellaのFireside chatの内容の日本語訳もあります（例によって動画聴きながらセルフ翻訳です。訳の誤りあったらコメントください）。\nKeynoteに登場しなかった全部のアプデをご紹介しています。\n\n 記事の諸元の公式のアップデート"
   },
   {
+    "title": "copilot-instructions.mdだけじゃない！GitHub Copilotのカスタム指示まとめ",
+    "link": "https://qiita.com/yuzora_yu/items/83404fd51ba1faeeeca0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-03T05:34:42.000Z",
+    "source": "Qiita",
+    "contentSnippet": "ちょっと前にcopilot-instructions.mdを作成すると良い、という記事が話題になりました。\n\n実はこれ以外にも、GitHub Copilotには設定しとくとよいカスタム指示ファイルがいくつかあります。\nこの記事ではそれらを紹介していきます。\n\nこの記事..."
+  },
+  {
     "title": "VimConf 2025 small に運営として参加しました",
     "link": "https://zenn.dev/mattn/articles/4efa9e1c42613b",
     "pubDate": "Mon, 03 Nov 2025 02:25:23 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n昨日 11/2 秋葉原のアキバプラザ 5F 大ホール。VimConf 2025 small が開催されました。例年の様に僕はスタッフとして参加させて頂きました。\n\n\n受付で「ノベルティを持っていって下さい」と言っていたのが僕です。\n\nスタッフ業をしていたので全ての発表を聞けてなかったのですが。幾らかは聞きました。その中でも僕が気になったのは2つ。\n\n And Yet, Vim Survi"
-  },
-  {
-    "title": "「猫でもわかるAmazon Q Developer CLI 解体新書」爆誕！",
-    "link": "https://qiita.com/kamogashira/items/ec2ed9b39052d55d4f13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-03T01:00:43.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n本記事は、2025年10月29日(水) に実施された「JAWS-UG AI/ML #32：Generative AI / ML LT大会」 LT枠で発表した「Amazon Q Developer CLI解体新書」(以後解体新書と略す)についての紹介記事になります..."
-  },
-  {
-    "title": "AWS障害対応の事後報告書を自動生成！CloudWatch Incident Reportsを実際に使ってみた",
-    "link": "https://qiita.com/sh_fk2/items/14e5595e40fc3024c805?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-02T22:37:39.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n　エンタープライズの運用をしていると、障害対応を実施した後、事後に実施する「障害報告書」の形式的な整理に時間や労力が掛かってしまって、本来行うべきポストモーテムの作成、改善への向けた取り組みに力を割けないということが、しばしば起こると感じていました。\n　そんな中..."
   },
   {
     "title": "AI駆動開発実践者によるリアルな機能開発プロセスを丁寧に解説してみた",
@@ -203,25 +217,11 @@
     "contentSnippet": "はじめに\nお疲れ様です。\n今回の課題では、「Study Spot Vancouver」 という自習スポット検索アプリを開発しました。\nReact・TypeScript・Supabase・Google Maps API・Chakra UIを使用し、\n地図上にピンを表示 → ..."
   },
   {
-    "title": "nanochatを全て解説する",
-    "link": "https://qiita.com/Shin_unity3dcg/items/2da1c76d0f733678b1d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T15:54:02.000Z",
-    "source": "Qiita",
-    "contentSnippet": "概要\nnanochatはTransformerを作った人のうちの一人である、Karpathyさんが作った、Transformer (GPT) の事前学習、事後学習、評価、モデル出力(hugginface)、lossなどの記録(wandb)の全てをコマンド一つで行うことが出..."
-  },
-  {
     "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
     "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-01T13:59:29.000Z",
     "source": "Qiita",
     "contentSnippet": "OSS監視ツール徹底比較：あなたの環境に合う選択はどれか\n\nはじめに\nクラウドネイティブ化、マルチクラウド、マイクロサービスアーキテクチャの普及により、システムの複雑性は飛躍的に増大しています。こうした環境において、適切な監視ツールの選定は、システムの安定稼働とビジネスの..."
-  },
-  {
-    "title": "JAWS FESTA 2025 in 金沢  参加レポート",
-    "link": "https://qiita.com/yakumo_09/items/94848ed1297be3d20e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T05:31:48.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n\n今回は2025年10月11日(土)に開催された、JAWS FESTA 2025 in 金沢について振り返っていこうと思います。\n運営としても、登壇者としても関わることのできたカンファレンスでたくさんの想いがあるので、ここに書いていこうと思います。\n\nJAWSF..."
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",

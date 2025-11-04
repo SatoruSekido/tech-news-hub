@@ -1,73 +1,87 @@
 [
   {
-    "title": "How I Use AI to Build Frontend Apps: My Candid, Messy Process",
-    "link": "https://dev.to/blackgirlbytes/how-i-use-ai-to-build-frontend-apps-my-candid-messy-process-3ehk",
-    "pubDate": "Tue, 04 Nov 2025 01:53:53 +0000",
+    "title": "Big news 🚀 Stormkit is now fully open source! This has been my dream for so long, and now it came true! \r\n\r\nHere's the repo: https://github.com/stormkit-io/stormkit-io\r\n\r\nLet's build together!",
+    "link": "https://dev.to/svedova/big-news-stormkit-is-now-fully-open-source-this-has-been-my-dream-for-so-long-and-now-it-came-1pgi",
+    "pubDate": "Tue, 04 Nov 2025 06:35:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've noticed that some of the pushback against using AI to code stems from people not knowing how to use it. I know, I know (you've heard the “skill issue” joke before, and it sounds annoying), but it"
+    "contentSnippet": "GitHub - stormkit-io/stormkit-io: Self-hostable alternative to Vercel/Netlify. Deploy modern web apps with automated CI/CD, custom domains, and environment management.\n          \n        \n          \n "
   },
   {
-    "title": "Serverless Architectures: Simplifying Development with the Cloud",
-    "link": "https://dev.to/softwaredeveloper01/serverless-architectures-simplifying-development-with-the-cloud-54fj",
-    "pubDate": "Tue, 04 Nov 2025 01:52:00 +0000",
+    "title": "(aiohttp & asyncio) vs Requests: Comparing Python HTTP Libraries",
+    "link": "https://dev.to/ashutoshsarangi/aiohttp-asyncio-vs-requests-comparing-python-http-libraries-46j9",
+    "pubDate": "Tue, 04 Nov 2025 06:34:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Imagine this: You’re an app developer, juggling the challenges of scaling your app to handle thousands of users while trying to focus on delivering awesome features. Sounds stressful, right? But what "
+    "contentSnippet": "1. Requests - The Simple Synchronous Library\n\n\n\n  \n  \n  What it is:\n\n\n\n\nSynchronous blocking HTTP library\nSimple, intuitive API\nMost popular for basic HTTP operations\nBlocks execution until response i"
   },
   {
-    "title": "A beginner's guide to the Any-Comfyui-Workflow model by Comfyui on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-any-comfyui-workflow-model-by-comfyui-on-replicate-165i",
-    "pubDate": "Tue, 04 Nov 2025 01:51:35 +0000",
+    "title": "Build a Zero-Permission File Picker in React Native with Modern Platform APIs",
+    "link": "https://dev.to/khokanuzzaman_khokan_4831/build-a-zero-permission-file-picker-in-react-native-with-modern-platform-apis-nb1",
+    "pubDate": "Tue, 04 Nov 2025 06:33:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Any-Comfyui-Workflow maintained by Comfyui. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nany-comfyui-work"
+    "contentSnippet": "React Native’s new native pickers make it possible to give users a great file-selection experience without scaring them off with permission prompts. I pulled those capabilities into a single package—r"
   },
   {
-    "title": "You Don't Always Need useCallback and useMemo",
-    "link": "https://dev.to/danishaft/you-dont-always-need-usecallback-and-usememo-47op",
-    "pubDate": "Tue, 04 Nov 2025 01:35:46 +0000",
+    "title": "Launching Soon. Need your feedback guys 🙏",
+    "link": "https://dev.to/vino123/launching-soon-need-your-feedback-guys-1ipf",
+    "pubDate": "Tue, 04 Nov 2025 06:30:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "React Hooks have revolutionized how we manage logic and side effects in functional components, but two hooks—useCallback and useMemo—are frequently misunderstood and overused in the process of obsessi"
+    "contentSnippet": "🎉150+ BETA users already registered in a month 🎉\nWe’ve been talking with a lot of founders and developers recently, and the same struggles keep coming up:\nRequirements are often vague, which leads t"
   },
   {
-    "title": "通过 9Proxy 测试本地化网站，体验前所未有的高精度",
-    "link": "https://dev.to/lopezjessicancmxe_e881660/tong-guo-9proxy-ce-shi-ben-di-hua-wang-zhan-ti-yan-qian-suo-wei-you-de-gao-jing-du-27m3",
-    "pubDate": "Tue, 04 Nov 2025 01:34:11 +0000",
+    "title": "Mocking HTTP Services in C# with MockH",
+    "link": "https://dev.to/kaliumhexacyanoferrat/mocking-http-services-in-c-with-mockh-2jkj",
+    "pubDate": "Tue, 04 Nov 2025 06:30:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "但在其他地方却不能正常显示？\n\n这时，你就需要用到 住宅代理（Residential Proxy）。\n代理（Proxy） 是你与互联网之间的中介。\n\n简单来说，代理通过路由服务器让你看起来像是从其他地方访问网站，\n\n从而 隐藏你的真实 IP 地址。  \n对于 本地化网站测试，使用 住宅代理 是最合适的选择。\n\n为什么？因为住宅代理比数据中心代理更难被检测。\n住宅代理 使用的是由 ISP（互联网服务"
+    "contentSnippet": "In acceptance or integration tests of your .NET application, you probably want to mock external HTTP services so you can focus on testing your implemented logic. For this purpose, you might want to mo"
   },
   {
-    "title": "Daily Artificial Intelligence Digest - Nov 04, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-04-2025-402e",
-    "pubDate": "Tue, 04 Nov 2025 01:29:38 +0000",
+    "title": "How Low-Code/No-Code Platforms Are Powering Hyperautomation Across Enterprises",
+    "link": "https://dev.to/logicverse_2025/how-low-codeno-code-platforms-are-powering-hyperautomation-across-enterprises-5hjj",
+    "pubDate": "Tue, 04 Nov 2025 06:29:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI Infrastructure & Strategic Partnerships\n\n\nMajor cloud providers are solidifying their positions as the backbone for AI development, with AWS and OpenAI partnership cementing a substantial cloud com"
+    "contentSnippet": "In the race to modernise operations, businesses are increasingly combining the power of low-code/no-code (LC/NC) platforms with hyperautomation—a strategic mix of visual development, robotic process a"
   },
   {
-    "title": "3318. Find X-Sum of All K-Long Subarrays I",
-    "link": "https://dev.to/mdarifulhaque/3318-find-x-sum-of-all-k-long-subarrays-i-2jgg",
-    "pubDate": "Tue, 04 Nov 2025 01:25:28 +0000",
+    "title": "3 State Management Mistakes I Wish I Knew Earlier — By Bayajit Islam",
+    "link": "https://dev.to/bayajitislam/3-state-management-mistakes-i-wish-i-knew-earlier-by-bayajit-islam-4gp3",
+    "pubDate": "Tue, 04 Nov 2025 06:18:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "3318. Find X-Sum of All K-Long Subarrays I\nDifficulty: Easy\nTopics: Array, Hash Table, Sliding Window, Heap (Priority Queue), Weekly Contest 419\nYou are given an array nums of n integers and two integ"
+    "contentSnippet": "When I first started building Flutter apps, state management felt overwhelming.\n\nI made some mistakes that cost me hours — here are the top 3 I wish I knew earlier 👇\nsetState Everywhere\n\n\nAt first, I"
   },
   {
-    "title": "Warum die Zukunft der Web3-Entwicklung von der Benutzererfahrung abhängt – nicht nur vom Code",
-    "link": "https://dev.to/piwa_lin_8b3155c3dd85f0f9/warum-die-zukunft-der-web3-entwicklung-von-der-benutzererfahrung-abhangt-nicht-nur-vom-code-jnp",
-    "pubDate": "Tue, 04 Nov 2025 01:21:53 +0000",
+    "title": "How to use Gantt chart for time and project management? High definition template sharing",
+    "link": "https://dev.to/processon/how-to-use-gantt-chart-for-time-and-project-management-high-definition-template-sharing-128k",
+    "pubDate": "Tue, 04 Nov 2025 06:18:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Entwickler haben die Zukunft gebaut – jetzt muss sie benutzbar werden\nJahrelang haben sich Krypto-Entwickler auf die „harten“ Probleme konzentriert – Skalierbarkeit, Sicherheit, Dezentralisierung.\nWen"
+    "contentSnippet": "Do you often feel that time is not enough? Why are others so efficient in the same 24 hours, while you always fail to complete your tasks? The most important factor in the gap is the ability to manage"
   },
   {
-    "title": "How I Use Claude and NotebookLM to Accelerate My Learning and Technical Writing Process",
-    "link": "https://dev.to/sarah-techwriter/how-i-use-claude-and-notebooklm-to-accelerate-my-learning-and-technical-writing-process-nk",
-    "pubDate": "Tue, 04 Nov 2025 01:15:16 +0000",
+    "title": "🦇 Spooky Portal - Halloween CSS Art 🌙✨",
+    "link": "https://dev.to/dmsmenula/spooky-night-halloween-css-art-4h0n",
+    "pubDate": "Tue, 04 Nov 2025 06:17:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is my learning journey blog on \"how I leverage AI tools Claude and NotebookLM to accelerate my learning, technical writing creation and create better documentation\"\nAs a person with high curiosit"
+    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, CSS Art.\nHalloween has always been about that magical mix of spooky and beautiful — the glowing moon, the flying bats, and the mysterio"
   },
   {
-    "title": "Mastering Web Internationalization",
-    "link": "https://dev.to/xfq/mastering-web-internationalization-i7m",
-    "pubDate": "Tue, 04 Nov 2025 01:11:41 +0000",
+    "title": "The Software Development Journey",
+    "link": "https://dev.to/jedaqsaul/the-software-development-journey-2g6j",
+    "pubDate": "Tue, 04 Nov 2025 06:13:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As developers striving for excellence, it is our responsibility to build web experiences that are not only functional but also accessible and inclusive for a global audience. Internationalization, oft"
+    "contentSnippet": "My Journey in Software Development: From Learning to Building Real Projects\nOver the past few months, my journey as a software developer has been nothing short of transformative. What began as a deep "
+  },
+  {
+    "title": "Claude Codeでトークン使用量とGitブランチをリアルタイム表示する方法(解説あり)",
+    "link": "https://zenn.dev/little_hand_s/articles/dbd5fc27f5a2f0",
+    "pubDate": "Mon, 03 Nov 2025 22:53:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TL;DR（3行まとめ）\n\nClaude Codeのステータスラインにトークン使用量・ブランチ名・セッションIDを常時表示\n設定は5分、コピペだけで完了\n圧縮タイミングを事前に把握して、セッションデータを計画的に管理が可能に\n\n\n 表示イメージ\n設定後、こんな感じでステータスライン(ClaudeCodeの入力欄の下の表示)に情報が表示されます：\n[Sonnet 4.5] 📁 task-manag"
+  },
+  {
+    "title": "システム構成図・シーケンス図、結局どれ使う？人気ツールとエンジニアのリアルな使い分け徹底解説",
+    "link": "https://zenn.dev/akari1106/articles/a9e8be49256ca3",
+    "pubDate": "Mon, 03 Nov 2025 16:53:36 GMT",
+    "source": "Zenn",
+    "contentSnippet": "システム構成図やシーケンス図を描くとき、「どのツールを使えばいいの？」 と悩んでいませんか？\ndraw.io、PlantUML、Mermaid、FigJam...選択肢が多すぎて、結局いつも同じツールに逃げてしまう。でも本当にそれでいいのか不安。\nこの記事では、実際のエンジニアたちが使っているツールと、その選び方を徹底的にまとめました。\n▼ガッシーさんのツイート\nhttps://x.com/Gus"
   },
   {
     "title": "サイバーエージェントがAIアプリ「Dify」のベクトルDBとしてTiDBを選択。AIアプリの全社導入に耐えうる基盤を構築［PR］",
@@ -154,6 +168,13 @@
     "contentSnippet": "プロフィール\n情報系学生2年。普段はWebの授業を受けているが、知人の紹介でFlutterを触り始めた。将来はモバイルアプリケーションエンジニアをめざして勉強中。\nhttps://x.com/minato_engineer\n⸻\n\n 初日で感じた驚き\nVS CodeからCursorに乗り換えた1日目。普段はFlutterを書いているけど、最初の数時間で「ここまで進化してたんだ」って思うほどの衝撃を受"
   },
   {
+    "title": "お手軽デプロイ！Hono + Amplify Gen2で軽量フルスタック環境を構築",
+    "link": "https://zenn.dev/sonicmoov/articles/96487960807d8c",
+    "pubDate": "Sun, 02 Nov 2025 14:46:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n今回は、軽量Webフレームワーク Hono を AWS Amplify Gen2 にデプロイする方法を紹介します。\nAmplify Gen2はNext.jsが有名ですが、Honoのような軽量フレームワークとAmplifyの強力なBaaS（AppSync, Lambda）を手軽に組み合わせる方法を実証します。\n\n 技術スタックと構成\n\n\nフロントエンド (SSR): Hono + JSX\n"
+  },
+  {
     "title": "Ratatuiのチュートリアルをやる: その1",
     "link": "https://zenn.dev/helloyuki/articles/e9f25dc546b280",
     "pubDate": "Sun, 02 Nov 2025 14:10:12 GMT",
@@ -175,32 +196,11 @@
     "contentSnippet": "Docker以外のコンテナエンジン完全ガイド：初心者から実践まで\n最終更新: 2025年11月（Kubernetes 1.34対応確認済み）\n\nはじめに\n「コンテナ = Docker」と思っている方も多いのではないでしょうか？実は、コンテナ技術の世界にはDocker以外に..."
   },
   {
-    "title": "DGX Spark上でDeepSeek-OCRをコマンド一発で動くようにしてみた",
-    "link": "https://zenn.dev/karaage0703/articles/bdb75652eebc54",
-    "pubDate": "Sun, 02 Nov 2025 08:38:29 GMT",
-    "source": "Zenn",
-    "contentSnippet": "DeepSeek-OCRを試す\nshi3zさんが自分の記事を参考にDeepSeek-OCRを試してくださっていました。\nhttps://note.com/shi3zblog/n/n99bb0c642f1e\n試したのは普通のA100ということなので、NVIDIA DGX Spark上でDeepSeek-OCRを動かすことにしました。\nところがこれが難しい…GPU対応のPyTorch入れるも、vLL入"
-  },
-  {
     "title": "【個人開発】勉強に集中できる場所が見つからない問題を解決する地図アプリを個人開発した【React/Supabase】",
     "link": "https://qiita.com/kazutorahattori/items/b79304ceafae157ba86c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-02T08:00:06.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nお疲れ様です。\n今回の課題では、「Study Spot Vancouver」 という自習スポット検索アプリを開発しました。\nReact・TypeScript・Supabase・Google Maps API・Chakra UIを使用し、\n地図上にピンを表示 → ..."
-  },
-  {
-    "title": "使い捨てできるGPUクラウド Runpodを使おう！",
-    "link": "https://zenn.dev/nttdata_tech/articles/4b742038898d4e",
-    "pubDate": "Sun, 02 Nov 2025 03:34:30 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前置き\nはじめまして！株式会社NTTデータグループの技術革新統括本部AI技術部でSmart AI Agent™のエンジニアをしている岸川です。\n今回は、GPUクラウドサービス「Runpod」について、実際に研究と仕事で活用してきた経験をもとに紹介します。「ちょっとGPU使いたいだけなのに...」という悩みを持つ方に向けて、Runpodの魅力と具体的な使い方を解説していきます！\n!\n免責事項\n本記事"
-  },
-  {
-    "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
-    "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
-    "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Reactにおいてプロダクトの品質を高く保つには、Reactのやり方に合ったコードを書くことが重要です。公式ドキュメントの名物ページ「そのエフェクトは不要かも」には、useEffectの望ましくない使い方と、それに代わるテクニックが紹介されています。\nこの記事で取り上げるのは、その中でも「props が変更されたときに一部の state を調整する」のセクションで紹介されている、レンダリング中にス"
   },
   {
     "title": "nanochatを全て解説する",

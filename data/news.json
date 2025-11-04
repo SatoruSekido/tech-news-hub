@@ -1,73 +1,87 @@
 [
   {
-    "title": "Generating Application Specific Go Documentation Using Go AST and Antora",
-    "link": "https://dev.to/frosnerd/generating-application-specific-go-documentation-using-go-ast-and-antora-aho",
-    "pubDate": "Tue, 04 Nov 2025 12:48:06 +0000",
+    "title": "Launching LightSpeedUp: Hosting with network isolation - 70% cheaper than AWS",
+    "link": "https://dev.to/lightspeedup/launching-lightspeedup-hosting-with-network-isolation-70-cheaper-than-aws-5c6c",
+    "pubDate": "Tue, 04 Nov 2025 18:36:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Motivation\n\n\nIn one of my projects I was working on some in-house Go application to manage complex task pipelines on Kubernetes. On a high level, a task consists of one or multiple steps that are exec"
+    "contentSnippet": "Hey Dev.to! 👋\nI just launched my hosting platform with something unique: optional network isolation. Let me share the technical details.\nCommunity Shared Network (vmbr0):\nMultiple customers on same n"
   },
   {
-    "title": "How Indoor Air Quality Affects Sleep & Productivity",
-    "link": "https://dev.to/toby-patrick/how-indoor-air-quality-affects-sleep-productivity-4688",
-    "pubDate": "Tue, 04 Nov 2025 12:45:29 +0000",
+    "title": "Tool to create free n8n flows without login (in beta)",
+    "link": "https://dev.to/jawuilp/tool-to-create-free-n8n-flows-without-login-in-beta-3j5i",
+    "pubDate": "Tue, 04 Nov 2025 18:28:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every day, people spend nearly 90% of their time indoors — working, relaxing, and sleeping. Yet, few realize how deeply indoor air quality (IAQ) impacts overall well-being. The air circulating through"
+    "contentSnippet": "Hello everyone!\nI'm creating a tool to help you build n8n flows using AI, and I'd appreciate any feedback or suggestions.\nHere's the link; it's free to use, no registration required.\nhttps://jawuil.de"
   },
   {
-    "title": "How Do Zapier Specialists Automate Data Flow?",
-    "link": "https://dev.to/asharmalik/how-do-zapier-specialists-automate-data-flow-4cgn",
-    "pubDate": "Tue, 04 Nov 2025 12:41:32 +0000",
+    "title": "Spooky Spider Web Studio",
+    "link": "https://dev.to/ignaciah/spooky-spider-web-studio-29m9",
+    "pubDate": "Tue, 04 Nov 2025 18:19:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s fast-paced digital world, data is the backbone of every business operation. But with multiple apps, CRMs, and communication platforms involved, managing that data efficiently can quickly tu"
+    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, CSS Art.\n*Theme: * Spooky Spider Web Art\nReveals spooky elements on hover\nCombines CSS animations, transformations, and hover effects\n<"
   },
   {
-    "title": "My Journey Into Cloud Engineering: Why I Decided to Start",
-    "link": "https://dev.to/adebayo_ganiyatoladunjoy/my-journey-into-cloud-engineering-why-i-decided-to-start-1n54",
-    "pubDate": "Tue, 04 Nov 2025 12:41:04 +0000",
+    "title": "Real-Time Streaming in .NET SignalR — Live Data Like Trading Apps",
+    "link": "https://dev.to/morteza-jangjoo/real-time-streaming-in-net-signalr-live-data-like-trading-apps-45h4",
+    "pubDate": "Tue, 04 Nov 2025 18:19:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For most of my career, I’ve worked in the utility industry, ensuring customers receive the best possible support and service. Over the years, I’ve developed a passion for solving problems, understandi"
+    "contentSnippet": "Building real-time apps in .NET?\n\nChat and notifications are easy — but what about continuous streaming data like:\nLive crypto & Forex prices\n\nStock tick feeds\n\nIoT sensor streams\n\nAI live token outpu"
   },
   {
-    "title": "How to build a Heapless Vector using `MaybeUninit<T>` for Better Performance.",
-    "link": "https://dev.to/allwelldotdev/how-to-build-a-heapless-vector-using-maybeuninit-for-better-performance-ojo",
-    "pubDate": "Tue, 04 Nov 2025 12:37:22 +0000",
+    "title": "Top 7 Featured DEV Posts of the Week",
+    "link": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e",
+    "pubDate": "Tue, 04 Nov 2025 18:14:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Finally understand MaybeUninit<T> and why it offers better performance over Option<T>, and learn to safeguard unsafe Rust with safe APIs.\nTL:DR: Heapless Vector in no_std Rust.\nRust stores data on the"
+    "contentSnippet": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the previous week.\nCongrats to all the authors that made it onto the list 👏\nFull Stack Fatigue:\nPeter Ha"
   },
   {
-    "title": "Unifying 3 LLM APIs in Python: OpenAI, Anthropic & Google with one SDK",
-    "link": "https://dev.to/inozem/unifying-3-llm-apis-in-python-openai-anthropic-google-with-one-sdk-4l2",
-    "pubDate": "Tue, 04 Nov 2025 12:34:19 +0000",
+    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-147c",
+    "pubDate": "Tue, 04 Nov 2025 18:00:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A year ago, I released the first version of LLM API Adapter — a lightweight SDK that unified OpenAI, Anthropic, and Google APIs under one interface.  \nIt got 7 ⭐ on GitHub and valuable feedback from e"
+    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less is CinemaSins’ latest deep-dive into Nicolas Cage’s wild turn in Longlegs, teasing out every over-the-top moment and storytelling hiccup in true si"
   },
   {
-    "title": "Fixing VSCode pip not recognized Error in 5 Minutes",
-    "link": "https://dev.to/devin-rosario/fixing-vscode-pip-not-recognized-error-in-5-minutes-2ndn",
-    "pubDate": "Tue, 04 Nov 2025 12:30:52 +0000",
+    "title": "CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-c06",
+    "pubDate": "Tue, 04 Nov 2025 18:00:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The dreaded \"pip is not recognized\" error is one of the most common and frustrating roadblocks new (and even experienced) Python developers hit when setting up their VS Code environment. It feels like"
+    "contentSnippet": "Everything Wrong With Predator: Killer of Killers dives head-first into the new animated Predator adventure, tearing apart every plot leap, Predator quirk and CGI moment across a rapid-fire 16-minute "
   },
   {
-    "title": "Why Some Web3 Founders Are Accumulating the NLOV Token — A Practical, Cautious Look",
-    "link": "https://dev.to/neurolov__ai/why-some-web3-founders-are-accumulating-the-nlov-token-a-practical-cautious-look-47b9",
-    "pubDate": "Tue, 04 Nov 2025 12:30:11 +0000",
+    "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1jo5",
+    "pubDate": "Tue, 04 Nov 2025 18:00:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Quiet accumulation isn’t always noise — sometimes it’s strategic alignment. This article looks at why some builders and founders are taking long-term positions in the NLOV token, and what practical si"
+    "contentSnippet": "Caravan of Garbage tackles Predator 2, the 1990 sequel that ditches Schwarzenegger and the jungle for Danny Glover navigating a crime-ridden, sweltering L.A. heat wave. They dig into how this follow-u"
   },
   {
-    "title": "How Playwright Finds Buttons and Text More Smartly Than Selenium",
-    "link": "https://dev.to/magi-magificient/how-playwright-finds-buttons-and-text-more-smartly-than-selenium-129",
-    "pubDate": "Tue, 04 Nov 2025 12:30:00 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "This post talks about another testing tool called Playwright.\nDo you want to learn playwright contact testleaf\nThink of Playwright as a modern version of Selenium — it does the same job (checking whet"
+    "title": "IPA 登大遊氏の基調講演、NOT A HOTELの自動化例、コカコーラのAI活用など、情シスが創るビジネスの明日をテーマにしたイベント開催［PR］",
+    "link": "https://www.publickey1.jp/blog/25/btconjp2025pr.html",
+    "pubDate": "2025-11-04T17:56:46.000Z",
+    "source": "Publickey",
+    "contentSnippet": "企業のデジタル基盤を支えるだけでなく、ビジネスの成長を牽引する存在である情報システム部門（情シス）。その「情シスが創るビジネスの明日」をテーマにしたイベント「BTCONJP 2025 情シスカンファレンス」が、今年も11月15日土曜日にLINEヤフー株式会社（東京ガーデンテラス紀尾井町 紀尾井タワー17F）で開催されます。 主催するBTCONJPは、1万5000ユーザーを擁する情シスコミュニティ「"
   },
   {
-    "title": "Client Status Update Emails: 15 Templates That Actually Work for Agencies",
-    "link": "https://dev.to/teamcamp/client-status-update-emails-15-templates-that-actually-work-for-agencies-4gnj",
-    "pubDate": "Tue, 04 Nov 2025 12:27:37 +0000",
+    "title": "What is Code Refactoring? Tools, Tips, and Best Practices",
+    "link": "https://dev.to/matt_tanner_f9c36595644ad/what-is-code-refactoring-tools-tips-and-best-practices-lh6",
+    "pubDate": "Tue, 04 Nov 2025 17:56:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "It’s 6 PM on a Tuesday. You’re still typing up client update emails while your team has already logged off. Sound familiar?\nIf you run a digital agency, whether in marketing, design, or development, y"
+    "contentSnippet": "I love a good refactor. Who doesn't? Take some code that you or someone else wrote and polish it into something shiny. In fact, sometimes taking old code and refactoring it into something elegant and "
+  },
+  {
+    "title": "File Chunking: Why It Matters for Cybersecurity in Modern Applications",
+    "link": "https://dev.to/securebitchat/file-chunking-why-it-matters-for-cybersecurity-in-modern-applications-5418",
+    "pubDate": "Tue, 04 Nov 2025 17:55:02 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "What Is File Chunking?\n\n\n“Chunking” means splitting a large file into many smaller pieces (chunks) before sending or processing it.\nInstead of sending one huge blob of data at once, the application se"
+  },
+  {
+    "title": "OpenAIやマイクロソフト、メタ、シスコ、AMDらがイーサネットをAI向けに広帯域かつ低遅延にする「Ethernet for Scale-Up Networking 」（ESUN）プロジェクト開始",
+    "link": "https://www.publickey1.jp/blog/25/openaiamdaiethernet_for_scale-up_networking_esun.html",
+    "pubDate": "2025-11-04T15:18:18.000Z",
+    "source": "Publickey",
+    "contentSnippet": "生成AIの急速な普及と成長によって、データセンターにおける生成AIの学習や推論処理を高速かつ効率化するために、より広帯域で低遅延な高密度ネットワークへの要求が高まっています。 こうした用途のために、Compute Express Link（CXL）やNVidiaのNVlinkなどいくつかのソリューションは市場に投入されているものの、これらは多くのベンダが求めるようなオープンで相互運入可能なニーズに"
   },
   {
     "title": "【小ネタ】Azure Functionsから“長期鍵なし”でAWSを操作する ~ OIDC＋AssumeRoleWithWebIdentityでS3を触ってみた~",
@@ -75,6 +89,13 @@
     "pubDate": "2025-11-04T05:11:21.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n記事をご覧頂きありがとうございます！\n前回に引き続き、今回も小ネタで、Azure FunctionsからAWSを操作する構成を検証したのでご紹介します。今回はSSO構成を採用せず、OIDC＋AssumeRoleWithWebIdentityで長期鍵なしの接続を検..."
+  },
+  {
+    "title": "ドキュメント検索MCPサーバを作ってみた【MCP+OpenSearch+AWS】",
+    "link": "https://zenn.dev/levtech/articles/a5a3204ffed86c",
+    "pubDate": "Tue, 04 Nov 2025 03:07:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは、SREチームの鈴木です。\nSREチームでは、開発リソースの20%を目安にメインプロジェクト以外の「自チームの運用課題の解消」に取り組むことができます。\n現在、AWS・New Relic・TiDB など開発部で利用する複数のSaaSを管理しており、問い合わせ対応にかかる工数が課題になっています。これを解決するため、各サービスの公式ドキュメントを参照して正確な回答を返す MCP "
   },
   {
     "title": "OpenAI AgentKitでサクッとAIエージェント作ってみた",
@@ -96,6 +117,13 @@
     "pubDate": "Mon, 03 Nov 2025 22:53:38 GMT",
     "source": "Zenn",
     "contentSnippet": "TL;DR（3行まとめ）\n\nClaude Codeのステータスラインにトークン使用量・ブランチ名・セッションIDを常時表示\n設定は5分、コピペだけで完了\n圧縮タイミングを事前に把握して、セッションデータを計画的に管理が可能に\n\n\n 表示イメージ\n設定後、こんな感じでステータスライン(ClaudeCodeの入力欄の下の表示)に情報が表示されます：\n[Sonnet 4.5] 📁 task-manag"
+  },
+  {
+    "title": "Apple Silicon Macで始めるLinuxデスクトップ生活 with NixOS, Hyprland",
+    "link": "https://zenn.dev/ymat19/articles/af4e418e49b075",
+    "pubDate": "Mon, 03 Nov 2025 21:50:09 GMT",
+    "source": "Zenn",
+    "contentSnippet": "0. はじめに\n\n 性能が厳しくなってきた(らしい)初期Apple Silicon達\n突然ですが、最近AppleがM5とM1を比較したニュースを公開したのはご存知でしょうか。\nhttps://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/\n\n14-inch Ma"
   },
   {
     "title": "システム構成図・シーケンス図、結局どれ使う？人気ツールとエンジニアのリアルな使い分け徹底解説",
@@ -124,6 +152,13 @@
     "pubDate": "2025-11-03T15:24:49.000Z",
     "source": "Qiita",
     "contentSnippet": "0. はじめに\nValueObjectって\"不変性\"や\"同一性を持たない\"という点が特徴ですよね。\nあなたのドメインモデリングは、その特徴を消した実装になっていませんか？\nソフトウェア業界で著名な Vladimir Khorikov 氏は以下のように言及されています。\n\n..."
+  },
+  {
+    "title": "AIを賢く動かすのは「指示力」ではなく「文脈設計力」",
+    "link": "https://zenn.dev/aun_phonogram/articles/44d298f8d9d0fd",
+    "pubDate": "Mon, 03 Nov 2025 10:44:29 GMT",
+    "source": "Zenn",
+    "contentSnippet": "対象読者\n\nAIとやり取りしているうちに、気づいたら時間が溶けている方\nAIで効率化しているはずなのに、実感が持てない方\n指示を出し直すループにハマって、同じところを行ったり来たりしている方\n\n\n はじめに\nAIコーディングをしていて、気づいたら時間が溶けていた。という話を聞くことがあります。\nプロンプトをもっと詳しく書けばよくなるはずだと、指示を工夫してみる。でもなぜか状況は良くならない。それど"
   },
   {
     "title": "【CSS】フォントサイズを横幅ぴったりに合わせるfit-widthの提案",
@@ -173,27 +208,6 @@
     "pubDate": "Sun, 02 Nov 2025 15:02:59 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに：ブラウザストレージの選択に迷っていませんか？\n「ユーザー設定を保存したいけど、localStorageでいいのかな？」\n「認証トークンはCookieに入れるべき？それともlocalStorage？」\n「大きなデータを保存したいけど、どれが適切？」\nブラウザでデータを保存する方法は複数あり、それぞれに特徴があります。しかし、「結局どれを使えばいいの？」という疑問を持つ方は多いのではないでし"
-  },
-  {
-    "title": "VS Code → Cursor、1日目で受けた衝撃",
-    "link": "https://zenn.dev/mn329/articles/95a755391542c6",
-    "pubDate": "Sun, 02 Nov 2025 14:53:22 GMT",
-    "source": "Zenn",
-    "contentSnippet": "プロフィール\n情報系学生2年。普段はWebの授業を受けているが、知人の紹介でFlutterを触り始めた。将来はモバイルアプリケーションエンジニアをめざして勉強中。\nhttps://x.com/minato_engineer\n⸻\n\n 初日で感じた驚き\nVS CodeからCursorに乗り換えた1日目。普段はFlutterを書いているけど、最初の数時間で「ここまで進化してたんだ」って思うほどの衝撃を受"
-  },
-  {
-    "title": "お手軽デプロイ！Hono + Amplify Gen2で軽量フルスタック環境を構築",
-    "link": "https://zenn.dev/sonicmoov/articles/96487960807d8c",
-    "pubDate": "Sun, 02 Nov 2025 14:46:08 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n今回は、軽量Webフレームワーク Hono を AWS Amplify Gen2 にデプロイする方法を紹介します。\nAmplify Gen2はNext.jsが有名ですが、Honoのような軽量フレームワークとAmplifyの強力なBaaS（AppSync, Lambda）を手軽に組み合わせる方法を実証します。\n\n 技術スタックと構成\n\n\nフロントエンド (SSR): Hono + JSX\n"
-  },
-  {
-    "title": "Ratatuiのチュートリアルをやる: その1",
-    "link": "https://zenn.dev/helloyuki/articles/e9f25dc546b280",
-    "pubDate": "Sun, 02 Nov 2025 14:10:12 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Ratatuiを使って作りたいツールが出てきたので、Ratatuiの使い方を勉強することにした。Ratatuiにはいくつかのチュートリアルがあり、これらをこなすことでRatatuiの使い方や中に登場する概念を一通り理解できるようになっている。このチュートリアルをやってみる。\nhttps://ratatui.rs/tutorials/\n\n Ratatui\nRatatui（ラタトゥイ）はRustでTU"
   },
   {
     "title": "【AtCoder】入水しました！！！！！！！！！！！！！！",
@@ -264,19 +278,5 @@
     "pubDate": "2025-10-26T15:49:40.000Z",
     "source": "Publickey",
     "contentSnippet": "Appleは、Swift言語でAndroid対応アプリケーションを開発するための開発キットである「Swift SDK for Android」プレビューリリース版を公開しました。 Announcing the first preview releases of Swift for Android, enabling you to build Android business logic with "
-  },
-  {
-    "title": "Rails 8.1正式リリース。長時間かかるタスクの一時停止と再開やMarkdownレンダリングなど新機能",
-    "link": "https://www.publickey1.jp/blog/25/rails_81markdown.html",
-    "pubDate": "2025-10-26T15:46:41.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Rubyを用いたWebアプリケーションフレームワーク「Ruby on Rails」の最新バージョン「Ruby on Rails 8.1」（以下、Rails 8.1）の正式版がリリースされました。 Rails 8.1 has been released! It includes job continuations, structured events, local CI, registry-free"
-  },
-  {
-    "title": "AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も",
-    "link": "https://www.publickey1.jp/blog/25/aws_kiro.html",
-    "pubDate": "2025-10-22T15:50:43.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、Visual Studio Code（VS Code）互換のコードエディタに生成AIを統合したAIコードエディタ「Kiro」のウェイトリストが終了し、誰でもダウンロードして利用可能になったことを明らかにしました。 と同時に、「Spec Context in Chat」や「Dev server support」などの新機能も追加されました。 Kir"
   }
 ]

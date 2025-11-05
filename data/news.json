@@ -1,73 +1,87 @@
 [
   {
-    "title": "Firebase Push Tokens Are Device-Specific, Not User-Specific: A Critical Refactoring",
-    "link": "https://dev.to/sangwoo_rhie/firebase-push-tokens-are-device-specific-not-user-specific-a-critical-refactoring-ppi",
-    "pubDate": "Wed, 05 Nov 2025 06:25:33 +0000",
+    "title": "What actually are .tt files in Ruby?",
+    "link": "https://dev.to/sampart/what-actually-are-tt-files-in-ruby-2gi1",
+    "pubDate": "Wed, 05 Nov 2025 12:43:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I first built my Firebase Cloud Messaging (FCM) notification system, I made a critical architectural mistake based on a fundamental misunderstanding of how Firebase tokens work. I treated them as"
+    "contentSnippet": "tl;dr .tt files aren't a special syntax; they're ERB (Embedded Ruby) files. You might see unusual syntax if they're ERB files which generate other ERB files.\nIf you're working with Ruby, particularly "
   },
   {
-    "title": "Check out the guide on - Ways to Create Groups Efficiently in Tableau",
-    "link": "https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-ways-to-create-groups-efficiently-in-tableau-4ib0",
-    "pubDate": "Wed, 05 Nov 2025 06:23:03 +0000",
+    "title": "ZentoraOS Receives Global Recognition from Q2B Studio 🇪🇸",
+    "link": "https://dev.to/bhuvaneshm_dev/zentoraos-receives-global-recognition-from-q2b-studio-453j",
+    "pubDate": "Wed, 05 Nov 2025 12:41:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ways to Create Groups Efficiently in Tableau\nAnshuman ・ Nov 5\n#beginners\n        #datascience\n        #productivity"
+    "contentSnippet": "I’m excited to share that ZentoraOS, my open-source Linux project built with offline AI capabilities, was recently featured by Q2B Studio, a software development company based in Spain.  \nTheir detail"
   },
   {
-    "title": "The Moat Illusion: Why Modern Defensibility Isn’t in Your Codebase Anymore",
-    "link": "https://dev.to/yaseen_tech/the-moat-illusion-why-modern-defensibility-isnt-in-your-codebase-anymore-4lo4",
-    "pubDate": "Wed, 05 Nov 2025 06:21:06 +0000",
+    "title": "How I Built a Plugin-Based Architecture in Angular 19+ 💉",
+    "link": "https://dev.to/atheodosiou/how-i-built-a-plugin-based-architecture-in-angular-19-1n6o",
+    "pubDate": "Wed, 05 Nov 2025 12:40:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "moats so casually in tech today that it almost sounds like a checklist:\nMVP ✅\n\nMarket Fit ✅\n\n\nMoat ✅ (???)\nFounders are thinking about defensibility even before the first commit. And that makes sense "
+    "contentSnippet": "A simple pattern that keeps your Angular app modular, scalable, and sane.\nA few months ago, I was working on a large Angular 20 project.\nEvery new service wanted to “initialize” itself at startup.\nmai"
   },
   {
-    "title": "Learning patience, not skills",
-    "link": "https://dev.to/dshaw0004/learning-patience-not-skills-l5o",
-    "pubDate": "Wed, 05 Nov 2025 06:08:21 +0000",
+    "title": "Automate Slack workflows with LangGraph",
+    "link": "https://dev.to/saif_shines/automate-slack-workflows-with-langgraph-4e62",
+    "pubDate": "Wed, 05 Nov 2025 12:38:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This image is sourced from Work Chronicles, and all rights are reserved by them."
+    "contentSnippet": "How to turn messy #product-support Slack messages into auditable tasks\nWe’ve been experimenting with AI workflows (like most of the dev world lately — and of course, using Scalekit for the auth layer."
   },
   {
-    "title": "Understanding the Rake Roof: Design, Function, and Modern Applications",
-    "link": "https://dev.to/seo-dipak-2312/understanding-the-rake-roof-design-function-and-modern-applications-13a0",
-    "pubDate": "Wed, 05 Nov 2025 06:08:08 +0000",
+    "title": "FHIR MCP Server: Use Cases for Healthcare Developers",
+    "link": "https://dev.to/momentumai/fhir-mcp-server-use-cases-for-healthcare-developers-4c5i",
+    "pubDate": "Wed, 05 Nov 2025 12:36:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What Is a Rake Roof?\nrake roof is not a specific type of roof, but rather a feature found in pitched roof designs. The term “rake” refers to the sloped, usually triangular edges of a gable end. These "
+    "contentSnippet": "FHIR MCP Server: Use Cases for Healthcare Developers\n\n\nHealthcare systems generate vast amounts of structured clinical data through Electronic Health Records (EHRs), but accessing this information eff"
   },
   {
-    "title": "Jeff Su: 4 Next-Level ChatGPT Techniques (Save 15+ Hours Weekly)",
-    "link": "https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-h9n",
-    "pubDate": "Wed, 05 Nov 2025 06:05:56 +0000",
+    "title": "Writing Your First Compiler - Part 5: Building our Parser",
+    "link": "https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-5-building-our-parser-1h2b",
+    "pubDate": "Wed, 05 Nov 2025 12:35:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "4 Next-Level ChatGPT Techniques (Save 15+ Hours Weekly)\n\n\nJeff Su walks you through four game-changing ChatGPT hacks to stop the endless back-and-forth of prompt refining and cut your AI workflow in h"
+    "contentSnippet": "We have tokens from the lexer. We have AST node definitions. Now we need to connect them - turn that flat list of tokens into a tree structure.\nLet's build a parser.\nJust like with the lexer, we'll st"
   },
   {
-    "title": "From Clutter to Clarity: How AI Batch Tools Clean Up Your Visuals Instantly",
-    "link": "https://dev.to/freepixel11/from-clutter-to-clarity-how-ai-batch-tools-clean-up-your-visuals-instantly-108j",
-    "pubDate": "Wed, 05 Nov 2025 06:04:48 +0000",
+    "title": "How Students Are Turning Idle Devices Into AI Rewards With the NLOV",
+    "link": "https://dev.to/neurolov__ai/how-students-are-turning-idle-devices-into-ai-rewards-with-the-nlov-43o4",
+    "pubDate": "Wed, 05 Nov 2025 12:30:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In digital design, visuals speak louder than words — but what if your visuals are cluttered, inconsistent, or messy?  \nWhether you’re managing an eCommerce catalog, social media campaign, or creative "
+    "contentSnippet": "Many students are discovering that their laptops and smartphones can do more than stream or study—they can contribute to real AI workloads and receive rewards for it.\nPicture this: you’re a student wi"
   },
   {
-    "title": "The Allure of the Red Red Nose Pitbull: Strength, Loyalty, and Beauty in One Breed",
-    "link": "https://dev.to/seo-dipak-2312/the-allure-of-the-red-red-nose-pitbull-strength-loyalty-and-beauty-in-one-breed-4me4",
-    "pubDate": "Wed, 05 Nov 2025 06:04:11 +0000",
+    "title": "AI-Driven Healthcare Apps: Benefits & Use Cases",
+    "link": "https://dev.to/kamal_deeppareek_f5bb5d8/ai-driven-healthcare-apps-benefits-use-cases-1khp",
+    "pubDate": "Wed, 05 Nov 2025 12:25:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Red Red Nose Pitbull stands out among dog lovers for its unmatched combination of power, loyalty, and striking color. Revered for its muscular frame, glossy reddish-brown coat, and distinctive nos"
+    "contentSnippet": "The healthcare industry is undergoing a massive digital transformation, and artificial intelligence (AI) sits at the very core of it. From remote patient monitoring to predictive diagnostics and smart"
   },
   {
-    "title": "🧠 How Do Closures Work in JavaScript?",
-    "link": "https://dev.to/saurav_dev_2022/how-do-closures-work-in-javascript-38l3",
-    "pubDate": "Wed, 05 Nov 2025 06:03:24 +0000",
+    "title": "AI and Neuro-Marketing Insights: Understanding the Brain Behind Consumer Decisions",
+    "link": "https://dev.to/dentakey_llc_26aaf8b3b0a0/ai-and-neuro-marketing-insights-understanding-the-brain-behind-consumer-decisions-2c39",
+    "pubDate": "Wed, 05 Nov 2025 12:23:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Explained in Simple Words (with Code Examples & Interview Tips)\nWhen I first started learning JavaScript, the word closure sounded scary.\n\nLater I realised closures are just functions that remember th"
+    "contentSnippet": "For decades, marketers have sought to understand what truly drives consumer choice — why people prefer one product over another, why certain ads make us feel something, or why a brand becomes part of "
   },
   {
-    "title": "Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-ekj",
-    "pubDate": "Wed, 05 Nov 2025 06:00:52 +0000",
+    "title": "What is IndexNow, and How Do I Set It Up on a Website?",
+    "link": "https://dev.to/easywritedotdev/what-is-indexnow-and-how-do-i-set-it-up-on-a-website-2g97",
+    "pubDate": "Wed, 05 Nov 2025 12:23:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Truman Show Rewatchables\n\nBill Simmons and Chris Ryan welcome actor Glen Powell to revisit Peter Weir’s 1998 classic starring Jim Carrey, Laura Linney, and Ed Harris. They kick things off with Pow"
+    "contentSnippet": "Introduction\n\n\nAs a technical blogger who hosts their own blog, one of the most frustrating things is that Google and Bing's crawlers take their own time to crawl and index the latest articles. They m"
+  },
+  {
+    "title": "分散タスクキューCeleryの備忘録[Python]",
+    "link": "https://qiita.com/ssc-yshikeda/items/ff6e1ddb9fcb91ffd195?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-05T04:16:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nCeleryはPythonの分散タスクキューです。メッセージブローカーにはRedisを使います。\n概要図を以下に示します。\n\nワーカー（Worker）は、タスクキューから受け取った非同期タスクを実際に実行するプロセスです。メッセージブローカーは、アプリとワー..."
+  },
+  {
+    "title": "【GitHub Copilot】「コードが学習されるのが不安」を解消するオプトアウト設定",
+    "link": "https://qiita.com/imamu123/items/e7105ab0e0a6292f0937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-05T03:07:07.000Z",
+    "source": "Qiita",
+    "contentSnippet": "👕 はじめに\n皆さん、AI活用していますか？\n私は、情報流出やAIの学習にコードが利用されることへの懸念があり、これまで積極的な活用を少し控えていました。\n（集合知に貢献するという側面もあるとは思うのですが…）\nそこで、GitHub Copilotでコードが学習に利用され..."
   },
   {
     "title": "人事部長はAI駆動BIで社員離職リスクをどう分析したか -Amazon Quick Suite-",
@@ -75,6 +89,20 @@
     "pubDate": "Wed, 05 Nov 2025 00:58:26 GMT",
     "source": "Zenn",
     "contentSnippet": "本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 8 日目です。\n!\n📚 第 7 日目の記事はこちら！\n\nQuick Suite で Tavily を使った日本語 Web 検索をする (MCP 連携)\n\n\n\n はじめに：ワークショップで学ぶAmazon Quick Suite\n本記事は、AWS"
+  },
+  {
+    "title": "宇宙の視点から考えるセキュリティ ― NASAのゼロトラストの思想",
+    "link": "https://qiita.com/sh-ohtani/items/6f7cebecd8fd8c2ef134?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T23:59:09.000Z",
+    "source": "Qiita",
+    "contentSnippet": "🌌はじめに\nGMOコネクトの大谷です。\n「宇宙開発」と聞くと、ロケットや火星探査のような“夢”や“挑戦”を思い浮かべる人が多いと思います。\nでも、その裏では 一つの誤りが命に関わるほどの「ミスが許されない環境」 で日々の業務が行われています。\nそんな極限の現場で、NASA..."
+  },
+  {
+    "title": "電話してサーバーを起動・停止する",
+    "link": "https://qiita.com/infra365/items/1d329dbb79e1bf148e63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T22:05:38.000Z",
+    "source": "Qiita",
+    "contentSnippet": "指定の電話番号に電話して、プッシュボタンを押すとサーバーを起動・停止出来る仕組みです。認証の箇所は事前に登録した電話番号のみから処理を受け付ける仕組みとしました。\n\n処理フロー\nAmazon Connectを使用しています。処理フローは下記の通りになります。\n\nDynamo..."
   },
   {
     "title": "IPA 登大遊氏の基調講演、NOT A HOTELの自動化例、コカコーラのAI活用など、情シスが創るビジネスの明日をテーマにしたイベント開催［PR］",
@@ -91,11 +119,32 @@
     "contentSnippet": "生成AIの急速な普及と成長によって、データセンターにおける生成AIの学習や推論処理を高速かつ効率化するために、より広帯域で低遅延な高密度ネットワークへの要求が高まっています。 こうした用途のために、Compute Express Link（CXL）やNVidiaのNVlinkなどいくつかのソリューションは市場に投入されているものの、これらは多くのベンダが求めるようなオープンで相互運入可能なニーズに"
   },
   {
+    "title": "miseのバグを直そうとしたらGiteaのバグを直した件",
+    "link": "https://zenn.dev/risu729/articles/db2bd05a342898",
+    "pubDate": "Tue, 04 Nov 2025 14:33:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Tl;dr\nAWS S3の署名付きURLはHTTPメソッドを署名に含むので、GET用の署名付きURLに対してHEADリクエストを送ると403 Forbiddenになります。HEADリクエストにはHEAD用の署名付きURLを返しましょう。\nGiteaがこれを踏んでいました。\n\n はじめに\n私は大学生なのですが、趣味でmiseにコントリビュートしています。\nこの話はaqua:gitea.com/git"
+  },
+  {
+    "title": "Amazon Neptuneとは",
+    "link": "https://qiita.com/yuki_0/items/d5eae1c73164f3ec0440?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T13:53:00.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\n・記事を投稿しようと思った背景\n資格の勉強を実施している中で「Amazon Neptune」が登場したことと、新卒の方々から「Amazon Neptune」の質問を２件ほど続けていただいたため、知識を整理しようと思ったことがきっかけです。\n\n・誰に向けて書いた..."
+  },
+  {
     "title": "カードゲームの対戦機能をクライアント主体で設計したらこうなった",
     "link": "https://zenn.dev/niwatly/articles/295841b00bcb7f",
     "pubDate": "Tue, 04 Nov 2025 12:56:01 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nお久しぶりです。にわとりです。\n過去に個人開発でカードゲームをリリースしたことがありまして、その時の設計、特にインゲーム部分の設計を公開したいなと以前から思ってました。\nこの度 claude code のおかげでコードベースから設計書の書き起こしが大変簡単にできるようになったので、その内容を共有します。\n僕個人は他人の設計書を読むのは比較的楽しいと感じるほうなので、そのような方、とくにカ"
+  },
+  {
+    "title": "[Anthropic推奨] 安定したLLM出力を得るプロンプト設計",
+    "link": "https://zenn.dev/tsuboi/articles/da19549dbdc6de",
+    "pubDate": "Tue, 04 Nov 2025 12:31:54 GMT",
+    "source": "Zenn",
+    "contentSnippet": "LLMは「とりあえず」では動かない\nVercel AI SDK などを使い LLM をアプリケーションに組み込む際、期待通りの出力を安定して得ることが課題となります。\n「いい感じに要約して」「この質問に答えて」といった漠然とした指示では、以下のような問題が頻発します。\n\n「承知いたしました。こちらが要約です...」といった余計な前置きが毎回付く\nJSON で返してほしいのに、Markdown やた"
   },
   {
     "title": "【初心者向け】14年ぶり全面改訂！CSIRTスタータキット v3.0 徹底解説",
@@ -126,13 +175,6 @@
     "contentSnippet": "Reactでは、JSXを返す関数を組み合わせてアプリケーションを作っていきます。それらの関数は<Component />のように呼び出すこともあれば、Component()のように呼び出すこともあります。後者を使用する機会は多くないかもしれませんが、例えばrender hooksパターンによってカスタムフックからUIを返したいときに使われることがあります。\n一見どちらも同じようにJSXを返しますが"
   },
   {
-    "title": "【小ネタ】Azure Functionsから“長期鍵なし”でAWSを操作する ~ OIDC＋AssumeRoleWithWebIdentityでS3を触ってみた~",
-    "link": "https://qiita.com/YutoSekine/items/cbe78c96c18c289ab7a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T05:11:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n記事をご覧頂きありがとうございます！\n前回に引き続き、今回も小ネタで、Azure FunctionsからAWSを操作する構成を検証したのでご紹介します。今回はSSO構成を採用せず、OIDC＋AssumeRoleWithWebIdentityで長期鍵なしの接続を検..."
-  },
-  {
     "title": "ドキュメント検索MCPサーバを作ってみた【MCP+OpenSearch+AWS】",
     "link": "https://zenn.dev/levtech/articles/a5a3204ffed86c",
     "pubDate": "Tue, 04 Nov 2025 03:07:01 GMT",
@@ -140,46 +182,11 @@
     "contentSnippet": "はじめに\nこんにちは、SREチームの鈴木です。\nSREチームでは、開発リソースの20%を目安にメインプロジェクト以外の「自チームの運用課題の解消」に取り組むことができます。\n現在、AWS・New Relic・TiDB など開発部で利用する複数のSaaSを管理しており、問い合わせ対応にかかる工数が課題になっています。これを解決するため、各サービスの公式ドキュメントを参照して正確な回答を返す MCP "
   },
   {
-    "title": "OpenAI AgentKitでサクッとAIエージェント作ってみた",
-    "link": "https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T01:29:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは！KIYO LearningでAirCourseの開発をしている森下です。今回は、OpenAIが2025年10月6日に発表した、AgentKitについてご紹介します！\nこの記事では、AgentKitを使って星座占いAIエージェントを実際に作ってみるまで..."
-  },
-  {
-    "title": "GAS × Supabase × Next.js × Qiita API で構築する業務ナレッジ可視化ツール",
-    "link": "https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T01:02:51.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGoogle Apps Script（GAS）とスプレッドシートで社内ツールを作るのは非常に簡単で便利です。\nしかし、その便利さゆえに以下のような課題を感じたことはないでしょうか？\n\n編集者が増えると同時編集によるデータ競合が発生しやすい\nスプレッドシートの肥大..."
-  },
-  {
     "title": "「Deep Research」の「がっかり体験」を減らす手法",
     "link": "https://zenn.dev/knowledgesense/articles/3bd20780949e58",
     "pubDate": "Tue, 04 Nov 2025 00:00:01 GMT",
     "source": "Zenn",
     "contentSnippet": "本記事では、精度の高い「Deep Research」機能を実装するための手法について、ざっくり解説します。\n株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。\n\n この記事は何\nこの記事は、「Deep Research」の新手法「Enterprise Deep Research (EDR)」の論文[1]について、"
-  },
-  {
-    "title": "【ポケモン×Java】知識編 Scanner#3 〜数字入力：安全に文字→数値へ〜",
-    "link": "https://qiita.com/hitomin_poke/items/26eff0158bc24946e93c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-03T23:50:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n前回の記事 #2 では nextLine() で「一行を読み取る方法」を学習しました。\nここから一歩進んで、文字で受け取った入力を安全に数値へ変換 する方法を学びます。\n\n今日のゴール\n\n文字列で受けてから Integer.parseInt や Double...."
-  },
-  {
-    "title": "Claude Codeでトークン使用量とGitブランチをリアルタイム表示する方法(解説あり)",
-    "link": "https://zenn.dev/little_hand_s/articles/dbd5fc27f5a2f0",
-    "pubDate": "Mon, 03 Nov 2025 22:53:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TL;DR（3行まとめ）\n\nClaude Codeのステータスラインにトークン使用量・ブランチ名・セッションIDを常時表示\n設定は5分、コピペだけで完了\n圧縮タイミングを事前に把握して、セッションデータを計画的に管理が可能に\n\n\n 表示イメージ\n設定後、こんな感じでステータスライン(ClaudeCodeの入力欄の下の表示)に情報が表示されます：\n[Sonnet 4.5] 📁 task-manag"
-  },
-  {
-    "title": "Apple Silicon Macで始めるLinuxデスクトップ生活 with NixOS, Hyprland",
-    "link": "https://zenn.dev/ymat19/articles/af4e418e49b075",
-    "pubDate": "Mon, 03 Nov 2025 21:50:09 GMT",
-    "source": "Zenn",
-    "contentSnippet": "0. はじめに\n\n 性能が厳しくなってきた(らしい)初期Apple Silicon達\n突然ですが、最近AppleがM5とM1を比較したニュースを公開したのはご存知でしょうか。\nhttps://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/\n\n14-inch Ma"
   },
   {
     "title": "サイバーエージェントがAIアプリ「Dify」のベクトルDBとしてTiDBを選択。AIアプリの全社導入に耐えうる基盤を構築［PR］",
@@ -208,13 +215,6 @@
     "pubDate": "2025-11-03T10:16:25.000Z",
     "source": "Qiita",
     "contentSnippet": "安いゲームの日本語訳とかで、テキストが画面枠をはみ出て見切れるという何も考えてない実装をよく見かけますよね。\nそれよりは見えるだけまだマシなものとして、文字数が多くなると画面幅に合わせてフォントサイズが小さくなるという実装もたまに見かけます。\n\n※ねとらぼより拝借\nこの後者..."
-  },
-  {
-    "title": "copilot-instructions.mdだけじゃない！GitHub Copilotのカスタム指示まとめ",
-    "link": "https://qiita.com/yuzora_yu/items/83404fd51ba1faeeeca0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-03T05:34:42.000Z",
-    "source": "Qiita",
-    "contentSnippet": "ちょっと前にcopilot-instructions.mdを作成すると良い、という記事が話題になりました。\n\n実はこれ以外にも、GitHub Copilotには設定しとくとよいカスタム指示ファイルがいくつかあります。\nこの記事ではそれらを紹介していきます。\n\nこの記事..."
   },
   {
     "title": "【AtCoder】入水しました！！！！！！！！！！！！！！",

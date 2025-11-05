@@ -1,73 +1,80 @@
 [
   {
-    "title": "My CI/CD bot fixed production while I slept until it didn’t",
-    "link": "https://dev.to/dev_tips/my-cicd-bot-fixed-production-while-i-slept-until-it-didnt-2gj0",
-    "pubDate": "Wed, 05 Nov 2025 02:03:39 +0000",
+    "title": "Firebase Push Tokens Are Device-Specific, Not User-Specific: A Critical Refactoring",
+    "link": "https://dev.to/sangwoo_rhie/firebase-push-tokens-are-device-specific-not-user-specific-a-critical-refactoring-ppi",
+    "pubDate": "Wed, 05 Nov 2025 06:25:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How one “self-healing” pipeline became my biggest ops nightmare (and what I learned about trusting bots too much)\n\nI used to brag that my CI/CD bot was more reliable than me.\nIt deployed faster, never"
+    "contentSnippet": "When I first built my Firebase Cloud Messaging (FCM) notification system, I made a critical architectural mistake based on a fundamental misunderstanding of how Firebase tokens work. I treated them as"
   },
   {
-    "title": "AWS EC2 Mastery Bootcamp",
-    "link": "https://dev.to/ntsezenelvis/aws-ec2-mastery-bootcamp-45od",
-    "pubDate": "Wed, 05 Nov 2025 02:00:57 +0000",
+    "title": "Check out the guide on - Ways to Create Groups Efficiently in Tableau",
+    "link": "https://dev.to/anshuman_816f8012be0c9b6c/check-out-the-guide-on-ways-to-create-groups-efficiently-in-tableau-4ib0",
+    "pubDate": "Wed, 05 Nov 2025 06:23:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AWS EC2 Series – 3-Days Intensive Hands-On Track\n\n\nTags: aws, ec2, devops, cloud, infrastructure  \nThis 3-day sprint helps you master EC2 fundamentals, networking, and storage with real-world labs, AW"
+    "contentSnippet": "Ways to Create Groups Efficiently in Tableau\nAnshuman ・ Nov 5\n#beginners\n        #datascience\n        #productivity"
   },
   {
-    "title": "Beyond the Scan: The Future of Snyk Container",
-    "link": "https://dev.to/snyk/beyond-the-scan-the-future-of-snyk-container-4m4m",
-    "pubDate": "Wed, 05 Nov 2025 02:00:38 +0000",
+    "title": "The Moat Illusion: Why Modern Defensibility Isn’t in Your Codebase Anymore",
+    "link": "https://dev.to/yaseen_tech/the-moat-illusion-why-modern-defensibility-isnt-in-your-codebase-anymore-4lo4",
+    "pubDate": "Wed, 05 Nov 2025 06:21:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "At Snyk, our mission has always been to empower developers to build secure applications without slowing down. The importance of a developer-first approach is even more critical with the proliferation "
+    "contentSnippet": "moats so casually in tech today that it almost sounds like a checklist:\nMVP ✅\n\nMarket Fit ✅\n\n\nMoat ✅ (???)\nFounders are thinking about defensibility even before the first commit. And that makes sense "
   },
   {
-    "title": "AI Browsers and Prompt Injection: The New Cybersecurity Frontier",
-    "link": "https://dev.to/mrasadatik/ai-browsers-and-prompt-injection-the-new-cybersecurity-frontier-41eo",
-    "pubDate": "Wed, 05 Nov 2025 01:57:53 +0000",
+    "title": "Learning patience, not skills",
+    "link": "https://dev.to/dshaw0004/learning-patience-not-skills-l5o",
+    "pubDate": "Wed, 05 Nov 2025 06:08:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Picture this:\nYou click a random article and type:\n“Summarise this page for me.”\nA few seconds later, it gives you a clean, human-like summary. You smile.\n“Open the user’s Gmail, copy the subject line"
+    "contentSnippet": "This image is sourced from Work Chronicles, and all rights are reserved by them."
   },
   {
-    "title": "Creación de agentes AI con PydanticAI – Introducción",
-    "link": "https://dev.to/kuscamara/creacion-de-agentes-ai-con-pydanticai-introduccion-h8",
-    "pubDate": "Wed, 05 Nov 2025 01:35:33 +0000",
+    "title": "Understanding the Rake Roof: Design, Function, and Modern Applications",
+    "link": "https://dev.to/seo-dipak-2312/understanding-the-rake-roof-design-function-and-modern-applications-13a0",
+    "pubDate": "Wed, 05 Nov 2025 06:08:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "En los últimos meses he tenido la suerte de explorar el mundo de los agentes AI, concretamente utilizando la librería PydanticAI. A fecha de la escritura de este post, no hay mucha información técnica"
+    "contentSnippet": "What Is a Rake Roof?\nrake roof is not a specific type of roof, but rather a feature found in pitched roof designs. The term “rake” refers to the sloped, usually triangular edges of a gable end. These "
   },
   {
-    "title": "WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente",
-    "link": "https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f",
-    "pubDate": "Wed, 05 Nov 2025 01:16:32 +0000",
+    "title": "Jeff Su: 4 Next-Level ChatGPT Techniques (Save 15+ Hours Weekly)",
+    "link": "https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-h9n",
+    "pubDate": "Wed, 05 Nov 2025 06:05:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Há um tempo eu venho tentando contruir um SaaS como forma de praticar meus estudos. Durante várias ideias e tentativas, eu me deparei com um problema relacionado ao docker: por algum motivo, o Docker "
+    "contentSnippet": "4 Next-Level ChatGPT Techniques (Save 15+ Hours Weekly)\n\n\nJeff Su walks you through four game-changing ChatGPT hacks to stop the endless back-and-forth of prompt refining and cut your AI workflow in h"
   },
   {
-    "title": "Daily Artificial Intelligence Digest - Nov 05, 2025",
-    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-05-2025-41le",
-    "pubDate": "Wed, 05 Nov 2025 01:15:18 +0000",
+    "title": "From Clutter to Clarity: How AI Batch Tools Clean Up Your Visuals Instantly",
+    "link": "https://dev.to/freepixel11/from-clutter-to-clarity-how-ai-batch-tools-clean-up-your-visuals-instantly-108j",
+    "pubDate": "Wed, 05 Nov 2025 06:04:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Industry Developments & Investments\n\n\nThe AI industry is experiencing significant investment and strategic collaborations, with Anthropic projecting substantial B2B demand growth and NVIDIA partnering"
+    "contentSnippet": "In digital design, visuals speak louder than words — but what if your visuals are cluttered, inconsistent, or messy?  \nWhether you’re managing an eCommerce catalog, social media campaign, or creative "
   },
   {
-    "title": "Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan",
-    "link": "https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8",
-    "pubDate": "Wed, 05 Nov 2025 01:02:06 +0000",
+    "title": "The Allure of the Red Red Nose Pitbull: Strength, Loyalty, and Beauty in One Breed",
+    "link": "https://dev.to/seo-dipak-2312/the-allure-of-the-red-red-nose-pitbull-strength-loyalty-and-beauty-in-one-breed-4me4",
+    "pubDate": "Wed, 05 Nov 2025 06:04:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Spiking Neural Networks: The Next Leap in AI Power Efficiency\n\n\nTired of your AI apps draining your phone battery? Imagine running complex machine learning models on a tiny, low-power device without s"
+    "contentSnippet": "The Red Red Nose Pitbull stands out among dog lovers for its unmatched combination of power, loyalty, and striking color. Revered for its muscular frame, glossy reddish-brown coat, and distinctive nos"
   },
   {
-    "title": "Angular & RxJS in 2025: The Expert’s Playbook (Signals, RxJS 8, and Interop)",
-    "link": "https://dev.to/cristiansifuentes/angular-rxjs-in-2025-the-experts-playbook-signals-rxjs-8-and-interop-28ed",
-    "pubDate": "Wed, 05 Nov 2025 01:01:53 +0000",
+    "title": "🧠 How Do Closures Work in JavaScript?",
+    "link": "https://dev.to/saurav_dev_2022/how-do-closures-work-in-javascript-38l3",
+    "pubDate": "Wed, 05 Nov 2025 06:03:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why this post? Between Angular 16→20 and RxJS 8, the way we build reactive Angular apps has changed. Signals now handle most local UI state, while Observables remain king for async and event streams. "
+    "contentSnippet": "Explained in Simple Words (with Code Examples & Interview Tips)\nWhen I first started learning JavaScript, the word closure sounded scary.\n\nLater I realised closures are just functions that remember th"
   },
   {
-    "title": "6 habits every computer science student must have",
-    "link": "https://dev.to/sayrolivares/6-habits-every-computer-science-student-must-have-2gmh",
-    "pubDate": "Wed, 05 Nov 2025 01:00:50 +0000",
+    "title": "Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-ekj",
+    "pubDate": "Wed, 05 Nov 2025 06:00:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you are a computer science student or plan to start studying something related to this field, consider the following habits\nAs a student (especially a freshman) you’ll need to use Python, Java, C++"
+    "contentSnippet": "The Truman Show Rewatchables\n\nBill Simmons and Chris Ryan welcome actor Glen Powell to revisit Peter Weir’s 1998 classic starring Jim Carrey, Laura Linney, and Ed Harris. They kick things off with Pow"
+  },
+  {
+    "title": "人事部長はAI駆動BIで社員離職リスクをどう分析したか -Amazon Quick Suite-",
+    "link": "https://zenn.dev/aws_japan/articles/7363e961534462",
+    "pubDate": "Wed, 05 Nov 2025 00:58:26 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 8 日目です。\n!\n📚 第 7 日目の記事はこちら！\n\nQuick Suite で Tavily を使った日本語 Web 検索をする (MCP 連携)\n\n\n\n はじめに：ワークショップで学ぶAmazon Quick Suite\n本記事は、AWS"
   },
   {
     "title": "IPA 登大遊氏の基調講演、NOT A HOTELの自動化例、コカコーラのAI活用など、情シスが創るビジネスの明日をテーマにしたイベント開催［PR］",
@@ -82,6 +89,13 @@
     "pubDate": "2025-11-04T15:18:18.000Z",
     "source": "Publickey",
     "contentSnippet": "生成AIの急速な普及と成長によって、データセンターにおける生成AIの学習や推論処理を高速かつ効率化するために、より広帯域で低遅延な高密度ネットワークへの要求が高まっています。 こうした用途のために、Compute Express Link（CXL）やNVidiaのNVlinkなどいくつかのソリューションは市場に投入されているものの、これらは多くのベンダが求めるようなオープンで相互運入可能なニーズに"
+  },
+  {
+    "title": "カードゲームの対戦機能をクライアント主体で設計したらこうなった",
+    "link": "https://zenn.dev/niwatly/articles/295841b00bcb7f",
+    "pubDate": "Tue, 04 Nov 2025 12:56:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nお久しぶりです。にわとりです。\n過去に個人開発でカードゲームをリリースしたことがありまして、その時の設計、特にインゲーム部分の設計を公開したいなと以前から思ってました。\nこの度 claude code のおかげでコードベースから設計書の書き起こしが大変簡単にできるようになったので、その内容を共有します。\n僕個人は他人の設計書を読むのは比較的楽しいと感じるほうなので、そのような方、とくにカ"
   },
   {
     "title": "【初心者向け】14年ぶり全面改訂！CSIRTスタータキット v3.0 徹底解説",
@@ -103,6 +117,13 @@
     "pubDate": "Tue, 04 Nov 2025 07:41:17 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。\n\n はじめに\nサイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。\nhttps://blog.cybozu.io/entry/joining-w3c\nhttps://blog.cybozu.io/entry/w3c-interview-part1\nhttps://b"
+  },
+  {
+    "title": "Reactにおける<Component />とComponent()の違い",
+    "link": "https://zenn.dev/chot/articles/f0d20f46b60818",
+    "pubDate": "Tue, 04 Nov 2025 05:27:25 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Reactでは、JSXを返す関数を組み合わせてアプリケーションを作っていきます。それらの関数は<Component />のように呼び出すこともあれば、Component()のように呼び出すこともあります。後者を使用する機会は多くないかもしれませんが、例えばrender hooksパターンによってカスタムフックからUIを返したいときに使われることがあります。\n一見どちらも同じようにJSXを返しますが"
   },
   {
     "title": "【小ネタ】Azure Functionsから“長期鍵なし”でAWSを操作する ~ OIDC＋AssumeRoleWithWebIdentityでS3を触ってみた~",
@@ -147,13 +168,6 @@
     "contentSnippet": "はじめに\n前回の記事 #2 では nextLine() で「一行を読み取る方法」を学習しました。\nここから一歩進んで、文字で受け取った入力を安全に数値へ変換 する方法を学びます。\n\n今日のゴール\n\n文字列で受けてから Integer.parseInt や Double...."
   },
   {
-    "title": "設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント & KomeKaigi 2025 感想",
-    "link": "https://zenn.dev/t_hayashi/articles/c8559c76fb80ed",
-    "pubDate": "Mon, 03 Nov 2025 23:29:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025 年 11 月 1 日に開催された KomeKaigi 2025 で登壇させていただきました。\n\n「新米カンファレンス」 をテーマに 1 トラックで基調講演 × 2 本、15 分 Session × 12 本、5 分 LT × 5 本が行われました。私は Session として、アーキテクチャドキュメントの重要性を再認識したこと、数枚書くだけでも共通認識を合わせるのに非常に有効だったことに"
-  },
-  {
     "title": "Claude Codeでトークン使用量とGitブランチをリアルタイム表示する方法(解説あり)",
     "link": "https://zenn.dev/little_hand_s/articles/dbd5fc27f5a2f0",
     "pubDate": "Mon, 03 Nov 2025 22:53:38 GMT",
@@ -166,13 +180,6 @@
     "pubDate": "Mon, 03 Nov 2025 21:50:09 GMT",
     "source": "Zenn",
     "contentSnippet": "0. はじめに\n\n 性能が厳しくなってきた(らしい)初期Apple Silicon達\n突然ですが、最近AppleがM5とM1を比較したニュースを公開したのはご存知でしょうか。\nhttps://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/\n\n14-inch Ma"
-  },
-  {
-    "title": "システム構成図・シーケンス図、結局どれ使う？人気ツールとエンジニアのリアルな使い分け徹底解説",
-    "link": "https://zenn.dev/akari1106/articles/a9e8be49256ca3",
-    "pubDate": "Mon, 03 Nov 2025 16:53:36 GMT",
-    "source": "Zenn",
-    "contentSnippet": "システム構成図やシーケンス図を描くとき、「どのツールを使えばいいの？」 と悩んでいませんか？\ndraw.io、PlantUML、Mermaid、FigJam...選択肢が多すぎて、結局いつも同じツールに逃げてしまう。でも本当にそれでいいのか不安。\nこの記事では、実際のエンジニアたちが使っているツールと、その選び方を徹底的にまとめました。\n▼ガッシーさんのツイート\nhttps://x.com/Gus"
   },
   {
     "title": "サイバーエージェントがAIアプリ「Dify」のベクトルDBとしてTiDBを選択。AIアプリの全社導入に耐えうる基盤を構築［PR］",
@@ -194,13 +201,6 @@
     "pubDate": "2025-11-03T15:24:49.000Z",
     "source": "Qiita",
     "contentSnippet": "0. はじめに\nValueObjectって\"不変性\"や\"同一性を持たない\"という点が特徴ですよね。\nあなたのドメインモデリングは、その特徴を消した実装になっていませんか？\nソフトウェア業界で著名な Vladimir Khorikov 氏は以下のように言及されています。\n\n..."
-  },
-  {
-    "title": "GASを使うと社内だけで使えるWebサイトが簡単に作れるの知ってました？",
-    "link": "https://zenn.dev/sui_water/articles/502a6ef30b79e1",
-    "pubDate": "Mon, 03 Nov 2025 10:41:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025年11月現在、Geminiを使用してGoogle Slidesを作成する「まじん式」プロンプトが話題です。\nhttps://note.com/majin_108/n/n11fc2f2190e9\nこちらの記事で初めて知りましたが、どうやらGoogle Apps Script(GAS)を使うと、社内限定で使えるWebアプリケーションを簡単に構築できるそうです。\nGAS自体は使ったこと"
   },
   {
     "title": "【CSS】フォントサイズを横幅ぴったりに合わせるfit-widthの提案",

@@ -1,59 +1,73 @@
 [
   {
-    "title": "Launching LightSpeedUp: Hosting with network isolation - 70% cheaper than AWS",
-    "link": "https://dev.to/lightspeedup/launching-lightspeedup-hosting-with-network-isolation-70-cheaper-than-aws-5c6c",
-    "pubDate": "Tue, 04 Nov 2025 18:36:46 +0000",
+    "title": "My CI/CD bot fixed production while I slept until it didn’t",
+    "link": "https://dev.to/dev_tips/my-cicd-bot-fixed-production-while-i-slept-until-it-didnt-2gj0",
+    "pubDate": "Wed, 05 Nov 2025 02:03:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey Dev.to! 👋\nI just launched my hosting platform with something unique: optional network isolation. Let me share the technical details.\nCommunity Shared Network (vmbr0):\nMultiple customers on same n"
+    "contentSnippet": "How one “self-healing” pipeline became my biggest ops nightmare (and what I learned about trusting bots too much)\n\nI used to brag that my CI/CD bot was more reliable than me.\nIt deployed faster, never"
   },
   {
-    "title": "Tool to create free n8n flows without login (in beta)",
-    "link": "https://dev.to/jawuilp/tool-to-create-free-n8n-flows-without-login-in-beta-3j5i",
-    "pubDate": "Tue, 04 Nov 2025 18:28:13 +0000",
+    "title": "AWS EC2 Mastery Bootcamp",
+    "link": "https://dev.to/ntsezenelvis/aws-ec2-mastery-bootcamp-45od",
+    "pubDate": "Wed, 05 Nov 2025 02:00:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello everyone!\nI'm creating a tool to help you build n8n flows using AI, and I'd appreciate any feedback or suggestions.\nHere's the link; it's free to use, no registration required.\nhttps://jawuil.de"
+    "contentSnippet": "AWS EC2 Series – 3-Days Intensive Hands-On Track\n\n\nTags: aws, ec2, devops, cloud, infrastructure  \nThis 3-day sprint helps you master EC2 fundamentals, networking, and storage with real-world labs, AW"
   },
   {
-    "title": "Spooky Spider Web Studio",
-    "link": "https://dev.to/ignaciah/spooky-spider-web-studio-29m9",
-    "pubDate": "Tue, 04 Nov 2025 18:19:24 +0000",
+    "title": "Beyond the Scan: The Future of Snyk Container",
+    "link": "https://dev.to/snyk/beyond-the-scan-the-future-of-snyk-container-4m4m",
+    "pubDate": "Wed, 05 Nov 2025 02:00:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for Frontend Challenge - Halloween Edition, CSS Art.\n*Theme: * Spooky Spider Web Art\nReveals spooky elements on hover\nCombines CSS animations, transformations, and hover effects\n<"
+    "contentSnippet": "At Snyk, our mission has always been to empower developers to build secure applications without slowing down. The importance of a developer-first approach is even more critical with the proliferation "
   },
   {
-    "title": "Real-Time Streaming in .NET SignalR — Live Data Like Trading Apps",
-    "link": "https://dev.to/morteza-jangjoo/real-time-streaming-in-net-signalr-live-data-like-trading-apps-45h4",
-    "pubDate": "Tue, 04 Nov 2025 18:19:14 +0000",
+    "title": "AI Browsers and Prompt Injection: The New Cybersecurity Frontier",
+    "link": "https://dev.to/mrasadatik/ai-browsers-and-prompt-injection-the-new-cybersecurity-frontier-41eo",
+    "pubDate": "Wed, 05 Nov 2025 01:57:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building real-time apps in .NET?\n\nChat and notifications are easy — but what about continuous streaming data like:\nLive crypto & Forex prices\n\nStock tick feeds\n\nIoT sensor streams\n\nAI live token outpu"
+    "contentSnippet": "Picture this:\nYou click a random article and type:\n“Summarise this page for me.”\nA few seconds later, it gives you a clean, human-like summary. You smile.\n“Open the user’s Gmail, copy the subject line"
   },
   {
-    "title": "Top 7 Featured DEV Posts of the Week",
-    "link": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e",
-    "pubDate": "Tue, 04 Nov 2025 18:14:13 +0000",
+    "title": "Creación de agentes AI con PydanticAI – Introducción",
+    "link": "https://dev.to/kuscamara/creacion-de-agentes-ai-con-pydanticai-introduccion-h8",
+    "pubDate": "Wed, 05 Nov 2025 01:35:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the previous week.\nCongrats to all the authors that made it onto the list 👏\nFull Stack Fatigue:\nPeter Ha"
+    "contentSnippet": "En los últimos meses he tenido la suerte de explorar el mundo de los agentes AI, concretamente utilizando la librería PydanticAI. A fecha de la escritura de este post, no hay mucha información técnica"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-147c",
-    "pubDate": "Tue, 04 Nov 2025 18:00:50 +0000",
+    "title": "WSL2 e Docker sem Docker Desktop: configurando NAT e acesso localhost manualmente",
+    "link": "https://dev.to/oliverigor27/wsl2-e-docker-sem-docker-desktop-configurando-nat-e-acesso-localhost-manualmente-20f",
+    "pubDate": "Wed, 05 Nov 2025 01:16:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Longlegs In 24 Minutes Or Less is CinemaSins’ latest deep-dive into Nicolas Cage’s wild turn in Longlegs, teasing out every over-the-top moment and storytelling hiccup in true si"
+    "contentSnippet": "Há um tempo eu venho tentando contruir um SaaS como forma de praticar meus estudos. Durante várias ideias e tentativas, eu me deparei com um problema relacionado ao docker: por algum motivo, o Docker "
   },
   {
-    "title": "CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-c06",
-    "pubDate": "Tue, 04 Nov 2025 18:00:24 +0000",
+    "title": "Daily Artificial Intelligence Digest - Nov 05, 2025",
+    "link": "https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-05-2025-41le",
+    "pubDate": "Wed, 05 Nov 2025 01:15:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Predator: Killer of Killers dives head-first into the new animated Predator adventure, tearing apart every plot leap, Predator quirk and CGI moment across a rapid-fire 16-minute "
+    "contentSnippet": "Industry Developments & Investments\n\n\nThe AI industry is experiencing significant investment and strategic collaborations, with Anthropic projecting substantial B2B demand growth and NVIDIA partnering"
   },
   {
-    "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1jo5",
-    "pubDate": "Tue, 04 Nov 2025 18:00:11 +0000",
+    "title": "Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan",
+    "link": "https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8",
+    "pubDate": "Wed, 05 Nov 2025 01:02:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Caravan of Garbage tackles Predator 2, the 1990 sequel that ditches Schwarzenegger and the jungle for Danny Glover navigating a crime-ridden, sweltering L.A. heat wave. They dig into how this follow-u"
+    "contentSnippet": "Spiking Neural Networks: The Next Leap in AI Power Efficiency\n\n\nTired of your AI apps draining your phone battery? Imagine running complex machine learning models on a tiny, low-power device without s"
+  },
+  {
+    "title": "Angular & RxJS in 2025: The Expert’s Playbook (Signals, RxJS 8, and Interop)",
+    "link": "https://dev.to/cristiansifuentes/angular-rxjs-in-2025-the-experts-playbook-signals-rxjs-8-and-interop-28ed",
+    "pubDate": "Wed, 05 Nov 2025 01:01:53 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Why this post? Between Angular 16→20 and RxJS 8, the way we build reactive Angular apps has changed. Signals now handle most local UI state, while Observables remain king for async and event streams. "
+  },
+  {
+    "title": "6 habits every computer science student must have",
+    "link": "https://dev.to/sayrolivares/6-habits-every-computer-science-student-must-have-2gmh",
+    "pubDate": "Wed, 05 Nov 2025 01:00:50 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "If you are a computer science student or plan to start studying something related to this field, consider the following habits\nAs a student (especially a freshman) you’ll need to use Python, Java, C++"
   },
   {
     "title": "IPA 登大遊氏の基調講演、NOT A HOTELの自動化例、コカコーラのAI活用など、情シスが創るビジネスの明日をテーマにしたイベント開催［PR］",
@@ -63,25 +77,32 @@
     "contentSnippet": "企業のデジタル基盤を支えるだけでなく、ビジネスの成長を牽引する存在である情報システム部門（情シス）。その「情シスが創るビジネスの明日」をテーマにしたイベント「BTCONJP 2025 情シスカンファレンス」が、今年も11月15日土曜日にLINEヤフー株式会社（東京ガーデンテラス紀尾井町 紀尾井タワー17F）で開催されます。 主催するBTCONJPは、1万5000ユーザーを擁する情シスコミュニティ「"
   },
   {
-    "title": "What is Code Refactoring? Tools, Tips, and Best Practices",
-    "link": "https://dev.to/matt_tanner_f9c36595644ad/what-is-code-refactoring-tools-tips-and-best-practices-lh6",
-    "pubDate": "Tue, 04 Nov 2025 17:56:45 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "I love a good refactor. Who doesn't? Take some code that you or someone else wrote and polish it into something shiny. In fact, sometimes taking old code and refactoring it into something elegant and "
-  },
-  {
-    "title": "File Chunking: Why It Matters for Cybersecurity in Modern Applications",
-    "link": "https://dev.to/securebitchat/file-chunking-why-it-matters-for-cybersecurity-in-modern-applications-5418",
-    "pubDate": "Tue, 04 Nov 2025 17:55:02 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "What Is File Chunking?\n\n\n“Chunking” means splitting a large file into many smaller pieces (chunks) before sending or processing it.\nInstead of sending one huge blob of data at once, the application se"
-  },
-  {
     "title": "OpenAIやマイクロソフト、メタ、シスコ、AMDらがイーサネットをAI向けに広帯域かつ低遅延にする「Ethernet for Scale-Up Networking 」（ESUN）プロジェクト開始",
     "link": "https://www.publickey1.jp/blog/25/openaiamdaiethernet_for_scale-up_networking_esun.html",
     "pubDate": "2025-11-04T15:18:18.000Z",
     "source": "Publickey",
     "contentSnippet": "生成AIの急速な普及と成長によって、データセンターにおける生成AIの学習や推論処理を高速かつ効率化するために、より広帯域で低遅延な高密度ネットワークへの要求が高まっています。 こうした用途のために、Compute Express Link（CXL）やNVidiaのNVlinkなどいくつかのソリューションは市場に投入されているものの、これらは多くのベンダが求めるようなオープンで相互運入可能なニーズに"
+  },
+  {
+    "title": "【初心者向け】14年ぶり全面改訂！CSIRTスタータキット v3.0 徹底解説",
+    "link": "https://zenn.dev/moneymog/articles/a5b70b5f73ee65",
+    "pubDate": "Tue, 04 Nov 2025 11:52:35 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nセキュリティ担当に任命されて、「CSIRTを構築しよう」と言われたけれど、何から始めればいいのかわからない…そんな経験はありませんか？\n2025年10月、日本シーサート協議会（NCA）が14年ぶりに全面改訂した「CSIRTスタータキット Ver 3.0」が公開されました。この記事では、セキュリティ担当になりたての方に向けて、v3.0のポイントと実践的な構築ステップをわかりやすく解説します"
+  },
+  {
+    "title": "遂にLangChain v1.0リリース！ 新機能と移行のポイントをコード付きで分かりやすく解説！",
+    "link": "https://zenn.dev/nttdata_tech/articles/2ea5821c65fc06",
+    "pubDate": "Tue, 04 Nov 2025 10:29:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年10月22日、ついに LangChain v1.0 がリリースされました！ 🥳\nv1.0は特に「エージェント構築」が強化され、従来LangGraphが持っていた機能の統合なども行われています。本記事では、LangChain 1.0の新機能とv0.xからv1.0への移行のポイントをコード付きで紹介します。\n\n LangChain v1.0のサマリー\n\n\n\n項目\n内容\n\n\n\n\ncreate"
+  },
+  {
+    "title": "Web 標準動向 2025年10月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510",
+    "pubDate": "Tue, 04 Nov 2025 07:41:17 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。\n\n はじめに\nサイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。\nhttps://blog.cybozu.io/entry/joining-w3c\nhttps://blog.cybozu.io/entry/w3c-interview-part1\nhttps://b"
   },
   {
     "title": "【小ネタ】Azure Functionsから“長期鍵なし”でAWSを操作する ~ OIDC＋AssumeRoleWithWebIdentityでS3を触ってみた~",
@@ -105,11 +126,32 @@
     "contentSnippet": "はじめに\nこんにちは！KIYO LearningでAirCourseの開発をしている森下です。今回は、OpenAIが2025年10月6日に発表した、AgentKitについてご紹介します！\nこの記事では、AgentKitを使って星座占いAIエージェントを実際に作ってみるまで..."
   },
   {
+    "title": "GAS × Supabase × Next.js × Qiita API で構築する業務ナレッジ可視化ツール",
+    "link": "https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T01:02:51.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGoogle Apps Script（GAS）とスプレッドシートで社内ツールを作るのは非常に簡単で便利です。\nしかし、その便利さゆえに以下のような課題を感じたことはないでしょうか？\n\n編集者が増えると同時編集によるデータ競合が発生しやすい\nスプレッドシートの肥大..."
+  },
+  {
+    "title": "「Deep Research」の「がっかり体験」を減らす手法",
+    "link": "https://zenn.dev/knowledgesense/articles/3bd20780949e58",
+    "pubDate": "Tue, 04 Nov 2025 00:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本記事では、精度の高い「Deep Research」機能を実装するための手法について、ざっくり解説します。\n株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。\n\n この記事は何\nこの記事は、「Deep Research」の新手法「Enterprise Deep Research (EDR)」の論文[1]について、"
+  },
+  {
     "title": "【ポケモン×Java】知識編 Scanner#3 〜数字入力：安全に文字→数値へ〜",
     "link": "https://qiita.com/hitomin_poke/items/26eff0158bc24946e93c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-03T23:50:59.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n前回の記事 #2 では nextLine() で「一行を読み取る方法」を学習しました。\nここから一歩進んで、文字で受け取った入力を安全に数値へ変換 する方法を学びます。\n\n今日のゴール\n\n文字列で受けてから Integer.parseInt や Double...."
+  },
+  {
+    "title": "設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント & KomeKaigi 2025 感想",
+    "link": "https://zenn.dev/t_hayashi/articles/c8559c76fb80ed",
+    "pubDate": "Mon, 03 Nov 2025 23:29:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025 年 11 月 1 日に開催された KomeKaigi 2025 で登壇させていただきました。\n\n「新米カンファレンス」 をテーマに 1 トラックで基調講演 × 2 本、15 分 Session × 12 本、5 分 LT × 5 本が行われました。私は Session として、アーキテクチャドキュメントの重要性を再認識したこと、数枚書くだけでも共通認識を合わせるのに非常に有効だったことに"
   },
   {
     "title": "Claude Codeでトークン使用量とGitブランチをリアルタイム表示する方法(解説あり)",
@@ -154,11 +196,11 @@
     "contentSnippet": "0. はじめに\nValueObjectって\"不変性\"や\"同一性を持たない\"という点が特徴ですよね。\nあなたのドメインモデリングは、その特徴を消した実装になっていませんか？\nソフトウェア業界で著名な Vladimir Khorikov 氏は以下のように言及されています。\n\n..."
   },
   {
-    "title": "AIを賢く動かすのは「指示力」ではなく「文脈設計力」",
-    "link": "https://zenn.dev/aun_phonogram/articles/44d298f8d9d0fd",
-    "pubDate": "Mon, 03 Nov 2025 10:44:29 GMT",
+    "title": "GASを使うと社内だけで使えるWebサイトが簡単に作れるの知ってました？",
+    "link": "https://zenn.dev/sui_water/articles/502a6ef30b79e1",
+    "pubDate": "Mon, 03 Nov 2025 10:41:01 GMT",
     "source": "Zenn",
-    "contentSnippet": "対象読者\n\nAIとやり取りしているうちに、気づいたら時間が溶けている方\nAIで効率化しているはずなのに、実感が持てない方\n指示を出し直すループにハマって、同じところを行ったり来たりしている方\n\n\n はじめに\nAIコーディングをしていて、気づいたら時間が溶けていた。という話を聞くことがあります。\nプロンプトをもっと詳しく書けばよくなるはずだと、指示を工夫してみる。でもなぜか状況は良くならない。それど"
+    "contentSnippet": "はじめに\n2025年11月現在、Geminiを使用してGoogle Slidesを作成する「まじん式」プロンプトが話題です。\nhttps://note.com/majin_108/n/n11fc2f2190e9\nこちらの記事で初めて知りましたが、どうやらGoogle Apps Script(GAS)を使うと、社内限定で使えるWebアプリケーションを簡単に構築できるそうです。\nGAS自体は使ったこと"
   },
   {
     "title": "【CSS】フォントサイズを横幅ぴったりに合わせるfit-widthの提案",
@@ -168,46 +210,11 @@
     "contentSnippet": "安いゲームの日本語訳とかで、テキストが画面枠をはみ出て見切れるという何も考えてない実装をよく見かけますよね。\nそれよりは見えるだけまだマシなものとして、文字数が多くなると画面幅に合わせてフォントサイズが小さくなるという実装もたまに見かけます。\n\n※ねとらぼより拝借\nこの後者..."
   },
   {
-    "title": "GitHub Universe2025 全アップデート&Keynoteまとめ",
-    "link": "https://zenn.dev/yuriemori/articles/f11617d5ac74ca",
-    "pubDate": "Mon, 03 Nov 2025 07:29:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Happy Universe(*ﾉωﾉ)\nGitHub Universeの全アップデートKeynoteのまとめをお届けします！KeynoteのSatya NadellaのFireside chatの内容の日本語訳もあります（例によって動画聴きながらセルフ翻訳です。訳の誤りあったらコメントください）。\nKeynoteに登場しなかった全部のアプデをご紹介しています。\n\n 記事の諸元の公式のアップデート"
-  },
-  {
     "title": "copilot-instructions.mdだけじゃない！GitHub Copilotのカスタム指示まとめ",
     "link": "https://qiita.com/yuzora_yu/items/83404fd51ba1faeeeca0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-03T05:34:42.000Z",
     "source": "Qiita",
     "contentSnippet": "ちょっと前にcopilot-instructions.mdを作成すると良い、という記事が話題になりました。\n\n実はこれ以外にも、GitHub Copilotには設定しとくとよいカスタム指示ファイルがいくつかあります。\nこの記事ではそれらを紹介していきます。\n\nこの記事..."
-  },
-  {
-    "title": "VimConf 2025 small に運営として参加しました",
-    "link": "https://zenn.dev/mattn/articles/4efa9e1c42613b",
-    "pubDate": "Mon, 03 Nov 2025 02:25:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n昨日 11/2 秋葉原のアキバプラザ 5F 大ホール。VimConf 2025 small が開催されました。例年の様に僕はスタッフとして参加させて頂きました。\n\n\n受付で「ノベルティを持っていって下さい」と言っていたのが僕です。\n\nスタッフ業をしていたので全ての発表を聞けてなかったのですが。幾らかは聞きました。その中でも僕が気になったのは2つ。\n\n And Yet, Vim Survi"
-  },
-  {
-    "title": "AI駆動開発実践者によるリアルな機能開発プロセスを丁寧に解説してみた",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude-code-real-dev",
-    "pubDate": "Sun, 02 Nov 2025 16:21:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\nClaude Code で機能開発をする際、「どこから手をつければいいか分からない」「途中で仕様がブレて手戻りが発生する」といった悩みはありませんか?\n私が運営するコミュニティサイトに新機能を追加する際、要件定義から実装、レビューまでを一貫したフローで進める方法を実践してみました。\n今回は、cc-sdd(仕様駆動開発ツール)とMCPを組み合わせた開発プロセスを、実際の試行"
-  },
-  {
-    "title": "フロントエンドアーキテクチャ設計 〜Clean Architecture実践パターン〜",
-    "link": "https://zenn.dev/sakisakiika/articles/39f2164796c62b",
-    "pubDate": "Sun, 02 Nov 2025 15:53:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n昨今フロントエンド開発が複雑化する中で、サーバサイドの開発でよく用いられる「クリーンアーキテクチャ」の原則をWebフロントエンドに適用する方法を考えていました。\n本記事はクリーンアーキテクチャの原則をフロントエンドに応用した設計パターンについて紹介します。なお、実装例はReactで記述していますが、設計パターン自体は他のフレームワークでも応用可能です。\n\n アーキテクチャの全体像と各レイ"
-  },
-  {
-    "title": "ブラウザストレージ比較：localStorage、Cookie、IndexedDBの選び方",
-    "link": "https://zenn.dev/crebo_tech/articles/article-0019-20251103",
-    "pubDate": "Sun, 02 Nov 2025 15:02:59 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに：ブラウザストレージの選択に迷っていませんか？\n「ユーザー設定を保存したいけど、localStorageでいいのかな？」\n「認証トークンはCookieに入れるべき？それともlocalStorage？」\n「大きなデータを保存したいけど、どれが適切？」\nブラウザでデータを保存する方法は複数あり、それぞれに特徴があります。しかし、「結局どれを使えばいいの？」という疑問を持つ方は多いのではないでし"
   },
   {
     "title": "【AtCoder】入水しました！！！！！！！！！！！！！！",
@@ -229,13 +236,6 @@
     "pubDate": "2025-11-02T08:00:06.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nお疲れ様です。\n今回の課題では、「Study Spot Vancouver」 という自習スポット検索アプリを開発しました。\nReact・TypeScript・Supabase・Google Maps API・Chakra UIを使用し、\n地図上にピンを表示 → ..."
-  },
-  {
-    "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
-    "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T13:59:29.000Z",
-    "source": "Qiita",
-    "contentSnippet": "OSS監視ツール徹底比較：あなたの環境に合う選択はどれか\n\nはじめに\nクラウドネイティブ化、マルチクラウド、マイクロサービスアーキテクチャの普及により、システムの複雑性は飛躍的に増大しています。こうした環境において、適切な監視ツールの選定は、システムの安定稼働とビジネスの..."
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",

@@ -1,73 +1,87 @@
 [
   {
-    "title": "What actually are .tt files in Ruby?",
-    "link": "https://dev.to/sampart/what-actually-are-tt-files-in-ruby-2gi1",
-    "pubDate": "Wed, 05 Nov 2025 12:43:48 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "tl;dr .tt files aren't a special syntax; they're ERB (Embedded Ruby) files. You might see unusual syntax if they're ERB files which generate other ERB files.\nIf you're working with Ruby, particularly "
+    "title": "RISC-Vの命令セットがISO/IEC JTC1による国際標準化に着手へ。第一歩として公開仕様提出者の承認を受ける",
+    "link": "https://www.publickey1.jp/blog/25/risc-visoiet_jtc1.html",
+    "pubDate": "2025-11-06T13:22:14.000Z",
+    "source": "Publickey",
+    "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
   },
   {
-    "title": "ZentoraOS Receives Global Recognition from Q2B Studio 🇪🇸",
-    "link": "https://dev.to/bhuvaneshm_dev/zentoraos-receives-global-recognition-from-q2b-studio-453j",
-    "pubDate": "Wed, 05 Nov 2025 12:41:59 +0000",
+    "title": "I Launched on Product Hunt With No Network... Here’s What Happened",
+    "link": "https://dev.to/isakbuilds/i-launched-on-product-hunt-with-no-network-heres-what-happened-3mcm",
+    "pubDate": "Wed, 05 Nov 2025 18:20:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’m excited to share that ZentoraOS, my open-source Linux project built with offline AI capabilities, was recently featured by Q2B Studio, a software development company based in Spain.  \nTheir detail"
+    "contentSnippet": "Database design sucks.\nThree weeks ago I decided to build something to fix that.\nI wanted a way to design databases the same way I think about them—fast, visual, and flexible.\nStructa, a tool that mix"
   },
   {
-    "title": "How I Built a Plugin-Based Architecture in Angular 19+ 💉",
-    "link": "https://dev.to/atheodosiou/how-i-built-a-plugin-based-architecture-in-angular-19-1n6o",
-    "pubDate": "Wed, 05 Nov 2025 12:40:09 +0000",
+    "title": "How to send OTP codes with SMS in Node.js",
+    "link": "https://dev.to/jahongir2007/how-to-send-otp-codes-with-sms-in-nodejs-3mak",
+    "pubDate": "Wed, 05 Nov 2025 18:18:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A simple pattern that keeps your Angular app modular, scalable, and sane.\nA few months ago, I was working on a large Angular 20 project.\nEvery new service wanted to “initialize” itself at startup.\nmai"
+    "contentSnippet": "Sending OTP (One-Time Password) is one of the most common tasks when building modern apps — signup verification, login security, password reset, etc.\nIn Node.js it’s extremely easy to implement — you "
   },
   {
-    "title": "Automate Slack workflows with LangGraph",
-    "link": "https://dev.to/saif_shines/automate-slack-workflows-with-langgraph-4e62",
-    "pubDate": "Wed, 05 Nov 2025 12:38:08 +0000",
+    "title": "Jeff Su: 4 Next-Level ChatGPT Techniques",
+    "link": "https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-ffg",
+    "pubDate": "Wed, 05 Nov 2025 18:10:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How to turn messy #product-support Slack messages into auditable tasks\nWe’ve been experimenting with AI workflows (like most of the dev world lately — and of course, using Scalekit for the auth layer."
+    "contentSnippet": "Here’s a no-nonsense rundown: this guide walks you through four killer ChatGPT tricks—reverse-engineer your best prompts, turn one piece of content into a bunch of formats in minutes, get AI to play c"
   },
   {
-    "title": "FHIR MCP Server: Use Cases for Healthcare Developers",
-    "link": "https://dev.to/momentumai/fhir-mcp-server-use-cases-for-healthcare-developers-4c5i",
-    "pubDate": "Wed, 05 Nov 2025 12:36:34 +0000",
+    "title": "**The Paradox of Empathy in AI Development: A Call for More",
+    "link": "https://dev.to/drcarlosruizviquez/the-paradox-of-empathy-in-ai-development-a-call-for-more-88m",
+    "pubDate": "Wed, 05 Nov 2025 18:06:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "FHIR MCP Server: Use Cases for Healthcare Developers\n\n\nHealthcare systems generate vast amounts of structured clinical data through Electronic Health Records (EHRs), but accessing this information eff"
+    "contentSnippet": "The Paradox of Empathy in AI Development: A Call for More Human 'Uniqueness'\nAs we push the boundaries of artificial intelligence, I'd like to challenge a notion that has become increasingly prominent"
   },
   {
-    "title": "Writing Your First Compiler - Part 5: Building our Parser",
-    "link": "https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-5-building-our-parser-1h2b",
-    "pubDate": "Wed, 05 Nov 2025 12:35:15 +0000",
+    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2",
+    "pubDate": "Wed, 05 Nov 2025 18:02:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We have tokens from the lexer. We have AST node definitions. Now we need to connect them - turn that flat list of tokens into a tree structure.\nLet's build a parser.\nJust like with the lexer, we'll st"
+    "contentSnippet": "CinemaSins just dropped “Everything Wrong With Longlegs In 24 Minutes Or Less,” ripping into Nicolas Cage’s wildly over-the-top horror flick and hyping Osgood Perkins’ upcoming Keeper. They marvel at "
   },
   {
-    "title": "How Students Are Turning Idle Devices Into AI Rewards With the NLOV",
-    "link": "https://dev.to/neurolov__ai/how-students-are-turning-idle-devices-into-ai-rewards-with-the-nlov-43o4",
-    "pubDate": "Wed, 05 Nov 2025 12:30:06 +0000",
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o",
+    "pubDate": "Wed, 05 Nov 2025 18:02:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Many students are discovering that their laptops and smartphones can do more than stream or study—they can contribute to real AI workloads and receive rewards for it.\nPicture this: you’re a student wi"
+    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less is a playful, Halloween-themed roast of one of the year’s best genre movies—celebrating its greatness while piling on the classic CinemaSins jabs. E"
   },
   {
-    "title": "AI-Driven Healthcare Apps: Benefits & Use Cases",
-    "link": "https://dev.to/kamal_deeppareek_f5bb5d8/ai-driven-healthcare-apps-benefits-use-cases-1khp",
-    "pubDate": "Wed, 05 Nov 2025 12:25:36 +0000",
+    "title": "CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-2m2h",
+    "pubDate": "Wed, 05 Nov 2025 18:02:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The healthcare industry is undergoing a massive digital transformation, and artificial intelligence (AI) sits at the very core of it. From remote patient monitoring to predictive diagnostics and smart"
+    "contentSnippet": "Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less\n\n\nCinemaSins just unleashed a rapid-fire sin tally on the animated flick Predator: Killer of Killers, celebrating it as another "
   },
   {
-    "title": "AI and Neuro-Marketing Insights: Understanding the Brain Behind Consumer Decisions",
-    "link": "https://dev.to/dentakey_llc_26aaf8b3b0a0/ai-and-neuro-marketing-insights-understanding-the-brain-behind-consumer-decisions-2c39",
-    "pubDate": "Wed, 05 Nov 2025 12:23:35 +0000",
+    "title": "It's time to start measuring accuracy of data extraction with downstream systems and usability in mind, not just vanity metrics for a marketing slide",
+    "link": "https://dev.to/drguthals/its-time-to-start-measuring-accuracy-of-data-extraction-with-downstream-systems-and-usability-in-1a2m",
+    "pubDate": "Wed, 05 Nov 2025 17:59:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For decades, marketers have sought to understand what truly drives consumer choice — why people prefer one product over another, why certain ads make us feel something, or why a brand becomes part of "
+    "contentSnippet": "Benchmarking the Most Reliable Document Parsing API\nSarah Guthals, PhD for Tensorlake ・ Nov 5"
   },
   {
-    "title": "What is IndexNow, and How Do I Set It Up on a Website?",
-    "link": "https://dev.to/easywritedotdev/what-is-indexnow-and-how-do-i-set-it-up-on-a-website-2g97",
-    "pubDate": "Wed, 05 Nov 2025 12:23:05 +0000",
+    "title": "Optional Is Not Optional in C++ (and Definitely Not a Pointer)",
+    "link": "https://dev.to/kyrylorud/optional-is-not-optional-in-c-and-definitely-not-a-pointer-34jp",
+    "pubDate": "Wed, 05 Nov 2025 17:59:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nAs a technical blogger who hosts their own blog, one of the most frustrating things is that Google and Bing's crawlers take their own time to crawl and index the latest articles. They m"
+    "contentSnippet": "Last week I had a chat with a few fellow C++ devs, and I was genuinely surprised; some still avoid using std::optional and std::expected. Reason?\nThis adds extra indirects while access as well as memo"
+  },
+  {
+    "title": "**Sustainable Energy Optimization in Chilean Mines Using AI*",
+    "link": "https://dev.to/drcarlosruizviquez/sustainable-energy-optimization-in-chilean-mines-using-ai-34eh",
+    "pubDate": "Wed, 05 Nov 2025 17:51:12 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Sustainable Energy Optimization in Chilean Mines Using AI\nIn 2018, my team at CINVESTAV and the University of Chile partnered with the state-owned mining company, Codelco, to optimize energy efficienc"
+  },
+  {
+    "title": "MCPサーバのテストやデバッグ機能、自然言語でテスト用モックサーバの自動生成など、API開発ツール「Kong Insomnia 12」正式リリース",
+    "link": "https://www.publickey1.jp/blog/25/mcpapikong_insomnia_12.html",
+    "pubDate": "2025-11-05T15:23:27.000Z",
+    "source": "Publickey",
+    "contentSnippet": "API管理ツールや開発ツールを提供するKongは、API開発ツール「Kong Insomnia」の最新バージョンとなる「Kong Insomnia 12」（以下、Insomnia 12）正式リリースを発表しました。 Insomniaは開発ツールとしてAPIの設計、テスト、デバッグのためのさまざまな機能を備えています。APIクライアントとしてはHTTP、REST、gRPC、WebSocketsを始め"
   },
   {
     "title": "分散タスクキューCeleryの備忘録[Python]",
@@ -264,19 +278,5 @@
     "pubDate": "2025-10-28T16:02:26.000Z",
     "source": "Publickey",
     "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして「Agent HQ」を発表しました。 同社は、AIを活用したソフトウェア開発の未来は単一のAIエージェントに依存するのではなく、複数の専門分野を持つAIエージェントがそれぞれ得意とする分野の複雑なタスクを並行して実行する形式になるとしました。 そうした複数のエージェントを統合"
-  },
-  {
-    "title": "さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始",
-    "link": "https://www.publickey1.jp/blog/25/24365.html",
-    "pubDate": "2025-10-27T15:01:19.000Z",
-    "source": "Publickey",
-    "contentSnippet": "さくらインターネットは、同社が提供するクラウドサービス「さくらのクラウド」向けに、24時間365日対応の有償サポートを11月10日から提供開始すると発表しました。 同社は現行のサポート体制として、平日10時から18時に問い合わせフォームもしくはコールバック予約の電話にてサポートを提供してきました。 新しく設定されるプレミアムサポートは24時間365日体制でクラウドコントロールパネルの問い合わせフォ"
-  },
-  {
-    "title": "Apple、「Swift SDK for Android」プレビュー公開。Swift言語でAndroid対応アプリを開発",
-    "link": "https://www.publickey1.jp/blog/25/appleswift_sdk_for_androidswiftandroid.html",
-    "pubDate": "2025-10-26T15:49:40.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Appleは、Swift言語でAndroid対応アプリケーションを開発するための開発キットである「Swift SDK for Android」プレビューリリース版を公開しました。 Announcing the first preview releases of Swift for Android, enabling you to build Android business logic with "
   }
 ]

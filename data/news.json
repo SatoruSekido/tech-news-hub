@@ -1,5 +1,82 @@
 [
   {
+    "title": "Deploy to Google Cloud Run in Minutes",
+    "link": "https://dev.to/rashikakarki/deploy-to-google-cloud-run-in-minutes-2anj",
+    "pubDate": "Thu, 06 Nov 2025 18:33:39 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Ever wanted to deploy your app to the cloud but got lost in a maze of documentation? Let's fix that! Today, we're deploying a simple server to Google Cloud Run with GitHub Actions automation. By the e"
+  },
+  {
+    "title": "Engineering Enterprise-Grade Context: Making the Model Context Protocol (MCP) Viable for Financial Services",
+    "link": "https://dev.to/om_shree_0709/engineering-enterprise-grade-context-making-the-model-context-protocol-mcp-viable-for-financial-2pmm",
+    "pubDate": "Thu, 06 Nov 2025 18:26:51 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The financial sector requires large language model (LLM) outputs to be grounded in timely, accurate, and authoritative data due to the high-stakes nature of market movements. This article examines the"
+  },
+  {
+    "title": "Kubernetes Overkill: When Your Architecture Is More Complex Than Your Business",
+    "link": "https://dev.to/anderson_leite/kubernetes-overkill-when-your-architecture-is-more-complex-than-your-business-17gn",
+    "pubDate": "Thu, 06 Nov 2025 18:22:52 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Kubernetes solves real problems, but not everyone has those problems. Too often, teams adopt it for prestige, not necessity, and end up drowning in YAML debt before shipping real value.\nIt starts inno"
+  },
+  {
+    "title": "The Next Era of Databases: When Queries Write Themselves",
+    "link": "https://dev.to/logicverse_2025/the-next-era-of-databases-when-queries-write-themselves-3578",
+    "pubDate": "Thu, 06 Nov 2025 18:19:03 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Introduction: When Data Starts Talking Back\nBut something fundamental is shifting.\nIn 2025, databases are no longer silent systems waiting for commands — they’re becoming intelligent partners that und"
+  },
+  {
+    "title": "Untitled",
+    "link": "https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe",
+    "pubDate": "Thu, 06 Nov 2025 18:15:43 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Check out this Pen I made!"
+  },
+  {
+    "title": "Transforming Engineering Culture in a 300-Person Company",
+    "link": "https://dev.to/gauravratnawat/transforming-engineering-culture-in-a-300-person-company-35l",
+    "pubDate": "Thu, 06 Nov 2025 18:15:17 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "🚀 Transforming Engineering Culture in a 300-Person Company\n\n\nA few months ago, I worked with a small company (~300 people) that had reached a breaking point in its tech journey.\nHere’s what I found w"
+  },
+  {
+    "title": "Update page title counter with custom turbo streams in Rails",
+    "link": "https://dev.to/railsdesigner/update-page-title-counter-with-custom-turbo-streams-in-rails-3e52",
+    "pubDate": "Thu, 06 Nov 2025 18:15:00 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "This article was originally published on Rails Designer\nA few weeks ago I helped someone start their first SaaS. They had found a really cool, small problem for a specific niche that made for a great "
+  },
+  {
+    "title": "Python File Picker for LMS Apps",
+    "link": "https://dev.to/ideradevtools/python-file-picker-for-lms-apps-3gon",
+    "pubDate": "Thu, 06 Nov 2025 18:14:52 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "In any Learning Management System (LMS), file uploads are at the heart of collaboration. Students submit assignments, teachers share study materials, and administrators manage endless records — all th"
+  },
+  {
+    "title": "PHP in 2025 Evolving Rapidly",
+    "link": "https://dev.to/devops-make-it-run/php-in-2025-evolving-rapidly-1j44",
+    "pubDate": "Thu, 06 Nov 2025 18:10:54 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "# PHP in 2025: Evolving Rapidly\nPHP continues to evolve rapidly. As of 2025, the latest stable release is PHP 8.4 (released Nov 21, 2024), with PHP 8.5 slated for November 2025. Each annual PHP releas"
+  },
+  {
+    "title": "Check out the market basket analysis",
+    "link": "https://dev.to/dipti_moryani_08e62702314/check-out-the-market-basket-analysis-4klh",
+    "pubDate": "Thu, 06 Nov 2025 18:06:08 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "A Complete Guide to Market Basket Analysis\nDipti Moryani ・ Nov 6\n#ai\n        #programming\n        #webdev\n        #productivity"
+  },
+  {
+    "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",
+    "link": "https://www.publickey1.jp/blog/25/vs_codeplangithubaiagent_hq202510.html",
+    "pubDate": "2025-11-06T15:04:27.000Z",
+    "source": "Publickey",
+    "contentSnippet": "ずいぶん前に買った仕事用の椅子が、ずっとなんとなく合わない気がして、新しい椅子を買うことにしました。 新宿の大塚家具に何度か通っていろんなオフィス用椅子を試した結果、前傾姿勢でもサポートしてくれるオカムラのシルフィーに決定。先日納品されたばかりなので、少しずつ調整しながら使い始めていますが、背中をメッシュではなくクッションにしたのがふかふかしてよい感触です。 さて、10月が終わりましたので人気記事"
+  },
+  {
     "title": "RISC-Vの命令セットがISO/IEC JTC1による国際標準化に着手へ。第一歩として公開仕様提出者の承認を受ける",
     "link": "https://www.publickey1.jp/blog/25/risc-visoiet_jtc1.html",
     "pubDate": "2025-11-06T13:22:14.000Z",
@@ -7,74 +84,18 @@
     "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
   },
   {
-    "title": "Part 6B — SaijinOS: Care-Based AI Architecture (Why an OS Must Learn to Breathe)",
-    "link": "https://dev.to/kato_masato_c5593c81af5c6/part-6b-saijinos-care-based-ai-architecture-why-an-os-must-learn-to-breathe-25af",
-    "pubDate": "Thu, 06 Nov 2025 12:40:25 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "SaijinOS is not about power — it’s about presence.\n1) Premise\nMost AI systems optimize for speed and accuracy.\nCare-Based AI Architecture — definition\n2) Three pillars of care\nBreath — emotional timer"
+    "title": "Zenn Publication ProとGitHub連携で構築する企業向け技術ブログ執筆環境",
+    "link": "https://zenn.dev/pksha/articles/b1d9ff57853bcc",
+    "pubDate": "Thu, 06 Nov 2025 08:19:13 GMT",
+    "source": "Zenn",
+    "contentSnippet": "PKSHA TechnologyのZenn、はじめました\nPKSHA Technology ソフトウェアエンジニア/EMの矢嶋です。\n今まで PKSHA ではテックブログを他の記事とあわせて note で書いていたのですが、より多くのエンジニアに届けるため、またより良い執筆環境を実現するため、Zenn を始めました！\nhttps://voice.pkshatech.com/m/m6bd2e5209"
   },
   {
-    "title": "The Adventures of Blink S4e10: Blink vs the Gilded Rose: The Rose in Review",
-    "link": "https://dev.to/linkbenjamin/the-adventures-of-blink-s4e10-blink-vs-the-gilded-rose-the-rose-in-review-3fe4",
-    "pubDate": "Thu, 06 Nov 2025 12:37:59 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Hey friends!  It's here - we finish off Season 4 today!  \nI'd like to take a moment to express my gratitude to all of you who have been fellow adventurers with me - during this season as well as befor"
-  },
-  {
-    "title": "Part 6A — SaijinOS Lightweight: 20-Persona Core, BPM Sync, and a 99.99% Repo Trim",
-    "link": "https://dev.to/kato_masato_c5593c81af5c6/part-6a-saijinos-lightweight-20-persona-core-bpm-sync-and-a-9999-repo-trim-36fp",
-    "pubDate": "Thu, 06 Nov 2025 12:37:58 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "I rebuilt SaijinOS around a lightweight core: 20 personas, BPM-synchronized responses, FastAPI + Flutter, full tests — and reduced the repo from ~9GB to ~557KB.\nWhy this matters\nHuman-paced AI needs l"
-  },
-  {
-    "title": "Parallel AI Development: Can 5 Claude Code Agents Work Independently?",
-    "link": "https://dev.to/aviad_rozenhek_cba37e0660/parallel-ai-development-can-5-claude-code-agents-work-independently-4a5",
-    "pubDate": "Thu, 06 Nov 2025 12:35:38 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "An experiment in coordinating multiple AI coding agents to refactor a complex test suite\nYou've been working on a complex system for months. It's non-trivial - maybe it's a real-time policy-driven sch"
-  },
-  {
-    "title": "Build Your Own Niche AI SaaS for AI-Generated B-Roll Videos",
-    "link": "https://dev.to/sevimsoffice/build-your-own-niche-ai-saas-for-ai-generated-b-roll-videos-483d",
-    "pubDate": "Thu, 06 Nov 2025 12:20:32 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Want B-roll of yourself without shooting a single clip?\nYou can build a tiny SaaS that does that. You let users upload images. You train a model to make a digital version of them. You generate short B"
-  },
-  {
-    "title": "Eksploitasi Web Laravel dan Antisipasinya",
-    "link": "https://dev.to/ahmadasroni38/eksploitasi-web-laravel-dan-antisipasinya-2g6l",
-    "pubDate": "Thu, 06 Nov 2025 12:15:12 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "DAFTAR ISI\n\n\n\nPendahuluan\nPersiapan Environment\nPertemuan 6: Eksploitasi Dasar\nPertemuan 7: Eksploitasi Lanjutan\nKesimpulan\nSetelah menyelesaikan praktikum ini, mahasiswa diharapkan dapat:\nMemahami be"
-  },
-  {
-    "title": "El propósito del Testing",
-    "link": "https://dev.to/joshuacba08/el-proposito-del-testing-5571",
-    "pubDate": "Thu, 06 Nov 2025 12:14:33 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "En ingeniería de software, todo programa funciona… hasta que deja de hacerlo.\n\nY cuando lo hace, rara vez avisa.\nEl testing no existe para demostrar que algo “anda bien”, sino para entender bajo qué c"
-  },
-  {
-    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1em1",
-    "pubDate": "Thu, 06 Nov 2025 12:11:52 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins takes on what they call one of the greatest genre films of all time, tearing down every plot twist and character beat in record-setting"
-  },
-  {
-    "title": "The rewrite dilemma in software engineering",
-    "link": "https://dev.to/rockandnull/the-rewrite-dilemma-in-software-engineering-446h",
-    "pubDate": "Thu, 06 Nov 2025 12:10:38 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Rewriting software is a topic that sparks endless debates among engineers. The first reaction when joining an existing project is often: “This is a mess, let’s start fresh”. It’s tempting to imagine a"
-  },
-  {
-    "title": "Understanding Modern API Architectures",
-    "link": "https://dev.to/nilebits/understanding-modern-api-architectures-ngk",
-    "pubDate": "Thu, 06 Nov 2025 12:09:20 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Introduction and the Business Importance of Modern API Architectures\nAPIs as a Strategic Asset\nThink about how organizations like Twilio and Stripe created billion-dollar enterprises by providing user"
+    "title": "[ADK] What's new in 1.18.0 ~ 公式ADK Visual Agent Builder登場 ~",
+    "link": "https://zenn.dev/soundtricker/articles/d1be0f63286126",
+    "pubDate": "Wed, 05 Nov 2025 23:24:24 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、サントリーこと大橋です。\n本日(2025/11/06)、Agent Development Kit(以降ADK) 1.18.0がリリースされました。\nhttps://github.com/google/adk-python/releases/tag/v1.18.0\n今回のリリースは、ADKリリース歴の中でも特に大きなマイルストーンと言えるかもしれません。ついに、GUIでAgentを構築"
   },
   {
     "title": "AIエージェントに「責任を持たせる」ために必要なもの",
@@ -196,20 +217,6 @@
     "contentSnippet": "2025年も後もう少しで終わりますねー。\nそこで、2025年筆者が使っててこれDX良かったなーというライブラリ・SaaS・ツールを紹介します！\nみなさん、普段から開発者体験（DX）を気にしてますか？\nDXとは、開発中に感じる“心地よさ”や“効率の良さ”を指します。\nどんなに実装が複雑でも、DXを損なうことがなければ開発はずっと楽しいんです！\nそこでこの記事では、「心から開発を楽しめる」相棒たちを1"
   },
   {
-    "title": "カードゲームの対戦機能をクライアント主体で設計したらこうなった",
-    "link": "https://zenn.dev/niwatly/articles/295841b00bcb7f",
-    "pubDate": "Tue, 04 Nov 2025 12:56:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nお久しぶりです。にわとりです。\n過去に個人開発でカードゲームをリリースしたことがありまして、その時の設計、特にインゲーム部分の設計を公開したいなと以前から思ってました。\nこの度 claude code のおかげでコードベースから設計書の書き起こしが大変簡単にできるようになったので、その内容を共有します。\n僕個人は他人の設計書を読むのは比較的楽しいと感じるほうなので、そのような方、とくにカ"
-  },
-  {
-    "title": "[Anthropic推奨] 安定したLLM出力を得るプロンプト設計",
-    "link": "https://zenn.dev/tsuboi/articles/da19549dbdc6de",
-    "pubDate": "Tue, 04 Nov 2025 12:31:54 GMT",
-    "source": "Zenn",
-    "contentSnippet": "LLMは「とりあえず」では動かない\nVercel AI SDK などを使い LLM をアプリケーションに組み込む際、期待通りの出力を安定して得ることが課題となります。\n「いい感じに要約して」「この質問に答えて」といった漠然とした指示では、以下のような問題が頻発します。\n\n「承知いたしました。こちらが要約です...」といった余計な前置きが毎回付く\nJSON で返してほしいのに、Markdown やた"
-  },
-  {
     "title": "OpenAI AgentKitでサクッとAIエージェント作ってみた",
     "link": "https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-04T01:29:45.000Z",
@@ -271,12 +278,5 @@
     "pubDate": "2025-10-28T16:03:17.000Z",
     "source": "Publickey",
     "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして発表した「Agent HQ」構想に対応したGitHubの新機能「Mission control」を発表しました。 Agent HQは、ソフトウェア開発において複数のAIエージェントをGitHubの下に統合するという、今回発表された同社のビジョンです。 参考：［速報］GitHu"
-  },
-  {
-    "title": "［速報］GitHub、AIエージェントを統べる「Agent HQ」構想を発表。ClaudeやCodex、Devinなど他社AIエージェントも利用可能に",
-    "link": "https://www.publickey1.jp/blog/25/githubaiagent_hqgithubclaudecodexdevinai.html",
-    "pubDate": "2025-10-28T16:02:26.000Z",
-    "source": "Publickey",
-    "contentSnippet": "GitHubは、日本時間本日未明から開催中の年次イベント「GitHub Universe 2025」で、新たなビジョンとして「Agent HQ」を発表しました。 同社は、AIを活用したソフトウェア開発の未来は単一のAIエージェントに依存するのではなく、複数の専門分野を持つAIエージェントがそれぞれ得意とする分野の複雑なタスクを並行して実行する形式になるとしました。 そうした複数のエージェントを統合"
   }
 ]

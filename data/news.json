@@ -7,74 +7,81 @@
     "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
   },
   {
-    "title": "Why `rem` Should Be Your Default for Spacing in Modern CSS",
-    "link": "https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m",
-    "pubDate": "Thu, 06 Nov 2025 06:19:05 +0000",
+    "title": "Part 6B — SaijinOS: Care-Based AI Architecture (Why an OS Must Learn to Breathe)",
+    "link": "https://dev.to/kato_masato_c5593c81af5c6/part-6b-saijinos-care-based-ai-architecture-why-an-os-must-learn-to-breathe-25af",
+    "pubDate": "Thu, 06 Nov 2025 12:40:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why Use rem Instead of px for Padding?\n\n\n\n\n\n/* Before */\npadding: 24px 74px;\n\n/* After */\npadding: 1.5rem 4.625rem;\n\nBut this is one of those small shifts that has a big impact in modern CSS, especial"
+    "contentSnippet": "SaijinOS is not about power — it’s about presence.\n1) Premise\nMost AI systems optimize for speed and accuracy.\nCare-Based AI Architecture — definition\n2) Three pillars of care\nBreath — emotional timer"
   },
   {
-    "title": "vimconfig: Auto-Setup Vim dengan Backup Otomatis",
-    "link": "https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg",
-    "pubDate": "Thu, 06 Nov 2025 06:17:55 +0000",
+    "title": "The Adventures of Blink S4e10: Blink vs the Gilded Rose: The Rose in Review",
+    "link": "https://dev.to/linkbenjamin/the-adventures-of-blink-s4e10-blink-vs-the-gilded-rose-the-rose-in-review-3fe4",
+    "pubDate": "Thu, 06 Nov 2025 12:37:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Halo semuanya.\nAku dari Indonesia dan mau share tools konfigurasi Vim yang aku buat. Namanya VimConfig, ini bikin setup Vim jadi lebih gampang dan cepat, terutama kalau sering reinstall atau ganti dev"
+    "contentSnippet": "Hey friends!  It's here - we finish off Season 4 today!  \nI'd like to take a moment to express my gratitude to all of you who have been fellow adventurers with me - during this season as well as befor"
   },
   {
-    "title": "Building a Password Checker with Vanilla JS (No Frameworks!)",
-    "link": "https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo",
-    "pubDate": "Thu, 06 Nov 2025 06:14:03 +0000",
+    "title": "Part 6A — SaijinOS Lightweight: 20-Persona Core, BPM Sync, and a 99.99% Repo Trim",
+    "link": "https://dev.to/kato_masato_c5593c81af5c6/part-6a-saijinos-lightweight-20-persona-core-bpm-sync-and-a-9999-repo-trim-36fp",
+    "pubDate": "Thu, 06 Nov 2025 12:37:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I got locked out of the GST portal for the third time because my password \"didn't meet requirements.\"\n\n\nNo explanation. Just \"Invalid password.\"\nSpeed. I wanted the tool to be:\nFast to load (< 50KB to"
+    "contentSnippet": "I rebuilt SaijinOS around a lightweight core: 20 personas, BPM-synchronized responses, FastAPI + Flutter, full tests — and reduced the repo from ~9GB to ~557KB.\nWhy this matters\nHuman-paced AI needs l"
   },
   {
-    "title": "Recommendations for Useful AI Search Tools",
-    "link": "https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg",
-    "pubDate": "Thu, 06 Nov 2025 06:09:35 +0000",
+    "title": "Parallel AI Development: Can 5 Claude Code Agents Work Independently?",
+    "link": "https://dev.to/aviad_rozenhek_cba37e0660/parallel-ai-development-can-5-claude-code-agents-work-independently-4a5",
+    "pubDate": "Thu, 06 Nov 2025 12:35:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The core value of AI search tools is that they are fundamentally changing how we interact with information. Traditional search engines provide an \"index,\" requiring users to click links, read, filter,"
+    "contentSnippet": "An experiment in coordinating multiple AI coding agents to refactor a complex test suite\nYou've been working on a complex system for months. It's non-trivial - maybe it's a real-time policy-driven sch"
   },
   {
-    "title": "Chapter 2 Git使用心得",
-    "link": "https://dev.to/jason_liu_606805294b05bf6/chapter-2-gitshi-yong-xin-de-51in",
-    "pubDate": "Thu, 06 Nov 2025 06:05:34 +0000",
+    "title": "Build Your Own Niche AI SaaS for AI-Generated B-Roll Videos",
+    "link": "https://dev.to/sevimsoffice/build-your-own-niche-ai-saas-for-ai-generated-b-roll-videos-483d",
+    "pubDate": "Thu, 06 Nov 2025 12:20:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "目录\n1 仓库类型：gitlab\n2 新建项目并推送到新的gitlab远程仓库中\n3 从gitcode开源仓库（如jeecgboot）到gitlab官网上的私人仓库：直接用url\n4 切换本地项目的远程仓库，并将本地项目push到新的Gitlab仓库中（即Gitlab仓库迁移）\n4.1 场景举例\n4.2 几种不同方法\n4.2.1 方法一：在git bash here中进行命令行操作\n4.2.2 方"
+    "contentSnippet": "Want B-roll of yourself without shooting a single clip?\nYou can build a tiny SaaS that does that. You let users upload images. You train a model to make a digital version of them. You generate short B"
   },
   {
-    "title": "Designing My First Zoom System Design Interview Platform from the Trenches",
-    "link": "https://dev.to/dev_loops/designing-my-first-zoom-system-design-interview-platform-from-the-trenches-3ja9",
-    "pubDate": "Thu, 06 Nov 2025 06:04:08 +0000",
+    "title": "Eksploitasi Web Laravel dan Antisipasinya",
+    "link": "https://dev.to/ahmadasroni38/eksploitasi-web-laravel-dan-antisipasinya-2g6l",
+    "pubDate": "Thu, 06 Nov 2025 12:15:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR:\nWhen I first faced a system design interview for a senior engineering role, the prompt was deceptively simple: Design a video conferencing system like Zoom. I thought, “How hard can it be?” Fas"
+    "contentSnippet": "DAFTAR ISI\n\n\n\nPendahuluan\nPersiapan Environment\nPertemuan 6: Eksploitasi Dasar\nPertemuan 7: Eksploitasi Lanjutan\nKesimpulan\nSetelah menyelesaikan praktikum ini, mahasiswa diharapkan dapat:\nMemahami be"
   },
   {
-    "title": "Optimizing Throughput: How Cloud & GPU Acceleration Power Batch Background Tools",
-    "link": "https://dev.to/freepixel11/optimizing-throughput-how-cloud-gpu-acceleration-power-batch-background-tools-fm1",
-    "pubDate": "Thu, 06 Nov 2025 06:03:35 +0000",
+    "title": "El propósito del Testing",
+    "link": "https://dev.to/joshuacba08/el-proposito-del-testing-5571",
+    "pubDate": "Thu, 06 Nov 2025 12:14:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Removing backgrounds from a single image is easy. But removing backgrounds from hundreds or thousands of images in one go — and getting clean, consistent results — is a different challenge.\nThat’s whe"
-  },
-  {
-    "title": "Beyond Generic: Real Connections with AI.",
-    "link": "https://dev.to/gomolemok/beyond-generic-real-connections-with-ai-a36",
-    "pubDate": "Thu, 06 Nov 2025 06:02:16 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Beyond Generic: Real Connections with AI.\nhttps://useinsider.com today!"
+    "contentSnippet": "En ingeniería de software, todo programa funciona… hasta que deja de hacerlo.\n\nY cuando lo hace, rara vez avisa.\nEl testing no existe para demostrar que algo “anda bien”, sino para entender bajo qué c"
   },
   {
     "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2mo6",
-    "pubDate": "Thu, 06 Nov 2025 06:00:29 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-1em1",
+    "pubDate": "Thu, 06 Nov 2025 12:11:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins is back to poke fun at what they call one of the greatest genre movies of the year, “Sinners,” in their signature rapid-fire sinning st"
+    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins takes on what they call one of the greatest genre films of all time, tearing down every plot twist and character beat in record-setting"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4pd2",
-    "pubDate": "Thu, 06 Nov 2025 06:00:20 +0000",
+    "title": "The rewrite dilemma in software engineering",
+    "link": "https://dev.to/rockandnull/the-rewrite-dilemma-in-software-engineering-446h",
+    "pubDate": "Thu, 06 Nov 2025 12:10:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins dives head-first into the Predator universe with “Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less,” playfully roasting the new animated flick in their signat"
+    "contentSnippet": "Rewriting software is a topic that sparks endless debates among engineers. The first reaction when joining an existing project is often: “This is a mess, let’s start fresh”. It’s tempting to imagine a"
+  },
+  {
+    "title": "Understanding Modern API Architectures",
+    "link": "https://dev.to/nilebits/understanding-modern-api-architectures-ngk",
+    "pubDate": "Thu, 06 Nov 2025 12:09:20 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Introduction and the Business Importance of Modern API Architectures\nAPIs as a Strategic Asset\nThink about how organizations like Twilio and Stripe created billion-dollar enterprises by providing user"
+  },
+  {
+    "title": "AIエージェントに「責任を持たせる」ために必要なもの",
+    "link": "https://qiita.com/autotaker1984/items/c30eafd8ab6a5e52cf9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-05T21:55:04.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nAI モデルやそれを核とした AI エージェントの技術が急速に進化しています。\nその一方で、AI に業務を任せようとすると試してみてもなかなかうまくいかない、というのが 2025 年 11 月現在の実情ではないでしょうか？\n本記事では、AI エージェントに仕事を..."
   },
   {
     "title": "UnrealEngine5の教科書 [C++入門編,第三巻]",
@@ -116,14 +123,7 @@
     "link": "https://qiita.com/yushibats/items/80fde659be7425872a8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-05T04:24:24.000Z",
     "source": "Qiita",
-    "contentSnippet": "本記事は2025年11月5日に開催するMeetup勉強会「Oracle Cloud Hangout Cafe（OCHaCafe）」で実施予定の内容です。\n当日の発表内容に加え参考資料・リンクなどを補足したものです。\n\n【🗓️本日実施！19:00 〜】\n登録はこちらから👇　駆..."
-  },
-  {
-    "title": "分散タスクキューCeleryの備忘録[Python]",
-    "link": "https://qiita.com/ssc-yshikeda/items/ff6e1ddb9fcb91ffd195?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-05T04:16:06.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nCeleryはPythonの分散タスクキューです。メッセージブローカーにはRedisを使います。\n概要図を以下に示します。\n\nワーカー（Worker）は、タスクキューから受け取った非同期タスクを実際に実行するプロセスです。メッセージブローカーは、アプリとワー..."
+    "contentSnippet": "本記事は2025年11月5日に開催したMeetup勉強会「Oracle Cloud Hangout Cafe（OCHaCafe）」での発表内容に加え参考資料・リンクなどを補足したものです。\n当日の動画はこちらです👇\n\n当日の資料\n\nはじめに\nこの記事を読むことで、D..."
   },
   {
     "title": "Codex CLIに静的型付き関数型言語TreePを作らせてみた",

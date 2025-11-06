@@ -7,74 +7,74 @@
     "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
   },
   {
-    "title": "I Launched on Product Hunt With No Network... Here’s What Happened",
-    "link": "https://dev.to/isakbuilds/i-launched-on-product-hunt-with-no-network-heres-what-happened-3mcm",
-    "pubDate": "Wed, 05 Nov 2025 18:20:22 +0000",
+    "title": "How I Systemized My YouTube Shorts to Avoid Creative Burnout",
+    "link": "https://dev.to/henry_hoover_62cda4f8d3b2/how-i-systemized-my-youtube-shorts-to-avoid-creative-burnout-3fpb",
+    "pubDate": "Thu, 06 Nov 2025 01:51:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Database design sucks.\nThree weeks ago I decided to build something to fix that.\nI wanted a way to design databases the same way I think about them—fast, visual, and flexible.\nStructa, a tool that mix"
+    "contentSnippet": "I hit record one night after work, stared into the camera, and felt nothing. My energy was gone, and the only thought in my head was, \"Why am I treating YouTube like a second job?\" The pressure to be "
   },
   {
-    "title": "How to send OTP codes with SMS in Node.js",
-    "link": "https://dev.to/jahongir2007/how-to-send-otp-codes-with-sms-in-nodejs-3mak",
-    "pubDate": "Wed, 05 Nov 2025 18:18:23 +0000",
+    "title": "Monitorea Agentes de IA en Producción sin Código",
+    "link": "https://dev.to/aws-espanol/monitorea-agentes-de-ia-en-produccion-sin-codigo-2ooe",
+    "pubDate": "Thu, 06 Nov 2025 01:50:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Sending OTP (One-Time Password) is one of the most common tasks when building modern apps — signup verification, login security, password reset, etc.\nIn Node.js it’s extremely easy to implement — you "
+    "contentSnippet": "Aprende a monitorear agentes de IA en producción con Amazon Bedrock AgentCore Observability. Implementación sin código, trazas en tiempo real y dashboards listos para producción. Tutorial paso a paso."
   },
   {
-    "title": "Jeff Su: 4 Next-Level ChatGPT Techniques",
-    "link": "https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-ffg",
-    "pubDate": "Wed, 05 Nov 2025 18:10:12 +0000",
+    "title": "Principal Dev's Take On Vibe-Coding",
+    "link": "https://dev.to/mrannedev/my-thoughts-on-vibe-coding-3a2h",
+    "pubDate": "Thu, 06 Nov 2025 01:50:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Here’s a no-nonsense rundown: this guide walks you through four killer ChatGPT tricks—reverse-engineer your best prompts, turn one piece of content into a bunch of formats in minutes, get AI to play c"
+    "contentSnippet": "DISCLAIMER: No AI was used in creating this article...for better or worse.\nVibe-coding in the CS community is highly controversial so I wanted to provide a very biased view of vibe-coding based on my "
   },
   {
-    "title": "**The Paradox of Empathy in AI Development: A Call for More",
-    "link": "https://dev.to/drcarlosruizviquez/the-paradox-of-empathy-in-ai-development-a-call-for-more-88m",
-    "pubDate": "Wed, 05 Nov 2025 18:06:37 +0000",
+    "title": "Building a Custom Calendar Generator with React/Next.js",
+    "link": "https://dev.to/bakhat_yar_016451bb6f3b86/building-a-custom-calendar-generator-with-reactnextjs-3ijc",
+    "pubDate": "Thu, 06 Nov 2025 01:49:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Paradox of Empathy in AI Development: A Call for More Human 'Uniqueness'\nAs we push the boundaries of artificial intelligence, I'd like to challenge a notion that has become increasingly prominent"
+    "contentSnippet": "Building a Custom Calendar Generator with React/Next.js\n\n\nAs developers, we often underestimate the complexity of seemingly simple features until we dive into building them. Creating a calendar genera"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-3mi2",
-    "pubDate": "Wed, 05 Nov 2025 18:02:43 +0000",
+    "title": "Configuring Users and Permissions on Linux and Windows: A Complete Guide",
+    "link": "https://dev.to/kingyou/configuring-users-and-permissions-on-linux-and-windows-a-complete-guide-2hbd",
+    "pubDate": "Thu, 06 Nov 2025 01:48:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins just dropped “Everything Wrong With Longlegs In 24 Minutes Or Less,” ripping into Nicolas Cage’s wildly over-the-top horror flick and hyping Osgood Perkins’ upcoming Keeper. They marvel at "
+    "contentSnippet": "Setting up users and permissions correctly is crucial for system security and management. Whether you're configuring a Linux server or a Windows workstation, understanding user management and access c"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-p3o",
-    "pubDate": "Wed, 05 Nov 2025 18:02:30 +0000",
+    "title": "A beginner's guide to the Flux-Fast model by Prunaai on Replicate",
+    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-fast-model-by-prunaai-on-replicate-4o34",
+    "pubDate": "Thu, 06 Nov 2025 01:45:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less is a playful, Halloween-themed roast of one of the year’s best genre movies—celebrating its greatness while piling on the classic CinemaSins jabs. E"
+    "contentSnippet": "This is a simplified guide to an AI model called Flux-Fast maintained by Prunaai. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nflux-fast is an optimized e"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-2m2h",
-    "pubDate": "Wed, 05 Nov 2025 18:02:06 +0000",
+    "title": "A beginner's guide to the Flux-Kontext-Fast model by Prunaai on Replicate",
+    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-kontext-fast-model-by-prunaai-on-replicate-1kfm",
+    "pubDate": "Thu, 06 Nov 2025 01:45:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less\n\n\nCinemaSins just unleashed a rapid-fire sin tally on the animated flick Predator: Killer of Killers, celebrating it as another "
+    "contentSnippet": "This is a simplified guide to an AI model called Flux-Kontext-Fast maintained by Prunaai. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nflux-kontext-fast i"
   },
   {
-    "title": "It's time to start measuring accuracy of data extraction with downstream systems and usability in mind, not just vanity metrics for a marketing slide",
-    "link": "https://dev.to/drguthals/its-time-to-start-measuring-accuracy-of-data-extraction-with-downstream-systems-and-usability-in-1a2m",
-    "pubDate": "Wed, 05 Nov 2025 17:59:55 +0000",
+    "title": "Building a Fashion App Using Cloudinary’s GenAI in React and Node.js",
+    "link": "https://dev.to/cloudinary/building-a-fashion-app-using-cloudinarys-genai-in-react-and-nodejs-25k2",
+    "pubDate": "Thu, 06 Nov 2025 01:30:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Benchmarking the Most Reliable Document Parsing API\nSarah Guthals, PhD for Tensorlake ・ Nov 5"
+    "contentSnippet": "Upload a picture → get four styled looks (elegant, streetwear, sporty, business casual). In this walkthrough we’ll build FashionistaAI with Cloudinary GenAI, React (Vite) on the frontend, and a tiny N"
   },
   {
-    "title": "Optional Is Not Optional in C++ (and Definitely Not a Pointer)",
-    "link": "https://dev.to/kyrylorud/optional-is-not-optional-in-c-and-definitely-not-a-pointer-34jp",
-    "pubDate": "Wed, 05 Nov 2025 17:59:25 +0000",
+    "title": "Vim and I",
+    "link": "https://dev.to/taku25/vim-and-i-254g",
+    "pubDate": "Thu, 06 Nov 2025 01:24:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Last week I had a chat with a few fellow C++ devs, and I was genuinely surprised; some still avoid using std::optional and std::expected. Reason?\nThis adds extra indirects while access as well as memo"
+    "contentSnippet": "TeraPad, Sakura Editor, Hidemaru.\nLooking back, text editors were always just \"little tools\" for me. Something for taking notes or glancing at log files. The main stage of development always belonged "
   },
   {
-    "title": "**Sustainable Energy Optimization in Chilean Mines Using AI*",
-    "link": "https://dev.to/drcarlosruizviquez/sustainable-energy-optimization-in-chilean-mines-using-ai-34eh",
-    "pubDate": "Wed, 05 Nov 2025 17:51:12 +0000",
+    "title": "How to host a PHP/Laravel app on Google Cloud.",
+    "link": "https://dev.to/wediah/how-to-host-a-phplaravel-app-on-google-cloud-2f34",
+    "pubDate": "Thu, 06 Nov 2025 01:17:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Sustainable Energy Optimization in Chilean Mines Using AI\nIn 2018, my team at CINVESTAV and the University of Chile partnered with the state-owned mining company, Codelco, to optimize energy efficienc"
+    "contentSnippet": "Taking a Laravel application from a local development environment to a production system is a critical step in shipping your product.\nBelow is the step by step method, I use to deploy my Laravel apps "
   },
   {
     "title": "MCPサーバのテストやデバッグ機能、自然言語でテスト用モックサーバの自動生成など、API開発ツール「Kong Insomnia 12」正式リリース",
@@ -84,6 +84,27 @@
     "contentSnippet": "API管理ツールや開発ツールを提供するKongは、API開発ツール「Kong Insomnia」の最新バージョンとなる「Kong Insomnia 12」（以下、Insomnia 12）正式リリースを発表しました。 Insomniaは開発ツールとしてAPIの設計、テスト、デバッグのためのさまざまな機能を備えています。APIクライアントとしてはHTTP、REST、gRPC、WebSocketsを始め"
   },
   {
+    "title": "生成AI活用×無料SaaS：tracerouteを世界地図で見える化【IPinfo×geojson.io】",
+    "link": "https://qiita.com/ntaka329/items/0c0c2cb719103b38facf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-05T07:22:45.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n暗号のおねえさん（ https://qiita.com/yumi-sakemi ）から唐突に「インターネット経路の可視化をしたい！」と言われて対応しましたので、今回可視化にあたり実施したことをまとめます。\ntracerouteの結果だ..."
+  },
+  {
+    "title": "Observability Conference Tokyo 2025にオーガナイザーとして参加してました",
+    "link": "https://zenn.dev/katzchang/articles/3b6c0da97d090d",
+    "pubDate": "Wed, 05 Nov 2025 06:11:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年10月27日、これを書いている時点で先週、Observability Conference Tokyo 2025というカンファレンスを開催しました。私は「オーガナイザー」という立場で、カンファレンス全体の雰囲気作りを担いながら、当日はクロージングキーノートでも少し話をしました。\nいくつか、やったことを振り返っていきます。\n\n 開催趣旨をどう作ったか\n\nまず、ウェブサイト https://"
+  },
+  {
+    "title": "【これ1本でわかる】 Difyを“まるっと理解する” - 基本要素から実装まで-",
+    "link": "https://qiita.com/yushibats/items/80fde659be7425872a8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-05T04:24:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "本記事は2025年11月5日に開催するMeetup勉強会「Oracle Cloud Hangout Cafe（OCHaCafe）」で実施予定の内容です。\n当日の発表内容に加え参考資料・リンクなどを補足したものです。\n\n【🗓️本日実施！19:00 〜】\n登録はこちらから👇　駆..."
+  },
+  {
     "title": "分散タスクキューCeleryの備忘録[Python]",
     "link": "https://qiita.com/ssc-yshikeda/items/ff6e1ddb9fcb91ffd195?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-05T04:16:06.000Z",
@@ -91,11 +112,25 @@
     "contentSnippet": "はじめに\nCeleryはPythonの分散タスクキューです。メッセージブローカーにはRedisを使います。\n概要図を以下に示します。\n\nワーカー（Worker）は、タスクキューから受け取った非同期タスクを実際に実行するプロセスです。メッセージブローカーは、アプリとワー..."
   },
   {
+    "title": "Codex CLIに静的型付き関数型言語TreePを作らせてみた",
+    "link": "https://zenn.dev/nextbeat/articles/819c2ace67e8ef",
+    "pubDate": "Wed, 05 Nov 2025 04:12:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "挨拶\nこんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。最近は以前からやっている業務に加えて、（もちろん業務ですが）LLMのLoRA作成のPoCにも挑戦したりして、少しワクワクする日々です。\n最近は皆さんもコーディングAIを使う機会が増えているかと思いますが、私はClaude CodeでなくCodex CLIに浮気中です。もちろん、Claude"
+  },
+  {
     "title": "【GitHub Copilot】「コードが学習されるのが不安」を解消するオプトアウト設定",
     "link": "https://qiita.com/imamu123/items/e7105ab0e0a6292f0937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-05T03:07:07.000Z",
     "source": "Qiita",
     "contentSnippet": "👕 はじめに\n皆さん、AI活用していますか？\n私は、情報流出やAIの学習にコードが利用されることへの懸念があり、これまで積極的な活用を少し控えていました。\n（集合知に貢献するという側面もあるとは思うのですが…）\nそこで、GitHub Copilotでコードが学習に利用され..."
+  },
+  {
+    "title": "Unityでカジュアルゲーム用のライブラリを作って開発速度を上げた",
+    "link": "https://zenn.dev/akubi/articles/c6f9786e0fb86f",
+    "pubDate": "Wed, 05 Nov 2025 03:06:58 GMT",
+    "source": "Zenn",
+    "contentSnippet": "前からやろうと思っていてなかなかやっていなかった共通部品のライブラリ化をお盆の期間を利用して作りました。\n作るゲームに必要な専用の処理以外実装しないでいいようにする！をゴールとして作成しました。\n\n 導入コストを減らすためにやったこと\nunitypackageや雛形のプロジェクトを作ってそれをコピーして流用するやり方も考えましたが、\n以下の点を考えて、gitで管理してサブモジュールとして追加する形"
   },
   {
     "title": "人事部長はAI駆動BIで社員離職リスクをどう分析したか -Amazon Quick Suite-",
@@ -140,13 +175,6 @@
     "contentSnippet": "Tl;dr\nAWS S3の署名付きURLはHTTPメソッドを署名に含むので、GET用の署名付きURLに対してHEADリクエストを送ると403 Forbiddenになります。HEADリクエストにはHEAD用の署名付きURLを返しましょう。\nGiteaがこれを踏んでいました。\n\n はじめに\n私は大学生なのですが、趣味でmiseにコントリビュートしています。\nこの話はaqua:gitea.com/git"
   },
   {
-    "title": "Amazon Neptuneとは",
-    "link": "https://qiita.com/yuki_0/items/d5eae1c73164f3ec0440?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T13:53:00.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n\n・記事を投稿しようと思った背景\n資格の勉強を実施している中で「Amazon Neptune」が登場したことと、新卒の方々から「Amazon Neptune」の質問を２件ほど続けていただいたため、知識を整理しようと思ったことがきっかけです。\n\n・誰に向けて書いた..."
-  },
-  {
     "title": "カードゲームの対戦機能をクライアント主体で設計したらこうなった",
     "link": "https://zenn.dev/niwatly/articles/295841b00bcb7f",
     "pubDate": "Tue, 04 Nov 2025 12:56:01 GMT",
@@ -159,13 +187,6 @@
     "pubDate": "Tue, 04 Nov 2025 12:31:54 GMT",
     "source": "Zenn",
     "contentSnippet": "LLMは「とりあえず」では動かない\nVercel AI SDK などを使い LLM をアプリケーションに組み込む際、期待通りの出力を安定して得ることが課題となります。\n「いい感じに要約して」「この質問に答えて」といった漠然とした指示では、以下のような問題が頻発します。\n\n「承知いたしました。こちらが要約です...」といった余計な前置きが毎回付く\nJSON で返してほしいのに、Markdown やた"
-  },
-  {
-    "title": "【初心者向け】14年ぶり全面改訂！CSIRTスタータキット v3.0 徹底解説",
-    "link": "https://zenn.dev/moneymog/articles/a5b70b5f73ee65",
-    "pubDate": "Tue, 04 Nov 2025 11:52:35 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nセキュリティ担当に任命されて、「CSIRTを構築しよう」と言われたけれど、何から始めればいいのかわからない…そんな経験はありませんか？\n2025年10月、日本シーサート協議会（NCA）が14年ぶりに全面改訂した「CSIRTスタータキット Ver 3.0」が公開されました。この記事では、セキュリティ担当になりたての方に向けて、v3.0のポイントと実践的な構築ステップをわかりやすく解説します"
   },
   {
     "title": "遂にLangChain v1.0リリース！ 新機能と移行のポイントをコード付きで分かりやすく解説！",
@@ -189,18 +210,18 @@
     "contentSnippet": "Reactでは、JSXを返す関数を組み合わせてアプリケーションを作っていきます。それらの関数は<Component />のように呼び出すこともあれば、Component()のように呼び出すこともあります。後者を使用する機会は多くないかもしれませんが、例えばrender hooksパターンによってカスタムフックからUIを返したいときに使われることがあります。\n一見どちらも同じようにJSXを返しますが"
   },
   {
-    "title": "ドキュメント検索MCPサーバを作ってみた【MCP+OpenSearch+AWS】",
-    "link": "https://zenn.dev/levtech/articles/a5a3204ffed86c",
-    "pubDate": "Tue, 04 Nov 2025 03:07:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、SREチームの鈴木です。\nSREチームでは、開発リソースの20%を目安にメインプロジェクト以外の「自チームの運用課題の解消」に取り組むことができます。\n現在、AWS・New Relic・TiDB など開発部で利用する複数のSaaSを管理しており、問い合わせ対応にかかる工数が課題になっています。これを解決するため、各サービスの公式ドキュメントを参照して正確な回答を返す MCP "
+    "title": "OpenAI AgentKitでサクッとAIエージェント作ってみた",
+    "link": "https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T01:29:45.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは！KIYO LearningでAirCourseの開発をしている森下です。今回は、OpenAIが2025年10月6日に発表した、AgentKitについてご紹介します！\nこの記事では、AgentKitを使って星座占いAIエージェントを実際に作ってみるまで..."
   },
   {
-    "title": "「Deep Research」の「がっかり体験」を減らす手法",
-    "link": "https://zenn.dev/knowledgesense/articles/3bd20780949e58",
-    "pubDate": "Tue, 04 Nov 2025 00:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本記事では、精度の高い「Deep Research」機能を実装するための手法について、ざっくり解説します。\n株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。\n\n この記事は何\nこの記事は、「Deep Research」の新手法「Enterprise Deep Research (EDR)」の論文[1]について、"
+    "title": "GAS × Supabase × Next.js × Qiita API で構築する業務ナレッジ可視化ツール",
+    "link": "https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T01:02:51.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGoogle Apps Script（GAS）とスプレッドシートで社内ツールを作るのは非常に簡単で便利です。\nしかし、その便利さゆえに以下のような課題を感じたことはないでしょうか？\n\n編集者が増えると同時編集によるデータ競合が発生しやすい\nスプレッドシートの肥大..."
   },
   {
     "title": "サイバーエージェントがAIアプリ「Dify」のベクトルDBとしてTiDBを選択。AIアプリの全社導入に耐えうる基盤を構築［PR］",
@@ -229,27 +250,6 @@
     "pubDate": "2025-11-03T10:16:25.000Z",
     "source": "Qiita",
     "contentSnippet": "安いゲームの日本語訳とかで、テキストが画面枠をはみ出て見切れるという何も考えてない実装をよく見かけますよね。\nそれよりは見えるだけまだマシなものとして、文字数が多くなると画面幅に合わせてフォントサイズが小さくなるという実装もたまに見かけます。\n\n※ねとらぼより拝借\nこの後者..."
-  },
-  {
-    "title": "【AtCoder】入水しました！！！！！！！！！！！！！！",
-    "link": "https://qiita.com/yesantikiss/items/be7544fb531e333de596?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-02T11:55:40.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは、yesです。\n今回はABC430で入水したので入水記事を書いていきます！！！\n\nスペック\n\n大学1年生(情報系)\n中受経験があるので算数は得意\n微積が本当に理解できない\nプログラミングは元々if/for文は知ってる程度(アルゴリズムや計算量の知識は皆無)\nタイ..."
-  },
-  {
-    "title": " Docker以外のコンテナエンジン完全ガイド：初心者から実践まで",
-    "link": "https://qiita.com/keitah/items/fb7fc280e49f4408ca63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-02T11:01:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Docker以外のコンテナエンジン完全ガイド：初心者から実践まで\n最終更新: 2025年11月（Kubernetes 1.34対応確認済み）\n\nはじめに\n「コンテナ = Docker」と思っている方も多いのではないでしょうか？実は、コンテナ技術の世界にはDocker以外に..."
-  },
-  {
-    "title": "【個人開発】勉強に集中できる場所が見つからない問題を解決する地図アプリを個人開発した【React/Supabase】",
-    "link": "https://qiita.com/kazutorahattori/items/b79304ceafae157ba86c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-02T08:00:06.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nお疲れ様です。\n今回の課題では、「Study Spot Vancouver」 という自習スポット検索アプリを開発しました。\nReact・TypeScript・Supabase・Google Maps API・Chakra UIを使用し、\n地図上にピンを表示 → ..."
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",

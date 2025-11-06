@@ -7,74 +7,81 @@
     "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
   },
   {
-    "title": "How I Systemized My YouTube Shorts to Avoid Creative Burnout",
-    "link": "https://dev.to/henry_hoover_62cda4f8d3b2/how-i-systemized-my-youtube-shorts-to-avoid-creative-burnout-3fpb",
-    "pubDate": "Thu, 06 Nov 2025 01:51:20 +0000",
+    "title": "Why `rem` Should Be Your Default for Spacing in Modern CSS",
+    "link": "https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m",
+    "pubDate": "Thu, 06 Nov 2025 06:19:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I hit record one night after work, stared into the camera, and felt nothing. My energy was gone, and the only thought in my head was, \"Why am I treating YouTube like a second job?\" The pressure to be "
+    "contentSnippet": "Why Use rem Instead of px for Padding?\n\n\n\n\n\n/* Before */\npadding: 24px 74px;\n\n/* After */\npadding: 1.5rem 4.625rem;\n\nBut this is one of those small shifts that has a big impact in modern CSS, especial"
   },
   {
-    "title": "Monitorea Agentes de IA en Producción sin Código",
-    "link": "https://dev.to/aws-espanol/monitorea-agentes-de-ia-en-produccion-sin-codigo-2ooe",
-    "pubDate": "Thu, 06 Nov 2025 01:50:59 +0000",
+    "title": "vimconfig: Auto-Setup Vim dengan Backup Otomatis",
+    "link": "https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg",
+    "pubDate": "Thu, 06 Nov 2025 06:17:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Aprende a monitorear agentes de IA en producción con Amazon Bedrock AgentCore Observability. Implementación sin código, trazas en tiempo real y dashboards listos para producción. Tutorial paso a paso."
+    "contentSnippet": "Halo semuanya.\nAku dari Indonesia dan mau share tools konfigurasi Vim yang aku buat. Namanya VimConfig, ini bikin setup Vim jadi lebih gampang dan cepat, terutama kalau sering reinstall atau ganti dev"
   },
   {
-    "title": "Principal Dev's Take On Vibe-Coding",
-    "link": "https://dev.to/mrannedev/my-thoughts-on-vibe-coding-3a2h",
-    "pubDate": "Thu, 06 Nov 2025 01:50:23 +0000",
+    "title": "Building a Password Checker with Vanilla JS (No Frameworks!)",
+    "link": "https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo",
+    "pubDate": "Thu, 06 Nov 2025 06:14:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "DISCLAIMER: No AI was used in creating this article...for better or worse.\nVibe-coding in the CS community is highly controversial so I wanted to provide a very biased view of vibe-coding based on my "
+    "contentSnippet": "I got locked out of the GST portal for the third time because my password \"didn't meet requirements.\"\n\n\nNo explanation. Just \"Invalid password.\"\nSpeed. I wanted the tool to be:\nFast to load (< 50KB to"
   },
   {
-    "title": "Building a Custom Calendar Generator with React/Next.js",
-    "link": "https://dev.to/bakhat_yar_016451bb6f3b86/building-a-custom-calendar-generator-with-reactnextjs-3ijc",
-    "pubDate": "Thu, 06 Nov 2025 01:49:36 +0000",
+    "title": "Recommendations for Useful AI Search Tools",
+    "link": "https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg",
+    "pubDate": "Thu, 06 Nov 2025 06:09:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a Custom Calendar Generator with React/Next.js\n\n\nAs developers, we often underestimate the complexity of seemingly simple features until we dive into building them. Creating a calendar genera"
+    "contentSnippet": "The core value of AI search tools is that they are fundamentally changing how we interact with information. Traditional search engines provide an \"index,\" requiring users to click links, read, filter,"
   },
   {
-    "title": "Configuring Users and Permissions on Linux and Windows: A Complete Guide",
-    "link": "https://dev.to/kingyou/configuring-users-and-permissions-on-linux-and-windows-a-complete-guide-2hbd",
-    "pubDate": "Thu, 06 Nov 2025 01:48:50 +0000",
+    "title": "Chapter 2 Git使用心得",
+    "link": "https://dev.to/jason_liu_606805294b05bf6/chapter-2-gitshi-yong-xin-de-51in",
+    "pubDate": "Thu, 06 Nov 2025 06:05:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Setting up users and permissions correctly is crucial for system security and management. Whether you're configuring a Linux server or a Windows workstation, understanding user management and access c"
+    "contentSnippet": "目录\n1 仓库类型：gitlab\n2 新建项目并推送到新的gitlab远程仓库中\n3 从gitcode开源仓库（如jeecgboot）到gitlab官网上的私人仓库：直接用url\n4 切换本地项目的远程仓库，并将本地项目push到新的Gitlab仓库中（即Gitlab仓库迁移）\n4.1 场景举例\n4.2 几种不同方法\n4.2.1 方法一：在git bash here中进行命令行操作\n4.2.2 方"
   },
   {
-    "title": "A beginner's guide to the Flux-Fast model by Prunaai on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-fast-model-by-prunaai-on-replicate-4o34",
-    "pubDate": "Thu, 06 Nov 2025 01:45:45 +0000",
+    "title": "Designing My First Zoom System Design Interview Platform from the Trenches",
+    "link": "https://dev.to/dev_loops/designing-my-first-zoom-system-design-interview-platform-from-the-trenches-3ja9",
+    "pubDate": "Thu, 06 Nov 2025 06:04:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Flux-Fast maintained by Prunaai. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nflux-fast is an optimized e"
+    "contentSnippet": "TL;DR:\nWhen I first faced a system design interview for a senior engineering role, the prompt was deceptively simple: Design a video conferencing system like Zoom. I thought, “How hard can it be?” Fas"
   },
   {
-    "title": "A beginner's guide to the Flux-Kontext-Fast model by Prunaai on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-kontext-fast-model-by-prunaai-on-replicate-1kfm",
-    "pubDate": "Thu, 06 Nov 2025 01:45:11 +0000",
+    "title": "Optimizing Throughput: How Cloud & GPU Acceleration Power Batch Background Tools",
+    "link": "https://dev.to/freepixel11/optimizing-throughput-how-cloud-gpu-acceleration-power-batch-background-tools-fm1",
+    "pubDate": "Thu, 06 Nov 2025 06:03:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Flux-Kontext-Fast maintained by Prunaai. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nflux-kontext-fast i"
+    "contentSnippet": "Removing backgrounds from a single image is easy. But removing backgrounds from hundreds or thousands of images in one go — and getting clean, consistent results — is a different challenge.\nThat’s whe"
   },
   {
-    "title": "Building a Fashion App Using Cloudinary’s GenAI in React and Node.js",
-    "link": "https://dev.to/cloudinary/building-a-fashion-app-using-cloudinarys-genai-in-react-and-nodejs-25k2",
-    "pubDate": "Thu, 06 Nov 2025 01:30:09 +0000",
+    "title": "Beyond Generic: Real Connections with AI.",
+    "link": "https://dev.to/gomolemok/beyond-generic-real-connections-with-ai-a36",
+    "pubDate": "Thu, 06 Nov 2025 06:02:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Upload a picture → get four styled looks (elegant, streetwear, sporty, business casual). In this walkthrough we’ll build FashionistaAI with Cloudinary GenAI, React (Vite) on the frontend, and a tiny N"
+    "contentSnippet": "Beyond Generic: Real Connections with AI.\nhttps://useinsider.com today!"
   },
   {
-    "title": "Vim and I",
-    "link": "https://dev.to/taku25/vim-and-i-254g",
-    "pubDate": "Thu, 06 Nov 2025 01:24:17 +0000",
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2mo6",
+    "pubDate": "Thu, 06 Nov 2025 06:00:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TeraPad, Sakura Editor, Hidemaru.\nLooking back, text editors were always just \"little tools\" for me. Something for taking notes or glancing at log files. The main stage of development always belonged "
+    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins is back to poke fun at what they call one of the greatest genre movies of the year, “Sinners,” in their signature rapid-fire sinning st"
   },
   {
-    "title": "How to host a PHP/Laravel app on Google Cloud.",
-    "link": "https://dev.to/wediah/how-to-host-a-phplaravel-app-on-google-cloud-2f34",
-    "pubDate": "Thu, 06 Nov 2025 01:17:41 +0000",
+    "title": "CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-4pd2",
+    "pubDate": "Thu, 06 Nov 2025 06:00:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Taking a Laravel application from a local development environment to a production system is a critical step in shipping your product.\nBelow is the step by step method, I use to deploy my Laravel apps "
+    "contentSnippet": "TL;DR\n\n\nCinemaSins dives head-first into the Predator universe with “Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less,” playfully roasting the new animated flick in their signat"
+  },
+  {
+    "title": "UnrealEngine5の教科書 [C++入門編,第三巻]",
+    "link": "https://zenn.dev/daichi_gamedev/books/unreal-engine-cplusplus",
+    "pubDate": "Wed, 05 Nov 2025 18:20:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "📘この本について\nUnrealEngine5(UE5)のC++を使ったゲーム制作について、初心者の方向けに1から丁寧に解説している入門本です。C++基礎からUnrealEngineでのC++を使用したゲーム制作の基本機能の実装までゲーム制作に必要な項目をまとめています。\n\n✒️本は既存のページ含めて現在制作中です\n本は既存ページ含めて現在制作中です。随時ページを追加していきます。アップデートはす"
   },
   {
     "title": "MCPサーバのテストやデバッグ機能、自然言語でテスト用モックサーバの自動生成など、API開発ツール「Kong Insomnia 12」正式リリース",
@@ -82,6 +89,13 @@
     "pubDate": "2025-11-05T15:23:27.000Z",
     "source": "Publickey",
     "contentSnippet": "API管理ツールや開発ツールを提供するKongは、API開発ツール「Kong Insomnia」の最新バージョンとなる「Kong Insomnia 12」（以下、Insomnia 12）正式リリースを発表しました。 Insomniaは開発ツールとしてAPIの設計、テスト、デバッグのためのさまざまな機能を備えています。APIクライアントとしてはHTTP、REST、gRPC、WebSocketsを始め"
+  },
+  {
+    "title": "フロントエンドとサーバーでのバリデーション責務分解",
+    "link": "https://zenn.dev/ryugen04/articles/20251104-frontend-validation",
+    "pubDate": "Wed, 05 Nov 2025 12:02:33 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先日、Xでこんな投稿が話題になっていました。\nhttps://x.com/okd61807313/status/1984917649386615251\n実際のサイトを見ていないため詳細は不明ですが、事象としてはフロントエンドのJavaScriptだけでバリデーションを実装し、サーバーサイドに同等以上のバリデーションがなかったケースです。\nDevToolsで回避できるということは、悪意ある"
   },
   {
     "title": "生成AI活用×無料SaaS：tracerouteを世界地図で見える化【IPinfo×geojson.io】",
@@ -126,11 +140,11 @@
     "contentSnippet": "👕 はじめに\n皆さん、AI活用していますか？\n私は、情報流出やAIの学習にコードが利用されることへの懸念があり、これまで積極的な活用を少し控えていました。\n（集合知に貢献するという側面もあるとは思うのですが…）\nそこで、GitHub Copilotでコードが学習に利用され..."
   },
   {
-    "title": "Unityでカジュアルゲーム用のライブラリを作って開発速度を上げた",
-    "link": "https://zenn.dev/akubi/articles/c6f9786e0fb86f",
-    "pubDate": "Wed, 05 Nov 2025 03:06:58 GMT",
+    "title": "世界一わかりやすくGit worktreeを解説！AI駆動開発でも活用できる並列開発の方法",
+    "link": "https://zenn.dev/tmasuyama1114/articles/git_worktree_beginner",
+    "pubDate": "Wed, 05 Nov 2025 01:38:32 GMT",
     "source": "Zenn",
-    "contentSnippet": "前からやろうと思っていてなかなかやっていなかった共通部品のライブラリ化をお盆の期間を利用して作りました。\n作るゲームに必要な専用の処理以外実装しないでいいようにする！をゴールとして作成しました。\n\n 導入コストを減らすためにやったこと\nunitypackageや雛形のプロジェクトを作ってそれをコピーして流用するやり方も考えましたが、\n以下の点を考えて、gitで管理してサブモジュールとして追加する形"
+    "contentSnippet": "こんにちは、とまだです。\n「このブランチで作業中なのに、急に別のブランチを確認しないといけなくなった...」\n「でも今の作業は中途半端だし、コミットやスタッシュで退避するのもなぁ...」\nこんな経験はありませんか?\nGitでの開発では、複数のタスクを並行して進める場面がよくあります。\nそんなとき便利なのが Git worktree という機能です。\n今回は、Gitの基礎を押さえながら、worktr"
   },
   {
     "title": "人事部長はAI駆動BIで社員離職リスクをどう分析したか -Amazon Quick Suite-",
@@ -175,6 +189,13 @@
     "contentSnippet": "Tl;dr\nAWS S3の署名付きURLはHTTPメソッドを署名に含むので、GET用の署名付きURLに対してHEADリクエストを送ると403 Forbiddenになります。HEADリクエストにはHEAD用の署名付きURLを返しましょう。\nGiteaがこれを踏んでいました。\n\n はじめに\n私は大学生なのですが、趣味でmiseにコントリビュートしています。\nこの話はaqua:gitea.com/git"
   },
   {
+    "title": "今年俺を一番幸せにしたDX最高な奴ら10選",
+    "link": "https://zenn.dev/chiji/articles/a8eaa9ed1d042c",
+    "pubDate": "Tue, 04 Nov 2025 13:57:49 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年も後もう少しで終わりますねー。\nそこで、2025年筆者が使っててこれDX良かったなーというライブラリ・SaaS・ツールを紹介します！\nみなさん、普段から開発者体験（DX）を気にしてますか？\nDXとは、開発中に感じる“心地よさ”や“効率の良さ”を指します。\nどんなに実装が複雑でも、DXを損なうことがなければ開発はずっと楽しいんです！\nそこでこの記事では、「心から開発を楽しめる」相棒たちを1"
+  },
+  {
     "title": "カードゲームの対戦機能をクライアント主体で設計したらこうなった",
     "link": "https://zenn.dev/niwatly/articles/295841b00bcb7f",
     "pubDate": "Tue, 04 Nov 2025 12:56:01 GMT",
@@ -187,27 +208,6 @@
     "pubDate": "Tue, 04 Nov 2025 12:31:54 GMT",
     "source": "Zenn",
     "contentSnippet": "LLMは「とりあえず」では動かない\nVercel AI SDK などを使い LLM をアプリケーションに組み込む際、期待通りの出力を安定して得ることが課題となります。\n「いい感じに要約して」「この質問に答えて」といった漠然とした指示では、以下のような問題が頻発します。\n\n「承知いたしました。こちらが要約です...」といった余計な前置きが毎回付く\nJSON で返してほしいのに、Markdown やた"
-  },
-  {
-    "title": "遂にLangChain v1.0リリース！ 新機能と移行のポイントをコード付きで分かりやすく解説！",
-    "link": "https://zenn.dev/nttdata_tech/articles/2ea5821c65fc06",
-    "pubDate": "Tue, 04 Nov 2025 10:29:34 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年10月22日、ついに LangChain v1.0 がリリースされました！ 🥳\nv1.0は特に「エージェント構築」が強化され、従来LangGraphが持っていた機能の統合なども行われています。本記事では、LangChain 1.0の新機能とv0.xからv1.0への移行のポイントをコード付きで紹介します。\n\n LangChain v1.0のサマリー\n\n\n\n項目\n内容\n\n\n\n\ncreate"
-  },
-  {
-    "title": "Web 標準動向 2025年10月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510",
-    "pubDate": "Tue, 04 Nov 2025 07:41:17 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。\n\n はじめに\nサイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。\nhttps://blog.cybozu.io/entry/joining-w3c\nhttps://blog.cybozu.io/entry/w3c-interview-part1\nhttps://b"
-  },
-  {
-    "title": "Reactにおける<Component />とComponent()の違い",
-    "link": "https://zenn.dev/chot/articles/f0d20f46b60818",
-    "pubDate": "Tue, 04 Nov 2025 05:27:25 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Reactでは、JSXを返す関数を組み合わせてアプリケーションを作っていきます。それらの関数は<Component />のように呼び出すこともあれば、Component()のように呼び出すこともあります。後者を使用する機会は多くないかもしれませんが、例えばrender hooksパターンによってカスタムフックからUIを返したいときに使われることがあります。\n一見どちらも同じようにJSXを返しますが"
   },
   {
     "title": "OpenAI AgentKitでサクッとAIエージェント作ってみた",

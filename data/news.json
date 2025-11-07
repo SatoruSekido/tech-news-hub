@@ -1,73 +1,73 @@
 [
   {
-    "title": "Build Content Like an Engineer: Systems, Signals, and Checks That Earn Trust",
-    "link": "https://dev.to/sonia_bobrik_1939cdddd79d/build-content-like-an-engineer-systems-signals-and-checks-that-earn-trust-3pb3",
-    "pubDate": "Fri, 07 Nov 2025 12:50:03 +0000",
+    "title": "Unlock Dual Revenue: AI Monetization Strategies for LLM Apps with Monetzly",
+    "link": "https://dev.to/monetzly/unlock-dual-revenue-ai-monetization-strategies-for-llm-apps-with-monetzly-43kd",
+    "pubDate": "Fri, 07 Nov 2025 18:17:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You don’t need to shout to be heard; you need to be clear and verifiable. Teams that treat publishing like a product discipline consistently outperform those chasing hacks. That’s why many engineering"
+    "contentSnippet": "What If Your AI App Could Generate Revenue in Two Ways?\n\n\nAs the AI application landscape continues to expand, developers face a common challenge: how to monetize their creations without compromising "
   },
   {
-    "title": "How Airline Group Fares Really Work: The Business & Tech Behind 'TBA' Passenger Names",
-    "link": "https://dev.to/aman_kumar_bdd40f1b711c15/how-airline-group-fares-really-work-the-business-tech-behind-tba-passenger-names-4mo9",
-    "pubDate": "Fri, 07 Nov 2025 12:48:48 +0000",
+    "title": "Best Alternatives to Microsoft Recall in 2025",
+    "link": "https://dev.to/nodminger/best-alternatives-to-microsoft-recall-in-2025-1jh8",
+    "pubDate": "Fri, 07 Nov 2025 18:17:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you've ever seen \"TBA/TBA\" as a passenger name in a flight booking, it's not a glitch—it's a feature. After booking a cheap group fare on Yatra.com, I discovered the hidden world of airline group b"
+    "contentSnippet": "When Microsoft introduced Windows Recall, it promised to change the way we work. The feature was designed to help users find anything they’ve seen on their PC, almost like a photographic memory for yo"
   },
   {
-    "title": "How To Setup MonoGame for Fsharp",
-    "link": "https://dev.to/sabedoesthings/how-to-setup-monogame-for-f-14fg",
-    "pubDate": "Fri, 07 Nov 2025 12:45:44 +0000",
+    "title": "LeafWiki v0.4.9 – Mermaid Diagrams, Page Copy & Easier Setup 🚀",
+    "link": "https://dev.to/perber/leafwiki-v049-mermaid-diagrams-page-copy-easier-setup-47ai",
+    "pubDate": "Fri, 07 Nov 2025 18:17:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "There are little to NO guides on using F# with MonoGame.. \nSo I got to work and figured out how to setup an F# project to use MonoGame! There are probably other ways to do it but this way worked for m"
+    "contentSnippet": "Hey everyone 👋  \nAfter a few weeks of feedback and polishing, LeafWiki v0.4.9 is out!\n\nThis update focuses on making LeafWiki easier to start, smoother to use, and just a little more powerful.\nLeafWi"
   },
   {
-    "title": "💡 Next-Level Deployments in AWS ECS: Step-by-Step Guide to Linear & Canary Releases 🚀",
-    "link": "https://dev.to/ahmedadel/next-level-deployments-in-aws-ecs-step-by-step-guide-to-linear-canary-releases-2025-edition-3bbb",
-    "pubDate": "Fri, 07 Nov 2025 12:43:32 +0000",
+    "title": "Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half",
+    "link": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c",
+    "pubDate": "Fri, 07 Nov 2025 18:07:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AWS ECS just dropped one of its most practical features for modern DevOps: built-in Linear and Canary deployments! 😲 No more stitching together custom scripts or relying on external tools for smooth "
+    "contentSnippet": "This vid breaks down four killer ChatGPT tricks—Prompt Reversal, the 5-Minute Amplifier, the Red Team Technique, and Blueprint Scaffolding—that can literally chop your AI workflow in half. Instead of "
   },
   {
-    "title": "Hudson River Trading VO Interview Experience",
-    "link": "https://dev.to/net_programhelp_e160eef28/hudson-river-trading-vo-interview-experience-gch",
-    "pubDate": "Fri, 07 Nov 2025 12:39:51 +0000",
+    "title": "Ringer Movies: The 25 Best Movies of the Century: No. 6 - 'Mulholland Drive’",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-h48",
+    "pubDate": "Fri, 07 Nov 2025 18:01:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hudson River Trading (HRT) has long been known as one of the most intellectually demanding firms in the quant world.\n\nTheir interview process is fast-paced, precise, and pushes you to think deeply — i"
+    "contentSnippet": "Sean Fennessey and Amanda Dobbins are back with their countdown of the 21st century’s best films, landing on No. 6: David Lynch’s Mulholland Drive. They dive into why this surreal masterpiece still ca"
   },
   {
-    "title": "Build HTTP APIs with Dependency Injection in TypeScript — Meet the Inversify Framework",
-    "link": "https://dev.to/notaphplover/build-http-apis-with-dependency-injection-in-typescript-meet-the-inversify-framework-ngg",
-    "pubDate": "Fri, 07 Nov 2025 12:37:47 +0000",
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-40km",
+    "pubDate": "Fri, 07 Nov 2025 18:00:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you love clean architecture and TypeScript, this guide will show you how to build fast, maintainable HTTP APIs using the Inversify Framework — a decorator-driven, DI-first toolkit on top of Inversi"
+    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemasins drops a Halloween-ready quick-fire “sins” rundown of what they call one of the year’s best genre movies—cramming witty nitpicks into ju"
   },
   {
-    "title": "NVIDIA H200 GPU Server Explained: Performance, Speed, and Scalability Like Never Before",
-    "link": "https://dev.to/cyfutureai/nvidia-h200-gpu-server-explained-performance-speed-and-scalability-like-never-before-4gff",
-    "pubDate": "Fri, 07 Nov 2025 12:37:46 +0000",
+    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3m11",
+    "pubDate": "Fri, 07 Nov 2025 18:00:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the fast-paced world of artificial intelligence (AI) and high-performance computing (HPC), GPU technology plays a pivotal role. NVIDIA’s H200 GPU server has emerged as a groundbreaking solution tha"
+    "contentSnippet": "TL;DR\n\n\nCinemaSins rolled out a new “Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less” video, dishing out all their trademark nitpicks while admitting they’re oddly enjoyin"
   },
   {
-    "title": "Como configurar um projeto Swift sem StoryBoard",
-    "link": "https://dev.to/henriquepablo/como-configurar-um-projeto-swift-sem-storyboard-fe0",
-    "pubDate": "Fri, 07 Nov 2025 12:27:30 +0000",
+    "title": "Getting Organized with the Synology DS925+: My Honest First NAS Experience",
+    "link": "https://dev.to/hardeep_singhajimal_e72e/getting-organized-with-the-synology-ds925-my-honest-first-nas-experience-cp7",
+    "pubDate": "Fri, 07 Nov 2025 18:00:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Atenção!\npara seguir com o post, é necessário possuir um computador da Apple e ter instalado o Xcode.\nQuando criamos um novo projeto no Xcode, ele geralmente vem configurado para usar Storyboards na c"
+    "contentSnippet": "The reason is that I have never used a NAS before. Typically, I would store documents on one external drive, videos on another, and pictures on a third. It was a piecemeal solution, but everything was"
   },
   {
-    "title": "🚨 I just discovered a C++ surprise!",
-    "link": "https://dev.to/vaidu_jha/i-just-discovered-a-c-surprise-2gjl",
-    "pubDate": "Fri, 07 Nov 2025 12:23:28 +0000",
+    "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4cg0",
+    "pubDate": "Fri, 07 Nov 2025 18:00:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I was playing around with arrays in C++ and wrote this simple code 👇\nusing namespace std;\nint main() {\nGuess what happened?\n💥 Output: 4199048\nNo error. No warning. Just a random number.\nAt first I t"
+    "contentSnippet": "Predator 2 - Caravan of Garbage offers a breezy, informal dive into the 1990 sequel that swaps Arnold’s jungle romp for Danny Glover’s heat-soaked, crime-ridden LA. You get a meaner Predator, a surpri"
   },
   {
-    "title": "Web Developer Travis McCracken on Building Dev Tools for Backend Engineers",
-    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-dev-tools-for-backend-engineers-kf",
-    "pubDate": "Fri, 07 Nov 2025 12:19:26 +0000",
+    "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-1heb",
+    "pubDate": "Fri, 07 Nov 2025 18:00:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Unlocking the Power of Backend Development with Rust and Go: Insights from Web Developer Travis McCracken\nAs a passionate Web Developer, I’ve spent years honing my skills in backend development, const"
+    "contentSnippet": "Predators – Caravan of Garbage dives into why 2010’s Predators finally brought the franchise back to its gritty roots: a motley crew of lunatics, a dense jungle setting, muddy showdowns and fresh twis"
   },
   {
     "title": "Webアプリのセッション管理、結局どれ使えばいいの？",
@@ -82,6 +82,13 @@
     "pubDate": "2025-11-07T00:42:20.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n\n前回の記事はこちら\n【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化..."
+  },
+  {
+    "title": "Anthropic公式のMCPサーバー設計術！98.7%のトークン削減を実現",
+    "link": "https://zenn.dev/tmasuyama1114/articles/anthropic_mcp_workflow",
+    "pubDate": "Thu, 06 Nov 2025 21:48:52 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、とまだです。\n「MCPサーバーを作ってみたけど、ツールが増えるとトークン消費が増え続ける...」と悩んでいませんか?\nAnthropicが公式エンジニアリングブログで、トークン消費を98.7%削減する「コード実行パターン」を公開しました。\nこの記事では、その内容を初心者にも分かりやすく噛み砕いて解説します。\nなお、この記事は、Anthropicの公式エンジニアリングブログを初心者向けに"
   },
   {
     "title": "AI×BI　IBM watsonx BIを触ってみよう！",
@@ -154,6 +161,13 @@
     "contentSnippet": "はじめに\n!\n本記事は、2025/10/16に開催されたイベントでの登壇内容をもとに執筆しています。\n\nhttps://assign.connpass.com/event/368710/\n\n 概要\n本記事では、AI駆動開発時代に必要な新しい思考様式・考え方といった「メンタルモデル」について、実際のプロジェクトでの事例を交えつつご紹介します。\nスライドは以下で公開していますが、口頭での補足説明も多い"
   },
   {
+    "title": "DSPy + LangSmithでプロンプトを全自動で育ててみた",
+    "link": "https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf",
+    "pubDate": "Thu, 06 Nov 2025 06:03:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「システムに組み込むプロンプトって、どうやって修繕・管理すればいいんだ…？」\nLLM関係のプロダクトを作っていて、この悩みにぶつかった人は多いんじゃないでしょうか。私もその一人でした。\n最初は手動でプロンプトを書いて、結果を目視で確認して、ちょっとずつ修正して…を繰り返します。数パターンなら何とかなりますが、テストケースが増えてくるとすぐに破綻します。「あのプロンプト変更でこっちのケース"
+  },
+  {
     "title": "クロスブラウザ検証のノウハウまとめ（2025年版）",
     "link": "https://qiita.com/OZAWAKOJI/items/2e6b7b802e9b5d3b6365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-06T04:51:20.000Z",
@@ -194,20 +208,6 @@
     "pubDate": "Wed, 05 Nov 2025 12:02:33 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n先日、Xでこんな投稿が話題になっていました。\nhttps://x.com/okd61807313/status/1984917649386615251\n実際のサイトを見ていないため詳細は不明ですが、事象としてはフロントエンドのJavaScriptだけでバリデーションを実装し、サーバーサイドに同等以上のバリデーションがなかったケースです。\nDevToolsで回避できるということは、悪意ある"
-  },
-  {
-    "title": "なぜタスク管理をNotionからGitHub Projectsへ移行したのか - AI時代の開発効率を最大化する選択",
-    "link": "https://zenn.dev/pivotmedia/articles/pivot-notion-to-github-projects",
-    "pubDate": "Wed, 05 Nov 2025 08:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。PIVOTでソフトウェアエンジニア、スクラムマスターを務めている（た）@tawachanです。\nこの記事では、PIVOTのプロダクトチームがNotionからGitHub Projectsへタスク管理ツールを移行した経緯と、具体的な実装方法について紹介します。\n\n 背景：AIファーストチームへの変革\n詳細な背景については、前回の記事「スクラムからカンバンへの移行——ソフトウェアエンジニア"
-  },
-  {
-    "title": "GitHub Actionsの新ランナー ubuntu-slim でコスト削減する",
-    "link": "https://zenn.dev/my_vision/articles/actions-ubuntu-slim",
-    "pubDate": "Wed, 05 Nov 2025 07:23:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n\n2025 年 10 月 28 日に GitHub Actions から新ランナー「ubuntu-slim」が発表されました。\nhttps://github.blog/changelog/2025-10-28-1-vcpu-linux-runner-now-available-in-github-actions-in-public-preview/\n軽量なオペレーションを想定とした低コス"
   },
   {
     "title": "【これ1本でわかる】 Difyを“まるっと理解する” - 基本要素から実装まで-",

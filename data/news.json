@@ -1,73 +1,73 @@
 [
   {
-    "title": "Deploy to Google Cloud Run in Minutes",
-    "link": "https://dev.to/rashikakarki/deploy-to-google-cloud-run-in-minutes-2anj",
-    "pubDate": "Thu, 06 Nov 2025 18:33:39 +0000",
+    "title": "Tool-Driven Behavioral Directives: How to Scale LLM Agents Without Prompt Spaghetti",
+    "link": "https://dev.to/ricardo_brandao_07d4efc5/how-to-control-agents-without-massive-system-prompts-hnn",
+    "pubDate": "Fri, 07 Nov 2025 01:50:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever wanted to deploy your app to the cloud but got lost in a maze of documentation? Let's fix that! Today, we're deploying a simple server to Google Cloud Run with GitHub Actions automation. By the e"
+    "contentSnippet": "Tool-Driven Behavioral Directives: How to Scale LLM Agents Without Prompt Spaghetti\n\n\nAs large language models evolve into true multi-tool agents, one challenge has quietly grown into a major design p"
   },
   {
-    "title": "Engineering Enterprise-Grade Context: Making the Model Context Protocol (MCP) Viable for Financial Services",
-    "link": "https://dev.to/om_shree_0709/engineering-enterprise-grade-context-making-the-model-context-protocol-mcp-viable-for-financial-2pmm",
-    "pubDate": "Thu, 06 Nov 2025 18:26:51 +0000",
+    "title": "A beginner's guide to the Speech-02-Turbo model by Minimax on Replicate",
+    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-speech-02-turbo-model-by-minimax-on-replicate-5gof",
+    "pubDate": "Fri, 07 Nov 2025 01:45:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The financial sector requires large language model (LLM) outputs to be grounded in timely, accurate, and authoritative data due to the high-stakes nature of market movements. This article examines the"
+    "contentSnippet": "This is a simplified guide to an AI model called Speech-02-Turbo maintained by Minimax. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nThe speech-02-turbo m"
   },
   {
-    "title": "Kubernetes Overkill: When Your Architecture Is More Complex Than Your Business",
-    "link": "https://dev.to/anderson_leite/kubernetes-overkill-when-your-architecture-is-more-complex-than-your-business-17gn",
-    "pubDate": "Thu, 06 Nov 2025 18:22:52 +0000",
+    "title": "My Quest for Speed: How a Clickhouse Type Improvement Led Me Down a Caching Rabbit Hole in Rust",
+    "link": "https://dev.to/amaendeepm/my-quest-for-speed-how-a-clickhouse-type-improvement-led-me-down-a-caching-rabbit-hole-in-rust-4e1c",
+    "pubDate": "Fri, 07 Nov 2025 01:44:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Kubernetes solves real problems, but not everyone has those problems. Too often, teams adopt it for prestige, not necessity, and end up drowning in YAML debt before shipping real value.\nIt starts inno"
+    "contentSnippet": "It all started with a wonderful quality-of-life improvement in the clickhouse crate. The recent 0.14.0 release introduced support for the RowBinaryWithNamesAndTypes format. This was a game-changer!\nGo"
   },
   {
-    "title": "The Next Era of Databases: When Queries Write Themselves",
-    "link": "https://dev.to/logicverse_2025/the-next-era-of-databases-when-queries-write-themselves-3578",
-    "pubDate": "Thu, 06 Nov 2025 18:19:03 +0000",
+    "title": "Fantastic (small) Retrievers and How to Train Them: mxbai-edge-colbert-v0 TechReport",
+    "link": "https://dev.to/paperium/fantastic-small-retrievers-and-how-to-train-them-mxbai-edge-colbert-v0-techreport-4bf1",
+    "pubDate": "Fri, 07 Nov 2025 01:40:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction: When Data Starts Talking Back\nBut something fundamental is shifting.\nIn 2025, databases are no longer silent systems waiting for commands — they’re becoming intelligent partners that und"
+    "contentSnippet": "Tiny AI Retriever That Fits in Your Pocket\n\n\nEver wondered how your phone could instantly find the perfect answer without calling a distant server? Scientists have created a new ultra‑small AI model c"
   },
   {
-    "title": "Untitled",
-    "link": "https://dev.to/adil_ibrahim_f476901385ab/untitled-7oe",
-    "pubDate": "Thu, 06 Nov 2025 18:15:43 +0000",
+    "title": "Main Services Behind Proxmox PVE",
+    "link": "https://dev.to/seno21/main-services-behind-proxmox-pve-j2h",
+    "pubDate": "Fri, 07 Nov 2025 01:34:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Check out this Pen I made!"
+    "contentSnippet": "Proxmox VE (Virtual Environment) adalah platform open-source untuk virtualisasi berbasis KVM dan LXC, lengkap dengan manajemen storage, jaringan, dan high availability (HA).\n\n\n\nService\nFungsi\n\n\n\n\npve-"
   },
   {
-    "title": "Transforming Engineering Culture in a 300-Person Company",
-    "link": "https://dev.to/gauravratnawat/transforming-engineering-culture-in-a-300-person-company-35l",
-    "pubDate": "Thu, 06 Nov 2025 18:15:17 +0000",
+    "title": "How to solve the problem of incorrect output result when using zlip to compress string with gzip",
+    "link": "https://dev.to/harmonyos/how-to-solve-the-problem-of-incorrect-output-result-when-using-zlip-to-compress-string-with-gzip-neb",
+    "pubDate": "Fri, 07 Nov 2025 01:30:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Transforming Engineering Culture in a 300-Person Company\n\n\nA few months ago, I worked with a small company (~300 people) that had reached a breaking point in its tech journey.\nHere’s what I found w"
+    "contentSnippet": "Read the original article：How to solve the problem of incorrect output result when using zlip to compress string with gzip\nHow to solve the problem of incorrect output result when using zlip to compre"
   },
   {
-    "title": "Update page title counter with custom turbo streams in Rails",
-    "link": "https://dev.to/railsdesigner/update-page-title-counter-with-custom-turbo-streams-in-rails-3e52",
-    "pubDate": "Thu, 06 Nov 2025 18:15:00 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/halyna_kunta_91107a575e89/-1k7b",
+    "pubDate": "Fri, 07 Nov 2025 01:24:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This article was originally published on Rails Designer\nA few weeks ago I helped someone start their first SaaS. They had found a really cool, small problem for a specific niche that made for a great "
+    "contentSnippet": "Build a Highly Available Pi-hole Cluster with Ansible (VRRP)\nDanylo Mikula ・ Nov 7\n#pihole\n        #raspberrypi\n        #ansible\n        #tutorial"
   },
   {
-    "title": "Python File Picker for LMS Apps",
-    "link": "https://dev.to/ideradevtools/python-file-picker-for-lms-apps-3gon",
-    "pubDate": "Thu, 06 Nov 2025 18:14:52 +0000",
+    "title": "Coming Soon: Jordium Gantt Vue3 v1.4.2 – Modern Gantt Chart Component for Vue 3",
+    "link": "https://dev.to/nelson_li_c5265341756c7ab/coming-soon-jordium-gantt-vue3-v142-modern-gantt-chart-component-for-vue-3-1kk0",
+    "pubDate": "Fri, 07 Nov 2025 01:23:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In any Learning Management System (LMS), file uploads are at the heart of collaboration. Students submit assignments, teachers share study materials, and administrators manage endless records — all th"
+    "contentSnippet": "I’ve been working on Jordium Gantt for Vue 3, a high-performance Gantt chart component for project management and task scheduling.\nv1.4.2 focuses on:\nSmarter timeline range optimization\n\nDraggable & r"
   },
   {
-    "title": "PHP in 2025 Evolving Rapidly",
-    "link": "https://dev.to/devops-make-it-run/php-in-2025-evolving-rapidly-1j44",
-    "pubDate": "Thu, 06 Nov 2025 18:10:54 +0000",
+    "title": "Adding Unit Tests to repo-context-packager",
+    "link": "https://dev.to/oleksandrakordonets/adding-unit-tests-to-repo-context-packager-3n2o",
+    "pubDate": "Fri, 07 Nov 2025 01:21:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "# PHP in 2025: Evolving Rapidly\nPHP continues to evolve rapidly. As of 2025, the latest stable release is PHP 8.4 (released Nov 21, 2024), with PHP 8.5 slated for November 2025. Each annual PHP releas"
+    "contentSnippet": "To add unit tests into my CLI tool I used Catch2, a modern C++ unit testing framework that makes writing tests easy and quick. It has a nice single-header option that you can drop into a repo, simple "
   },
   {
-    "title": "Check out the market basket analysis",
-    "link": "https://dev.to/dipti_moryani_08e62702314/check-out-the-market-basket-analysis-4klh",
-    "pubDate": "Thu, 06 Nov 2025 18:06:08 +0000",
+    "title": "Qartographer: Quantum Chip Design... Reimagined!",
+    "link": "https://dev.to/aydosul/qartographer-quantum-chip-design-reimagined-c2i",
+    "pubDate": "Fri, 07 Nov 2025 01:20:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Complete Guide to Market Basket Analysis\nDipti Moryani ・ Nov 6\n#ai\n        #programming\n        #webdev\n        #productivity"
+    "contentSnippet": "Qartographer: Automating the Hardware Design Bottleneck for Scalable Quantum Chips\n\n\nHello Dev.To community!\nThis is Adyoth Sural, a quantum computing enthusiast and researcher hoping to garner more a"
   },
   {
     "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",
@@ -84,6 +84,13 @@
     "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
   },
   {
+    "title": "「三項演算子」の名前に値する演算は条件演算子以外にあるか：アセンブリー言語の観点から",
+    "link": "https://zenn.dev/mod_poppo/articles/ternary-operator",
+    "pubDate": "Thu, 06 Nov 2025 09:12:42 GMT",
+    "source": "Zenn",
+    "contentSnippet": "三項演算子 (ternary operator) とは、多くの場合はC系の言語にある <条件> ? <真の場合の式> : <偽の場合の式> の形の式（条件演算子）を指します。3つの式を入力として取る演算子なので三項演算子、というわけです。\nしかし、「三項演算子」という普遍的にも思える名前で「条件演算子」という具体的な演算子を指して良いのでしょうか？例えば単に「二項演算子」と言って「減算（マイナス）"
+  },
+  {
     "title": "Zenn Publication ProとGitHub連携で構築する企業向け技術ブログ執筆環境",
     "link": "https://zenn.dev/pksha/articles/b1d9ff57853bcc",
     "pubDate": "Thu, 06 Nov 2025 08:19:13 GMT",
@@ -91,11 +98,46 @@
     "contentSnippet": "PKSHA TechnologyのZenn、はじめました\nPKSHA Technology ソフトウェアエンジニア/EMの矢嶋です。\n今まで PKSHA ではテックブログを他の記事とあわせて note で書いていたのですが、より多くのエンジニアに届けるため、またより良い執筆環境を実現するため、Zenn を始めました！\nhttps://voice.pkshatech.com/m/m6bd2e5209"
   },
   {
-    "title": "[ADK] What's new in 1.18.0 ~ 公式ADK Visual Agent Builder登場 ~",
-    "link": "https://zenn.dev/soundtricker/articles/d1be0f63286126",
-    "pubDate": "Wed, 05 Nov 2025 23:24:24 GMT",
+    "title": "112通りの複雑な表示を、いかに保守性の高い実装にできるか挑戦した話",
+    "link": "https://zenn.dev/misuken/articles/22be0dba9b6947",
+    "pubDate": "Thu, 06 Nov 2025 07:18:06 GMT",
     "source": "Zenn",
-    "contentSnippet": "こんにちは、サントリーこと大橋です。\n本日(2025/11/06)、Agent Development Kit(以降ADK) 1.18.0がリリースされました。\nhttps://github.com/google/adk-python/releases/tag/v1.18.0\n今回のリリースは、ADKリリース歴の中でも特に大きなマイルストーンと言えるかもしれません。ついに、GUIでAgentを構築"
+    "contentSnippet": "はじめに\nこんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。\nみなさんのプロジェクトには「条件分岐が複雑すぎて仕様と実装が本当に一致しているのかわからない」なんて機能はありませんか？\n前回の記事 誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話 では、極めて複雑なGateという機能の仕様を、スプレッドシートに"
+  },
+  {
+    "title": "Docker Desktop（WSL2）でMySQLコンテナのボリュームを永続化する方法",
+    "link": "https://qiita.com/Y-Y-dev/items/4c0d997942eab03b5143?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T05:44:32.000Z",
+    "source": "Qiita",
+    "contentSnippet": "概要\n\nWindows環境でDocker Desktop（WSL2バックエンド）を利用してMySQLコンテナを立ち上げた場合、\n再起動時にデータが消える 問題に遭遇することが多い。\n原因は「コンテナ内の /var/lib/mysql ディレクトリが一時ストレージとして扱わ..."
+  },
+  {
+    "title": "クロスブラウジング検証のノウハウまとめ（2025年版）",
+    "link": "https://qiita.com/OZAWAKOJI/items/2e6b7b802e9b5d3b6365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T04:51:20.000Z",
+    "source": "Qiita",
+    "contentSnippet": "クロスブラウジング検証のノウハウまとめ（2025年版）\n\n🧭 クロスブラウジングとは\nクロスブラウジング（Cross Browsing）とは、WebサイトやWebアプリケーションが複数のブラウザ環境で同等に動作・表示されることを確認・保証する検証作業を指します。\n目的は「..."
+  },
+  {
+    "title": "【IETF124現地参加】プライバシー保護型トークン認証技術の最前線 【ゼロ知識証明 登場！？】",
+    "link": "https://qiita.com/yumi-sakemi/items/bb8f617145e35249685d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T04:07:19.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは！暗号のおねぇさんことGMOコネクト(GMOインターネットグループ エキスパートの酒見(さけみ）です。\n現在、カナダ・モントリオールで開催されているインターネット技術の国際標準化会合IETF124に現地参加しています！\n現地は体感氷点下な感じで雨も降っており、とて..."
+  },
+  {
+    "title": "AIがオブザーバビリティ需要を牽引！2025年版調査レポートを読み解く",
+    "link": "https://qiita.com/ktst79/items/92c127d321f9430c0622?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T00:01:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "New Relicが調査機関とパートナーを組んで公開している年次のオブザーバビリティ予測レポートの2025年版が発表されました。AIエージェント元年と呼ばれる2025年はどのような変化が起きているでしょうか？いくつかトピックをピックアップして紹介します。\n\nオブザーバビリテ..."
+  },
+  {
+    "title": "貸せ、Pythonのtyping.Protocolはこう使う",
+    "link": "https://zenn.dev/nnc496/articles/ff322597bffaf7",
+    "pubDate": "Wed, 05 Nov 2025 23:33:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこの記事では、Python の typing.Protocol の使い所を思いつく限り紹介します。\nProtocol は Python 3.8 で導入された型ヒントの一つで、構造的部分型付け (Structural Subtyping) をサポートしています。\n設計する時にインターフェースを宣言することで実装同士が疎結合になり、変更に強いコードを書くことができます。\nPython ではa"
   },
   {
     "title": "AIエージェントに「責任を持たせる」ために必要なもの",
@@ -126,11 +168,18 @@
     "contentSnippet": "はじめに\n先日、Xでこんな投稿が話題になっていました。\nhttps://x.com/okd61807313/status/1984917649386615251\n実際のサイトを見ていないため詳細は不明ですが、事象としてはフロントエンドのJavaScriptだけでバリデーションを実装し、サーバーサイドに同等以上のバリデーションがなかったケースです。\nDevToolsで回避できるということは、悪意ある"
   },
   {
-    "title": "生成AI活用×無料SaaS：tracerouteを世界地図で見える化【IPinfo×geojson.io】",
-    "link": "https://qiita.com/ntaka329/items/0c0c2cb719103b38facf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-05T07:22:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n暗号のおねえさん（ https://qiita.com/yumi-sakemi ）から唐突に「インターネット経路の可視化をしたい！」と言われて対応しましたので、今回可視化にあたり実施したことをまとめます。\ntracerouteの結果だ..."
+    "title": "なぜタスク管理をNotionからGitHub Projectsへ移行したのか - AI時代の開発効率を最大化する選択",
+    "link": "https://zenn.dev/pivotmedia/articles/pivot-notion-to-github-projects",
+    "pubDate": "Wed, 05 Nov 2025 08:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは。PIVOTでソフトウェアエンジニア、スクラムマスターを務めている（た）@tawachanです。\nこの記事では、PIVOTのプロダクトチームがNotionからGitHub Projectsへタスク管理ツールを移行した経緯と、具体的な実装方法について紹介します。\n\n 背景：AIファーストチームへの変革\n詳細な背景については、前回の記事「スクラムからカンバンへの移行——ソフトウェアエンジニア"
+  },
+  {
+    "title": "GitHub Actionsの新ランナー ubuntu-slim でコスト削減する",
+    "link": "https://zenn.dev/my_vision/articles/actions-ubuntu-slim",
+    "pubDate": "Wed, 05 Nov 2025 07:23:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n\n2025 年 10 月 28 日に GitHub Actions から新ランナー「ubuntu-slim」が発表されました。\nhttps://github.blog/changelog/2025-10-28-1-vcpu-linux-runner-now-available-in-github-actions-in-public-preview/\n軽量なオペレーションを想定とした低コス"
   },
   {
     "title": "Observability Conference Tokyo 2025にオーガナイザーとして参加してました",
@@ -161,20 +210,6 @@
     "contentSnippet": "👕 はじめに\n皆さん、AI活用していますか？\n私は、情報流出やAIの学習にコードが利用されることへの懸念があり、これまで積極的な活用を少し控えていました。\n（集合知に貢献するという側面もあるとは思うのですが…）\nそこで、GitHub Copilotでコードが学習に利用され..."
   },
   {
-    "title": "世界一わかりやすくGit worktreeを解説！AI駆動開発でも活用できる並列開発の方法",
-    "link": "https://zenn.dev/tmasuyama1114/articles/git_worktree_beginner",
-    "pubDate": "Wed, 05 Nov 2025 01:38:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\n「このブランチで作業中なのに、急に別のブランチを確認しないといけなくなった...」\n「でも今の作業は中途半端だし、コミットやスタッシュで退避するのもなぁ...」\nこんな経験はありませんか?\nGitでの開発では、複数のタスクを並行して進める場面がよくあります。\nそんなとき便利なのが Git worktree という機能です。\n今回は、Gitの基礎を押さえながら、worktr"
-  },
-  {
-    "title": "人事部長はAI駆動BIで社員離職リスクをどう分析したか -Amazon Quick Suite-",
-    "link": "https://zenn.dev/aws_japan/articles/7363e961534462",
-    "pubDate": "Wed, 05 Nov 2025 00:58:26 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 8 日目です。\n!\n📚 第 7 日目の記事はこちら！\n\nQuick Suite で Tavily を使った日本語 Web 検索をする (MCP 連携)\n\n\n\n はじめに：ワークショップで学ぶAmazon Quick Suite\n本記事は、AWS"
-  },
-  {
     "title": "宇宙の視点から考えるセキュリティ ― NASAのゼロトラストの思想",
     "link": "https://qiita.com/sh-ohtani/items/6f7cebecd8fd8c2ef134?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-04T23:59:09.000Z",
@@ -203,32 +238,11 @@
     "contentSnippet": "生成AIの急速な普及と成長によって、データセンターにおける生成AIの学習や推論処理を高速かつ効率化するために、より広帯域で低遅延な高密度ネットワークへの要求が高まっています。 こうした用途のために、Compute Express Link（CXL）やNVidiaのNVlinkなどいくつかのソリューションは市場に投入されているものの、これらは多くのベンダが求めるようなオープンで相互運入可能なニーズに"
   },
   {
-    "title": "miseのバグを直そうとしたらGiteaのバグを直した件",
-    "link": "https://zenn.dev/risu729/articles/db2bd05a342898",
-    "pubDate": "Tue, 04 Nov 2025 14:33:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Tl;dr\nAWS S3の署名付きURLはHTTPメソッドを署名に含むので、GET用の署名付きURLに対してHEADリクエストを送ると403 Forbiddenになります。HEADリクエストにはHEAD用の署名付きURLを返しましょう。\nGiteaがこれを踏んでいました。\n\n はじめに\n私は大学生なのですが、趣味でmiseにコントリビュートしています。\nこの話はaqua:gitea.com/git"
-  },
-  {
-    "title": "今年俺を一番幸せにしたDX最高な奴ら10選",
-    "link": "https://zenn.dev/chiji/articles/a8eaa9ed1d042c",
-    "pubDate": "Tue, 04 Nov 2025 13:57:49 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年も後もう少しで終わりますねー。\nそこで、2025年筆者が使っててこれDX良かったなーというライブラリ・SaaS・ツールを紹介します！\nみなさん、普段から開発者体験（DX）を気にしてますか？\nDXとは、開発中に感じる“心地よさ”や“効率の良さ”を指します。\nどんなに実装が複雑でも、DXを損なうことがなければ開発はずっと楽しいんです！\nそこでこの記事では、「心から開発を楽しめる」相棒たちを1"
-  },
-  {
-    "title": "OpenAI AgentKitでサクッとAIエージェント作ってみた",
-    "link": "https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T01:29:45.000Z",
+    "title": "Amazon Neptuneとは",
+    "link": "https://qiita.com/yuki_0/items/d5eae1c73164f3ec0440?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T13:53:00.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは！KIYO LearningでAirCourseの開発をしている森下です。今回は、OpenAIが2025年10月6日に発表した、AgentKitについてご紹介します！\nこの記事では、AgentKitを使って星座占いAIエージェントを実際に作ってみるまで..."
-  },
-  {
-    "title": "GAS × Supabase × Next.js × Qiita API で構築する業務ナレッジ可視化ツール",
-    "link": "https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T01:02:51.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGoogle Apps Script（GAS）とスプレッドシートで社内ツールを作るのは非常に簡単で便利です。\nしかし、その便利さゆえに以下のような課題を感じたことはないでしょうか？\n\n編集者が増えると同時編集によるデータ競合が発生しやすい\nスプレッドシートの肥大..."
+    "contentSnippet": "はじめに\n\n・記事を投稿しようと思った背景\n資格の勉強を実施している中で「Amazon Neptune」が登場したことと、新卒の方々から「Amazon Neptune」の質問を２件ほど続けていただいたため、知識を整理しようと思ったことがきっかけです。\n\n・誰に向けて書いた..."
   },
   {
     "title": "サイバーエージェントがAIアプリ「Dify」のベクトルDBとしてTiDBを選択。AIアプリの全社導入に耐えうる基盤を構築［PR］",
@@ -243,20 +257,6 @@
     "pubDate": "2025-11-03T15:40:43.000Z",
     "source": "Publickey",
     "contentSnippet": "JetBrainsは、開発中のアプリケーションに対して、デザイナーなどのノンプログラマがAIを通じてユーザーインターフェイスを容易に変更や作成できる新ツール「Matter」を発表しました。 一般にアプリケーションのユーザーインターフェイスを作り込むには、デザイナーなどノンプログラマがデザインをモックアップやプロトタイプとして作成し、それを基にプログラマがコードを作成していくことになることが多いでし"
-  },
-  {
-    "title": "【DDD】そのValueObjectまじで意味ないっす",
-    "link": "https://qiita.com/umekikazuya/items/e8567659dc06b07cc9cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-03T15:24:49.000Z",
-    "source": "Qiita",
-    "contentSnippet": "0. はじめに\nValueObjectって\"不変性\"や\"同一性を持たない\"という点が特徴ですよね。\nあなたのドメインモデリングは、その特徴を消した実装になっていませんか？\nソフトウェア業界で著名な Vladimir Khorikov 氏は以下のように言及されています。\n\n..."
-  },
-  {
-    "title": "【CSS】フォントサイズを横幅ぴったりに合わせるfit-widthの提案",
-    "link": "https://qiita.com/rana_kualu/items/bbdffd6ec5e8d596812e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-03T10:16:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "安いゲームの日本語訳とかで、テキストが画面枠をはみ出て見切れるという何も考えてない実装をよく見かけますよね。\nそれよりは見えるだけまだマシなものとして、文字数が多くなると画面幅に合わせてフォントサイズが小さくなるという実装もたまに見かけます。\n\n※ねとらぼより拝借\nこの後者..."
   },
   {
     "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",

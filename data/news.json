@@ -1,80 +1,80 @@
 [
   {
-    "title": "Data Cleaning Challenge with Pandas (Google Colab)",
-    "link": "https://dev.to/abhishek_nm_d45c9eb975fe/data-cleaning-challenge-with-pandas-google-colab-4pfa",
-    "pubDate": "Sat, 08 Nov 2025 12:38:53 +0000",
+    "title": "Who wants to build an admin UI? Part 2 (Custom Field Editors)",
+    "link": "https://dev.to/aaronblondeau/who-wants-to-build-an-admin-ui-part-2-custom-field-editors-4eob",
+    "pubDate": "Sat, 08 Nov 2025 18:25:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Data Cleaning Challenge with Pandas (Google Colab)\nDataset Details\nIt includes data such as:\n🧾 Order ID\nBefore Cleaning:\nRows → 120,000\n⚙️ Tools & Environment\npython\nfrom google.colab import files\nup"
+    "contentSnippet": "In my last post I detailed how Kottster offers a great way to create an admin UI for startup projects. In that post I lamented how Kottster didn't yet offer a way to provide a custom editor UI for spe"
   },
   {
-    "title": "Migrating from RxJS to Angular Signals — A Real-World Perspective from a Frontend Lead",
-    "link": "https://dev.to/amrita_16030702/migrating-from-rxjs-to-angular-signals-a-real-world-perspective-from-a-frontend-lead-dg8",
-    "pubDate": "Sat, 08 Nov 2025 12:36:39 +0000",
+    "title": "Laravel Models, Migrations, & Relationships: Setting Up The 'Post' Feature",
+    "link": "https://dev.to/nelson_orina_a538ba52e9ed/laravel-models-migrations-relationships-setting-up-the-post-feature-4i7",
+    "pubDate": "Sat, 08 Nov 2025 18:25:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "“Signals don’t replace RxJS — but they definitely reshape how we think about reactivity in Angular.”\nWhen Angular introduced Signals in v16, many teams (including ours) faced the same question:\nShould"
+    "contentSnippet": "Welcome back! With secure user authentication in place, we can now focus on building the core functionality of our blog: creating and managing posts. This post will walk you through setting up a new E"
   },
   {
-    "title": "I hacked time in Chrome for a demo video",
-    "link": "https://dev.to/xraytangooscar/i-hacked-time-in-chrome-for-a-demo-video-lg7",
-    "pubDate": "Sat, 08 Nov 2025 12:30:52 +0000",
+    "title": "Offline Souls, Online Noise (Dead Internet) PART 1",
+    "link": "https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-2a65",
+    "pubDate": "Sat, 08 Nov 2025 18:12:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How I made Chrome believe a full workday passed in seconds to record a Timesheetr demo video.\nI wanted to demo how easy it is to add entries to Timesheetr, use the keyboard shortcuts, and basically sh"
+    "contentSnippet": "Maybe today you liked a post written by AI.\nI don’t know if you’ve noticed it too, but it feels like the internet is starting to sound the same.\nSometimes I can scroll for hours without seeing a singl"
   },
   {
-    "title": "apimock-rs 4.4.0 is released: HTTPS is now supported",
-    "link": "https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e",
-    "pubDate": "Sat, 08 Nov 2025 12:21:25 +0000",
+    "title": "Understanding Preload and Stylesheet Links for Faster CSS Loading",
+    "link": "https://dev.to/rijultp/understanding-preload-and-stylesheet-links-for-faster-css-loading-4lng",
+    "pubDate": "Sat, 08 Nov 2025 18:12:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "apimock-rs is a developer-friendly, featherlight and functional HTTP(S) mock server built in Rust.\nWe are happy to announce HTTPS is now supported after much effort made :)\nhttps://apimokka.github.io/"
+    "contentSnippet": "When building modern web applications, performance is one of the key factors that can make or break the user experience. One of the often overlooked areas is how we include CSS in our web pages. The w"
   },
   {
-    "title": "layout-manager-react: Highly Customizable React Layout Manager",
-    "link": "https://dev.to/ashkan_hooshidar_c507d1ef/layout-manager-react-highly-customizable-react-layout-manager-1i3f",
-    "pubDate": "Sat, 08 Nov 2025 12:19:24 +0000",
+    "title": "Understanding the Logic Behind Two Sum — and Extending It to Three Sum",
+    "link": "https://dev.to/we_are_broken_compilers/understanding-the-logic-behind-two-sum-and-extending-it-to-three-sum-838",
+    "pubDate": "Sat, 08 Nov 2025 18:10:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I built layout-manager-react for React apps that need flexible, real-time, and resizable layouts — perfect for dashboards, trading platforms, and IDEs.\n✨ Key Features\nFlexbox-based layout system for r"
+    "contentSnippet": "Welcome back to our DSA Learning Series — where we pick one problem at a time, understand its logic deeply, and write clean, beginner-friendly code.\nThe Three Sum problem is a favorite among interview"
   },
   {
-    "title": "How to Set Up AWS Cost Explorer (and Why It’s Not Enough)",
-    "link": "https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg",
-    "pubDate": "Sat, 08 Nov 2025 12:16:45 +0000",
+    "title": "\"Code, Scarcity, and the Asymmetric Bet: 4.8 Million Coins. One Question: Can You Run the Code?”",
+    "link": "https://dev.to/bitnet4ever/code-scarcity-and-the-asymmetric-bet48-million-coins-one-question-can-you-run-the-code-1oel",
+    "pubDate": "Sat, 08 Nov 2025 18:07:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Managing AWS spend starts with visibility — and AWS Cost Explorer is often the first tool teams reach for. It’s powerful, free to start, and gives you a high-level view of where your money goes.  \nBut"
+    "contentSnippet": "_This a call to arms for the rare builder who sees code as covenant, scarcity as signal, and truth as the only alpha.\n“Bitnet ($BTN): Code, Scarcity, and the Asymmetric Bet”\nLook—let’s cut through the"
   },
   {
-    "title": "Python basics - Day 22",
-    "link": "https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-35i",
-    "pubDate": "Sat, 08 Nov 2025 12:10:53 +0000",
+    "title": "Building Reddit Game with Devvit and TypeScript (starter included)",
+    "link": "https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp",
+    "pubDate": "Sat, 08 Nov 2025 18:05:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Day 22 – OOP Basics: Class & Object\n\n\nProject: Build a “Student Management App” using Python classes and objects.\n01. Learning Goal\nBy the end of this lesson, you will be able to:\nUnderstand the core "
+    "contentSnippet": "Hey everyone,\nthe simple quiz game on Reddit and want to share my experience and things I learned on the way.\nThis is my take on Reddit games on Youtube, in case you prefer a video format:\n\n\n\n\n\n  \n  \n"
   },
   {
-    "title": "Pair-Coding CleanIt.Now with AI on Cloudflare Workers",
-    "link": "https://dev.to/valeriavg/pair-coding-cleanitnow-with-ai-on-cloudflare-workers-2967",
-    "pubDate": "Sat, 08 Nov 2025 12:10:39 +0000",
+    "title": "Build Your Own Professional CV Online with Sirity.com — ATS-Friendly Arabic Resume Builder",
+    "link": "https://dev.to/onlin3/build-your-own-professional-cv-online-with-siritycom-ats-friendly-arabic-resume-builder-1md0",
+    "pubDate": "Sat, 08 Nov 2025 18:05:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "After building a tiny Flutter offline timer \"Kvart\" (it got about 73 downloads so far!), I've set into building a fully functional fullstack web application in a few evenings next.\nHow and why I switc"
+    "contentSnippet": "published: true\nhttps://sirity.com/cv-builder/assets/templates/thumbs/template45.png\nhttps://sirity.com/blog/how-to-write-best-cv-templates/\n\n\n\n  \n  \n  🧠 Build Your Own Professional CV Online with Si"
   },
   {
-    "title": "Building an AWS Daily Helper Assistant with Strands Agents and Bedrock AgentCore",
-    "link": "https://dev.to/aws-builders/building-an-aws-daily-helper-assistant-with-strands-agents-and-bedrock-agentcore-2290",
-    "pubDate": "Sat, 08 Nov 2025 12:09:20 +0000",
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-5e0h",
+    "pubDate": "Sat, 08 Nov 2025 18:00:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nManaging AWS infrastructure can be overwhelming, especially when you're juggling multiple services, trying to optimize costs, and ensuring security best practices. What if you had an AI"
+    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins is back with their signature “Everything Wrong With…” roast, squeezing one of the year’s best genre flicks into a rapid-fire 15-minute "
   },
   {
-    "title": "# 🏗️ Understanding Go Project Structure (Without Losing Your Mind)",
-    "link": "https://dev.to/ahmed112/-understanding-go-project-structure-without-losing-your-mind-4fm4",
-    "pubDate": "Sat, 08 Nov 2025 12:08:43 +0000",
+    "title": "Guide: Integrate a Self-Hosted File Server with Your Web Page",
+    "link": "https://dev.to/michael_81be8af/guide-integrate-a-self-hosted-file-server-with-your-web-page-2hdp",
+    "pubDate": "Sat, 08 Nov 2025 18:00:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "**Assalamu Alaikum and welcome! 👋\n\n**Ready to dive deeper into the world of Go programming?  \nIf you've opened a Go project before and felt lost among main.go, utils.go, handlers.go, and a mysterious"
+    "contentSnippet": "When building an application (frontend or backend) that requires file management, developers typically face two choices: build a custom feature or purchase an enterprise management service.\nBuilding a"
   },
   {
     "title": "三項演算子を使おう（推奨）",
     "link": "https://zenn.dev/lndex/articles/7d8ff8b489a5d5",
     "pubDate": "Sat, 08 Nov 2025 00:06:33 GMT",
     "source": "Zenn",
-    "contentSnippet": "免責事項\n!\n\nこの記事は JavaScript における三項演算子のみを対象としています。\n記事本文では「三項演算子」という言葉は使わず代わりに「条件演算子」と呼称しています。\n\n\n\n 要約\n\n\nconst 変数の初期化に使おう\n\nreturn の値に使おう\n値がいらないなら if 文を使おう\n\n\n 三項演算子とは？\n以下のようなものです。\nx ? y : z\n三項演算子は、式 x が真なら式 "
+    "contentSnippet": "免責事項\n!\n\nこの記事は JavaScript における三項演算子のみを対象としています。\n記事本文では「三項演算子」という言葉は使わず代わりに「条件演算子」と呼称しています。\n\n\n\n 要約\n\n\nconst 変数の初期化に使おう\n\nreturn の値に使おう\n値がいらないなら if 文を使おう\n\n\n 三項演算子とは？\n以下のようなものです。\nx ? y : z\n三項演算子は、式 x が真（しん）"
   },
   {
     "title": "1Password cli で mcp サーバーに渡すトークンを管理する",

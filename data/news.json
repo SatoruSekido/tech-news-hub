@@ -1,73 +1,94 @@
 [
   {
-    "title": "Unlock Dual Revenue: AI Monetization Strategies for LLM Apps with Monetzly",
-    "link": "https://dev.to/monetzly/unlock-dual-revenue-ai-monetization-strategies-for-llm-apps-with-monetzly-43kd",
-    "pubDate": "Fri, 07 Nov 2025 18:17:58 +0000",
+    "title": "Hugo Caching Strategies",
+    "link": "https://dev.to/rosgluk/hugo-caching-strategies-5col",
+    "pubDate": "Sat, 08 Nov 2025 01:46:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What If Your AI App Could Generate Revenue in Two Ways?\n\n\nAs the AI application landscape continues to expand, developers face a common challenge: how to monetize their creations without compromising "
+    "contentSnippet": "Hugo caching strategies are essential for maximizing the performance of your static site generator. While Hugo generates static files that are inherently fast, implementing proper caching at multiple "
   },
   {
-    "title": "Best Alternatives to Microsoft Recall in 2025",
-    "link": "https://dev.to/nodminger/best-alternatives-to-microsoft-recall-in-2025-1jh8",
-    "pubDate": "Fri, 07 Nov 2025 18:17:22 +0000",
+    "title": "Dark Web Data Leak: 300 Million Records Exposed in 2025",
+    "link": "https://dev.to/tor_bbb/dark-web-data-leak-300-million-records-exposed-in-2025-1hbm",
+    "pubDate": "Sat, 08 Nov 2025 01:45:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When Microsoft introduced Windows Recall, it promised to change the way we work. The feature was designed to help users find anything they’ve seen on their PC, almost like a photographic memory for yo"
+    "contentSnippet": "The cybersecurity community is on alert after a massive dark web data leak exposed over 300 million personal records in early 2025.\n\nThe leak includes credentials, emails, and even fragments of medica"
   },
   {
-    "title": "LeafWiki v0.4.9 – Mermaid Diagrams, Page Copy & Easier Setup 🚀",
-    "link": "https://dev.to/perber/leafwiki-v049-mermaid-diagrams-page-copy-easier-setup-47ai",
-    "pubDate": "Fri, 07 Nov 2025 18:17:02 +0000",
+    "title": "Zero-Knowledge Architecture: Privacy by Design",
+    "link": "https://dev.to/rosgluk/zero-knowledge-architecture-privacy-by-design-2p5g",
+    "pubDate": "Sat, 08 Nov 2025 01:41:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey everyone 👋  \nAfter a few weeks of feedback and polishing, LeafWiki v0.4.9 is out!\n\nThis update focuses on making LeafWiki easier to start, smoother to use, and just a little more powerful.\nLeafWi"
+    "contentSnippet": "Zero-knowledge architecture represents a paradigm shift in how we design privacy-preserving systems.\nBy leveraging zero-knowledge proofs (ZKPs), we can build applications that verify information witho"
   },
   {
-    "title": "Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half",
-    "link": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c",
-    "pubDate": "Fri, 07 Nov 2025 18:07:22 +0000",
+    "title": "LiteStage: Latency-aware Layer Skipping for Multi-stage Reasoning",
+    "link": "https://dev.to/paperium/litestage-latency-aware-layer-skipping-for-multi-stage-reasoning-489c",
+    "pubDate": "Sat, 08 Nov 2025 01:20:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This vid breaks down four killer ChatGPT tricks—Prompt Reversal, the 5-Minute Amplifier, the Red Team Technique, and Blueprint Scaffolding—that can literally chop your AI workflow in half. Instead of "
+    "contentSnippet": "How AI Can Think Faster Without Forgetting Anything\n\n\nEver wondered why some chat‑bots feel a bit sluggish when solving tough puzzles? Scientists have discovered a clever trick called LiteStage that l"
   },
   {
-    "title": "Ringer Movies: The 25 Best Movies of the Century: No. 6 - 'Mulholland Drive’",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-h48",
-    "pubDate": "Fri, 07 Nov 2025 18:01:13 +0000",
+    "title": "🎥 Decorator Design Pattern video just dropped!",
+    "link": "https://dev.to/dotnetfullstackdev/composite-design-pattern-video-just-dropped-41fh",
+    "pubDate": "Sat, 08 Nov 2025 01:15:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Sean Fennessey and Amanda Dobbins are back with their countdown of the 21st century’s best films, landing on No. 6: David Lynch’s Mulholland Drive. They dive into why this surreal masterpiece still ca"
+    "contentSnippet": "The Decorator Design Pattern allows you to dynamically add behavior to objects without altering their structure.\n\nIn this video, we’ll see how to implement it in C# using a real-world coffee shop exam"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-40km",
-    "pubDate": "Fri, 07 Nov 2025 18:00:52 +0000",
+    "title": "Keyshade Debugging: Mastering Workspace Role Tests and API Repair",
+    "link": "https://dev.to/jds64/keyshade-debugging-mastering-workspace-role-tests-and-api-repair-1ok6",
+    "pubDate": "Sat, 08 Nov 2025 01:06:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemasins drops a Halloween-ready quick-fire “sins” rundown of what they call one of the year’s best genre movies—cramming witty nitpicks into ju"
+    "contentSnippet": "\"A good tester prevents problems; a great tester finds them.\" Keith Klain, Director of Quality Engineering at KPMG UK\nFour disabled tests. One cryptic comment: 'flaky.' When I dove into Keyshade's wor"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3m11",
-    "pubDate": "Fri, 07 Nov 2025 18:00:39 +0000",
+    "title": "LLMs Whispering Secrets: Vector Translation for AI Communication",
+    "link": "https://dev.to/arvind_sundararajan/llms-whispering-secrets-vector-translation-for-ai-communication-2lb9",
+    "pubDate": "Sat, 08 Nov 2025 01:02:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins rolled out a new “Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less” video, dishing out all their trademark nitpicks while admitting they’re oddly enjoyin"
+    "contentSnippet": "LLMs Whispering Secrets: Vector Translation for AI Communication\n\n\nImagine a world where AI agents can seamlessly collaborate, sharing complex ideas without the limitations of human-defined languages."
   },
   {
-    "title": "Getting Organized with the Synology DS925+: My Honest First NAS Experience",
-    "link": "https://dev.to/hardeep_singhajimal_e72e/getting-organized-with-the-synology-ds925-my-honest-first-nas-experience-cp7",
-    "pubDate": "Fri, 07 Nov 2025 18:00:29 +0000",
+    "title": "Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration",
+    "link": "https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69",
+    "pubDate": "Sat, 08 Nov 2025 00:53:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The reason is that I have never used a NAS before. Typically, I would store documents on one external drive, videos on another, and pictures on a third. It was a piecemeal solution, but everything was"
+    "contentSnippet": "Step 1: Creare la Shell\n\n\n\n  \n  \n  Genera il progetto principale:\n\n\n\n\n\nng new shell-app --routing --style=scss\n\nng add @angular-architects/module-federation --type host --port 4200\n\nwebpack.config.js:"
   },
   {
-    "title": "Mr Sunday Movies: Predator 2 - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-4cg0",
-    "pubDate": "Fri, 07 Nov 2025 18:00:25 +0000",
+    "title": "Dear Devs, This Is a Call to All of Us 💻❤️",
+    "link": "https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp",
+    "pubDate": "Sat, 08 Nov 2025 00:47:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predator 2 - Caravan of Garbage offers a breezy, informal dive into the 1990 sequel that swaps Arnold’s jungle romp for Danny Glover’s heat-soaked, crime-ridden LA. You get a meaner Predator, a surpri"
+    "contentSnippet": "💭 Dear Devs, Designers & Dreamers,\nThere are moments in this journey when you realize — no one truly grows alone.\nRight now, I’m working on a digital printing and gallery website — something simple, "
   },
   {
-    "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-1heb",
-    "pubDate": "Fri, 07 Nov 2025 18:00:10 +0000",
+    "title": "たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話",
+    "link": "https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p",
+    "pubDate": "Sat, 08 Nov 2025 00:42:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predators – Caravan of Garbage dives into why 2010’s Predators finally brought the franchise back to its gritty roots: a motley crew of lunatics, a dense jungle setting, muddy showdowns and fresh twis"
+    "contentSnippet": "始まり\n\n\nある日、開発中の画面でサムネイル画像が不自然に引き伸ばされて表示されていることに気づきました。\n「ああ、このパターンな。CSSのobject-fitがcoverになってるのをcontainにすれば直るやつじゃ」\nそう高を括ってコードを修正。しかし、表示は変わらず引き伸ばされたまま。ブラウザの開発者ツールで画像のURLを直接開いてみると、Amazon S3から返されている画像そのものが既"
+  },
+  {
+    "title": "AI Agentフレームワークを使うべきなのか？",
+    "link": "https://zenn.dev/layerx/articles/91321c52241600",
+    "pubDate": "Fri, 07 Nov 2025 11:32:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こちらはLayerX AI エージェントブログリレー41日目の記事です。\nこんにちは、CEO室でAI Agent開発のPdMをしているKenta Watanabeです。\nAI Agent開発に取り組んでいる方や自分用の効率化ツールを開発したりしてLLMで遊んでいる方は何かしらのAgentフレームワークを利用されている方が多いのではないかと思います。LayerXでもAI SDKなどのフレームワークが"
+  },
+  {
+    "title": "ミニ四駆を買って改造してたらサンフランシスコのOpenAI DevDayに参加できた話①",
+    "link": "https://qiita.com/Null-Sensei/items/5d3fcf50fd53680abac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T05:56:37.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この投稿は Qiita Conference 2025 Autumn Day.3 登壇用の資料です。\n\n去年(2024年)、クリスマス向けて、子供とミニ四駆でも組み立てよう！とミニ四駆を買ったところ、サンフランシスコへ渡米してOpenAI DevDay 2025 に参..."
+  },
+  {
+    "title": "Oracle Autonomous AI DatabaseからBigQueryとSnowflakeに対して、SELECT AI - Sidecarを実行する",
+    "link": "https://qiita.com/mkttji5/items/5c048ad43b41d2d4b0df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T05:46:33.000Z",
+    "source": "Qiita",
+    "contentSnippet": "目次\n\nはじめに\n\n環境準備\n\nサンプルデータ\nADBの作成と設定\nBigQueryの作成と設定\nSnowflakeの作成と設定\n\n【検証その1】ADBからBigQueryへのSidecar\n\n【検証その1】準備\n【検証その1】結果\n\n【検証その2】ADBからSn..."
   },
   {
     "title": "Webアプリのセッション管理、結局どれ使えばいいの？",
@@ -89,13 +110,6 @@
     "pubDate": "Thu, 06 Nov 2025 21:48:52 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、とまだです。\n「MCPサーバーを作ってみたけど、ツールが増えるとトークン消費が増え続ける...」と悩んでいませんか?\nAnthropicが公式エンジニアリングブログで、トークン消費を98.7%削減する「コード実行パターン」を公開しました。\nこの記事では、その内容を初心者にも分かりやすく噛み砕いて解説します。\nなお、この記事は、Anthropicの公式エンジニアリングブログを初心者向けに"
-  },
-  {
-    "title": "AI×BI　IBM watsonx BIを触ってみよう！",
-    "link": "https://qiita.com/YokeSin/items/7839b58710803009cd48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T18:58:00.000Z",
-    "source": "Qiita",
-    "contentSnippet": "◾️はじめに\n先日（8/22）IBMの新製品 watsonx BI が IBM Cloud で一般提供を開始されました。\n・GA記事（製品ブログ）\n\n・公式サイト\n\n実はオンプレ利用なども可能なIBM Software Hubでは25年6月に既に出ていたのですが、..."
   },
   {
     "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",
@@ -161,18 +175,18 @@
     "contentSnippet": "はじめに\n!\n本記事は、2025/10/16に開催されたイベントでの登壇内容をもとに執筆しています。\n\nhttps://assign.connpass.com/event/368710/\n\n 概要\n本記事では、AI駆動開発時代に必要な新しい思考様式・考え方といった「メンタルモデル」について、実際のプロジェクトでの事例を交えつつご紹介します。\nスライドは以下で公開していますが、口頭での補足説明も多い"
   },
   {
+    "title": "Asyncio 再訪：百万並行処理への道",
+    "link": "https://zenn.dev/cepe_jp/articles/684c51c7dfbf30",
+    "pubDate": "Thu, 06 Nov 2025 06:05:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "序文\nasync/await の背後にある驚くべきエンジニアリングと，\nシングルスレッドで百万並行処理に辿る道。\n\n 概要\nもしあなたが大多数の Python 開発者と同じなら，おそらく日常業務で asyncio を使っているでしょう。asyncやawaitキーワードをあちこちに散りばめ，物事を「並行して」実行する必要があるときにはasyncioをインポートする。しかし，ここで不都合な真実をお伝え"
+  },
+  {
     "title": "DSPy + LangSmithでプロンプトを全自動で育ててみた",
     "link": "https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf",
     "pubDate": "Thu, 06 Nov 2025 06:03:10 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n「システムに組み込むプロンプトって、どうやって修繕・管理すればいいんだ…？」\nLLM関係のプロダクトを作っていて、この悩みにぶつかった人は多いんじゃないでしょうか。私もその一人でした。\n最初は手動でプロンプトを書いて、結果を目視で確認して、ちょっとずつ修正して…を繰り返します。数パターンなら何とかなりますが、テストケースが増えてくるとすぐに破綻します。「あのプロンプト変更でこっちのケース"
-  },
-  {
-    "title": "クロスブラウザ検証のノウハウまとめ（2025年版）",
-    "link": "https://qiita.com/OZAWAKOJI/items/2e6b7b802e9b5d3b6365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T04:51:20.000Z",
-    "source": "Qiita",
-    "contentSnippet": "🧭 クロスブラウザ検証とは\nクロスブラウザ検証（Cross-browser testing）とは、WebサイトやWebアプリケーションが複数のブラウザ環境で同等に動作・表示されることを確認・保証する検証作業を指します。\n目的は「どのユーザーの環境でも違和感なく利用できるこ..."
   },
   {
     "title": "【図解】Torネットワークによる匿名化と、.onionドメインにアクセスする仕組みについて",
@@ -189,25 +203,11 @@
     "contentSnippet": "はじめに\nAI モデルやそれを核とした AI エージェントの技術が急速に進化しています。\nその一方で、AI に業務を任せようとすると試してみてもなかなかうまくいかない、というのが 2025 年 11 月現在の実情ではないでしょうか？\n本記事では、AI エージェントに仕事を..."
   },
   {
-    "title": "UnrealEngine5の教科書 [C++入門編,第三巻]",
-    "link": "https://zenn.dev/daichi_gamedev/books/unreal-engine-cplusplus",
-    "pubDate": "Wed, 05 Nov 2025 18:20:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "📘この本について\nUnrealEngine5(UE5)のC++を使ったゲーム制作について、初心者の方向けに1から丁寧に解説している入門本です。C++基礎からUnrealEngineでのC++を使用したゲーム制作の基本機能の実装までゲーム制作に必要な項目をまとめています。\n\n✒️本は既存のページ含めて現在制作中です\n本は既存ページ含めて現在制作中です。随時ページを追加していきます。アップデートはす"
-  },
-  {
     "title": "MCPサーバのテストやデバッグ機能、自然言語でテスト用モックサーバの自動生成など、API開発ツール「Kong Insomnia 12」正式リリース",
     "link": "https://www.publickey1.jp/blog/25/mcpapikong_insomnia_12.html",
     "pubDate": "2025-11-05T15:23:27.000Z",
     "source": "Publickey",
     "contentSnippet": "API管理ツールや開発ツールを提供するKongは、API開発ツール「Kong Insomnia」の最新バージョンとなる「Kong Insomnia 12」（以下、Insomnia 12）正式リリースを発表しました。 Insomniaは開発ツールとしてAPIの設計、テスト、デバッグのためのさまざまな機能を備えています。APIクライアントとしてはHTTP、REST、gRPC、WebSocketsを始め"
-  },
-  {
-    "title": "フロントエンドとサーバーでのバリデーション責務分解",
-    "link": "https://zenn.dev/ryugen04/articles/20251104-frontend-validation",
-    "pubDate": "Wed, 05 Nov 2025 12:02:33 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n先日、Xでこんな投稿が話題になっていました。\nhttps://x.com/okd61807313/status/1984917649386615251\n実際のサイトを見ていないため詳細は不明ですが、事象としてはフロントエンドのJavaScriptだけでバリデーションを実装し、サーバーサイドに同等以上のバリデーションがなかったケースです。\nDevToolsで回避できるということは、悪意ある"
   },
   {
     "title": "【これ1本でわかる】 Difyを“まるっと理解する” - 基本要素から実装まで-",

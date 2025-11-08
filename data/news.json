@@ -1,73 +1,87 @@
 [
   {
-    "title": "Hugo Caching Strategies",
-    "link": "https://dev.to/rosgluk/hugo-caching-strategies-5col",
-    "pubDate": "Sat, 08 Nov 2025 01:46:48 +0000",
+    "title": "Writing Your First Compiler - Part 6: Extending the Language",
+    "link": "https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-6-extending-the-language-4e25",
+    "pubDate": "Sat, 08 Nov 2025 06:23:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hugo caching strategies are essential for maximizing the performance of your static site generator. While Hugo generates static files that are inherently fast, implementing proper caching at multiple "
+    "contentSnippet": "We have a parser that handles arithmetic expressions. Numbers, operators, parentheses. It works. But we're not trying to build a calculator - we're building a compiler for a real programming language."
   },
   {
-    "title": "Dark Web Data Leak: 300 Million Records Exposed in 2025",
-    "link": "https://dev.to/tor_bbb/dark-web-data-leak-300-million-records-exposed-in-2025-1hbm",
-    "pubDate": "Sat, 08 Nov 2025 01:45:36 +0000",
+    "title": "Common Manual Testing Techniques",
+    "link": "https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp",
+    "pubDate": "Sat, 08 Nov 2025 06:11:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The cybersecurity community is on alert after a massive dark web data leak exposed over 300 million personal records in early 2025.\n\nThe leak includes credentials, emails, and even fragments of medica"
+    "contentSnippet": "Manual testing remains a crucial part of software quality assurance, even as automation and AI transform the industry. Human testers provide context, curiosity, and empathy—traits that machines still "
   },
   {
-    "title": "Zero-Knowledge Architecture: Privacy by Design",
-    "link": "https://dev.to/rosgluk/zero-knowledge-architecture-privacy-by-design-2p5g",
-    "pubDate": "Sat, 08 Nov 2025 01:41:16 +0000",
+    "title": "Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half",
+    "link": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43",
+    "pubDate": "Sat, 08 Nov 2025 06:07:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Zero-knowledge architecture represents a paradigm shift in how we design privacy-preserving systems.\nBy leveraging zero-knowledge proofs (ZKPs), we can build applications that verify information witho"
+    "contentSnippet": "4 ChatGPT Hacks to Cut Your Workload in Half\nJeff Su breaks down four game-changing tricks: reverse-engineer your best prompts for consistent results, use the 5-Minute Amplifier to spin one idea into "
   },
   {
-    "title": "LiteStage: Latency-aware Layer Skipping for Multi-stage Reasoning",
-    "link": "https://dev.to/paperium/litestage-latency-aware-layer-skipping-for-multi-stage-reasoning-489c",
-    "pubDate": "Sat, 08 Nov 2025 01:20:33 +0000",
+    "title": "🚀 Google & SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillion",
+    "link": "https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf",
+    "pubDate": "Sat, 08 Nov 2025 06:06:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How AI Can Think Faster Without Forgetting Anything\n\n\nEver wondered why some chat‑bots feel a bit sluggish when solving tough puzzles? Scientists have discovered a clever trick called LiteStage that l"
+    "contentSnippet": "The AI Infrastructure War Just Went Interplanetary 🌌\nOn November 4th, 2025, Google CEO Sundar Pichai dropped a historic announcement: Project Suncatcher — the world’s first AI datacenter in orbit, po"
   },
   {
-    "title": "🎥 Decorator Design Pattern video just dropped!",
-    "link": "https://dev.to/dotnetfullstackdev/composite-design-pattern-video-just-dropped-41fh",
-    "pubDate": "Sat, 08 Nov 2025 01:15:29 +0000",
+    "title": "Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset",
+    "link": "https://dev.to/jayanth_anbu_28041adad45b/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-1fgn",
+    "pubDate": "Sat, 08 Nov 2025 06:04:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Decorator Design Pattern allows you to dynamically add behavior to objects without altering their structure.\n\nIn this video, we’ll see how to implement it in C# using a real-world coffee shop exam"
+    "contentSnippet": "🗂️ Step 1: Setting up MongoDB Atlas\n\nUsername: 22cs056\n\n\nOnce your cluster is ready, click “Connect → Connect using MongoDB Shell” and copy the connection string.\n\n💻 Step 2: Connect from Mongo Shell"
   },
   {
-    "title": "Keyshade Debugging: Mastering Workspace Role Tests and API Repair",
-    "link": "https://dev.to/jds64/keyshade-debugging-mastering-workspace-role-tests-and-api-repair-1ok6",
-    "pubDate": "Sat, 08 Nov 2025 01:06:38 +0000",
+    "title": "Ringer Movies: The 25 Best Movies of the Century: No. 6 - 'Mulholland Drive’",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-anj",
+    "pubDate": "Sat, 08 Nov 2025 06:03:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"A good tester prevents problems; a great tester finds them.\" Keith Klain, Director of Quality Engineering at KPMG UK\nFour disabled tests. One cryptic comment: 'flaky.' When I dove into Keyshade's wor"
+    "contentSnippet": "The 25 Best Movies of the Century: No. 6 – Mulholland Drive\n\n\nSean and Amanda dive into David Lynch’s surreal magnum opus, celebrating Naomi Watts’s career-defining breakthrough and the film’s mind-be"
   },
   {
-    "title": "LLMs Whispering Secrets: Vector Translation for AI Communication",
-    "link": "https://dev.to/arvind_sundararajan/llms-whispering-secrets-vector-translation-for-ai-communication-2lb9",
-    "pubDate": "Sat, 08 Nov 2025 01:02:08 +0000",
+    "title": "Scenario 1: Deploy a simple NGINX Pod and expose it via a ClusterIP Service in Kubernetes",
+    "link": "https://dev.to/latchudevops/scenario-1-deploy-a-simple-nginx-pod-and-expose-it-via-a-clusterip-service-219g",
+    "pubDate": "Sat, 08 Nov 2025 06:03:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "LLMs Whispering Secrets: Vector Translation for AI Communication\n\n\nImagine a world where AI agents can seamlessly collaborate, sharing complex ideas without the limitations of human-defined languages."
+    "contentSnippet": "🎯 Goal\nDeploy an NGINX Pod, then expose it internally using a ClusterIP Service so other Pods inside the cluster can access it.\nCreate a file named nginx-pod.yaml\nYou can use Cloud Shell editor (code"
   },
   {
-    "title": "Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration",
-    "link": "https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69",
-    "pubDate": "Sat, 08 Nov 2025 00:53:52 +0000",
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-51ap",
+    "pubDate": "Sat, 08 Nov 2025 06:03:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Step 1: Creare la Shell\n\n\n\n  \n  \n  Genera il progetto principale:\n\n\n\n\n\nng new shell-app --routing --style=scss\n\nng add @angular-architects/module-federation --type host --port 4200\n\nwebpack.config.js:"
+    "contentSnippet": "Everything Wrong With Sinners In 15 Minutes Or Less\n\n\nCinemaSins just dropped a Halloween-ready quick-fire roast of one of the year’s best genre flicks—15 minutes of “sins” piled on a movie they secre"
   },
   {
-    "title": "Dear Devs, This Is a Call to All of Us 💻❤️",
-    "link": "https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp",
-    "pubDate": "Sat, 08 Nov 2025 00:47:45 +0000",
+    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-4pd6",
+    "pubDate": "Sat, 08 Nov 2025 06:02:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "💭 Dear Devs, Designers & Dreamers,\nThere are moments in this journey when you realize — no one truly grows alone.\nRight now, I’m working on a digital printing and gallery website — something simple, "
+    "contentSnippet": "Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less\n\nCinemaSins dishes out a rapid-fire, 20-minute roast of Marvel’s Thunderbolts, tallying every plot hole, cringe-worthy mome"
   },
   {
-    "title": "たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話",
-    "link": "https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p",
-    "pubDate": "Sat, 08 Nov 2025 00:42:07 +0000",
+    "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-kgg",
+    "pubDate": "Sat, 08 Nov 2025 06:02:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "始まり\n\n\nある日、開発中の画面でサムネイル画像が不自然に引き伸ばされて表示されていることに気づきました。\n「ああ、このパターンな。CSSのobject-fitがcoverになってるのをcontainにすれば直るやつじゃ」\nそう高を括ってコードを修正。しかし、表示は変わらず引き伸ばされたまま。ブラウザの開発者ツールで画像のURLを直接開いてみると、Amazon S3から返されている画像そのものが既"
+    "contentSnippet": "Predators – Caravan of Garbage Review\n\n\nMr Sunday Movies jumps back into the 2010 hit Predators and cheers it for returning to the franchise’s roots—think a rag-tag team of misfits, a muddy jungle sho"
+  },
+  {
+    "title": "StripeがUSDCで始めたサブスク決済をJPYCで再現できるか？",
+    "link": "https://zenn.dev/komlock_lab/articles/09a3e262dfd94c",
+    "pubDate": "Fri, 07 Nov 2025 12:27:54 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！Web3特化の開発会社 Komlock lab でエンジニアをしている小原です。\n2025年10月16日、Stripeが、USDCを用いたサブスク決済を、Polygon と Base 上で提供開始したと発表しました。\nhttps://www.atpartners.co.jp/ja/news/2025-10-16-fintech-s-stripe-launches-usdc-recurr"
+  },
+  {
+    "title": "【個人開発】夫のニーズに応えてNotion投稿アプリ作ってみた",
+    "link": "https://zenn.dev/ai151515/articles/fda600a6f2bb50",
+    "pubDate": "Fri, 07 Nov 2025 11:37:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nAIで何でもいいからアプリ作りたいなぁと思って夫にアイデアを聞いてみたら、普段サードパーティーアプリを使って課金してNotionに日記を書いているらしく、「既存アプリは使いづらいし、できれば課金もしたくない」と言っていたので、それなら「必要最低限の機能だけで、無料で使えるアプリ」を作ってみよう！と思い今回のアプリを作りました。\n\n 夫の要望\n\n\nNotionのDBではなくページに投稿した"
   },
   {
     "title": "AI Agentフレームワークを使うべきなのか？",
@@ -75,6 +89,13 @@
     "pubDate": "Fri, 07 Nov 2025 11:32:38 GMT",
     "source": "Zenn",
     "contentSnippet": "こちらはLayerX AI エージェントブログリレー41日目の記事です。\nこんにちは、CEO室でAI Agent開発のPdMをしているKenta Watanabeです。\nAI Agent開発に取り組んでいる方や自分用の効率化ツールを開発したりしてLLMで遊んでいる方は何かしらのAgentフレームワークを利用されている方が多いのではないかと思います。LayerXでもAI SDKなどのフレームワークが"
+  },
+  {
+    "title": "LLMを用いた地名のひらがな・英語化と、Paraglide JSによるi18n: モダンな歴史地図「れきちず」の事例",
+    "link": "https://zenn.dev/mierune/articles/f7c446995e445f",
+    "pubDate": "Fri, 07 Nov 2025 08:21:40 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TL;DR\n\n現代風デザインの歴史地図サービス「れきちず」の、ひらがな・英語表示\n地図データへのひらがな・英語情報付与\n\n大量の地名を扱うため、OpenAI APIを活用\n精度は約9割。全出力を手動確認・修正\nデータ量が膨大なものは、LLMではなくルールベースで処理\n\n\nSvelteKitアプリの国際化（i18n）\n\ni18nライブラリParaglide JSを導入\n\nClaude Codeにより"
   },
   {
     "title": "ミニ四駆を買って改造してたらサンフランシスコのOpenAI DevDayに参加できた話①",
@@ -126,13 +147,6 @@
     "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
   },
   {
-    "title": "Apps SDKでシンプルなChatGPTアプリを作る",
-    "link": "https://zenn.dev/himara2/articles/ae362b516e9e52",
-    "pubDate": "Thu, 06 Nov 2025 10:54:16 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Apps SDKを使うとChatGPTで動くアプリを作ることができます。\n\n今回は「Z Coffee」というカフェを想定し、ユーザーとのやり取りに応じて店舗情報を表示するアプリを作ってみました。\nこれをどのように実装したのかをまとめてみます。\n\n ChatGPT Appsとは？\nOpenAIが提供する仕組みで、ChatGPTとの会話の中で3rd partyが作成したアプリをリッチなUI付きで表示で"
-  },
-  {
     "title": "Kiroを使ってZennの執筆効率と品質を改善する",
     "link": "https://zenn.dev/aws_japan/articles/kiro-zenn-writing-efficiency-improvement",
     "pubDate": "Thu, 06 Nov 2025 09:18:02 GMT",
@@ -154,6 +168,13 @@
     "contentSnippet": "PKSHA TechnologyのZenn、はじめました\nPKSHA Technology ソフトウェアエンジニア/EMの矢嶋です。\n今まで PKSHA ではテックブログを他の記事とあわせて note で書いていたのですが、より多くのエンジニアに届けるため、またより良い執筆環境を実現するため、Zenn を始めました！\nhttps://voice.pkshatech.com/m/m6bd2e5209"
   },
   {
+    "title": "JestからVitestに移行してテスト実行時間が半減した話。そして移行のための格闘。",
+    "link": "https://zenn.dev/kikagaku/articles/testing-framework-jest-to-vitest",
+    "pubDate": "Thu, 06 Nov 2025 08:10:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "どう変わったか\nJest で 7 分 48 秒かかっていたテストが…\n\nVitest で 4 分 12 秒になりました！　👏👏👏👏\n（厳密には 46%削減ですが、パッケージインストールなどのオーバーヘッドも含まれるので半減と言っていいでしょう）\n\nそして、ローカルのウォッチモードでも実行時間が大幅減少。\nJest で 8.214 秒かかっていたテストが、\n\nVitest で 4.39 秒に"
+  },
+  {
     "title": "因果推論の勉強ロードマップ",
     "link": "https://qiita.com/Nospare_Inc/items/313c3641081bc1d961ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-06T07:47:11.000Z",
@@ -166,27 +187,6 @@
     "pubDate": "Thu, 06 Nov 2025 07:18:06 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこんにちは、株式会社ドワンゴでニコニコ生放送のフロントエンド開発を担当している misuken です。\nみなさんのプロジェクトには「条件分岐が複雑すぎて仕様と実装が本当に一致しているのかわからない」なんて機能はありませんか？\n前回の記事 誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話 では、極めて複雑なGateという機能の仕様を、スプレッドシートに"
-  },
-  {
-    "title": "AI駆動開発時代のメンタルモデル",
-    "link": "https://zenn.dev/sun_asterisk/articles/ai-driven-mental-model",
-    "pubDate": "Thu, 06 Nov 2025 06:50:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n!\n本記事は、2025/10/16に開催されたイベントでの登壇内容をもとに執筆しています。\n\nhttps://assign.connpass.com/event/368710/\n\n 概要\n本記事では、AI駆動開発時代に必要な新しい思考様式・考え方といった「メンタルモデル」について、実際のプロジェクトでの事例を交えつつご紹介します。\nスライドは以下で公開していますが、口頭での補足説明も多い"
-  },
-  {
-    "title": "Asyncio 再訪：百万並行処理への道",
-    "link": "https://zenn.dev/cepe_jp/articles/684c51c7dfbf30",
-    "pubDate": "Thu, 06 Nov 2025 06:05:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "序文\nasync/await の背後にある驚くべきエンジニアリングと，\nシングルスレッドで百万並行処理に辿る道。\n\n 概要\nもしあなたが大多数の Python 開発者と同じなら，おそらく日常業務で asyncio を使っているでしょう。asyncやawaitキーワードをあちこちに散りばめ，物事を「並行して」実行する必要があるときにはasyncioをインポートする。しかし，ここで不都合な真実をお伝え"
-  },
-  {
-    "title": "DSPy + LangSmithでプロンプトを全自動で育ててみた",
-    "link": "https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf",
-    "pubDate": "Thu, 06 Nov 2025 06:03:10 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n「システムに組み込むプロンプトって、どうやって修繕・管理すればいいんだ…？」\nLLM関係のプロダクトを作っていて、この悩みにぶつかった人は多いんじゃないでしょうか。私もその一人でした。\n最初は手動でプロンプトを書いて、結果を目視で確認して、ちょっとずつ修正して…を繰り返します。数パターンなら何とかなりますが、テストケースが増えてくるとすぐに破綻します。「あのプロンプト変更でこっちのケース"
   },
   {
     "title": "【図解】Torネットワークによる匿名化と、.onionドメインにアクセスする仕組みについて",

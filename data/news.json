@@ -1,73 +1,80 @@
 [
   {
-    "title": "Create Synthetic Data - A Comprehensive Guideline",
-    "link": "https://dev.to/vuhung16au/create-synthetic-data-a-comprehensive-guideline-49bf",
-    "pubDate": "Sun, 09 Nov 2025 06:24:05 +0000",
+    "title": "Looking for feedback on something I built for creators",
+    "link": "https://dev.to/pauloppereiraa/looking-for-feedback-on-something-i-built-for-creators-4364",
+    "pubDate": "Sun, 09 Nov 2025 12:36:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\nWhat is Synthetic Data?\nWhy Use Synthetic Data?\nTranslate a dataset from one language to another language can be a good choice\nGenerating more time series data points following observed patte"
+    "contentSnippet": "Hey everyone,\nI’m Paulo, and I've recently started building my own products.\nI noticed that every time I wanted to share an idea online, I felt like I had to rewrite it to match the tone of each platf"
   },
   {
-    "title": "How To Create a CloudWatch Dashboard for EC2 and ELB",
-    "link": "https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-dashboard-for-ec2-and-elb-52b",
-    "pubDate": "Sun, 09 Nov 2025 06:22:02 +0000",
+    "title": "Building Git from Scratch in Go: What I Learned About Version Control Internals",
+    "link": "https://dev.to/uthman_dev/building-git-from-scratch-in-go-what-i-learned-about-version-control-internals-4dih",
+    "pubDate": "Sun, 09 Nov 2025 12:36:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Create two EC2 by using User-Data-Amazon-Linux Script\n\n\n\nLaunch Two EC2 with Two Availability Zone\n\nI will left information about vpc,subnet[public],security. Please configure with yours.\n\n\nAttach "
+    "contentSnippet": "I didn't understand Git until I broke it open and rebuilt it from scratch. No libraries, no shortcuts - just SHA-256 hashing, tree structures, and commit graphs.\nTL;DR: I built a Git implementation in"
   },
   {
-    "title": "✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes",
-    "link": "https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76",
-    "pubDate": "Sun, 09 Nov 2025 06:09:31 +0000",
+    "title": "From TCP Sockets to Thread Pools - Building a Production Grade Web Framework",
+    "link": "https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-web-framework-4hl1",
+    "pubDate": "Sun, 09 Nov 2025 12:20:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ephemeral containers let you attach a temporary debug container to a running Pod without restarting it.\nCreate file nginx-ephemeral.yaml:\napiVersion: v1\nkind: Pod\nmetadata:\n  name: nginx-ephemeral\n  l"
+    "contentSnippet": "From TCP Sockets to Thread Pools: Building a Production-Grade C++ Web Framework\n\n\nWhen you type a URL into your browser and hit enter, something magical happens behind the scenes. Within milliseconds,"
   },
   {
-    "title": "The Silent Killer of Your SaaS Growth",
-    "link": "https://dev.to/tracksimple/the-silent-killer-of-your-saas-growth-3pg8",
-    "pubDate": "Sun, 09 Nov 2025 06:08:02 +0000",
+    "title": "LangGraph: Orchestrating Complex LLM Workflows with State Machines",
+    "link": "https://dev.to/aun_aideveloper/langgraph-orchestrating-complex-llm-workflows-with-state-machines-3fo9",
+    "pubDate": "Sun, 09 Nov 2025 12:17:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Silent Killer of Your SaaS Growth\n\n\nIt was 3:17 PM on a Tuesday when the first cancellation email hit. Then another. And another. By Friday, you'd lost 12 customers worth €24,000 in annual recurri"
+    "contentSnippet": "LangGraph: Orchestrating Complex LLM Workflows with State Machines\n\n\nLangGraph, a powerful extension of the LangChain framework, provides a robust and intuitive way to construct complex, multi-step wo"
   },
   {
-    "title": "My new project: Coz.jp",
-    "link": "https://dev.to/danielpetrica/my-new-project-cozjp-45o",
-    "pubDate": "Sun, 09 Nov 2025 06:06:40 +0000",
+    "title": "Extract Any Data from PDFs Using AI — Invoices, Tables & More with AIxtract API",
+    "link": "https://dev.to/karma_sen_fdfdbe6a5cda221/extract-any-data-from-pdfs-using-ai-invoices-tables-more-with-aixtract-api-7f2",
+    "pubDate": "Sun, 09 Nov 2025 12:11:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello, Dev Community! I'm excited to finally pull back the curtain on my latest side project: Coz.jp, a new link shortening service.\nWhile \"yet another link shortener\" might sound simple, the goal her"
+    "contentSnippet": "🚀 Extract Any Data from PDFs Using AI — Invoices, Tables & More with AIxtract API\n\n\nIf you've ever tried to extract data from invoices, receipts, or bank statements in PDF format, you know how painfu"
+  },
+  {
+    "title": "Agentic Fork Squad: Multi-Agent Database Query Optimizer with Tiger Cloud Zero-Copy Forks",
+    "link": "https://dev.to/hco_innova/agentic-fork-squad-multi-agent-database-query-optimizer-with-tiger-cloud-zero-copy-forks-1o3i",
+    "pubDate": "Sun, 09 Nov 2025 12:11:45 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "What I Built\nThe system leverages Tiger Cloud's zero-copy forks to create isolated testing environments for three specialized AI agents (powered by Google Vertex AI):\n🧠 Cerebro Agent (gemini-2.5-pro)"
+  },
+  {
+    "title": "How I Learned IaC Without Losing My Mind 🤯",
+    "link": "https://dev.to/danlinx2004x/how-i-learned-iac-without-losing-my-mind-347c",
+    "pubDate": "Sun, 09 Nov 2025 12:11:17 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Prologue: The Quest for IaC Experience\n\n\nI decided to prepare for an SRE/DevOps internship and learn Infrastructure as Code.\n\nThe challenge: build a portfolio project demonstrating IaC skills, but wit"
+  },
+  {
+    "title": "How AI Can Help Households Reduce Food Waste and Save Money",
+    "link": "https://dev.to/michaelihegazie/how-ai-can-help-households-reduce-food-waste-and-save-money-272n",
+    "pubDate": "Sun, 09 Nov 2025 12:07:19 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "As a Software Engineer passionate about digital transformation and AI innovation, I wanted to explore how artificial intelligence can help families make smarter food decisions. This idea became the fo"
+  },
+  {
+    "title": "Stop Coding in Chaos: Why You Need a Pro Dev Environment Now (And How to Set It Up)",
+    "link": "https://dev.to/samuel_ochaba_eb9c875fa89/stop-coding-in-chaos-why-you-need-a-pro-dev-environment-now-and-how-to-set-it-up-1779",
+    "pubDate": "Sun, 09 Nov 2025 12:07:07 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "When you start a new project the temptation is to jump right into the \"fun\" part: writing code. Setting up linting, formatting and testing feels like \"admin work\" you can do later.\nThis is a trap\nFast"
   },
   {
     "title": "Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half",
-    "link": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2",
-    "pubDate": "Sun, 09 Nov 2025 06:05:46 +0000",
+    "link": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-4c32",
+    "pubDate": "Sun, 09 Nov 2025 12:06:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "4 ChatGPT Hacks that Cut My Workload in Half\n\n\nThis video walks you through four killer techniques—Prompt Reversal, the 5-Minute Amplifier, the Red Team Technique, and Blueprint Scaffolding—that will "
+    "contentSnippet": "Tired of endless prompt tweaking? Jeff Su shows four ChatGPT power-moves—Prompt Reversal, the 5-Minute Amplifier, the Red Team critique loop, and Blueprint Scaffolding—that streamline your process and"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-59eg",
-    "pubDate": "Sun, 09 Nov 2025 06:00:40 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins just unleashed “Everything Wrong With Sinners In 15 Minutes Or Less,” a tongue-in-cheek Halloween-themed roast of one of the year’s best genre flicks. They promise all the signature"
-  },
-  {
-    "title": "Language Models Model Language",
-    "link": "https://dev.to/paperium/language-models-model-language-23o",
-    "pubDate": "Sun, 09 Nov 2025 06:00:34 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Why Chatbots Get Better When We Count Words, Not Just Rules\n\n\nEver wondered why a chatbot sometimes sounds just like a friend? Scientists have discovered that the secret isn’t hidden grammar trees but"
-  },
-  {
-    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3iek",
-    "pubDate": "Sun, 09 Nov 2025 06:00:30 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins just dropped “Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less,” where they gleefully rip into every plot hole, cringe-worthy moment and cheeky Easter eg"
-  },
-  {
-    "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-b95",
-    "pubDate": "Sun, 09 Nov 2025 06:00:22 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Predators – Caravan of Garbage\n\n\nPredators (2010) takes the franchise back to its roots after the 1990 sequel and two Alien vs. Predator flops, dropping a rag-tag band of lunatics into a muddy jungle "
+    "title": "テキストなしで LLM 同士が“通じ合う”手法:Cache-to-Cache（C2C）について",
+    "link": "https://qiita.com/xxyc/items/892bb9b401e162c2e270?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T04:05:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "最近、とても面白い論文を読んだので共有します。複数の LLM を組み合わせるとき、テキストで対話させるのをやめて、モデル内部の表現（KV-Cache）を直接やり取りするというアイデアです。手法名は Cache-to-Cache（C2C）。テキスト生成の待ち時間を省きつつ、モ..."
   },
   {
     "title": "意思決定を委ねる：CLIツール「should-i」",
@@ -182,6 +189,13 @@
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n\n前回の記事はこちら\n【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化..."
   },
   {
+    "title": "Gemini API の File Search Tool を試してみる",
+    "link": "https://qiita.com/y-mae/items/cc3246ec6bc5b1aa7de7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T00:04:55.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事について\n\nToday, we're launching the File Search Tool, a fully managed RAG system built directly into the Gemini API that abstracts a..."
+  },
+  {
     "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",
     "link": "https://www.publickey1.jp/blog/25/vs_codeplangithubaiagent_hq202510.html",
     "pubDate": "2025-11-06T15:04:27.000Z",
@@ -196,32 +210,18 @@
     "contentSnippet": "はじめに\n\n「3Dグラフを作りたいけど、どこから始めればいいかわからない」\n「matplotlibの3Dは使いづらい...」\nそんな方におすすめなのが Plotly です。Google Colabでもブラウザでも、わずか数行でインタラクティブな3Dサーフェスグラフを作成で..."
   },
   {
+    "title": "EC2の起動停止でパブリックIPが変わる件をLambda + Route 53で自動解決する",
+    "link": "https://qiita.com/torifukukaiou/items/b2cd2bbb01f5efddf767?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T13:51:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "「API Gatewayでいいんでないの？」\nーー その通りです。\n\nはじめに\nEC2インスタンスにMock APIを作りました。\n一応、HTTPSにしておきたいです。Let's Encryptで手動でポチポチ取得しました。\nRoute 53で、AレコードでEC2インス..."
+  },
+  {
     "title": "RISC-Vの命令セットがISO/IEC JTC1による国際標準化に着手へ。第一歩として公開仕様提出者の承認を受ける",
     "link": "https://www.publickey1.jp/blog/25/risc-visoiet_jtc1.html",
     "pubDate": "2025-11-06T13:22:14.000Z",
     "source": "Publickey",
     "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
-  },
-  {
-    "title": "因果推論の勉強ロードマップ",
-    "link": "https://qiita.com/Nospare_Inc/items/313c3641081bc1d961ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T07:47:11.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Research：江口、北野\nWriting：江口、北野\nEditing & Review：段、小林、菅澤\n因果推論は、特段数学的な知識がなくとも、統計検定2級程度、高校数学修了程度の前提知識ですぐに勉強が始められる比較的参入しやすい分野です。\n今回は、その初学の勉強の仕方..."
-  },
-  {
-    "title": "【図解】Torネットワークによる匿名化と、.onionドメインにアクセスする仕組みについて",
-    "link": "https://qiita.com/todotodo/items/fd631b42eb18f9cfacd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T03:40:19.000Z",
-    "source": "Qiita",
-    "contentSnippet": "背景\nインターネットには特定のソフトウェアを使用しないとアクセスできないダークウェブと呼ばれる領域があります\nダークウェブの一部としてTorで構成されたネットワークが有名です\n本記事では、Torで匿名通信を実現する仕組みを解説した後に、Torネットワーク内の.onionド..."
-  },
-  {
-    "title": "AIエージェントに「責任を持たせる」ために必要なもの",
-    "link": "https://qiita.com/autotaker1984/items/c30eafd8ab6a5e52cf9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-05T21:55:04.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nAI モデルやそれを核とした AI エージェントの技術が急速に進化しています。\nその一方で、AI に業務を任せようとすると試してみてもなかなかうまくいかない、というのが 2025 年 11 月現在の実情ではないでしょうか？\n本記事では、AI エージェントに仕事を..."
   },
   {
     "title": "MCPサーバのテストやデバッグ機能、自然言語でテスト用モックサーバの自動生成など、API開発ツール「Kong Insomnia 12」正式リリース",

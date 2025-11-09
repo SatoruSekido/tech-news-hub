@@ -1,73 +1,80 @@
 [
   {
-    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-ko8",
-    "pubDate": "Sun, 09 Nov 2025 02:00:27 +0000",
+    "title": "Create Synthetic Data - A Comprehensive Guideline",
+    "link": "https://dev.to/vuhung16au/create-synthetic-data-a-comprehensive-guideline-49bf",
+    "pubDate": "Sun, 09 Nov 2025 06:24:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less\n\n\nCinemaSins is back with their signature “sins” rundown of Thunderbolts, pointing out every plot hole, nitpick and cheeky "
+    "contentSnippet": "Overview\nWhat is Synthetic Data?\nWhy Use Synthetic Data?\nTranslate a dataset from one language to another language can be a good choice\nGenerating more time series data points following observed patte"
+  },
+  {
+    "title": "How To Create a CloudWatch Dashboard for EC2 and ELB",
+    "link": "https://dev.to/thukhakyawe_cloud/how-to-create-a-cloudwatch-dashboard-for-ec2-and-elb-52b",
+    "pubDate": "Sun, 09 Nov 2025 06:22:02 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "1. Create two EC2 by using User-Data-Amazon-Linux Script\n\n\n\nLaunch Two EC2 with Two Availability Zone\n\nI will left information about vpc,subnet[public],security. Please configure with yours.\n\n\nAttach "
+  },
+  {
+    "title": "✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes",
+    "link": "https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76",
+    "pubDate": "Sun, 09 Nov 2025 06:09:31 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Ephemeral containers let you attach a temporary debug container to a running Pod without restarting it.\nCreate file nginx-ephemeral.yaml:\napiVersion: v1\nkind: Pod\nmetadata:\n  name: nginx-ephemeral\n  l"
+  },
+  {
+    "title": "The Silent Killer of Your SaaS Growth",
+    "link": "https://dev.to/tracksimple/the-silent-killer-of-your-saas-growth-3pg8",
+    "pubDate": "Sun, 09 Nov 2025 06:08:02 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The Silent Killer of Your SaaS Growth\n\n\nIt was 3:17 PM on a Tuesday when the first cancellation email hit. Then another. And another. By Friday, you'd lost 12 customers worth €24,000 in annual recurri"
+  },
+  {
+    "title": "My new project: Coz.jp",
+    "link": "https://dev.to/danielpetrica/my-new-project-cozjp-45o",
+    "pubDate": "Sun, 09 Nov 2025 06:06:40 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Hello, Dev Community! I'm excited to finally pull back the curtain on my latest side project: Coz.jp, a new link shortening service.\nWhile \"yet another link shortener\" might sound simple, the goal her"
+  },
+  {
+    "title": "Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half",
+    "link": "https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2",
+    "pubDate": "Sun, 09 Nov 2025 06:05:46 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "4 ChatGPT Hacks that Cut My Workload in Half\n\n\nThis video walks you through four killer techniques—Prompt Reversal, the 5-Minute Amplifier, the Red Team Technique, and Blueprint Scaffolding—that will "
+  },
+  {
+    "title": "CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-59eg",
+    "pubDate": "Sun, 09 Nov 2025 06:00:40 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "TL;DR\n\n\nCinemaSins just unleashed “Everything Wrong With Sinners In 15 Minutes Or Less,” a tongue-in-cheek Halloween-themed roast of one of the year’s best genre flicks. They promise all the signature"
+  },
+  {
+    "title": "Language Models Model Language",
+    "link": "https://dev.to/paperium/language-models-model-language-23o",
+    "pubDate": "Sun, 09 Nov 2025 06:00:34 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Why Chatbots Get Better When We Count Words, Not Just Rules\n\n\nEver wondered why a chatbot sometimes sounds just like a friend? Scientists have discovered that the secret isn’t hidden grammar trees but"
+  },
+  {
+    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3iek",
+    "pubDate": "Sun, 09 Nov 2025 06:00:30 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "TL;DR\n\n\nCinemaSins just dropped “Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less,” where they gleefully rip into every plot hole, cringe-worthy moment and cheeky Easter eg"
   },
   {
     "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-2a7a",
-    "pubDate": "Sun, 09 Nov 2025 02:00:15 +0000",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-b95",
+    "pubDate": "Sun, 09 Nov 2025 06:00:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mr Sunday Movies thinks 2010’s Predators finally yanks the franchise out of Alien VS Predator purgatory by dumping us back into the muddy jungle with a lovable band of lunatics and a fresh spin on the"
+    "contentSnippet": "Predators – Caravan of Garbage\n\n\nPredators (2010) takes the franchise back to its roots after the 1990 sequel and two Alien vs. Predator flops, dropping a rag-tag band of lunatics into a muddy jungle "
   },
   {
-    "title": "Is It Worth Upgrading to React 19?",
-    "link": "https://dev.to/ravidasari/is-it-worth-upgrading-from-react-18-to-react-19-m50",
-    "pubDate": "Sun, 09 Nov 2025 01:56:10 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Is It Worth Upgrading to React 19?\n\n\nReact, a cornerstone library for building user interfaces, continues to evolve, aiming for greater simplicity and efficiency. With the release of React 19, discuss"
-  },
-  {
-    "title": "Everyone is obsessed with “prompt tricks.”\r\n\r\nThey collect templates, copy prompts from Twitter threads.\r\n\r\nBut after all that, their results still feel… average. Why?\r\n\r\nIt has everything to do with you and not with your prompts.",
-    "link": "https://dev.to/jaideepparashar/everyone-is-obsessed-with-prompt-tricks-they-collect-templates-copy-prompts-from-twitter-5639",
-    "pubDate": "Sun, 09 Nov 2025 01:53:01 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The Prompt Layer Most Beginners Miss\nJaideep Parashar ・ Nov 9\n#ai\n        #promptengineering\n        #discuss\n        #learning"
-  },
-  {
-    "title": "The Prompt Layer Most Beginners Miss",
-    "link": "https://dev.to/jaideepparashar/the-prompt-layer-most-beginners-miss-2op1",
-    "pubDate": "Sun, 09 Nov 2025 01:46:37 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Everyone is obsessed with “prompt tricks.”\nThey collect templates.\nBut after all that, their results still feel… average.\nWhy?\nMost people are missing the most important layer of prompting, and it has"
-  },
-  {
-    "title": "How the 2WHAV-Iterative Cycle Turns Uncertainty into Production-Ready Code",
-    "link": "https://dev.to/francesco_marconi_282058b/how-the-2whav-iterative-cycle-turns-uncertainty-into-production-ready-code-1dk4",
-    "pubDate": "Sun, 09 Nov 2025 01:38:11 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Stop \"chatting\" with your LLM.\n\n\nTo achieve predictable results from a Large Language Model, it's necessary to stop communicating in prose and start providing executable specifications. This concept i"
-  },
-  {
-    "title": "Lesson 21: Freqtrade-Exchange API Configuration",
-    "link": "https://dev.to/henry_lin_3ac6363747f45b4/lesson-21-freqtrade-exchange-api-configuration-246i",
-    "pubDate": "Sun, 09 Nov 2025 01:37:21 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Lesson 21: Exchange API Configuration\n\n\n⏱ Duration: 1.5 hours\n🎯 Learning Objectives: Learn to securely configure exchange APIs and prepare for live trading\n📚 Course Outline:\n21.1 API Key Creation an"
-  },
-  {
-    "title": "第 21 课：Freqtrade-交易所 API 配置",
-    "link": "https://dev.to/henry_lin_3ac6363747f45b4/di-21-ke-freqtrade-jiao-yi-suo-api-pei-zhi-5dgb",
-    "pubDate": "Sun, 09 Nov 2025 01:36:52 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "第 21 课：交易所 API 配置\n\n\n⏱ 课时：1.5 小时\n🎯 学习目标：学会安全配置交易所 API，为实盘交易做好准备\n📚 课程大纲：\n21.1 API Key 创建与权限设置\n21.2 安全注意事项\nAPI（Application Programming Interface）是程序与交易所通信的桥梁。通过 API Key，Freqtrade 可以：\n📊 获取实时市场数据\n💰 查询账"
-  },
-  {
-    "title": "A Monad Guide for Beginners",
-    "link": "https://dev.to/canonical/a-monad-guide-for-beginners-52e6",
-    "pubDate": "Sun, 09 Nov 2025 01:26:10 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Recently, a new colleague joined our company. His surname is Bai, and he's quite young, so we all call him Xiao Bai. Xiao Bai has been learning functional programming lately, and a few days ago he cam"
-  },
-  {
-    "title": "Feeling a bit outdated",
-    "link": "https://dev.to/saksham_sachdeva_493c89b1/feeling-a-bit-outdated-43b9",
-    "pubDate": "Sun, 09 Nov 2025 01:16:34 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Hey everyone,\nI’m a software engineer with over 3 years of experience in the MEAN/MERN stack. I took a career break after moving to Canada in late 2022, and while I’ve kept an eye on things, it feels "
+    "title": "意思決定を委ねる：CLIツール「should-i」",
+    "link": "https://zenn.dev/justhiro/articles/5351c337282175",
+    "pubDate": "Sat, 08 Nov 2025 14:57:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「今日のランチは何にしよう？」「新しいライブラリを試すべきか？」日常の小さな決断から技術選定まで、私たちは日々無数の選択を迫られています。そんな時、宇宙に判断を委ねてみるのはいかがでしょうか。\n今回は、yesno.wtf APIを使って意思決定をサポートするCLIツール「should-i」をRustで開発しました。この記事では、その実装過程と技術的なポイントを紹介します。\n\n shoul"
   },
   {
     "title": "Next.jsで練習するページ遷移型の検索機能",
@@ -119,6 +126,13 @@
     "contentSnippet": "自分のクローンAIを作ろう\n皆さん、こんにちは。\n皆さんは自分がもう一人いたらいいなと思ったことはありませんか？\nないですよね、僕もないです。（じゃあタイトルなんなんだ）\nこのの記事はローカルLLMに向き合う会のアドカレネタとして書いています。\nhttps://qiita..."
   },
   {
+    "title": "1Password cli で mcp サーバーに渡すトークンを管理する",
+    "link": "https://zenn.dev/cureapp/articles/62106003917f2c",
+    "pubDate": "Fri, 07 Nov 2025 12:52:09 GMT",
+    "source": "Zenn",
+    "contentSnippet": "mcp サーバーをはじめとして、AI と様々なツールを接続する機会が増えてきました。私たちも mcp サーバーを作って部内で共有するなどして活用していますが、AI と各種サービスをつなぐ際には、トークンを払い出して認証情報を管理する構成が一般的かなと思います。\nしかし、これらのトークンをローカル環境に直接保存しておくことはセキュリティ上のリスクが伴います。特に npm サプライチェーン攻撃による鍵"
+  },
+  {
     "title": "StripeがUSDCで始めたサブスク決済をJPYCで再現できるか？",
     "link": "https://zenn.dev/komlock_lab/articles/09a3e262dfd94c",
     "pubDate": "Fri, 07 Nov 2025 12:27:54 GMT",
@@ -137,7 +151,7 @@
     "link": "https://zenn.dev/ai151515/articles/fda600a6f2bb50",
     "pubDate": "Fri, 07 Nov 2025 11:37:01 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nAIで何でもいいからアプリ作りたいなぁと思って夫にアイデアを聞いてみたら、普段サードパーティーアプリを使って課金してNotionに日記を書いているらしく、「既存アプリは使いづらいし、できれば課金もしたくない」と言っていたので、それなら「必要最低限の機能だけで、無料で使えるアプリ」を作ってみよう！と思い今回のアプリを作りました。\n\n 夫の要望\n\n\nNotionのDBではなくページに投稿した"
+    "contentSnippet": "はじめに\nAIで何でもいいからアプリが作りたいと思い、夫にアイデアを聞いてみたら、普段サードパーティーアプリを使って課金してNotionに日記を書いているらしく、「既存アプリは個人的に少し使いづらいし、できれば課金もしたくない」と言っていたので、それなら必要最低限機能だけの無料アプリを作ってみよう！と思い今回のアプリを作りました。\n\n 夫の要望\n\n\nNotionのDBではなくページに投稿したい\n既"
   },
   {
     "title": "AI Agentフレームワークを使うべきなのか？",
@@ -145,13 +159,6 @@
     "pubDate": "Fri, 07 Nov 2025 11:32:38 GMT",
     "source": "Zenn",
     "contentSnippet": "こちらはLayerX AI エージェントブログリレー41日目の記事です。\nこんにちは、CEO室でAI Agent開発のPdMをしているKenta Watanabeです。\nAI Agent開発に取り組んでいる方や自分用の効率化ツールを開発したりしてLLMで遊んでいる方は何かしらのAgentフレームワークを利用されている方が多いのではないかと思います。LayerXでもAI SDKなどのフレームワークが"
-  },
-  {
-    "title": "Next.jsで始めるモダンフロントエンド完全入門",
-    "link": "https://zenn.dev/keita_max/books/863d0962f11eab",
-    "pubDate": "Fri, 07 Nov 2025 07:47:54 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Next.jsを使ったモダンなフロントエンド開発の入門書。WEB開発の基礎・プロジェクト構築からGitHub連携、ESLint、Vitest、CI/CD、Storybook、GitHub Pagesへのデプロイまで網羅的に学習することができます。"
   },
   {
     "title": "ミニ四駆を買って改造してたらサンフランシスコのOpenAI DevDayに参加できた話①",
@@ -173,13 +180,6 @@
     "pubDate": "2025-11-07T00:42:20.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n\n前回の記事はこちら\n【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化..."
-  },
-  {
-    "title": "CognitoとAgentCore GatewayでMCPサーバーにOAuth認証をつけよう",
-    "link": "https://zenn.dev/aws_japan/articles/e86655a8ebd114",
-    "pubDate": "Fri, 07 Nov 2025 00:22:53 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！ AWS でAI/ML Specialist SAをしている Kondo です。\nhttps://x.com/yakitori_eng\n本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 10 日目です。\n!\n📚 第 9 日目の記事はこちら！\n\n誰でも簡単に、自由にワークフロー開発 "
   },
   {
     "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",

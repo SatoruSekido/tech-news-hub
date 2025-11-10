@@ -1,73 +1,80 @@
 [
   {
-    "title": "I’m 13 and Just Made a Web Framework 3 Faster Than Express",
-    "link": "https://dev.to/thelittleprince1218/im-13-and-just-made-a-web-framework-3x-faster-than-express-3bdk",
-    "pubDate": "Mon, 10 Nov 2025 06:36:13 +0000",
+    "title": "Automate your JSON translations for i18next / next-intl / vue-i18n",
+    "link": "https://dev.to/aypineau/automate-your-json-translations-for-i18next-next-intl-vue-i18n-138i",
+    "pubDate": "Mon, 10 Nov 2025 12:51:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Yesterday I published princejs on npm.\n<2 kB\n\nZero dependencies\n\nNative Bun binary\n\nBuilt in 3 days on my school laptop\n\n500+ downloads in <24 hours\nSame laptop. Same test. Same autocannon command:\nEx"
+    "contentSnippet": "If you’ve ever implemented i18next, next-intl, or vue-i18n you probably know that internationalization often slows down your development process.\nYou start by declaring your content in your base langu"
   },
   {
-    "title": "Contributing to Ubuntu — Day 2.5: When I had to pause my journey ⏸️",
-    "link": "https://dev.to/geniusmind9999/contributing-to-ubuntu-day-25-when-i-had-to-pause-my-journey-55b",
-    "pubDate": "Mon, 10 Nov 2025 06:31:52 +0000",
+    "title": "What Makes CNC Tools So Important in Modern Workshops?",
+    "link": "https://dev.to/sunil_jaibros_0d676fe18bb/what-makes-cnc-tools-so-important-in-modern-workshops-300n",
+    "pubDate": "Mon, 10 Nov 2025 12:50:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello people! I know you would want to hit me hard in the face for not writing a blog for a week (I know I am not that important but I can always pretend so 😁) but I will be as honest I can in this o"
+    "contentSnippet": "Learn why CNC tools are vital for modern manufacturing, offering perfect shaping, smooth finishing, and faster production across multiple industries.\n\nWhat Is a CNC Tool?\nBefore CNC machines were deve"
   },
   {
-    "title": "The Security Logic Behind LLM Jailbreaking",
-    "link": "https://dev.to/rs_xxx_de5a22d80a9b371aee/the-security-logic-behind-llm-jailbreaking-3hb5",
-    "pubDate": "Mon, 10 Nov 2025 06:21:15 +0000",
+    "title": "I think your post is a great article for helping developers develop faster.\r\nI look forward to your next post.",
+    "link": "https://dev.to/radu985/i-think-your-post-is-a-great-article-for-helping-developers-develop-faster-i-look-forward-to-your-ngn",
+    "pubDate": "Mon, 10 Nov 2025 12:39:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You might wonder why an AI chatbot, designed to be safe and reliable, sometimes suddenly “goes rogue” and says things it shouldn’t. This is most likely because the large language model (LLM) has been "
+    "contentSnippet": "My 2025 Developer Tech Stack: From Code to Docs\nEmmanuel Mumba ・ Nov 5\n#webdev\n        #ai\n        #programming\n        #javascript"
   },
   {
-    "title": "Build Your First TCP Chat App Using Node.js 🚀💬",
-    "link": "https://dev.to/avijitbera/build-your-first-tcp-chat-app-using-nodejs-2kb8",
-    "pubDate": "Mon, 10 Nov 2025 06:13:08 +0000",
+    "title": "Umbraco in the City - Community, Code, and Cuddles",
+    "link": "https://dev.to/lssweatherhead/umbraco-in-the-city-community-code-and-cuddles-80c",
+    "pubDate": "Mon, 10 Nov 2025 12:37:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Are you prepared to explore the realm of real-time communication and networking?  We'll use Node.js to create a straightforward yet effective TCP chat application in this step-by-step tutorial! 🌟\nWha"
+    "contentSnippet": "Last Friday, I had the excitement of attending the first-ever Umbraco in the City conference in Manchester—with a twist. My nine-month-old was my plus-one for the day, and honestly, I wasn't sure how "
   },
   {
-    "title": "How I Approach Building Component Systems",
-    "link": "https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m",
-    "pubDate": "Mon, 10 Nov 2025 06:11:48 +0000",
+    "title": "The Ultimate Guide to Text Annotation Tools: A Simple Explanation",
+    "link": "https://dev.to/sohan_lal_241c2d80b2705e7/the-ultimate-guide-to-text-annotation-tools-a-simple-explanation-2c2j",
+    "pubDate": "Mon, 10 Nov 2025 12:32:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How I Approach Building Component Systems\n\n\n\n“A component library is not about buttons. It’s about language—a shared grammar between design and engineering.”\nEvery frontend team eventually runs into t"
+    "contentSnippet": "Introduction\n\n\nHave you ever taught a child to read? You point to words and explain what they mean. Text annotation tools do something similar for computers—they help computers understand human langua"
   },
   {
-    "title": "Writing Unit Tests for My Open Source Project",
-    "link": "https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3",
-    "pubDate": "Mon, 10 Nov 2025 06:10:04 +0000",
+    "title": "The New Discipline of Digital Marketing: From Scattershot Tactics to Compounding Credibility",
+    "link": "https://dev.to/sonia_bobrik_1939cdddd79d/the-new-discipline-of-digital-marketing-from-scattershot-tactics-to-compounding-credibility-j4j",
+    "pubDate": "Mon, 10 Nov 2025 12:32:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Writing unit tests is an essential practice for ensuring code quality, reliability, and maintainability. This week, I wrote test cases for my open source project in Python.\nunittest framework\n\n\nI chos"
+    "contentSnippet": "Digital marketing no longer rewards volume; it rewards precision, proof, and respect for people’s time. Teams that win today design experiences that compound trust instead of chasing shallow clicks. W"
   },
   {
-    "title": "Vibe Coding ++",
-    "link": "https://dev.to/peteralexbizjak/vibe-coding--bp3",
-    "pubDate": "Mon, 10 Nov 2025 06:08:09 +0000",
+    "title": "Why AI Developers Are Transitioning from Centralized Cloud to Decentralized Compute Networks: A Technical Overview",
+    "link": "https://dev.to/neurolov__ai/why-ai-developers-are-transitioning-from-centralized-cloud-to-decentralized-compute-networks-a-321l",
+    "pubDate": "Mon, 10 Nov 2025 12:30:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Originally published on my blog.\nThe arrival of any new technology always creates two camps: those who embrace it and those who reject it. While voices in the middle exist, they’re less vocal and ofte"
+    "contentSnippet": "In the fast-evolving AI landscape, infrastructure innovation matters as much as model design. Traditional centralized cloud systems have powered years of AI growth—but as workloads scale, developers f"
   },
   {
-    "title": "I Built Convodb So You Can Talk to Your Database (And It Talks Back With 4 AI Agents)",
-    "link": "https://dev.to/prime_299792/i-built-convodb-so-you-can-talk-to-your-database-and-it-talks-back-with-4-ai-agents-1fno",
-    "pubDate": "Mon, 10 Nov 2025 06:08:08 +0000",
+    "title": "AI Coding Assistants for Beginners: How to Use ChatGPT & Copilot Without ‘Cheating’",
+    "link": "https://dev.to/dhruvjoshi9/ai-coding-assistants-for-beginners-how-to-use-chatgpt-copilot-without-cheating-544",
+    "pubDate": "Mon, 10 Nov 2025 12:23:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the TigerData Agentic Postgres Hackathon Challenge\nSo there I was, scrolling through dev.to, when I saw the TigerData Agentic Postgres hackathon announcement. My first thought"
+    "contentSnippet": "Hey devs 👋\nI’m Dhruv, a tech writer and developer who spends a lot of time helping beginners ship their first real-world projects.\nIf you’ve just started coding, you’ve probably asked yourself:\n“If I"
   },
   {
-    "title": "Step Into Mystic Falls: A Halloween Story Telling Game",
-    "link": "https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb",
-    "pubDate": "Mon, 10 Nov 2025 06:06:07 +0000",
+    "title": "Building a Cloud-Native App to Match Founders with the Right Hackathon",
+    "link": "https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae",
+    "pubDate": "Mon, 10 Nov 2025 12:19:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "> “There is no such thing as a bad idea. Only poorly executed awesome ones,”\nWhen I stumbled upon the Frontend Challenge - Halloween Edition, Perfect Landing_, I thought why not revisit some old JavaS"
+    "contentSnippet": "I'm writing this blog as a participant in Cloud Run Hackathon by Google Cloud\nFor the past several years, I’ve been self-funding my startup ideas by participating in hackathons that help me bring thos"
   },
   {
-    "title": "Complete Guide: Installing Docker and Docker Compose Step by Step",
-    "link": "https://dev.to/kingyou/complete-guide-installing-docker-and-docker-compose-step-by-step-24e1",
-    "pubDate": "Mon, 10 Nov 2025 06:02:21 +0000",
+    "title": "A Practical Guide to AI Voice Agent Observability: Debugging Latency with VideoSDK Traces",
+    "link": "https://dev.to/chaitrali_kakde/a-practical-guide-to-ai-voice-agent-observability-debugging-latency-with-videosdk-traces-4kmj",
+    "pubDate": "Mon, 10 Nov 2025 12:18:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Docker has revolutionized how we build, ship, and run applications. Whether you're a developer, DevOps engineer, or system administrator, learning Docker is essential. This comprehensive guide will wa"
+    "contentSnippet": "As AI Voice agents evolve into complex, multi-modal systems handling real-time speech, video, and reasoning, performance observability becomes crucial. Even small latency spikes can break conversation"
+  },
+  {
+    "title": "Claude CodeでBacklogのチケットから自動実装する仕組みが快適すぎた",
+    "link": "https://qiita.com/mu7kata/items/4b42054ee1b3a96d6f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T01:59:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事ではClaude Codeとプロジェクト管理ツールであるBacklogの連携により、\nGithubのPR作成からBacklog上でのレビュー依頼のやりとりまでを自動化する仕組みを紹介します。\n\nはじめに\n私が所属するチームでは、Backlogを使って開発チケットの管..."
   },
   {
     "title": "SNKRDUNKにおける機械学習への取り組みの現状と今後の展望",
@@ -75,6 +82,27 @@
     "pubDate": "Mon, 10 Nov 2025 01:52:31 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n株式会社SODAでバックエンドのテックリードをしている仲宗根です。\nSODAは、SNKRDUNKというスニーカーやアパレル、トレーディングカード(トレカ)のフリマサービスを運営しています。\n本記事では、SNKRDUNKにおける機械学習プロジェクトの一例として、ピックアップリンクのパーソナライズを紹介します。この取り組みを通して、SNKRDUNKの開発に興味を持っていただければ幸いです。\n"
+  },
+  {
+    "title": "天下一キーボードわいわい会 Vol.9 見聞録 — 「共鳴層にて」",
+    "link": "https://zenn.dev/te9no/articles/6b358b34c878d2",
+    "pubDate": "Mon, 10 Nov 2025 00:34:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "天下一キーボードわいわい会 Vol.9 見聞録 — 「共鳴層にて」\nObservation Log 04 / Realm of Split IV : Event Node “Tenkey#9”\n\nDate: 2025-11-08\nLocation: Human Convention Zone - Tenkey (天キー)\nReporter: teporz / Synapse Observer Un"
+  },
+  {
+    "title": "技術ブログを書きながら、居場所を探していた話",
+    "link": "https://zenn.dev/akari1106/articles/567b0aee65fb8b",
+    "pubDate": "Sun, 09 Nov 2025 17:48:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n技術ブログ、みなさん書いてますか？ROM専（読む専門）派、という方も多いと思います。\nアウトプットってのは時代が進んでもまだまだ少数派です。\nかくいう私は、Zennやdev.toと今はインターネットの片隅にお邪魔する形で書いています。\n技術ブログを書き始める前、私はずっとローカルのOneNoteにちんたら書いていました。\n日記のようなものに近いレベルから、謎のメモと謎のスクショだけのもの"
+  },
+  {
+    "title": "小ネタ：黒電話のWeb Componentをつくってみたよ",
+    "link": "https://zenn.dev/lecto/articles/ee345c79c269eb",
+    "pubDate": "Sun, 09 Nov 2025 15:20:45 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先日、電話番号の入力UIについて雑談していたときのこと。\n「最近の入力フォーム、テンキーとか色々工夫されてるよね」\n「そういえば昔は黒電話で番号回してたんだよな...」\n「今の若い人って黒電話使えるのかな・・・？」\nこの何気ない一言でとりあえず作ってみました！\n確かに、昭和生まれの私には馴染み深い黒電話のロータリーダイヤル。\nでも、平成・令和生まれの人たちにとっては「見たことはあるけど使"
   },
   {
     "title": "GeminiにPDFやWord、Excel、テキストファイルなどの検索機能を組み込める「File Search in Gemini API」提供開始、フルマネージドなRAGシステムを提供",
@@ -91,11 +119,11 @@
     "contentSnippet": "ITエンジニアが、ITエンジニアに読んでほしい技術書・ビジネス書を選ぶイベント「ITエンジニア本大賞 2026」の投票が11月6日から始まりました。 　ITエンジニア本大賞 2026　　　　投票スタート！　　ITエンジニアに読んでほしい本を選ぶイベント、ITエンジニア本大賞が今年も始まりました。投票できる部門は、●技術書部門●ビジネス書部門投票できる期間は、●12/7までぜひおすすめ本に投票を！h"
   },
   {
-    "title": "「なんかMeet重いんだけど」を撲滅！GWS監査ログとLooker Studioで作るネットワーク品質ダッシュボード",
-    "link": "https://zenn.dev/hotaka_noda/articles/7bcf7f790decc7",
-    "pubDate": "Sun, 09 Nov 2025 13:42:14 GMT",
+    "title": "WASM×Web Worker×AudioWorkletで実現するリアルタイム音声生成",
+    "link": "https://zenn.dev/rerrah/articles/9431cefb02ccb7",
+    "pubDate": "Sun, 09 Nov 2025 13:00:05 GMT",
     "source": "Zenn",
-    "contentSnippet": "🚀 はじめに\n「最近、Google Meetの調子悪いんだけど…」\n「XXさんの声、ブツブツ切れてますよ」\nコーポレートエンジニアやネットワーク担当者の皆さん、こんなフワッとした社員からの申告に頭を悩ませていませんか？\n原因が「社員の自宅回線」なのか、「会社のVPN」なのか、はたまた「特定のオフィスのWi-Fiが詰まっ\nてる」のか…。原因の切り分けができず、具体的なアクションが取れないのはツラい"
+    "contentSnippet": "私が開発している音色共有サイトOPNShareに音色のプレビュー機能を追加しました．これは音色ページに表示されている鍵盤を押すと，その音高で音色が鳴る機能です．\nhttps://x.com/RerrahKRynn/status/1981723920760750514\n音色のプレビュー機能ではリアルタイムで音声波形の生成・再生を行っています．これはWebAssembly (WASM)やWeb Wor"
   },
   {
     "title": "【.NET】開発時に活用できる属性",
@@ -103,6 +131,13 @@
     "pubDate": "Sun, 09 Nov 2025 12:32:15 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nアプリやライブラリ開発時に地味に使える属性について、よく使うものから意外に使えていなかったものなど備忘録代わりに記載します。\n\n デバッグを支援する属性\n\n DebuggerDisplayAttribute\nデバッガー変数ウィンドウのインスタンスの値表示をカスタマイズできる属性になります。引数に任意の文字列を設定したり、任意のフィールド、プロパティ、メソッドを設定することができるため、う"
+  },
+  {
+    "title": "AWS × e-Paperで作るデジタルアートフレーム",
+    "link": "https://zenn.dev/allstdft/articles/display_pipeline",
+    "pubDate": "Sun, 09 Nov 2025 12:24:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「飾りたい写真がたくさんあるけどプリントしてたらきりがない」、「液晶ディスプレイにスライドショーで流したいけど、ディスプレイの耐久性や電気代が気になる」と思っていたところ、電子ペーパーを利用したデジタルアートフレームに行き着きました。\nSwitchBot や Samsung が商品化しており、これから一般家庭にも浸透していきそうです。\n自分はGoogleフォト連携など追加でやりたいことが"
   },
   {
     "title": "eslint-plugin-import-accessのpackageDirectoryオプション",
@@ -126,27 +161,6 @@
     "contentSnippet": "背景\nProspectorは、ZMKキーボードのレイヤー情報やperipheralのバッテリー残量などをディスプレイに表示できるデバイスです。\nhttps://github.com/carrefinho/prospector\n最近、これの組み立てキット/完成品がbeekeeb.jpで手軽に入手できるようになったので、これをきっかけに筆者もProspectorを入手しました。\nhttps://sho"
   },
   {
-    "title": "PHPカンファレンス福岡2025登壇レポート: 例外処理を理解して、設計段階からエラーを「見つけやすく」「起こりにくく」する",
-    "link": "https://zenn.dev/techtrain_blog/articles/phpcon-fukuoka2025-exception-handling",
-    "pubDate": "Sun, 09 Nov 2025 09:40:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！TechBowl の梶川(@kajitack)です。\nこの記事は、2025 年 11 月 8 日に開催された PHPカンファレンス福岡2025 の登壇レポートです。\n\n 登壇内容\n「例外処理を理解して、設計段階からエラーを「見つけやすく」「起こりにくく」する」というタイトルで登壇させていただきました。\n\nhttps://fortee.jp/phpcon-fukuoka-2025/pro"
-  },
-  {
-    "title": "みんなでOpenSearchを育てよう！調査からOSSへのPRまでの実録ガイド",
-    "link": "https://zenn.dev/opensearch/articles/b6ea3f0d8b596c",
-    "pubDate": "Sun, 09 Nov 2025 09:08:36 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nOpenSearchはスケーラブルで多様なユースケースに対応できるオープンソースの検索エンジンです。オープンソースなので、誰でもソースコードを見ることができて、誰でも改善に貢献できます。\nしかし、いざコントリビューションに挑戦するとなると、何から始めたものか悩む方も少なくないのではないでしょうか。そこで、先日私が作成したPull Request「Fix NPE in validateSe"
-  },
-  {
-    "title": "もっと気軽にDocDD(SpecDD)でAI駆動開発したい",
-    "link": "https://zenn.dev/imaimai17468/articles/5df32a0bcfc75a",
-    "pubDate": "Sun, 09 Nov 2025 08:46:53 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nCursorやClaude Codeを使っているエンジニアの皆さん、こんな悩みを抱えたことありませんか？\n\nAIアシスタントに適切なコンテキストを渡すのが難しい\n開発ワークフローが属人化して、チームで統一されない\nMCP（Model Context Protocol）の使い方がよくわからない\nコード品質を保ちながら効率的に開発したい\n\nこのような課題を解決するために、DocDDというプロ"
-  },
-  {
     "title": "【初心者完全版】0からReact開発して基礎をマスターできる最強チュートリアル 音楽生成アプリ編【図解解説】",
     "link": "https://qiita.com/Sicut_study/items/c0096caf21eefcd5c85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-09T08:06:32.000Z",
@@ -154,11 +168,25 @@
     "contentSnippet": "はじめに\nこんにちは、Watanabe jinです。\nReactがAIも相まって選択されるケースが増えて学びたいと思っている人も多いかと思います。\n私も過去にたくさんのReact教材をやりましたが、本当にやってよかったと思える教材はほぼありませんでした。\n最初に選ぶ教材..."
   },
   {
-    "title": "【Vue Fes Japan 2025】技術カンファレンス人生初参戦レポ",
-    "link": "https://zenn.dev/kakkokari_gtyih/articles/4a0ca2011130cb",
-    "pubDate": "Sun, 09 Nov 2025 06:51:25 GMT",
-    "source": "Zenn",
-    "contentSnippet": "This article is also available in English\n学生向けセッション パネルディスカッションのセクションまで飛ぶ\n\n2025年10月25日に東京で開催された、Vue.jsの国内最大のカンファレンス「Vue Fes Japan 2025」に参加してまいりました！\nこういった技術カンファレンスにはいつか行ってみたいな…と漠然と思っていたものの、大きな催しはほとんどが東"
+    "title": "React学習ログ No.17",
+    "link": "https://qiita.com/maedaHARUYA/items/f264bc1b252bf3849e2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T07:58:27.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Chakra UI 学習メモ\n\n1. 目的\n\nChakra UI を使って、基本的なUI要素を実装する方法を整理\n\n2. 使ったコンポーネントとメモ\n\nA. Button\n\n何に使ったか:\n\nモーダルを開くトリガーとして\nフォームの送信ボタンとして\n\n使い方メモ..."
+  },
+  {
+    "title": "React学習ログ No.16",
+    "link": "https://qiita.com/maedaHARUYA/items/d8b9e2d467a3506ed134?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T07:51:14.000Z",
+    "source": "Qiita",
+    "contentSnippet": "React Router 学習メモ\n\n1. 目的\n\nReact Routerの基本的な使い方を理解する\nSPA（シングルページアプリケーション）における画面遷移の方法を学習\n\n2. インストールと基本設定\n\nインストール\nnpm install react-router..."
+  },
+  {
+    "title": "Laravel v12.23.0でのArr::firstメソッドの挙動の変化",
+    "link": "https://qiita.com/matsumura-yzrh/items/bbbda9be6c6f6a7dd200?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T06:51:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\nYUZURIHAの松村です。\n\n前回に続き、Laravelのアップデートでハマったポイントについて紹介します。\n今回は、Laravelをv12.23.0へアップデートした際にArr::firstメソッドでハマりました。\n\nArr::firstメソッドとは？\n..."
   },
   {
     "title": "C++は常に進化している！ C++26・C++23の新機能と今後のトレンド",
@@ -175,6 +203,13 @@
     "contentSnippet": "最近、とても面白い論文を読んだので共有します。複数の LLM を組み合わせるとき、テキストで対話させるのをやめて、モデル内部の表現（KV-Cache）を直接やり取りするというアイデアです。手法名は Cache-to-Cache（C2C）。テキスト生成の待ち時間を省きつつ、モ..."
   },
   {
+    "title": "2025年11月時点における世界最高速の向聴数計算アルゴリズムを開発・実装してしまった件について",
+    "link": "https://qiita.com/Cryolite/items/2650ce76ffac925d7876?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-08T12:15:03.000Z",
+    "source": "Qiita",
+    "contentSnippet": "結論 - 2025年11月時点における世界最高速の向聴数計算アルゴリズムの実装\n本稿で説明する向聴数計算アルゴリズムの実装は https://github.com/Cryolite/nyanten で公開しています．この実装による手牌1つあたりに対する向聴数計算の速度は，..."
+  },
+  {
     "title": "AWS初心者がALBログを記録してみた話",
     "link": "https://qiita.com/tks_1128/items/fb44f826f6390ca45452?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-08T11:31:32.000Z",
@@ -187,41 +222,6 @@
     "pubDate": "2025-11-07T21:57:26.000Z",
     "source": "Qiita",
     "contentSnippet": "自分のクローンAIを作ろう\n皆さん、こんにちは。\n皆さんは自分がもう一人いたらいいなと思ったことはありませんか？\nないですよね、僕もないです。（じゃあタイトルなんなんだ）\nこのの記事はローカルLLMに向き合う会のアドカレネタとして書いています。\nhttps://qiita..."
-  },
-  {
-    "title": "ミニ四駆を買って改造してたらサンフランシスコのOpenAI DevDayに参加できた話①",
-    "link": "https://qiita.com/Null-Sensei/items/5d3fcf50fd53680abac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-07T05:56:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この投稿は Qiita Conference 2025 Autumn Day.3 登壇用の資料です。\n\n去年(2024年)、クリスマス向けて、子供とミニ四駆でも組み立てよう！とミニ四駆を買ったところ、サンフランシスコへ渡米してOpenAI DevDay 2025 に参..."
-  },
-  {
-    "title": "Webアプリのセッション管理、結局どれ使えばいいの？",
-    "link": "https://qiita.com/hara-h/items/46b09e83a68c1f15a0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-07T02:44:49.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nセッションを使って実装してって言われたはいいものの――「セッション」って一言で済ませられないくらい種類が多くて迷子に。最近、sessionStorage とサーバーサイドセッションを使い分ける場面があったので、実務でどう選ぶかを整理してみました。\n\nセッションの..."
-  },
-  {
-    "title": "【続】8割自動化で終わらせたくなかった新人、OCR×Geminiで“なが〜いレシート”の誤読率3%を達成！",
-    "link": "https://qiita.com/ishikawa_slj/items/d24b88966fbad0174162?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-07T00:42:20.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n記事を開いていただきありがとうございます！\n現在私は GitHub Copilot を活用しながら、業務効率化のためのWebアプリ開発に取り組んでいます。\n\n前回の記事はこちら\n【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化..."
-  },
-  {
-    "title": "Gemini API の File Search Tool を試してみる",
-    "link": "https://qiita.com/y-mae/items/cc3246ec6bc5b1aa7de7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-07T00:04:55.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事について\n\nToday, we're launching the File Search Tool, a fully managed RAG system built directly into the Gemini API that abstracts a..."
-  },
-  {
-    "title": "Spec Copilot: Vibe Codingの限界を超える - 19種の専門AIエージェントで実現する仕様駆動開発",
-    "link": "https://qiita.com/hisaho/items/a77fc3726f5b37b575f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T21:16:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "第1章 なぜSpec Copilotが必要なのか\n\n1.1 AI支援開発の現状と課題\n2025年、AI支援開発ツールは急速に進化しています。しかし、それぞれのツールには固有の限界があり、エンタープライズアプリケーション開発の全体をカバーできていません。\n\n1.1.1 Vi..."
   },
   {
     "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",

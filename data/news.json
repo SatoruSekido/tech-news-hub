@@ -1,73 +1,87 @@
 [
   {
-    "title": "Automate your JSON translations for i18next / next-intl / vue-i18n",
-    "link": "https://dev.to/aypineau/automate-your-json-translations-for-i18next-next-intl-vue-i18n-138i",
-    "pubDate": "Mon, 10 Nov 2025 12:51:22 +0000",
+    "title": "How to create QR based 2fa system in Node.js (step-by-step)",
+    "link": "https://dev.to/jahongir2007/how-to-create-qr-based-2fa-system-in-nodejs-step-by-step-14a6",
+    "pubDate": "Mon, 10 Nov 2025 18:19:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever implemented i18next, next-intl, or vue-i18n you probably know that internationalization often slows down your development process.\nYou start by declaring your content in your base langu"
+    "contentSnippet": "Two-factor authentication (2FA) adds an extra layer of security to your apps. In this guide, we’ll use express and auth-verify, a Node.js library, to implement TOTP (Time-based One-Time Password) comp"
   },
   {
-    "title": "What Makes CNC Tools So Important in Modern Workshops?",
-    "link": "https://dev.to/sunil_jaibros_0d676fe18bb/what-makes-cnc-tools-so-important-in-modern-workshops-300n",
-    "pubDate": "Mon, 10 Nov 2025 12:50:23 +0000",
+    "title": "Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers",
+    "link": "https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-2p8j",
+    "pubDate": "Mon, 10 Nov 2025 18:18:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Learn why CNC tools are vital for modern manufacturing, offering perfect shaping, smooth finishing, and faster production across multiple industries.\n\nWhat Is a CNC Tool?\nBefore CNC machines were deve"
+    "contentSnippet": "What If Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nImagine a world where your AI application not only provides value to users but also generates revenue in two distinct ways. The"
   },
   {
-    "title": "I think your post is a great article for helping developers develop faster.\r\nI look forward to your next post.",
-    "link": "https://dev.to/radu985/i-think-your-post-is-a-great-article-for-helping-developers-develop-faster-i-look-forward-to-your-ngn",
-    "pubDate": "Mon, 10 Nov 2025 12:39:53 +0000",
+    "title": "Effective Prompting for Generative Vision Models",
+    "link": "https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc",
+    "pubDate": "Mon, 10 Nov 2025 18:14:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "My 2025 Developer Tech Stack: From Code to Docs\nEmmanuel Mumba ・ Nov 5\n#webdev\n        #ai\n        #programming\n        #javascript"
+    "contentSnippet": "It’s likely that you’ve used a vision model to generate an image recently, but ended up with somewhat questionable results. You might have blamed this on the model not working correctly (and maybe tha"
   },
   {
-    "title": "Umbraco in the City - Community, Code, and Cuddles",
-    "link": "https://dev.to/lssweatherhead/umbraco-in-the-city-community-code-and-cuddles-80c",
-    "pubDate": "Mon, 10 Nov 2025 12:37:40 +0000",
+    "title": "You Can't Unbake a Cake (or Why Data Isolation in the Age of AI is BASICALLY Impossible)",
+    "link": "https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg",
+    "pubDate": "Mon, 10 Nov 2025 18:10:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Last Friday, I had the excitement of attending the first-ever Umbraco in the City conference in Manchester—with a twist. My nine-month-old was my plus-one for the day, and honestly, I wasn't sure how "
+    "contentSnippet": "Legislators across the globe want your data removed from AI models. The EU's \"right to be forgotten\" under GDPR Article 17, California's CCPA, a dozen other privacy frameworks—all built on the assumpt"
   },
   {
-    "title": "The Ultimate Guide to Text Annotation Tools: A Simple Explanation",
-    "link": "https://dev.to/sohan_lal_241c2d80b2705e7/the-ultimate-guide-to-text-annotation-tools-a-simple-explanation-2c2j",
-    "pubDate": "Mon, 10 Nov 2025 12:32:33 +0000",
+    "title": "Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels",
+    "link": "https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf",
+    "pubDate": "Mon, 10 Nov 2025 18:09:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nHave you ever taught a child to read? You point to words and explain what they mean. Text annotation tools do something similar for computers—they help computers understand human langua"
+    "contentSnippet": "Hello, I'm Maneshwar. I'm working on FreeDevTools online currently building *one place for all dev tools, cheat codes, and TLDRs* — a free, open-source hub where developers can quickly find and use to"
   },
   {
-    "title": "The New Discipline of Digital Marketing: From Scattershot Tactics to Compounding Credibility",
-    "link": "https://dev.to/sonia_bobrik_1939cdddd79d/the-new-discipline-of-digital-marketing-from-scattershot-tactics-to-compounding-credibility-j4j",
-    "pubDate": "Mon, 10 Nov 2025 12:32:11 +0000",
+    "title": "The 9 Best Web Hosting Deals for 2025: Black Friday Discounts Are Live",
+    "link": "https://dev.to/sanu_kumar_377c4dc19b88a1/the-9-best-web-hosting-deals-for-2025-black-friday-discounts-are-live-188f",
+    "pubDate": "Mon, 10 Nov 2025 18:06:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Digital marketing no longer rewards volume; it rewards precision, proof, and respect for people’s time. Teams that win today design experiences that compound trust instead of chasing shallow clicks. W"
+    "contentSnippet": "Are you ready to launch a new website or looking to switch providers for better performance and savings? The annual Black Friday and Cyber Monday sales period is the absolute best time to secure top-t"
   },
   {
-    "title": "Why AI Developers Are Transitioning from Centralized Cloud to Decentralized Compute Networks: A Technical Overview",
-    "link": "https://dev.to/neurolov__ai/why-ai-developers-are-transitioning-from-centralized-cloud-to-decentralized-compute-networks-a-321l",
-    "pubDate": "Mon, 10 Nov 2025 12:30:30 +0000",
+    "title": "My Learnings from Day 1a & 1b of the Google AI Agents Intensive",
+    "link": "https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf",
+    "pubDate": "Mon, 10 Nov 2025 18:04:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the fast-evolving AI landscape, infrastructure innovation matters as much as model design. Traditional centralized cloud systems have powered years of AI growth—but as workloads scale, developers f"
+    "contentSnippet": "Introduction\nHi everyone! \nDay 1a – Agent Basics\nLearned what an AI agent is and how it can automate reasoning and decision-making.\nTried my first simple agent using prompts and instructions.\nLearned "
   },
   {
-    "title": "AI Coding Assistants for Beginners: How to Use ChatGPT & Copilot Without ‘Cheating’",
-    "link": "https://dev.to/dhruvjoshi9/ai-coding-assistants-for-beginners-how-to-use-chatgpt-copilot-without-cheating-544",
-    "pubDate": "Mon, 10 Nov 2025 12:23:56 +0000",
+    "title": "The Great Multimedia Steganography Debugging Saga: When Three Bugs Walk Into a Bar (And One Was Pretending to Be Lossless)",
+    "link": "https://dev.to/rolan_r_n_r/the-great-multimedia-steganography-debugging-saga-when-three-bugs-walk-into-a-bar-and-one-was-3kb9",
+    "pubDate": "Mon, 10 Nov 2025 18:03:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey devs 👋\nI’m Dhruv, a tech writer and developer who spends a lot of time helping beginners ship their first real-world projects.\nIf you’ve just started coding, you’ve probably asked yourself:\n“If I"
+    "contentSnippet": "When Your \"Lossless\" Codec Isn't Actually Lossless (A Debugging Story)\n\n\nSo there I was, feeling pretty good about life. My steganography app could hide files in images ✅, audio ✅, and video ✅. Life w"
   },
   {
-    "title": "Building a Cloud-Native App to Match Founders with the Right Hackathon",
-    "link": "https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae",
-    "pubDate": "Mon, 10 Nov 2025 12:19:19 +0000",
+    "title": "The Domestic Turn of Information Warfare: When Democracies Target Their Own Minds",
+    "link": "https://dev.to/mrvenom17/the-domestic-turn-of-information-warfare-when-democracies-target-their-own-minds-2gbd",
+    "pubDate": "Mon, 10 Nov 2025 18:01:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I'm writing this blog as a participant in Cloud Run Hackathon by Google Cloud\nFor the past several years, I’ve been self-funding my startup ideas by participating in hackathons that help me bring thos"
+    "contentSnippet": "By Alay Sharma\nThe 20th century taught nations to fear bombs and borders.\nThe Paradox\nThe paradox is stark:\nFrom Propaganda to Persuasion Architecture\nThe Dual Use Dilemma\nThe Cognitive Erosion of Fre"
   },
   {
-    "title": "A Practical Guide to AI Voice Agent Observability: Debugging Latency with VideoSDK Traces",
-    "link": "https://dev.to/chaitrali_kakde/a-practical-guide-to-ai-voice-agent-observability-debugging-latency-with-videosdk-traces-4kmj",
-    "pubDate": "Mon, 10 Nov 2025 12:18:32 +0000",
+    "title": "Hacktoberfest 2025",
+    "link": "https://dev.to/whyang9701/hacktoberfest-2025-n3k",
+    "pubDate": "Mon, 10 Nov 2025 18:01:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As AI Voice agents evolve into complex, multi-modal systems handling real-time speech, video, and reasoning, performance observability becomes crucial. Even small latency spikes can break conversation"
+    "contentSnippet": "Hacktoberfest is a yearly event by DigitalOcean that supports the open source community. Many things we use every day rely on open source software. For example, Android and cloud servers use Linux, wh"
+  },
+  {
+    "title": "GitHub、リリース後のバイナリなどアセットを変更不可にする「Immutable Release」（変更不可リリース）機能を正式リリース",
+    "link": "https://www.publickey1.jp/blog/25/githubimmutable_release.html",
+    "pubDate": "2025-11-10T15:29:27.000Z",
+    "source": "Publickey",
+    "contentSnippet": "GitHubは、リリース後の成果物を変更できなくする新機能「Immutable Release」（変更不可リリース）機能を正式版として提供すると発表しました。 リリースしたバイナリなどが変更不可に Immutable Releaseを利用することで、リリースとして公開したバイナリやインストーラなどのアセットとGitタグが変更できなくなります。 これによって攻撃者がリリースされたアセットに対して脆弱"
+  },
+  {
+    "title": "JavaScriptランタイムのBun、Vercelのサーバレスコンピューティング「Vercell Functions」ランタイムとして利用可能に",
+    "link": "https://www.publickey1.jp/blog/25/javascriptbunvercelvercell_functions.html",
+    "pubDate": "2025-11-10T15:27:49.000Z",
+    "source": "Publickey",
+    "contentSnippet": "JavaScriptフレームワーク「Next.js」などの開発元で、Webアプリケーションプラットフォームの「Vercel」を提供しているVercelは、同社のサーバレスコンピューティング基盤である「Vercel Functions」のランタイムとしてBunがパブリックベータで利用可能になったことを明らかにしました。 Vercelは、静的なWebサイトはもちろん、JavaScriptのコードをVe"
   },
   {
     "title": "Claude CodeでBacklogのチケットから自動実装する仕組みが快適すぎた",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-03T16:42:59.000Z",
     "source": "Publickey",
     "contentSnippet": "生成AIを活用した業務の効率化が多くの企業にとって課題となりつつある中で、サイバーエージェントはITエンジニアではない従業員でも業務に役立つAIアプリケーションを作れる「Dify」と呼ばれるノーコードツールと、Difyで利用されるベクトル検索の基盤としてTiDBを採用し、企業全体で月間3000時間もの業務削減を実現したことを明らかにしました。 同社はなぜ社内の生成AI活用にDifyを選択したのか、"
-  },
-  {
-    "title": "開発中のコードを基に、AIがノンプログラマによるUI作成を支援、OKならプルリクエスト作成。JetBrains新ツールが「Matter」発表",
-    "link": "https://www.publickey1.jp/blog/25/aiuiokjetbrainsmatter.html",
-    "pubDate": "2025-11-03T15:40:43.000Z",
-    "source": "Publickey",
-    "contentSnippet": "JetBrainsは、開発中のアプリケーションに対して、デザイナーなどのノンプログラマがAIを通じてユーザーインターフェイスを容易に変更や作成できる新ツール「Matter」を発表しました。 一般にアプリケーションのユーザーインターフェイスを作り込むには、デザイナーなどノンプログラマがデザインをモックアップやプロトタイプとして作成し、それを基にプログラマがコードを作成していくことになることが多いでし"
-  },
-  {
-    "title": "VS Code、Copilotが仕様作成を支援する「Planモード」が追加",
-    "link": "https://www.publickey1.jp/blog/25/vs_codecopilotplan.html",
-    "pubDate": "2025-10-29T15:29:01.000Z",
-    "source": "Publickey",
-    "contentSnippet": "GitHubは、日本時間10月29日未明から開催中の年次イベント「GitHub Universe 2025」で、Visual Studio CodeにおけるGitHub Copilotの新機能として、AIが仕様作成を支援する「Planモード」を発表しました。 GitHub Copilotにはすでに、質問や相談にAIが対応してくれる「Askモード」、コードの編集をAIが行ってくれる「Editモード」"
   }
 ]

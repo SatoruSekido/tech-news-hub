@@ -1,73 +1,108 @@
 [
   {
-    "title": "Calendar API update for secondary calendars, create Workspace Flows custom steps, and more!",
-    "link": "https://dev.to/googleworkspace/calendar-api-update-for-secondary-calendars-create-workspace-flows-custom-steps-and-more-915",
-    "pubDate": "Tue, 11 Nov 2025 12:45:34 +0000",
+    "title": "Search on steroids: Using regex in VS Code",
+    "link": "https://dev.to/satejbidvai/search-on-steroids-using-regex-in-vs-code-1698",
+    "pubDate": "Tue, 11 Nov 2025 18:21:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Episode 24: Welcome to the Google Workspace Developer News! Find out what's new on the Google Workspace Platform.\n0:00 Intro\nhttps://goo.gle/3JFQthr\nhttps://goo.gle/43My3lT \nhttps://goo.gle/43sBQEU \nh"
+    "contentSnippet": "We've all used Command + Shift + F  to search across our codebases. There's a hidden gem here which helps us supercharge our search queries — regex (Regular Expression) search:\n\nLet's take a look at h"
   },
   {
-    "title": "Setup Dozzle with Auth on Coolify",
-    "link": "https://dev.to/adamghill/setup-dozzle-with-auth-on-coolify-cof",
-    "pubDate": "Tue, 11 Nov 2025 12:37:55 +0000",
+    "title": "Static Website Deployment on AWS Amplify via GitHub (Entry-Level Guide)",
+    "link": "https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj",
+    "pubDate": "Tue, 11 Nov 2025 18:10:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I have been using Coolify for over a year to self-host on Hetzner and I am a big fan. However, I wanted a lightweight way to see how all of my websites were performing.\nI had used Dozzle in the past a"
+    "contentSnippet": "There are many ways to deploy a website using different technology, but doing it with AWS services takes your skills and game to the next level. One a beginner developer can gauge their learnings on i"
   },
   {
-    "title": "Next.js 16: What's New? Turbopack, React Compiler & Key Features",
-    "link": "https://dev.to/vrushikvisavadiya/nextjs-16-whats-new-turbopack-react-compiler-key-features-kj4",
-    "pubDate": "Tue, 11 Nov 2025 12:19:17 +0000",
+    "title": "From Laravel Factories to Framework-Agnostic: Building the Data Factory Package",
+    "link": "https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib",
+    "pubDate": "Tue, 11 Nov 2025 18:06:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Vercel team has kept its annual October tradition alive and just dropped Next.js 16. While previous versions (like 13 and 14) were about introducing the new App Router and Server Actions, this rel"
+    "contentSnippet": "Part 2 of the Laravel Factory Patterns series  \nPart 1: Stop Writing Arrays in Your Tests\nPart 2: Building the Data Factory Package (you are here)\nOriginally published on barrento.dev\nAfter my last ar"
   },
   {
-    "title": "NPR Music: Nova Twins: Tiny Desk Concert",
-    "link": "https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-1d70",
-    "pubDate": "Tue, 11 Nov 2025 12:08:31 +0000",
+    "title": "WRITE-UP N1CTF 2025",
+    "link": "https://dev.to/null001/write-up-n1ctf-2025-j7e",
+    "pubDate": "Tue, 11 Nov 2025 18:04:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nova Twins storm into the Tiny Desk with a face-melting combo of hip-hop beats, mega-distorted bass and raspy yowls. London duo Georgia South and Amy Love kick off with the defiant “Cleopatra,” shred "
+    "contentSnippet": "[Web]N1SAML\n\n\nThis is the challenge I had spend 90% of time to do but I didn’t solve this challenge on time, so sad.\n\nhttps://exp10it.io/ server.\n\n\nhealthcheck service’s port to internet. To reach the"
   },
   {
-    "title": "Keycloak, WebSockets & Symfony: Solving Real-Time Auth Without Sacrificing Performance",
-    "link": "https://dev.to/mattleads/keycloak-websockets-symfony-solving-real-time-auth-without-sacrificing-performance-2ahm",
-    "pubDate": "Tue, 11 Nov 2025 12:06:46 +0000",
+    "title": "Security in 2026 Starts Now: Preparing for the Next Wave of Digital Threats",
+    "link": "https://dev.to/synergy_shock/security-in-2026-starts-now-preparing-for-the-next-wave-of-digital-threats-eop",
+    "pubDate": "Tue, 11 Nov 2025 17:57:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Greetings, fellow developers. I’ve seen teams master the art of stateless authentication, building beautiful, scalable REST APIs. But the moment the business asks for a real-time feature — a live chat"
+    "contentSnippet": "As we approach the final stretch of 2025, one reality is becoming impossible to ignore: 2026 will be a defining year for cybersecurity and data protection.\nThe systems we build today don’t just store "
   },
   {
-    "title": "So true!",
-    "link": "https://dev.to/agunechemba/so-true-gkf",
-    "pubDate": "Tue, 11 Nov 2025 12:06:08 +0000",
+    "title": "Cursors & Triggers in DBMS",
+    "link": "https://dev.to/raksh__e858eea76f8f29ed/cursors-triggers-in-dbms-50pe",
+    "pubDate": "Tue, 11 Nov 2025 17:56:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why CSS Is So Hard for Generative AIs to Understand?\nASafaeirad ・ Nov 9\n#llm\n        #css\n        #ai\n        #vibecoding"
+    "contentSnippet": "dbms #powerautomate #cursors\n\n\n\n  \n  \n  data\n\n\nIntroduction\nIn this blog, we will explore:\nWhat Cursors are, why we need them, and how to use them.\nA Cursor in DBMS is a database object that allows us"
   },
   {
-    "title": "Rebuilding Grep in Go: What I Learned About Unix Text Processing",
-    "link": "https://dev.to/uthman_dev/rebuilding-grep-in-go-what-i-learned-about-unix-text-processing-1oc",
-    "pubDate": "Tue, 11 Nov 2025 12:04:59 +0000",
+    "title": "Making a Read-Only Signal Editable in Your Component",
+    "link": "https://dev.to/kobi2294/making-a-read-only-signal-editable-in-your-component-22c8",
+    "pubDate": "Tue, 11 Nov 2025 17:55:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I use grep every day but had no idea how it works. So I built a basic version in Go.\nNot to replace grep. Just to stop being the guy who pipes to grep without understanding what's actually happening.\n"
+    "contentSnippet": "Sometimes you inject a signal from a service, and it’s read-only, but you still want the user to edit it inside your component.\n@Component({\n  selector: 'user-editor',\n  template: `\n    <input [(ngMod"
   },
   {
-    "title": "Day 1: Introduction to FinOps – What is FinOps and why it matters",
-    "link": "https://dev.to/ibbus/day-1-introduction-to-finops-what-is-finops-and-why-it-matters-1nde",
-    "pubDate": "Tue, 11 Nov 2025 12:03:35 +0000",
+    "title": "Architectural decisions",
+    "link": "https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh",
+    "pubDate": "Tue, 11 Nov 2025 17:45:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you can’t see your cloud spend, you can’t manage it\nFinOps as a discipline and cultural practice still in development for cloud financial management. It enables organizations to gain the maximum bu"
+    "contentSnippet": "I recently attended GOTO conference in Copenhagen (https://gotocph.com/2025, you can find the slides for some of the presentations there) and would like to share some of the interesting topics.\nProble"
   },
   {
-    "title": "Reverse-Engineering Vercel: The Go-to-Market Playbook That Won the Frontend",
-    "link": "https://dev.to/michaelaiglobal/reverse-engineering-vercel-the-go-to-market-playbook-that-won-the-frontend-3n5o",
-    "pubDate": "Tue, 11 Nov 2025 12:01:32 +0000",
+    "title": "Upgrading Expo to 54 - and making Cursor give the latest instructions",
+    "link": "https://dev.to/cathylai/upgrading-expo-to-54-and-making-cursor-give-the-latest-instructions-3nj3",
+    "pubDate": "Tue, 11 Nov 2025 17:44:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Vercel, the company behind Next.js, isn't just a hosting platform; it's a masterclass in modern B2B go-to-market (GTM) strategy. They've built a multi-billion dollar valuation by creating tools develo"
+    "contentSnippet": "TL;DR (commands)\n\n\n\n\n\n# In your project root\nnpm install expo@^54.0.0\nnpx expo install --fix\nnpx expo-doctor\nnpx expo start -c\n\nThe local CLI no longer supports older commands like expo upgrade and ex"
   },
   {
-    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-5acf",
-    "pubDate": "Tue, 11 Nov 2025 12:00:39 +0000",
+    "title": "Acid Properties in SQL",
+    "link": "https://dev.to/raksh__e858eea76f8f29ed/acid-properties-in-sql-3gn8",
+    "pubDate": "Tue, 11 Nov 2025 17:43:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "‘Snake Eyes’ Deep Dive\n\nBill Simmons, Sean Fennessey and Van Lathan (self-dubbed the “kings of the sewer”) reunite to revisit Brian De Palma’s 1998 thriller Snake Eyes, starring Nic Cage as a corrupt "
+    "contentSnippet": "Understanding ACID Properties in SQL Transactions\nIntro\nThat’s where ACID properties come in. They ensure our transactions are reliable, safe, and consistent, even when things go wrong.\nIn this blog, "
+  },
+  {
+    "title": "さくらのクラウド、コンテナをサーバレスで実行する「AppRun」を正式サービスとして提供開始へ",
+    "link": "https://www.publickey1.jp/blog/25/apprun_1.html",
+    "pubDate": "2025-11-11T15:54:09.000Z",
+    "source": "Publickey",
+    "contentSnippet": "さくらインターネットは、同社のクラウドサービス「さくらのクラウド」で今年（2025年）2月から製品トライアルを行ってきた「AppRun」を、12月9日から正式サービスとして提供開始すると発表しました。 AppRunは、コンテナ化されたアプリケーションを簡単にデプロイし、自動的にスケーリングを行うコンテナ実行基盤を提供するサービスです。Amazon Web Services（AWS）のApp Run"
+  },
+  {
+    "title": "オープンソースAIを日本のAI政策の基盤に。オープンソース・グループ・ジャパンが、開かれたAI社会とデジタル主権を構築するための提言を公開",
+    "link": "https://www.publickey1.jp/blog/25/aiaiai.html",
+    "pubDate": "2025-11-11T15:53:02.000Z",
+    "source": "Publickey",
+    "contentSnippet": "一般社団法人オープンソース・グループ・ジャパン（OSG-JP）は、日本がAI時代における国際競争力を確保し、国民から信頼されるAI社会を構築するための具体的な3つの提言「オープンソースAIを基盤とした開かれたAI社会とデジタル主権を構築するための公開提言 ― 米中依存のリスクを低減し、透明性・自律性・競争力あるAI基盤を構築 ―」を公開しました。 同団体は日本国内におけるオープンソースの普及と発展"
+  },
+  {
+    "title": "2025年の個人開発：爆速で「パンダ特化型SNS」を作った技術スタック全公開",
+    "link": "https://zenn.dev/kinnkinn/articles/622a65a2a76dce",
+    "pubDate": "Tue, 11 Nov 2025 03:21:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事では、私が個人開発でリリースしたパンダ情報特化型アグリゲーションサービス「PanDo (パンドゥ)」について、そのアーキテクチャから実装のこだわりまでを紹介します。\n\nhttps://n-scroller.vercel.app\n\n 導入：なぜ今、パンダなのか？\n開発動機は、パンダに関する情報（動物園の公式サイト、ニュース、SNS）がWeb上に散在しており、それらを一元的に追いかけるのが困難"
+  },
+  {
+    "title": "Kaggleコンペ紹介：MAP - Charting Student Math Misunderstandings",
+    "link": "https://zenn.dev/mkj/articles/1f374627377474",
+    "pubDate": "Tue, 11 Nov 2025 02:50:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは、松尾研究所 データサイエンティストの力岡です。\n今回は、Kaggleで開催された 「MAP - Charting Student Math Misunderstandings」 コンペに参加し、金メダルを獲得することができました。本記事では、コンペの概要と上位解法、私達の取り組みについて紹介します。\nhttps://matsuo-institute.com/2025/10/8"
+  },
+  {
+    "title": "Perlの今",
+    "link": "https://zenn.dev/kfly8/books/learning-perl-today",
+    "pubDate": "Tue, 11 Nov 2025 02:37:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "令和最新のPerlについて学べる本（になる予定）です"
   },
   {
     "title": "社内でAIハッカソン(AI開発合宿)を開催した話",
@@ -77,11 +112,25 @@
     "contentSnippet": "2025年9月に、HOKUTOの開発メンバー(エンジニア・QAエンジニア・デザイナー)で開発合宿を行ってきました。\nHOKUTOではフルリモートでの働き方となっており、メンバーでオフラインで集まって何かを行うというのは実は珍しかったりします。\n開発合宿では毎年テーマを決めて取り組む形にしています。今年は 「生成AIを活用して普段の開発・作業を楽にしてくれるかもしれないツールを作る」というテーマ の"
   },
   {
+    "title": "RAGの検索結果を並び替えるだけで高速化する手法",
+    "link": "https://zenn.dev/knowledgesense/articles/687dce3199d11f",
+    "pubDate": "Tue, 11 Nov 2025 00:44:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、検索結果を効率的にキャッシュすることで、Agentで利用するRAGの速度を高速化することのできる手法「RAGBoost」について紹介します。\nhttps://arxiv.org/pdf/2511.03475\n\n\n サマリー\nRAGは検索とLLMを組み合わせることで、チャット形式で情報を検索できる便利な手法です。一方で、検索にかかる時"
+  },
+  {
     "title": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと",
     "link": "https://qiita.com/segur/items/9b62c7976bb21e822c72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T22:58:59.000Z",
     "source": "Qiita",
     "contentSnippet": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと\n私は生粋のプログラマーです。\n大学では C / C++ / C# を学び、社会人になってからは Java、JavaScript、PHP、Python、Go、TypeScrip..."
+  },
+  {
+    "title": "育休中の深夜に作った、オムツ用ゴミ袋残量センサー",
+    "link": "https://zenn.dev/zaico/articles/3b0e97e757adbc",
+    "pubDate": "Mon, 10 Nov 2025 22:57:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "初めての育児とゴミ出し問題→からのラピッドプロトタイピング\n↓一夜城のゴミ袋残量センサー\n\nやあみんな！株式会社ZAICO 新規事業開発室の @tarouimo だよ！\nいきなり私事ですが、息子が生まれて育休を取得して、はじめての育児に奮闘してました。\nところで私の家ではごみ収集場がご近所様と共同になっています。燃やすゴミの日は大量のオムツを捨てるのですが、、、ある日、カラス被害で我が家のゴミ袋が"
   },
   {
     "title": "GitHub、リリース後のバイナリなどアセットを変更不可にする「Immutable Release」（変更不可リリース）機能を正式リリース",
@@ -105,18 +154,18 @@
     "contentSnippet": "Claude Codeの登場で学びの時間が減った\nClaude Codeが便利すぎて、もう手放せません。\nただし、Claude Codeを使えば使うほど「自分でコーディングする機会」は激減しました。\nそれが悪いとは断言しづらいですが、一つ言えるのは「私のような中途半端にプログラミングを学んだ人間にとって勉強の機会が減ることは致命的」ということです。\nClaude Codeの/output-styl"
   },
   {
+    "title": "C# で Rust する",
+    "link": "https://zenn.dev/sator_imaging/articles/e6428d4f1c8158",
+    "pubDate": "Mon, 10 Nov 2025 11:18:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "まずは Rust の所有権について理解する\nRust が初めて触るプログラミング言語でない場合、所有権システムは完全に忘れたほうが良いです。プログラミング言語としての根本は他の言語と変わらないので Rust の特殊性のみ抑えればおｋです。\n\n所有権： インスタンス（実体）のこと\n借用： ポインターのこと\nRust の特殊性\n\n✅ 全ての操作が「移動渡し（実体を移動する）」（std::move）\n\n"
+  },
+  {
     "title": "決済実装は怖くない！テストカードという存在",
     "link": "https://qiita.com/inukai-masanori/items/7809cc7b63b37f958880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T09:47:02.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n「決済機能の実装」と聞くと、ちょっと身構えてしまいませんか？\n私は下記の理由でできれば触りたくないと思っています。\n\nお金関係でミスしたら怖い\nセキュリティが複雑そう\nテストが大変そう\n\nとはいえ、「触りたくない」と言って許されるわけではないので、私は以前、..."
-  },
-  {
-    "title": "Amazon Bedrock AgentCore Observability では一体何が行われているのか",
-    "link": "https://zenn.dev/aws_japan/articles/ae842ddb2f9d0e",
-    "pubDate": "Mon, 10 Nov 2025 05:21:27 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！ AWS でソリューションアーキテクトをしている Onishi です。\n本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 11 日目です。\n!\n📚 第 10 日目の記事はこちら！\n\nCognitoとAgentCore GatewayでMCPサーバーにOAuth認証をつけよう\nAma"
   },
   {
     "title": "【CSS】要素がはみ出る！そんな時はまずmin-widthを0にする",
@@ -147,32 +196,11 @@
     "contentSnippet": "はじめに\n株式会社SODAでバックエンドのテックリードをしている仲宗根です。\nSODAは、SNKRDUNKというスニーカーやアパレル、トレーディングカード(トレカ)のフリマサービスを運営しています。\n本記事では、SNKRDUNKにおける機械学習プロジェクトの一例として、ピックアップリンクのパーソナライズを紹介します。この取り組みを通して、SNKRDUNKの開発に興味を持っていただければ幸いです。\n"
   },
   {
-    "title": "天下一キーボードわいわい会 Vol.9 見聞録 — 「共鳴層にて」",
-    "link": "https://zenn.dev/te9no/articles/6b358b34c878d2",
-    "pubDate": "Mon, 10 Nov 2025 00:34:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "天下一キーボードわいわい会 Vol.9 見聞録 — 「共鳴層にて」\nObservation Log 04 / Realm of Split IV : Event Node “Tenkey#9”\n\nDate: 2025-11-08\nLocation: Human Convention Zone - Tenkey (天キー)\nReporter: teporz / Synapse Observer Un"
-  },
-  {
     "title": "ChatGPTの「良い人フィルター」を外して本音を引き出してみた",
     "link": "https://qiita.com/nolanlover0527/items/83480966029c70ad14d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-09T23:43:50.000Z",
     "source": "Qiita",
     "contentSnippet": "ChatGPTは良い人すぎる?\n自分が作ったコードやテキストの問題点をChatGPTに洗い出してほしいのに、オブラートに包んだありきたりな回答が返ってきた経験はありませんか?\nこのように、AIの 「良い人フィルター」 とは、ユーザーを過度に肯定し、批判的な意見を控え..."
-  },
-  {
-    "title": "技術ブログを書きながら、居場所を探していた話",
-    "link": "https://zenn.dev/akari1106/articles/567b0aee65fb8b",
-    "pubDate": "Sun, 09 Nov 2025 17:48:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n技術ブログ、みなさん書いてますか？ROM専（読む専門）派、という方も多いと思います。\nアウトプットってのは時代が進んでもまだまだ少数派です。\nかくいう私は、Zennやdev.toと今はインターネットの片隅にお邪魔する形で書いています。\n技術ブログを書き始める前、私はずっとローカルのOneNoteにちんたら書いていました。\n日記のようなものに近いレベルから、謎のメモと謎のスクショだけのもの"
-  },
-  {
-    "title": "小ネタ：黒電話のWeb Componentをつくってみたよ",
-    "link": "https://zenn.dev/lecto/articles/ee345c79c269eb",
-    "pubDate": "Sun, 09 Nov 2025 15:20:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n先日、電話番号の入力UIについて雑談していたときのこと。\n「最近の入力フォーム、テンキーとか色々工夫されてるよね」\n「そういえば昔は黒電話で番号回してたんだよな...」\n「今の若い人って黒電話使えるのかな・・・？」\nこの何気ない一言でとりあえず作ってみました！\n確かに、昭和生まれの私には馴染み深い黒電話のロータリーダイヤル。\nでも、平成・令和生まれの人たちにとっては「見たことはあるけど使"
   },
   {
     "title": "GeminiにPDFやWord、Excel、テキストファイルなどの検索機能を組み込める「File Search in Gemini API」提供開始、フルマネージドなRAGシステムを提供",
@@ -187,20 +215,6 @@
     "pubDate": "2025-11-09T15:01:28.000Z",
     "source": "Publickey",
     "contentSnippet": "ITエンジニアが、ITエンジニアに読んでほしい技術書・ビジネス書を選ぶイベント「ITエンジニア本大賞 2026」の投票が11月6日から始まりました。 　ITエンジニア本大賞 2026　　　　投票スタート！　　ITエンジニアに読んでほしい本を選ぶイベント、ITエンジニア本大賞が今年も始まりました。投票できる部門は、●技術書部門●ビジネス書部門投票できる期間は、●12/7までぜひおすすめ本に投票を！h"
-  },
-  {
-    "title": "stateを最小限に捉えることで、Reactコンポーネントを改善する",
-    "link": "https://zenn.dev/mameshiba_274/articles/3d6910cb2decba",
-    "pubDate": "Sun, 09 Nov 2025 15:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。本稿では、SPAアプリケーションにおいて、Reactコンポーネントをリファクタリングしていた際の気づきを紹介します。（何番煎じかは分かりませんが...）では、早速みていきます。\n\n 例：問題のあるReactコンポーネント\nAPIで取得してきた画像データを表示するページを作成しており、次のような<Gallery>コンポーネントがあるとします。親コンポーネントからrawImagesをpro"
-  },
-  {
-    "title": "WASM×Web Worker×AudioWorkletで実現するリアルタイム音声生成",
-    "link": "https://zenn.dev/rerrah/articles/9431cefb02ccb7",
-    "pubDate": "Sun, 09 Nov 2025 13:00:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "私が開発している音色共有サイトOPNShareに音色のプレビュー機能を追加しました．これは音色ページに表示されている鍵盤を押すと，その音高で音色が鳴る機能です．\nhttps://x.com/RerrahKRynn/status/1981723920760750514\n音色のプレビュー機能ではリアルタイムで音声波形の生成・再生を行っています．これはWebAssembly (WASM)やWeb Wor"
   },
   {
     "title": "【初心者完全版】0からReact開発して基礎をマスターできる最強チュートリアル 音楽生成アプリ編【図解解説】",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-04T17:56:46.000Z",
     "source": "Publickey",
     "contentSnippet": "企業のデジタル基盤を支えるだけでなく、ビジネスの成長を牽引する存在である情報システム部門（情シス）。その「情シスが創るビジネスの明日」をテーマにしたイベント「BTCONJP 2025 情シスカンファレンス」が、今年も11月15日土曜日にLINEヤフー株式会社（東京ガーデンテラス紀尾井町 紀尾井タワー17F）で開催されます。 主催するBTCONJPは、1万5000ユーザーを擁する情シスコミュニティ「"
-  },
-  {
-    "title": "OpenAIやマイクロソフト、メタ、シスコ、AMDらがイーサネットをAI向けに広帯域かつ低遅延にする「Ethernet for Scale-Up Networking 」（ESUN）プロジェクト開始",
-    "link": "https://www.publickey1.jp/blog/25/openaiamdaiethernet_for_scale-up_networking_esun.html",
-    "pubDate": "2025-11-04T15:18:18.000Z",
-    "source": "Publickey",
-    "contentSnippet": "生成AIの急速な普及と成長によって、データセンターにおける生成AIの学習や推論処理を高速かつ効率化するために、より広帯域で低遅延な高密度ネットワークへの要求が高まっています。 こうした用途のために、Compute Express Link（CXL）やNVidiaのNVlinkなどいくつかのソリューションは市場に投入されているものの、これらは多くのベンダが求めるようなオープンで相互運入可能なニーズに"
-  },
-  {
-    "title": "サイバーエージェントがAIアプリ「Dify」のベクトルDBとしてTiDBを選択。AIアプリの全社導入に耐えうる基盤を構築［PR］",
-    "link": "https://www.publickey1.jp/blog/25/aidifydbtidbaipr.html",
-    "pubDate": "2025-11-03T16:42:59.000Z",
-    "source": "Publickey",
-    "contentSnippet": "生成AIを活用した業務の効率化が多くの企業にとって課題となりつつある中で、サイバーエージェントはITエンジニアではない従業員でも業務に役立つAIアプリケーションを作れる「Dify」と呼ばれるノーコードツールと、Difyで利用されるベクトル検索の基盤としてTiDBを採用し、企業全体で月間3000時間もの業務削減を実現したことを明らかにしました。 同社はなぜ社内の生成AI活用にDifyを選択したのか、"
   }
 ]

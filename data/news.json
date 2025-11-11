@@ -1,73 +1,73 @@
 [
   {
-    "title": "How to create QR based 2fa system in Node.js (step-by-step)",
-    "link": "https://dev.to/jahongir2007/how-to-create-qr-based-2fa-system-in-nodejs-step-by-step-14a6",
-    "pubDate": "Mon, 10 Nov 2025 18:19:30 +0000",
+    "title": "Ringer Movies: ‘Predator: Badlands’ and the 'Predator' Movie Rankings",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-2acp",
+    "pubDate": "Tue, 11 Nov 2025 02:00:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Two-factor authentication (2FA) adds an extra layer of security to your apps. In this guide, we’ll use express and auth-verify, a Node.js library, to implement TOTP (Time-based One-Time Password) comp"
+    "contentSnippet": "**Sean Fennessey and Chris Ryan kick things off with hot movie news—like Ryan Reynolds remaking Thunderbolt and Lightfoot for Amazon MGM—before diving into Dan Trachtenberg’s Predator: Badlands. They "
   },
   {
-    "title": "Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers",
-    "link": "https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-2p8j",
-    "pubDate": "Mon, 10 Nov 2025 18:18:06 +0000",
+    "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-8em",
+    "pubDate": "Tue, 11 Nov 2025 02:00:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What If Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nImagine a world where your AI application not only provides value to users but also generates revenue in two distinct ways. The"
+    "contentSnippet": "Predators (2010) is a breath of fresh air for the franchise after a lackluster ’90 sequel and two underwhelming Alien vs. Predator movies. Mr Sunday Movies’ Caravan of Garbage review celebrates its re"
   },
   {
-    "title": "Effective Prompting for Generative Vision Models",
-    "link": "https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc",
-    "pubDate": "Mon, 10 Nov 2025 18:14:43 +0000",
+    "title": "Introduction to Emma Cloud: Unlock Multi-Cloud Operations",
+    "link": "https://dev.to/careerbytecode/introduction-to-emma-cloud-unlock-multi-cloud-operations-2m77",
+    "pubDate": "Tue, 11 Nov 2025 01:58:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "It’s likely that you’ve used a vision model to generate an image recently, but ended up with somewhat questionable results. You might have blamed this on the model not working correctly (and maybe tha"
+    "contentSnippet": "Table of Contents\n\n\n\nIntroduction\nWhat is emma?\nKey Features & Capabilities\nUse Case: Multi-Cloud Kubernetes Provisioning\nUse Case: FinOps & Cost Governance\nIntegrations & Tooling\nBest Practices & Tip"
   },
   {
-    "title": "You Can't Unbake a Cake (or Why Data Isolation in the Age of AI is BASICALLY Impossible)",
-    "link": "https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg",
-    "pubDate": "Mon, 10 Nov 2025 18:10:19 +0000",
+    "title": "How to Keep LLM Outputs Predictable Using Pydantic Validation",
+    "link": "https://dev.to/manishmshiva/how-to-keep-llm-outputs-predictable-using-pydantic-validation-2dfe",
+    "pubDate": "Tue, 11 Nov 2025 01:58:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Legislators across the globe want your data removed from AI models. The EU's \"right to be forgotten\" under GDPR Article 17, California's CCPA, a dozen other privacy frameworks—all built on the assumpt"
+    "contentSnippet": "Tired of LLMs breaking your JSON or skipping fields? Learn how Pydantic can turn messy AI outputs into clean, predictable data every single time.\nLarge language models are powerful, but they are also "
   },
   {
-    "title": "Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels",
-    "link": "https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf",
-    "pubDate": "Mon, 10 Nov 2025 18:09:16 +0000",
+    "title": "THE HOMELAB EXPERIENCE 1 : NAS AND DOCKER",
+    "link": "https://dev.to/rohanraj/the-homelab-experience-1-nas-and-docker-1n1g",
+    "pubDate": "Tue, 11 Nov 2025 01:55:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello, I'm Maneshwar. I'm working on FreeDevTools online currently building *one place for all dev tools, cheat codes, and TLDRs* — a free, open-source hub where developers can quickly find and use to"
+    "contentSnippet": "Alright, this is my homelab progress tracker. I just wanted to explore homelabbing to get to know more about servers, networking and to replicate many other useful tools used in the real world. There "
   },
   {
-    "title": "The 9 Best Web Hosting Deals for 2025: Black Friday Discounts Are Live",
-    "link": "https://dev.to/sanu_kumar_377c4dc19b88a1/the-9-best-web-hosting-deals-for-2025-black-friday-discounts-are-live-188f",
-    "pubDate": "Mon, 10 Nov 2025 18:06:22 +0000",
+    "title": "Sorting Algorithms Part 3: Linear-Time Sorting, Counting, Radix, and Bucket",
+    "link": "https://dev.to/picciniuscodes/sorting-algorithms-part-3-linear-time-sorting-counting-radix-and-bucket-co",
+    "pubDate": "Tue, 11 Nov 2025 01:48:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Are you ready to launch a new website or looking to switch providers for better performance and savings? The annual Black Friday and Cyber Monday sales period is the absolute best time to secure top-t"
+    "contentSnippet": "1. Introduction. The hook of today\n\n\nIn Part 2 we reached n log n time with divide and conquer. Today we go even further. When the data satisfies certain numeric assumptions, we can sort in time that "
   },
   {
-    "title": "My Learnings from Day 1a & 1b of the Google AI Agents Intensive",
-    "link": "https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf",
-    "pubDate": "Mon, 10 Nov 2025 18:04:11 +0000",
+    "title": "LoRaWAN Temperature and Humidity Monitoring Sensors for GSP Compliance in Pharmaceutical Storage and Transportation",
+    "link": "https://dev.to/manthink/lorawan-temperature-and-humidity-monitoring-sensors-for-gsp-compliance-in-pharmaceutical-storage-2c35",
+    "pubDate": "Tue, 11 Nov 2025 01:47:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nHi everyone! \nDay 1a – Agent Basics\nLearned what an AI agent is and how it can automate reasoning and decision-making.\nTried my first simple agent using prompts and instructions.\nLearned "
+    "contentSnippet": "Temperature and humidity monitoring are essential to pharmaceutical quality throughout the entire supply chain. China’s Good Supply Practice (GSP) requires continuous data logging, precise accuracy, r"
   },
   {
-    "title": "The Great Multimedia Steganography Debugging Saga: When Three Bugs Walk Into a Bar (And One Was Pretending to Be Lossless)",
-    "link": "https://dev.to/rolan_r_n_r/the-great-multimedia-steganography-debugging-saga-when-three-bugs-walk-into-a-bar-and-one-was-3kb9",
-    "pubDate": "Mon, 10 Nov 2025 18:03:51 +0000",
+    "title": "All About the SFP-10G-ZR: Understanding the 1550nm 80km Optical Transceiver Module",
+    "link": "https://dev.to/lsolink/all-about-the-sfp-10g-zr-understanding-the-1550nm-80km-optical-transceiver-module-1nie",
+    "pubDate": "Tue, 11 Nov 2025 01:32:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When Your \"Lossless\" Codec Isn't Actually Lossless (A Debugging Story)\n\n\nSo there I was, feeling pretty good about life. My steganography app could hide files in images ✅, audio ✅, and video ✅. Life w"
+    "contentSnippet": "What is 10G-SFP-ZR Module?\n\n\n10G-SFP-ZR is a kind of optical module that supports 10Gbps rate and transmission distance of 80KM, which can send data to you from 80KM away, and the delay of data transm"
   },
   {
-    "title": "The Domestic Turn of Information Warfare: When Democracies Target Their Own Minds",
-    "link": "https://dev.to/mrvenom17/the-domestic-turn-of-information-warfare-when-democracies-target-their-own-minds-2gbd",
-    "pubDate": "Mon, 10 Nov 2025 18:01:59 +0000",
+    "title": "Precisamos falar sobre o Hugging Face: o GitHub da Inteligência Artificial",
+    "link": "https://dev.to/carineneris/precisamos-falar-sobre-o-hugging-face-o-github-da-inteligencia-artificial-7cn",
+    "pubDate": "Tue, 11 Nov 2025 01:27:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "By Alay Sharma\nThe 20th century taught nations to fear bombs and borders.\nThe Paradox\nThe paradox is stark:\nFrom Propaganda to Persuasion Architecture\nThe Dual Use Dilemma\nThe Cognitive Erosion of Fre"
+    "contentSnippet": "Nos últimos anos, o termo Hugging Face começou a aparecer em quase todas as conversas sobre inteligência artificial.\nMas afinal, o que é o Hugging Face?\nGitHub da IA?\nNeste artigo, você vai entender d"
   },
   {
-    "title": "Hacktoberfest 2025",
-    "link": "https://dev.to/whyang9701/hacktoberfest-2025-n3k",
-    "pubDate": "Mon, 10 Nov 2025 18:01:04 +0000",
+    "title": "Sorting Algorithms Part 2: Divide and Conquer — Merge, Quick, and Heap Sort",
+    "link": "https://dev.to/picciniuscodes/sorting-algorithms-part-2-divide-and-conquer-merge-quick-and-heap-sort-4dkk",
+    "pubDate": "Tue, 11 Nov 2025 01:21:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hacktoberfest is a yearly event by DigitalOcean that supports the open source community. Many things we use every day rely on open source software. For example, Android and cloud servers use Linux, wh"
+    "contentSnippet": "1. Introduction. The hook of today\n\n\nIn Part 1, we saw the world of O(n²) sorts: simple, intuitive, but inefficient for large data. Now we step into a higher league: algorithms that use divide and con"
   },
   {
     "title": "GitHub、リリース後のバイナリなどアセットを変更不可にする「Immutable Release」（変更不可リリース）機能を正式リリース",
@@ -84,6 +84,20 @@
     "contentSnippet": "JavaScriptフレームワーク「Next.js」などの開発元で、Webアプリケーションプラットフォームの「Vercel」を提供しているVercelは、同社のサーバレスコンピューティング基盤である「Vercel Functions」のランタイムとしてBunがパブリックベータで利用可能になったことを明らかにしました。 Vercelは、静的なWebサイトはもちろん、JavaScriptのコードをVe"
   },
   {
+    "title": "Amazon Bedrock AgentCore Observability では一体何が行われているのか",
+    "link": "https://zenn.dev/aws_japan/articles/ae842ddb2f9d0e",
+    "pubDate": "Mon, 10 Nov 2025 05:21:27 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！ AWS でソリューションアーキテクトをしている Onishi です。\n本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 11 日目です。\n!\n📚 第 10 日目の記事はこちら！\n\nCognitoとAgentCore GatewayでMCPサーバーにOAuth認証をつけよう\nAma"
+  },
+  {
+    "title": "チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―",
+    "link": "https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4",
+    "pubDate": "Mon, 10 Nov 2025 02:31:13 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nアジャイル開発では「チームワーク」が成果の鍵を握ります。\nしかし、チームの中に高い技術スキルを持っていても、協調性に欠けるメンバーがいると、プロジェクトは一気に難航します。\nそうした存在は「ブリリアントジャーク（Brilliant Jerk）」と呼ばれます。\n私自身、スクラムマスターとして、まさにそのような状況に直面したことがあります。\n本記事では、そのときの経験と、そこから得た教訓を紹"
+  },
+  {
     "title": "Claude CodeでBacklogのチケットから自動実装する仕組みが快適すぎた",
     "link": "https://qiita.com/mu7kata/items/4b42054ee1b3a96d6f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T01:59:24.000Z",
@@ -98,11 +112,25 @@
     "contentSnippet": "はじめに\n株式会社SODAでバックエンドのテックリードをしている仲宗根です。\nSODAは、SNKRDUNKというスニーカーやアパレル、トレーディングカード(トレカ)のフリマサービスを運営しています。\n本記事では、SNKRDUNKにおける機械学習プロジェクトの一例として、ピックアップリンクのパーソナライズを紹介します。この取り組みを通して、SNKRDUNKの開発に興味を持っていただければ幸いです。\n"
   },
   {
+    "title": "AIエージェントへの指示、実際どうしてる？",
+    "link": "https://zenn.dev/rescuenow/articles/3b82a651794d4c",
+    "pubDate": "Mon, 10 Nov 2025 01:45:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "先日、社内のエンジニアとの雑談で「hosoyさんはClaude Codeを使うときにどんなプロンプト書いてますか？DDLとか渡してますか？」と聞かれました。AIエージェントを活用するための記事はたくさんありますが、やはり気になるのは、「実際みんなどんな感じでAIエージェントに指示を出してタスクを進めてるんだろう？？コンテキストとかプロンプトが大事なのは分かってるけど、具体例を見せてほしい！」ってい"
+  },
+  {
     "title": "天下一キーボードわいわい会 Vol.9 見聞録 — 「共鳴層にて」",
     "link": "https://zenn.dev/te9no/articles/6b358b34c878d2",
     "pubDate": "Mon, 10 Nov 2025 00:34:31 GMT",
     "source": "Zenn",
     "contentSnippet": "天下一キーボードわいわい会 Vol.9 見聞録 — 「共鳴層にて」\nObservation Log 04 / Realm of Split IV : Event Node “Tenkey#9”\n\nDate: 2025-11-08\nLocation: Human Convention Zone - Tenkey (天キー)\nReporter: teporz / Synapse Observer Un"
+  },
+  {
+    "title": "【ポケモン×Java】知識編 Scanner#4 〜改行問題の正体と対策〜",
+    "link": "https://qiita.com/hitomin_poke/items/c592fda37c7356c39798?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T22:20:27.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nScannerを使っていると、よくあるつまずきがこの 改行問題 です。\n\nnextInt() のあとに nextLine() を呼んだら、空っぽが返ってきた…なぜ？\n\n今日は「なにが起きてるのか」をやさしく見て、2つの回避策を身につけます。\n\n今日のゴール\n\n..."
   },
   {
     "title": "技術ブログを書きながら、居場所を探していた話",
@@ -140,20 +168,6 @@
     "contentSnippet": "私が開発している音色共有サイトOPNShareに音色のプレビュー機能を追加しました．これは音色ページに表示されている鍵盤を押すと，その音高で音色が鳴る機能です．\nhttps://x.com/RerrahKRynn/status/1981723920760750514\n音色のプレビュー機能ではリアルタイムで音声波形の生成・再生を行っています．これはWebAssembly (WASM)やWeb Wor"
   },
   {
-    "title": "【.NET】開発時に活用できる属性",
-    "link": "https://zenn.dev/prozolic/articles/e6c103b68667b0",
-    "pubDate": "Sun, 09 Nov 2025 12:32:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nアプリやライブラリ開発時に地味に使える属性について、よく使うものから意外に使えていなかったものなど備忘録代わりに記載します。\n\n デバッグを支援する属性\n\n DebuggerDisplayAttribute\nデバッガー変数ウィンドウのインスタンスの値表示をカスタマイズできる属性になります。引数に任意の文字列を設定したり、任意のフィールド、プロパティ、メソッドを設定することができるため、う"
-  },
-  {
-    "title": "AWS × e-Paperで作るデジタルアートフレーム",
-    "link": "https://zenn.dev/allstdft/articles/display_pipeline",
-    "pubDate": "Sun, 09 Nov 2025 12:24:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n「飾りたい写真がたくさんあるけどプリントしてたらきりがない」、「液晶ディスプレイにスライドショーで流したいけど、ディスプレイの耐久性や電気代が気になる」と思っていたところ、電子ペーパーを利用したデジタルアートフレームに行き着きました。\nSwitchBot や Samsung が商品化しており、これから一般家庭にも浸透していきそうです。\n自分はGoogleフォト連携など追加でやりたいことが"
-  },
-  {
     "title": "eslint-plugin-import-accessのpackageDirectoryオプション",
     "link": "https://zenn.dev/uhyo/articles/eslint-plugin-import-access-v310",
     "pubDate": "Sun, 09 Nov 2025 12:17:31 GMT",
@@ -168,32 +182,11 @@
     "contentSnippet": "はじめに\n\"use client\" や \"use server\" といったディレクティブは、React Server Components（RSC）の普及とともに広く使われるようになりました。一見すると、これらは JavaScript の標準機能である \"use strict\" のように見えますが、実際には根本的に異なるものです。\nTanStack の作者である Tanner Linsley 氏は"
   },
   {
-    "title": "Prospector ZMK Dongleのタッチ機能を使う",
-    "link": "https://zenn.dev/kot149/articles/prospector-touch",
-    "pubDate": "Sun, 09 Nov 2025 09:47:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "背景\nProspectorは、ZMKキーボードのレイヤー情報やperipheralのバッテリー残量などをディスプレイに表示できるデバイスです。\nhttps://github.com/carrefinho/prospector\n最近、これの組み立てキット/完成品がbeekeeb.jpで手軽に入手できるようになったので、これをきっかけに筆者もProspectorを入手しました。\nhttps://sho"
-  },
-  {
     "title": "【初心者完全版】0からReact開発して基礎をマスターできる最強チュートリアル 音楽生成アプリ編【図解解説】",
     "link": "https://qiita.com/Sicut_study/items/c0096caf21eefcd5c85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-09T08:06:32.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは、Watanabe jinです。\nReactがAIも相まって選択されるケースが増えて学びたいと思っている人も多いかと思います。\n私も過去にたくさんのReact教材をやりましたが、本当にやってよかったと思える教材はほぼありませんでした。\n最初に選ぶ教材..."
-  },
-  {
-    "title": "React学習ログ No.17",
-    "link": "https://qiita.com/maedaHARUYA/items/f264bc1b252bf3849e2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-09T07:58:27.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Chakra UI 学習メモ\n\n1. 目的\n\nChakra UI を使って、基本的なUI要素を実装する方法を整理\n\n2. 使ったコンポーネントとメモ\n\nA. Button\n\n何に使ったか:\n\nモーダルを開くトリガーとして\nフォームの送信ボタンとして\n\n使い方メモ..."
-  },
-  {
-    "title": "React学習ログ No.16",
-    "link": "https://qiita.com/maedaHARUYA/items/d8b9e2d467a3506ed134?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-09T07:51:14.000Z",
-    "source": "Qiita",
-    "contentSnippet": "React Router 学習メモ\n\n1. 目的\n\nReact Routerの基本的な使い方を理解する\nSPA（シングルページアプリケーション）における画面遷移の方法を学習\n\n2. インストールと基本設定\n\nインストール\nnpm install react-router..."
   },
   {
     "title": "Laravel v12.23.0でのArr::firstメソッドの挙動の変化",
@@ -215,6 +208,13 @@
     "pubDate": "2025-11-09T04:05:24.000Z",
     "source": "Qiita",
     "contentSnippet": "最近、とても面白い論文を読んだので共有します。複数の LLM を組み合わせるとき、テキストで対話させるのをやめて、モデル内部の表現（KV-Cache）を直接やり取りするというアイデアです。手法名は Cache-to-Cache（C2C）。テキスト生成の待ち時間を省きつつ、モ..."
+  },
+  {
+    "title": "【コピペでOK】Gemini RAGはこんなに簡単！寝てる間にGitHub Actionsが最新ドキュメントを学習するAIアシスタントを作ろう",
+    "link": "https://qiita.com/sinzy0925/items/01550618a78428c9cc50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-08T13:59:05.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Gemini API の File Search Tool は、RAGを超簡単に使えるようになる魔法です。\nすぐに使える、コードを以下からダウンロードしてください。\nhttps://github.com/sinzy0925/py_gemini-rag\n\nはじめに\n「公式ド..."
   },
   {
     "title": "2025年11月時点における世界最高速の向聴数計算アルゴリズムを開発・実装してしまった件について",

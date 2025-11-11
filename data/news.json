@@ -1,73 +1,73 @@
 [
   {
-    "title": "Ringer Movies: ‘Predator: Badlands’ and the 'Predator' Movie Rankings",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-predator-badlands-and-the-predator-movie-rankings-2acp",
-    "pubDate": "Tue, 11 Nov 2025 02:00:20 +0000",
+    "title": "Every Sunday, I Refactor Old Code",
+    "link": "https://dev.to/hadil/every-sunday-i-refactor-old-code-1g18",
+    "pubDate": "Tue, 11 Nov 2025 06:36:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "**Sean Fennessey and Chris Ryan kick things off with hot movie news—like Ryan Reynolds remaking Thunderbolt and Lightfoot for Amazon MGM—before diving into Dan Trachtenberg’s Predator: Badlands. They "
+    "contentSnippet": "Every Sunday, I Refactor Old Code and It’s the Smartest Habit I’ve Ever Built\nHadil Ben Abdallah ・ Nov 4\n#webdev\n        #css\n        #javascript\n        #python"
   },
   {
-    "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-8em",
-    "pubDate": "Tue, 11 Nov 2025 02:00:07 +0000",
+    "title": "Figma MCP vs Kombai: Which is Best for Figma-to-Code Automation?",
+    "link": "https://dev.to/aakash67/figma-mcp-vs-kombai-which-is-best-for-figma-to-code-automation-4c2l",
+    "pubDate": "Tue, 11 Nov 2025 06:35:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predators (2010) is a breath of fresh air for the franchise after a lackluster ’90 sequel and two underwhelming Alien vs. Predator movies. Mr Sunday Movies’ Caravan of Garbage review celebrates its re"
+    "contentSnippet": "Turning a Figma design into clean, working frontend code always takes more effort than it should.\nEven when the design system is solid, the translation from design to code is never automatic. It’s sti"
   },
   {
-    "title": "Introduction to Emma Cloud: Unlock Multi-Cloud Operations",
-    "link": "https://dev.to/careerbytecode/introduction-to-emma-cloud-unlock-multi-cloud-operations-2m77",
-    "pubDate": "Tue, 11 Nov 2025 01:58:22 +0000",
+    "title": "Redundant statistics slow down your Postgres? Try sampling in pg_stat_statements",
+    "link": "https://dev.to/tantorlabs/redundant-statistics-slow-down-your-postgres-try-sampling-in-pgstatstatements-44em",
+    "pubDate": "Tue, 11 Nov 2025 06:33:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Table of Contents\n\n\n\nIntroduction\nWhat is emma?\nKey Features & Capabilities\nUse Case: Multi-Cloud Kubernetes Provisioning\nUse Case: FinOps & Cost Governance\nIntegrations & Tooling\nBest Practices & Tip"
+    "contentSnippet": "pg_stat_statements is the standard PostgreSQL extension used to track query statistics: number of executions, total and average execution time, number of returned rows, and other metrics. This informa"
   },
   {
-    "title": "How to Keep LLM Outputs Predictable Using Pydantic Validation",
-    "link": "https://dev.to/manishmshiva/how-to-keep-llm-outputs-predictable-using-pydantic-validation-2dfe",
-    "pubDate": "Tue, 11 Nov 2025 01:58:08 +0000",
+    "title": "How We Test API Resilience Before Deployment",
+    "link": "https://dev.to/ashish_khadke_5c15c9b3954/how-we-test-api-resilience-before-deployment-447g",
+    "pubDate": "Tue, 11 Nov 2025 06:24:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Tired of LLMs breaking your JSON or skipping fields? Learn how Pydantic can turn messy AI outputs into clean, predictable data every single time.\nLarge language models are powerful, but they are also "
+    "contentSnippet": "In today’s digital ecosystem, APIs (Application Programming Interfaces) are the backbone of every connected system, from mobile apps and web platforms to complex enterprise integrations. At Invezza, w"
   },
   {
-    "title": "THE HOMELAB EXPERIENCE 1 : NAS AND DOCKER",
-    "link": "https://dev.to/rohanraj/the-homelab-experience-1-nas-and-docker-1n1g",
-    "pubDate": "Tue, 11 Nov 2025 01:55:32 +0000",
+    "title": "Getting started with Robotics",
+    "link": "https://dev.to/nicanor_korir/getting-started-with-robotics-3f0g",
+    "pubDate": "Tue, 11 Nov 2025 06:24:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Alright, this is my homelab progress tracker. I just wanted to explore homelabbing to get to know more about servers, networking and to replicate many other useful tools used in the real world. There "
+    "contentSnippet": "You've probably seen a robot doing something cool. Maybe it's one of those automatic vacuum cleaners that somehow knows when you've spilt coffee on the floor and, boom, five minutes later, it's sparkl"
   },
   {
-    "title": "Sorting Algorithms Part 3: Linear-Time Sorting, Counting, Radix, and Bucket",
-    "link": "https://dev.to/picciniuscodes/sorting-algorithms-part-3-linear-time-sorting-counting-radix-and-bucket-co",
-    "pubDate": "Tue, 11 Nov 2025 01:48:34 +0000",
+    "title": "🌍 Auto-Load Multilingual Dropdown Labels in Joget Using Platform Locale",
+    "link": "https://dev.to/exploringmylifeworks/auto-load-multilingual-dropdown-labels-in-joget-using-platform-locale-37md",
+    "pubDate": "Tue, 11 Nov 2025 06:17:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Introduction. The hook of today\n\n\nIn Part 2 we reached n log n time with divide and conquer. Today we go even further. When the data satisfies certain numeric assumptions, we can sort in time that "
+    "contentSnippet": "🧩 Overview\n\n\nWhen building multilingual Joget apps, it’s important for dropdowns (Select Boxes) to automatically display values in the user’s active language — whether that’s English, Arabic, or any "
   },
   {
-    "title": "LoRaWAN Temperature and Humidity Monitoring Sensors for GSP Compliance in Pharmaceutical Storage and Transportation",
-    "link": "https://dev.to/manthink/lorawan-temperature-and-humidity-monitoring-sensors-for-gsp-compliance-in-pharmaceutical-storage-2c35",
-    "pubDate": "Tue, 11 Nov 2025 01:47:52 +0000",
+    "title": "Skip the Cloud Setup: Expose Your Express.js App Securely from Localhost",
+    "link": "https://dev.to/lightningdev123/skip-the-cloud-setup-expose-your-expressjs-app-securely-from-localhost-24p8",
+    "pubDate": "Tue, 11 Nov 2025 06:16:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Temperature and humidity monitoring are essential to pharmaceutical quality throughout the entire supply chain. China’s Good Supply Practice (GSP) requires continuous data logging, precise accuracy, r"
+    "contentSnippet": "When you’re developing with Express.js, building and testing web applications locally feels effortless. Everything runs smoothly on localhost:3000, responses are instant, and debugging is straightforw"
   },
   {
-    "title": "All About the SFP-10G-ZR: Understanding the 1550nm 80km Optical Transceiver Module",
-    "link": "https://dev.to/lsolink/all-about-the-sfp-10g-zr-understanding-the-1550nm-80km-optical-transceiver-module-1nie",
-    "pubDate": "Tue, 11 Nov 2025 01:32:11 +0000",
+    "title": "Would Satoshi Pass the Exchange Checklist?",
+    "link": "https://dev.to/bitnet4ever/would-satoshi-pass-the-exchange-checklist-cea",
+    "pubDate": "Tue, 11 Nov 2025 06:15:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is 10G-SFP-ZR Module?\n\n\n10G-SFP-ZR is a kind of optical module that supports 10Gbps rate and transmission distance of 80KM, which can send data to you from 80KM away, and the delay of data transm"
+    "contentSnippet": "November 11, 2025\nIf Bitcoin Were Born in 2023, Would It Even Get Listed?\n\n\nProbably not.\n\nAt least not on the big-name exchanges.\n\nMaybe on a few smaller ones—if it stuck around long enough and prove"
   },
   {
-    "title": "Precisamos falar sobre o Hugging Face: o GitHub da Inteligência Artificial",
-    "link": "https://dev.to/carineneris/precisamos-falar-sobre-o-hugging-face-o-github-da-inteligencia-artificial-7cn",
-    "pubDate": "Tue, 11 Nov 2025 01:27:12 +0000",
+    "title": "Enhancing App Security with OTP SMS APIs: A Developer’s Guide",
+    "link": "https://dev.to/dbhatasana/enhancing-app-security-with-otp-sms-apis-a-developers-guide-1o4a",
+    "pubDate": "Tue, 11 Nov 2025 06:10:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nos últimos anos, o termo Hugging Face começou a aparecer em quase todas as conversas sobre inteligência artificial.\nMas afinal, o que é o Hugging Face?\nGitHub da IA?\nNeste artigo, você vai entender d"
+    "contentSnippet": "How Developers Use OTP APIs to Strengthen User Authentication and App Security\n\n\nFor developers building user-centric apps whether it’s a fintech platform, a SaaS dashboard, or a retail mobile app  se"
   },
   {
-    "title": "Sorting Algorithms Part 2: Divide and Conquer — Merge, Quick, and Heap Sort",
-    "link": "https://dev.to/picciniuscodes/sorting-algorithms-part-2-divide-and-conquer-merge-quick-and-heap-sort-4dkk",
-    "pubDate": "Tue, 11 Nov 2025 01:21:41 +0000",
+    "title": "Building Trust in AI: Why Content Detection Should Matter to Developers",
+    "link": "https://dev.to/dovran/building-trust-in-ai-why-content-detection-should-matter-to-developers-55j",
+    "pubDate": "Tue, 11 Nov 2025 06:09:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Introduction. The hook of today\n\n\nIn Part 1, we saw the world of O(n²) sorts: simple, intuitive, but inefficient for large data. Now we step into a higher league: algorithms that use divide and con"
+    "contentSnippet": "When I read about Deloitte's AI-written report of $290,000 that contained hallucinated references, I was reminded how often small mistakes in our prompts or tools scale in production. The report-prepa"
   },
   {
     "title": "GitHub、リリース後のバイナリなどアセットを変更不可にする「Immutable Release」（変更不可リリース）機能を正式リリース",

@@ -1,73 +1,73 @@
 [
   {
-    "title": "Recreating LinkedIn’s Crossclimb Game with Angular - Part 1",
-    "link": "https://dev.to/this-is-angular/recreating-linkedins-crossclimb-game-with-angular-part-1-4cke",
-    "pubDate": "Wed, 12 Nov 2025 01:45:38 +0000",
+    "title": "NodeJS Microservices: 7 Observability Checks Before Launch Published",
+    "link": "https://dev.to/budventure_technologies_5/nodejs-microservices-7-observability-checks-before-launch-published-4f9l",
+    "pubDate": "Wed, 12 Nov 2025 06:27:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In this short series, we’ll use Angular to recreate the popular LinkedIn game Crossclimb, a fun word puzzle that’s perfect for showing off the power of Signals in modern Angular.\nThis project is not o"
+    "contentSnippet": "You don’t “add monitoring later.” If a microservice ships without observability, your on-call pays the tax.\nBelow is a pre-launch checklist we run on Node.js services. It’s short, opinionated, and bat"
   },
   {
-    "title": "A Self-Hosted Alternative to Cloudflare",
-    "link": "https://dev.to/arina_cholee/a-self-hosted-alternative-to-cloudflare-fcd",
-    "pubDate": "Wed, 12 Nov 2025 01:44:36 +0000",
+    "title": "The Critical Role of Phase Estimation in Speech Enhancement under Low SNR Conditions",
+    "link": "https://dev.to/namanigandhi/phase-matters-in-noisy-environments-1k25",
+    "pubDate": "Wed, 12 Nov 2025 06:25:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern websites are under constant pressure from automated traffic — bots scraping data, stuffing credentials, hoarding inventory, and more.  \nIf you’ve ever managed an online platform, you know that "
+    "contentSnippet": "1. Introduction: When Magnitude Isn’t Enough\n\n\nSpeech enhancement is all about making speech clearer in noisy environments — from phone calls in traffic to automatic transcription in crowded cafés.\nma"
   },
   {
-    "title": "Golang Step-by-Step: HTTP, Socket, WebSocket, and gRPC",
-    "link": "https://dev.to/kingyou/golang-step-by-step-http-socket-websocket-and-grpc-5aoa",
-    "pubDate": "Wed, 12 Nov 2025 01:44:18 +0000",
+    "title": "Boost Developer Revenue with Monetzly’s AI Conversation API",
+    "link": "https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-3blc",
+    "pubDate": "Wed, 12 Nov 2025 06:19:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nGo (Golang) is renowned for its powerful networking capabilities and performance. Whether you're building web APIs, realtime apps, or microservices, understanding core communication met"
+    "contentSnippet": "How We Built Ad Injection That Users Actually Appreciate: The Engineering Behind Monetization with Monetzly\n\n\nIn a world where AI applications are proliferating, monetization strategies often fall sho"
   },
   {
-    "title": "The Future of AI: Context Engineering in 2025 and Beyond",
-    "link": "https://dev.to/lofcz/the-future-of-ai-context-engineering-in-2025-and-beyond-5n9",
-    "pubDate": "Wed, 12 Nov 2025 01:40:04 +0000",
+    "title": "SmolRTSP: Open-Source Practices for Efficient RTSP Streaming in Embedded Systems",
+    "link": "https://dev.to/zediot/smolrtsp-open-source-practices-for-efficient-rtsp-streaming-in-embedded-systems-28i6",
+    "pubDate": "Wed, 12 Nov 2025 06:12:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Future of AI: Context Engineering in 2025 and Beyond\n\n\n\nHad a wild Saturday morning where I decided to dig into something that's been buzzing around the AI community lately: context engineering. S"
+    "contentSnippet": "A complete guide for technical developers: From RTSP protocol principles to SmolRTSP implementation in embedded systems\nWith the rapid growth of the Internet of Things (IoT) and the increasing prevale"
   },
   {
-    "title": "Hey folks, I've written a new blog on \"Intro to Terraform\"\r\n\r\nI would love to hear your feedback about it.\r\n\r\nHere it is: https://dev.to/btejas/introduction-to-terraform-automating-your-cloud-infrastructure-136h\r\n\r\nFeel free to roast :)",
-    "link": "https://dev.to/btejas/hey-folks-ive-written-a-new-blog-on-intro-to-terraform-i-would-love-to-hear-your-feedback-3b3f",
-    "pubDate": "Wed, 12 Nov 2025 01:32:04 +0000",
+    "title": "A Dreamy Developer Finding Where I Belong",
+    "link": "https://dev.to/huynhnhanquoc/a-dreamy-developer-finding-where-i-belong-5bkh",
+    "pubDate": "Wed, 12 Nov 2025 06:11:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction to Terraform: Automating Your Cloud Infrastructure\nTejas Bachhav ・ Nov 10\n#terraform\n        #devops\n        #cloud"
+    "contentSnippet": "When I Didn’t Know Who I Was\n\n\nLately, I’ve been revisiting my old writings. Some are from five years ago, lost among half-finished ideas. Some I never dared to hit Publish. Some I wrote and deleted b"
   },
   {
-    "title": "Lightweight Rich Text Editor for Bootstrap 5 Projects",
-    "link": "https://dev.to/jqueryscript/lightweight-rich-text-editor-for-bootstrap-5-projects-5e9o",
-    "pubDate": "Wed, 12 Nov 2025 01:30:19 +0000",
+    "title": "The Dream of Indie Coders",
+    "link": "https://dev.to/huynhnhanquoc/the-dream-of-indie-coders-10g7",
+    "pubDate": "Wed, 12 Nov 2025 06:10:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "BarnamenevisEditor, a rich text editor that gives you TinyMCE-level formatting without the configuration headaches. \nBuilt for Bootstrap 5 and jQuery, it handles:\nFull RTL support for Arabic, Persian,"
+    "contentSnippet": "A Kindred Spirit\n\n\nIt’s been a long time since I talked to someone who shares the same wavelength.\n\nEven though our conversation was only online, it felt as if we could clearly see each other’s path.\n"
   },
   {
-    "title": "Hunting Hidden GraphQL Mutations How I Found AddWorkspaceWhitelistDomains Using JavaScript Analysis",
-    "link": "https://dev.to/omar_nasser_e31d039aadf08/hunting-hidden-graphql-mutations-how-i-found-addworkspacewhitelistdomains-using-javascript-analysis-4991",
-    "pubDate": "Wed, 12 Nov 2025 01:25:00 +0000",
+    "title": "The Indie Path",
+    "link": "https://dev.to/huynhnhanquoc/the-indie-path-1pa7",
+    "pubDate": "Wed, 12 Nov 2025 06:10:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "( صل علي النبي)\nDuring a recent penetration test, I encountered an application with restricted functionality due to plan limitations. However, by analyzing the JavaScript files, I discovered hidden Gr"
+    "contentSnippet": "The Dream of Technological Independence\n\n\nI remember it clearly — sitting in a tiny café, looking at my own hands and asking:\n“What am I really looking for?”\nBy day, I delivered packages. By night, I "
   },
   {
-    "title": "VIRTUALIZATION",
-    "link": "https://dev.to/freddie_barron_0a192c3278/virtualization-5gcm",
-    "pubDate": "Wed, 12 Nov 2025 01:23:15 +0000",
+    "title": "Directive Sync – The “Odd” Story of Kit JS",
+    "link": "https://dev.to/huynhnhanquoc/directive-sync-the-odd-story-of-kit-js-1nlo",
+    "pubDate": "Wed, 12 Nov 2025 06:09:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is Virtualization?\nVirtualization is the process of creating virtual versions of computing resources like servers, storage, networks, or operating systems on a single physical machine.\nIn virtual"
+    "contentSnippet": "The Idea Emerges\n\n\nWhen I started developing Kit JS, I ran into a problem that most JS frameworks tend to ignore.\nMy website was SSR-rendered (server-side rendering). Everything was already in the HTM"
   },
   {
-    "title": "The Python Structure Viewer: A Clear Window into Your Code",
-    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-python-structure-viewer-a-clear-window-into-your-code-1gi9",
-    "pubDate": "Wed, 12 Nov 2025 01:19:40 +0000",
+    "title": "Why Does Kit JS Exist?",
+    "link": "https://dev.to/huynhnhanquoc/why-does-kit-js-exist-19oc",
+    "pubDate": "Wed, 12 Nov 2025 06:08:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every Python script has its own rhythm — loops, branches, and calls that can be hard to follow once the file grows. The Python Structure Viewer on pacificw.com makes that rhythm visible. It’s a local "
+    "contentSnippet": "Comparison\n\n\nIf we compare Kit JS with Alpine, Angular, React, Vue, or even HTMX, the truth is — Kit JS wasn’t born to compete.\n\nHonestly? It’s not as powerful as those tools.\nThat’s because Kit JS is"
   },
   {
-    "title": "Setting Up Side-by-Side Python Versions on Azure DevOps Self-Hosted Agents",
-    "link": "https://dev.to/rcbevans/setting-up-side-by-side-python-versions-on-azure-devops-self-hosted-agents-15l1",
-    "pubDate": "Wed, 12 Nov 2025 01:18:33 +0000",
+    "title": "NPR Music: Emily King: Tiny Desk Concert",
+    "link": "https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-4iba",
+    "pubDate": "Wed, 12 Nov 2025 06:08:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Setting Up Side-by-Side Python Versions on Azure DevOps Self-Hosted Agents\n\n\nYou've set up an Azure DevOps self-hosted agent and need Python for your pipelines. You install Python, configure your pipe"
+    "contentSnippet": "Emily King’s Tiny Desk Vibes\n\n\nEmily King’s NPR Tiny Desk session feels like a warm hug—her silky voice, backed by a tight-knit band (hello, dreamy harmonies on “Georgia” and “Down”), turns every brea"
   },
   {
     "title": "さくらのクラウド、コンテナをサーバレスで実行する「AppRun」を正式サービスとして提供開始へ",
@@ -89,6 +89,13 @@
     "pubDate": "Tue, 11 Nov 2025 14:28:24 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n個人で管理するウェブサーバでは、しばしば複数のウェブサイトを管理する際にコストも掛かり気味ですが、kubernetes でもツールを適切に選べば複数サイトをケチケチしながら、うまく管理できるという話をしたいと思います。\n\n 複数のサイトに必要な物\n複数のサイトを運営するとなれば、こういったものが必要かと思います。\n\nロードバランサと複数のドメイン\nHTML で作られた複数の静的サイト\n複"
+  },
+  {
+    "title": "Twilio Preflightで通話品質を \"診断\" する",
+    "link": "https://zenn.dev/ivry/articles/f275cb6a125e8e",
+    "pubDate": "Tue, 11 Nov 2025 08:39:39 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは！株式会社IVRy でソフトウェアエンジニアをしているtsutouです。\nVoIPで音声通話を実現している音声通話アプリにおいて「音声が聞こえない」「途切れる」といったユーザー問い合わせは、サポートチームにとって調査の難易度が高く大きな負担となります。\n!\nVoIP（Voice over Internet Protocol） は、従来の電話回線ではなく、インターネットなどのIP"
   },
   {
     "title": "チーム専属QAからE2E自動化横断支援へ。QAキャリアを前進させた1年間",
@@ -126,6 +133,13 @@
     "contentSnippet": "令和最新のPerlについて学べる本（になる予定）です"
   },
   {
+    "title": "仕様駆動開発（SDD）を採用したAI駆動開発の実態と課題",
+    "link": "https://zenn.dev/assign/articles/ab66b2843d9380",
+    "pubDate": "Tue, 11 Nov 2025 02:34:33 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこちらの記事は先日開催されたAI駆動開発についてのイベントの登壇内容をベースに記事にしたものです。\nhttps://assign.connpass.com/event/368710/\n発表後の反応が良く、特に「他社のAI駆動開発の実態を知ることができてよかった」という声をいただいたため、改めて記事化することにしました。\nClaude CodeやCodex等を使用して開発している方は増えて"
+  },
+  {
     "title": "社内でAIハッカソン(AI開発合宿)を開催した話",
     "link": "https://zenn.dev/hokuto_tech/articles/c6ec0fb4eb11d8",
     "pubDate": "Tue, 11 Nov 2025 01:00:02 GMT",
@@ -147,13 +161,6 @@
     "contentSnippet": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと\n私は生粋のプログラマーです。\n大学では C / C++ / C# を学び、社会人になってからは Java、JavaScript、PHP、Python、Go、TypeScrip..."
   },
   {
-    "title": "育休中の深夜に作った、オムツ用ゴミ袋残量センサー",
-    "link": "https://zenn.dev/zaico/articles/3b0e97e757adbc",
-    "pubDate": "Mon, 10 Nov 2025 22:57:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "初めての育児とゴミ出し問題→からのラピッドプロトタイピング\n↓一夜城のゴミ袋残量センサー\n\nやあみんな！株式会社ZAICO 新規事業開発室の @tarouimo だよ！\nいきなり私事ですが、息子が生まれて育休を取得して、はじめての育児に奮闘してました。\nところで私の家ではごみ収集場がご近所様と共同になっています。燃やすゴミの日は大量のオムツを捨てるのですが、、、ある日、カラス被害で我が家のゴミ袋が"
-  },
-  {
     "title": "GitHub、リリース後のバイナリなどアセットを変更不可にする「Immutable Release」（変更不可リリース）機能を正式リリース",
     "link": "https://www.publickey1.jp/blog/25/githubimmutable_release.html",
     "pubDate": "2025-11-10T15:29:27.000Z",
@@ -166,13 +173,6 @@
     "pubDate": "2025-11-10T15:27:49.000Z",
     "source": "Publickey",
     "contentSnippet": "JavaScriptフレームワーク「Next.js」などの開発元で、Webアプリケーションプラットフォームの「Vercel」を提供しているVercelは、同社のサーバレスコンピューティング基盤である「Vercel Functions」のランタイムとしてBunがパブリックベータで利用可能になったことを明らかにしました。 Vercelは、静的なWebサイトはもちろん、JavaScriptのコードをVe"
-  },
-  {
-    "title": "Claude Codeを使ったおすすめ勉強法",
-    "link": "https://zenn.dev/parfait/articles/7542405e10130d",
-    "pubDate": "Mon, 10 Nov 2025 14:46:33 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Claude Codeの登場で学びの時間が減った\nClaude Codeが便利すぎて、もう手放せません。\nただし、Claude Codeを使えば使うほど「自分でコーディングする機会」は激減しました。\nそれが悪いとは断言しづらいですが、一つ言えるのは「私のような中途半端にプログラミングを学んだ人間にとって勉強の機会が減ることは致命的」ということです。\nClaude Codeの/output-styl"
   },
   {
     "title": "決済実装は怖くない！テストカードという存在",

@@ -1,73 +1,94 @@
 [
   {
-    "title": "NodeJS Microservices: 7 Observability Checks Before Launch Published",
-    "link": "https://dev.to/budventure_technologies_5/nodejs-microservices-7-observability-checks-before-launch-published-4f9l",
-    "pubDate": "Wed, 12 Nov 2025 06:27:36 +0000",
+    "title": "O time ideal: equilíbrio entre experiência, potencial e colaboração",
+    "link": "https://dev.to/andersoncontreira/o-time-ideal-equilibrio-entre-experiencia-potencial-e-colaboracao-1a7",
+    "pubDate": "Wed, 12 Nov 2025 12:34:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You don’t “add monitoring later.” If a microservice ships without observability, your on-call pays the tax.\nBelow is a pre-launch checklist we run on Node.js services. It’s short, opinionated, and bat"
+    "contentSnippet": "Encontrar o equilíbrio certo na formação de um time de tecnologia é uma das tarefas mais complexas de qualquer organização.\ntime ideal, mas na prática ele quase nunca está no papel.\nframeworks teórico"
   },
   {
-    "title": "The Critical Role of Phase Estimation in Speech Enhancement under Low SNR Conditions",
-    "link": "https://dev.to/namanigandhi/phase-matters-in-noisy-environments-1k25",
-    "pubDate": "Wed, 12 Nov 2025 06:25:08 +0000",
+    "title": "Compartilhar conhecimento não te faz perder espaço, te faz crescer",
+    "link": "https://dev.to/andersoncontreira/compartilhar-conhecimento-nao-te-faz-perder-espaco-te-faz-crescer-7h3",
+    "pubDate": "Wed, 12 Nov 2025 12:34:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Introduction: When Magnitude Isn’t Enough\n\n\nSpeech enhancement is all about making speech clearer in noisy environments — from phone calls in traffic to automatic transcription in crowded cafés.\nma"
+    "contentSnippet": "Em várias empresas que passei, eu sempre procurei compartilhar o que sabia com o time, fosse em treinamentos, revisões de código ou até em conversas rápidas no dia a dia. E percebi que, quanto mais eu"
   },
   {
-    "title": "Boost Developer Revenue with Monetzly’s AI Conversation API",
-    "link": "https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-api-3blc",
-    "pubDate": "Wed, 12 Nov 2025 06:19:43 +0000",
+    "title": "The Truth About Open Source: It's Intimidating (Until You Start)",
+    "link": "https://dev.to/shalinibhavi525sudo/the-truth-about-open-source-its-intimidating-until-you-start-4c6a",
+    "pubDate": "Wed, 12 Nov 2025 12:31:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How We Built Ad Injection That Users Actually Appreciate: The Engineering Behind Monetization with Monetzly\n\n\nIn a world where AI applications are proliferating, monetization strategies often fall sho"
+    "contentSnippet": "When I first started looking at large codebases on GitHub, the feeling was the same every time: absolute panic. I thought I needed to fix a critical bug or build a whole new feature to contribute. But"
   },
   {
-    "title": "SmolRTSP: Open-Source Practices for Efficient RTSP Streaming in Embedded Systems",
-    "link": "https://dev.to/zediot/smolrtsp-open-source-practices-for-efficient-rtsp-streaming-in-embedded-systems-28i6",
-    "pubDate": "Wed, 12 Nov 2025 06:12:04 +0000",
+    "title": "The Rise of Neurolov: A Browser-Based Compute Network Enabling Real Utility for Decentralized AI and Content Workloads",
+    "link": "https://dev.to/neurolov__ai/the-rise-of-neurolov-a-browser-based-compute-network-enabling-real-utility-for-decentralized-ai-47ef",
+    "pubDate": "Wed, 12 Nov 2025 12:30:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A complete guide for technical developers: From RTSP protocol principles to SmolRTSP implementation in embedded systems\nWith the rapid growth of the Internet of Things (IoT) and the increasing prevale"
+    "contentSnippet": "Modern AI, creative production, and cloud infrastructure are changing rapidly. Traditional centralized solutions still dominate compute access, but emerging decentralized systems are introducing new w"
   },
   {
-    "title": "A Dreamy Developer Finding Where I Belong",
-    "link": "https://dev.to/huynhnhanquoc/a-dreamy-developer-finding-where-i-belong-5bkh",
-    "pubDate": "Wed, 12 Nov 2025 06:11:25 +0000",
+    "title": "🌍 web.dev — Build Better Websites",
+    "link": "https://dev.to/ml318097/webdev-build-better-websites-41h6",
+    "pubDate": "Wed, 12 Nov 2025 12:18:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I Didn’t Know Who I Was\n\n\nLately, I’ve been revisiting my old writings. Some are from five years ago, lost among half-finished ideas. Some I never dared to hit Publish. Some I wrote and deleted b"
+    "contentSnippet": "Want to create web experiences that are fast, accessible, secure, and work flawlessly across browsers?\nweb.dev provides expert-level guidance from the Chrome team and community contributors to help bu"
   },
   {
-    "title": "The Dream of Indie Coders",
-    "link": "https://dev.to/huynhnhanquoc/the-dream-of-indie-coders-10g7",
-    "pubDate": "Wed, 12 Nov 2025 06:10:47 +0000",
+    "title": "A Magical Studies Research Report on Paxos",
+    "link": "https://dev.to/canonical/a-magical-studies-research-report-on-paxos-1m96",
+    "pubDate": "Wed, 12 Nov 2025 12:16:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Kindred Spirit\n\n\nIt’s been a long time since I talked to someone who shares the same wavelength.\n\nEven though our conversation was only online, it felt as if we could clearly see each other’s path.\n"
+    "contentSnippet": "The Paxos algorithm is not long—just four succinct sentences on paper. It looks like an arcane scripture of terse profundities mainly because we don’t clearly understand the design intent behind these"
   },
   {
-    "title": "The Indie Path",
-    "link": "https://dev.to/huynhnhanquoc/the-indie-path-1pa7",
-    "pubDate": "Wed, 12 Nov 2025 06:10:10 +0000",
+    "title": "Stop Storing Secrets in Your Frontend .env File",
+    "link": "https://dev.to/elenndev/stop-storing-secrets-in-your-frontend-env-file-20i0",
+    "pubDate": "Wed, 12 Nov 2025 12:10:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Dream of Technological Independence\n\n\nI remember it clearly — sitting in a tiny café, looking at my own hands and asking:\n“What am I really looking for?”\nBy day, I delivered packages. By night, I "
+    "contentSnippet": "The real deal about env variables\n\n\nBy the time i realized it, i had already started to understand environment variables as an always trusted way to store secret values, which well, isn't completely w"
   },
   {
-    "title": "Directive Sync – The “Odd” Story of Kit JS",
-    "link": "https://dev.to/huynhnhanquoc/directive-sync-the-odd-story-of-kit-js-1nlo",
-    "pubDate": "Wed, 12 Nov 2025 06:09:33 +0000",
+    "title": "How Bilingual Development Teams Improve App Localization",
+    "link": "https://dev.to/tribesquare/how-bilingual-development-teams-improve-app-localization-4ha8",
+    "pubDate": "Wed, 12 Nov 2025 12:07:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Idea Emerges\n\n\nWhen I started developing Kit JS, I ran into a problem that most JS frameworks tend to ignore.\nMy website was SSR-rendered (server-side rendering). Everything was already in the HTM"
+    "contentSnippet": "The app localization market is experiencing explosive growth. With the global software localization market projected to reach $7.06 billion by 2031 and app localization services expected to hit $16.7 "
   },
   {
-    "title": "Why Does Kit JS Exist?",
-    "link": "https://dev.to/huynhnhanquoc/why-does-kit-js-exist-19oc",
-    "pubDate": "Wed, 12 Nov 2025 06:08:56 +0000",
+    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1423",
+    "pubDate": "Wed, 12 Nov 2025 12:02:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Comparison\n\n\nIf we compare Kit JS with Alpine, Angular, React, Vue, or even HTMX, the truth is — Kit JS wasn’t born to compete.\n\nHonestly? It’s not as powerful as those tools.\nThat’s because Kit JS is"
+    "contentSnippet": "TL;DR\n\n\nCinemaSins just unleashed “Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less,” ripping into every goofy plot hole and nit-pick-worthy moment—yet still hinting they m"
   },
   {
-    "title": "NPR Music: Emily King: Tiny Desk Concert",
-    "link": "https://dev.to/music_youtube/npr-music-emily-king-tiny-desk-concert-4iba",
-    "pubDate": "Wed, 12 Nov 2025 06:08:51 +0000",
+    "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3nba",
+    "pubDate": "Wed, 12 Nov 2025 12:02:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Emily King’s Tiny Desk Vibes\n\n\nEmily King’s NPR Tiny Desk session feels like a warm hug—her silky voice, backed by a tight-knit band (hello, dreamy harmonies on “Georgia” and “Down”), turns every brea"
+    "contentSnippet": "Predators (2010) ditches the urban sprawl for some good old-fashioned jungle carnage, tossing a rag-tag crew of anti-heroes into muddy showdowns that scream “classic Predator.” After two underwhelming"
+  },
+  {
+    "title": "アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜",
+    "link": "https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast",
+    "pubDate": "Wed, 12 Nov 2025 04:44:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の117週目の記事です！\n3年間連続達成まで残り42週となりました！\n\n\n はじめに\nみなさんは、良いプロダクトを作っていくために、良い組織を作りたいと考えたことはありますか？私は常にこのことについて頭を悩ませていますが、うまくいかないことだらけでいつも心が折れてしまいそうになります。\n困り果てていた私"
+  },
+  {
+    "title": "AIの質問を『選択肢+推奨度+理由』にしたら、意思決定の質と速度が圧倒的にあがった",
+    "link": "https://zenn.dev/loglass/articles/e250a06fca1f4a",
+    "pubDate": "Wed, 12 Nov 2025 03:48:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "3行まとめ\n\nAIに質問させるときに選択肢を提示させると、回答が楽で早くなる\nさらに、推奨度とその理由を出力させると、その根拠を元にAIと議論できるし、納得感を持って進められる\n結果、意思決定が速くなり、質も上がる\n\n\n AIと対話しながら開発してますか？\nClaude CodeやCursorなどのAI開発ツールを使ってる人、増えてますよね。\nAIが暴走しないように、不明な点を質問させてる人も多い"
+  },
+  {
+    "title": "エンジニアキャリアと敗者のゲームと勝者のゲーム",
+    "link": "https://zenn.dev/truestar/articles/8692d8a0eddb28",
+    "pubDate": "Tue, 11 Nov 2025 21:12:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "前置き\nこんにちは。さすらいのデータエンジニアのこみぃです。\n秋がギリギリその体面を保ちつつ、でも冬に移りつつある昨今ですが、いかがお過ごしでしょうか？\n秋の夜長はポエムを読みたくなる季節ということで、今日は一風変わった記事をお届けしましょう。\n\n 勝者のゲームと敗者のゲーム\nさて、まずはいきなり見慣れない概念から始めていきましょう。世の中には勝者のゲームと敗者のゲームという、2つのゲーム観の概念"
   },
   {
     "title": "さくらのクラウド、コンテナをサーバレスで実行する「AppRun」を正式サービスとして提供開始へ",
@@ -91,11 +112,11 @@
     "contentSnippet": "はじめに\n個人で管理するウェブサーバでは、しばしば複数のウェブサイトを管理する際にコストも掛かり気味ですが、kubernetes でもツールを適切に選べば複数サイトをケチケチしながら、うまく管理できるという話をしたいと思います。\n\n 複数のサイトに必要な物\n複数のサイトを運営するとなれば、こういったものが必要かと思います。\n\nロードバランサと複数のドメイン\nHTML で作られた複数の静的サイト\n複"
   },
   {
-    "title": "Twilio Preflightで通話品質を \"診断\" する",
-    "link": "https://zenn.dev/ivry/articles/f275cb6a125e8e",
-    "pubDate": "Tue, 11 Nov 2025 08:39:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは！株式会社IVRy でソフトウェアエンジニアをしているtsutouです。\nVoIPで音声通話を実現している音声通話アプリにおいて「音声が聞こえない」「途切れる」といったユーザー問い合わせは、サポートチームにとって調査の難易度が高く大きな負担となります。\n!\nVoIP（Voice over Internet Protocol） は、従来の電話回線ではなく、インターネットなどのIP"
+    "title": "エンジニアが覚えておきたい英単語 - AIコード読解時代の必須語彙",
+    "link": "https://qiita.com/Sakai_path/items/b11badaa8daff2984f8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-11T07:14:26.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\nAI時代のコードリーディングは、英単語の語感を掴むことから始まります。\n\nプログラミング言語は英語で書かれた “ルールブック”。\n変数・関数・クラス・コメント──すべてが英語の延長です。\n「文法」だけでなく「単語の意味」を押さえると、知らない言語のコードでも ..."
   },
   {
     "title": "チーム専属QAからE2E自動化横断支援へ。QAキャリアを前進させた1年間",
@@ -103,6 +124,13 @@
     "pubDate": "Tue, 11 Nov 2025 06:02:10 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは！　株式会社MIXIでQAをしているayanoです。\nこの1年間、私は「チーム専属QA」から「横断的なE2Eテスト自動化の支援者」という新しい役割に挑戦してきました。\nこの記事では、そんな私がどんなきっかけでキャリアを変え、どんな1年を過ごしてきたのかをまとめます。\n「チームの中で頑張るQA」から、「チームを支えるQA」へ──その変化の過程を、ひとつのキャリアケースとして読んでいただけた"
+  },
+  {
+    "title": "開発効率が上がる！最強のプログラミングフォント5選",
+    "link": "https://qiita.com/nolanlover0527/items/5e4b2a2faa30f185da64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-11T04:17:01.000Z",
+    "source": "Qiita",
+    "contentSnippet": "数字の「0」と英字の「O」が見分けられない\n「1」と「l」と「I」の区別がつかない\n長時間コードを見ていると目が疲れる\n\n上記のような問題は、誰しも一度は経験したことがあるはずです。\n私自身、VSCodeのフォントを洒落たやつに変えたりした際、「l」なのか「I」なの..."
   },
   {
     "title": "2025年の個人開発：爆速で「パンダ特化型SNS」を作った技術スタック全公開",
@@ -138,20 +166,6 @@
     "pubDate": "Tue, 11 Nov 2025 02:34:33 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこちらの記事は先日開催されたAI駆動開発についてのイベントの登壇内容をベースに記事にしたものです。\nhttps://assign.connpass.com/event/368710/\n発表後の反応が良く、特に「他社のAI駆動開発の実態を知ることができてよかった」という声をいただいたため、改めて記事化することにしました。\nClaude CodeやCodex等を使用して開発している方は増えて"
-  },
-  {
-    "title": "社内でAIハッカソン(AI開発合宿)を開催した話",
-    "link": "https://zenn.dev/hokuto_tech/articles/c6ec0fb4eb11d8",
-    "pubDate": "Tue, 11 Nov 2025 01:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年9月に、HOKUTOの開発メンバー(エンジニア・QAエンジニア・デザイナー)で開発合宿を行ってきました。\nHOKUTOではフルリモートでの働き方となっており、メンバーでオフラインで集まって何かを行うというのは実は珍しかったりします。\n開発合宿では毎年テーマを決めて取り組む形にしています。今年は 「生成AIを活用して普段の開発・作業を楽にしてくれるかもしれないツールを作る」というテーマ の"
-  },
-  {
-    "title": "RAGの検索結果を並び替えるだけで高速化する手法",
-    "link": "https://zenn.dev/knowledgesense/articles/687dce3199d11f",
-    "pubDate": "Tue, 11 Nov 2025 00:44:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、検索結果を効率的にキャッシュすることで、Agentで利用するRAGの速度を高速化することのできる手法「RAGBoost」について紹介します。\nhttps://arxiv.org/pdf/2511.03475\n\n\n サマリー\nRAGは検索とLLMを組み合わせることで、チャット形式で情報を検索できる便利な手法です。一方で、検索にかかる時"
   },
   {
     "title": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと",
@@ -236,20 +250,6 @@
     "pubDate": "2025-11-09T08:06:32.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは、Watanabe jinです。\nReactがAIも相まって選択されるケースが増えて学びたいと思っている人も多いかと思います。\n私も過去にたくさんのReact教材をやりましたが、本当にやってよかったと思える教材はほぼありませんでした。\n最初に選ぶ教材..."
-  },
-  {
-    "title": "C++は常に進化している！ C++26・C++23の新機能と今後のトレンド",
-    "link": "https://qiita.com/Sakai_path/items/24537a84c2437e9e527f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-09T04:46:13.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nC++は3年ごとに新しい規格が策定されていて、2025年11月時点では最新のC++23が各コンパイラで実装されつつあります。\nそして、次期規格のC++26も標準化委員会で策定が進んでいます。\n今回は、C++23で追加された機能とC++26で提案されている機能をコ..."
-  },
-  {
-    "title": "テキストなしで LLM 同士が“通じ合う”手法:Cache-to-Cache（C2C）について",
-    "link": "https://qiita.com/xxyc/items/892bb9b401e162c2e270?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-09T04:05:24.000Z",
-    "source": "Qiita",
-    "contentSnippet": "最近、とても面白い論文を読んだので共有します。複数の LLM を組み合わせるとき、テキストで対話させるのをやめて、モデル内部の表現（KV-Cache）を直接やり取りするというアイデアです。手法名は Cache-to-Cache（C2C）。テキスト生成の待ち時間を省きつつ、モ..."
   },
   {
     "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",

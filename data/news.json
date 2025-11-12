@@ -1,73 +1,73 @@
 [
   {
-    "title": "Search on steroids: Using regex in VS Code",
-    "link": "https://dev.to/satejbidvai/search-on-steroids-using-regex-in-vs-code-1698",
-    "pubDate": "Tue, 11 Nov 2025 18:21:43 +0000",
+    "title": "Recreating LinkedIn’s Crossclimb Game with Angular - Part 1",
+    "link": "https://dev.to/this-is-angular/recreating-linkedins-crossclimb-game-with-angular-part-1-4cke",
+    "pubDate": "Wed, 12 Nov 2025 01:45:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We've all used Command + Shift + F  to search across our codebases. There's a hidden gem here which helps us supercharge our search queries — regex (Regular Expression) search:\n\nLet's take a look at h"
+    "contentSnippet": "In this short series, we’ll use Angular to recreate the popular LinkedIn game Crossclimb, a fun word puzzle that’s perfect for showing off the power of Signals in modern Angular.\nThis project is not o"
   },
   {
-    "title": "Static Website Deployment on AWS Amplify via GitHub (Entry-Level Guide)",
-    "link": "https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj",
-    "pubDate": "Tue, 11 Nov 2025 18:10:34 +0000",
+    "title": "A Self-Hosted Alternative to Cloudflare",
+    "link": "https://dev.to/arina_cholee/a-self-hosted-alternative-to-cloudflare-fcd",
+    "pubDate": "Wed, 12 Nov 2025 01:44:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "There are many ways to deploy a website using different technology, but doing it with AWS services takes your skills and game to the next level. One a beginner developer can gauge their learnings on i"
+    "contentSnippet": "Modern websites are under constant pressure from automated traffic — bots scraping data, stuffing credentials, hoarding inventory, and more.  \nIf you’ve ever managed an online platform, you know that "
   },
   {
-    "title": "From Laravel Factories to Framework-Agnostic: Building the Data Factory Package",
-    "link": "https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib",
-    "pubDate": "Tue, 11 Nov 2025 18:06:01 +0000",
+    "title": "Golang Step-by-Step: HTTP, Socket, WebSocket, and gRPC",
+    "link": "https://dev.to/kingyou/golang-step-by-step-http-socket-websocket-and-grpc-5aoa",
+    "pubDate": "Wed, 12 Nov 2025 01:44:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Part 2 of the Laravel Factory Patterns series  \nPart 1: Stop Writing Arrays in Your Tests\nPart 2: Building the Data Factory Package (you are here)\nOriginally published on barrento.dev\nAfter my last ar"
+    "contentSnippet": "Introduction\n\n\nGo (Golang) is renowned for its powerful networking capabilities and performance. Whether you're building web APIs, realtime apps, or microservices, understanding core communication met"
   },
   {
-    "title": "WRITE-UP N1CTF 2025",
-    "link": "https://dev.to/null001/write-up-n1ctf-2025-j7e",
-    "pubDate": "Tue, 11 Nov 2025 18:04:42 +0000",
+    "title": "The Future of AI: Context Engineering in 2025 and Beyond",
+    "link": "https://dev.to/lofcz/the-future-of-ai-context-engineering-in-2025-and-beyond-5n9",
+    "pubDate": "Wed, 12 Nov 2025 01:40:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "[Web]N1SAML\n\n\nThis is the challenge I had spend 90% of time to do but I didn’t solve this challenge on time, so sad.\n\nhttps://exp10it.io/ server.\n\n\nhealthcheck service’s port to internet. To reach the"
+    "contentSnippet": "The Future of AI: Context Engineering in 2025 and Beyond\n\n\n\nHad a wild Saturday morning where I decided to dig into something that's been buzzing around the AI community lately: context engineering. S"
   },
   {
-    "title": "Security in 2026 Starts Now: Preparing for the Next Wave of Digital Threats",
-    "link": "https://dev.to/synergy_shock/security-in-2026-starts-now-preparing-for-the-next-wave-of-digital-threats-eop",
-    "pubDate": "Tue, 11 Nov 2025 17:57:43 +0000",
+    "title": "Hey folks, I've written a new blog on \"Intro to Terraform\"\r\n\r\nI would love to hear your feedback about it.\r\n\r\nHere it is: https://dev.to/btejas/introduction-to-terraform-automating-your-cloud-infrastructure-136h\r\n\r\nFeel free to roast :)",
+    "link": "https://dev.to/btejas/hey-folks-ive-written-a-new-blog-on-intro-to-terraform-i-would-love-to-hear-your-feedback-3b3f",
+    "pubDate": "Wed, 12 Nov 2025 01:32:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As we approach the final stretch of 2025, one reality is becoming impossible to ignore: 2026 will be a defining year for cybersecurity and data protection.\nThe systems we build today don’t just store "
+    "contentSnippet": "Introduction to Terraform: Automating Your Cloud Infrastructure\nTejas Bachhav ・ Nov 10\n#terraform\n        #devops\n        #cloud"
   },
   {
-    "title": "Cursors & Triggers in DBMS",
-    "link": "https://dev.to/raksh__e858eea76f8f29ed/cursors-triggers-in-dbms-50pe",
-    "pubDate": "Tue, 11 Nov 2025 17:56:19 +0000",
+    "title": "Lightweight Rich Text Editor for Bootstrap 5 Projects",
+    "link": "https://dev.to/jqueryscript/lightweight-rich-text-editor-for-bootstrap-5-projects-5e9o",
+    "pubDate": "Wed, 12 Nov 2025 01:30:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "dbms #powerautomate #cursors\n\n\n\n  \n  \n  data\n\n\nIntroduction\nIn this blog, we will explore:\nWhat Cursors are, why we need them, and how to use them.\nA Cursor in DBMS is a database object that allows us"
+    "contentSnippet": "BarnamenevisEditor, a rich text editor that gives you TinyMCE-level formatting without the configuration headaches. \nBuilt for Bootstrap 5 and jQuery, it handles:\nFull RTL support for Arabic, Persian,"
   },
   {
-    "title": "Making a Read-Only Signal Editable in Your Component",
-    "link": "https://dev.to/kobi2294/making-a-read-only-signal-editable-in-your-component-22c8",
-    "pubDate": "Tue, 11 Nov 2025 17:55:18 +0000",
+    "title": "Hunting Hidden GraphQL Mutations How I Found AddWorkspaceWhitelistDomains Using JavaScript Analysis",
+    "link": "https://dev.to/omar_nasser_e31d039aadf08/hunting-hidden-graphql-mutations-how-i-found-addworkspacewhitelistdomains-using-javascript-analysis-4991",
+    "pubDate": "Wed, 12 Nov 2025 01:25:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Sometimes you inject a signal from a service, and it’s read-only, but you still want the user to edit it inside your component.\n@Component({\n  selector: 'user-editor',\n  template: `\n    <input [(ngMod"
+    "contentSnippet": "( صل علي النبي)\nDuring a recent penetration test, I encountered an application with restricted functionality due to plan limitations. However, by analyzing the JavaScript files, I discovered hidden Gr"
   },
   {
-    "title": "Architectural decisions",
-    "link": "https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh",
-    "pubDate": "Tue, 11 Nov 2025 17:45:11 +0000",
+    "title": "VIRTUALIZATION",
+    "link": "https://dev.to/freddie_barron_0a192c3278/virtualization-5gcm",
+    "pubDate": "Wed, 12 Nov 2025 01:23:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I recently attended GOTO conference in Copenhagen (https://gotocph.com/2025, you can find the slides for some of the presentations there) and would like to share some of the interesting topics.\nProble"
+    "contentSnippet": "What is Virtualization?\nVirtualization is the process of creating virtual versions of computing resources like servers, storage, networks, or operating systems on a single physical machine.\nIn virtual"
   },
   {
-    "title": "Upgrading Expo to 54 - and making Cursor give the latest instructions",
-    "link": "https://dev.to/cathylai/upgrading-expo-to-54-and-making-cursor-give-the-latest-instructions-3nj3",
-    "pubDate": "Tue, 11 Nov 2025 17:44:12 +0000",
+    "title": "The Python Structure Viewer: A Clear Window into Your Code",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-python-structure-viewer-a-clear-window-into-your-code-1gi9",
+    "pubDate": "Wed, 12 Nov 2025 01:19:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR (commands)\n\n\n\n\n\n# In your project root\nnpm install expo@^54.0.0\nnpx expo install --fix\nnpx expo-doctor\nnpx expo start -c\n\nThe local CLI no longer supports older commands like expo upgrade and ex"
+    "contentSnippet": "Every Python script has its own rhythm — loops, branches, and calls that can be hard to follow once the file grows. The Python Structure Viewer on pacificw.com makes that rhythm visible. It’s a local "
   },
   {
-    "title": "Acid Properties in SQL",
-    "link": "https://dev.to/raksh__e858eea76f8f29ed/acid-properties-in-sql-3gn8",
-    "pubDate": "Tue, 11 Nov 2025 17:43:39 +0000",
+    "title": "Setting Up Side-by-Side Python Versions on Azure DevOps Self-Hosted Agents",
+    "link": "https://dev.to/rcbevans/setting-up-side-by-side-python-versions-on-azure-devops-self-hosted-agents-15l1",
+    "pubDate": "Wed, 12 Nov 2025 01:18:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Understanding ACID Properties in SQL Transactions\nIntro\nThat’s where ACID properties come in. They ensure our transactions are reliable, safe, and consistent, even when things go wrong.\nIn this blog, "
+    "contentSnippet": "Setting Up Side-by-Side Python Versions on Azure DevOps Self-Hosted Agents\n\n\nYou've set up an Azure DevOps self-hosted agent and need Python for your pipelines. You install Python, configure your pipe"
   },
   {
     "title": "さくらのクラウド、コンテナをサーバレスで実行する「AppRun」を正式サービスとして提供開始へ",
@@ -84,11 +84,32 @@
     "contentSnippet": "一般社団法人オープンソース・グループ・ジャパン（OSG-JP）は、日本がAI時代における国際競争力を確保し、国民から信頼されるAI社会を構築するための具体的な3つの提言「オープンソースAIを基盤とした開かれたAI社会とデジタル主権を構築するための公開提言 ― 米中依存のリスクを低減し、透明性・自律性・競争力あるAI基盤を構築 ―」を公開しました。 同団体は日本国内におけるオープンソースの普及と発展"
   },
   {
+    "title": "kubernetes でケチケチ節約して複数のサイトを管理する",
+    "link": "https://zenn.dev/mattn/articles/3094881f936076",
+    "pubDate": "Tue, 11 Nov 2025 14:28:24 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n個人で管理するウェブサーバでは、しばしば複数のウェブサイトを管理する際にコストも掛かり気味ですが、kubernetes でもツールを適切に選べば複数サイトをケチケチしながら、うまく管理できるという話をしたいと思います。\n\n 複数のサイトに必要な物\n複数のサイトを運営するとなれば、こういったものが必要かと思います。\n\nロードバランサと複数のドメイン\nHTML で作られた複数の静的サイト\n複"
+  },
+  {
+    "title": "チーム専属QAからE2E自動化横断支援へ。QAキャリアを前進させた1年間",
+    "link": "https://zenn.dev/mixi/articles/8ec03e546072af",
+    "pubDate": "Tue, 11 Nov 2025 06:02:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！　株式会社MIXIでQAをしているayanoです。\nこの1年間、私は「チーム専属QA」から「横断的なE2Eテスト自動化の支援者」という新しい役割に挑戦してきました。\nこの記事では、そんな私がどんなきっかけでキャリアを変え、どんな1年を過ごしてきたのかをまとめます。\n「チームの中で頑張るQA」から、「チームを支えるQA」へ──その変化の過程を、ひとつのキャリアケースとして読んでいただけた"
+  },
+  {
     "title": "2025年の個人開発：爆速で「パンダ特化型SNS」を作った技術スタック全公開",
     "link": "https://zenn.dev/kinnkinn/articles/622a65a2a76dce",
     "pubDate": "Tue, 11 Nov 2025 03:21:34 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事では、私が個人開発でリリースしたパンダ情報特化型アグリゲーションサービス「PanDo (パンドゥ)」について、そのアーキテクチャから実装のこだわりまでを紹介します。\n\nhttps://n-scroller.vercel.app\n\n 導入：なぜ今、パンダなのか？\n開発動機は、パンダに関する情報（動物園の公式サイト、ニュース、SNS）がWeb上に散在しており、それらを一元的に追いかけるのが困難"
+  },
+  {
+    "title": "【技術記事】Zennで技術記事を書くときに最低限これだけは意識したい6つのこと",
+    "link": "https://zenn.dev/noranuko13/articles/2740fa9be72757",
+    "pubDate": "Tue, 11 Nov 2025 03:03:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n\nhttps://zenn.dev/noranuko13/articles/b30c8ed65e8e27\n\n 対象\n\nZennで技術記事を書いている方向け。\n\n\n いいねを付けて大丈夫か\n\nどうも。新着記事一覧から投稿者の記事一覧に飛んで、読めそうな記事を読んでいいねを付けていく運動を実施中の野良ぬこです。\nいいねの価値を考える日々。極論「いいねはタダ」だ。ハードルを上げようと思えばいく"
   },
   {
     "title": "Kaggleコンペ紹介：MAP - Charting Student Math Misunderstandings",
@@ -154,13 +175,6 @@
     "contentSnippet": "Claude Codeの登場で学びの時間が減った\nClaude Codeが便利すぎて、もう手放せません。\nただし、Claude Codeを使えば使うほど「自分でコーディングする機会」は激減しました。\nそれが悪いとは断言しづらいですが、一つ言えるのは「私のような中途半端にプログラミングを学んだ人間にとって勉強の機会が減ることは致命的」ということです。\nClaude Codeの/output-styl"
   },
   {
-    "title": "C# で Rust する",
-    "link": "https://zenn.dev/sator_imaging/articles/e6428d4f1c8158",
-    "pubDate": "Mon, 10 Nov 2025 11:18:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "まずは Rust の所有権について理解する\nRust が初めて触るプログラミング言語でない場合、所有権システムは完全に忘れたほうが良いです。プログラミング言語としての根本は他の言語と変わらないので Rust の特殊性のみ抑えればおｋです。\n\n所有権： インスタンス（実体）のこと\n借用： ポインターのこと\nRust の特殊性\n\n✅ 全ての操作が「移動渡し（実体を移動する）」（std::move）\n\n"
-  },
-  {
     "title": "決済実装は怖くない！テストカードという存在",
     "link": "https://qiita.com/inukai-masanori/items/7809cc7b63b37f958880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T09:47:02.000Z",
@@ -168,18 +182,11 @@
     "contentSnippet": "はじめに\n「決済機能の実装」と聞くと、ちょっと身構えてしまいませんか？\n私は下記の理由でできれば触りたくないと思っています。\n\nお金関係でミスしたら怖い\nセキュリティが複雑そう\nテストが大変そう\n\nとはいえ、「触りたくない」と言って許されるわけではないので、私は以前、..."
   },
   {
-    "title": "【CSS】要素がはみ出る！そんな時はまずmin-widthを0にする",
-    "link": "https://qiita.com/hrel11/items/fe402e3a7ed63d8cbe58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T05:13:21.000Z",
+    "title": "あかんかった人生をやり直す",
+    "link": "https://qiita.com/monsoonTropicalBird/items/0e62b8fc44e480251f2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T02:20:35.000Z",
     "source": "Qiita",
-    "contentSnippet": "子要素が親要素をはみ出してしまうことがある。\nそんなときは子要素側に以下のCSSを順番に適用するとよい\n\nmin-w-0\nwrap-break-word\n\noverflow 系 (ex. overflow-hidden, overflow-scroll)\n\nphase1..."
-  },
-  {
-    "title": "チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―",
-    "link": "https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4",
-    "pubDate": "Mon, 10 Nov 2025 02:31:13 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nアジャイル開発では「チームワーク」が成果の鍵を握ります。\nしかし、チームの中に高い技術スキルを持っていても、協調性に欠けるメンバーがいると、プロジェクトは一気に難航します。\nそうした存在は「ブリリアントジャーク（Brilliant Jerk）」と呼ばれます。\n私自身、スクラムマスターとして、まさにそのような状況に直面したことがあります。\n本記事では、そのときの経験と、そこから得た教訓を紹"
+    "contentSnippet": "あかんかった人生を取り戻す天啓\n人生思い返すと、様々な事情から途中で放り出してしまった事があまりに沢山あり、我が生涯に一片の悔いなし、という世紀末の覇者ラオウの様な御仁の方がレアであろう。\n不意にそういう思いがよぎった時、それはまた何かやり直す一つの啓示かも知れん。\n\n..."
   },
   {
     "title": "Claude CodeでBacklogのチケットから自動実装する仕組みが快適すぎた",
@@ -189,11 +196,18 @@
     "contentSnippet": "この記事ではClaude Codeとプロジェクト管理ツールであるBacklogの連携により、\nGithubのPR作成からBacklog上でのレビュー依頼のやりとりまでを自動化する仕組みを紹介します。\n\nはじめに\n私が所属するチームでは、Backlogを使って開発チケットの管..."
   },
   {
-    "title": "SNKRDUNKにおける機械学習への取り組みの現状と今後の展望",
-    "link": "https://zenn.dev/team_soda/articles/soda-snkrdunk-ml-pickuplinks",
-    "pubDate": "Mon, 10 Nov 2025 01:52:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n株式会社SODAでバックエンドのテックリードをしている仲宗根です。\nSODAは、SNKRDUNKというスニーカーやアパレル、トレーディングカード(トレカ)のフリマサービスを運営しています。\n本記事では、SNKRDUNKにおける機械学習プロジェクトの一例として、ピックアップリンクのパーソナライズを紹介します。この取り組みを通して、SNKRDUNKの開発に興味を持っていただければ幸いです。\n"
+    "title": "【Docker】Docker用語が分からない人のための超入門ガイド",
+    "link": "https://qiita.com/shimada_slj/items/aece093434ca59ed87fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T00:39:23.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは、エンジニア4年目の嶋田です。\nこの記事を開いていただき、ありがとうございます！\nDockerを初めて触ったとき、「コンテナって何？」「イメージとの違いは？」「docker runとdocker startって何が違うの？」と混乱したことはありませんか..."
+  },
+  {
+    "title": "初めて Qiita 投稿する人へ ～中堅 SE が語る“記事づくりの流れと工夫”～",
+    "link": "https://qiita.com/KoheiKushida/items/abb9276dc175991760f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T23:59:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1.はじめに\n前回の記事では、Qiita に初投稿するときのマインドセットや、情報発信を続ける価値について整理しました。実際に初投稿に挑戦してくれた方もいて、「一歩を踏み出す」流れが少しずつ広がっているように感じます。\n\n記事投稿後、周囲から次のような相談を受けること..."
   },
   {
     "title": "ChatGPTの「良い人フィルター」を外して本音を引き出してみた",
@@ -236,20 +250,6 @@
     "pubDate": "2025-11-09T04:05:24.000Z",
     "source": "Qiita",
     "contentSnippet": "最近、とても面白い論文を読んだので共有します。複数の LLM を組み合わせるとき、テキストで対話させるのをやめて、モデル内部の表現（KV-Cache）を直接やり取りするというアイデアです。手法名は Cache-to-Cache（C2C）。テキスト生成の待ち時間を省きつつ、モ..."
-  },
-  {
-    "title": "【コピペでOK】Gemini RAGはこんなに簡単！寝てる間にGitHub Actionsが最新ドキュメントを学習するAIアシスタントを作ろう",
-    "link": "https://qiita.com/sinzy0925/items/01550618a78428c9cc50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-08T13:59:05.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Gemini API の File Search Tool は、RAGを超簡単に使えるようになる魔法です。\nすぐに使える、コードを以下からダウンロードしてください。\nhttps://github.com/sinzy0925/py_gemini-rag\n\nはじめに\n「公式ド..."
-  },
-  {
-    "title": "2025年11月時点における世界最高速の向聴数計算アルゴリズムを開発・実装してしまった件について",
-    "link": "https://qiita.com/Cryolite/items/2650ce76ffac925d7876?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-08T12:15:03.000Z",
-    "source": "Qiita",
-    "contentSnippet": "結論 - 2025年11月時点における世界最高速の向聴数計算アルゴリズムの実装\n本稿で説明する向聴数計算アルゴリズムの実装は https://github.com/Cryolite/nyanten で公開しています．この実装による手牌1つあたりに対する向聴数計算の速度は，..."
   },
   {
     "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",

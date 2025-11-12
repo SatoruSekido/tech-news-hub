@@ -1,73 +1,87 @@
 [
   {
-    "title": "O time ideal: equilíbrio entre experiência, potencial e colaboração",
-    "link": "https://dev.to/andersoncontreira/o-time-ideal-equilibrio-entre-experiencia-potencial-e-colaboracao-1a7",
-    "pubDate": "Wed, 12 Nov 2025 12:34:21 +0000",
+    "title": "blob14",
+    "link": "https://dev.to/query_filter_591122b53770/blob14-3a0j",
+    "pubDate": "Wed, 12 Nov 2025 18:20:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Encontrar o equilíbrio certo na formação de um time de tecnologia é uma das tarefas mais complexas de qualquer organização.\ntime ideal, mas na prática ele quase nunca está no papel.\nframeworks teórico"
+    "contentSnippet": "CREATE OR REPLACE FUNCTION blob_to_text(p_blob BLOB) RETURN VARCHAR2 IS\nl_blob_len := DBMS_LOB.GETLENGTH(p_blob);\nWHILE l_pos <= l_blob_len LOOP\n-- Your exact original conversion logic\nl_text_chunk :="
   },
   {
-    "title": "Compartilhar conhecimento não te faz perder espaço, te faz crescer",
-    "link": "https://dev.to/andersoncontreira/compartilhar-conhecimento-nao-te-faz-perder-espaco-te-faz-crescer-7h3",
-    "pubDate": "Wed, 12 Nov 2025 12:34:03 +0000",
+    "title": "Integrate SDKs for Profitable AI Conversations with Monetzly",
+    "link": "https://dev.to/monetzly/integrate-sdks-for-profitable-ai-conversations-with-monetzly-48c6",
+    "pubDate": "Wed, 12 Nov 2025 18:18:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Em várias empresas que passei, eu sempre procurei compartilhar o que sabia com o time, fosse em treinamentos, revisões de código ou até em conversas rápidas no dia a dia. E percebi que, quanto mais eu"
+    "contentSnippet": "Traditional Ads Don't Work in AI Conversations. Here's What Does.\n\n\nThe AI app ecosystem is booming, but many developers are still grappling with a common challenge: monetization. As AI applications p"
   },
   {
-    "title": "The Truth About Open Source: It's Intimidating (Until You Start)",
-    "link": "https://dev.to/shalinibhavi525sudo/the-truth-about-open-source-its-intimidating-until-you-start-4c6a",
-    "pubDate": "Wed, 12 Nov 2025 12:31:48 +0000",
+    "title": "Casual Dresses Online: Your Go-To Guide for Everyday Fashion",
+    "link": "https://dev.to/houseofsiyaab/casual-dresses-online-your-go-to-guide-for-everyday-fashion-23oc",
+    "pubDate": "Wed, 12 Nov 2025 18:16:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I first started looking at large codebases on GitHub, the feeling was the same every time: absolute panic. I thought I needed to fix a critical bug or build a whole new feature to contribute. But"
+    "contentSnippet": "Shopping for casual dresses online has become one of the easiest ways to stay stylish and comfortable. With so many designs, colors, and fabrics to choose from, finding the perfect everyday outfit is "
   },
   {
-    "title": "The Rise of Neurolov: A Browser-Based Compute Network Enabling Real Utility for Decentralized AI and Content Workloads",
-    "link": "https://dev.to/neurolov__ai/the-rise-of-neurolov-a-browser-based-compute-network-enabling-real-utility-for-decentralized-ai-47ef",
-    "pubDate": "Wed, 12 Nov 2025 12:30:17 +0000",
+    "title": "I Was Done Getting Answers — So I Built RAG That Asks Questions Too",
+    "link": "https://dev.to/nishant_prakash_780f5d541/i-was-done-getting-answers-so-i-built-rag-that-asks-questions-too-1c2e",
+    "pubDate": "Wed, 12 Nov 2025 18:12:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern AI, creative production, and cloud infrastructure are changing rapidly. Traditional centralized solutions still dominate compute access, but emerging decentralized systems are introducing new w"
+    "contentSnippet": "“What if a RAG system could not only fetch information but also reason about it, critique itself, and write a report, all autonomously?”\nData-Inspector, a proof-of-concept Agentic RAG pipeline built w"
   },
   {
-    "title": "🌍 web.dev — Build Better Websites",
-    "link": "https://dev.to/ml318097/webdev-build-better-websites-41h6",
-    "pubDate": "Wed, 12 Nov 2025 12:18:00 +0000",
+    "title": "CNNs: from a beginner's point of view",
+    "link": "https://dev.to/nicanor_korir/cnns-from-a-beginners-point-of-view-7ek",
+    "pubDate": "Wed, 12 Nov 2025 18:09:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Want to create web experiences that are fast, accessible, secure, and work flawlessly across browsers?\nweb.dev provides expert-level guidance from the Chrome team and community contributors to help bu"
+    "contentSnippet": "I've learnt this topic about 20 times now, some are a bit confusing, and of course, I know some core things. In this article, I am going to break down CNN to make it easy to understand the basics and "
   },
   {
-    "title": "A Magical Studies Research Report on Paxos",
-    "link": "https://dev.to/canonical/a-magical-studies-research-report-on-paxos-1m96",
-    "pubDate": "Wed, 12 Nov 2025 12:16:30 +0000",
+    "title": "Introducing eventsourcing.dev: A Clear Guide to Event Sourcing",
+    "link": "https://dev.to/patriceckhart/introducing-eventsourcingdev-a-clear-guide-to-event-sourcing-3hga",
+    "pubDate": "Wed, 12 Nov 2025 18:06:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Paxos algorithm is not long—just four succinct sentences on paper. It looks like an arcane scripture of terse profundities mainly because we don’t clearly understand the design intent behind these"
-  },
-  {
-    "title": "Stop Storing Secrets in Your Frontend .env File",
-    "link": "https://dev.to/elenndev/stop-storing-secrets-in-your-frontend-env-file-20i0",
-    "pubDate": "Wed, 12 Nov 2025 12:10:07 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The real deal about env variables\n\n\nBy the time i realized it, i had already started to understand environment variables as an always trusted way to store secret values, which well, isn't completely w"
-  },
-  {
-    "title": "How Bilingual Development Teams Improve App Localization",
-    "link": "https://dev.to/tribesquare/how-bilingual-development-teams-improve-app-localization-4ha8",
-    "pubDate": "Wed, 12 Nov 2025 12:07:28 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The app localization market is experiencing explosive growth. With the global software localization market projected to reach $7.06 billion by 2031 and app localization services expected to hit $16.7 "
+    "contentSnippet": "Event Sourcing has been around for decades, yet many developers still find it intimidating. Buried under domain-driven jargon, inconsistent examples, or complex frameworks.\n\nThat's exactly why I built"
   },
   {
     "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-1423",
-    "pubDate": "Wed, 12 Nov 2025 12:02:43 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me",
+    "pubDate": "Wed, 12 Nov 2025 18:02:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins just unleashed “Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less,” ripping into every goofy plot hole and nit-pick-worthy moment—yet still hinting they m"
+    "contentSnippet": "CinemaSins tears into Marvel’s Thunderbolts in under 20 minutes, racking up hilarious “sins” for every plot hole, awkward line and questionable decision — all while grudgingly admitting the flick has "
   },
   {
     "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-3nba",
-    "pubDate": "Wed, 12 Nov 2025 12:02:32 +0000",
+    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1",
+    "pubDate": "Wed, 12 Nov 2025 18:02:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predators (2010) ditches the urban sprawl for some good old-fashioned jungle carnage, tossing a rag-tag crew of anti-heroes into muddy showdowns that scream “classic Predator.” After two underwhelming"
+    "contentSnippet": "Predators (2010) ditches the overblown Alien vs. Predator crossovers and plunges us back into a dirty, jungle-bound showdown with a ragtag squad of lunatics—all while sneaking in fresh twists that act"
+  },
+  {
+    "title": "Git Deep Dive: Mastering rerere",
+    "link": "https://dev.to/louis7/git-deep-dive-mastering-rerere-12jm",
+    "pubDate": "Wed, 12 Nov 2025 18:00:00 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "No, It's Not a Typo: Let's Talk About git rerere (Reuse Recorded Resolution)\ngit rerere helps Git remember how you resolved a conflict previously, and automatically reuses that resolution when the sam"
+  },
+  {
+    "title": "Automate Your Astro Blog with GitHub Actions",
+    "link": "https://dev.to/picoable/automate-your-astro-blog-with-github-actions-5aic",
+    "pubDate": "Wed, 12 Nov 2025 18:00:00 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "While Cloudflare's default Git integration is brilliantly simple, as we covered in our first guide, sometimes you need more power. When you want to add unit tests, linting, or other custom checks to y"
+  },
+  {
+    "title": "マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能",
+    "link": "https://www.publickey1.jp/blog/25/net_102ltsjit.html",
+    "pubDate": "2025-11-12T15:56:05.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは日本時間の11月13日未明からオンラインイベント「.NET Conf 2025」を開催。同社の包括的なアプリケーションフレームワークの最新版となる「.NET 10」正式版のリリースを発表しました。 .NETは、デスクトップからモバイル、クラウド、ゲーム、IoT、そしてWindows、Linux、macOSなど、あらゆるプラットフォームに対応したアプリケーションの開発を包括的にカバー"
+  },
+  {
+    "title": "Node.jsでネイティブにTypeScriptを実行できる「Type Stripping」機能が安定版に到達。Node.js v25.2.0",
+    "link": "https://www.publickey1.jp/blog/25/nodejstypescripttype_strippingnodejs_v2520.html",
+    "pubDate": "2025-11-12T15:50:59.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行を安心して実行できるようになりました。 Node.jsはTypeScriptをサポ"
   },
   {
     "title": "アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-06T13:22:14.000Z",
     "source": "Publickey",
     "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
-  },
-  {
-    "title": "MCPサーバのテストやデバッグ機能、自然言語でテスト用モックサーバの自動生成など、API開発ツール「Kong Insomnia 12」正式リリース",
-    "link": "https://www.publickey1.jp/blog/25/mcpapikong_insomnia_12.html",
-    "pubDate": "2025-11-05T15:23:27.000Z",
-    "source": "Publickey",
-    "contentSnippet": "API管理ツールや開発ツールを提供するKongは、API開発ツール「Kong Insomnia」の最新バージョンとなる「Kong Insomnia 12」（以下、Insomnia 12）正式リリースを発表しました。 Insomniaは開発ツールとしてAPIの設計、テスト、デバッグのためのさまざまな機能を備えています。APIクライアントとしてはHTTP、REST、gRPC、WebSocketsを始め"
-  },
-  {
-    "title": "IPA 登大遊氏の基調講演、NOT A HOTELの自動化例、コカコーラのAI活用など、情シスが創るビジネスの明日をテーマにしたイベント開催［PR］",
-    "link": "https://www.publickey1.jp/blog/25/btconjp2025pr.html",
-    "pubDate": "2025-11-04T17:56:46.000Z",
-    "source": "Publickey",
-    "contentSnippet": "企業のデジタル基盤を支えるだけでなく、ビジネスの成長を牽引する存在である情報システム部門（情シス）。その「情シスが創るビジネスの明日」をテーマにしたイベント「BTCONJP 2025 情シスカンファレンス」が、今年も11月15日土曜日にLINEヤフー株式会社（東京ガーデンテラス紀尾井町 紀尾井タワー17F）で開催されます。 主催するBTCONJPは、1万5000ユーザーを擁する情シスコミュニティ「"
   }
 ]

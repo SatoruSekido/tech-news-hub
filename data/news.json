@@ -1,73 +1,80 @@
 [
   {
+    "title": "Understanding AI Agents: Compilers of Human Intent",
+    "link": "https://dev.to/sandeep_sharma_2c6860616f/understanding-ai-agents-compilers-of-human-intent-5834",
+    "pubDate": "Thu, 13 Nov 2025 06:25:23 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The more I read about AI agents, the more a pattern starts to emerge. Different papers, frameworks, and prototypes all describe them in different ways — yet underneath, the architecture feels strangel"
+  },
+  {
+    "title": "Is AI Really Dangerous or Is It a Myth? Separating Facts from Fear",
+    "link": "https://dev.to/sagar_sajwan_a91beb41c861/is-ai-really-dangerous-or-is-it-a-myth-separating-facts-from-fear-in-2025-f5e",
+    "pubDate": "Thu, 13 Nov 2025 06:20:43 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "When artificial intelligence hit the mainstream spotlight, it came with two competing narratives: one painted AI as humanity's greatest threat, while another celebrated it as the solution to virtually"
+  },
+  {
+    "title": "Cloud vs On-Premise Warranty Management Systems:- Which Is Better in 2025?",
+    "link": "https://dev.to/digiwarr/cloud-vs-on-premise-warranty-management-systems-which-is-better-in-2025-l0k",
+    "pubDate": "Thu, 13 Nov 2025 06:19:17 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Imagine a warranty claim stuck between spreadsheets, emails, and physical copies. The technician can’t trace its status, the manager has no insight, and the customer grows impatient. This everyday cha"
+  },
+  {
+    "title": "Efficient S3 File Uploads: Speed & Large File Handling in NestJS",
+    "link": "https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4",
+    "pubDate": "Thu, 13 Nov 2025 06:19:14 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Uploading files efficiently to S3 isn't just about getting data from point A to point B—it's about doing it fast, reliably, and at scale. Whether you're handling 5MB images or 5GB videos, the right ap"
+  },
+  {
+    "title": "Use Markdownlint for your documentation",
+    "link": "https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln",
+    "pubDate": "Thu, 13 Nov 2025 06:13:59 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "This blog post is a TIL (Today I Learned) about using Markdownlint as part of your documentation workflow on GitHub lifted from my TIL collection.\nMarkdownlint-CLI is one of those all-round tools, whi"
+  },
+  {
+    "title": "7 Best Resources I Found to Learn Full-Stack Development — And How You Can Too",
+    "link": "https://dev.to/stack_overflowed/7-best-resources-i-found-to-learn-full-stack-development-and-how-you-can-too-1an",
+    "pubDate": "Thu, 13 Nov 2025 06:11:15 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Back when I first dipped my toes into full-stack development, I felt like I was chasing a moving target. Frameworks changed, tools evolved... I spent countless hours stuck on conflicting tutorials or "
+  },
+  {
+    "title": "Day 3: Fundamental FinOps Principles and Key Terminologies",
+    "link": "https://dev.to/ibbus/day-3-fundamental-finops-principles-and-key-terminologies-5fmd",
+    "pubDate": "Thu, 13 Nov 2025 06:06:08 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "FinOps (Financial Operations) is a cultural and operational framework that brings together finance, engineering, and business teams to maximize the value of cloud investments while ensuring cost effic"
+  },
+  {
+    "title": "Adventure and Peace on the Trails of Beas Kund",
+    "link": "https://dev.to/md_tasin_796ae00572dbbd80/adventure-and-peace-on-the-trails-of-beas-kund-2gp5",
+    "pubDate": "Thu, 13 Nov 2025 06:03:59 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Few Himalayan trails blend adventure and tranquility as seamlessly as the Beas Kund Trek Manali 2025. Nestled deep in Himachal Pradesh, this trek takes you beyond the ordinary — toward solitude, seren"
+  },
+  {
+    "title": "Ringer Movies: The 25 Best Movies of the Century: No. 5 - 'Lady Bird’",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-dcp",
+    "pubDate": "Thu, 13 Nov 2025 06:02:30 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Summary\n\n\nIn the fifth installment of their 25 Best Movies of the Century series, Sean Fennessey and Amanda Dobbins shine a light on Greta Gerwig’s Lady Bird. They call it the ultimate millennial comi"
+  },
+  {
     "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5m1",
-    "pubDate": "Thu, 13 Nov 2025 02:00:19 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-58ic",
+    "pubDate": "Thu, 13 Nov 2025 06:02:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins drops a snappy 20-minute roast of Thunderbolts* (The New Avengers), calling out every cinematic “sin” while cheekily admitting they might secretly dig the movie. Expect their trademark quip"
+    "contentSnippet": "TL;DR\n\n\nCinemaSins just dropped a 20-minute sinfest for Thunderbolts (The New Avengers), calling out every plot hole and quirk—while admitting it might secretly be “kinda great.”  \nAlong the way they "
   },
   {
-    "title": "Introducing `coderkit` — A Practical Utility Toolkit for Everyday JavaScript Work",
-    "link": "https://dev.to/shivam_waghmare_b65078f18/introducing-coderkit-a-practical-utility-toolkit-for-everyday-javascript-work-1bl0",
-    "pubDate": "Thu, 13 Nov 2025 01:48:54 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "If you’ve been writing JavaScript for more than 10 minutes, you already know one thing:\nThat’s stupidly inefficient.\nSo I built coderkit, a lightweight, practical utility toolkit meant to kill repetit"
-  },
-  {
-    "title": "Understanding Metallurgical Microscopes: How They Work, Key Applications, and How to Choose the Right One",
-    "link": "https://dev.to/fengdie_li_ff5f7699a062c2/understanding-metallurgical-microscopes-how-they-work-key-applications-and-how-to-choose-the-35p7",
-    "pubDate": "Thu, 13 Nov 2025 01:46:39 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn today’s world of advanced manufacturing, materials science, and semiconductor engineering, precision at the microscopic level determines success or failure.\n\nTo truly understand what"
-  },
-  {
-    "title": "Day 1265 : Myself",
-    "link": "https://dev.to/dwane/day-1265-myself-4e9g",
-    "pubDate": "Thu, 13 Nov 2025 01:38:36 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "liner notes:\nProfessional : Much better day today coding than yesterday. I tried to get a couple of more demo applications for this library running. Of course, one was built with React and it wouldn't"
-  },
-  {
-    "title": "When Correct Is Not Safe: Can We Trust Functionally Correct Patches Generatedby Code Agents?",
-    "link": "https://dev.to/paperium/when-correct-is-not-safe-can-we-trust-functionally-correct-patches-generatedby-code-agents-jih",
-    "pubDate": "Thu, 13 Nov 2025 01:30:42 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "When “Correct” Code Hides a Secret Danger\n\n\nEver wondered if a bug‑free program could still be unsafe? Researchers have uncovered a sneaky problem: AI‑driven code assistants can produce patches that p"
-  },
-  {
-    "title": "Manage GitHub Secrets Across Repositories for Free",
-    "link": "https://dev.to/picoable/manage-github-secrets-across-repositories-for-free-57dm",
-    "pubDate": "Thu, 13 Nov 2025 01:24:56 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "In previous guides, we've covered how to deploy a private Astro blog with Cloudflare Pages and how to create a more powerful workflow for automating Astro deployments with GitHub Actions. Both of thes"
-  },
-  {
-    "title": "computer",
-    "link": "https://dev.to/hainunez/computer-7l0",
-    "pubDate": "Thu, 13 Nov 2025 01:21:14 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Margaret found Timothy in the library's coordination room, staring at a wall covered in task dependency charts. 'The Event pattern works beautifully for simple signals,' he said, 'but I've hit somethi"
-  },
-  {
-    "title": "Dart Frog: Framework Backend Tối giản, Hiệu quả cho Dự án Mã nguồn Mở",
-    "link": "https://dev.to/stelixx-insider/dart-frog-framework-backend-toi-gian-hieu-qua-cho-du-an-ma-nguon-mo-i65",
-    "pubDate": "Thu, 13 Nov 2025 01:19:06 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Unlocking Full-Stack Development with Dart Frog: A Minimalistic Approach\nIn the rapidly evolving landscape of web development, finding tools that balance performance, ease of use, and developer experi"
-  },
-  {
-    "title": "Create a Text Editor in Go - Text Viewer",
-    "link": "https://dev.to/alcb1310/create-a-text-editor-in-go-text-viewer-4akp",
-    "pubDate": "Thu, 13 Nov 2025 01:15:50 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "You can access the code of this chapter in the Kilo-Go github repository in the movingaround branch\nCurrently your file structure should look something like this:\n\nFirst we want to be able to view a s"
-  },
-  {
-    "title": "Federated AI's Achilles' Heel: Can Collaborative Teaching Fix Data Corruption?",
-    "link": "https://dev.to/arvind_sundararajan/federated-ais-achilles-heel-can-collaborative-teaching-fix-data-corruption-2hf2",
-    "pubDate": "Thu, 13 Nov 2025 01:02:12 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Imagine building a cutting-edge AI, only to have its accuracy sabotaged by subtle data errors hidden across a network. This is the lurking threat in federated learning, where models are trained on dec"
+    "title": "JS→TS移行で「型を書くだけ」じゃなかった話 - 型を書いて気づいた5つの設計の甘さ",
+    "link": "https://zenn.dev/ktsushima/articles/js-to-ts-migration-learnings",
+    "pubDate": "Wed, 12 Nov 2025 18:50:20 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nTypeScript初心者の状態から、既存のVue 3プロジェクト（JavaScript）をTypeScriptに移行する機会がありました。この記事では、実装過程で学んだTypeScriptの基礎知識と、「型を書く」という行為が設計改善につながった体験を、初心者目線で整理してまとめます。\n前提条件:\n\nTypeScriptは完全な初心者\nJavaScriptは一定の学習経験あり（Vue "
   },
   {
     "title": "マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能",
@@ -82,6 +89,34 @@
     "pubDate": "2025-11-12T15:50:59.000Z",
     "source": "Publickey",
     "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行が安心してできるようになりました。 Node.jsはTypeScriptをサポート"
+  },
+  {
+    "title": "AIエージェント機能を継続的に生み出すプロダクトマネジメントについて",
+    "link": "https://zenn.dev/layerx/articles/b9272c63152826",
+    "pubDate": "Wed, 12 Nov 2025 13:47:59 GMT",
+    "source": "Zenn",
+    "contentSnippet": "LayerX バクラク事業部でプロダクトマネジメント組織を管掌している飯沼(numashi)です。この記事はLayerX AI Agentブログリレー44日目の記事です。\n今回はテックブログに全然テックじゃない話を差し込んでみようと思います。ちょっとくらい閑話休題ということで、LayerXにおいてAI系の機能を連続的に生み出す仕組みづくりや考え方について書きます。\nちなみに、自分自身もプロダクトマ"
+  },
+  {
+    "title": "【Snowflake】Snowflake IntelligenceにWeb検索機能を統合してみた",
+    "link": "https://zenn.dev/truestar/articles/6f080b08a49911",
+    "pubDate": "Wed, 12 Nov 2025 07:26:25 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n企業のデータ分析基盤としてSnowflakeを活用するケースは増えていますが、その多くは社内に蓄積された構造化データの分析に留まっています。\n一方で、実際のビジネス意思決定では、ニュース、SNS、オープンデータなど、社外の非構造データが重要なインサイトをもたらす場面が少なくありません。\nそこで今回、Snowflake IntelligenceにWeb検索機能を組み込み、Web上から取得し"
+  },
+  {
+    "title": "Flutterアプリ開発のツール管理をFVMからmiseに移行する",
+    "link": "https://zenn.dev/ivry/articles/9fe7b697f15959",
+    "pubDate": "Wed, 12 Nov 2025 07:00:49 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、IVRyのitochanです。\nIVRyのアプリ開発チームでは、Flutterアプリ開発に使うツールの管理をFVMからmiseに移行しました。本記事ではmiseをFlutterアプリ開発で使う利便性をご紹介します。\n\n なぜFVMからmiseに移行するのか\nFlutterのバージョン管理といえばFVMがよく使われています。Flutterのバージョン管理に特化しているため、簡単なコマンド"
+  },
+  {
+    "title": "わいの生成AIがカスコードばっか出してくるんやが",
+    "link": "https://zenn.dev/satto_workspace/articles/a12faf6131ac4e",
+    "pubDate": "Wed, 12 Nov 2025 06:41:43 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！\nsatto workspaceでエンジニアをしている伊藤（@ryo_ito）です。\n\n\n TL;DR\n!\n\n生成AIでのコーディング品質は、プロンプトの具体性で大きく変わる\n抽象的な指示 → 動くけど品質の低いコードが出力されがち\n具体的な指示 → 要件を満たした保守性の高いコードが生成される\n生成AIは「自分の中にある実装イメージを素早く具体化するツール」\n理解していないコードは、"
   },
   {
     "title": "アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜",
@@ -140,46 +175,11 @@
     "contentSnippet": "はじめに\n\nAI時代のコードリーディングは、英単語の語感を掴むことから始まります。\n\nプログラミング言語は英語で書かれた “ルールブック”。\n変数・関数・クラス・コメント──すべてが英語の延長です。\n「文法」だけでなく「単語の意味」を押さえると、知らない言語のコードでも ..."
   },
   {
-    "title": "チーム専属QAからE2E自動化横断支援へ。QAキャリアを前進させた1年間",
-    "link": "https://zenn.dev/mixi/articles/8ec03e546072af",
-    "pubDate": "Tue, 11 Nov 2025 06:02:10 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！　株式会社MIXIでQAをしているayanoです。\nこの1年間、私は「チーム専属QA」から「横断的なE2Eテスト自動化の支援者」という新しい役割に挑戦してきました。\nこの記事では、そんな私がどんなきっかけでキャリアを変え、どんな1年を過ごしてきたのかをまとめます。\n「チームの中で頑張るQA」から、「チームを支えるQA」へ──その変化の過程を、ひとつのキャリアケースとして読んでいただけた"
-  },
-  {
     "title": "開発効率が上がる！最強のプログラミングフォント5選",
     "link": "https://qiita.com/nolanlover0527/items/5e4b2a2faa30f185da64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-11T04:17:01.000Z",
     "source": "Qiita",
     "contentSnippet": "数字の「0」と英字の「O」が見分けられない\n「1」と「l」と「I」の区別がつかない\n長時間コードを見ていると目が疲れる\n\n上記のような問題は、誰しも一度は経験したことがあるはずです。\n私自身、VSCodeのフォントを洒落たやつに変えたりした際、「l」なのか「I」なの..."
-  },
-  {
-    "title": "2025年の個人開発：爆速で「パンダ特化型SNS」を作った技術スタック全公開",
-    "link": "https://zenn.dev/kinnkinn/articles/622a65a2a76dce",
-    "pubDate": "Tue, 11 Nov 2025 03:21:34 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事では、私が個人開発でリリースしたパンダ情報特化型アグリゲーションサービス「PanDo (パンドゥ)」について、そのアーキテクチャから実装のこだわりまでを紹介します。\n\nhttps://n-scroller.vercel.app\n\n 導入：なぜ今、パンダなのか？\n開発動機は、パンダに関する情報（動物園の公式サイト、ニュース、SNS）がWeb上に散在しており、それらを一元的に追いかけるのが困難"
-  },
-  {
-    "title": "【技術記事】Zennで技術記事を書くときに最低限これだけは意識したい6つのこと",
-    "link": "https://zenn.dev/noranuko13/articles/2740fa9be72757",
-    "pubDate": "Tue, 11 Nov 2025 03:03:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n\nhttps://zenn.dev/noranuko13/articles/b30c8ed65e8e27\n\n 対象\n\nZennで技術記事を書いている方向け。\n\n\n いいねを付けて大丈夫か\n\nどうも。新着記事一覧から投稿者の記事一覧に飛んで、読めそうな記事を読んでいいねを付けていく運動を実施中の野良ぬこです。\nいいねの価値を考える日々。極論「いいねはタダ」だ。ハードルを上げようと思えばいく"
-  },
-  {
-    "title": "Kaggleコンペ紹介：MAP - Charting Student Math Misunderstandings",
-    "link": "https://zenn.dev/mkj/articles/1f374627377474",
-    "pubDate": "Tue, 11 Nov 2025 02:50:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、松尾研究所 データサイエンティストの力岡です。\n今回は、Kaggleで開催された 「MAP - Charting Student Math Misunderstandings」 コンペに参加し、金メダルを獲得することができました。本記事では、コンペの概要と上位解法、私達の取り組みについて紹介します。\nhttps://matsuo-institute.com/2025/10/8"
-  },
-  {
-    "title": "Perlの今",
-    "link": "https://zenn.dev/kfly8/books/learning-perl-today",
-    "pubDate": "Tue, 11 Nov 2025 02:37:22 GMT",
-    "source": "Zenn",
-    "contentSnippet": "令和最新のPerlについて学べる本（になる予定）です"
   },
   {
     "title": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと",

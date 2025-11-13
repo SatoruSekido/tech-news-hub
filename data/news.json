@@ -1,73 +1,80 @@
 [
   {
-    "title": "Understanding AI Agents: Compilers of Human Intent",
-    "link": "https://dev.to/sandeep_sharma_2c6860616f/understanding-ai-agents-compilers-of-human-intent-5834",
-    "pubDate": "Thu, 13 Nov 2025 06:25:23 +0000",
+    "title": "Bicycles Are All Your AI Agents Need",
+    "link": "https://dev.to/cloudx/bicycles-are-all-your-ai-agents-need-33cc",
+    "pubDate": "Thu, 13 Nov 2025 12:47:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The more I read about AI agents, the more a pattern starts to emerge. Different papers, frameworks, and prototypes all describe them in different ways — yet underneath, the architecture feels strangel"
+    "contentSnippet": "From Condors to Code\n\n\nSomewhere between a condor and a keyboard lies human genius. Steve Jobs once told a story about how humans are terrible movers compared to animals. The condor beats us easily in"
   },
   {
-    "title": "Is AI Really Dangerous or Is It a Myth? Separating Facts from Fear",
-    "link": "https://dev.to/sagar_sajwan_a91beb41c861/is-ai-really-dangerous-or-is-it-a-myth-separating-facts-from-fear-in-2025-f5e",
-    "pubDate": "Thu, 13 Nov 2025 06:20:43 +0000",
+    "title": "What’s a project you’re genuinely proud of?",
+    "link": "https://dev.to/madsendev/whats-a-project-youre-genuinely-proud-of-1k4f",
+    "pubDate": "Thu, 13 Nov 2025 12:43:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When artificial intelligence hit the mainstream spotlight, it came with two competing narratives: one painted AI as humanity's greatest threat, while another celebrated it as the solution to virtually"
+    "contentSnippet": "I’ve been thinking a lot lately about how we, as developers and creators, show up online.\nIn my earlier posts, I talked about how hard it can be to share our work — not because we don’t build things, "
   },
   {
-    "title": "Cloud vs On-Premise Warranty Management Systems:- Which Is Better in 2025?",
-    "link": "https://dev.to/digiwarr/cloud-vs-on-premise-warranty-management-systems-which-is-better-in-2025-l0k",
-    "pubDate": "Thu, 13 Nov 2025 06:19:17 +0000",
+    "title": "Top 10 Portfolio Project Ideas for Beginner Developers (Each With Real-World Use Cases)",
+    "link": "https://dev.to/dhruvjoshi9/top-10-portfolio-project-ideas-for-beginner-developers-each-with-real-world-use-cases-1emb",
+    "pubDate": "Thu, 13 Nov 2025 12:39:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Imagine a warranty claim stuck between spreadsheets, emails, and physical copies. The technician can’t trace its status, the manager has no insight, and the customer grows impatient. This everyday cha"
+    "contentSnippet": "Breaking into software development isn’t about having perfect skills—it's about showing the right kind of skills. And nothing communicates capability better than a strong, thoughtfully crafted portfol"
   },
   {
-    "title": "Efficient S3 File Uploads: Speed & Large File Handling in NestJS",
-    "link": "https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4",
-    "pubDate": "Thu, 13 Nov 2025 06:19:14 +0000",
+    "title": "Fixing Failing Tests Automatically with Playwright’s New Healer Agent",
+    "link": "https://dev.to/debs_obrien/fixing-failing-tests-automatically-with-playwrights-new-healer-agent-13ck",
+    "pubDate": "Thu, 13 Nov 2025 12:36:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Uploading files efficiently to S3 isn't just about getting data from point A to point B—it's about doing it fast, reliably, and at scale. Whether you're handling 5MB images or 5GB videos, the right ap"
+    "contentSnippet": "If you’ve ever returned to your test suite to find a sea of red, you’re going to love this one. The Playwright Healer Agent is here — and it’s changing how we think about test maintenance.\nThe Healer "
   },
   {
-    "title": "Use Markdownlint for your documentation",
-    "link": "https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln",
-    "pubDate": "Thu, 13 Nov 2025 06:13:59 +0000",
+    "title": "Junior Dev Resume & Portfolio in the Age of AI: What Recruiters Care About in 2025?",
+    "link": "https://dev.to/dhruvjoshi9/junior-dev-resume-portfolio-in-the-age-of-ai-what-recruiters-care-about-in-2025-26c7",
+    "pubDate": "Thu, 13 Nov 2025 12:31:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This blog post is a TIL (Today I Learned) about using Markdownlint as part of your documentation workflow on GitHub lifted from my TIL collection.\nMarkdownlint-CLI is one of those all-round tools, whi"
+    "contentSnippet": "Junior Dev Resume & Portfolio in the Age of AI: What Recruiters Care About?\n\n\nHey folks 👋\n2025 is a weirdly exciting time to be a junior developer.\nOn one hand, AI tools like GitHub Copilot, ChatGPT,"
   },
   {
-    "title": "7 Best Resources I Found to Learn Full-Stack Development — And How You Can Too",
-    "link": "https://dev.to/stack_overflowed/7-best-resources-i-found-to-learn-full-stack-development-and-how-you-can-too-1an",
-    "pubDate": "Thu, 13 Nov 2025 06:11:15 +0000",
+    "title": "College Projects to Production Code: Mindset Shifts Every Beginner Developer Must Make",
+    "link": "https://dev.to/dhruvjoshi9/college-projects-to-production-code-mindset-shifts-every-beginner-developer-must-make-2a9c",
+    "pubDate": "Thu, 13 Nov 2025 12:25:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Back when I first dipped my toes into full-stack development, I felt like I was chasing a moving target. Frameworks changed, tools evolved... I spent countless hours stuck on conflicting tutorials or "
+    "contentSnippet": "When I wrote my very first “real” application outside of college, I thought I was ready. After all, I had built a chat app, an e-commerce prototype, a few AI models, and even a “weather app that total"
   },
   {
-    "title": "Day 3: Fundamental FinOps Principles and Key Terminologies",
-    "link": "https://dev.to/ibbus/day-3-fundamental-finops-principles-and-key-terminologies-5fmd",
-    "pubDate": "Thu, 13 Nov 2025 06:06:08 +0000",
+    "title": "OWASP Cornucopia 3.0 - A call for card game designers!",
+    "link": "https://dev.to/owasp/owasp-cornucopia-30-a-call-for-card-game-designers-1j1m",
+    "pubDate": "Thu, 13 Nov 2025 12:24:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "FinOps (Financial Operations) is a cultural and operational framework that brings together finance, engineering, and business teams to maximize the value of cloud investments while ensuring cost effic"
+    "contentSnippet": "Would you like to be our card game designer for the OWASP Cornucopia Website Edition v3.0?\n\n\nWe are close to releasing the next version of OWASP Cornucopia Website Edition v3.0\nWe just wonder whether "
   },
   {
-    "title": "Adventure and Peace on the Trails of Beas Kund",
-    "link": "https://dev.to/md_tasin_796ae00572dbbd80/adventure-and-peace-on-the-trails-of-beas-kund-2gp5",
-    "pubDate": "Thu, 13 Nov 2025 06:03:59 +0000",
+    "title": "Creating a Basic FastAPI Application with CRUD Operations",
+    "link": "https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o",
+    "pubDate": "Thu, 13 Nov 2025 12:13:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Few Himalayan trails blend adventure and tranquility as seamlessly as the Beas Kund Trek Manali 2025. Nestled deep in Himachal Pradesh, this trek takes you beyond the ordinary — toward solitude, seren"
+    "contentSnippet": "FastAPI is one of the fastest-growing Python frameworks for building modern APIs. It is fast, easy to use, and comes with built-in data validation using Pydantic.\n🚀 What We Will Build\nid\nname\ndescrip"
   },
   {
-    "title": "Ringer Movies: The 25 Best Movies of the Century: No. 5 - 'Lady Bird’",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-dcp",
-    "pubDate": "Thu, 13 Nov 2025 06:02:30 +0000",
+    "title": "NPR Music: Pulp: Tiny Desk Concert",
+    "link": "https://dev.to/music_youtube/npr-music-pulp-tiny-desk-concert-117l",
+    "pubDate": "Thu, 13 Nov 2025 12:09:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Summary\n\n\nIn the fifth installment of their 25 Best Movies of the Century series, Sean Fennessey and Amanda Dobbins shine a light on Greta Gerwig’s Lady Bird. They call it the ultimate millennial comi"
+    "contentSnippet": "Pulp made a surprise comeback this spring with More, their first album in 25 years, and celebrated by turning NPR’s Tiny Desk into their own cozy stage. Jarvis Cocker and co. kicked things off with a "
   },
   {
-    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-58ic",
-    "pubDate": "Thu, 13 Nov 2025 06:02:19 +0000",
+    "title": "7 Best Alternatives to Botpress in 2025",
+    "link": "https://dev.to/ruixiao/7-best-alternatives-to-botpress-in-2025-2999",
+    "pubDate": "Thu, 13 Nov 2025 12:05:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins just dropped a 20-minute sinfest for Thunderbolts (The New Avengers), calling out every plot hole and quirk—while admitting it might secretly be “kinda great.”  \nAlong the way they "
+    "contentSnippet": "AI chatbots have become essential for businesses looking to improve customer support, automate workflows, and streamline operations. While Botpress is still popular among developers for its open-sourc"
+  },
+  {
+    "title": "インポートしたCSVの行番号",
+    "link": "https://qiita.com/michi-yzrh/items/e3b75dbb08ff65dc614c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T00:47:33.000Z",
+    "source": "Qiita",
+    "contentSnippet": "目的\nAWS S3からAurora PostgreSQLテーブルへのインポートした際に\nデータがCSVの何行目だったのかを確認したい\n\n確認手段\n今回はインポートしたデータをチェックや加工して処理したかったので\n一時テーブルを準備し IDENTITY で自動採番することに..."
   },
   {
     "title": "JS→TS移行で「型を書くだけ」じゃなかった話 - 型を書いて気づいた5つの設計の甘さ",
@@ -98,6 +105,20 @@
     "contentSnippet": "LayerX バクラク事業部でプロダクトマネジメント組織を管掌している飯沼(numashi)です。この記事はLayerX AI Agentブログリレー44日目の記事です。\n今回はテックブログに全然テックじゃない話を差し込んでみようと思います。ちょっとくらい閑話休題ということで、LayerXにおいてAI系の機能を連続的に生み出す仕組みづくりや考え方について書きます。\nちなみに、自分自身もプロダクトマ"
   },
   {
+    "title": "Vue Fes Japan 2025 After Talk参加レポート #vuefes_aftertalk",
+    "link": "https://qiita.com/okuto_oyama/items/7e7d6d2bc26d652516b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-12T09:10:49.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは。株式会社Schooの技術戦略部門に所属しております@okuto_oyamaです。\n突然ですが、皆さんは10/25に開催されたVueエコシステムにまつわる日本最大規模のカンファレンス「Vue Fes Japan 2025」をご存知でしょうか。\n\n2018年にVue..."
+  },
+  {
+    "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
+    "link": "https://qiita.com/take-yoda/items/204d5c4170e408d4d0f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-12T08:48:13.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n前回公開した以下の記事ですが、全て生成AIに書かせました。\n私自身が直接関与したのは、アイディア出しとレビュー、Markdownの記法調整だけで、文章は全て生成AIで作りきりました。\n\n使用したLLMは以下の通りです。\n\nLLM\nバージョン\n課金の有無\n..."
+  },
+  {
     "title": "【Snowflake】Snowflake IntelligenceにWeb検索機能を統合してみた",
     "link": "https://zenn.dev/truestar/articles/6f080b08a49911",
     "pubDate": "Wed, 12 Nov 2025 07:26:25 GMT",
@@ -124,6 +145,13 @@
     "pubDate": "Wed, 12 Nov 2025 04:44:41 GMT",
     "source": "Zenn",
     "contentSnippet": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の117週目の記事です！\n3年間連続達成まで残り42週となりました！\n\n\n はじめに\nみなさんは、良いプロダクトを作っていくために、良い組織を作りたいと考えたことはありますか？私は常にこのことについて頭を悩ませていますが、うまくいかないことだらけでいつも心が折れてしまいそうになります。\n困り果てていた私"
+  },
+  {
+    "title": "AIがプログラマを滅ぼすというのは、幻想やったかもしれん",
+    "link": "https://qiita.com/monsoonTropicalBird/items/1d5a6257808ff7871bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-12T04:28:15.000Z",
+    "source": "Qiita",
+    "contentSnippet": "久しぶりにコードエディタを開く\nつい先日、AIは凄いよね、プログラマはもうあかん　みたいな記事を書いたわけですが、ちょうどそういう記事を書きながら、パヒュームのレシピをログしていけるアプリを作りたいと思い立ち、久々にVSコードを開いたのですが、なぜいきなり香水のレシピなの..."
   },
   {
     "title": "AIの質問を『選択肢+推奨度+理由』にしたら、意思決定の質と速度が圧倒的にあがった",
@@ -159,6 +187,13 @@
     "pubDate": "Tue, 11 Nov 2025 14:28:24 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n個人で管理するウェブサーバでは、しばしば複数のウェブサイトを管理する際にコストも掛かり気味ですが、kubernetes でもツールを適切に選べば複数サイトをケチケチしながら、うまく管理できるという話をしたいと思います。\n\n 複数のサイトに必要な物\n複数のサイトを運営するとなれば、こういったものが必要かと思います。\n\nロードバランサと複数のドメイン\nHTML で作られた複数の静的サイト\n複"
+  },
+  {
+    "title": "ゲームの負荷試験だってオブザーバビリティしたい！！",
+    "link": "https://qiita.com/ume67026265/items/533e0fb3df7d2f174e83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-11T13:40:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "※CEDEC2025 のセッションの中でご紹介したデモの解説を中心にまとめています。\n※あくまで個人の記事になりますので、その点はご了承ください。\n\n開発段階からちゃんとオブザーバビリティできてますか？\nゲームの本番リリースまでにサーバエンジニアはサーバプログラムの開発、..."
   },
   {
     "title": "Next.js App Routerで外部ライブラリのデータフェッチをメモ化する方法",
@@ -203,53 +238,18 @@
     "contentSnippet": "JavaScriptフレームワーク「Next.js」などの開発元で、Webアプリケーションプラットフォームの「Vercel」を提供しているVercelは、同社のサーバレスコンピューティング基盤である「Vercel Functions」のランタイムとしてBunがパブリックベータで利用可能になったことを明らかにしました。 Vercelは、静的なWebサイトはもちろん、JavaScriptのコードをVe"
   },
   {
+    "title": "【JavaScript】配列を二重配列に分解する提案",
+    "link": "https://qiita.com/rana_kualu/items/e7c51921e9e53415b5bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T11:29:33.000Z",
+    "source": "Qiita",
+    "contentSnippet": "これはなに？\n\nIterator Chunking\n[1, 2, 3, 4, 5, 6, 7, 8]\n\n　↓\n\n[ [1, 2, 3], [4, 5, 6], [7, 8] ] // chunking\n[ [1, 2, 3], [2, 3, 4], [3, 4, 5], [..."
+  },
+  {
     "title": "決済実装は怖くない！テストカードという存在",
     "link": "https://qiita.com/inukai-masanori/items/7809cc7b63b37f958880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T09:47:02.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n「決済機能の実装」と聞くと、ちょっと身構えてしまいませんか？\n私は下記の理由でできれば触りたくないと思っています。\n\nお金関係でミスしたら怖い\nセキュリティが複雑そう\nテストが大変そう\n\nとはいえ、「触りたくない」と言って許されるわけではないので、私は以前、..."
-  },
-  {
-    "title": "【CSS】要素がはみ出る！そんな時はまずmin-widthを0にする",
-    "link": "https://qiita.com/hrel11/items/fe402e3a7ed63d8cbe58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T05:13:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "子要素が親要素をはみ出してしまうことがある。\nそんなときは子要素側に以下のCSSを順番に適用するとよい\n\nmin-w-0\nwrap-break-word\n\noverflow 系 (ex. overflow-hidden, overflow-scroll)\n\nphase1..."
-  },
-  {
-    "title": "あかんかった人生をやり直す",
-    "link": "https://qiita.com/monsoonTropicalBird/items/0e62b8fc44e480251f2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T02:20:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "あかんかった人生を取り戻す天啓\n人生思い返すと、様々な事情から途中で放り出してしまった事があまりに沢山あり、我が生涯に一片の悔いなし、という世紀末の覇者ラオウの様な御仁の方がレアであろう。\n不意にそういう思いがよぎった時、それはまた何かやり直す一つの啓示かも知れん。\n\n..."
-  },
-  {
-    "title": "Claude CodeでBacklogのチケットから自動実装する仕組みが快適すぎた",
-    "link": "https://qiita.com/mu7kata/items/4b42054ee1b3a96d6f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T01:59:24.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事ではClaude Codeとプロジェクト管理ツールであるBacklogの連携により、\nGithubのPR作成からBacklog上でのレビュー依頼のやりとりまでを自動化する仕組みを紹介します。\n\nはじめに\n私が所属するチームでは、Backlogを使って開発チケットの管..."
-  },
-  {
-    "title": "超絶わかりやすい！正規表現で詰まったときのチートシート",
-    "link": "https://qiita.com/nolanlover0527/items/81bccb6dac08dfb0e49e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T01:48:01.000Z",
-    "source": "Qiita",
-    "contentSnippet": "正規表現って何?\n正規表現は「文字列のパターンを探すための記号」です。\n例えば「メールアドレスを探したい」「電話番号が正しい形式かチェックしたい」というときに使います。難しそうですが、基本を覚えれば意外と簡単です!\n\n本記事の内容は主要な正規表現エンジン（JavaScr..."
-  },
-  {
-    "title": "【Docker】Docker用語が分からない人のための超入門ガイド",
-    "link": "https://qiita.com/shimada_slj/items/aece093434ca59ed87fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T00:39:23.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは、エンジニア4年目の嶋田です。\nこの記事を開いていただき、ありがとうございます！\nDockerを初めて触ったとき、「コンテナって何？」「イメージとの違いは？」「docker runとdocker startって何が違うの？」と混乱したことはありませんか..."
-  },
-  {
-    "title": "ChatGPTの「良い人フィルター」を外して本音を引き出してみた",
-    "link": "https://qiita.com/nolanlover0527/items/83480966029c70ad14d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-09T23:43:50.000Z",
-    "source": "Qiita",
-    "contentSnippet": "ChatGPTは良い人すぎる?\n自分が作ったコードやテキストの問題点をChatGPTに洗い出してほしいのに、オブラートに包んだありきたりな回答が返ってきた経験はありませんか?\nこのように、AIの 「良い人フィルター」 とは、ユーザーを過度に肯定し、批判的な意見を控え..."
   },
   {
     "title": "GeminiにPDFやWord、Excel、テキストファイルなどの検索機能を組み込める「File Search in Gemini API」提供開始、フルマネージドなRAGシステムを提供",

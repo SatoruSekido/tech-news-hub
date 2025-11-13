@@ -1,73 +1,73 @@
 [
   {
-    "title": "blob14",
-    "link": "https://dev.to/query_filter_591122b53770/blob14-3a0j",
-    "pubDate": "Wed, 12 Nov 2025 18:20:48 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "CREATE OR REPLACE FUNCTION blob_to_text(p_blob BLOB) RETURN VARCHAR2 IS\nl_blob_len := DBMS_LOB.GETLENGTH(p_blob);\nWHILE l_pos <= l_blob_len LOOP\n-- Your exact original conversion logic\nl_text_chunk :="
-  },
-  {
-    "title": "Integrate SDKs for Profitable AI Conversations with Monetzly",
-    "link": "https://dev.to/monetzly/integrate-sdks-for-profitable-ai-conversations-with-monetzly-48c6",
-    "pubDate": "Wed, 12 Nov 2025 18:18:55 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Traditional Ads Don't Work in AI Conversations. Here's What Does.\n\n\nThe AI app ecosystem is booming, but many developers are still grappling with a common challenge: monetization. As AI applications p"
-  },
-  {
-    "title": "Casual Dresses Online: Your Go-To Guide for Everyday Fashion",
-    "link": "https://dev.to/houseofsiyaab/casual-dresses-online-your-go-to-guide-for-everyday-fashion-23oc",
-    "pubDate": "Wed, 12 Nov 2025 18:16:48 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Shopping for casual dresses online has become one of the easiest ways to stay stylish and comfortable. With so many designs, colors, and fabrics to choose from, finding the perfect everyday outfit is "
-  },
-  {
-    "title": "I Was Done Getting Answers — So I Built RAG That Asks Questions Too",
-    "link": "https://dev.to/nishant_prakash_780f5d541/i-was-done-getting-answers-so-i-built-rag-that-asks-questions-too-1c2e",
-    "pubDate": "Wed, 12 Nov 2025 18:12:44 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "“What if a RAG system could not only fetch information but also reason about it, critique itself, and write a report, all autonomously?”\nData-Inspector, a proof-of-concept Agentic RAG pipeline built w"
-  },
-  {
-    "title": "CNNs: from a beginner's point of view",
-    "link": "https://dev.to/nicanor_korir/cnns-from-a-beginners-point-of-view-7ek",
-    "pubDate": "Wed, 12 Nov 2025 18:09:12 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "I've learnt this topic about 20 times now, some are a bit confusing, and of course, I know some core things. In this article, I am going to break down CNN to make it easy to understand the basics and "
-  },
-  {
-    "title": "Introducing eventsourcing.dev: A Clear Guide to Event Sourcing",
-    "link": "https://dev.to/patriceckhart/introducing-eventsourcingdev-a-clear-guide-to-event-sourcing-3hga",
-    "pubDate": "Wed, 12 Nov 2025 18:06:09 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Event Sourcing has been around for decades, yet many developers still find it intimidating. Buried under domain-driven jargon, inconsistent examples, or complex frameworks.\n\nThat's exactly why I built"
-  },
-  {
     "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me",
-    "pubDate": "Wed, 12 Nov 2025 18:02:56 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-5m1",
+    "pubDate": "Thu, 13 Nov 2025 02:00:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins tears into Marvel’s Thunderbolts in under 20 minutes, racking up hilarious “sins” for every plot hole, awkward line and questionable decision — all while grudgingly admitting the flick has "
+    "contentSnippet": "CinemaSins drops a snappy 20-minute roast of Thunderbolts* (The New Avengers), calling out every cinematic “sin” while cheekily admitting they might secretly dig the movie. Expect their trademark quip"
   },
   {
-    "title": "Mr Sunday Movies: Predators - Caravan of Garbage",
-    "link": "https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1",
-    "pubDate": "Wed, 12 Nov 2025 18:02:38 +0000",
+    "title": "Introducing `coderkit` — A Practical Utility Toolkit for Everyday JavaScript Work",
+    "link": "https://dev.to/shivam_waghmare_b65078f18/introducing-coderkit-a-practical-utility-toolkit-for-everyday-javascript-work-1bl0",
+    "pubDate": "Thu, 13 Nov 2025 01:48:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Predators (2010) ditches the overblown Alien vs. Predator crossovers and plunges us back into a dirty, jungle-bound showdown with a ragtag squad of lunatics—all while sneaking in fresh twists that act"
+    "contentSnippet": "If you’ve been writing JavaScript for more than 10 minutes, you already know one thing:\nThat’s stupidly inefficient.\nSo I built coderkit, a lightweight, practical utility toolkit meant to kill repetit"
   },
   {
-    "title": "Git Deep Dive: Mastering rerere",
-    "link": "https://dev.to/louis7/git-deep-dive-mastering-rerere-12jm",
-    "pubDate": "Wed, 12 Nov 2025 18:00:00 +0000",
+    "title": "Understanding Metallurgical Microscopes: How They Work, Key Applications, and How to Choose the Right One",
+    "link": "https://dev.to/fengdie_li_ff5f7699a062c2/understanding-metallurgical-microscopes-how-they-work-key-applications-and-how-to-choose-the-35p7",
+    "pubDate": "Thu, 13 Nov 2025 01:46:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "No, It's Not a Typo: Let's Talk About git rerere (Reuse Recorded Resolution)\ngit rerere helps Git remember how you resolved a conflict previously, and automatically reuses that resolution when the sam"
+    "contentSnippet": "Introduction\n\n\nIn today’s world of advanced manufacturing, materials science, and semiconductor engineering, precision at the microscopic level determines success or failure.\n\nTo truly understand what"
   },
   {
-    "title": "Automate Your Astro Blog with GitHub Actions",
-    "link": "https://dev.to/picoable/automate-your-astro-blog-with-github-actions-5aic",
-    "pubDate": "Wed, 12 Nov 2025 18:00:00 +0000",
+    "title": "Day 1265 : Myself",
+    "link": "https://dev.to/dwane/day-1265-myself-4e9g",
+    "pubDate": "Thu, 13 Nov 2025 01:38:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "While Cloudflare's default Git integration is brilliantly simple, as we covered in our first guide, sometimes you need more power. When you want to add unit tests, linting, or other custom checks to y"
+    "contentSnippet": "liner notes:\nProfessional : Much better day today coding than yesterday. I tried to get a couple of more demo applications for this library running. Of course, one was built with React and it wouldn't"
+  },
+  {
+    "title": "When Correct Is Not Safe: Can We Trust Functionally Correct Patches Generatedby Code Agents?",
+    "link": "https://dev.to/paperium/when-correct-is-not-safe-can-we-trust-functionally-correct-patches-generatedby-code-agents-jih",
+    "pubDate": "Thu, 13 Nov 2025 01:30:42 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "When “Correct” Code Hides a Secret Danger\n\n\nEver wondered if a bug‑free program could still be unsafe? Researchers have uncovered a sneaky problem: AI‑driven code assistants can produce patches that p"
+  },
+  {
+    "title": "Manage GitHub Secrets Across Repositories for Free",
+    "link": "https://dev.to/picoable/manage-github-secrets-across-repositories-for-free-57dm",
+    "pubDate": "Thu, 13 Nov 2025 01:24:56 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "In previous guides, we've covered how to deploy a private Astro blog with Cloudflare Pages and how to create a more powerful workflow for automating Astro deployments with GitHub Actions. Both of thes"
+  },
+  {
+    "title": "computer",
+    "link": "https://dev.to/hainunez/computer-7l0",
+    "pubDate": "Thu, 13 Nov 2025 01:21:14 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Margaret found Timothy in the library's coordination room, staring at a wall covered in task dependency charts. 'The Event pattern works beautifully for simple signals,' he said, 'but I've hit somethi"
+  },
+  {
+    "title": "Dart Frog: Framework Backend Tối giản, Hiệu quả cho Dự án Mã nguồn Mở",
+    "link": "https://dev.to/stelixx-insider/dart-frog-framework-backend-toi-gian-hieu-qua-cho-du-an-ma-nguon-mo-i65",
+    "pubDate": "Thu, 13 Nov 2025 01:19:06 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Unlocking Full-Stack Development with Dart Frog: A Minimalistic Approach\nIn the rapidly evolving landscape of web development, finding tools that balance performance, ease of use, and developer experi"
+  },
+  {
+    "title": "Create a Text Editor in Go - Text Viewer",
+    "link": "https://dev.to/alcb1310/create-a-text-editor-in-go-text-viewer-4akp",
+    "pubDate": "Thu, 13 Nov 2025 01:15:50 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "You can access the code of this chapter in the Kilo-Go github repository in the movingaround branch\nCurrently your file structure should look something like this:\n\nFirst we want to be able to view a s"
+  },
+  {
+    "title": "Federated AI's Achilles' Heel: Can Collaborative Teaching Fix Data Corruption?",
+    "link": "https://dev.to/arvind_sundararajan/federated-ais-achilles-heel-can-collaborative-teaching-fix-data-corruption-2hf2",
+    "pubDate": "Thu, 13 Nov 2025 01:02:12 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Imagine building a cutting-edge AI, only to have its accuracy sabotaged by subtle data errors hidden across a network. This is the lurking threat in federated learning, where models are trained on dec"
   },
   {
     "title": "マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能",
@@ -81,7 +81,7 @@
     "link": "https://www.publickey1.jp/blog/25/nodejstypescripttype_strippingnodejs_v2520.html",
     "pubDate": "2025-11-12T15:50:59.000Z",
     "source": "Publickey",
-    "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行を安心して実行できるようになりました。 Node.jsはTypeScriptをサポ"
+    "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行が安心してできるようになりました。 Node.jsはTypeScriptをサポート"
   },
   {
     "title": "アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜",
@@ -95,7 +95,7 @@
     "link": "https://zenn.dev/loglass/articles/e250a06fca1f4a",
     "pubDate": "Wed, 12 Nov 2025 03:48:07 GMT",
     "source": "Zenn",
-    "contentSnippet": "3行まとめ\n\nAIに質問させるときに選択肢を提示させると、回答が楽で早くなる\nさらに、推奨度とその理由を出力させると、その根拠を元にAIと議論できるし、納得感を持って進められる\n結果、意思決定が速くなり、質も上がる\n\n\n AIと対話しながら開発してますか？\nClaude CodeやCursorなどのAI開発ツールを使ってる人、増えてますよね。\nAIが暴走しないように、不明な点を質問させてる人も多い"
+    "contentSnippet": "こんにちは、ログラスの松岡(@little_hand_s})です\n\n 3行まとめ\n\nAIに質問させるときに選択肢を提示させると、回答が楽で早くなる\nさらに、推奨度とその理由を出力させると、その根拠を元にAIと議論できるし、納得感を持って進められる\n結果、意思決定が速くなり、質も上がる\n\n\n AIと対話しながら開発してますか？\nClaude CodeやCursorなどのAI開発ツールを使ってる人、増"
   },
   {
     "title": "エンジニアキャリアと敗者のゲームと勝者のゲーム",
@@ -124,6 +124,13 @@
     "pubDate": "Tue, 11 Nov 2025 14:28:24 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n個人で管理するウェブサーバでは、しばしば複数のウェブサイトを管理する際にコストも掛かり気味ですが、kubernetes でもツールを適切に選べば複数サイトをケチケチしながら、うまく管理できるという話をしたいと思います。\n\n 複数のサイトに必要な物\n複数のサイトを運営するとなれば、こういったものが必要かと思います。\n\nロードバランサと複数のドメイン\nHTML で作られた複数の静的サイト\n複"
+  },
+  {
+    "title": "Next.js App Routerで外部ライブラリのデータフェッチをメモ化する方法",
+    "link": "https://zenn.dev/luvmini511/articles/a6116e333e3d4d",
+    "pubDate": "Tue, 11 Nov 2025 12:52:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "🌼 はじめに\nNext.js Pages Router ではサーバー側でデータ取得したい場合 getServerSideProps や getStaticProps などのコンポーネントの外の関数でデータを取得してクライアントに渡す方式を取っていました。\nその反面、App Router からはサーバーコンポーネントを採用、データを必要とするコンポーネントでデータ取得できるようになりました。\nそう"
   },
   {
     "title": "エンジニアが覚えておきたい英単語 - AIコード読解時代の必須語彙",
@@ -175,13 +182,6 @@
     "contentSnippet": "令和最新のPerlについて学べる本（になる予定）です"
   },
   {
-    "title": "仕様駆動開発（SDD）を採用したAI駆動開発の実態と課題",
-    "link": "https://zenn.dev/assign/articles/ab66b2843d9380",
-    "pubDate": "Tue, 11 Nov 2025 02:34:33 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこちらの記事は先日開催されたAI駆動開発についてのイベントの登壇内容をベースに記事にしたものです。\nhttps://assign.connpass.com/event/368710/\n発表後の反応が良く、特に「他社のAI駆動開発の実態を知ることができてよかった」という声をいただいたため、改めて記事化することにしました。\nClaude CodeやCodex等を使用して開発している方は増えて"
-  },
-  {
     "title": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと",
     "link": "https://qiita.com/segur/items/9b62c7976bb21e822c72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T22:58:59.000Z",
@@ -210,6 +210,13 @@
     "contentSnippet": "はじめに\n「決済機能の実装」と聞くと、ちょっと身構えてしまいませんか？\n私は下記の理由でできれば触りたくないと思っています。\n\nお金関係でミスしたら怖い\nセキュリティが複雑そう\nテストが大変そう\n\nとはいえ、「触りたくない」と言って許されるわけではないので、私は以前、..."
   },
   {
+    "title": "【CSS】要素がはみ出る！そんな時はまずmin-widthを0にする",
+    "link": "https://qiita.com/hrel11/items/fe402e3a7ed63d8cbe58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T05:13:21.000Z",
+    "source": "Qiita",
+    "contentSnippet": "子要素が親要素をはみ出してしまうことがある。\nそんなときは子要素側に以下のCSSを順番に適用するとよい\n\nmin-w-0\nwrap-break-word\n\noverflow 系 (ex. overflow-hidden, overflow-scroll)\n\nphase1..."
+  },
+  {
     "title": "あかんかった人生をやり直す",
     "link": "https://qiita.com/monsoonTropicalBird/items/0e62b8fc44e480251f2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T02:20:35.000Z",
@@ -224,18 +231,18 @@
     "contentSnippet": "この記事ではClaude Codeとプロジェクト管理ツールであるBacklogの連携により、\nGithubのPR作成からBacklog上でのレビュー依頼のやりとりまでを自動化する仕組みを紹介します。\n\nはじめに\n私が所属するチームでは、Backlogを使って開発チケットの管..."
   },
   {
+    "title": "超絶わかりやすい！正規表現で詰まったときのチートシート",
+    "link": "https://qiita.com/nolanlover0527/items/81bccb6dac08dfb0e49e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T01:48:01.000Z",
+    "source": "Qiita",
+    "contentSnippet": "正規表現って何?\n正規表現は「文字列のパターンを探すための記号」です。\n例えば「メールアドレスを探したい」「電話番号が正しい形式かチェックしたい」というときに使います。難しそうですが、基本を覚えれば意外と簡単です!\n\n本記事の内容は主要な正規表現エンジン（JavaScr..."
+  },
+  {
     "title": "【Docker】Docker用語が分からない人のための超入門ガイド",
     "link": "https://qiita.com/shimada_slj/items/aece093434ca59ed87fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T00:39:23.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは、エンジニア4年目の嶋田です。\nこの記事を開いていただき、ありがとうございます！\nDockerを初めて触ったとき、「コンテナって何？」「イメージとの違いは？」「docker runとdocker startって何が違うの？」と混乱したことはありませんか..."
-  },
-  {
-    "title": "初めて Qiita 投稿する人へ ～中堅 SE が語る“記事づくりの流れと工夫”～",
-    "link": "https://qiita.com/KoheiKushida/items/abb9276dc175991760f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-09T23:59:06.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1.はじめに\n前回の記事では、Qiita に初投稿するときのマインドセットや、情報発信を続ける価値について整理しました。実際に初投稿に挑戦してくれた方もいて、「一歩を踏み出す」流れが少しずつ広がっているように感じます。\n\n記事投稿後、周囲から次のような相談を受けること..."
   },
   {
     "title": "ChatGPTの「良い人フィルター」を外して本音を引き出してみた",
@@ -257,13 +264,6 @@
     "pubDate": "2025-11-09T15:01:28.000Z",
     "source": "Publickey",
     "contentSnippet": "ITエンジニアが、ITエンジニアに読んでほしい技術書・ビジネス書を選ぶイベント「ITエンジニア本大賞 2026」の投票が11月6日から始まりました。 　ITエンジニア本大賞 2026　　　　投票スタート！　　ITエンジニアに読んでほしい本を選ぶイベント、ITエンジニア本大賞が今年も始まりました。投票できる部門は、●技術書部門●ビジネス書部門投票できる期間は、●12/7までぜひおすすめ本に投票を！h"
-  },
-  {
-    "title": "【初心者完全版】0からReact開発して基礎をマスターできる最強チュートリアル 音楽生成アプリ編【図解解説】",
-    "link": "https://qiita.com/Sicut_study/items/c0096caf21eefcd5c85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-09T08:06:32.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは、Watanabe jinです。\nReactがAIも相まって選択されるケースが増えて学びたいと思っている人も多いかと思います。\n私も過去にたくさんのReact教材をやりましたが、本当にやってよかったと思える教材はほぼありませんでした。\n最初に選ぶ教材..."
   },
   {
     "title": "先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事",

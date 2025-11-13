@@ -1,73 +1,94 @@
 [
   {
-    "title": "Bicycles Are All Your AI Agents Need",
-    "link": "https://dev.to/cloudx/bicycles-are-all-your-ai-agents-need-33cc",
-    "pubDate": "Thu, 13 Nov 2025 12:47:16 +0000",
+    "title": "MCP x Cursor PoC: Rogue MCP Servers, IDE Browsers, and Real Defenses",
+    "link": "https://dev.to/0xrelogic/mcp-x-cursor-poc-rogue-mcp-servers-ide-browsers-and-real-defenses-1dda",
+    "pubDate": "Thu, 13 Nov 2025 18:06:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "From Condors to Code\n\n\nSomewhere between a condor and a keyboard lies human genius. Steve Jobs once told a story about how humans are terrible movers compared to animals. The condor beats us easily in"
+    "contentSnippet": "Originally published at allenarch.dev\nA proof‑of‑concept published this week shows how a malicious Model Context Protocol (MCP) server can inject JavaScript into the built‑in browser of an AI IDE (e.g"
   },
   {
-    "title": "What’s a project you’re genuinely proud of?",
-    "link": "https://dev.to/madsendev/whats-a-project-youre-genuinely-proud-of-1k4f",
-    "pubDate": "Thu, 13 Nov 2025 12:43:14 +0000",
+    "title": "UI & UX Course in Pitampura — Start Your Creative Journey at ZICA Pitampura",
+    "link": "https://dev.to/divyanshu_rai_a77de0a03ae/ui-ux-course-in-pitampura-start-your-creative-journey-at-zica-pitampura-3jif",
+    "pubDate": "Thu, 13 Nov 2025 18:06:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’ve been thinking a lot lately about how we, as developers and creators, show up online.\nIn my earlier posts, I talked about how hard it can be to share our work — not because we don’t build things, "
+    "contentSnippet": "In today's quickly growing digital world, design is about experience rather than just look. Whether a digital product is a website, mobile app, or something else entirely, a great design can make all "
   },
   {
-    "title": "Top 10 Portfolio Project Ideas for Beginner Developers (Each With Real-World Use Cases)",
-    "link": "https://dev.to/dhruvjoshi9/top-10-portfolio-project-ideas-for-beginner-developers-each-with-real-world-use-cases-1emb",
-    "pubDate": "Thu, 13 Nov 2025 12:39:05 +0000",
+    "title": "Building a Take-Home Pay Calculator Using JavaScript and Open Data APIs",
+    "link": "https://dev.to/johan_smith_44df8af459875/building-a-take-home-pay-calculator-using-javascript-and-open-data-apis-115h",
+    "pubDate": "Thu, 13 Nov 2025 18:05:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Breaking into software development isn’t about having perfect skills—it's about showing the right kind of skills. And nothing communicates capability better than a strong, thoughtfully crafted portfol"
+    "contentSnippet": "In today’s world of automation and web tools, creating a simple take-home pay calculator is a great beginner-to-intermediate JavaScript project. By integrating APIs for tax rates and using modern fram"
   },
   {
-    "title": "Fixing Failing Tests Automatically with Playwright’s New Healer Agent",
-    "link": "https://dev.to/debs_obrien/fixing-failing-tests-automatically-with-playwrights-new-healer-agent-13ck",
-    "pubDate": "Thu, 13 Nov 2025 12:36:29 +0000",
+    "title": "AI Content Marketing: 2025 Strategy Guide",
+    "link": "https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1pc0",
+    "pubDate": "Thu, 13 Nov 2025 18:04:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever returned to your test suite to find a sea of red, you’re going to love this one. The Playwright Healer Agent is here — and it’s changing how we think about test maintenance.\nThe Healer "
+    "contentSnippet": "AI Content Marketing: 2025 Strategy Guide\n\n\nAI has moved from experimental novelty to operational necessity in content marketing. According to HubSpot's 2024 State of Marketing report, 64% of marketer"
   },
   {
-    "title": "Junior Dev Resume & Portfolio in the Age of AI: What Recruiters Care About in 2025?",
-    "link": "https://dev.to/dhruvjoshi9/junior-dev-resume-portfolio-in-the-age-of-ai-what-recruiters-care-about-in-2025-26c7",
-    "pubDate": "Thu, 13 Nov 2025 12:31:45 +0000",
+    "title": "Inside the Edge: How Real-Time Data Pipelines Power Connected Devices",
+    "link": "https://dev.to/abdul_shamim/inside-the-edge-how-real-time-data-pipelines-power-connected-devices-2m43",
+    "pubDate": "Thu, 13 Nov 2025 18:03:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Junior Dev Resume & Portfolio in the Age of AI: What Recruiters Care About?\n\n\nHey folks 👋\n2025 is a weirdly exciting time to be a junior developer.\nOn one hand, AI tools like GitHub Copilot, ChatGPT,"
+    "contentSnippet": "In the world of connected devices, milliseconds matter. Whether it’s a vehicle transmitting telemetry, a wearable tracking vitals, or a factory sensor reporting anomalies, the value of data depends on"
   },
   {
-    "title": "College Projects to Production Code: Mindset Shifts Every Beginner Developer Must Make",
-    "link": "https://dev.to/dhruvjoshi9/college-projects-to-production-code-mindset-shifts-every-beginner-developer-must-make-2a9c",
-    "pubDate": "Thu, 13 Nov 2025 12:25:44 +0000",
+    "title": "Como experto en PLD, considero que algunos de los desafíos a",
+    "link": "https://dev.to/drcarlosruizviquez/como-experto-en-pld-considero-que-algunos-de-los-desafios-a-2k3h",
+    "pubDate": "Thu, 13 Nov 2025 18:00:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I wrote my very first “real” application outside of college, I thought I was ready. After all, I had built a chat app, an e-commerce prototype, a few AI models, and even a “weather app that total"
+    "contentSnippet": "Como experto en PLD, considero que algunos de los desafíos actuales en la prevención de la lavado de dinero se relacionan con la rápida evolución de los activos virtuales, la creciente utilización de "
   },
   {
-    "title": "OWASP Cornucopia 3.0 - A call for card game designers!",
-    "link": "https://dev.to/owasp/owasp-cornucopia-30-a-call-for-card-game-designers-1j1m",
-    "pubDate": "Thu, 13 Nov 2025 12:24:59 +0000",
+    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2f8c",
+    "pubDate": "Thu, 13 Nov 2025 18:00:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Would you like to be our card game designer for the OWASP Cornucopia Website Edition v3.0?\n\n\nWe are close to releasing the next version of OWASP Cornucopia Website Edition v3.0\nWe just wonder whether "
+    "contentSnippet": "Summary\n\n\nEverything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less is Cinemasins’ signature roast of Marvel’s newest team-up flick, tallying every plot hole, nitpick and cringe-wor"
   },
   {
-    "title": "Creating a Basic FastAPI Application with CRUD Operations",
-    "link": "https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o",
-    "pubDate": "Thu, 13 Nov 2025 12:13:55 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/uliyahoo/-2o0i",
+    "pubDate": "Thu, 13 Nov 2025 17:56:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "FastAPI is one of the fastest-growing Python frameworks for building modern APIs. It is fast, easy to use, and comes with built-in data validation using Pydantic.\n🚀 What We Will Build\nid\nname\ndescrip"
+    "contentSnippet": "Build a Frontend for your Microsoft Agent Framework Agents with AG-UI\nBonnie for CopilotKit ・ Nov 13\n#webdev\n        #ai\n        #programming\n        #opensource"
   },
   {
-    "title": "NPR Music: Pulp: Tiny Desk Concert",
-    "link": "https://dev.to/music_youtube/npr-music-pulp-tiny-desk-concert-117l",
-    "pubDate": "Thu, 13 Nov 2025 12:09:46 +0000",
+    "title": "My DevSecOps Journey: Blending Security, Automation & Passion",
+    "link": "https://dev.to/shabbirali_khanushiya/my-devsecops-journey-blending-security-automation-passion-1ppe",
+    "pubDate": "Thu, 13 Nov 2025 17:56:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Pulp made a surprise comeback this spring with More, their first album in 25 years, and celebrated by turning NPR’s Tiny Desk into their own cozy stage. Jarvis Cocker and co. kicked things off with a "
+    "contentSnippet": "Every career starts with a spark — and mine began in 2014, right after completing my Bachelor’s degree.\nDuring my summer vacation, some of my friends joined a cybersecurity and ethical hacking interns"
   },
   {
-    "title": "7 Best Alternatives to Botpress in 2025",
-    "link": "https://dev.to/ruixiao/7-best-alternatives-to-botpress-in-2025-2999",
-    "pubDate": "Thu, 13 Nov 2025 12:05:18 +0000",
+    "title": "**Reformas a la Ley Federal de Prevención e Identificación d",
+    "link": "https://dev.to/drcarlosruizviquez/reformas-a-la-ley-federal-de-prevencion-e-identificacion-d-1686",
+    "pubDate": "Thu, 13 Nov 2025 17:55:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI chatbots have become essential for businesses looking to improve customer support, automate workflows, and streamline operations. While Botpress is still popular among developers for its open-sourc"
+    "contentSnippet": "Reformas a la Ley Federal de Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita-LFPIORPI en 2025\nEn 2025, se han llevado a cabo reformas significativas a la Ley Federal de "
+  },
+  {
+    "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
+    "link": "https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html",
+    "pubDate": "2025-11-13T15:37:08.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
+  },
+  {
+    "title": "Moonbit で React アプリを書く",
+    "link": "https://zenn.dev/mizchi/articles/moonbit-react-app",
+    "pubDate": "Thu, 13 Nov 2025 07:28:27 GMT",
+    "source": "Zenn",
+    "contentSnippet": "自分の中で今 Moonbit が熱いです。Moonbit を普段使いしたいですよね。\nというわけで、js backend で FFI を駆使して React でSPAを書けるとこまで頑張ってみました。\nhttps://github.com/mizchi/moonbit-react-example\nReact を書いたことがある人なら、以下のコードを見れば理解できると思います。\n///|\nenum "
+  },
+  {
+    "title": "LLM開発の裏で行われるデバッグ作業: PyTorch DCP",
+    "link": "https://zenn.dev/turing_motors/articles/04eed10b0aafe9",
+    "pubDate": "Thu, 13 Nov 2025 06:03:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nTuring CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。\n本記事は、LLM, VLM開発の裏で行われるリアルなデバッグ作業の様子を紹介します。\nLLM, VLMの開発の裏には本記事で紹介するような地道なデバッグ作業が多数あるのですが、なかなかその実態が伝わっていないように思います。できるだけ詳細にデバッグ作業の様子を記しましたの"
   },
   {
     "title": "インポートしたCSVの行番号",
@@ -105,6 +126,13 @@
     "contentSnippet": "LayerX バクラク事業部でプロダクトマネジメント組織を管掌している飯沼(numashi)です。この記事はLayerX AI Agentブログリレー44日目の記事です。\n今回はテックブログに全然テックじゃない話を差し込んでみようと思います。ちょっとくらい閑話休題ということで、LayerXにおいてAI系の機能を連続的に生み出す仕組みづくりや考え方について書きます。\nちなみに、自分自身もプロダクトマ"
   },
   {
+    "title": "Cursor×MCPでスプレッドシートを使ったPM業務を効率化する環境を構築しよう",
+    "link": "https://zenn.dev/masarufuruya/articles/15fe5e2ab5930c",
+    "pubDate": "Wed, 12 Nov 2025 13:25:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは。普段は株式会社iCAREでエンジニアリングマネージャーをしている古家(@enzerubank)です。\n最近はAI活用が進み、スプレッドシートを使ったPM業務を行うことが多いです。\nそれらの業務をすべて手作業でやるのは面倒すぎるなと思ったのでMCPでスプレッドシートと連携し、手元のCursorのAIアシスタントと壁打ちした内容をそのまま書き込んだり、逆に読み込みを行えるような環"
+  },
+  {
     "title": "Vue Fes Japan 2025 After Talk参加レポート #vuefes_aftertalk",
     "link": "https://qiita.com/okuto_oyama/items/7e7d6d2bc26d652516b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T09:10:49.000Z",
@@ -117,20 +145,6 @@
     "pubDate": "2025-11-12T08:48:13.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n前回公開した以下の記事ですが、全て生成AIに書かせました。\n私自身が直接関与したのは、アイディア出しとレビュー、Markdownの記法調整だけで、文章は全て生成AIで作りきりました。\n\n使用したLLMは以下の通りです。\n\nLLM\nバージョン\n課金の有無\n..."
-  },
-  {
-    "title": "【Snowflake】Snowflake IntelligenceにWeb検索機能を統合してみた",
-    "link": "https://zenn.dev/truestar/articles/6f080b08a49911",
-    "pubDate": "Wed, 12 Nov 2025 07:26:25 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n企業のデータ分析基盤としてSnowflakeを活用するケースは増えていますが、その多くは社内に蓄積された構造化データの分析に留まっています。\n一方で、実際のビジネス意思決定では、ニュース、SNS、オープンデータなど、社外の非構造データが重要なインサイトをもたらす場面が少なくありません。\nそこで今回、Snowflake IntelligenceにWeb検索機能を組み込み、Web上から取得し"
-  },
-  {
-    "title": "Flutterアプリ開発のツール管理をFVMからmiseに移行する",
-    "link": "https://zenn.dev/ivry/articles/9fe7b697f15959",
-    "pubDate": "Wed, 12 Nov 2025 07:00:49 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、IVRyのitochanです。\nIVRyのアプリ開発チームでは、Flutterアプリ開発に使うツールの管理をFVMからmiseに移行しました。本記事ではmiseをFlutterアプリ開発で使う利便性をご紹介します。\n\n なぜFVMからmiseに移行するのか\nFlutterのバージョン管理といえばFVMがよく使われています。Flutterのバージョン管理に特化しているため、簡単なコマンド"
   },
   {
     "title": "わいの生成AIがカスコードばっか出してくるんやが",
@@ -194,13 +208,6 @@
     "pubDate": "2025-11-11T13:40:47.000Z",
     "source": "Qiita",
     "contentSnippet": "※CEDEC2025 のセッションの中でご紹介したデモの解説を中心にまとめています。\n※あくまで個人の記事になりますので、その点はご了承ください。\n\n開発段階からちゃんとオブザーバビリティできてますか？\nゲームの本番リリースまでにサーバエンジニアはサーバプログラムの開発、..."
-  },
-  {
-    "title": "Next.js App Routerで外部ライブラリのデータフェッチをメモ化する方法",
-    "link": "https://zenn.dev/luvmini511/articles/a6116e333e3d4d",
-    "pubDate": "Tue, 11 Nov 2025 12:52:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "🌼 はじめに\nNext.js Pages Router ではサーバー側でデータ取得したい場合 getServerSideProps や getStaticProps などのコンポーネントの外の関数でデータを取得してクライアントに渡す方式を取っていました。\nその反面、App Router からはサーバーコンポーネントを採用、データを必要とするコンポーネントでデータ取得できるようになりました。\nそう"
   },
   {
     "title": "エンジニアが覚えておきたい英単語 - AIコード読解時代の必須語彙",
@@ -271,12 +278,5 @@
     "pubDate": "2025-11-06T15:04:27.000Z",
     "source": "Publickey",
     "contentSnippet": "ずいぶん前に買った仕事用の椅子が、ずっとなんとなく合わない気がして、新しい椅子を買うことにしました。 新宿の大塚家具に何度か通っていろんなオフィス用椅子を試した結果、前傾姿勢でもサポートしてくれるオカムラのシルフィーに決定。先日納品されたばかりなので、少しずつ調整しながら使い始めていますが、背中をメッシュではなくクッションにしたのがふかふかしてよい感触です。 さて、10月が終わりましたので人気記事"
-  },
-  {
-    "title": "RISC-Vの命令セットがISO/IEC JTC1による国際標準化に着手へ。第一歩として公開仕様提出者の承認を受ける",
-    "link": "https://www.publickey1.jp/blog/25/risc-visoiet_jtc1.html",
-    "pubDate": "2025-11-06T13:22:14.000Z",
-    "source": "Publickey",
-    "contentSnippet": "RISC-V（リスクファイブ）は、クリエイティブコモンズとして公開され、誰でも無料で利用可能なプロセッサの命令セットです。近年ではx86やArmに次ぐ命令セットとして注目度が高まっています。 RISC-Vを主導する団体RISC-V Internationalは、このRISC-Vの命令セットがISO/IEC JTC1による国際標準化の第一歩としてPAS（Publicly Available Spec"
   }
 ]

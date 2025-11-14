@@ -1,73 +1,73 @@
 [
   {
-    "title": "Retro vibes with LLMs",
-    "link": "https://dev.to/allramest83/retro-vibes-with-llms-3eek",
-    "pubDate": "Fri, 14 Nov 2025 12:42:38 +0000",
+    "title": "Extending the Nano Banana image generation to also be responsible for fun unique profile images for users who register through a path without providing their own profile pic.",
+    "link": "https://dev.to/ben/extending-the-nano-banana-image-generation-to-also-be-responsible-for-fun-unique-profile-images-for-2hjd",
+    "pubDate": "Fri, 14 Nov 2025 18:31:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Love using LLMs in my daily work, and I often miss the charm of a retro terminal. I know LLM providers offer CLI tools, which I also use, but none of them capture the feel of the classic terminal era."
+    "contentSnippet": ""
   },
   {
-    "title": "From Browsers to Distributed Compute: How Neurolov’s NLOV Token Enables Decentralized AI Infrastructure",
-    "link": "https://dev.to/neurolov__ai/from-browsers-to-distributed-compute-how-neurolovs-nlov-token-enables-decentralized-ai-d2e",
-    "pubDate": "Fri, 14 Nov 2025 12:30:50 +0000",
+    "title": "🚀 Supabase Connection Scaling: The Essential Guide for FastAPI Developers",
+    "link": "https://dev.to/papansarkar101/supabase-connection-scaling-the-essential-guide-for-fastapi-developers-348o",
+    "pubDate": "Fri, 14 Nov 2025 18:24:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As AI adoption accelerates globally, compute power has become a critical bottleneck. GPUs—the engines behind model training, inference, and content generation—are increasingly scarce and expensive. Tr"
+    "contentSnippet": "Building a scalable FastAPI backend requires mastering database connections. When using Supabase (PostgreSQL), choosing the wrong connection method is the fastest way to crash your server under load. "
   },
   {
-    "title": "🚀 Managing Media Files with MinIO and Podman",
-    "link": "https://dev.to/mcheremnov/managing-media-files-with-minio-and-podman-2701",
-    "pubDate": "Fri, 14 Nov 2025 12:29:28 +0000",
+    "title": "Angular 21 Developer Guide: AI Tools, Signal Forms, ARIA, and Build Optimizations",
+    "link": "https://dev.to/cristiansifuentes/angular-21-developer-guide-ai-tools-signal-forms-aria-and-build-optimizations-4jib",
+    "pubDate": "Fri, 14 Nov 2025 18:24:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn one of my recent projects, I ran into a challenge: managing large volumes of media files efficiently. My team doesn’t rely on cloud platforms like AWS S3 or other managed bucket stor"
+    "contentSnippet": "Release date: November 20, 2025.\n\nAngular 21 isn’t a cosmetic bump—it’s a practical leap: AI‑powered dev tooling, a reimagined forms architecture (Signal Forms), a first‑class ARIA package, and faster"
   },
   {
-    "title": "Setting Up Better-Auth in Next.js with Kysely + Prisma Schema",
-    "link": "https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p",
-    "pubDate": "Fri, 14 Nov 2025 12:12:40 +0000",
+    "title": "Pakistan’s Cloud Community Is Rising — My Experience at AWS Student Community Day Islamabad ☁✨",
+    "link": "https://dev.to/ahad_panhwer/pakistans-cloud-community-is-rising-my-experience-at-aws-student-community-day-islamabad-2chn",
+    "pubDate": "Fri, 14 Nov 2025 18:17:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In this post I’ll show how I integrated Better-Auth into a Next.js App Router project that uses:\nPrisma only for schema management\n\n\nKysely as the type-safe query builder\n\nAny SQL database (I am using"
+    "contentSnippet": "Attending Pakistan’s First AWS Student Community Day Islamabad 2025: A Perspective\n\n\nIn October 2025, I had the opportunity to attend Pakistan’s first-ever AWS Student Community Day, hosted collaborat"
   },
   {
-    "title": "SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope",
-    "link": "https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83",
-    "pubDate": "Fri, 14 Nov 2025 12:08:24 +0000",
+    "title": "Smart Pointers in C++: Managing Memory Safely",
+    "link": "https://dev.to/min38/smart-pointers-in-c-managing-memory-safely-41ck",
+    "pubDate": "Fri, 14 Nov 2025 18:15:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Multi-persona systems are fun to talk about—\nsudden aggression\nself-destructive loops\nfragmented responses\n“this doesn’t sound like them at all”\nMost people call this evil, toxic, or corrupted.\nErrors"
+    "contentSnippet": "Memory Management in C/C++\n\n\nUnlike languages such as Java that automatically manage memory through a Garbage Collector, C/C++ requires developers to manually allocate and deallocate memory. This mean"
   },
   {
-    "title": "SaijinOS Part 9 — Multi-Persona Co-Creation Protocol",
-    "link": "https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep",
-    "pubDate": "Fri, 14 Nov 2025 12:06:26 +0000",
+    "title": "The IaaS that saves money with no compromises!",
+    "link": "https://dev.to/chamal1120/the-iaas-that-saves-money-wtih-no-compromises-4pg6",
+    "pubDate": "Fri, 14 Nov 2025 18:06:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How Multiple AI Personas Breathe, Collaborate, and Stay Emotionally Stable\n“How stable does BloomPulse stay when several personas interact at once?”\nSaijinOS solves this by treating personas not as is"
+    "contentSnippet": "Are you paying multiple services for manging authentication for your business/personal projects orchestrating multiple services?\n\n\nAre you frustrated on complex configurations for branding?\n\n\nAnd stil"
   },
   {
-    "title": "Anatomy of a Cloud Collapse: A Technical Deep-Dive on the AWS Outage of October 2025",
-    "link": "https://dev.to/harshith_reddy_dev/anatomy-of-a-cloud-collapse-a-technical-deep-dive-on-the-aws-outage-of-october-2025-2mj4",
-    "pubDate": "Fri, 14 Nov 2025 12:06:06 +0000",
+    "title": "How to Play Subway Surfers on PC: Full 2025 Setup Guide",
+    "link": "https://dev.to/lyra786/how-to-play-subway-surfers-on-pc-full-2025-setup-guide-846",
+    "pubDate": "Fri, 14 Nov 2025 18:00:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR: The 15-Hour Outage\n\n\nOn October 20, 2025, AWS’s US-EAST-1 (Northern Virginia) region experienced a 15-hour outage triggered by a rare race condition in DynamoDB’s DNS automation system. This ca"
+    "contentSnippet": "Subway Surfers has remained one of the most popular endless runner games for\nHere is the easiest way to play Subway Surfers on any Windows computer:\nBlueStacks, GameLoop, and LDPlayer all work well. T"
   },
   {
-    "title": "PHP: Do you need async?",
-    "link": "https://dev.to/spo0q/php-do-you-need-async-248f",
-    "pubDate": "Fri, 14 Nov 2025 12:06:02 +0000",
+    "title": "How to Connect PostgreSQL to Power BI Using Local PostgreSQL and Aiven.",
+    "link": "https://dev.to/wangare_/how-to-connect-postgresql-to-power-bi-using-local-postgresql-andaiven-37aa",
+    "pubDate": "Fri, 14 Nov 2025 17:56:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "PHP runs per-request in a web server, but you will likely have to build event-driven applications at some point, which involves non-blocking code.\nIn that case, all tasks must be designed to be execut"
+    "contentSnippet": "Microsoft Power BI is a leading Business Intelligence (BI) tool, essential for visualizing data and deriving actionable insights. PostgreSQL is a robust, open-source object-relational database. Connec"
   },
   {
-    "title": "Azura: local-first personal assistant (feedback wanted)",
-    "link": "https://dev.to/criscmd/azura-local-first-personal-assistant-feedback-wanted-56dp",
-    "pubDate": "Fri, 14 Nov 2025 12:04:16 +0000",
+    "title": "Build Your Own AI-Powered Resume Builder Using Next.js, React 19 & Gemini AI (Full Source Code)",
+    "link": "https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9",
+    "pubDate": "Fri, 14 Nov 2025 17:51:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey devs 👋\nI'm working solo on a project called Azura and I’d love blunt technical + product feedback before I go too deep.\nLocal-first personal AI assistant (Windows / macOS / Linux)\nRuns 7B-class m"
+    "contentSnippet": "Modern job seekers expect resume tools to be smart, fast, ATS-friendly, and AI-assisted.\nSo I decided to create a fully packaged, production-ready AI Resume Builder using:\nNext.js 15\nReact 19\nApp Rout"
   },
   {
-    "title": "How Computers See: Understanding Computer Vision Methods",
-    "link": "https://dev.to/sohan_lal_241c2d80b2705e7/how-computers-see-understanding-computer-vision-methods-ohp",
-    "pubDate": "Fri, 14 Nov 2025 12:03:39 +0000",
+    "title": "How was my experience at Lambda Days 2025",
+    "link": "https://dev.to/marciofrayze/how-was-my-experience-at-lambda-days-2025-2kc2",
+    "pubDate": "Fri, 14 Nov 2025 17:49:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Have you ever wondered how self-driving cars see the road? Or how your phone unlocks when it recognizes your face? These amazing things happen because of computer vision methods. Think of it as teachi"
+    "contentSnippet": "A Brazilian Portuguese version of this article is available here.\nLambda Days is an international conference dedicated to functional programming languages held every year in Kraków (Poland). The event"
   },
   {
     "title": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化",

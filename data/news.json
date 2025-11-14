@@ -1,73 +1,73 @@
 [
   {
-    "title": "MCP x Cursor PoC: Rogue MCP Servers, IDE Browsers, and Real Defenses",
-    "link": "https://dev.to/0xrelogic/mcp-x-cursor-poc-rogue-mcp-servers-ide-browsers-and-real-defenses-1dda",
-    "pubDate": "Thu, 13 Nov 2025 18:06:50 +0000",
+    "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2d1l",
+    "pubDate": "Fri, 14 Nov 2025 02:02:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Originally published at allenarch.dev\nA proof‑of‑concept published this week shows how a malicious Model Context Protocol (MCP) server can inject JavaScript into the built‑in browser of an AI IDE (e.g"
+    "contentSnippet": "CinemaSins takes on Jurassic World: Rebirth in under 17 minutes, gleefully tallying every nitpick as yet another dino adventure roars back to life—and audiences happily follow.  \nAlong the way, they s"
   },
   {
-    "title": "UI & UX Course in Pitampura — Start Your Creative Journey at ZICA Pitampura",
-    "link": "https://dev.to/divyanshu_rai_a77de0a03ae/ui-ux-course-in-pitampura-start-your-creative-journey-at-zica-pitampura-3jif",
-    "pubDate": "Thu, 13 Nov 2025 18:06:47 +0000",
+    "title": "ColorAgent: Building A Robust, Personalized, and Interactive OS Agent",
+    "link": "https://dev.to/paperium/coloragent-building-a-robust-personalized-and-interactive-os-agent-4f5f",
+    "pubDate": "Fri, 14 Nov 2025 01:40:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today's quickly growing digital world, design is about experience rather than just look. Whether a digital product is a website, mobile app, or something else entirely, a great design can make all "
+    "contentSnippet": "Meet ColorAgent: Your Phone’s New Friendly AI Assistant\n\n\nEver imagined your smartphone could talk to you like a helpful buddy? ColorAgent turns that dream into reality.\nAI agent lives inside your ope"
   },
   {
-    "title": "Building a Take-Home Pay Calculator Using JavaScript and Open Data APIs",
-    "link": "https://dev.to/johan_smith_44df8af459875/building-a-take-home-pay-calculator-using-javascript-and-open-data-apis-115h",
-    "pubDate": "Thu, 13 Nov 2025 18:05:56 +0000",
+    "title": "Finally a Normal Scheduling API for Dental. I’m Alarmingly Into It.",
+    "link": "https://dev.to/lake22traillady/finally-a-normal-scheduling-api-for-dental-im-alarmingly-into-it-1m52",
+    "pubDate": "Fri, 14 Nov 2025 01:37:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s world of automation and web tools, creating a simple take-home pay calculator is a great beginner-to-intermediate JavaScript project. By integrating APIs for tax rates and using modern fram"
+    "contentSnippet": "If you told me last year I’d be excited about a dental scheduling API, I would’ve assumed you were trying to prank me into switching careers.\nBut here we are.\nAnd a simple update won't throw absolutel"
   },
   {
-    "title": "AI Content Marketing: 2025 Strategy Guide",
-    "link": "https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1pc0",
-    "pubDate": "Thu, 13 Nov 2025 18:04:03 +0000",
+    "title": "Recreating LinkedIn’s Crossclimb Game with Angular - Part 3",
+    "link": "https://dev.to/michelestieven/recreating-linkedins-crossclimb-game-with-angular-part-3-4n33",
+    "pubDate": "Fri, 14 Nov 2025 01:34:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI Content Marketing: 2025 Strategy Guide\n\n\nAI has moved from experimental novelty to operational necessity in content marketing. According to HubSpot's 2024 State of Marketing report, 64% of marketer"
+    "contentSnippet": "Now that we've taken care of the game's logic with a service, it's time to end our little project with a couple more components!\nHint component\n\n\nBut first, let's create a simple component to display "
   },
   {
-    "title": "Inside the Edge: How Real-Time Data Pipelines Power Connected Devices",
-    "link": "https://dev.to/abdul_shamim/inside-the-edge-how-real-time-data-pipelines-power-connected-devices-2m43",
-    "pubDate": "Thu, 13 Nov 2025 18:03:31 +0000",
+    "title": "A real-world example of CsvPath schemas",
+    "link": "https://dev.to/david_kershaw_b6916404da6/a-real-world-example-of-csvpath-schemas-1j0p",
+    "pubDate": "Fri, 14 Nov 2025 01:31:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the world of connected devices, milliseconds matter. Whether it’s a vehicle transmitting telemetry, a wearable tracking vitals, or a factory sensor reporting anomalies, the value of data depends on"
+    "contentSnippet": "Zuora's example invoice upload CSV came to my attention in a timely way. Just last night I posted this comparison of SQL and CsvPath schemas. CSV schemas are an interesting topic for anyone who likes "
   },
   {
-    "title": "Como experto en PLD, considero que algunos de los desafíos a",
-    "link": "https://dev.to/drcarlosruizviquez/como-experto-en-pld-considero-que-algunos-de-los-desafios-a-2k3h",
-    "pubDate": "Thu, 13 Nov 2025 18:00:53 +0000",
+    "title": "Writing Your First Compiler - Part 7: Taking Stock",
+    "link": "https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-7-taking-stock-403j",
+    "pubDate": "Fri, 14 Nov 2025 01:29:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Como experto en PLD, considero que algunos de los desafíos actuales en la prevención de la lavado de dinero se relacionan con la rápida evolución de los activos virtuales, la creciente utilización de "
+    "contentSnippet": "We've built a complete compiler frontend. Source code becomes tokens, tokens become an abstract syntax tree. Before we jump into code generation, let's take a moment to understand what we actually hav"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-2f8c",
-    "pubDate": "Thu, 13 Nov 2025 18:00:30 +0000",
+    "title": "Next.js + Resend APIでお問い合わせフォームを実装した話",
+    "link": "https://dev.to/beachone1155/nextjs-resend-apideowen-ihe-wasehuomuwoshi-zhuang-sitahua-1mkm",
+    "pubDate": "Fri, 14 Nov 2025 01:20:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Summary\n\n\nEverything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less is Cinemasins’ signature roast of Marvel’s newest team-up flick, tallying every plot hole, nitpick and cringe-wor"
+    "contentSnippet": "はじめに\n\n\nこの記事では、Next.js（App Router）とResend APIを使用して、お問い合わせフォームを実装した過程をまとめます。フロントエンドのバリデーションから、バックエンドのメール送信、XSS対策、エラーハンドリングまで、実装の詳細を解説します。\n技術ブログに読者からのお問い合わせを受け付ける機能を追加したいと考えました。要件は以下の通りです：\n名前、メールアドレス、メッセ"
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/uliyahoo/-2o0i",
-    "pubDate": "Thu, 13 Nov 2025 17:56:10 +0000",
+    "title": "Google AdSense「有用性の低いコンテンツ」審査対応の記録",
+    "link": "https://dev.to/beachone1155/google-adsenseyou-yong-xing-nodi-ikontentu-shen-cha-dui-ying-noji-lu-512k",
+    "pubDate": "Fri, 14 Nov 2025 01:20:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Build a Frontend for your Microsoft Agent Framework Agents with AG-UI\nBonnie for CopilotKit ・ Nov 13\n#webdev\n        #ai\n        #programming\n        #opensource"
+    "contentSnippet": "はじめに\n\n\nこの記事では、Google AdSenseの審査で「有用性の低いコンテンツ」という理由で不合格になった際の対応記録をまとめます。技術ブログを運営している方で、同様の問題に直面している方の参考になれば幸いです。\nGoogle AdSenseの審査を申請したところ、以下の理由で不合格になりました：\n有用性の低いコンテンツ\n\nお客様のサイトは、弊社の定めるサイト運営者ネットワークのご利用要"
   },
   {
-    "title": "My DevSecOps Journey: Blending Security, Automation & Passion",
-    "link": "https://dev.to/shabbirali_khanushiya/my-devsecops-journey-blending-security-automation-passion-1ppe",
-    "pubDate": "Thu, 13 Nov 2025 17:56:00 +0000",
+    "title": "Overcoming the Fear of Git for Beginners",
+    "link": "https://dev.to/stelixx-insider/overcoming-the-fear-of-git-for-beginners-5hj8",
+    "pubDate": "Fri, 14 Nov 2025 01:19:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every career starts with a spark — and mine began in 2014, right after completing my Bachelor’s degree.\nDuring my summer vacation, some of my friends joined a cybersecurity and ethical hacking interns"
+    "contentSnippet": "Overcoming the Fear of Git: A Beginner's Guide\n\n\nGit can be a daunting hurdle for newcomers to software development. Its powerful version control capabilities are essential for collaborative projects "
   },
   {
-    "title": "**Reformas a la Ley Federal de Prevención e Identificación d",
-    "link": "https://dev.to/drcarlosruizviquez/reformas-a-la-ley-federal-de-prevencion-e-identificacion-d-1686",
-    "pubDate": "Thu, 13 Nov 2025 17:55:47 +0000",
+    "title": "Create a Linux virtual machine in the Azure portal",
+    "link": "https://dev.to/ojosamuel129/create-a-linux-virtual-machine-in-the-azure-portal-58ln",
+    "pubDate": "Fri, 14 Nov 2025 01:17:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Reformas a la Ley Federal de Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita-LFPIORPI en 2025\nEn 2025, se han llevado a cabo reformas significativas a la Ley Federal de "
+    "contentSnippet": "Azure virtual machines (VMs) can be created through the Azure portal. The Azure portal is a browser-based user interface to create Azure resources. This lab show you how to use the Azure portal to dep"
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
@@ -75,6 +75,27 @@
     "pubDate": "2025-11-13T15:37:08.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
+  },
+  {
+    "title": "MoonBit 最高 2025",
+    "link": "https://zenn.dev/mizchi/articles/moonbit-is-good-2025",
+    "pubDate": "Thu, 13 Nov 2025 11:31:55 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TypeScript はJS由来の言語仕様が根本的に不安定、Rust はアプリケーション層を書くのには低レベルすぎる、そんな不満はありませんか？\nMoonBit はそういう不満を解決してくれる言語です。ただし、今はエコシステムの力を借りず、全部自力で書く前提ですが。\nこの記事は 2025/11 時点の MoonBit への所感になります。\nhttps://zenn.dev/mizchi/artic"
+  },
+  {
+    "title": "【速報記事】FlutterKaigi2025 現地参加レポート",
+    "link": "https://zenn.dev/bloomo_tech/articles/efa8aa93b74bd3",
+    "pubDate": "Thu, 13 Nov 2025 09:29:18 GMT",
+    "source": "Zenn",
+    "contentSnippet": "ブルーモ証券でFlutterをゴリゴリ使っているokeです！\nFlutterKaigiに今年も現地参加してきまして、速報記事的に学んだ内容をまとめたいと思います💪\n\n↑エントランスに置かれていたかわいい「だしゅまる」\n\n 📝 あの日のHot reloadはなぜ動かなかったのか？ 〜OSセキュリティ(W^X)とJITコンパイラの攻防〜\n少し前に、FlutterがLiquidGlassに対応しない"
+  },
+  {
+    "title": "書いたコードを“スキル化”して再利用してる話",
+    "link": "https://zenn.dev/explaza/articles/9f3271d1a9ce70",
+    "pubDate": "Thu, 13 Nov 2025 07:55:42 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、@_mkazutaka です。\n今回は、Claude Codeのスキル機能を使って、過去に書いたコードをスキル化し、再利用する方法について紹介したいと思います。\n\n 背景\nコードを書く際に、プロジェクトの規則、もしくはある一定のパターンに従って、コードを書くことがあると思います。例えば、弊社の場合、データストアへのアクセスのためにRepositoryパターンが使われているのですが、エン"
   },
   {
     "title": "Moonbit で React アプリを書く",
@@ -89,6 +110,27 @@
     "pubDate": "Thu, 13 Nov 2025 06:03:34 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nTuring CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。\n本記事は、LLM, VLM開発の裏で行われるリアルなデバッグ作業の様子を紹介します。\nLLM, VLMの開発の裏には本記事で紹介するような地道なデバッグ作業が多数あるのですが、なかなかその実態が伝わっていないように思います。できるだけ詳細にデバッグ作業の様子を記しましたの"
+  },
+  {
+    "title": "GKE StandardクラスタでAutopilotノードが利用できるようになったので見てみよう",
+    "link": "https://zenn.dev/makocchan/articles/gke_standard_autopilot",
+    "pubDate": "Thu, 13 Nov 2025 03:24:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは。間瀬です。自身のZennアカウントでは初投稿になります。\n記念すべき最初の投稿では、2025年9月末にGKEで利用可能になったStandardクラスタでAutopilotノードを利用することができる機能について紹介したいと思います。\n\n Standardクラスタ vs Autopilotクラスタ\n既にこれらの違いを理解している方は読み飛ばしていただいて問題ありません。\nSta"
+  },
+  {
+    "title": "AWS App Runnerで簡単にコンテナアプリを実装する",
+    "link": "https://qiita.com/YuNagura/items/d42f2cd6c60d9723931e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T03:00:19.000Z",
+    "source": "Qiita",
+    "contentSnippet": "本記事はBIPROGY /ユニアデックス社内AWSコミュニティ「BIPROGY AWS Ambassador」の定期投稿企画第7回目の記事です。他の定期投稿企画の記事は、#BIPROGY_AWS_Ambassador タグまたは Organizationページをご覧くだ..."
+  },
+  {
+    "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
+    "link": "https://qiita.com/huyunoki/items/9d4898a51ceb114076da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T02:36:55.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに：初心者にこそ自走力が必要な理由\nはじめまして。学生エンジニアの@huyunokiです。\nプログラミングを始めて1年未満の僕がエンジニアとして勉強するうえで最も重要だと感じた力。それは、「自走力」です。\n\nエラーが出ると、すぐにフリーズしてしまう\n何から勉強すれば..."
   },
   {
     "title": "インポートしたCSVの行番号",
@@ -126,13 +168,6 @@
     "contentSnippet": "LayerX バクラク事業部でプロダクトマネジメント組織を管掌している飯沼(numashi)です。この記事はLayerX AI Agentブログリレー44日目の記事です。\n今回はテックブログに全然テックじゃない話を差し込んでみようと思います。ちょっとくらい閑話休題ということで、LayerXにおいてAI系の機能を連続的に生み出す仕組みづくりや考え方について書きます。\nちなみに、自分自身もプロダクトマ"
   },
   {
-    "title": "Cursor×MCPでスプレッドシートを使ったPM業務を効率化する環境を構築しよう",
-    "link": "https://zenn.dev/masarufuruya/articles/15fe5e2ab5930c",
-    "pubDate": "Wed, 12 Nov 2025 13:25:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは。普段は株式会社iCAREでエンジニアリングマネージャーをしている古家(@enzerubank)です。\n最近はAI活用が進み、スプレッドシートを使ったPM業務を行うことが多いです。\nそれらの業務をすべて手作業でやるのは面倒すぎるなと思ったのでMCPでスプレッドシートと連携し、手元のCursorのAIアシスタントと壁打ちした内容をそのまま書き込んだり、逆に読み込みを行えるような環"
-  },
-  {
     "title": "Vue Fes Japan 2025 After Talk参加レポート #vuefes_aftertalk",
     "link": "https://qiita.com/okuto_oyama/items/7e7d6d2bc26d652516b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T09:10:49.000Z",
@@ -147,6 +182,13 @@
     "contentSnippet": "はじめに\n前回公開した以下の記事ですが、全て生成AIに書かせました。\n私自身が直接関与したのは、アイディア出しとレビュー、Markdownの記法調整だけで、文章は全て生成AIで作りきりました。\n\n使用したLLMは以下の通りです。\n\nLLM\nバージョン\n課金の有無\n..."
   },
   {
+    "title": "Flutterアプリ開発のツール管理をFVMからmiseに移行する",
+    "link": "https://zenn.dev/ivry/articles/9fe7b697f15959",
+    "pubDate": "Wed, 12 Nov 2025 07:00:49 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、IVRyのitochanです。\nIVRyのアプリ開発チームでは、Flutterアプリ開発に使うツールの管理をFVMからmiseに移行しました。本記事ではmiseをFlutterアプリ開発で使う利便性をご紹介します。\n\n なぜFVMからmiseに移行するのか\nFlutterのバージョン管理といえばFVMがよく使われています。Flutterのバージョン管理に特化しているため、簡単なコマンド"
+  },
+  {
     "title": "わいの生成AIがカスコードばっか出してくるんやが",
     "link": "https://zenn.dev/satto_workspace/articles/a12faf6131ac4e",
     "pubDate": "Wed, 12 Nov 2025 06:41:43 GMT",
@@ -154,32 +196,11 @@
     "contentSnippet": "こんにちは！\nsatto workspaceでエンジニアをしている伊藤（@ryo_ito）です。\n\n\n TL;DR\n!\n\n生成AIでのコーディング品質は、プロンプトの具体性で大きく変わる\n抽象的な指示 → 動くけど品質の低いコードが出力されがち\n具体的な指示 → 要件を満たした保守性の高いコードが生成される\n生成AIは「自分の中にある実装イメージを素早く具体化するツール」\n理解していないコードは、"
   },
   {
-    "title": "アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜",
-    "link": "https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast",
-    "pubDate": "Wed, 12 Nov 2025 04:44:41 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の117週目の記事です！\n3年間連続達成まで残り42週となりました！\n\n\n はじめに\nみなさんは、良いプロダクトを作っていくために、良い組織を作りたいと考えたことはありますか？私は常にこのことについて頭を悩ませていますが、うまくいかないことだらけでいつも心が折れてしまいそうになります。\n困り果てていた私"
-  },
-  {
     "title": "AIがプログラマを滅ぼすというのは、幻想やったかもしれん",
     "link": "https://qiita.com/monsoonTropicalBird/items/1d5a6257808ff7871bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T04:28:15.000Z",
     "source": "Qiita",
     "contentSnippet": "久しぶりにコードエディタを開く\nつい先日、AIは凄いよね、プログラマはもうあかん　みたいな記事を書いたわけですが、ちょうどそういう記事を書きながら、パヒュームのレシピをログしていけるアプリを作りたいと思い立ち、久々にVSコードを開いたのですが、なぜいきなり香水のレシピなの..."
-  },
-  {
-    "title": "AIの質問を『選択肢+推奨度+理由』にしたら、意思決定の質と速度が圧倒的にあがった",
-    "link": "https://zenn.dev/loglass/articles/e250a06fca1f4a",
-    "pubDate": "Wed, 12 Nov 2025 03:48:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、ログラスの松岡(@little_hand_s})です\n\n 3行まとめ\n\nAIに質問させるときに選択肢を提示させると、回答が楽で早くなる\nさらに、推奨度とその理由を出力させると、その根拠を元にAIと議論できるし、納得感を持って進められる\n結果、意思決定が速くなり、質も上がる\n\n\n AIと対話しながら開発してますか？\nClaude CodeやCursorなどのAI開発ツールを使ってる人、増"
-  },
-  {
-    "title": "エンジニアキャリアと敗者のゲームと勝者のゲーム",
-    "link": "https://zenn.dev/truestar/articles/8692d8a0eddb28",
-    "pubDate": "Tue, 11 Nov 2025 21:12:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前置き\nこんにちは。さすらいのデータエンジニアのこみぃです。\n秋がギリギリその体面を保ちつつ、でも冬に移りつつある昨今ですが、いかがお過ごしでしょうか？\n秋の夜長はポエムを読みたくなる季節ということで、今日は一風変わった記事をお届けしましょう。\n\n 勝者のゲームと敗者のゲーム\nさて、まずはいきなり見慣れない概念から始めていきましょう。世の中には勝者のゲームと敗者のゲームという、2つのゲーム観の概念"
   },
   {
     "title": "さくらのクラウド、コンテナをサーバレスで実行する「AppRun」を正式サービスとして提供開始へ",
@@ -194,13 +215,6 @@
     "pubDate": "2025-11-11T15:53:02.000Z",
     "source": "Publickey",
     "contentSnippet": "一般社団法人オープンソース・グループ・ジャパン（OSG-JP）は、日本がAI時代における国際競争力を確保し、国民から信頼されるAI社会を構築するための具体的な3つの提言「オープンソースAIを基盤とした開かれたAI社会とデジタル主権を構築するための公開提言 ― 米中依存のリスクを低減し、透明性・自律性・競争力あるAI基盤を構築 ―」を公開しました。 同団体は日本国内におけるオープンソースの普及と発展"
-  },
-  {
-    "title": "kubernetes でケチケチ節約して複数のサイトを管理する",
-    "link": "https://zenn.dev/mattn/articles/3094881f936076",
-    "pubDate": "Tue, 11 Nov 2025 14:28:24 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n個人で管理するウェブサーバでは、しばしば複数のウェブサイトを管理する際にコストも掛かり気味ですが、kubernetes でもツールを適切に選べば複数サイトをケチケチしながら、うまく管理できるという話をしたいと思います。\n\n 複数のサイトに必要な物\n複数のサイトを運営するとなれば、こういったものが必要かと思います。\n\nロードバランサと複数のドメイン\nHTML で作られた複数の静的サイト\n複"
   },
   {
     "title": "ゲームの負荷試験だってオブザーバビリティしたい！！",
@@ -243,20 +257,6 @@
     "pubDate": "2025-11-10T15:27:49.000Z",
     "source": "Publickey",
     "contentSnippet": "JavaScriptフレームワーク「Next.js」などの開発元で、Webアプリケーションプラットフォームの「Vercel」を提供しているVercelは、同社のサーバレスコンピューティング基盤である「Vercel Functions」のランタイムとしてBunがパブリックベータで利用可能になったことを明らかにしました。 Vercelは、静的なWebサイトはもちろん、JavaScriptのコードをVe"
-  },
-  {
-    "title": "【JavaScript】配列を二重配列に分解する提案",
-    "link": "https://qiita.com/rana_kualu/items/e7c51921e9e53415b5bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T11:29:33.000Z",
-    "source": "Qiita",
-    "contentSnippet": "これはなに？\n\nIterator Chunking\n[1, 2, 3, 4, 5, 6, 7, 8]\n\n　↓\n\n[ [1, 2, 3], [4, 5, 6], [7, 8] ] // chunking\n[ [1, 2, 3], [2, 3, 4], [3, 4, 5], [..."
-  },
-  {
-    "title": "決済実装は怖くない！テストカードという存在",
-    "link": "https://qiita.com/inukai-masanori/items/7809cc7b63b37f958880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T09:47:02.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n「決済機能の実装」と聞くと、ちょっと身構えてしまいませんか？\n私は下記の理由でできれば触りたくないと思っています。\n\nお金関係でミスしたら怖い\nセキュリティが複雑そう\nテストが大変そう\n\nとはいえ、「触りたくない」と言って許されるわけではないので、私は以前、..."
   },
   {
     "title": "GeminiにPDFやWord、Excel、テキストファイルなどの検索機能を組み込める「File Search in Gemini API」提供開始、フルマネージドなRAGシステムを提供",

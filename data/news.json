@@ -1,73 +1,73 @@
 [
   {
+    "title": "Final Project Report 1: Schema Evolution Support on Apache SeaTunnel Flink Engine",
+    "link": "https://dev.to/seatunnel/final-project-report-1-schema-evolution-support-on-apache-seatunnel-flink-engine-2e5n",
+    "pubDate": "Fri, 14 Nov 2025 06:35:58 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Over the past two weeks, we interviewed several outstanding developers from the OSPP program to learn about their project experiences. Today, we’re sharing a detailed technical report from one of thes"
+  },
+  {
+    "title": "I/O Multiplexing",
+    "link": "https://dev.to/min38/io-multiplexing-3lho",
+    "pubDate": "Fri, 14 Nov 2025 06:33:34 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Blocking I/O\n\n\nBlocking I/O is a method where the program stops and waits until an I/O operation completes.\nchar buffer[1024];\nint n = read(socket_fd, buffer, 1024);  // Blocks here\nprintf(\"Data recei"
+  },
+  {
+    "title": "Android::Bluetooth",
+    "link": "https://dev.to/minwook/androidbluetooth-1b8m",
+    "pubDate": "Fri, 14 Nov 2025 06:19:41 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Bluetooth\nBLE\nBLE: Bluetooth Low Energy (=Bluetooth LE)\nRFCOMM: 블루투스 프로토콜\n\n\nRFCOMM (TCP 사용), Radio Frequency Communications\n하위에서 L2CAP을 사용, TCP/IP 서비스\nL2CAP (UDP 비슷), Logical Link Control and Adaption"
+  },
+  {
+    "title": "Monetzly: A New Era for AI Monetization in LLM Apps",
+    "link": "https://dev.to/monetzly/monetzly-a-new-era-for-ai-monetization-in-llm-apps-o1h",
+    "pubDate": "Fri, 14 Nov 2025 06:19:40 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Advertising is Evolving: Here's Where It's Heading in the AI Era\n\n\nThe landscape of advertising is changing dramatically, especially as AI applications become more mainstream. As a developer, you’re l"
+  },
+  {
+    "title": "How I Built a Google Maps Scraper to Generate Leads for My New Agency (And Why I Open-Sourced It)",
+    "link": "https://dev.to/j3rry320/how-i-built-a-google-maps-scraper-to-generate-leads-for-my-new-agency-and-why-i-open-sourced-it-3lad",
+    "pubDate": "Fri, 14 Nov 2025 06:19:13 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "When you're building a brand-new agency, there’s one problem you can’t escape:\nFinding clients.\nBefore we had a portfolio, before we had referrals, before anyone even knew our name — we needed a relia"
+  },
+  {
+    "title": "How to Build a Fully Custom WordPress Block Using React",
+    "link": "https://dev.to/naimurrahmannahid/how-to-build-a-fully-custom-wordpress-block-using-react-5f3c",
+    "pubDate": "Fri, 14 Nov 2025 06:18:08 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The WordPress Block Editor (Gutenberg) has transformed the way content is created and managed. Instead of relying on classic shortcodes or page builders, developers can now build reusable, React-power"
+  },
+  {
+    "title": "Rekichizu: A Modern Take on Japan's Historical Maps",
+    "link": "https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp",
+    "pubDate": "Fri, 14 Nov 2025 06:15:35 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Rekichizu is a website where you can view historical maps with modern map design.\nCurrently, maps from the late Edo period (around 1800-1840) are published and updated regularly.\nThe project launched "
+  },
+  {
+    "title": "📝 React Router Data APIs — The Complete Beginner-Friendly Guide (2025 Edition)",
+    "link": "https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn",
+    "pubDate": "Fri, 14 Nov 2025 06:10:42 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "A practical, real-world guide to loaders, actions, fetchers, nested routes, revalidation & more.\nModern React applications need more than just routing—they need data loading, mutations, caching, redir"
+  },
+  {
+    "title": "How to Choose Right Test Management Platform",
+    "link": "https://dev.to/testsigma_3090ec39824cd9d/how-to-choose-right-test-management-platform-11nb",
+    "pubDate": "Fri, 14 Nov 2025 06:02:34 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Selecting the right test management platform is a strategic move for any organization aiming to boost software quality and operational efficiency. The rise of agile delivery and complex release cycles"
+  },
+  {
     "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2d1l",
-    "pubDate": "Fri, 14 Nov 2025 02:02:25 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4k4m",
+    "pubDate": "Fri, 14 Nov 2025 06:02:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins takes on Jurassic World: Rebirth in under 17 minutes, gleefully tallying every nitpick as yet another dino adventure roars back to life—and audiences happily follow.  \nAlong the way, they s"
-  },
-  {
-    "title": "ColorAgent: Building A Robust, Personalized, and Interactive OS Agent",
-    "link": "https://dev.to/paperium/coloragent-building-a-robust-personalized-and-interactive-os-agent-4f5f",
-    "pubDate": "Fri, 14 Nov 2025 01:40:41 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Meet ColorAgent: Your Phone’s New Friendly AI Assistant\n\n\nEver imagined your smartphone could talk to you like a helpful buddy? ColorAgent turns that dream into reality.\nAI agent lives inside your ope"
-  },
-  {
-    "title": "Finally a Normal Scheduling API for Dental. I’m Alarmingly Into It.",
-    "link": "https://dev.to/lake22traillady/finally-a-normal-scheduling-api-for-dental-im-alarmingly-into-it-1m52",
-    "pubDate": "Fri, 14 Nov 2025 01:37:12 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "If you told me last year I’d be excited about a dental scheduling API, I would’ve assumed you were trying to prank me into switching careers.\nBut here we are.\nAnd a simple update won't throw absolutel"
-  },
-  {
-    "title": "Recreating LinkedIn’s Crossclimb Game with Angular - Part 3",
-    "link": "https://dev.to/michelestieven/recreating-linkedins-crossclimb-game-with-angular-part-3-4n33",
-    "pubDate": "Fri, 14 Nov 2025 01:34:41 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Now that we've taken care of the game's logic with a service, it's time to end our little project with a couple more components!\nHint component\n\n\nBut first, let's create a simple component to display "
-  },
-  {
-    "title": "A real-world example of CsvPath schemas",
-    "link": "https://dev.to/david_kershaw_b6916404da6/a-real-world-example-of-csvpath-schemas-1j0p",
-    "pubDate": "Fri, 14 Nov 2025 01:31:05 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Zuora's example invoice upload CSV came to my attention in a timely way. Just last night I posted this comparison of SQL and CsvPath schemas. CSV schemas are an interesting topic for anyone who likes "
-  },
-  {
-    "title": "Writing Your First Compiler - Part 7: Taking Stock",
-    "link": "https://dev.to/frederikgramkortegaard/writing-your-first-compiler-part-7-taking-stock-403j",
-    "pubDate": "Fri, 14 Nov 2025 01:29:35 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "We've built a complete compiler frontend. Source code becomes tokens, tokens become an abstract syntax tree. Before we jump into code generation, let's take a moment to understand what we actually hav"
-  },
-  {
-    "title": "Next.js + Resend APIでお問い合わせフォームを実装した話",
-    "link": "https://dev.to/beachone1155/nextjs-resend-apideowen-ihe-wasehuomuwoshi-zhuang-sitahua-1mkm",
-    "pubDate": "Fri, 14 Nov 2025 01:20:53 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "はじめに\n\n\nこの記事では、Next.js（App Router）とResend APIを使用して、お問い合わせフォームを実装した過程をまとめます。フロントエンドのバリデーションから、バックエンドのメール送信、XSS対策、エラーハンドリングまで、実装の詳細を解説します。\n技術ブログに読者からのお問い合わせを受け付ける機能を追加したいと考えました。要件は以下の通りです：\n名前、メールアドレス、メッセ"
-  },
-  {
-    "title": "Google AdSense「有用性の低いコンテンツ」審査対応の記録",
-    "link": "https://dev.to/beachone1155/google-adsenseyou-yong-xing-nodi-ikontentu-shen-cha-dui-ying-noji-lu-512k",
-    "pubDate": "Fri, 14 Nov 2025 01:20:50 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "はじめに\n\n\nこの記事では、Google AdSenseの審査で「有用性の低いコンテンツ」という理由で不合格になった際の対応記録をまとめます。技術ブログを運営している方で、同様の問題に直面している方の参考になれば幸いです。\nGoogle AdSenseの審査を申請したところ、以下の理由で不合格になりました：\n有用性の低いコンテンツ\n\nお客様のサイトは、弊社の定めるサイト運営者ネットワークのご利用要"
-  },
-  {
-    "title": "Overcoming the Fear of Git for Beginners",
-    "link": "https://dev.to/stelixx-insider/overcoming-the-fear-of-git-for-beginners-5hj8",
-    "pubDate": "Fri, 14 Nov 2025 01:19:07 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Overcoming the Fear of Git: A Beginner's Guide\n\n\nGit can be a daunting hurdle for newcomers to software development. Its powerful version control capabilities are essential for collaborative projects "
-  },
-  {
-    "title": "Create a Linux virtual machine in the Azure portal",
-    "link": "https://dev.to/ojosamuel129/create-a-linux-virtual-machine-in-the-azure-portal-58ln",
-    "pubDate": "Fri, 14 Nov 2025 01:17:26 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Azure virtual machines (VMs) can be created through the Azure portal. The Azure portal is a browser-based user interface to create Azure resources. This lab show you how to use the Azure portal to dep"
+    "contentSnippet": "Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less\n\n\nCinemaSins dives head-first into the latest dino revival, calling out every plot hole, cringe-worthy moment, and questionable decis"
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
@@ -91,6 +91,13 @@
     "contentSnippet": "ブルーモ証券でFlutterをゴリゴリ使っているokeです！\nFlutterKaigiに今年も現地参加してきまして、速報記事的に学んだ内容をまとめたいと思います💪\n\n↑エントランスに置かれていたかわいい「だしゅまる」\n\n 📝 あの日のHot reloadはなぜ動かなかったのか？ 〜OSセキュリティ(W^X)とJITコンパイラの攻防〜\n少し前に、FlutterがLiquidGlassに対応しない"
   },
   {
+    "title": "Python で他生物の視覚をシミュレートする",
+    "link": "https://zenn.dev/aldagram_tech/articles/2bb82ddb00cffc",
+    "pubDate": "Thu, 13 Nov 2025 09:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！アルダグラムでエンジニアをしている内倉です\n今年も、一年が終わろうとしていますね。\n私のブログ当番は、これが今年最後の予定なので、また印象に残ったニュースを振り返ってみたいと思います。\n今年、個人的に気になったニュースは、だいぶ最近ですが\n日本では初めての発見となる、二枚貝と共生するヨコエビ、その名も「ユキミノノマルハサミヨコエビ」の発見です。（なんと風情のあるお名前…）\n研究者の方の"
+  },
+  {
     "title": "書いたコードを“スキル化”して再利用してる話",
     "link": "https://zenn.dev/explaza/articles/9f3271d1a9ce70",
     "pubDate": "Thu, 13 Nov 2025 07:55:42 GMT",
@@ -112,11 +119,11 @@
     "contentSnippet": "はじめに\nTuring CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。\n本記事は、LLM, VLM開発の裏で行われるリアルなデバッグ作業の様子を紹介します。\nLLM, VLMの開発の裏には本記事で紹介するような地道なデバッグ作業が多数あるのですが、なかなかその実態が伝わっていないように思います。できるだけ詳細にデバッグ作業の様子を記しましたの"
   },
   {
-    "title": "GKE StandardクラスタでAutopilotノードが利用できるようになったので見てみよう",
-    "link": "https://zenn.dev/makocchan/articles/gke_standard_autopilot",
-    "pubDate": "Thu, 13 Nov 2025 03:24:02 GMT",
+    "title": "GitHub社謹製Spec KitにCodex CLI対応のPRを送った話",
+    "link": "https://zenn.dev/govtechtokyo/articles/f1197ab6501e45",
+    "pubDate": "Thu, 13 Nov 2025 05:03:05 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは。間瀬です。自身のZennアカウントでは初投稿になります。\n記念すべき最初の投稿では、2025年9月末にGKEで利用可能になったStandardクラスタでAutopilotノードを利用することができる機能について紹介したいと思います。\n\n Standardクラスタ vs Autopilotクラスタ\n既にこれらの違いを理解している方は読み飛ばしていただいて問題ありません。\nSta"
+    "contentSnippet": "はじめに\nGovTech東京 AI・イノベーション室の本城博昭です。\n先日、GitHubが公開しているOSSプロジェクトSpec Kitに、Codex CLIサポートを追加するPull Request（#14）を送り、無事マージされました。本記事では、Spec Kitとは何か、なぜこのPRを送ったのか、そしてコミュニティとの議論を通じて得られた学びについて共有します。\n\n Spec-Driven "
   },
   {
     "title": "AWS App Runnerで簡単にコンテナアプリを実装する",
@@ -168,6 +175,13 @@
     "contentSnippet": "LayerX バクラク事業部でプロダクトマネジメント組織を管掌している飯沼(numashi)です。この記事はLayerX AI Agentブログリレー44日目の記事です。\n今回はテックブログに全然テックじゃない話を差し込んでみようと思います。ちょっとくらい閑話休題ということで、LayerXにおいてAI系の機能を連続的に生み出す仕組みづくりや考え方について書きます。\nちなみに、自分自身もプロダクトマ"
   },
   {
+    "title": "【2025年版】生成AIツール、結局どれ使えばいいの？実際に使って比較してみた",
+    "link": "https://zenn.dev/miz_1123/articles/30496a86db8feb",
+    "pubDate": "Wed, 12 Nov 2025 12:36:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "生成AIツールが乱立する中、どのモデル・ツールを選べばいいか迷っている方も多いのではないでしょうか。本記事では、実際に使ったことのあるモデルとツールに絞って、それぞれの特徴と使い分けを紹介します。\n!\n筆者はClaude信者の為、若干偏った思想の記事になっている可能性があります。\n\n\n モデルの特徴\nまずは、主要な生成AIモデルの特徴を見ていきましょう。それぞれ得意分野が異なるため、用途に応じて使"
+  },
+  {
     "title": "Vue Fes Japan 2025 After Talk参加レポート #vuefes_aftertalk",
     "link": "https://qiita.com/okuto_oyama/items/7e7d6d2bc26d652516b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T09:10:49.000Z",
@@ -180,20 +194,6 @@
     "pubDate": "2025-11-12T08:48:13.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n前回公開した以下の記事ですが、全て生成AIに書かせました。\n私自身が直接関与したのは、アイディア出しとレビュー、Markdownの記法調整だけで、文章は全て生成AIで作りきりました。\n\n使用したLLMは以下の通りです。\n\nLLM\nバージョン\n課金の有無\n..."
-  },
-  {
-    "title": "Flutterアプリ開発のツール管理をFVMからmiseに移行する",
-    "link": "https://zenn.dev/ivry/articles/9fe7b697f15959",
-    "pubDate": "Wed, 12 Nov 2025 07:00:49 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、IVRyのitochanです。\nIVRyのアプリ開発チームでは、Flutterアプリ開発に使うツールの管理をFVMからmiseに移行しました。本記事ではmiseをFlutterアプリ開発で使う利便性をご紹介します。\n\n なぜFVMからmiseに移行するのか\nFlutterのバージョン管理といえばFVMがよく使われています。Flutterのバージョン管理に特化しているため、簡単なコマンド"
-  },
-  {
-    "title": "わいの生成AIがカスコードばっか出してくるんやが",
-    "link": "https://zenn.dev/satto_workspace/articles/a12faf6131ac4e",
-    "pubDate": "Wed, 12 Nov 2025 06:41:43 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！\nsatto workspaceでエンジニアをしている伊藤（@ryo_ito）です。\n\n\n TL;DR\n!\n\n生成AIでのコーディング品質は、プロンプトの具体性で大きく変わる\n抽象的な指示 → 動くけど品質の低いコードが出力されがち\n具体的な指示 → 要件を満たした保守性の高いコードが生成される\n生成AIは「自分の中にある実装イメージを素早く具体化するツール」\n理解していないコードは、"
   },
   {
     "title": "AIがプログラマを滅ぼすというのは、幻想やったかもしれん",

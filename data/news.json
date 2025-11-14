@@ -1,73 +1,87 @@
 [
   {
-    "title": "Final Project Report 1: Schema Evolution Support on Apache SeaTunnel Flink Engine",
-    "link": "https://dev.to/seatunnel/final-project-report-1-schema-evolution-support-on-apache-seatunnel-flink-engine-2e5n",
-    "pubDate": "Fri, 14 Nov 2025 06:35:58 +0000",
+    "title": "Retro vibes with LLMs",
+    "link": "https://dev.to/allramest83/retro-vibes-with-llms-3eek",
+    "pubDate": "Fri, 14 Nov 2025 12:42:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Over the past two weeks, we interviewed several outstanding developers from the OSPP program to learn about their project experiences. Today, we’re sharing a detailed technical report from one of thes"
+    "contentSnippet": "Love using LLMs in my daily work, and I often miss the charm of a retro terminal. I know LLM providers offer CLI tools, which I also use, but none of them capture the feel of the classic terminal era."
   },
   {
-    "title": "I/O Multiplexing",
-    "link": "https://dev.to/min38/io-multiplexing-3lho",
-    "pubDate": "Fri, 14 Nov 2025 06:33:34 +0000",
+    "title": "From Browsers to Distributed Compute: How Neurolov’s NLOV Token Enables Decentralized AI Infrastructure",
+    "link": "https://dev.to/neurolov__ai/from-browsers-to-distributed-compute-how-neurolovs-nlov-token-enables-decentralized-ai-d2e",
+    "pubDate": "Fri, 14 Nov 2025 12:30:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Blocking I/O\n\n\nBlocking I/O is a method where the program stops and waits until an I/O operation completes.\nchar buffer[1024];\nint n = read(socket_fd, buffer, 1024);  // Blocks here\nprintf(\"Data recei"
+    "contentSnippet": "As AI adoption accelerates globally, compute power has become a critical bottleneck. GPUs—the engines behind model training, inference, and content generation—are increasingly scarce and expensive. Tr"
   },
   {
-    "title": "Android::Bluetooth",
-    "link": "https://dev.to/minwook/androidbluetooth-1b8m",
-    "pubDate": "Fri, 14 Nov 2025 06:19:41 +0000",
+    "title": "🚀 Managing Media Files with MinIO and Podman",
+    "link": "https://dev.to/mcheremnov/managing-media-files-with-minio-and-podman-2701",
+    "pubDate": "Fri, 14 Nov 2025 12:29:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Bluetooth\nBLE\nBLE: Bluetooth Low Energy (=Bluetooth LE)\nRFCOMM: 블루투스 프로토콜\n\n\nRFCOMM (TCP 사용), Radio Frequency Communications\n하위에서 L2CAP을 사용, TCP/IP 서비스\nL2CAP (UDP 비슷), Logical Link Control and Adaption"
+    "contentSnippet": "Introduction\n\n\nIn one of my recent projects, I ran into a challenge: managing large volumes of media files efficiently. My team doesn’t rely on cloud platforms like AWS S3 or other managed bucket stor"
   },
   {
-    "title": "Monetzly: A New Era for AI Monetization in LLM Apps",
-    "link": "https://dev.to/monetzly/monetzly-a-new-era-for-ai-monetization-in-llm-apps-o1h",
-    "pubDate": "Fri, 14 Nov 2025 06:19:40 +0000",
+    "title": "Setting Up Better-Auth in Next.js with Kysely + Prisma Schema",
+    "link": "https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p",
+    "pubDate": "Fri, 14 Nov 2025 12:12:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Advertising is Evolving: Here's Where It's Heading in the AI Era\n\n\nThe landscape of advertising is changing dramatically, especially as AI applications become more mainstream. As a developer, you’re l"
+    "contentSnippet": "In this post I’ll show how I integrated Better-Auth into a Next.js App Router project that uses:\nPrisma only for schema management\n\n\nKysely as the type-safe query builder\n\nAny SQL database (I am using"
   },
   {
-    "title": "How I Built a Google Maps Scraper to Generate Leads for My New Agency (And Why I Open-Sourced It)",
-    "link": "https://dev.to/j3rry320/how-i-built-a-google-maps-scraper-to-generate-leads-for-my-new-agency-and-why-i-open-sourced-it-3lad",
-    "pubDate": "Fri, 14 Nov 2025 06:19:13 +0000",
+    "title": "SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope",
+    "link": "https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83",
+    "pubDate": "Fri, 14 Nov 2025 12:08:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When you're building a brand-new agency, there’s one problem you can’t escape:\nFinding clients.\nBefore we had a portfolio, before we had referrals, before anyone even knew our name — we needed a relia"
+    "contentSnippet": "Multi-persona systems are fun to talk about—\nsudden aggression\nself-destructive loops\nfragmented responses\n“this doesn’t sound like them at all”\nMost people call this evil, toxic, or corrupted.\nErrors"
   },
   {
-    "title": "How to Build a Fully Custom WordPress Block Using React",
-    "link": "https://dev.to/naimurrahmannahid/how-to-build-a-fully-custom-wordpress-block-using-react-5f3c",
-    "pubDate": "Fri, 14 Nov 2025 06:18:08 +0000",
+    "title": "SaijinOS Part 9 — Multi-Persona Co-Creation Protocol",
+    "link": "https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep",
+    "pubDate": "Fri, 14 Nov 2025 12:06:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The WordPress Block Editor (Gutenberg) has transformed the way content is created and managed. Instead of relying on classic shortcodes or page builders, developers can now build reusable, React-power"
+    "contentSnippet": "How Multiple AI Personas Breathe, Collaborate, and Stay Emotionally Stable\n“How stable does BloomPulse stay when several personas interact at once?”\nSaijinOS solves this by treating personas not as is"
   },
   {
-    "title": "Rekichizu: A Modern Take on Japan's Historical Maps",
-    "link": "https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp",
-    "pubDate": "Fri, 14 Nov 2025 06:15:35 +0000",
+    "title": "Anatomy of a Cloud Collapse: A Technical Deep-Dive on the AWS Outage of October 2025",
+    "link": "https://dev.to/harshith_reddy_dev/anatomy-of-a-cloud-collapse-a-technical-deep-dive-on-the-aws-outage-of-october-2025-2mj4",
+    "pubDate": "Fri, 14 Nov 2025 12:06:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Rekichizu is a website where you can view historical maps with modern map design.\nCurrently, maps from the late Edo period (around 1800-1840) are published and updated regularly.\nThe project launched "
+    "contentSnippet": "TL;DR: The 15-Hour Outage\n\n\nOn October 20, 2025, AWS’s US-EAST-1 (Northern Virginia) region experienced a 15-hour outage triggered by a rare race condition in DynamoDB’s DNS automation system. This ca"
   },
   {
-    "title": "📝 React Router Data APIs — The Complete Beginner-Friendly Guide (2025 Edition)",
-    "link": "https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn",
-    "pubDate": "Fri, 14 Nov 2025 06:10:42 +0000",
+    "title": "PHP: Do you need async?",
+    "link": "https://dev.to/spo0q/php-do-you-need-async-248f",
+    "pubDate": "Fri, 14 Nov 2025 12:06:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A practical, real-world guide to loaders, actions, fetchers, nested routes, revalidation & more.\nModern React applications need more than just routing—they need data loading, mutations, caching, redir"
+    "contentSnippet": "PHP runs per-request in a web server, but you will likely have to build event-driven applications at some point, which involves non-blocking code.\nIn that case, all tasks must be designed to be execut"
   },
   {
-    "title": "How to Choose Right Test Management Platform",
-    "link": "https://dev.to/testsigma_3090ec39824cd9d/how-to-choose-right-test-management-platform-11nb",
-    "pubDate": "Fri, 14 Nov 2025 06:02:34 +0000",
+    "title": "Azura: local-first personal assistant (feedback wanted)",
+    "link": "https://dev.to/criscmd/azura-local-first-personal-assistant-feedback-wanted-56dp",
+    "pubDate": "Fri, 14 Nov 2025 12:04:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Selecting the right test management platform is a strategic move for any organization aiming to boost software quality and operational efficiency. The rise of agile delivery and complex release cycles"
+    "contentSnippet": "Hey devs 👋\nI'm working solo on a project called Azura and I’d love blunt technical + product feedback before I go too deep.\nLocal-first personal AI assistant (Windows / macOS / Linux)\nRuns 7B-class m"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4k4m",
-    "pubDate": "Fri, 14 Nov 2025 06:02:26 +0000",
+    "title": "How Computers See: Understanding Computer Vision Methods",
+    "link": "https://dev.to/sohan_lal_241c2d80b2705e7/how-computers-see-understanding-computer-vision-methods-ohp",
+    "pubDate": "Fri, 14 Nov 2025 12:03:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less\n\n\nCinemaSins dives head-first into the latest dino revival, calling out every plot hole, cringe-worthy moment, and questionable decis"
+    "contentSnippet": "Have you ever wondered how self-driving cars see the road? Or how your phone unlocks when it recognizes your face? These amazing things happen because of computer vision methods. Think of it as teachi"
+  },
+  {
+    "title": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化",
+    "link": "https://zenn.dev/appbrew/articles/e2f38677f6a0ce",
+    "pubDate": "Thu, 13 Nov 2025 23:00:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化\n\n はじめに\nhttps://zenn.dev/appbrew/articles/7eb12fff5738f4\n前回の記事では、スラッシュコマンドを使ってAIに会話履歴を分析させ、CLAUDE.mdに書くべきルールを提案してもらう仕組みを紹介しました。\nスラッシュコマンドを使う方法は、この仕組みのことをよく知っている人が使う分には"
+  },
+  {
+    "title": "【ポケモン×Java】Lv12：『ラストバトル』～Scanner、while、if～",
+    "link": "https://qiita.com/hitomin_poke/items/24b9bf90cfdeea398a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T16:46:32.000Z",
+    "source": "Qiita",
+    "contentSnippet": "前回をまだ読んでない方はこちら\n👉 【ポケモン×Java】Lv11：『キミが技を選ぶ番だ！』〜Scannerで選択〜\n\n🎮 いまできるすべてをぶつけよ！\n第０章～第１１章までおつかれさま！！\n説明が足りなかったりして、難しかったかもしれないが、\nここまでついてきてくれて..."
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
@@ -77,11 +91,32 @@
     "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
   },
   {
+    "title": "nvim-submode : 直感的に設定可能な新しいサブモードプラグイン",
+    "link": "https://zenn.dev/sirasagi62/articles/08ed288ce990e2",
+    "pubDate": "Thu, 13 Nov 2025 13:18:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "nvim-submodeはLuaで書かれた直感的ながら強力な機能を持つサブモードプラグインです。どのくらい強力かというと、\nわずか8行でCAPSLOCKを実装できたり、\n\nたった20行でclever-f.vimの簡易版(SMART-F)が実装できたりします。\n\nhttps://github.com/sirasagi62/nvim-submode\n\n What is サブモード\nそもそもサブモードと"
+  },
+  {
+    "title": "laravelコマンドで Starter Kit を展開し、Sail で固める Laravel 開発環境構築ガイド",
+    "link": "https://zenn.dev/catatsumuri/articles/2b9ece7d2b12d7",
+    "pubDate": "Thu, 13 Nov 2025 11:50:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TL;DR\n!\nLaravel Sailは使えるなら使ったほうがいいし、それが開発環境の用意には一番速いです\n\nPHP/Composer のローカル依存地獄を全部避けられる\nテスト環境（DB含む）を自動セットアップできる\nPHPバージョン差異の事故を避けられる\n\n\n\n 前提\n\n最低限dockerは動く。dockerが動かないと前提は全部崩れるのでこの記事を参考にした開発は無理です。\nここではWSL"
+  },
+  {
     "title": "MoonBit 最高 2025",
     "link": "https://zenn.dev/mizchi/articles/moonbit-is-good-2025",
     "pubDate": "Thu, 13 Nov 2025 11:31:55 GMT",
     "source": "Zenn",
     "contentSnippet": "TypeScript はJS由来の言語仕様が根本的に不安定、Rust はアプリケーション層を書くのには低レベルすぎる、そんな不満はありませんか？\nMoonBit はそういう不満を解決してくれる言語です。ただし、今はエコシステムの力を借りず、全部自力で書く前提ですが。\nこの記事は 2025/11 時点の MoonBit への所感になります。\nhttps://zenn.dev/mizchi/artic"
+  },
+  {
+    "title": "文字化けの正体はこれだ！半角カナ・JIS・UTFの沼を実例で読み解く",
+    "link": "https://qiita.com/comty/items/cb4b0f0060af3ccc7209?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T11:06:25.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n文字化けは「文字集合」「符号化方式」「宣言」の不一致から生じます。特に日本語は歴史的に複数の方式が並立し、メールや携帯端末、業務システムの相互運用で事故が起きやすい背景があります。\n本稿は、代表的な文字コードの考え方、典型的な化け方のパターン、昔のメールで半角カ..."
   },
   {
     "title": "【速報記事】FlutterKaigi2025 現地参加レポート",
@@ -112,18 +147,18 @@
     "contentSnippet": "自分の中で今 Moonbit が熱いです。Moonbit を普段使いしたいですよね。\nというわけで、js backend で FFI を駆使して React でSPAを書けるとこまで頑張ってみました。\nhttps://github.com/mizchi/moonbit-react-example\nReact を書いたことがある人なら、以下のコードを見れば理解できると思います。\n///|\nenum "
   },
   {
+    "title": "知っておくべき10のAWSサービス（SAA試験向け）",
+    "link": "https://qiita.com/ChrisFletcher/items/d04f4b002c3467bc1226?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T07:23:23.000Z",
+    "source": "Qiita",
+    "contentSnippet": "当記事に関して\n本記事では、2025年のAWSアソシエイト（SAA）試験対策やAWS知識を身につけたい方に向けて、押さえておくべき10の主要サービスを紹介します。\nここで紹介する情報は基本的な理解を助けるものであり、さらに深掘りして学習するための入り口として活用してくだ..."
+  },
+  {
     "title": "LLM開発の裏で行われるデバッグ作業: PyTorch DCP",
     "link": "https://zenn.dev/turing_motors/articles/04eed10b0aafe9",
     "pubDate": "Thu, 13 Nov 2025 06:03:34 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nTuring CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。\n本記事は、LLM, VLM開発の裏で行われるリアルなデバッグ作業の様子を紹介します。\nLLM, VLMの開発の裏には本記事で紹介するような地道なデバッグ作業が多数あるのですが、なかなかその実態が伝わっていないように思います。できるだけ詳細にデバッグ作業の様子を記しましたの"
-  },
-  {
-    "title": "GitHub社謹製Spec KitにCodex CLI対応のPRを送った話",
-    "link": "https://zenn.dev/govtechtokyo/articles/f1197ab6501e45",
-    "pubDate": "Thu, 13 Nov 2025 05:03:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nGovTech東京 AI・イノベーション室の本城博昭です。\n先日、GitHubが公開しているOSSプロジェクトSpec Kitに、Codex CLIサポートを追加するPull Request（#14）を送り、無事マージされました。本記事では、Spec Kitとは何か、なぜこのPRを送ったのか、そしてコミュニティとの議論を通じて得られた学びについて共有します。\n\n Spec-Driven "
   },
   {
     "title": "AWS App Runnerで簡単にコンテナアプリを実装する",
@@ -140,18 +175,18 @@
     "contentSnippet": "はじめに：初心者にこそ自走力が必要な理由\nはじめまして。学生エンジニアの@huyunokiです。\nプログラミングを始めて1年未満の僕がエンジニアとして勉強するうえで最も重要だと感じた力。それは、「自走力」です。\n\nエラーが出ると、すぐにフリーズしてしまう\n何から勉強すれば..."
   },
   {
-    "title": "インポートしたCSVの行番号",
-    "link": "https://qiita.com/michi-yzrh/items/e3b75dbb08ff65dc614c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T00:47:33.000Z",
-    "source": "Qiita",
-    "contentSnippet": "目的\nAWS S3からAurora PostgreSQLテーブルへのインポートした際に\nデータがCSVの何行目だったのかを確認したい\n\n確認手段\n今回はインポートしたデータをチェックや加工して処理したかったので\n一時テーブルを準備し IDENTITY で自動採番することに..."
-  },
-  {
     "title": "JS→TS移行で「型を書くだけ」じゃなかった話 - 型を書いて気づいた5つの設計の甘さ",
     "link": "https://zenn.dev/ktsushima/articles/js-to-ts-migration-learnings",
     "pubDate": "Wed, 12 Nov 2025 18:50:20 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nTypeScript初心者の状態から、既存のVue 3プロジェクト（JavaScript）をTypeScriptに移行する機会がありました。この記事では、実装過程で学んだTypeScriptの基礎知識と、「型を書く」という行為が設計改善につながった体験を、初心者目線で整理してまとめます。\n前提条件:\n\nTypeScriptは完全な初心者\nJavaScriptは一定の学習経験あり（Vue "
+  },
+  {
+    "title": "高受理系高校生が水色コーダーになるために必要な記事",
+    "link": "https://qiita.com/nirure/items/a5e6ad8f678281cf208a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-12T17:53:28.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Qiitaでは初めまして。にるれです。\n僕は2025年11月1日(rateが反映されたのは二週間後)にnirureで入水をしました。\n空白期間を除けば約一年半かかりました。\n\n今回は高校受験で高校に入学した高校生がどうやったら競プロで水色コーダーになれるかを解説したいと思..."
   },
   {
     "title": "マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能",
@@ -168,25 +203,11 @@
     "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行が安心してできるようになりました。 Node.jsはTypeScriptをサポート"
   },
   {
-    "title": "AIエージェント機能を継続的に生み出すプロダクトマネジメントについて",
-    "link": "https://zenn.dev/layerx/articles/b9272c63152826",
-    "pubDate": "Wed, 12 Nov 2025 13:47:59 GMT",
-    "source": "Zenn",
-    "contentSnippet": "LayerX バクラク事業部でプロダクトマネジメント組織を管掌している飯沼(numashi)です。この記事はLayerX AI Agentブログリレー44日目の記事です。\n今回はテックブログに全然テックじゃない話を差し込んでみようと思います。ちょっとくらい閑話休題ということで、LayerXにおいてAI系の機能を連続的に生み出す仕組みづくりや考え方について書きます。\nちなみに、自分自身もプロダクトマ"
-  },
-  {
-    "title": "【2025年版】生成AIツール、結局どれ使えばいいの？実際に使って比較してみた",
-    "link": "https://zenn.dev/miz_1123/articles/30496a86db8feb",
-    "pubDate": "Wed, 12 Nov 2025 12:36:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "生成AIツールが乱立する中、どのモデル・ツールを選べばいいか迷っている方も多いのではないでしょうか。本記事では、実際に使ったことのあるモデルとツールに絞って、それぞれの特徴と使い分けを紹介します。\n!\n筆者はClaude信者の為、若干偏った思想の記事になっている可能性があります。\n\n\n モデルの特徴\nまずは、主要な生成AIモデルの特徴を見ていきましょう。それぞれ得意分野が異なるため、用途に応じて使"
-  },
-  {
-    "title": "Vue Fes Japan 2025 After Talk参加レポート #vuefes_aftertalk",
-    "link": "https://qiita.com/okuto_oyama/items/7e7d6d2bc26d652516b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T09:10:49.000Z",
+    "title": "【社内発表】AI駆動開発を意識した開発についてやってみた：MCPサーバーとiOSアプリの連携",
+    "link": "https://qiita.com/infracat/items/711415e02bd2340713c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-12T13:50:26.000Z",
     "source": "Qiita",
-    "contentSnippet": "こんにちは。株式会社Schooの技術戦略部門に所属しております@okuto_oyamaです。\n突然ですが、皆さんは10/25に開催されたVueエコシステムにまつわる日本最大規模のカンファレンス「Vue Fes Japan 2025」をご存知でしょうか。\n\n2018年にVue..."
+    "contentSnippet": "こんにちは。\n今回、社内の発表イベントで生成AIについて調査したり、試しに開発してみたりなどしてみた結果を社内で発表しました。\n折角なので、Qiitaにも投稿します。\n\n今回実施したこと\n生成AIを使うことが今まであまりなかったので、一体どういう感触で、どういうことができ..."
   },
   {
     "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
@@ -222,27 +243,6 @@
     "pubDate": "2025-11-11T13:40:47.000Z",
     "source": "Qiita",
     "contentSnippet": "※CEDEC2025 のセッションの中でご紹介したデモの解説を中心にまとめています。\n※あくまで個人の記事になりますので、その点はご了承ください。\n\n開発段階からちゃんとオブザーバビリティできてますか？\nゲームの本番リリースまでにサーバエンジニアはサーバプログラムの開発、..."
-  },
-  {
-    "title": "エンジニアが覚えておきたい英単語 - AIコード読解時代の必須語彙",
-    "link": "https://qiita.com/Sakai_path/items/b11badaa8daff2984f8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-11T07:14:26.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n\nAI時代のコードリーディングは、英単語の語感を掴むことから始まります。\n\nプログラミング言語は英語で書かれた “ルールブック”。\n変数・関数・クラス・コメント──すべてが英語の延長です。\n「文法」だけでなく「単語の意味」を押さえると、知らない言語のコードでも ..."
-  },
-  {
-    "title": "開発効率が上がる！最強のプログラミングフォント5選",
-    "link": "https://qiita.com/nolanlover0527/items/5e4b2a2faa30f185da64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-11T04:17:01.000Z",
-    "source": "Qiita",
-    "contentSnippet": "数字の「0」と英字の「O」が見分けられない\n「1」と「l」と「I」の区別がつかない\n長時間コードを見ていると目が疲れる\n\n上記のような問題は、誰しも一度は経験したことがあるはずです。\n私自身、VSCodeのフォントを洒落たやつに変えたりした際、「l」なのか「I」なの..."
-  },
-  {
-    "title": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと",
-    "link": "https://qiita.com/segur/items/9b62c7976bb21e822c72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T22:58:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと\n私は生粋のプログラマーです。\n大学では C / C++ / C# を学び、社会人になってからは Java、JavaScript、PHP、Python、Go、TypeScrip..."
   },
   {
     "title": "GitHub、リリース後のバイナリなどアセットを変更不可にする「Immutable Release」（変更不可リリース）機能を正式リリース",

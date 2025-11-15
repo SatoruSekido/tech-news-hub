@@ -1,73 +1,115 @@
 [
   {
-    "title": "Extending the Nano Banana image generation to also be responsible for fun unique profile images for users who register through a path without providing their own profile pic.",
-    "link": "https://dev.to/ben/extending-the-nano-banana-image-generation-to-also-be-responsible-for-fun-unique-profile-images-for-2hjd",
-    "pubDate": "Fri, 14 Nov 2025 18:31:51 +0000",
+    "title": "Federated avatars in authentik",
+    "link": "https://dev.to/timo_reusch/federated-avatars-in-authentik-4le2",
+    "pubDate": "Sat, 15 Nov 2025 01:38:01 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "By default, authentik shows the users initials as an avatar or pulls the profile picture from Gravatar (if one is available). \nthis GitHub discussion), we will add this functionality.\n\nTested with aut"
+  },
+  {
+    "title": "Building a FHIR Patient Deduplication System: A Journey from Chaos to Performance",
+    "link": "https://dev.to/budiwidhiyanto/building-a-fhir-patient-deduplication-system-a-journey-from-chaos-to-performance-4h65",
+    "pubDate": "Sat, 15 Nov 2025 01:32:38 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "I'm working on a national project to collect health data from legacy systems in two pilot districts in Indonesia. The goal is to create interoperability between different healthcare systems so we can "
+  },
+  {
+    "title": "Hope I can meet new friends who can teach me, inspire me to grow and improve as a full stack web beginner.",
+    "link": "https://dev.to/samquartz/hope-i-can-meet-new-friends-who-can-teach-me-inspire-me-to-grow-and-improve-as-a-full-stack-web-319k",
+    "pubDate": "Sat, 15 Nov 2025 01:31:33 +0000",
     "source": "DEV.to",
     "contentSnippet": ""
   },
   {
-    "title": "🚀 Supabase Connection Scaling: The Essential Guide for FastAPI Developers",
-    "link": "https://dev.to/papansarkar101/supabase-connection-scaling-the-essential-guide-for-fastapi-developers-348o",
-    "pubDate": "Fri, 14 Nov 2025 18:24:55 +0000",
+    "title": "Plastic Optical Fiber vs. Glass Optical Fiber",
+    "link": "https://dev.to/dspof2000/plastic-optical-fiber-vs-glass-optical-fiber-1f3k",
+    "pubDate": "Sat, 15 Nov 2025 01:22:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a scalable FastAPI backend requires mastering database connections. When using Supabase (PostgreSQL), choosing the wrong connection method is the fastest way to crash your server under load. "
+    "contentSnippet": "As the core carrier for optical signal transmission, optical fibers have been widely used in communications, lighting, industrial sensing and other fields. Based on differences in core materials, they"
   },
   {
-    "title": "Angular 21 Developer Guide: AI Tools, Signal Forms, ARIA, and Build Optimizations",
-    "link": "https://dev.to/cristiansifuentes/angular-21-developer-guide-ai-tools-signal-forms-aria-and-build-optimizations-4jib",
-    "pubDate": "Fri, 14 Nov 2025 18:24:27 +0000",
+    "title": "OSD600: Lab 8",
+    "link": "https://dev.to/kphero/osd600-lab-8-3315",
+    "pubDate": "Sat, 15 Nov 2025 01:17:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Release date: November 20, 2025.\n\nAngular 21 isn’t a cosmetic bump—it’s a practical leap: AI‑powered dev tooling, a reimagined forms architecture (Signal Forms), a first‑class ARIA package, and faster"
+    "contentSnippet": "This week I added a GitHub Action Continuous Integration Workflow (say that 10 times fast) to my project. This was interesting as I've now encountered this in a few projects I contributed to during Ha"
   },
   {
-    "title": "Pakistan’s Cloud Community Is Rising — My Experience at AWS Student Community Day Islamabad ☁✨",
-    "link": "https://dev.to/ahad_panhwer/pakistans-cloud-community-is-rising-my-experience-at-aws-student-community-day-islamabad-2chn",
-    "pubDate": "Fri, 14 Nov 2025 18:17:14 +0000",
+    "title": "Azure Application Gateway και Azure Front Door",
+    "link": "https://dev.to/__b63657/azure-application-gateway-kai-azure-front-door-263g",
+    "pubDate": "Sat, 15 Nov 2025 01:14:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Attending Pakistan’s First AWS Student Community Day Islamabad 2025: A Perspective\n\n\nIn October 2025, I had the opportunity to attend Pakistan’s first-ever AWS Student Community Day, hosted collaborat"
+    "contentSnippet": "Εισαγωγή\nΤο οικοσύστημα του Microsoft Azure διαθέτει πολλές υπηρεσίες για τη διαχείριση της εισερχόμενης κίνησης προς web εφαρμογές. Ανάμεσα στις πιο συχνά χρησιμοποιούμενες είναι το Azure Application"
   },
   {
-    "title": "Smart Pointers in C++: Managing Memory Safely",
-    "link": "https://dev.to/min38/smart-pointers-in-c-managing-memory-safely-41ck",
-    "pubDate": "Fri, 14 Nov 2025 18:15:40 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/b5119/-55ml",
+    "pubDate": "Sat, 15 Nov 2025 01:09:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Memory Management in C/C++\n\n\nUnlike languages such as Java that automatically manage memory through a Garbage Collector, C/C++ requires developers to manually allocate and deallocate memory. This mean"
+    "contentSnippet": "Make AI Your Copilot, Not Your Autopilot\nSalauddin Omar Sifat ・ Nov 9\n#ai\n        #programming\n        #learning\n        #productivity"
   },
   {
-    "title": "The IaaS that saves money with no compromises!",
-    "link": "https://dev.to/chamal1120/the-iaas-that-saves-money-wtih-no-compromises-4pg6",
-    "pubDate": "Fri, 14 Nov 2025 18:06:36 +0000",
+    "title": "Fine-Tuning LLMs: LoRA, Quantization, and Distillation Simplified",
+    "link": "https://dev.to/iamfaham/fine-tuning-llms-lora-quantization-and-distillation-simplified-12nf",
+    "pubDate": "Sat, 15 Nov 2025 01:06:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Are you paying multiple services for manging authentication for your business/personal projects orchestrating multiple services?\n\n\nAre you frustrated on complex configurations for branding?\n\n\nAnd stil"
+    "contentSnippet": "Large Language Models (LLMs) like LLaMA, Gemma, and Mistral are incredibly capable — but adapting them to specific domains or devices requires more than just prompting. Fine-tuning, quantization, and "
   },
   {
-    "title": "How to Play Subway Surfers on PC: Full 2025 Setup Guide",
-    "link": "https://dev.to/lyra786/how-to-play-subway-surfers-on-pc-full-2025-setup-guide-846",
-    "pubDate": "Fri, 14 Nov 2025 18:00:10 +0000",
+    "title": "My 5-Day AI Agents Intensive Journey — And How I Built a Google-Native MindsEye OS Using 6 Repos",
+    "link": "https://dev.to/peacebinflow/my-5-day-ai-agents-intensive-journey-and-how-i-built-a-google-native-mindseye-os-using-6-repos-4igh",
+    "pubDate": "Sat, 15 Nov 2025 01:01:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Subway Surfers has remained one of the most popular endless runner games for\nHere is the easiest way to play Subway Surfers on any Windows computer:\nBlueStacks, GameLoop, and LDPlayer all work well. T"
+    "contentSnippet": "Intro — A Course That Changed How I See Agentic Systems\nWhen I started the 5-Day AI Agents Intensive with Google & Kaggle, I expected another technical bootcamp.\nI was wrong.\n\n…but a living architectu"
   },
   {
-    "title": "How to Connect PostgreSQL to Power BI Using Local PostgreSQL and Aiven.",
-    "link": "https://dev.to/wangare_/how-to-connect-postgresql-to-power-bi-using-local-postgresql-andaiven-37aa",
-    "pubDate": "Fri, 14 Nov 2025 17:56:58 +0000",
+    "title": "Containerizing Your Logic Apps In Your DevBox",
+    "link": "https://dev.to/imdj/containerizing-your-logic-apps-in-your-devbox-24c0",
+    "pubDate": "Sat, 15 Nov 2025 00:59:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Microsoft Power BI is a leading Business Intelligence (BI) tool, essential for visualizing data and deriving actionable insights. PostgreSQL is a robust, open-source object-relational database. Connec"
+    "contentSnippet": "Overview\n\n\nIn previous article of this series, we covered how to create and develop Logic Apps locally using VS Code. Now we'll focus on containerizing your Logic Apps to enhance your local developmen"
   },
   {
-    "title": "Build Your Own AI-Powered Resume Builder Using Next.js, React 19 & Gemini AI (Full Source Code)",
-    "link": "https://dev.to/pattanaik_ramswarup_a5890/build-your-own-ai-powered-resume-builder-using-nextjs-react-19-gemini-ai-full-source-code-3ln9",
-    "pubDate": "Fri, 14 Nov 2025 17:51:47 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Modern job seekers expect resume tools to be smart, fast, ATS-friendly, and AI-assisted.\nSo I decided to create a fully packaged, production-ready AI Resume Builder using:\nNext.js 15\nReact 19\nApp Rout"
+    "title": "隠線処理の話",
+    "link": "https://zenn.dev/kaityo256/articles/hidden_line_normal",
+    "pubDate": "Fri, 14 Nov 2025 08:41:19 GMT",
+    "source": "Zenn",
+    "contentSnippet": "概要\n分子動力学シミュレーションの結果を可視化する際に、隠線処理をする必要がありました。隠線処理とは、こんな感じに3次元の立体を2次元に描画するときに線が隠れるようにする処理のことです。\n\n本稿では、この隠線処理のうち、法線ベクトル法の説明をします。Pythonによるサンプルコードは以下にあります。そのままGoogle Colabで試すことができるサンプルもあります。\nhttps://github"
   },
   {
-    "title": "How was my experience at Lambda Days 2025",
-    "link": "https://dev.to/marciofrayze/how-was-my-experience-at-lambda-days-2025-2kc2",
-    "pubDate": "Fri, 14 Nov 2025 17:49:51 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "A Brazilian Portuguese version of this article is available here.\nLambda Days is an international conference dedicated to functional programming languages held every year in Kraków (Poland). The event"
+    "title": "ゆめみ iOS インターンと九州〜関東ヒッチハイク旅の記録",
+    "link": "https://qiita.com/TaiyoYamada/items/053b03fae73d8ec86bc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T05:48:13.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n10月14日〜11月12日の約1ヶ月、株式会社ゆめみのiOSエンジニアインターンに参加してきました！\nその期間のうち、なぜか2週間くらいは九州〜関東をヒッチハイクしながら移動していて、今回はその記録も一緒に残しておこうと思います。\nインターンは、本当は「iOSの..."
+  },
+  {
+    "title": "Anthropic社の「Code Execution with MCP」が示す未来  ―― ツールコール時代の終焉と、エージェント設計の次",
+    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
+    "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nMCP（Model Context Protocol）はすでに多くの人が触れ始めていますが、\n本当に重要なのは「MCPそのもの」ではなく、Anthropicが示した “Code Execution × MCP” という新しい設計思想です。\nMCPは外部ツールの標準化という基礎として重要ですが、Anthropicの最新記事が示したのは明確です。\n\n「ツールを直接叩く時代は終わる。」\n「エー"
+  },
+  {
+    "title": "デカルトの4つの規則に学ぶエンジニアの思考法",
+    "link": "https://zenn.dev/hisamitsu/articles/449cbae1fcf02d",
+    "pubDate": "Fri, 14 Nov 2025 00:02:04 GMT",
+    "source": "Zenn",
+    "contentSnippet": "自分も気づけば30代後半で、エンジニアとしての知識だけでなく、最低限の教養も持っておきたいなと思い、空いてる時間で哲学をかじり始めました（継続できる自信はない）。\nその中で、あの有名な名言「我思う、ゆえに我あり」を残した、近代哲学の父と呼ばれるデカルトが、真実を探究するために作った4つの規則がエンジニアにも使える思考法だなと思い、記事化しておきます。\n\n デカルトが4つの規則に到達するまで：背景と"
+  },
+  {
+    "title": "【Web開発】 主要Webフレームワークを比較 - React、Vue.js、Next.js、Django、FastAPIなど",
+    "link": "https://qiita.com/ktdatascience/items/e09cf1a615013f49388d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T23:32:13.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. はじめに\nWeb開発の世界では、さまざまなフレームワークやライブラリが日々進化を続けています。2025年現在、フロントエンドとバックエンドそれぞれに多くの選択肢があり、プロジェクトに最適なものを選ぶことが成功の鍵となりますね。\n本記事では、現在最も使われている主要な..."
+  },
+  {
+    "title": "iOSエンジニアだけが知っているGmailのなにげないすごさ",
+    "link": "https://zenn.dev/10q89s/articles/gmail_notifications",
+    "pubDate": "Thu, 13 Nov 2025 23:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n読むのにかかる時間: 約5分\n\n\n はじめに\nGmailは太古の昔からモバイルアプリも提供されており、高い完成度を誇っている。\niOSエンジニアしか気づかないすごいポイントがあるので紹介したい。\n\n Gmailアプリのすごさ\nGmailアプリのすごさは、メールをiPhoneで受信したあとの挙動にある。\n\n 普通に通知が届く\n\n\n 他の端末でメールを既読にすると、通知センターから通知が消える\n\n"
   },
   {
     "title": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化",
@@ -84,25 +126,18 @@
     "contentSnippet": "前回をまだ読んでない方はこちら\n👉 【ポケモン×Java】Lv11：『キミが技を選ぶ番だ！』〜Scannerで選択〜\n\n🎮 いまできるすべてをぶつけよ！\n第０章～第１１章までおつかれさま！！\n説明が足りなかったりして、難しかったかもしれないが、\nここまでついてきてくれて..."
   },
   {
+    "title": "GPT-5.1とGPT-5の違いをGPT-5.1とGPT-5にQiitaの記事としてまとめさせて、GPT-5 Proで評価してみた。（Geminiもいるよ）",
+    "link": "https://qiita.com/autotaker1984/items/932a7059239d3445731f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T15:37:16.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n非常にややこしいタイトルですみません。\n11/13にOpenAIがGPT-5系の新モデルGPT-5.1をリリースしました。\n本記事ではその違いを確かめる記事です。\n\n検証方法\nGPT-5とGPT-5.1の大きな違いはその回答スタイルにあるようです。\nそのため、Q..."
+  },
+  {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
     "link": "https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html",
     "pubDate": "2025-11-13T15:37:08.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
-  },
-  {
-    "title": "nvim-submode : 直感的に設定可能な新しいサブモードプラグイン",
-    "link": "https://zenn.dev/sirasagi62/articles/08ed288ce990e2",
-    "pubDate": "Thu, 13 Nov 2025 13:18:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "nvim-submodeはLuaで書かれた直感的ながら強力な機能を持つサブモードプラグインです。どのくらい強力かというと、\nわずか8行でCAPSLOCKを実装できたり、\n\nたった20行でclever-f.vimの簡易版(SMART-F)が実装できたりします。\n\nhttps://github.com/sirasagi62/nvim-submode\n\n What is サブモード\nそもそもサブモードと"
-  },
-  {
-    "title": "laravelコマンドで Starter Kit を展開し、Sail で固める Laravel 開発環境構築ガイド",
-    "link": "https://zenn.dev/catatsumuri/articles/2b9ece7d2b12d7",
-    "pubDate": "Thu, 13 Nov 2025 11:50:08 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TL;DR\n!\nLaravel Sailは使えるなら使ったほうがいいし、それが開発環境の用意には一番速いです\n\nPHP/Composer のローカル依存地獄を全部避けられる\nテスト環境（DB含む）を自動セットアップできる\nPHPバージョン差異の事故を避けられる\n\n\n\n 前提\n\n最低限dockerは動く。dockerが動かないと前提は全部崩れるのでこの記事を参考にした開発は無理です。\nここではWSL"
   },
   {
     "title": "MoonBit 最高 2025",
@@ -154,32 +189,11 @@
     "contentSnippet": "当記事に関して\n本記事では、2025年のAWSアソシエイト（SAA）試験対策やAWS知識を身につけたい方に向けて、押さえておくべき10の主要サービスを紹介します。\nここで紹介する情報は基本的な理解を助けるものであり、さらに深掘りして学習するための入り口として活用してくだ..."
   },
   {
-    "title": "LLM開発の裏で行われるデバッグ作業: PyTorch DCP",
-    "link": "https://zenn.dev/turing_motors/articles/04eed10b0aafe9",
-    "pubDate": "Thu, 13 Nov 2025 06:03:34 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nTuring CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。\n本記事は、LLM, VLM開発の裏で行われるリアルなデバッグ作業の様子を紹介します。\nLLM, VLMの開発の裏には本記事で紹介するような地道なデバッグ作業が多数あるのですが、なかなかその実態が伝わっていないように思います。できるだけ詳細にデバッグ作業の様子を記しましたの"
-  },
-  {
-    "title": "AWS App Runnerで簡単にコンテナアプリを実装する",
-    "link": "https://qiita.com/YuNagura/items/d42f2cd6c60d9723931e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T03:00:19.000Z",
-    "source": "Qiita",
-    "contentSnippet": "本記事はBIPROGY /ユニアデックス社内AWSコミュニティ「BIPROGY AWS Ambassador」の定期投稿企画第7回目の記事です。他の定期投稿企画の記事は、#BIPROGY_AWS_Ambassador タグまたは Organizationページをご覧くだ..."
-  },
-  {
     "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
     "link": "https://qiita.com/huyunoki/items/9d4898a51ceb114076da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T02:36:55.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに：初心者にこそ自走力が必要な理由\nはじめまして。学生エンジニアの@huyunokiです。\nプログラミングを始めて1年未満の僕がエンジニアとして勉強するうえで最も重要だと感じた力。それは、「自走力」です。\n\nエラーが出ると、すぐにフリーズしてしまう\n何から勉強すれば..."
-  },
-  {
-    "title": "JS→TS移行で「型を書くだけ」じゃなかった話 - 型を書いて気づいた5つの設計の甘さ",
-    "link": "https://zenn.dev/ktsushima/articles/js-to-ts-migration-learnings",
-    "pubDate": "Wed, 12 Nov 2025 18:50:20 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nTypeScript初心者の状態から、既存のVue 3プロジェクト（JavaScript）をTypeScriptに移行する機会がありました。この記事では、実装過程で学んだTypeScriptの基礎知識と、「型を書く」という行為が設計改善につながった体験を、初心者目線で整理してまとめます。\n前提条件:\n\nTypeScriptは完全な初心者\nJavaScriptは一定の学習経験あり（Vue "
   },
   {
     "title": "高受理系高校生が水色コーダーになるために必要な記事",
@@ -201,13 +215,6 @@
     "pubDate": "2025-11-12T15:50:59.000Z",
     "source": "Publickey",
     "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行が安心してできるようになりました。 Node.jsはTypeScriptをサポート"
-  },
-  {
-    "title": "【社内発表】AI駆動開発を意識した開発についてやってみた：MCPサーバーとiOSアプリの連携",
-    "link": "https://qiita.com/infracat/items/711415e02bd2340713c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T13:50:26.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。\n今回、社内の発表イベントで生成AIについて調査したり、試しに開発してみたりなどしてみた結果を社内で発表しました。\n折角なので、Qiitaにも投稿します。\n\n今回実施したこと\n生成AIを使うことが今まであまりなかったので、一体どういう感触で、どういうことができ..."
   },
   {
     "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
@@ -236,13 +243,6 @@
     "pubDate": "2025-11-11T15:53:02.000Z",
     "source": "Publickey",
     "contentSnippet": "一般社団法人オープンソース・グループ・ジャパン（OSG-JP）は、日本がAI時代における国際競争力を確保し、国民から信頼されるAI社会を構築するための具体的な3つの提言「オープンソースAIを基盤とした開かれたAI社会とデジタル主権を構築するための公開提言 ― 米中依存のリスクを低減し、透明性・自律性・競争力あるAI基盤を構築 ―」を公開しました。 同団体は日本国内におけるオープンソースの普及と発展"
-  },
-  {
-    "title": "ゲームの負荷試験だってオブザーバビリティしたい！！",
-    "link": "https://qiita.com/ume67026265/items/533e0fb3df7d2f174e83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-11T13:40:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "※CEDEC2025 のセッションの中でご紹介したデモの解説を中心にまとめています。\n※あくまで個人の記事になりますので、その点はご了承ください。\n\n開発段階からちゃんとオブザーバビリティできてますか？\nゲームの本番リリースまでにサーバエンジニアはサーバプログラムの開発、..."
   },
   {
     "title": "GitHub、リリース後のバイナリなどアセットを変更不可にする「Immutable Release」（変更不可リリース）機能を正式リリース",

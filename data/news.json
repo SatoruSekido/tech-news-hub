@@ -1,73 +1,80 @@
 [
   {
-    "title": "Federated avatars in authentik",
-    "link": "https://dev.to/timo_reusch/federated-avatars-in-authentik-4le2",
-    "pubDate": "Sat, 15 Nov 2025 01:38:01 +0000",
+    "title": "How Monetzly Enables Profitable SDK Integration for AI Developers",
+    "link": "https://dev.to/monetzly/how-monetzly-enables-profitable-sdk-integration-for-ai-developers-1lkg",
+    "pubDate": "Sat, 15 Nov 2025 06:17:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "By default, authentik shows the users initials as an avatar or pulls the profile picture from Gravatar (if one is available). \nthis GitHub discussion), we will add this functionality.\n\nTested with aut"
+    "contentSnippet": "What If Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nImagine a world where your AI application not only provides users with valuable insights but also generates revenue while doing"
   },
   {
-    "title": "Building a FHIR Patient Deduplication System: A Journey from Chaos to Performance",
-    "link": "https://dev.to/budiwidhiyanto/building-a-fhir-patient-deduplication-system-a-journey-from-chaos-to-performance-4h65",
-    "pubDate": "Sat, 15 Nov 2025 01:32:38 +0000",
+    "title": "**Technical AI Governance Challenge:**",
+    "link": "https://dev.to/drcarlosruizviquez/technical-ai-governance-challenge-cdm",
+    "pubDate": "Sat, 15 Nov 2025 06:17:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I'm working on a national project to collect health data from legacy systems in two pilot districts in Indonesia. The goal is to create interoperability between different healthcare systems so we can "
+    "contentSnippet": "Technical AI Governance Challenge:\nYou are a senior data scientist at a leading online music streaming company, with over 200 million users worldwide. Your organization uses a proprietary AI-based mus"
   },
   {
-    "title": "Hope I can meet new friends who can teach me, inspire me to grow and improve as a full stack web beginner.",
-    "link": "https://dev.to/samquartz/hope-i-can-meet-new-friends-who-can-teach-me-inspire-me-to-grow-and-improve-as-a-full-stack-web-319k",
-    "pubDate": "Sat, 15 Nov 2025 01:31:33 +0000",
+    "title": "5 Essential Array Methods Every JavaScript Developer Must Know",
+    "link": "https://dev.to/manikandan_a8f99e0153ef77/5-essential-array-methods-every-javascript-developer-must-know-3h0p",
+    "pubDate": "Sat, 15 Nov 2025 06:12:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "What is a method? \nA method is just a function inside an object,\nNow we are going to see some of the most frequently used built-in methods in JavaScript \n\nArray methods()\n 1) push()\n--> It is used to "
   },
   {
-    "title": "Plastic Optical Fiber vs. Glass Optical Fiber",
-    "link": "https://dev.to/dspof2000/plastic-optical-fiber-vs-glass-optical-fiber-1f3k",
-    "pubDate": "Sat, 15 Nov 2025 01:22:14 +0000",
+    "title": "Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!",
+    "link": "https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog",
+    "pubDate": "Sat, 15 Nov 2025 06:07:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As the core carrier for optical signal transmission, optical fibers have been widely used in communications, lighting, industrial sensing and other fields. Based on differences in core materials, they"
+    "contentSnippet": "Jahari Stampley walks us through his unlikely journey from eager student to champion of the Herbie Hancock Institute of Jazz Piano Competition, blending intense dedication with a fearless approach to "
   },
   {
-    "title": "OSD600: Lab 8",
-    "link": "https://dev.to/kphero/osd600-lab-8-3315",
-    "pubDate": "Sat, 15 Nov 2025 01:17:51 +0000",
+    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2h96",
+    "pubDate": "Sat, 15 Nov 2025 06:00:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This week I added a GitHub Action Continuous Integration Workflow (say that 10 times fast) to my project. This was interesting as I've now encountered this in a few projects I contributed to during Ha"
+    "contentSnippet": "In this Ringer Movies episode, Bill Simmons, Sean Fennessey, and Van Lathan don their film buff hats to rewatch Brian De Palma’s ‘Snake Eyes,’ starring Nicolas Cage, Gary Sinise, and Carla Gugino. The"
   },
   {
-    "title": "Azure Application Gateway και Azure Front Door",
-    "link": "https://dev.to/__b63657/azure-application-gateway-kai-azure-front-door-263g",
-    "pubDate": "Sat, 15 Nov 2025 01:14:04 +0000",
+    "title": "Understanding the Role of Context in AI Agent Responses",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h",
+    "pubDate": "Sat, 15 Nov 2025 05:49:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Εισαγωγή\nΤο οικοσύστημα του Microsoft Azure διαθέτει πολλές υπηρεσίες για τη διαχείριση της εισερχόμενης κίνησης προς web εφαρμογές. Ανάμεσα στις πιο συχνά χρησιμοποιούμενες είναι το Azure Application"
+    "contentSnippet": "TL;DR\n\n\nContext determines how AI agents interpret user intent, select tools, retrieve knowledge, and generate trustworthy outputs. Robust context management spans prompt design, retrieval augmented g"
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/b5119/-55ml",
-    "pubDate": "Sat, 15 Nov 2025 01:09:41 +0000",
+    "title": "How AI Batch Background Removal Helps Non-Designers Create Professional Visuals",
+    "link": "https://dev.to/freepixel11/how-ai-batch-background-removal-helps-non-designers-create-professional-visuals-51h4",
+    "pubDate": "Sat, 15 Nov 2025 05:44:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Make AI Your Copilot, Not Your Autopilot\nSalauddin Omar Sifat ・ Nov 9\n#ai\n        #programming\n        #learning\n        #productivity"
+    "contentSnippet": "Not everyone has the time or skill to master Photoshop.\n\nBut in today’s digital world, everyone needs good visuals — whether you’re building a personal brand, designing social posts, or launching a sm"
   },
   {
-    "title": "Fine-Tuning LLMs: LoRA, Quantization, and Distillation Simplified",
-    "link": "https://dev.to/iamfaham/fine-tuning-llms-lora-quantization-and-distillation-simplified-12nf",
-    "pubDate": "Sat, 15 Nov 2025 01:06:42 +0000",
+    "title": "Leveraging Distributed Tracing for AI System Performance Insights",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/leveraging-distributed-tracing-for-ai-system-performance-insights-5e5f",
+    "pubDate": "Sat, 15 Nov 2025 05:42:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Large Language Models (LLMs) like LLaMA, Gemma, and Mistral are incredibly capable — but adapting them to specific domains or devices requires more than just prompting. Fine-tuning, quantization, and "
+    "contentSnippet": "TL;DR\n\n\nDistributed tracing reveals end-to-end behavior of AI systems across models, tools, and retrieval steps, enabling faster debugging, cost/latency optimization, and continuous quality monitoring"
   },
   {
-    "title": "My 5-Day AI Agents Intensive Journey — And How I Built a Google-Native MindsEye OS Using 6 Repos",
-    "link": "https://dev.to/peacebinflow/my-5-day-ai-agents-intensive-journey-and-how-i-built-a-google-native-mindseye-os-using-6-repos-4igh",
-    "pubDate": "Sat, 15 Nov 2025 01:01:08 +0000",
+    "title": "Implementing Efficient Data Management for AI Evaluations",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/implementing-efficient-data-management-for-ai-evaluations-5714",
+    "pubDate": "Sat, 15 Nov 2025 05:40:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Intro — A Course That Changed How I See Agentic Systems\nWhen I started the 5-Day AI Agents Intensive with Google & Kaggle, I expected another technical bootcamp.\nI was wrong.\n\n…but a living architectu"
+    "contentSnippet": "TL;DR\nPlatform Overview\nAI evaluations are only as strong as the data lifecycle behind them. Efficient data management requires consistent artifacts, reproducible evaluation pipelines, and a feedback "
   },
   {
-    "title": "Containerizing Your Logic Apps In Your DevBox",
-    "link": "https://dev.to/imdj/containerizing-your-logic-apps-in-your-devbox-24c0",
-    "pubDate": "Sat, 15 Nov 2025 00:59:08 +0000",
+    "title": "The Easiest Way to Build Auditable, Cryptographically-Secure Workflows.",
+    "link": "https://dev.to/alya_mahalini_f05d9953cfa/the-easiest-way-to-build-auditable-cryptographically-secure-workflows-5bnc",
+    "pubDate": "Sat, 15 Nov 2025 05:37:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\n\n\nIn previous article of this series, we covered how to create and develop Logic Apps locally using VS Code. Now we'll focus on containerizing your Logic Apps to enhance your local developmen"
+    "contentSnippet": "🛑 Stop \"Trusting.\" Start Proving.\n\n\nA Look Under the Hood of Flowork's Crypto-Secure Automation. (This Ain't Your Grandma's Audit Log).\nLet's paint a picture.\nIt's Monday morning. You're barely halfw"
+  },
+  {
+    "title": "その分析、Cursorにやらせてみませんか？",
+    "link": "https://zenn.dev/sirok/articles/8fec2c27d81b32",
+    "pubDate": "Fri, 14 Nov 2025 08:50:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n最近、Slack に「前日のデータサマリ」を貼るのが地味に面倒になってきました。\nクエリ実行 → CSV 出力 → グラフ化 → Slack 投稿。\n誰でもできるけど、誰もやりたくない定例作業ですよね。\nそこで今回は、Cursor × Snowflake × Slack を使い、自動で分析レポートをSlackへ投稿する仕組みを作ってみました。\n\ncursorの自動レポートによるアウトプッ"
   },
   {
     "title": "隠線処理の話",
@@ -77,18 +84,25 @@
     "contentSnippet": "概要\n分子動力学シミュレーションの結果を可視化する際に、隠線処理をする必要がありました。隠線処理とは、こんな感じに3次元の立体を2次元に描画するときに線が隠れるようにする処理のことです。\n\n本稿では、この隠線処理のうち、法線ベクトル法の説明をします。Pythonによるサンプルコードは以下にあります。そのままGoogle Colabで試すことができるサンプルもあります。\nhttps://github"
   },
   {
+    "title": "FlutterKaigi 2025 参加レポート",
+    "link": "https://zenn.dev/corrupt/articles/886124e9d9b88d",
+    "pubDate": "Fri, 14 Nov 2025 07:03:28 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年11月13日に開催された日本最大級のFlutterカンファレンス「FlutterKaigi 2025」に参加しました。本記事はその参加レポートとして、セッションのメモや感想をまとめたものです。\n個人的なメモや感想になるので、セッションについて詳しいことが知りたい場合は登壇者の方に聞くのが良いと思います。\n\n FlutterKaigi 2025 概要\n\n\n開催日: 2025年11月13日\n"
+  },
+  {
+    "title": "【Playwright Test Agent】LLMを使ってE2Eテストの開発・保守コストを10分の1にできた、かも",
+    "link": "https://zenn.dev/my_vision/articles/8713fc4fde965c",
+    "pubDate": "Fri, 14 Nov 2025 05:53:04 GMT",
+    "source": "Zenn",
+    "contentSnippet": "株式会社MyVisionのフロントエンドエンジニアのsrkwです。\n今回、社内でE2Eテストを新しく追加して運用対象に加えるにあたり、LLMを使って保守運用コストを大幅に削減することに成功した（かもしれない）ので、事例の共有をしたいと思います。\n\n TL;DR\n\nClaude CodeとPlaywright Test Agentsを使ってe2eテストのテストケース作成・テストコードの作成・修正をL"
+  },
+  {
     "title": "ゆめみ iOS インターンと九州〜関東ヒッチハイク旅の記録",
     "link": "https://qiita.com/TaiyoYamada/items/053b03fae73d8ec86bc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-14T05:48:13.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n10月14日〜11月12日の約1ヶ月、株式会社ゆめみのiOSエンジニアインターンに参加してきました！\nその期間のうち、なぜか2週間くらいは九州〜関東をヒッチハイクしながら移動していて、今回はその記録も一緒に残しておこうと思います。\nインターンは、本当は「iOSの..."
-  },
-  {
-    "title": "Anthropic社の「Code Execution with MCP」が示す未来  ―― ツールコール時代の終焉と、エージェント設計の次",
-    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
-    "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nMCP（Model Context Protocol）はすでに多くの人が触れ始めていますが、\n本当に重要なのは「MCPそのもの」ではなく、Anthropicが示した “Code Execution × MCP” という新しい設計思想です。\nMCPは外部ツールの標準化という基礎として重要ですが、Anthropicの最新記事が示したのは明確です。\n\n「ツールを直接叩く時代は終わる。」\n「エー"
   },
   {
     "title": "デカルトの4つの規則に学ぶエンジニアの思考法",
@@ -166,20 +180,6 @@
     "pubDate": "Thu, 13 Nov 2025 09:00:01 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは！アルダグラムでエンジニアをしている内倉です\n今年も、一年が終わろうとしていますね。\n私のブログ当番は、これが今年最後の予定なので、また印象に残ったニュースを振り返ってみたいと思います。\n今年、個人的に気になったニュースは、だいぶ最近ですが\n日本では初めての発見となる、二枚貝と共生するヨコエビ、その名も「ユキミノノマルハサミヨコエビ」の発見です。（なんと風情のあるお名前…）\n研究者の方の"
-  },
-  {
-    "title": "書いたコードを“スキル化”して再利用してる話",
-    "link": "https://zenn.dev/explaza/articles/9f3271d1a9ce70",
-    "pubDate": "Thu, 13 Nov 2025 07:55:42 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、@_mkazutaka です。\n今回は、Claude Codeのスキル機能を使って、過去に書いたコードをスキル化し、再利用する方法について紹介したいと思います。\n\n 背景\nコードを書く際に、プロジェクトの規則、もしくはある一定のパターンに従って、コードを書くことがあると思います。例えば、弊社の場合、データストアへのアクセスのためにRepositoryパターンが使われているのですが、エン"
-  },
-  {
-    "title": "Moonbit で React アプリを書く",
-    "link": "https://zenn.dev/mizchi/articles/moonbit-react-app",
-    "pubDate": "Thu, 13 Nov 2025 07:28:27 GMT",
-    "source": "Zenn",
-    "contentSnippet": "自分の中で今 Moonbit が熱いです。Moonbit を普段使いしたいですよね。\nというわけで、js backend で FFI を駆使して React でSPAを書けるとこまで頑張ってみました。\nhttps://github.com/mizchi/moonbit-react-example\nReact を書いたことがある人なら、以下のコードを見れば理解できると思います。\n///|\nenum "
   },
   {
     "title": "知っておくべき10のAWSサービス（SAA試験向け）",

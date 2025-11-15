@@ -1,73 +1,87 @@
 [
   {
-    "title": "How Monetzly Enables Profitable SDK Integration for AI Developers",
-    "link": "https://dev.to/monetzly/how-monetzly-enables-profitable-sdk-integration-for-ai-developers-1lkg",
-    "pubDate": "Sat, 15 Nov 2025 06:17:50 +0000",
+    "title": "The Real Cost of Headless Commerce: Is It Worth the Hype?",
+    "link": "https://dev.to/indianwebsiteco/the-real-cost-of-headless-commerce-is-it-worth-the-hype-3pe",
+    "pubDate": "Sat, 15 Nov 2025 12:29:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What If Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nImagine a world where your AI application not only provides users with valuable insights but also generates revenue while doing"
+    "contentSnippet": "\"Headless commerce\" is the hottest buzzword in the ecommerce world, promising \"blazing-fast speeds,\" \"total creative control,\" and \"true omnichannel\" experiences.\nBut what is it, really? And more impo"
   },
   {
-    "title": "**Technical AI Governance Challenge:**",
-    "link": "https://dev.to/drcarlosruizviquez/technical-ai-governance-challenge-cdm",
-    "pubDate": "Sat, 15 Nov 2025 06:17:47 +0000",
+    "title": "Why Parquet Is Everywhere - And What Makes It Actually Fast?",
+    "link": "https://dev.to/mohhddhassan/why-parquet-is-everywhere-and-what-makes-it-actually-fast-4p66",
+    "pubDate": "Sat, 15 Nov 2025 12:25:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Technical AI Governance Challenge:\nYou are a senior data scientist at a leading online music streaming company, with over 200 million users worldwide. Your organization uses a proprietary AI-based mus"
+    "contentSnippet": "Hey folks 👋,\nAs I kept building more data pipelines, I noticed one file format showing up everywhere: Parquet.\nEvery tool supported it. Every data engineer recommended it. Every project used it.\nWhy "
   },
   {
-    "title": "5 Essential Array Methods Every JavaScript Developer Must Know",
-    "link": "https://dev.to/manikandan_a8f99e0153ef77/5-essential-array-methods-every-javascript-developer-must-know-3h0p",
-    "pubDate": "Sat, 15 Nov 2025 06:12:58 +0000",
+    "title": "Web Developer Travis McCracken on The Art of Dependency Injection in Go",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-art-of-dependency-injection-in-go-3ljm",
+    "pubDate": "Sat, 15 Nov 2025 12:17:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is a method? \nA method is just a function inside an object,\nNow we are going to see some of the most frequently used built-in methods in JavaScript \n\nArray methods()\n 1) push()\n--> It is used to "
+    "contentSnippet": "Exploring Backend Development with Rust and Go: Insights from Web Developer Travis McCracken\nAs a passionate web developer, I’ve always been fascinated by the evolution of backend technologies and how"
   },
   {
-    "title": "Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!",
-    "link": "https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog",
-    "pubDate": "Sat, 15 Nov 2025 06:07:21 +0000",
+    "title": "The Complete 2026 and beyond Google SRE Interview Preparation Guide — Frameworks, Scenarios, and Roadmap",
+    "link": "https://dev.to/aceinterviews/the-complete-2026-and-beyond-google-sre-interview-preparation-guide-frameworks-scenarios-and-1ni4",
+    "pubDate": "Sat, 15 Nov 2025 12:16:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jahari Stampley walks us through his unlikely journey from eager student to champion of the Herbie Hancock Institute of Jazz Piano Competition, blending intense dedication with a fearless approach to "
+    "contentSnippet": "🚀 The Complete 2026 Google SRE Interview Preparation Guide\n\n\n\n  \n  \n  Frameworks, Scenarios, and a Proven Roadmap for Google’s SRE Hiring Process\n\n\n\nThis is the most comprehensive, up-to-date Google "
   },
   {
-    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2h96",
-    "pubDate": "Sat, 15 Nov 2025 06:00:29 +0000",
+    "title": "How to build an AI Voice Agent with PaplaAI Text to speech Model",
+    "link": "https://dev.to/chaitrali_kakde/how-to-build-an-ai-voice-agent-with-paplaai-text-to-speech-model-2lb",
+    "pubDate": "Sat, 15 Nov 2025 12:15:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In this Ringer Movies episode, Bill Simmons, Sean Fennessey, and Van Lathan don their film buff hats to rewatch Brian De Palma’s ‘Snake Eyes,’ starring Nicolas Cage, Gary Sinise, and Carla Gugino. The"
+    "contentSnippet": "Text-to-Speech (TTS) plays a crucial role in modern AI agents, especially those operating in telephony, customer support, voice bots, and conversational interfaces. If your agent needs to “talk,” you "
   },
   {
-    "title": "Understanding the Role of Context in AI Agent Responses",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h",
-    "pubDate": "Sat, 15 Nov 2025 05:49:44 +0000",
+    "title": "Why Istanbul Tops Travelers’ Lists",
+    "link": "https://dev.to/disiplin_forml_e60c4755/why-istanbul-tops-travelers-lists-442d",
+    "pubDate": "Sat, 15 Nov 2025 12:15:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nContext determines how AI agents interpret user intent, select tools, retrieve knowledge, and generate trustworthy outputs. Robust context management spans prompt design, retrieval augmented g"
+    "contentSnippet": "Where History, Culture, and Modernity Meet\n\n\nIn 2025, Istanbul continues to reign as one of the world’s most magnetic destinations.\nFew cities offer such a breathtaking collision of civilizations acro"
   },
   {
-    "title": "How AI Batch Background Removal Helps Non-Designers Create Professional Visuals",
-    "link": "https://dev.to/freepixel11/how-ai-batch-background-removal-helps-non-designers-create-professional-visuals-51h4",
-    "pubDate": "Sat, 15 Nov 2025 05:44:04 +0000",
+    "title": "This is such an insightful POV",
+    "link": "https://dev.to/olawalethefirst/this-is-such-an-insightful-pov-28ib",
+    "pubDate": "Sat, 15 Nov 2025 12:14:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Not everyone has the time or skill to master Photoshop.\n\nBut in today’s digital world, everyone needs good visuals — whether you’re building a personal brand, designing social posts, or launching a sm"
+    "contentSnippet": "jQuery Will Outlive Half of Today’s JavaScript Frameworks - Here's Why\nSylwia Laskowska ・ Nov 5\n#webdev\n        #javascript\n        #programming\n        #discuss"
   },
   {
-    "title": "Leveraging Distributed Tracing for AI System Performance Insights",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/leveraging-distributed-tracing-for-ai-system-performance-insights-5e5f",
-    "pubDate": "Sat, 15 Nov 2025 05:42:59 +0000",
+    "title": "Building a Small AI Tool for Twitter",
+    "link": "https://dev.to/plavookac/building-a-small-ai-tool-for-twitter-21i8",
+    "pubDate": "Sat, 15 Nov 2025 12:12:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nDistributed tracing reveals end-to-end behavior of AI systems across models, tools, and retrieval steps, enabling faster debugging, cost/latency optimization, and continuous quality monitoring"
+    "contentSnippet": "Lately, my team has been experimenting a lot with different AI tools, things like V0, Claude, rapid prototyping setups, and all these new playgrounds that make it fun to test and build ideas quickly. "
   },
   {
-    "title": "Implementing Efficient Data Management for AI Evaluations",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/implementing-efficient-data-management-for-ai-evaluations-5714",
-    "pubDate": "Sat, 15 Nov 2025 05:40:08 +0000",
+    "title": "How to Divide Long Articles on Blogger to Avoid Boring",
+    "link": "https://dev.to/hayatul_makki_1c7007a1488/how-to-divide-long-articles-on-blogger-to-avoid-boring-mb2",
+    "pubDate": "Sat, 15 Nov 2025 12:11:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\nPlatform Overview\nAI evaluations are only as strong as the data lifecycle behind them. Efficient data management requires consistent artifacts, reproducible evaluation pipelines, and a feedback "
+    "contentSnippet": "Writing long articles is great for SEO and readers looking for in-depth information. However, articles that are too long, such as over 3,000 words, can bore readers and slow down page loading.\nA smart"
   },
   {
-    "title": "The Easiest Way to Build Auditable, Cryptographically-Secure Workflows.",
-    "link": "https://dev.to/alya_mahalini_f05d9953cfa/the-easiest-way-to-build-auditable-cryptographically-secure-workflows-5bnc",
-    "pubDate": "Sat, 15 Nov 2025 05:37:30 +0000",
+    "title": "NPR Music: Nova Twins: Tiny Desk Concert",
+    "link": "https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2566",
+    "pubDate": "Sat, 15 Nov 2025 12:08:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🛑 Stop \"Trusting.\" Start Proving.\n\n\nA Look Under the Hood of Flowork's Crypto-Secure Automation. (This Ain't Your Grandma's Audit Log).\nLet's paint a picture.\nIt's Monday morning. You're barely halfw"
+    "contentSnippet": "Nova Twins blew the Tiny Desk roof off with their signature bass-heavy, pedal-powered sound. London duo Georgia South (bass) and Amy Love (guitar/vocals) kicked things off with the defiant “Cleopatra,"
+  },
+  {
+    "title": "【大刷新】PMBOK®の第8版がでた",
+    "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T10:47:29.000Z",
+    "source": "Qiita",
+    "contentSnippet": "PMBOK®の8版が出ました。\nhttps://www.pmi.org/standards/pmbok\nPMIの規定により内容の転記等はできないのですが、(chatGPT君に聞いたら目次もやめたほうがいいよと言われた)\n大まかな変更点と概要のみ記載していきます。\n\nこれまで..."
+  },
+  {
+    "title": "週末にほぼAI (v0・Claude Codeなど) が作った比較サイトをリリース - ほぼ2日で完成した個人開発の裏側",
+    "link": "https://zenn.dev/chot/articles/e594febc54f68f",
+    "pubDate": "Fri, 14 Nov 2025 09:26:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "個人開発は楽しいですが、ゼロからすべて作ると週末だけではなかなか終わりません。\n今回は、UI生成AI「v0」と「Claude Code」などを活用し、従来なら2日では終わらなかった開発を土日だけでリリースできた工程を紹介します。\nこのアプリの約9割はLLM（コーディングエージェント）による実装です。\n人は仕様や品質ルールを考え、実装はAIに任せる――そんな進め方で短期間リリースを実現しました。\n作"
   },
   {
     "title": "その分析、Cursorにやらせてみませんか？",
@@ -84,25 +98,32 @@
     "contentSnippet": "概要\n分子動力学シミュレーションの結果を可視化する際に、隠線処理をする必要がありました。隠線処理とは、こんな感じに3次元の立体を2次元に描画するときに線が隠れるようにする処理のことです。\n\n本稿では、この隠線処理のうち、法線ベクトル法の説明をします。Pythonによるサンプルコードは以下にあります。そのままGoogle Colabで試すことができるサンプルもあります。\nhttps://github"
   },
   {
-    "title": "FlutterKaigi 2025 参加レポート",
-    "link": "https://zenn.dev/corrupt/articles/886124e9d9b88d",
-    "pubDate": "Fri, 14 Nov 2025 07:03:28 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年11月13日に開催された日本最大級のFlutterカンファレンス「FlutterKaigi 2025」に参加しました。本記事はその参加レポートとして、セッションのメモや感想をまとめたものです。\n個人的なメモや感想になるので、セッションについて詳しいことが知りたい場合は登壇者の方に聞くのが良いと思います。\n\n FlutterKaigi 2025 概要\n\n\n開催日: 2025年11月13日\n"
-  },
-  {
-    "title": "【Playwright Test Agent】LLMを使ってE2Eテストの開発・保守コストを10分の1にできた、かも",
-    "link": "https://zenn.dev/my_vision/articles/8713fc4fde965c",
-    "pubDate": "Fri, 14 Nov 2025 05:53:04 GMT",
-    "source": "Zenn",
-    "contentSnippet": "株式会社MyVisionのフロントエンドエンジニアのsrkwです。\n今回、社内でE2Eテストを新しく追加して運用対象に加えるにあたり、LLMを使って保守運用コストを大幅に削減することに成功した（かもしれない）ので、事例の共有をしたいと思います。\n\n TL;DR\n\nClaude CodeとPlaywright Test Agentsを使ってe2eテストのテストケース作成・テストコードの作成・修正をL"
-  },
-  {
     "title": "ゆめみ iOS インターンと九州〜関東ヒッチハイク旅の記録",
     "link": "https://qiita.com/TaiyoYamada/items/053b03fae73d8ec86bc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-14T05:48:13.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n10月14日〜11月12日の約1ヶ月、株式会社ゆめみのiOSエンジニアインターンに参加してきました！\nその期間のうち、なぜか2週間くらいは九州〜関東をヒッチハイクしながら移動していて、今回はその記録も一緒に残しておこうと思います。\nインターンは、本当は「iOSの..."
+  },
+  {
+    "title": "クレカ不要!!無料でクラウドWebアプリを作ってみた!!",
+    "link": "https://qiita.com/yo_arai/items/1bb5353cca7b3f5e37fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T04:08:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n最近では、大学の授業や自主制作で「Webアプリを作ってみたい！」という学生がとても増えています。\nしかし、いざ始めようとすると最初にぶつかるのがこの壁です。\n\n「サーバーってどう立てるの？」\n「データベースは課金しないと使えないの？」\n「クラウドって結局お金かか..."
+  },
+  {
+    "title": "Anthropic社の「Code Execution with MCP」が示す未来  ―― ツールコール時代の終焉と、エージェント設計の次",
+    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
+    "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nMCP（Model Context Protocol）はすでに多くの人が触れ始めていますが、\n本当に重要なのは「MCPそのもの」ではなく、Anthropicが示した “Code Execution × MCP” という新しい設計思想です。\nMCPは外部ツールの標準化という基礎として重要ですが、Anthropicの最新記事が示したのは明確です。\n\n「ツールを直接叩く時代は終わる。」\n「エー"
+  },
+  {
+    "title": "Node.js on Dockerでスリムかつセキュアなコンテナイメージを作る - 2025年版",
+    "link": "https://zenn.dev/bitkey_dev/articles/7802c25e79e1db",
+    "pubDate": "Fri, 14 Nov 2025 02:09:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nみなさんはDockerfileを書いていますか？\n近年はAIによる支援でDockerfileをスクラッチで書く機会が減っていると考えられます。\nしかしながら、AIに書かせる場合でも良い書き方を知っていることで、その後の修正が容易になります。\nこの記事では、Node.jsアプリケーションのDockerfileを作成する際に、私ならこのように書くという提案をします。\n\n 作成するDocker"
   },
   {
     "title": "デカルトの4つの規則に学ぶエンジニアの思考法",
@@ -133,13 +154,6 @@
     "contentSnippet": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化\n\n はじめに\nhttps://zenn.dev/appbrew/articles/7eb12fff5738f4\n前回の記事では、スラッシュコマンドを使ってAIに会話履歴を分析させ、CLAUDE.mdに書くべきルールを提案してもらう仕組みを紹介しました。\nスラッシュコマンドを使う方法は、この仕組みのことをよく知っている人が使う分には"
   },
   {
-    "title": "【ポケモン×Java】Lv12：『ラストバトル』～Scanner、while、if～",
-    "link": "https://qiita.com/hitomin_poke/items/24b9bf90cfdeea398a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T16:46:32.000Z",
-    "source": "Qiita",
-    "contentSnippet": "前回をまだ読んでない方はこちら\n👉 【ポケモン×Java】Lv11：『キミが技を選ぶ番だ！』〜Scannerで選択〜\n\n🎮 いまできるすべてをぶつけよ！\n第０章～第１１章までおつかれさま！！\n説明が足りなかったりして、難しかったかもしれないが、\nここまでついてきてくれて..."
-  },
-  {
     "title": "GPT-5.1とGPT-5の違いをGPT-5.1とGPT-5にQiitaの記事としてまとめさせて、GPT-5 Proで評価してみた。（Geminiもいるよ）",
     "link": "https://qiita.com/autotaker1984/items/932a7059239d3445731f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T15:37:16.000Z",
@@ -154,11 +168,18 @@
     "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
   },
   {
-    "title": "MoonBit 最高 2025",
-    "link": "https://zenn.dev/mizchi/articles/moonbit-is-good-2025",
-    "pubDate": "Thu, 13 Nov 2025 11:31:55 GMT",
+    "title": "Webサイトの状態管理にnanostoresを使ってみて",
+    "link": "https://zenn.dev/mari_tt/articles/40966b7c337e62",
+    "pubDate": "Thu, 13 Nov 2025 15:10:17 GMT",
     "source": "Zenn",
-    "contentSnippet": "TypeScript はJS由来の言語仕様が根本的に不安定、Rust はアプリケーション層を書くのには低レベルすぎる、そんな不満はありませんか？\nMoonBit はそういう不満を解決してくれる言語です。ただし、今はエコシステムの力を借りず、全部自力で書く前提ですが。\nこの記事は 2025/11 時点の MoonBit への所感になります。\nhttps://zenn.dev/mizchi/artic"
+    "contentSnippet": "「Web制作」でも状態管理が必要か？\n従来のWeb制作では、静的HTMLやアニメーションをjQueryなどで実装することが多く「状態管理」という概念が必要になる場面はほとんどありませんでした。\nしかし近年では、AstroやReactを用いたSPA（Single Page Application）やSSG（Static Site Generation）の構成でWebサイトを構築するケースも増えていま"
+  },
+  {
+    "title": "nvim-submode : 直感的に設定可能な新しいサブモードプラグイン",
+    "link": "https://zenn.dev/sirasagi62/articles/08ed288ce990e2",
+    "pubDate": "Thu, 13 Nov 2025 13:18:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "nvim-submodeはLuaで書かれた直感的ながら強力な機能を持つサブモードプラグインです。どのくらい強力かというと、\nわずか8行でCAPSLOCKを実装できたり、\n\nたった20行でclever-f.vimの簡易版(SMART-F)が実装できたりします。\n\nhttps://github.com/sirasagi62/nvim-submode\n\n What is サブモード\nそもそもサブモードと"
   },
   {
     "title": "文字化けの正体はこれだ！半角カナ・JIS・UTFの沼を実例で読み解く",
@@ -168,25 +189,11 @@
     "contentSnippet": "はじめに\n文字化けは「文字集合」「符号化方式」「宣言」の不一致から生じます。特に日本語は歴史的に複数の方式が並立し、メールや携帯端末、業務システムの相互運用で事故が起きやすい背景があります。\n本稿は、代表的な文字コードの考え方、典型的な化け方のパターン、昔のメールで半角カ..."
   },
   {
-    "title": "【速報記事】FlutterKaigi2025 現地参加レポート",
-    "link": "https://zenn.dev/bloomo_tech/articles/efa8aa93b74bd3",
-    "pubDate": "Thu, 13 Nov 2025 09:29:18 GMT",
-    "source": "Zenn",
-    "contentSnippet": "ブルーモ証券でFlutterをゴリゴリ使っているokeです！\nFlutterKaigiに今年も現地参加してきまして、速報記事的に学んだ内容をまとめたいと思います💪\n\n↑エントランスに置かれていたかわいい「だしゅまる」\n\n 📝 あの日のHot reloadはなぜ動かなかったのか？ 〜OSセキュリティ(W^X)とJITコンパイラの攻防〜\n少し前に、FlutterがLiquidGlassに対応しない"
-  },
-  {
-    "title": "Python で他生物の視覚をシミュレートする",
-    "link": "https://zenn.dev/aldagram_tech/articles/2bb82ddb00cffc",
-    "pubDate": "Thu, 13 Nov 2025 09:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！アルダグラムでエンジニアをしている内倉です\n今年も、一年が終わろうとしていますね。\n私のブログ当番は、これが今年最後の予定なので、また印象に残ったニュースを振り返ってみたいと思います。\n今年、個人的に気になったニュースは、だいぶ最近ですが\n日本では初めての発見となる、二枚貝と共生するヨコエビ、その名も「ユキミノノマルハサミヨコエビ」の発見です。（なんと風情のあるお名前…）\n研究者の方の"
-  },
-  {
-    "title": "知っておくべき10のAWSサービス（SAA試験向け）",
-    "link": "https://qiita.com/ChrisFletcher/items/d04f4b002c3467bc1226?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T07:23:23.000Z",
+    "title": "[Claude Code] AIコーディング開発サイクル (2025年11月時点)",
+    "link": "https://qiita.com/nakamasato/items/ce77984e361ed877f66b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T08:44:30.000Z",
     "source": "Qiita",
-    "contentSnippet": "当記事に関して\n本記事では、2025年のAWSアソシエイト（SAA）試験対策やAWS知識を身につけたい方に向けて、押さえておくべき10の主要サービスを紹介します。\nここで紹介する情報は基本的な理解を助けるものであり、さらに深掘りして学習するための入り口として活用してくだ..."
+    "contentSnippet": "はじめに\nAIコーディングツールの発展は凄まじいスピードで変化しています。GitHub Copilot、Claude Code、Cursor、Codexなど、次々と新しいツールが登場し、既存のツールも日々アップデートされています。\nこの記事では、2025年11月時点での私..."
   },
   {
     "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
@@ -222,13 +229,6 @@
     "pubDate": "2025-11-12T08:48:13.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n前回公開した以下の記事ですが、全て生成AIに書かせました。\n私自身が直接関与したのは、アイディア出しとレビュー、Markdownの記法調整だけで、文章は全て生成AIで作りきりました。\n\n使用したLLMは以下の通りです。\n\nLLM\nバージョン\n課金の有無\n..."
-  },
-  {
-    "title": "AIがプログラマを滅ぼすというのは、幻想やったかもしれん",
-    "link": "https://qiita.com/monsoonTropicalBird/items/1d5a6257808ff7871bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T04:28:15.000Z",
-    "source": "Qiita",
-    "contentSnippet": "久しぶりにコードエディタを開く\nつい先日、AIは凄いよね、プログラマはもうあかん　みたいな記事を書いたわけですが、ちょうどそういう記事を書きながら、パヒュームのレシピをログしていけるアプリを作りたいと思い立ち、久々にVSコードを開いたのですが、なぜいきなり香水のレシピなの..."
   },
   {
     "title": "さくらのクラウド、コンテナをサーバレスで実行する「AppRun」を正式サービスとして提供開始へ",

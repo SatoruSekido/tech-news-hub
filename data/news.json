@@ -1,73 +1,73 @@
 [
   {
-    "title": "The Real Cost of Headless Commerce: Is It Worth the Hype?",
-    "link": "https://dev.to/indianwebsiteco/the-real-cost-of-headless-commerce-is-it-worth-the-hype-3pe",
-    "pubDate": "Sat, 15 Nov 2025 12:29:41 +0000",
+    "title": "VS Code vs Visual Studio",
+    "link": "https://dev.to/agunwachidiebelecalistus/vs-code-vs-visual-studio-nib",
+    "pubDate": "Sat, 15 Nov 2025 18:20:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"Headless commerce\" is the hottest buzzword in the ecommerce world, promising \"blazing-fast speeds,\" \"total creative control,\" and \"true omnichannel\" experiences.\nBut what is it, really? And more impo"
+    "contentSnippet": "Confused about VS Code vs Visual Studio? You're not alone! 🤔\nI've noticed many developers (especially beginners) use these names interchangeably, but they're actually very different tools. Here's a q"
   },
   {
-    "title": "Why Parquet Is Everywhere - And What Makes It Actually Fast?",
-    "link": "https://dev.to/mohhddhassan/why-parquet-is-everywhere-and-what-makes-it-actually-fast-4p66",
-    "pubDate": "Sat, 15 Nov 2025 12:25:03 +0000",
+    "title": "Why Utility Classes in CSS Make Modern Front-End Development Faster, Cleaner, and More Scalable",
+    "link": "https://dev.to/rverwey/why-utility-classes-in-css-make-modern-front-end-development-faster-cleaner-and-more-scalable-1ddf",
+    "pubDate": "Sat, 15 Nov 2025 18:20:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey folks 👋,\nAs I kept building more data pipelines, I noticed one file format showing up everywhere: Parquet.\nEvery tool supported it. Every data engineer recommended it. Every project used it.\nWhy "
+    "contentSnippet": "A practical guide to why “utility-first” CSS is winning; and how to use it effectively.\n\n\n\n\n\n\n  \n  \n  Introduction: The War Against Bloated Stylesheets\n\n\nEvery front-end engineer eventually hits the s"
   },
   {
-    "title": "Web Developer Travis McCracken on The Art of Dependency Injection in Go",
-    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-art-of-dependency-injection-in-go-3ljm",
-    "pubDate": "Sat, 15 Nov 2025 12:17:20 +0000",
+    "title": "5 Key Performance Benchmarks for AI Development in 2025",
+    "link": "https://dev.to/lofcz/5-key-performance-benchmarks-for-ai-development-in-2025-2mco",
+    "pubDate": "Sat, 15 Nov 2025 18:18:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Exploring Backend Development with Rust and Go: Insights from Web Developer Travis McCracken\nAs a passionate web developer, I’ve always been fascinated by the evolution of backend technologies and how"
+    "contentSnippet": "5 Key Performance Benchmarks for AI Development in 2025\n\n\nWhen we started building our latest AI-powered workflow automation system, we quickly realized that choosing the right tools wasn't just about"
   },
   {
-    "title": "The Complete 2026 and beyond Google SRE Interview Preparation Guide — Frameworks, Scenarios, and Roadmap",
-    "link": "https://dev.to/aceinterviews/the-complete-2026-and-beyond-google-sre-interview-preparation-guide-frameworks-scenarios-and-1ni4",
-    "pubDate": "Sat, 15 Nov 2025 12:16:49 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/nicolasbonnici/-5b8h",
+    "pubDate": "Sat, 15 Nov 2025 18:17:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 The Complete 2026 Google SRE Interview Preparation Guide\n\n\n\n  \n  \n  Frameworks, Scenarios, and a Proven Roadmap for Google’s SRE Hiring Process\n\n\n\nThis is the most comprehensive, up-to-date Google "
+    "contentSnippet": "How to create a REST API in seconds\nNicolas Bonnici ・ Nov 15\n#howto\n        #api\n        #rest\n        #go"
   },
   {
-    "title": "How to build an AI Voice Agent with PaplaAI Text to speech Model",
-    "link": "https://dev.to/chaitrali_kakde/how-to-build-an-ai-voice-agent-with-paplaai-text-to-speech-model-2lb",
-    "pubDate": "Sat, 15 Nov 2025 12:15:46 +0000",
+    "title": "Discover How Monetzly Makes AI Conversations Profitable for Developers",
+    "link": "https://dev.to/monetzly/discover-how-monetzly-makes-ai-conversations-profitable-for-developers-1pab",
+    "pubDate": "Sat, 15 Nov 2025 18:15:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Text-to-Speech (TTS) plays a crucial role in modern AI agents, especially those operating in telephony, customer support, voice bots, and conversational interfaces. If your agent needs to “talk,” you "
+    "contentSnippet": "What if Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nAs developers, we often find ourselves at the intersection of innovation and monetization. With the AI app landscape booming, t"
   },
   {
-    "title": "Why Istanbul Tops Travelers’ Lists",
-    "link": "https://dev.to/disiplin_forml_e60c4755/why-istanbul-tops-travelers-lists-442d",
-    "pubDate": "Sat, 15 Nov 2025 12:15:01 +0000",
+    "title": "Updated errors in this test website I made, Archaic! \r\nBringing your memories to life in an organized bento-grid style to share with friends & family. Still looking for people to test it out, tips for developing this myself in React is appreciated :)",
+    "link": "https://dev.to/designzbyoj/updated-errors-in-this-test-website-i-made-archaic-bringing-your-memories-to-life-in-an-10jl",
+    "pubDate": "Sat, 15 Nov 2025 18:14:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Where History, Culture, and Modernity Meet\n\n\nIn 2025, Istanbul continues to reign as one of the world’s most magnetic destinations.\nFew cities offer such a breathtaking collision of civilizations acro"
+    "contentSnippet": "Building Archaic - Nostalgic memory sharing platform\nDesignzByOJ ・ Nov 1\n#webdev\n        #ai\n        #vibecoding"
   },
   {
-    "title": "This is such an insightful POV",
-    "link": "https://dev.to/olawalethefirst/this-is-such-an-insightful-pov-28ib",
-    "pubDate": "Sat, 15 Nov 2025 12:14:11 +0000",
+    "title": "The Builders: How a Fragmented Life, a Curious Community, and a New Kind of Intelligence Taught Me How to Create",
+    "link": "https://dev.to/sepehr_moarefy/the-builders-how-a-fragmented-life-a-curious-community-and-a-new-kind-of-intelligence-taught-me-5501",
+    "pubDate": "Sat, 15 Nov 2025 18:13:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "jQuery Will Outlive Half of Today’s JavaScript Frameworks - Here's Why\nSylwia Laskowska ・ Nov 5\n#webdev\n        #javascript\n        #programming\n        #discuss"
+    "contentSnippet": "There is a moment — small, almost imperceptible — that separates a person who “uses” technology from a person whose life is quietly rewritten by it.\nFor me, that moment happened twice.\nThe first time "
   },
   {
-    "title": "Building a Small AI Tool for Twitter",
-    "link": "https://dev.to/plavookac/building-a-small-ai-tool-for-twitter-21i8",
-    "pubDate": "Sat, 15 Nov 2025 12:12:54 +0000",
+    "title": "🚀 Introducing jsontoall.tools — Convert JSON Into Anything (Fast)",
+    "link": "https://dev.to/jsontoall_tools/introducing-jsontoalltools-convert-json-into-anything-fast-1212",
+    "pubDate": "Sat, 15 Nov 2025 18:12:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Lately, my team has been experimenting a lot with different AI tools, things like V0, Claude, rapid prototyping setups, and all these new playgrounds that make it fun to test and build ideas quickly. "
+    "contentSnippet": "If you work with APIs, integrations, or automation, you already know the truth:\nThat’s where https://jsontoall.tools comes in.\nIt’s a lightweight, browser-based toolkit that instantly converts your JS"
   },
   {
-    "title": "How to Divide Long Articles on Blogger to Avoid Boring",
-    "link": "https://dev.to/hayatul_makki_1c7007a1488/how-to-divide-long-articles-on-blogger-to-avoid-boring-mb2",
-    "pubDate": "Sat, 15 Nov 2025 12:11:28 +0000",
+    "title": "The Linux App Structure Explained: Working with /opt, Desktop Entries, and sudo tee",
+    "link": "https://dev.to/rijultp/the-linux-app-structure-explained-working-with-opt-desktop-entries-and-sudo-tee-1fl7",
+    "pubDate": "Sat, 15 Nov 2025 18:09:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Writing long articles is great for SEO and readers looking for in-depth information. However, articles that are too long, such as over 3,000 words, can bore readers and slow down page loading.\nA smart"
+    "contentSnippet": "If you have ever downloaded a portable Linux application or needed to create a custom launcher, you might have come across directories like /opt, files ending in .desktop, or the sudo tee command. Man"
   },
   {
-    "title": "NPR Music: Nova Twins: Tiny Desk Concert",
-    "link": "https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2566",
-    "pubDate": "Sat, 15 Nov 2025 12:08:32 +0000",
+    "title": "Building a chatbot in Rust powered by Gemini Flash Models.\r\n\r\nIt's pretty cool.",
+    "link": "https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-gemini-flash-modelsits-pretty-cool-eh6",
+    "pubDate": "Sat, 15 Nov 2025 18:09:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Nova Twins blew the Tiny Desk roof off with their signature bass-heavy, pedal-powered sound. London duo Georgia South (bass) and Amy Love (guitar/vocals) kicked things off with the defiant “Cleopatra,"
+    "contentSnippet": ""
   },
   {
     "title": "【大刷新】PMBOK®の第8版がでた",

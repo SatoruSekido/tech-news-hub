@@ -1,73 +1,80 @@
 [
   {
-    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3agh",
-    "pubDate": "Sun, 16 Nov 2025 02:00:34 +0000",
+    "title": "What's the use of Intermediate models in Django (Many to Many Relationship)",
+    "link": "https://dev.to/guzmanojero/whats-the-use-of-intermediate-models-in-django-many-to-many-relationship-40li",
+    "pubDate": "Sun, 16 Nov 2025 06:23:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "‘Snake Eyes’ Deep Dive with Bill Simmons, Sean Fennessey & Van Lathan\n\n\nBill Simmons, Sean Fennessey, and Van Lathan crown themselves the “kings of the sewer” in this Ringer Movies episode as they rew"
+    "contentSnippet": "The Many-to-Many relationship is a cornerstone of database design, but what happens when you need to store extra data about that relationship? Standard Many-to-Many falls short.\nIn Django, the solutio"
+  },
+  {
+    "title": "How AI is Revolutionizing Developer Productivity in 2025: A Complete Guide",
+    "link": "https://dev.to/srivsatavarishabh17/how-ai-is-revolutionizing-developer-productivity-in-2025-a-complete-guide-21i6",
+    "pubDate": "Sun, 16 Nov 2025 06:19:11 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The way we write code is fundamentally changing. AI-powered coding assistants are no longer just a novelty—they're becoming essential tools in every developer's arsenal. In this comprehensive guide, I"
   },
   {
     "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-25cn",
-    "pubDate": "Sun, 16 Nov 2025 02:00:08 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9",
+    "pubDate": "Sun, 16 Nov 2025 06:00:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less\n\n\nCinemaSins unpacks every dino-sized flaw in Jurassic World Rebirth in under 17 minutes—because apparently we just can’t stop resurr"
+    "contentSnippet": "CinemaSins’ latest video, “Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less,” rips into every cheesy dino revival and plot hiccup with their trademark rapid-fire sin counting. Think "
   },
   {
-    "title": "Managing Complex Form State in Vue3/Nuxt3: Composition API and State Separation",
-    "link": "https://dev.to/taro000/managing-complex-form-state-in-vue3nuxt3-composition-api-and-state-separation-32g",
-    "pubDate": "Sun, 16 Nov 2025 01:51:21 +0000",
+    "title": "The Ultimate React Interview Prep: 30+ Questions Covering Hooks, Context, VDOM, and Fiber",
+    "link": "https://dev.to/rahul_lokare_323a1be36f3a/the-ultimate-react-interview-prep-30-questions-covering-hooks-context-vdom-and-fiber-37jb",
+    "pubDate": "Sun, 16 Nov 2025 05:54:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Introduction\n\n\nHello!\nAt our company, we're developing an application that generates and manages job postings using AI from sales notes and company information. For more details, please check out t"
+    "contentSnippet": "**Landing a senior or even mid-level React role **requires more than knowing how to use useState. You need to understand why React works the way it does.\n\nIntermediate Concepts \nThe Memoization Trap: "
   },
   {
-    "title": "Debugging Java ClassNotFoundException: A Beginner's Guide to Finding Missing Dependencies",
-    "link": "https://dev.to/itzsrikanth/debugging-java-classnotfoundexception-a-beginners-guide-to-finding-missing-dependencies-1i9p",
-    "pubDate": "Sun, 16 Nov 2025 01:42:04 +0000",
+    "title": "How Cryptocurrency Prices Work Across Different Blockchains",
+    "link": "https://dev.to/thevenice/how-cryptocurrency-prices-work-across-different-blockchains-13j4",
+    "pubDate": "Sun, 16 Nov 2025 05:47:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIf you've ever encountered a ClassNotFoundException or NoClassDefFoundError in Java, you know how frustrating it can be. Your code compiled fine, but at runtime, Java can't find a class"
+    "contentSnippet": "Crypto often feels confusing when you see Bitcoin (BTC) listed at slightly different prices on Binance, Coinbase, OKX, KuCoin, and even other blockchains like Ethereum or BNB Chain.\nits own blockchain"
   },
   {
-    "title": "Google Cloud Group DevFest Toronto 2025 - The Most Chaotic Conference I've Ever Been To",
-    "link": "https://dev.to/xiongemi/google-cloud-group-devfest-toronto-2025-the-most-chaotic-conference-ive-ever-been-to-2348",
-    "pubDate": "Sun, 16 Nov 2025 01:30:43 +0000",
+    "title": "Connect django with tailwind css",
+    "link": "https://dev.to/pritish_academy/connect-django-with-tailwind-css-a86",
+    "pubDate": "Sun, 16 Nov 2025 05:45:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today I went to the Google Cloud Group DevFest 2025, and to be very honest, this might be one of the most CHAOTIC conferences I’ve ever attended.\nTickets were only around $40 per person, which is defi"
+    "contentSnippet": "This guide will help you integrate TailwindCSS into your Django\ndjango-tailwind.\nFirst, install django-tailwind and its dependencies:\npip install django-tailwind\npip install django-browser-reload\n\nOpe"
   },
   {
-    "title": "Beyond The Tutorial: Why Courses Are Not What We Thought",
-    "link": "https://dev.to/leojimenezg/beyond-the-tutorial-why-courses-are-not-what-we-thought-30oo",
-    "pubDate": "Sun, 16 Nov 2025 01:29:21 +0000",
+    "title": "A Importância dos Metas Keys no Desenvolvimento de Plugins no WordPress",
+    "link": "https://dev.to/matheussesso/a-importancia-dos-metas-keys-no-desenvolvimento-de-plugins-no-wordpress-jl3",
+    "pubDate": "Sun, 16 Nov 2025 05:35:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Courses typically teach through audio, text, images, or videos, content we consume as we progress through lessons. We watch, listen, or read as instructors demonstrate what they're teaching, believing"
+    "contentSnippet": "No WordPress, metas keys surgem como um mecanismo invisível que nos proporciona uma verdadeira flexibilidade de customização. Eles transformam dados estáticos em camadas dinâmicas, permitindo que plug"
   },
   {
-    "title": "go to visual studio code",
-    "link": "https://dev.to/dealajoevincenthash/go-to-visual-studio-code-185",
-    "pubDate": "Sun, 16 Nov 2025 01:10:32 +0000",
+    "title": "Coding in AI Era: Adapt Your Methods",
+    "link": "https://dev.to/ndabene/coding-in-ai-era-adapt-your-methods-198m",
+    "pubDate": "Sun, 16 Nov 2025 05:28:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "Mastering AI-Driven Development: From Instinct to Intent\n\n\nThe arrival of generative AI tools like ChatGPT, Claude, and GitHub Copilot has fundamentally reshaped how we approach software creation. Thi"
   },
   {
-    "title": "Maximize API Monetization: How Monetzly Powers AI Conversations",
-    "link": "https://dev.to/monetzly/maximize-api-monetization-how-monetzly-powers-ai-conversations-4fcp",
-    "pubDate": "Sun, 16 Nov 2025 01:01:41 +0000",
+    "title": "The Day I Realized I Wasn’t Coding — I Was Just Context Switching to Death.",
+    "link": "https://dev.to/vjygour/the-day-i-realized-i-wasnt-coding-i-was-just-context-switching-to-death-5an",
+    "pubDate": "Sun, 16 Nov 2025 05:25:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How We Built Ad Injection That Users Actually Appreciate: The Secret Behind Monetizing AI Conversations\nIn the rapidly evolving world of AI applications, developers are faced with a pressing challenge"
+    "contentSnippet": "A developer’s story, a tough realization, and why we built LogTaskr.\nAs developers, we love to believe our biggest enemy is complexity.\nBut the real enemy is quieter.\nIt sneaks in through Slack pings."
   },
   {
-    "title": "dev diary 20251115",
-    "link": "https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251115-3fm5",
-    "pubDate": "Sun, 16 Nov 2025 00:50:50 +0000",
+    "title": "PHP 8.5: The Silent Web Revolution",
+    "link": "https://dev.to/ndabene/php-85-the-silent-web-revolution-2i19",
+    "pubDate": "Sun, 16 Nov 2025 05:18:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Yesterday's Development Progress\n\n\n\n  \n  \n  Amplify Files (Backend)\n\n\nSandbox Launch: Executed the sandbox launch.\nSynchronization: The content synchronization from the local environment to the AWS co"
+    "contentSnippet": "PHP 8.5: Elevating Your Code with Subtle Brilliance\n\n\nImagine crafting code where complex operations flow like a single, clear thought. Picture making immutable objects adaptable in an instant. Envisi"
   },
   {
-    "title": "React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns",
-    "link": "https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd",
-    "pubDate": "Sun, 16 Nov 2025 00:36:09 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Most React interviews won’t ask you to build a whole app.\nInstead, they quietly test whether you really understand when React renders, what causes extra renders, and how memoization actually works:\nWh"
+    "title": "Windows版Zedを試してみたらVSCodeより使うことになりそう",
+    "link": "https://zenn.dev/amenaruya/articles/66b7ee7540703c",
+    "pubDate": "Sat, 15 Nov 2025 10:55:12 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Zedといふものをしてみむとおもひて⋯\n記事の主旨と何の関係もない話\n表題の文句「してみむとおもひて」は、土佐日記(紀貫之)の冒頭としてよく知られる「⋯してみんとてするなり」とはやや異なりますが、こちらを見るとそのように書いてありました。とは言え、「としのしはすのしはすの廿日」などとあってなんだか怪しいので、誤って伝わった文章か、書いた方が誤ったかのどちらかのように思えます。普通に土佐日記を読むな"
   },
   {
     "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
@@ -75,6 +82,13 @@
     "pubDate": "Sat, 15 Nov 2025 07:34:37 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nみなさん、C#書いてますか？\nTIOBE Indexの2025年11月の見出しは「Is C# going to surpass Java for the first time in history?」でした。\n\n11 月の見出し: C# は史上初めて Java を追い抜くことになるのか?\nPythonに代わって、プログラミング言語C#が最も急成長を遂げています。C#がこのペースを維持でき"
+  },
+  {
+    "title": "Go × Github Copilot Agent の開発環境とツールセット紹介",
+    "link": "https://zenn.dev/naka_sei/articles/ac1035b0a91d12",
+    "pubDate": "Sat, 15 Nov 2025 06:52:29 GMT",
+    "source": "Zenn",
+    "contentSnippet": "このエントリでは、「どんな用途に、どのツールを使っているか」 にフォーカスして、私の Go 開発環境まわりを用途別にざっと紹介します。\nリポジトリ: https://github.com/naka-sei/tsudzuri\n\n言語・ランタイム\nローカル開発（ホットリロード / Docker / Make）\nDB / ORM\nObservability（ログ・トレース）\nAPI 定義 / コード生成"
   },
   {
     "title": "【数式なし】AIエージェントの教科書",
@@ -159,20 +173,6 @@
     "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nMCP（Model Context Protocol）はすでに多くの人が触れ始めていますが、\n本当に重要なのは「MCPそのもの」ではなく、Anthropicが示した “Code Execution × MCP” という新しい設計思想です。\nMCPは外部ツールの標準化という基礎として重要ですが、Anthropicの最新記事が示したのは明確です。\n\n「ツールを直接叩く時代は終わる。」\n「エー"
-  },
-  {
-    "title": "Node.js on Dockerでスリムかつセキュアなコンテナイメージを作る - 2025年版",
-    "link": "https://zenn.dev/bitkey_dev/articles/7802c25e79e1db",
-    "pubDate": "Fri, 14 Nov 2025 02:09:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nみなさんはDockerfileを書いていますか？\n近年はAIによる支援でDockerfileをスクラッチで書く機会が減っていると考えられます。\nしかしながら、AIに書かせる場合でも良い書き方を知っていることで、その後の修正が容易になります。\nこの記事では、Node.jsアプリケーションのDockerfileを作成する際に、私ならこのように書くという提案をします。\n\n 作成するDocker"
-  },
-  {
-    "title": "デカルトの4つの規則に学ぶエンジニアの思考法",
-    "link": "https://zenn.dev/hisamitsu/articles/449cbae1fcf02d",
-    "pubDate": "Fri, 14 Nov 2025 00:02:04 GMT",
-    "source": "Zenn",
-    "contentSnippet": "自分も気づけば30代後半で、エンジニアとしての知識だけでなく、最低限の教養も持っておきたいなと思い、空いてる時間で哲学をかじり始めました（継続できる自信はない）。\nその中で、あの有名な名言「我思う、ゆえに我あり」を残した、近代哲学の父と呼ばれるデカルトが、真実を探究するために作った4つの規則がエンジニアにも使える思考法だなと思い、記事化しておきます。\n\n デカルトが4つの規則に到達するまで：背景と"
   },
   {
     "title": "【Web開発】 主要Webフレームワークを比較 - React、Vue.js、Next.js、Django、FastAPIなど",

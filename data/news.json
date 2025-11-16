@@ -1,73 +1,73 @@
 [
   {
-    "title": "What's the use of Intermediate models in Django (Many to Many Relationship)",
-    "link": "https://dev.to/guzmanojero/whats-the-use-of-intermediate-models-in-django-many-to-many-relationship-40li",
-    "pubDate": "Sun, 16 Nov 2025 06:23:34 +0000",
+    "title": "Ship LangGraph.js Workflows in Production with Open LangGraph Server",
+    "link": "https://dev.to/konghayao/ship-langgraphjs-workflows-in-production-with-open-langgraph-server-39i5",
+    "pubDate": "Sun, 16 Nov 2025 12:43:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Many-to-Many relationship is a cornerstone of database design, but what happens when you need to store extra data about that relationship? Standard Many-to-Many falls short.\nIn Django, the solutio"
+    "contentSnippet": "The LangGraph ecosystem makes it easy to build complex AI workflows in TypeScript and JavaScript — but once you have a graph, how do you ship it to production with proper storage, streaming, and frame"
   },
   {
-    "title": "How AI is Revolutionizing Developer Productivity in 2025: A Complete Guide",
-    "link": "https://dev.to/srivsatavarishabh17/how-ai-is-revolutionizing-developer-productivity-in-2025-a-complete-guide-21i6",
-    "pubDate": "Sun, 16 Nov 2025 06:19:11 +0000",
+    "title": "Method Overloading in Java",
+    "link": "https://dev.to/vidya_varshini/method-overloading-in-java-4m0e",
+    "pubDate": "Sun, 16 Nov 2025 12:38:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The way we write code is fundamentally changing. AI-powered coding assistants are no longer just a novelty—they're becoming essential tools in every developer's arsenal. In this comprehensive guide, I"
+    "contentSnippet": "What is method overloading: This is defined as a feature that allows a class to have multiple methods with the same name but different parameters. It is also known as compile time polymorphism.\nThe di"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9",
-    "pubDate": "Sun, 16 Nov 2025 06:00:11 +0000",
+    "title": "How to Secure RabbitMQ & Celery with TLS/SSL",
+    "link": "https://dev.to/zaaachos/how-to-secure-rabbitmq-celery-with-tlsssl-3ie2",
+    "pubDate": "Sun, 16 Nov 2025 12:23:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins’ latest video, “Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less,” rips into every cheesy dino revival and plot hiccup with their trademark rapid-fire sin counting. Think "
+    "contentSnippet": "In a recent project where I needed to build a scalable, distributed processing workflow using RabbitMQ and Celery, I was reminded of how challenging it can be to navigate security-related documentatio"
   },
   {
-    "title": "The Ultimate React Interview Prep: 30+ Questions Covering Hooks, Context, VDOM, and Fiber",
-    "link": "https://dev.to/rahul_lokare_323a1be36f3a/the-ultimate-react-interview-prep-30-questions-covering-hooks-context-vdom-and-fiber-37jb",
-    "pubDate": "Sun, 16 Nov 2025 05:54:37 +0000",
+    "title": "Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-1g1c",
+    "pubDate": "Sun, 16 Nov 2025 12:17:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "**Landing a senior or even mid-level React role **requires more than knowing how to use useState. You need to understand why React works the way it does.\n\nIntermediate Concepts \nThe Memoization Trap: "
+    "contentSnippet": "Why I Love Working with Rust and Go for Backend Development\nHi, I’m Web Developer Travis McCracken, and today I want to share my insights on building robust backend systems using two of the most excit"
   },
   {
-    "title": "How Cryptocurrency Prices Work Across Different Blockchains",
-    "link": "https://dev.to/thevenice/how-cryptocurrency-prices-work-across-different-blockchains-13j4",
-    "pubDate": "Sun, 16 Nov 2025 05:47:43 +0000",
+    "title": "What is Ctrl+H in Excel? Master Find & Replace for Data Cleaning",
+    "link": "https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm",
+    "pubDate": "Sun, 16 Nov 2025 12:05:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Crypto often feels confusing when you see Bitcoin (BTC) listed at slightly different prices on Binance, Coinbase, OKX, KuCoin, and even other blockchains like Ethereum or BNB Chain.\nits own blockchain"
+    "contentSnippet": "Ctrl+H opens Excel’s Find and Replace dialog — a commonly used tool for locating and updating values in bulk. It is helpful for tasks like correcting text, formatting, or cleaning large datasets quick"
   },
   {
-    "title": "Connect django with tailwind css",
-    "link": "https://dev.to/pritish_academy/connect-django-with-tailwind-css-a86",
-    "pubDate": "Sun, 16 Nov 2025 05:45:09 +0000",
+    "title": "Beyond Vanity Metrics: 7 B2B Marketing KPIs You Can Query Like an API",
+    "link": "https://dev.to/michaelaiglobal/beyond-vanity-metrics-7-b2b-marketing-kpis-you-can-query-like-an-api-1878",
+    "pubDate": "Sun, 16 Nov 2025 12:01:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This guide will help you integrate TailwindCSS into your Django\ndjango-tailwind.\nFirst, install django-tailwind and its dependencies:\npip install django-tailwind\npip install django-browser-reload\n\nOpe"
+    "contentSnippet": "As developers, we live by data. We track uptime, monitor latency, and debug with logs. When marketing talks about 'brand awareness' or 'engagement,' it can feel like a fuzzy, unquantifiable black box."
   },
   {
-    "title": "A Importância dos Metas Keys no Desenvolvimento de Plugins no WordPress",
-    "link": "https://dev.to/matheussesso/a-importancia-dos-metas-keys-no-desenvolvimento-de-plugins-no-wordpress-jl3",
-    "pubDate": "Sun, 16 Nov 2025 05:35:17 +0000",
+    "title": "The Digital Catwalk",
+    "link": "https://dev.to/rawveg/the-digital-catwalk-5dfi",
+    "pubDate": "Sun, 16 Nov 2025 12:00:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "No WordPress, metas keys surgem como um mecanismo invisível que nos proporciona uma verdadeira flexibilidade de customização. Eles transformam dados estáticos em camadas dinâmicas, permitindo que plug"
+    "contentSnippet": "The fashion industry has always been about creating desire through imagery, but what happens when that imagery no longer requires human subjects? When Vogue began experimenting with AI-generated model"
   },
   {
-    "title": "Coding in AI Era: Adapt Your Methods",
-    "link": "https://dev.to/ndabene/coding-in-ai-era-adapt-your-methods-198m",
-    "pubDate": "Sun, 16 Nov 2025 05:28:47 +0000",
+    "title": "From Imposter Syndrome to Confidence: My Journey as a Senior Angular Developer",
+    "link": "https://dev.to/gouranga-das-khulna/from-imposter-syndrome-to-confidence-my-journey-as-a-senior-angular-developer-2bpm",
+    "pubDate": "Sun, 16 Nov 2025 12:00:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mastering AI-Driven Development: From Instinct to Intent\n\n\nThe arrival of generative AI tools like ChatGPT, Claude, and GitHub Copilot has fundamentally reshaped how we approach software creation. Thi"
+    "contentSnippet": "You know that feeling when you walk into a room and wonder if everyone else has the secret manual you somehow missed? That was me, not so long ago, staring at a wall of Angular code, heart pounding, c"
   },
   {
-    "title": "The Day I Realized I Wasn’t Coding — I Was Just Context Switching to Death.",
-    "link": "https://dev.to/vjygour/the-day-i-realized-i-wasnt-coding-i-was-just-context-switching-to-death-5an",
-    "pubDate": "Sun, 16 Nov 2025 05:25:54 +0000",
+    "title": "A brief history of my Linux experience",
+    "link": "https://dev.to/tkouleris/a-brief-history-of-my-linux-experience-2kmg",
+    "pubDate": "Sun, 16 Nov 2025 11:58:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A developer’s story, a tough realization, and why we built LogTaskr.\nAs developers, we love to believe our biggest enemy is complexity.\nBut the real enemy is quieter.\nIt sneaks in through Slack pings."
+    "contentSnippet": "I got a computer back in 1997, and the word “Linux” was completely unknown to me. In fact, I hardly knew Windows back then. I only had experience with console gaming, and consoles didn’t have Operatin"
   },
   {
-    "title": "PHP 8.5: The Silent Web Revolution",
-    "link": "https://dev.to/ndabene/php-85-the-silent-web-revolution-2i19",
-    "pubDate": "Sun, 16 Nov 2025 05:18:44 +0000",
+    "title": "working on my Collaborative coding project",
+    "link": "https://dev.to/karthik_shetty_32ee962635/working-on-my-collaborative-coding-project-10cp",
+    "pubDate": "Sun, 16 Nov 2025 11:55:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "PHP 8.5: Elevating Your Code with Subtle Brilliance\n\n\nImagine crafting code where complex operations flow like a single, clear thought. Picture making immutable objects adaptable in an instant. Envisi"
+    "contentSnippet": "Today was a bit chaotic but productive in its own way.\nI finally added a compiler to my project using Judge0.\nOne day I want to build my own single-file compiler, but right now Judge0 is the best shor"
   },
   {
     "title": "Windows版Zedを試してみたらVSCodeより使うことになりそう",
@@ -117,6 +117,13 @@
     "pubDate": "Fri, 14 Nov 2025 23:06:07 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n皆さんは、WEB 上で動作する AI Agent を活用していますか？\nLocal環境と完全に分離されているので、上手く活用できると非常に便利な反面、実装時の制約も存在します。\n例えば、下記のような悩みを抱えている方も多いのではないでしょうか？\n\n実装前の計画を立てられず、思うようなアウトプットが得られない\nAIが提案する設計書の妥当性を判断しづらい\nローカル環境との連携がスムーズにいか"
+  },
+  {
+    "title": "ALBのJWT検証をCognitoで試す",
+    "link": "https://qiita.com/ny7760/items/e0915401f09e72cd52c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T18:57:39.000Z",
+    "source": "Qiita",
+    "contentSnippet": "概要\n2025/11/12 に ALB のJSON Web Token（JWT）検証機能が発表されました。\nこれにより、JWT検証をアプリケーションで行うことなく、ALBでマネージドに行えるようになりました。この機能を試してみます。\n\nApplication loadba..."
   },
   {
     "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
@@ -208,13 +215,6 @@
     "pubDate": "2025-11-13T08:44:30.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nAIコーディングツールの発展は凄まじいスピードで変化しています。GitHub Copilot、Claude Code、Cursor、Codexなど、次々と新しいツールが登場し、既存のツールも日々アップデートされています。\nこの記事では、2025年11月時点での私..."
-  },
-  {
-    "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
-    "link": "https://qiita.com/huyunoki/items/9d4898a51ceb114076da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T02:36:55.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに：初心者にこそ自走力が必要な理由\nはじめまして。学生エンジニアの@huyunokiです。\nプログラミングを始めて1年未満の僕がエンジニアとして勉強するうえで最も重要だと感じた力。それは、「自走力」です。\n\nエラーが出ると、すぐにフリーズしてしまう\n何から勉強すれば..."
   },
   {
     "title": "マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能",

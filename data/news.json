@@ -1,80 +1,122 @@
 [
   {
-    "title": "VS Code vs Visual Studio",
-    "link": "https://dev.to/agunwachidiebelecalistus/vs-code-vs-visual-studio-nib",
-    "pubDate": "Sat, 15 Nov 2025 18:20:43 +0000",
+    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3agh",
+    "pubDate": "Sun, 16 Nov 2025 02:00:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Confused about VS Code vs Visual Studio? You're not alone! 🤔\nI've noticed many developers (especially beginners) use these names interchangeably, but they're actually very different tools. Here's a q"
+    "contentSnippet": "‘Snake Eyes’ Deep Dive with Bill Simmons, Sean Fennessey & Van Lathan\n\n\nBill Simmons, Sean Fennessey, and Van Lathan crown themselves the “kings of the sewer” in this Ringer Movies episode as they rew"
   },
   {
-    "title": "Why Utility Classes in CSS Make Modern Front-End Development Faster, Cleaner, and More Scalable",
-    "link": "https://dev.to/rverwey/why-utility-classes-in-css-make-modern-front-end-development-faster-cleaner-and-more-scalable-1ddf",
-    "pubDate": "Sat, 15 Nov 2025 18:20:10 +0000",
+    "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-25cn",
+    "pubDate": "Sun, 16 Nov 2025 02:00:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A practical guide to why “utility-first” CSS is winning; and how to use it effectively.\n\n\n\n\n\n\n  \n  \n  Introduction: The War Against Bloated Stylesheets\n\n\nEvery front-end engineer eventually hits the s"
+    "contentSnippet": "Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less\n\n\nCinemaSins unpacks every dino-sized flaw in Jurassic World Rebirth in under 17 minutes—because apparently we just can’t stop resurr"
   },
   {
-    "title": "5 Key Performance Benchmarks for AI Development in 2025",
-    "link": "https://dev.to/lofcz/5-key-performance-benchmarks-for-ai-development-in-2025-2mco",
-    "pubDate": "Sat, 15 Nov 2025 18:18:33 +0000",
+    "title": "Managing Complex Form State in Vue3/Nuxt3: Composition API and State Separation",
+    "link": "https://dev.to/taro000/managing-complex-form-state-in-vue3nuxt3-composition-api-and-state-separation-32g",
+    "pubDate": "Sun, 16 Nov 2025 01:51:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "5 Key Performance Benchmarks for AI Development in 2025\n\n\nWhen we started building our latest AI-powered workflow automation system, we quickly realized that choosing the right tools wasn't just about"
+    "contentSnippet": "1. Introduction\n\n\nHello!\nAt our company, we're developing an application that generates and manages job postings using AI from sales notes and company information. For more details, please check out t"
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/nicolasbonnici/-5b8h",
-    "pubDate": "Sat, 15 Nov 2025 18:17:52 +0000",
+    "title": "Debugging Java ClassNotFoundException: A Beginner's Guide to Finding Missing Dependencies",
+    "link": "https://dev.to/itzsrikanth/debugging-java-classnotfoundexception-a-beginners-guide-to-finding-missing-dependencies-1i9p",
+    "pubDate": "Sun, 16 Nov 2025 01:42:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How to create a REST API in seconds\nNicolas Bonnici ・ Nov 15\n#howto\n        #api\n        #rest\n        #go"
+    "contentSnippet": "Introduction\n\n\nIf you've ever encountered a ClassNotFoundException or NoClassDefFoundError in Java, you know how frustrating it can be. Your code compiled fine, but at runtime, Java can't find a class"
   },
   {
-    "title": "Discover How Monetzly Makes AI Conversations Profitable for Developers",
-    "link": "https://dev.to/monetzly/discover-how-monetzly-makes-ai-conversations-profitable-for-developers-1pab",
-    "pubDate": "Sat, 15 Nov 2025 18:15:51 +0000",
+    "title": "Google Cloud Group DevFest Toronto 2025 - The Most Chaotic Conference I've Ever Been To",
+    "link": "https://dev.to/xiongemi/google-cloud-group-devfest-toronto-2025-the-most-chaotic-conference-ive-ever-been-to-2348",
+    "pubDate": "Sun, 16 Nov 2025 01:30:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What if Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nAs developers, we often find ourselves at the intersection of innovation and monetization. With the AI app landscape booming, t"
+    "contentSnippet": "Today I went to the Google Cloud Group DevFest 2025, and to be very honest, this might be one of the most CHAOTIC conferences I’ve ever attended.\nTickets were only around $40 per person, which is defi"
   },
   {
-    "title": "Updated errors in this test website I made, Archaic! \r\nBringing your memories to life in an organized bento-grid style to share with friends & family. Still looking for people to test it out, tips for developing this myself in React is appreciated :)",
-    "link": "https://dev.to/designzbyoj/updated-errors-in-this-test-website-i-made-archaic-bringing-your-memories-to-life-in-an-10jl",
-    "pubDate": "Sat, 15 Nov 2025 18:14:33 +0000",
+    "title": "Beyond The Tutorial: Why Courses Are Not What We Thought",
+    "link": "https://dev.to/leojimenezg/beyond-the-tutorial-why-courses-are-not-what-we-thought-30oo",
+    "pubDate": "Sun, 16 Nov 2025 01:29:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building Archaic - Nostalgic memory sharing platform\nDesignzByOJ ・ Nov 1\n#webdev\n        #ai\n        #vibecoding"
+    "contentSnippet": "Courses typically teach through audio, text, images, or videos, content we consume as we progress through lessons. We watch, listen, or read as instructors demonstrate what they're teaching, believing"
   },
   {
-    "title": "The Builders: How a Fragmented Life, a Curious Community, and a New Kind of Intelligence Taught Me How to Create",
-    "link": "https://dev.to/sepehr_moarefy/the-builders-how-a-fragmented-life-a-curious-community-and-a-new-kind-of-intelligence-taught-me-5501",
-    "pubDate": "Sat, 15 Nov 2025 18:13:05 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "There is a moment — small, almost imperceptible — that separates a person who “uses” technology from a person whose life is quietly rewritten by it.\nFor me, that moment happened twice.\nThe first time "
-  },
-  {
-    "title": "🚀 Introducing jsontoall.tools — Convert JSON Into Anything (Fast)",
-    "link": "https://dev.to/jsontoall_tools/introducing-jsontoalltools-convert-json-into-anything-fast-1212",
-    "pubDate": "Sat, 15 Nov 2025 18:12:07 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "If you work with APIs, integrations, or automation, you already know the truth:\nThat’s where https://jsontoall.tools comes in.\nIt’s a lightweight, browser-based toolkit that instantly converts your JS"
-  },
-  {
-    "title": "The Linux App Structure Explained: Working with /opt, Desktop Entries, and sudo tee",
-    "link": "https://dev.to/rijultp/the-linux-app-structure-explained-working-with-opt-desktop-entries-and-sudo-tee-1fl7",
-    "pubDate": "Sat, 15 Nov 2025 18:09:29 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "If you have ever downloaded a portable Linux application or needed to create a custom launcher, you might have come across directories like /opt, files ending in .desktop, or the sudo tee command. Man"
-  },
-  {
-    "title": "Building a chatbot in Rust powered by Gemini Flash Models.\r\n\r\nIt's pretty cool.",
-    "link": "https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-gemini-flash-modelsits-pretty-cool-eh6",
-    "pubDate": "Sat, 15 Nov 2025 18:09:29 +0000",
+    "title": "go to visual studio code",
+    "link": "https://dev.to/dealajoevincenthash/go-to-visual-studio-code-185",
+    "pubDate": "Sun, 16 Nov 2025 01:10:32 +0000",
     "source": "DEV.to",
     "contentSnippet": ""
+  },
+  {
+    "title": "Maximize API Monetization: How Monetzly Powers AI Conversations",
+    "link": "https://dev.to/monetzly/maximize-api-monetization-how-monetzly-powers-ai-conversations-4fcp",
+    "pubDate": "Sun, 16 Nov 2025 01:01:41 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "How We Built Ad Injection That Users Actually Appreciate: The Secret Behind Monetizing AI Conversations\nIn the rapidly evolving world of AI applications, developers are faced with a pressing challenge"
+  },
+  {
+    "title": "dev diary 20251115",
+    "link": "https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251115-3fm5",
+    "pubDate": "Sun, 16 Nov 2025 00:50:50 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Yesterday's Development Progress\n\n\n\n  \n  \n  Amplify Files (Backend)\n\n\nSandbox Launch: Executed the sandbox launch.\nSynchronization: The content synchronization from the local environment to the AWS co"
+  },
+  {
+    "title": "React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns",
+    "link": "https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd",
+    "pubDate": "Sun, 16 Nov 2025 00:36:09 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Most React interviews won’t ask you to build a whole app.\nInstead, they quietly test whether you really understand when React renders, what causes extra renders, and how memoization actually works:\nWh"
+  },
+  {
+    "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
+    "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
+    "pubDate": "Sat, 15 Nov 2025 07:34:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nみなさん、C#書いてますか？\nTIOBE Indexの2025年11月の見出しは「Is C# going to surpass Java for the first time in history?」でした。\n\n11 月の見出し: C# は史上初めて Java を追い抜くことになるのか?\nPythonに代わって、プログラミング言語C#が最も急成長を遂げています。C#がこのペースを維持でき"
+  },
+  {
+    "title": "【数式なし】AIエージェントの教科書",
+    "link": "https://zenn.dev/kentaichimura/books/80b0ed2aabbbd1",
+    "pubDate": "Sat, 15 Nov 2025 06:00:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "最新論文を含めた複数の論文をもとに、AIエージェントについて体系的にまとめました。\n実際に生成AI系の実務でも利用するアーキテクチャなども具体例としていくつも取り上げました。各タイトルの（）の中身は、そのChatperで取り上げた具体例です。\n\n【対象読者】\n・AIエージェントを体系的に学びたい方\n・実務でAIエージェントを使うが、実態がよくわからない方\n\n【この本を読むと】\n・AIエージェントが"
+  },
+  {
+    "title": "[Amazon Bedrock AgentCore]エージェント呼び出し時の認証を実装してみる（Inbound Auth解説）",
+    "link": "https://qiita.com/yakumo_09/items/a091b38d23cd16bdbf1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T02:56:57.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nAmazon Bedrock AgentCoreのIdentity機能を使うと、「誰が」「どの権限で」アクセスしているのかを安全に識別することができます。\n外部からRuntimeを呼び出すときに使われる インバウンド認証（Inbound Auth） は、  エー..."
+  },
+  {
+    "title": "AWS初心者がTerraform でVPCを構築してみた話",
+    "link": "https://qiita.com/tks_1128/items/9bf85e72ec8e91ac270d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T23:54:38.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは。Tsukasaです！\n皆さんIaCは触ったことはありますか？\n今回私は、研修で初めてIaCを触ったので、その時のことを記事にしていこうと思います。\n今回はIaCの中でもTerraformを触ったので、早速見ていきたいと思います！\n\nIaCとは\nIaC..."
+  },
+  {
+    "title": "Claude Code on the Web を超える!? Codex Cloud の実践テク5選",
+    "link": "https://zenn.dev/sunagaku/articles/codex-cloud-5-tips",
+    "pubDate": "Fri, 14 Nov 2025 23:06:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n皆さんは、WEB 上で動作する AI Agent を活用していますか？\nLocal環境と完全に分離されているので、上手く活用できると非常に便利な反面、実装時の制約も存在します。\n例えば、下記のような悩みを抱えている方も多いのではないでしょうか？\n\n実装前の計画を立てられず、思うようなアウトプットが得られない\nAIが提案する設計書の妥当性を判断しづらい\nローカル環境との連携がスムーズにいか"
+  },
+  {
+    "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
+    "link": "https://qiita.com/kotmyn0812/items/06f8a52780189457b80d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T17:18:01.000Z",
+    "source": "Qiita",
+    "contentSnippet": "国土交通省がMCPサーバーを公開\n国土交通省がMCPサーバーを公開した、というニュースを見ました。\nお仕事柄、観光DXの観点で国土交通省のデータを見ることがあるので、気になって調べてみました。\n国土交通データプラットフォーム内に情報が公開されていたので見てみたところ、官公..."
   },
   {
     "title": "【大刷新】PMBOK®の第8版がでた",
     "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-14T10:47:29.000Z",
     "source": "Qiita",
-    "contentSnippet": "PMBOK®の8版が出ました。\nhttps://www.pmi.org/standards/pmbok\nPMIの規定により内容の転記等はできないのですが、(chatGPT君に聞いたら目次もやめたほうがいいよと言われた)\n大まかな変更点と概要のみ記載していきます。\n\nこれまで..."
+    "contentSnippet": "PMBOK®の8版が出ました。\nhttps://www.pmi.org/standards/pmbok\nPMIの規定により内容の転記等はできないのですが、(chatGPT君に聞いたら目次もやめたほうがいいよと言われた)\n大まかな変更点と概要のみ記載していきます。\n\n3行で\n..."
   },
   {
     "title": "週末にほぼAI (v0・Claude Codeなど) が作った比較サイトをリリース - ほぼ2日で完成した個人開発の裏側",
@@ -98,11 +140,11 @@
     "contentSnippet": "概要\n分子動力学シミュレーションの結果を可視化する際に、隠線処理をする必要がありました。隠線処理とは、こんな感じに3次元の立体を2次元に描画するときに線が隠れるようにする処理のことです。\n\n本稿では、この隠線処理のうち、法線ベクトル法の説明をします。Pythonによるサンプルコードは以下にあります。そのままGoogle Colabで試すことができるサンプルもあります。\nhttps://github"
   },
   {
-    "title": "ゆめみ iOS インターンと九州〜関東ヒッチハイク旅の記録",
-    "link": "https://qiita.com/TaiyoYamada/items/053b03fae73d8ec86bc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T05:48:13.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n10月14日〜11月12日の約1ヶ月、株式会社ゆめみのiOSエンジニアインターンに参加してきました！\nその期間のうち、なぜか2週間くらいは九州〜関東をヒッチハイクしながら移動していて、今回はその記録も一緒に残しておこうと思います。\nインターンは、本当は「iOSの..."
+    "title": "【Playwright Test Agent】LLMを使ってE2Eテストの開発・保守コストを10分の1にできた、かも",
+    "link": "https://zenn.dev/my_vision/articles/8713fc4fde965c",
+    "pubDate": "Fri, 14 Nov 2025 05:53:04 GMT",
+    "source": "Zenn",
+    "contentSnippet": "株式会社MyVisionのフロントエンドエンジニアのsrkwです。\n今回、社内でE2Eテストを新しく追加して運用対象に加えるにあたり、LLMを使って保守運用コストを大幅に削減することに成功した（かもしれない）ので、事例の共有をしたいと思います。\n\n TL;DR\n\nClaude CodeとPlaywright Test Agentsを使ってe2eテストのテストケース作成・テストコードの作成・修正をL"
   },
   {
     "title": "クレカ不要!!無料でクラウドWebアプリを作ってみた!!",
@@ -140,25 +182,11 @@
     "contentSnippet": "1. はじめに\nWeb開発の世界では、さまざまなフレームワークやライブラリが日々進化を続けています。2025年現在、フロントエンドとバックエンドそれぞれに多くの選択肢があり、プロジェクトに最適なものを選ぶことが成功の鍵となりますね。\n本記事では、現在最も使われている主要な..."
   },
   {
-    "title": "iOSエンジニアだけが知っているGmailのなにげないすごさ",
-    "link": "https://zenn.dev/10q89s/articles/gmail_notifications",
-    "pubDate": "Thu, 13 Nov 2025 23:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n読むのにかかる時間: 約5分\n\n\n はじめに\nGmailは太古の昔からモバイルアプリも提供されており、高い完成度を誇っている。\niOSエンジニアしか気づかないすごいポイントがあるので紹介したい。\n\n Gmailアプリのすごさ\nGmailアプリのすごさは、メールをiPhoneで受信したあとの挙動にある。\n\n 普通に通知が届く\n\n\n 他の端末でメールを既読にすると、通知センターから通知が消える\n\n"
-  },
-  {
-    "title": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化",
-    "link": "https://zenn.dev/appbrew/articles/e2f38677f6a0ce",
-    "pubDate": "Thu, 13 Nov 2025 23:00:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化\n\n はじめに\nhttps://zenn.dev/appbrew/articles/7eb12fff5738f4\n前回の記事では、スラッシュコマンドを使ってAIに会話履歴を分析させ、CLAUDE.mdに書くべきルールを提案してもらう仕組みを紹介しました。\nスラッシュコマンドを使う方法は、この仕組みのことをよく知っている人が使う分には"
-  },
-  {
-    "title": "GPT-5.1とGPT-5の違いをGPT-5.1とGPT-5にQiitaの記事としてまとめさせて、GPT-5 Proで評価してみた。（Geminiもいるよ）",
-    "link": "https://qiita.com/autotaker1984/items/932a7059239d3445731f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T15:37:16.000Z",
+    "title": "【Visual Studio 2026】MCPがついに標準化！NuGet MCPを有効化して動作確認してみた",
+    "link": "https://qiita.com/Sakai_path/items/8e4f317acb3490099dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T15:47:52.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n非常にややこしいタイトルですみません。\n11/13にOpenAIがGPT-5系の新モデルGPT-5.1をリリースしました。\n本記事ではその違いを確かめる記事です。\n\n検証方法\nGPT-5とGPT-5.1の大きな違いはその回答スタイルにあるようです。\nそのため、Q..."
+    "contentSnippet": "はじめに\nVisual Studio 2026 から、ついに MCP（Model Context Protocol）が IDE に標準対応しました。\n\nこれ、地味ですが VS2026 最大級のアップデートです。（いや、地味ではないか…）\nその背景には、Copilot ..."
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
@@ -166,20 +194,6 @@
     "pubDate": "2025-11-13T15:37:08.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
-  },
-  {
-    "title": "Webサイトの状態管理にnanostoresを使ってみて",
-    "link": "https://zenn.dev/mari_tt/articles/40966b7c337e62",
-    "pubDate": "Thu, 13 Nov 2025 15:10:17 GMT",
-    "source": "Zenn",
-    "contentSnippet": "「Web制作」でも状態管理が必要か？\n従来のWeb制作では、静的HTMLやアニメーションをjQueryなどで実装することが多く「状態管理」という概念が必要になる場面はほとんどありませんでした。\nしかし近年では、AstroやReactを用いたSPA（Single Page Application）やSSG（Static Site Generation）の構成でWebサイトを構築するケースも増えていま"
-  },
-  {
-    "title": "nvim-submode : 直感的に設定可能な新しいサブモードプラグイン",
-    "link": "https://zenn.dev/sirasagi62/articles/08ed288ce990e2",
-    "pubDate": "Thu, 13 Nov 2025 13:18:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "nvim-submodeはLuaで書かれた直感的ながら強力な機能を持つサブモードプラグインです。どのくらい強力かというと、\nわずか8行でCAPSLOCKを実装できたり、\n\nたった20行でclever-f.vimの簡易版(SMART-F)が実装できたりします。\n\nhttps://github.com/sirasagi62/nvim-submode\n\n What is サブモード\nそもそもサブモードと"
   },
   {
     "title": "文字化けの正体はこれだ！半角カナ・JIS・UTFの沼を実例で読み解く",
@@ -203,13 +217,6 @@
     "contentSnippet": "はじめに：初心者にこそ自走力が必要な理由\nはじめまして。学生エンジニアの@huyunokiです。\nプログラミングを始めて1年未満の僕がエンジニアとして勉強するうえで最も重要だと感じた力。それは、「自走力」です。\n\nエラーが出ると、すぐにフリーズしてしまう\n何から勉強すれば..."
   },
   {
-    "title": "高受理系高校生が水色コーダーになるために必要な記事",
-    "link": "https://qiita.com/nirure/items/a5e6ad8f678281cf208a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T17:53:28.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Qiitaでは初めまして。にるれです。\n僕は2025年11月1日(rateが反映されたのは二週間後)にnirureで入水をしました。\n空白期間を除けば約一年半かかりました。\n\n今回は高校受験で高校に入学した高校生がどうやったら競プロで水色コーダーになれるかを解説したいと思..."
-  },
-  {
     "title": "マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能",
     "link": "https://www.publickey1.jp/blog/25/net_102ltsjit.html",
     "pubDate": "2025-11-12T15:56:05.000Z",
@@ -222,13 +229,6 @@
     "pubDate": "2025-11-12T15:50:59.000Z",
     "source": "Publickey",
     "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行が安心してできるようになりました。 Node.jsはTypeScriptをサポート"
-  },
-  {
-    "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
-    "link": "https://qiita.com/take-yoda/items/204d5c4170e408d4d0f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T08:48:13.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n前回公開した以下の記事ですが、全て生成AIに書かせました。\n私自身が直接関与したのは、アイディア出しとレビュー、Markdownの記法調整だけで、文章は全て生成AIで作りきりました。\n\n使用したLLMは以下の通りです。\n\nLLM\nバージョン\n課金の有無\n..."
   },
   {
     "title": "さくらのクラウド、コンテナをサーバレスで実行する「AppRun」を正式サービスとして提供開始へ",

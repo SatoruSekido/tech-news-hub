@@ -1,73 +1,80 @@
 [
   {
-    "title": "When React’s Philosophy Isn’t Enough and Data Attributes Save the Day",
-    "link": "https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi",
-    "pubDate": "Mon, 17 Nov 2025 06:24:25 +0000",
+    "title": "Tic Tac Toe Game with HTML, CSS & JavaScript — Live Demo + Source Code",
+    "link": "https://dev.to/siddheshcodes/tic-tac-toe-game-with-html-css-javascript-live-demo-source-code-1k37",
+    "pubDate": "Mon, 17 Nov 2025 12:39:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Data-Attr Dilemma :\n\n\nData attributes can be incredibly useful, but in React they often feel like they go against the framework’s core patterns and philosophy. Still, I eventually ran into real pr"
+    "contentSnippet": "💡 Why This Project Matters\n\n\nEvery developer has built Tic-Tac-Toe app, but I built this version not just as a game, but as a practical exercise in frontend polish and asset management. It demonstrat"
   },
   {
-    "title": "Building a Production-Ready AI ChatBot Platform with Real-Time Analytics",
-    "link": "https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe",
-    "pubDate": "Mon, 17 Nov 2025 06:23:11 +0000",
+    "title": "Taming Tedious Tasks with a Tiny Titan: The ESP32 Auto-Controller",
+    "link": "https://dev.to/patrocinioluisf/taming-tedious-tasks-with-a-tiny-titan-the-esp32-auto-controller-27pp",
+    "pubDate": "Mon, 17 Nov 2025 12:38:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🎯 Introduction\n\n\nIn this article, I'll walk you through the architecture and implementation of a complete, production-ready AI chatbot platform that I've built from scratch. This isn't just another c"
+    "contentSnippet": "Hey, dev community! Patrocinio here. I'm back after a productive few months of focused learning.\nI've got a lot of new projects and insights ready to go, and I can't wait to share them. Let's jump rig"
   },
   {
-    "title": "From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline",
-    "link": "https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552",
-    "pubDate": "Mon, 17 Nov 2025 06:18:32 +0000",
+    "title": "Comparing Wallet SDKs in 2025: What Builders Should Actually Evaluate (Not Just Features)",
+    "link": "https://dev.to/estelleatthenook/comparing-wallet-sdks-in-2025-what-builders-should-actually-evaluate-not-just-features-5c5j",
+    "pubDate": "Mon, 17 Nov 2025 12:35:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For a Halloween-themed hackathon, I decided to build AI Psychic Hotline – a web app where you choose a “realm,” ask a question, the system draws tarot cards, and an AI “psychic” generates a themed \nfo"
+    "contentSnippet": "Wallet UX has changed massively in the past ~18 months.\nWhat used to be a choice between custodial vs self-custodial is now a five-dimension decision:\ncustody model\nonboarding UX\nhosting + control\nlon"
   },
   {
-    "title": "Pagination in flutter",
-    "link": "https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk",
-    "pubDate": "Mon, 17 Nov 2025 06:15:14 +0000",
+    "title": "The .NET News daily newsletter for C# developers",
+    "link": "https://dev.to/jasenf/the-net-news-daily-newsletter-for-c-developers-45mi",
+    "pubDate": "Mon, 17 Nov 2025 12:33:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Pagination in Flutter  Step by Step\nPagination is the process of loading data in chunks, rather than fetching the full dataset at once. This is essential for performance, especially when dealing with "
+    "contentSnippet": "I launched https://dotnetnews.co over a year ago to help my fellow C# devs keep up on all the latest developer articles. We finally hit over 2,000 subscribers! \nIf anyone has any ideas on how to make "
   },
   {
-    "title": "Data Mesh vs Data Fabric, Lake & Warehouse: A Comparison (2025)",
-    "link": "https://dev.to/chaos-genius/data-mesh-vs-data-fabric-lake-warehouse-a-comparison-2025-28cd",
-    "pubDate": "Mon, 17 Nov 2025 06:05:19 +0000",
+    "title": "Pharmaceutical RCPA Analytics Challenge",
+    "link": "https://dev.to/kenyansa/pharmaceutical-rcpa-analytics-challenge-112o",
+    "pubDate": "Mon, 17 Nov 2025 12:22:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Organizations today have a tough time handling their huge, complicated data ecosystems. The demand for data-driven decision-making is growing, so new concepts like  Data Mesh,  Data Fabric,  Data Lake"
+    "contentSnippet": "How I Solved the Pharmaceutical RCPA Analytics Challenge: A Complete Power BI Case Study\nProject Background\nThe Business Problem\nThe Data Challenge\n RCPA Reporting Form - Complex, unpivoted prescripti"
   },
   {
-    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1ih7",
-    "pubDate": "Mon, 17 Nov 2025 06:02:51 +0000",
+    "title": "GitLab CI/CD: - INTRODUCTION",
+    "link": "https://dev.to/anusha_kuppili/gitlab-cicd-introduction-4ok0",
+    "pubDate": "Mon, 17 Nov 2025 12:22:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan\n\n\nBill, Sean, and Van dive back into Brian De Palma’s 1998 thriller Snake Eyes—complete with insane carnival shootouts, surveillance shen"
+    "contentSnippet": "GitLab CI/CD: INTRODUCTION\nAnusha Kuppili ・ Nov 17\n#gitlab\n        #cicd\n        #git\n        #devops"
   },
   {
-    "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1pod",
-    "pubDate": "Mon, 17 Nov 2025 06:02:30 +0000",
+    "title": "GitLab CI/CD: INTRODUCTION",
+    "link": "https://dev.to/anusha_kuppili/gitlab-cicd-introduction-1gl0",
+    "pubDate": "Mon, 17 Nov 2025 12:22:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins clocks in at under 17 minutes to tally up the “sins” of Jurassic World Rebirth, poking fun at every overplayed dino revival, flimsy science leap, recycled villain beat and franchise déjà vu"
+    "contentSnippet": "Modern development teams ship faster when automation sits at the center of their workflow. If you're exploring GitLab CI/CD or setting up your first pipeline, this guide walks you through the concepts"
   },
   {
-    "title": "Bootstrap Agent Test Cases in Minutes: A Simple Hack for Copilot Studio",
-    "link": "https://dev.to/balagmadhu/bootstrap-agent-test-cases-in-minutes-a-simple-hack-for-copilot-studio-ohk",
-    "pubDate": "Mon, 17 Nov 2025 05:55:59 +0000",
+    "title": "🚀 Salesforce Launches a Free CRM Suite for Small Businesses — A Game-Changer for SMBs in 2025",
+    "link": "https://dev.to/meshvpatel18/salesforce-launches-a-free-crm-suite-for-small-businesses-a-game-changer-for-smbs-in-2025-2ion",
+    "pubDate": "Mon, 17 Nov 2025 12:15:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Intro:\nHere’s a quick hack that uses the agent’s own knowledge base to auto-generate test cases, run an initial evaluation, and create a review-ready draft for your process owner.\nWhy This Hack Matter"
+    "contentSnippet": "Salesforce has officially entered the world of free tools — and this time, it's big.\nTo support startups, freelancers, and small businesses, Salesforce has launched a Forever-Free CRM Suite that offer"
   },
   {
-    "title": "Solving Git Authentication Failures: \"Password authentication is not supported\" Error",
-    "link": "https://dev.to/kkibet/solving-git-authentication-failures-password-authentication-is-not-supported-error-n96",
-    "pubDate": "Mon, 17 Nov 2025 05:50:22 +0000",
+    "title": "Top Promise-Based Interview Coding Questions",
+    "link": "https://dev.to/okrahul/top-promise-based-interview-coding-questions-3jgm",
+    "pubDate": "Mon, 17 Nov 2025 12:14:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you've recently encountered the frustrating error message \"Password authentication is not supported for Git operations\" when trying to clone a repository, you're not alone. This common issue stems "
+    "contentSnippet": "I’ve included questions + small hints (not full solutions unless you want them).\n1. What will be the output of this code?\n\n\n\n\n\nconsole.log(\"A\");\n\nPromise.resolve().then(() => console.log(\"B\"));\n\nconso"
   },
   {
-    "title": "How to Save a Canva Design as a Word Document?",
-    "link": "https://dev.to/sariga_divakaran_6962d1b9/how-to-save-a-canva-design-as-a-word-document-bj8",
-    "pubDate": "Mon, 17 Nov 2025 05:49:43 +0000",
+    "title": "The Ultimate Promise Deep Dive — Resolve, Reject, Then, and Async/Await Demystified",
+    "link": "https://dev.to/okrahul/the-ultimate-promise-deep-dive-resolve-reject-then-and-asyncawait-demystified-1ml5",
+    "pubDate": "Mon, 17 Nov 2025 12:10:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Need to move your Canva design into Microsoft Word for editing or printing?\nCanva has become one of the most popular online design tools — and for good reason. \nIt lets anyone create stunning resumes,"
+    "contentSnippet": "Most developers don’t write raw Promises every day — we use tools like useQuery, axios, or helper libraries that wrap everything for us. But when it comes to debugging, reading polyfills, or understan"
+  },
+  {
+    "title": "意外と使ってない？SlackのRSS通知設定で最新情報をキャッチアップ！",
+    "link": "https://qiita.com/imamu123/items/308e857eddadfabd55be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T01:38:34.000Z",
+    "source": "Qiita",
+    "contentSnippet": "🚀 はじめに\nSlackでRSSフィードの更新通知を受け取れる機能、ご存知でしたか？\n私は以前から知ってはいたものの、なかなか使っていませんでした。今回、実際に設定してみたので、その手順と活用例を備忘録として残しておきます。\n\n🤔 RSSとSlackとは\n\nRSS: W..."
   },
   {
     "title": "4ヶ月で電子契約サービスを立ち上げた",
@@ -161,6 +168,20 @@
     "contentSnippet": "この記事について\nこの記事は、私個人の経験と気づきをまとめたエッセイです。\n\n 簡単な自己紹介\n私は、日本最大級の共通ポイントサービスの1つである、Vポイントサービスのエンジニアリング責任者をしています。\n2019年にデータ基盤の責任者だった私は、Snowflakeと出会い、それから6年近くこの製品を利用してデータ基盤の統合やモダン化を進めてきました。\n現在、Snowflakeの日本コミュニティで"
   },
   {
+    "title": "【React】コードを書く前の基本概念を理解する",
+    "link": "https://qiita.com/ktdatascience/items/cadf9e3a694aa633a63d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T04:26:07.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Reactの基本概念を理解しよう\n\nはじめに\nReactは現在、世界で最も人気のあるフロントエンドライブラリの一つです。この記事では、Reactを初めて学ぶ方に向けて、Reactの基本的な概念をわかりやすく解説します。コンポーネント、JSX、アプリケーション構造など、Re..."
+  },
+  {
+    "title": "【解説】ドイツの「PQC対応IDカード」とPQC対応パスポートを技術目線で読み解く",
+    "link": "https://qiita.com/satokan3/items/be788891338739d94137?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T17:27:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "時差ボケがまだ治ってないGMOコネクトでCTOしている菅野（かんの）でございます。\nXのタイムラインを眺めていたらドイツ方面でPQC対応IDカードのPoCに関する記事があったので色々調べてみた結果をまとめましたので読んでみてくださいませ。\n\nはじめに\n2025年11月10日..."
+  },
+  {
     "title": "自宅のRTX3060で小さなLLMを自作してみた",
     "link": "https://zenn.dev/nwn/articles/8f1d2521284738",
     "pubDate": "Sat, 15 Nov 2025 11:45:30 GMT",
@@ -182,32 +203,18 @@
     "contentSnippet": "はじめに\nWebアプリケーションを開発する際、セキュリティ対策は避けて通れない重要なテーマです。攻撃者は常に脆弱性を探しており、一度セキュリティホールが悪用されると、個人情報の漏洩やシステムの改ざんなど、深刻な被害につながる可能性があります。\n本記事では、Web開発者が最..."
   },
   {
-    "title": "[Amazon Bedrock AgentCore]エージェント呼び出し時の認証を実装してみる（Inbound Auth解説）",
-    "link": "https://qiita.com/yakumo_09/items/a091b38d23cd16bdbf1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T02:56:57.000Z",
+    "title": "コードレビューをゲーム化しました",
+    "link": "https://qiita.com/goofmint/items/a7fd9b4154b226a820eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T05:35:07.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nAmazon Bedrock AgentCoreのIdentity機能を使うと、「誰が」「どの権限で」アクセスしているのかを安全に識別することができます。\n外部からRuntimeを呼び出すときに使われる インバウンド認証（Inbound Auth） は、  エー..."
+    "contentSnippet": "生成AIによるコーディング増加に伴って、コードレビューに注目が集まっています。CodeRabbitは、AIコードレビューを提供していますが、まさにその追い風に乗っています。\nそんなコードレビューですが、適切に指摘できると確信を持って言える人は、そう多くないのではないでしょう..."
   },
   {
-    "title": "AWS初心者がTerraform でVPCを構築してみた話",
-    "link": "https://qiita.com/tks_1128/items/9bf85e72ec8e91ac270d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T23:54:38.000Z",
+    "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
+    "link": "https://qiita.com/kotmyn0812/items/06f8a52780189457b80d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T17:18:01.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは。Tsukasaです！\n皆さんIaCは触ったことはありますか？\n今回私は、研修で初めてIaCを触ったので、その時のことを記事にしていこうと思います。\n今回はIaCの中でもTerraformを触ったので、早速見ていきたいと思います！\n\nIaCとは\nIaC..."
-  },
-  {
-    "title": "AIで仕事が奪われる？ いいえ、エンジニア寿命が伸びる時代です",
-    "link": "https://qiita.com/Sakai_path/items/ad337c67fcb336380123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T23:42:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "― 脳の衰えを補完し、経験が生かされ続ける未来 ―\n\nはじめに\nエンジニアという職業には、かつて「スピードがすべて」「新しい技術を覚え続けなければいけない」という空気（というか事実）がありました。\n（いわゆる35歳定年説に繋がる訳ですが、これはマネジメント側にまわる意味もあ..."
-  },
-  {
-    "title": "ALBのJWT検証をCognitoで試す",
-    "link": "https://qiita.com/ny7760/items/e0915401f09e72cd52c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T18:57:39.000Z",
-    "source": "Qiita",
-    "contentSnippet": "概要\n2025/11/12 に ALB のJSON Web Token（JWT）検証機能が発表されました。\nこれにより、JWT検証をアプリケーションで行うことなく、ALBでマネージドに行えるようになりました。この機能を試してみます。\n\nApplication loadba..."
+    "contentSnippet": "国土交通省がMCPサーバーを公開\n国土交通省がMCPサーバーを公開した、というニュースを見ました。\nお仕事柄、観光DXの観点で国土交通省のデータを見ることがあるので、気になって調べてみました。\n国土交通データプラットフォーム内に情報が公開されていたので見てみたところ、官公..."
   },
   {
     "title": "【大刷新】PMBOK®の第8版がでた",
@@ -215,13 +222,6 @@
     "pubDate": "2025-11-14T10:47:29.000Z",
     "source": "Qiita",
     "contentSnippet": "PMBOK®の8版が出ました。\nhttps://www.pmi.org/standards/pmbok\nPMIの規定により内容の転記等はできないのですが、(chatGPT君に聞いたら目次もやめたほうがいいよと言われた)\n大まかな変更点と概要のみ記載していきます。\n\n3行で\n..."
-  },
-  {
-    "title": "【Web開発】 主要Webフレームワークを比較 - React、Vue.js、Next.js、Django、FastAPIなど",
-    "link": "https://qiita.com/ktdatascience/items/e09cf1a615013f49388d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T23:32:13.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. はじめに\nWeb開発の世界では、さまざまなフレームワークやライブラリが日々進化を続けています。2025年現在、フロントエンドとバックエンドそれぞれに多くの選択肢があり、プロジェクトに最適なものを選ぶことが成功の鍵となりますね。\n本記事では、現在最も使われている主要な..."
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",

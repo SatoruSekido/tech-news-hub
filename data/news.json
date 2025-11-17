@@ -1,73 +1,73 @@
 [
   {
-    "title": "Understand The Algorithm Behind The Coin Change Problem With Mathematics",
-    "link": "https://dev.to/ganesh-kumar/understand-the-algorithm-behind-the-coin-change-problem-with-mathematics-1d7e",
-    "pubDate": "Sun, 16 Nov 2025 18:16:19 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Hello, I'm Ganesh. I'm working on FreeDevTools online, currently building a single platform for all development tools, cheat codes, and TL; DRs — a free, open-source hub where developers can quickly f"
-  },
-  {
-    "title": "Syntax Trap #002",
-    "link": "https://dev.to/tabeacodes/syntax-trap-002-473p",
-    "pubDate": "Sun, 16 Nov 2025 18:06:11 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Welcome to the second Syntax Trap.\nToday's all about comparing Arrays and Strings.\nconsole.log([1, 2, 3] == \"1,2,3\");\n\nWhat's the result?\nNaN\ntrue\nfalse\nTypeError \nThis one took me a bit to understand"
-  },
-  {
-    "title": "Dagger 2.0 vs Hilt in Android: A Comprehensive Overview",
-    "link": "https://dev.to/lovekgarg/dagger-20-vs-hilt-in-android-a-comprehensive-overview-2lec",
-    "pubDate": "Sun, 16 Nov 2025 18:05:24 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Dependency Injection (DI) is a crucial design pattern in Android development, it helps in enhancing modularity, testability, and maintainability of our applications. Dagger 2.0 has long been a popular"
-  },
-  {
     "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml",
-    "pubDate": "Sun, 16 Nov 2025 18:02:39 +0000",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3afi",
+    "pubDate": "Mon, 17 Nov 2025 02:03:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Ringer’s Bill Simmons, Sean Fennessey, and Van Lathan dig into Brian De Palma’s Snake Eyes, breaking down Nic Cage’s over-the-top energy, the film’s twists, and why it’s a cult standout. Expect ho"
-  },
-  {
-    "title": "Untitled",
-    "link": "https://dev.to/vivek_kolte_9177c978975a9/untitled-3l9l",
-    "pubDate": "Sun, 16 Nov 2025 18:02:27 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Check out this Pen I made!"
+    "contentSnippet": "‘Snake Eyes’ Rewatch with Bill Simmons, Sean Fennessey & Van Lathan\n\n\nBill Simmons, Sean Fennessey, and Van Lathan crown themselves the “kings of the sewer” as they rewatch Brian De Palma’s cult class"
   },
   {
     "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-44nk",
-    "pubDate": "Sun, 16 Nov 2025 18:02:12 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-3hof",
+    "pubDate": "Mon, 17 Nov 2025 02:02:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less takes a hilariously brutal look at the latest dino outing—counting every plot hole, overused trope and “wait, what?” moment as our fa"
+    "contentSnippet": "Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less is Cinemasins’s latest roast of the franchise, tallying all the sins in the new dino-sequel—plot holes, recycled tropes and franchise"
   },
   {
-    "title": "Por que usar Softmax com Categorical Cross-Entropy para o problema da flor íris?",
-    "link": "https://dev.to/joaopedrov0/por-que-usar-softmax-com-categorical-cross-entropy-para-o-problema-da-flor-iris-2i6j",
-    "pubDate": "Sun, 16 Nov 2025 18:02:07 +0000",
+    "title": "Kustomize from the Perspective of Reversible Computation",
+    "link": "https://dev.to/canonical/kustomize-from-the-perspective-of-reversible-computation-45ec",
+    "pubDate": "Mon, 17 Nov 2025 02:00:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Recentemente estava tentando fazer o clássico modelo de rede neural para identificar a espécie de uma flor entre três opções (iris dataset) só para fazer um \"Hello World\" no Keras e dar o primeiro pas"
+    "contentSnippet": "kustomize is a declarative configuration management mechanism heavily promoted in Kubernetes 1.14. It explicitly articulates the idea “Customization is reuse.” Its core idea borrows from Docker’s desi"
   },
   {
-    "title": "Learn Windows CLI Hands-on",
-    "link": "https://dev.to/al_rl_262bf3e3f877e3574f3/learn-windows-cli-hands-on-149",
-    "pubDate": "Sun, 16 Nov 2025 17:59:46 +0000",
+    "title": "SPARC Quality Gates and AI Infused Web App development",
+    "link": "https://dev.to/nick_porter_0cfcbc03e871f/what-is-sparc-and-how-do-i-use-it-in-ai-infused-web-app-development-1p6o",
+    "pubDate": "Mon, 17 Nov 2025 01:53:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey,\ninteractive online course that lets you practice directly in a simulated terminal.\n👉 Windows CLI Course: https://windows-cli.arnost.org/\nIt walks through the basics of the Windows command line w"
+    "contentSnippet": "I use claude CLI to write my web application on the side that I love.  It's a NextJS app with supabase. After creating my own system of writing features with .md docs I needed a better and more reliab"
   },
   {
-    "title": "Installing and Loading Plotly in R",
-    "link": "https://dev.to/dipti_moryani_08e62702314/installing-and-loading-plotly-in-r-17gm",
-    "pubDate": "Sun, 16 Nov 2025 17:58:55 +0000",
+    "title": "Why Smart Businesses Are Choosing BunnyDoc for Digital Signing",
+    "link": "https://dev.to/ameliacole/why-smart-businesses-are-choosing-bunnydoc-for-digital-signing-423j",
+    "pubDate": "Mon, 17 Nov 2025 01:51:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Data visualization today is both an art and a science. As organizations adopt data-driven decision-making, the ability to present insights clearly—and interactively—becomes incredibly valuable. R offe"
+    "contentSnippet": "Introduction\nEvery business, no matter how big or small, deals with one major challenge—paperwork. From client contracts to employee onboarding forms, NDAs, project agreements, vendor documents, and a"
   },
   {
-    "title": "Real-Time Multi-Platform Price Scraper (Amazon, Temu, eBay, Walmart) Open Source Python Tool",
-    "link": "https://dev.to/zaki_9076c291cb3b2cb6f041/real-time-multi-platform-price-scraper-amazon-temu-ebay-walmart-open-source-python-tool-1bp8",
-    "pubDate": "Sun, 16 Nov 2025 17:58:50 +0000",
+    "title": "Build a complete HTML resume with no CSS 🔥\r\nSemantic tags + clean structure + ATS check.\r\n\r\nPerfect for beginners starting frontend.\r\n\r\n🎥 Watch: https://youtu.be/nomiehZqdto\r\n\r\n#frontend #html #vscode #frontenddev #resume #cv",
+    "link": "https://dev.to/qurashiakeel/build-a-complete-html-resume-with-no-css-semantic-tags-clean-structure-ats-check-perfect-344a",
+    "pubDate": "Mon, 17 Nov 2025 01:48:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Are you tired of checking multiple e-commerce sites manually for price drops? This Python-based open-source tool monitors product prices in real-time across Amazon, eBay, Walmart, and Temu, and sends "
+    "contentSnippet": "youtu.be"
+  },
+  {
+    "title": "Data Driven Generic Code Generator",
+    "link": "https://dev.to/canonical/data-driven-generic-code-generator-2p9c",
+    "pubDate": "Mon, 17 Nov 2025 01:38:09 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Maven-Integrated Code Generator\n\n\nThe Nop platform provides code generation capabilities integrated with Maven. Instead of implementing a Maven plugin, it uses the exec-maven-plugin to run the main fu"
+  },
+  {
+    "title": "What is Completion Bias and how does it impact end of lifecycle",
+    "link": "https://dev.to/nick_porter_0cfcbc03e871f/what-is-completion-bias-and-how-does-it-impact-end-of-lifecycle-idc",
+    "pubDate": "Mon, 17 Nov 2025 01:33:12 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "I write in claude what me and my wife would qualify as ‘constantly’ so it became really frustrating when at the end of a very long running task (more on long running tasks later) and claude would we r"
+  },
+  {
+    "title": "$LNT: Unlocking Bitcoin’s Potential with the Lightning Network",
+    "link": "https://dev.to/lnt_btc/lnt-unlocking-bitcoins-potential-with-the-lightning-network-p06",
+    "pubDate": "Mon, 17 Nov 2025 01:25:36 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Bitcoin is the world’s most trusted digital asset, but for all its power, it has one major limitation: utility.\nMost BTC holders just HODL, waiting for value to grow. Transactions are slow, fees can b"
+  },
+  {
+    "title": "Turning Your GitHub Repos into Gold: How to Sell Your Code Online",
+    "link": "https://dev.to/softwaredeveloperhub01/turning-your-github-repos-into-gold-how-to-sell-your-code-online-187o",
+    "pubDate": "Mon, 17 Nov 2025 01:25:00 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "As a developer, you’ve probably spent countless hours writing and perfecting code in your GitHub repositories. From small scripts to fully developed applications, all that hard work is out there for t"
   },
   {
     "title": "GitHubで最も使われている言語の1位はPythonを抜いてTypeScriptに、最もコントリビュータが増加したOSSは「Zenブラウザ」。Octoverse 2025",
@@ -84,6 +84,48 @@
     "contentSnippet": "調査会社のガートナーは、2026年に企業や組織にとって重要なインパクトを持つ戦略的テクノロジのトップトレンドを発表しました。 The Top Strategic Technology Trends for 2026 were released last monthLearn how to turn disruption into opportunity, get expert guidance o"
   },
   {
+    "title": "Duolingoが公開している利用OSライブラリを分析してみた",
+    "link": "https://zenn.dev/kg_lens/articles/ba9260bee75d06",
+    "pubDate": "Sun, 16 Nov 2025 15:15:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "先日Xでこのようなポストをしたところ、ありがたいことに思いのほか多くの反響がありました。\n\nせっかくなので、この記事では英語学習アプリDuolingo(デュオリンゴ)が公開しているオープンソースライブラリを確認して、領域毎にどのようなライブラリを活用しているのかを分析してみようと思います。\n参照しているDuolingoの公開記事\nhttps://ja.duolingo.com/attributio"
+  },
+  {
+    "title": "初めて技術書典にサークル参加したら、楽しすぎた件",
+    "link": "https://qiita.com/MIDO-ruby7/items/e74914472ca49904b476?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T12:56:22.000Z",
+    "source": "Qiita",
+    "contentSnippet": "初めて技術書典にサークル参加したら、楽しすぎた件\n楽しすぎた。\nだから、次の\"初めての参加者\"に向けて感想や気付いたことを雑にまとめてみる。\n\nまずは言いたい。技術書典オフライン、最高だったよ〜\n私は、サークルでの参加だけではなく技術書典オフライン自体が初めてでした！\n楽..."
+  },
+  {
+    "title": "RTX 5090、キミにきめた！",
+    "link": "https://zenn.dev/robustonian/articles/rtx5090_i_choose_you",
+    "pubDate": "Sun, 16 Nov 2025 10:48:55 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n私はMac Studio（M2 Ultra 128GB）、EVO-X2（Ryzen AI Max+ 395 128GB）とRTX 3060を搭載したデスクトップPCを所有しており、RTX 3060機の後継をずっと検討していた。具体的には下記の4つで悩んでいた。\n\nDGX Spark（128GB）：60万〜80万\nRTX 5090（32GB）：40万〜50万\nRTX PRO 6000（96"
+  },
+  {
+    "title": "プロンプト・エンジニアリングは、まだ始まってすらいない",
+    "link": "https://qiita.com/makotosaekit/items/21990e3703ac721a04d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T10:20:01.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1: マジックワードの死と、科学的検証の夜明\n巷で囁かれる「プロンプト・エンジニアリングの終わり」。\n実際問題、AIの性能向上に伴い、小手先の作文技術の工夫をしなくても、安定して高品質な出力が得られるようになってきています。\nしかしそれは、技術の”死”を意味していません。..."
+  },
+  {
+    "title": "Owl/Crow：ModernBERT によるコード検索特化言語モデル構築",
+    "link": "https://zenn.dev/shun0212/articles/7769126172ebda",
+    "pubDate": "Sun, 16 Nov 2025 09:20:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめまして。\n私は大学で コード特化言語モデルを利用したコード検索の研究を行っています。\n\n 概要\n本記事では、従来の CodeBERT / GraphCodeBERT 系モデルでは扱いづらかった\n\n最大 512 トークンという入力長の制約\nFlashAttention 非対応による学習・推論コストの高さ\n事前学習・追加学習の再現性の低さ\n\nといった課題を踏まえつつ、ModernBERT アーキ"
+  },
+  {
+    "title": "【個人開発】K-POPアイドル同士のダンスチャレンジ動画を探せるサービスを開発しました【Next/Supabase/Cloudflare】",
+    "link": "https://qiita.com/masafumi1073/items/3c84fe5b19fe71ae95b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T08:35:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nアイドルに限らず「自分の探している動画がなかなか見つからない」という経験をしたことがある方は多いのではないでしょうか。近年ではAI生成コンテンツの増加もあり、目的の動画が埋もれてしまうことも少なくありません。\n今回は、K-POPアイドル同士のコラボダンスチャレン..."
+  },
+  {
     "title": "なぜ \"use client\" ディレクティブは優れた API なのか",
     "link": "https://zenn.dev/yutaosawa/articles/9e978d12793a56",
     "pubDate": "Sun, 16 Nov 2025 06:24:27 GMT",
@@ -98,32 +140,11 @@
     "contentSnippet": "この記事について\nこの記事は、私個人の経験と気づきをまとめたエッセイです。\n前回の記事ではコミュニティに関する自分の思いを言語化してみましたが、その続編としてコミュニティアンバサダーとしてのData Superheroesについて自分なりの思いを書いてみました。\n前回の記事\nこの記事から読んでいただいた方は前回の記事を参照いただければと思います。\n\n コミュニティアンバサダー Snowflake "
   },
   {
-    "title": "コミュニティへの関わり方①あなたに合った参加スタイルを見つけよう",
-    "link": "https://zenn.dev/dataheroes/articles/f2fb8c4597a32c",
-    "pubDate": "Sun, 16 Nov 2025 05:26:40 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事について\nこの記事は、私個人の経験と気づきをまとめたエッセイです。\n\n 簡単な自己紹介\n私は、日本最大級の共通ポイントサービスの1つである、Vポイントサービスのエンジニアリング責任者をしています。\n2019年にデータ基盤の責任者だった私は、Snowflakeと出会い、それから6年近くこの製品を利用してデータ基盤の統合やモダン化を進めてきました。\n現在、Snowflakeの日本コミュニティで"
-  },
-  {
     "title": "第4回：NumPy配列の結合",
     "link": "https://zenn.dev/haruhiro1020/articles/1495a0060b4a09",
     "pubDate": "Sat, 15 Nov 2025 22:00:01 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\n本記事は「Pythonで数値計算を行うためのNumPy入門」シリーズの第3回です．\nこのシリーズでは， \"NumPyのよく使われる機能を分野ごとに理解すること\" を目標としています．\nPythonで数値計算を行う際に欠かせないライブラリ「NumPy」について，基礎から応用まで体系的に学べます．\nシリーズ構成予定（全10記事）\n\nNumPyのインストール 〜 arrayの基本\n配列の追加・"
-  },
-  {
-    "title": "tldraw × AIエージェント：Agent starter kitを触りながら仕組みを追う",
-    "link": "https://zenn.dev/slowhand/articles/bb203aba83e385",
-    "pubDate": "Sat, 15 Nov 2025 19:41:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "概要\n手書きのUIスケッチから動くWebサイトを生成する「Make Real」が話題になったキャンバスツールのtldrawに、キャンバス上の図形を読んだり書き換えたりできるエージェントを組み込むための「Agent starter kit」が追加されました。\n今回はこの Agent starter kit を実際に動かしながら、「エージェントがキャンバスとどう対話してくれるのか」をざっくり全体像を掴"
-  },
-  {
-    "title": "Amazon Bedrock AgentCore Runtimeで zip ファイルを直接アップロードでデプロイしてみた",
-    "link": "https://zenn.dev/fusic/articles/a8dcab7caf9904",
-    "pubDate": "Sat, 15 Nov 2025 12:37:29 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nFusicのレオナです。本ブログは2025年11月にAmazon Bedrock AgentCoreに追加された機能である、zipファイルを直接アップロードしてAIエージェントをデプロイできるようになったので試してみました。\nhttps://aws.amazon.com/jp/about-aws/whats-new/2025/11/amazon-bedrock-agentcore-run"
+    "contentSnippet": "はじめに\n本記事は「Pythonで数値計算を行うためのNumPy入門」シリーズの第4回です．\nこのシリーズでは， \"NumPyのよく使われる機能を分野ごとに理解すること\" を目標としています．\nPythonで数値計算を行う際に欠かせないライブラリ「NumPy」について，基礎から応用まで体系的に学べます．\nシリーズ構成予定（全10記事）\n\nNumPyのインストール 〜 arrayの基本\n配列の追加・"
   },
   {
     "title": "自宅のRTX3060で小さなLLMを自作してみた",
@@ -140,18 +161,25 @@
     "contentSnippet": "Zedといふものをしてみむとおもひて⋯\n記事の主旨と何の関係もない話\n表題の文句「してみむとおもひて」は、土佐日記(紀貫之)の冒頭としてよく知られる「⋯してみんとてするなり」とはやや異なりますが、こちらを見るとそのように書いてありました。とは言え、「としのしはすのしはすの廿日」などとあってなんだか怪しいので、誤って伝わった文章か、書いた方が誤ったかのどちらかのように思えます。普通に土佐日記を読むな"
   },
   {
+    "title": "【セキュリティ】初めてアプリをつくる人がまず抑えておくべき基本的事項",
+    "link": "https://qiita.com/ktdatascience/items/72ecd89bef963acb9559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T10:30:23.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nWebアプリケーションを開発する際、セキュリティ対策は避けて通れない重要なテーマです。攻撃者は常に脆弱性を探しており、一度セキュリティホールが悪用されると、個人情報の漏洩やシステムの改ざんなど、深刻な被害につながる可能性があります。\n本記事では、Web開発者が最..."
+  },
+  {
+    "title": "BASE64と私の親密度をあげる",
+    "link": "https://zenn.dev/akari1106/articles/f73d60144bf877",
+    "pubDate": "Sat, 15 Nov 2025 08:13:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n最近個人の趣味のゆる開発でも仕事開発でも本当に「BASE64」に出会う。\n本当にたまたまなのかもしれないけど、数か月振りに別案件でも会うみたいな感じです。\nもうなんか自分の友達以上に出会う頻度です。\nエンコード、デコード、どっちもなんか「あ、また会ったね」みたいなレベルで会う。\nこの一年での「会ったねシリーズ」は以下です。多分まだ年内増えるかもです。\n\nClaude APIに画像を送る "
+  },
+  {
     "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
     "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
     "pubDate": "Sat, 15 Nov 2025 07:34:37 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nみなさん、C#書いてますか？\nTIOBE Indexの2025年11月の見出しは「Is C# going to surpass Java for the first time in history?」でした。\n\n11 月の見出し: C# は史上初めて Java を追い抜くことになるのか?\nPythonに代わって、プログラミング言語C#が最も急成長を遂げています。C#がこのペースを維持でき"
-  },
-  {
-    "title": "【数式なし】AIエージェントの教科書",
-    "link": "https://zenn.dev/kentaichimura/books/80b0ed2aabbbd1",
-    "pubDate": "Sat, 15 Nov 2025 06:00:22 GMT",
-    "source": "Zenn",
-    "contentSnippet": "最新論文を含めた複数の論文をもとに、AIエージェントについて体系的にまとめました。\n実際に生成AI系の実務でも利用するアーキテクチャなども具体例としていくつも取り上げました。各タイトルの（）の中身は、そのChatperで取り上げた具体例です。\n\n【対象読者】\n・AIエージェントを体系的に学びたい方\n・実務でAIエージェントを使うが、実態がよくわからない方\n\n【この本を読むと】\n・AIエージェントが"
   },
   {
     "title": "[Amazon Bedrock AgentCore]エージェント呼び出し時の認証を実装してみる（Inbound Auth解説）",
@@ -168,18 +196,18 @@
     "contentSnippet": "はじめに\nこんにちは。Tsukasaです！\n皆さんIaCは触ったことはありますか？\n今回私は、研修で初めてIaCを触ったので、その時のことを記事にしていこうと思います。\n今回はIaCの中でもTerraformを触ったので、早速見ていきたいと思います！\n\nIaCとは\nIaC..."
   },
   {
+    "title": "AIで仕事が奪われる？ いいえ、エンジニア寿命が伸びる時代です",
+    "link": "https://qiita.com/Sakai_path/items/ad337c67fcb336380123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T23:42:25.000Z",
+    "source": "Qiita",
+    "contentSnippet": "― 脳の衰えを補完し、経験が生かされ続ける未来 ―\n\nはじめに\nエンジニアという職業には、かつて「スピードがすべて」「新しい技術を覚え続けなければいけない」という空気（というか事実）がありました。\n（いわゆる35歳定年説に繋がる訳ですが、これはマネジメント側にまわる意味もあ..."
+  },
+  {
     "title": "ALBのJWT検証をCognitoで試す",
     "link": "https://qiita.com/ny7760/items/e0915401f09e72cd52c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-14T18:57:39.000Z",
     "source": "Qiita",
     "contentSnippet": "概要\n2025/11/12 に ALB のJSON Web Token（JWT）検証機能が発表されました。\nこれにより、JWT検証をアプリケーションで行うことなく、ALBでマネージドに行えるようになりました。この機能を試してみます。\n\nApplication loadba..."
-  },
-  {
-    "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
-    "link": "https://qiita.com/kotmyn0812/items/06f8a52780189457b80d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T17:18:01.000Z",
-    "source": "Qiita",
-    "contentSnippet": "国土交通省がMCPサーバーを公開\n国土交通省がMCPサーバーを公開した、というニュースを見ました。\nお仕事柄、観光DXの観点で国土交通省のデータを見ることがあるので、気になって調べてみました。\n国土交通データプラットフォーム内に情報が公開されていたので見てみたところ、官公..."
   },
   {
     "title": "【大刷新】PMBOK®の第8版がでた",
@@ -189,13 +217,6 @@
     "contentSnippet": "PMBOK®の8版が出ました。\nhttps://www.pmi.org/standards/pmbok\nPMIの規定により内容の転記等はできないのですが、(chatGPT君に聞いたら目次もやめたほうがいいよと言われた)\n大まかな変更点と概要のみ記載していきます。\n\n3行で\n..."
   },
   {
-    "title": "クレカ不要!!無料でクラウドWebアプリを作ってみた!!",
-    "link": "https://qiita.com/yo_arai/items/1bb5353cca7b3f5e37fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T04:08:06.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n最近では、大学の授業や自主制作で「Webアプリを作ってみたい！」という学生がとても増えています。\nしかし、いざ始めようとすると最初にぶつかるのがこの壁です。\n\n「サーバーってどう立てるの？」\n「データベースは課金しないと使えないの？」\n「クラウドって結局お金かか..."
-  },
-  {
     "title": "【Web開発】 主要Webフレームワークを比較 - React、Vue.js、Next.js、Django、FastAPIなど",
     "link": "https://qiita.com/ktdatascience/items/e09cf1a615013f49388d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T23:32:13.000Z",
@@ -203,32 +224,11 @@
     "contentSnippet": "1. はじめに\nWeb開発の世界では、さまざまなフレームワークやライブラリが日々進化を続けています。2025年現在、フロントエンドとバックエンドそれぞれに多くの選択肢があり、プロジェクトに最適なものを選ぶことが成功の鍵となりますね。\n本記事では、現在最も使われている主要な..."
   },
   {
-    "title": "【Visual Studio 2026】MCPがついに標準化！NuGet MCPを有効化して動作確認してみた",
-    "link": "https://qiita.com/Sakai_path/items/8e4f317acb3490099dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T15:47:52.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nVisual Studio 2026 から、ついに MCP（Model Context Protocol）が IDE に標準対応しました。\n\nこれ、地味ですが VS2026 最大級のアップデートです。（いや、地味ではないか…）\nその背景には、Copilot ..."
-  },
-  {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
     "link": "https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html",
     "pubDate": "2025-11-13T15:37:08.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
-  },
-  {
-    "title": "文字化けの正体はこれだ！半角カナ・JIS・UTFの沼を実例で読み解く",
-    "link": "https://qiita.com/comty/items/cb4b0f0060af3ccc7209?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T11:06:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n文字化けは「文字集合」「符号化方式」「宣言」の不一致から生じます。特に日本語は歴史的に複数の方式が並立し、メールや携帯端末、業務システムの相互運用で事故が起きやすい背景があります。\n本稿は、代表的な文字コードの考え方、典型的な化け方のパターン、昔のメールで半角カ..."
-  },
-  {
-    "title": "[Claude Code] AIコーディング開発サイクル (2025年11月時点)",
-    "link": "https://qiita.com/nakamasato/items/ce77984e361ed877f66b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T08:44:30.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nAIコーディングツールの発展は凄まじいスピードで変化しています。GitHub Copilot、Claude Code、Cursor、Codexなど、次々と新しいツールが登場し、既存のツールも日々アップデートされています。\nこの記事では、2025年11月時点での私..."
   },
   {
     "title": "マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能",

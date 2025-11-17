@@ -1,73 +1,80 @@
 [
   {
-    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-3afi",
-    "pubDate": "Mon, 17 Nov 2025 02:03:11 +0000",
+    "title": "When React’s Philosophy Isn’t Enough and Data Attributes Save the Day",
+    "link": "https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi",
+    "pubDate": "Mon, 17 Nov 2025 06:24:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "‘Snake Eyes’ Rewatch with Bill Simmons, Sean Fennessey & Van Lathan\n\n\nBill Simmons, Sean Fennessey, and Van Lathan crown themselves the “kings of the sewer” as they rewatch Brian De Palma’s cult class"
+    "contentSnippet": "The Data-Attr Dilemma :\n\n\nData attributes can be incredibly useful, but in React they often feel like they go against the framework’s core patterns and philosophy. Still, I eventually ran into real pr"
+  },
+  {
+    "title": "Building a Production-Ready AI ChatBot Platform with Real-Time Analytics",
+    "link": "https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe",
+    "pubDate": "Mon, 17 Nov 2025 06:23:11 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "🎯 Introduction\n\n\nIn this article, I'll walk you through the architecture and implementation of a complete, production-ready AI chatbot platform that I've built from scratch. This isn't just another c"
+  },
+  {
+    "title": "From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline",
+    "link": "https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552",
+    "pubDate": "Mon, 17 Nov 2025 06:18:32 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "For a Halloween-themed hackathon, I decided to build AI Psychic Hotline – a web app where you choose a “realm,” ask a question, the system draws tarot cards, and an AI “psychic” generates a themed \nfo"
+  },
+  {
+    "title": "Pagination in flutter",
+    "link": "https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk",
+    "pubDate": "Mon, 17 Nov 2025 06:15:14 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Pagination in Flutter  Step by Step\nPagination is the process of loading data in chunks, rather than fetching the full dataset at once. This is essential for performance, especially when dealing with "
+  },
+  {
+    "title": "Data Mesh vs Data Fabric, Lake & Warehouse: A Comparison (2025)",
+    "link": "https://dev.to/chaos-genius/data-mesh-vs-data-fabric-lake-warehouse-a-comparison-2025-28cd",
+    "pubDate": "Mon, 17 Nov 2025 06:05:19 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Organizations today have a tough time handling their huge, complicated data ecosystems. The demand for data-driven decision-making is growing, so new concepts like  Data Mesh,  Data Fabric,  Data Lake"
+  },
+  {
+    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1ih7",
+    "pubDate": "Mon, 17 Nov 2025 06:02:51 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan\n\n\nBill, Sean, and Van dive back into Brian De Palma’s 1998 thriller Snake Eyes—complete with insane carnival shootouts, surveillance shen"
   },
   {
     "title": "CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-3hof",
-    "pubDate": "Mon, 17 Nov 2025 02:02:43 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1pod",
+    "pubDate": "Mon, 17 Nov 2025 06:02:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less is Cinemasins’s latest roast of the franchise, tallying all the sins in the new dino-sequel—plot holes, recycled tropes and franchise"
+    "contentSnippet": "CinemaSins clocks in at under 17 minutes to tally up the “sins” of Jurassic World Rebirth, poking fun at every overplayed dino revival, flimsy science leap, recycled villain beat and franchise déjà vu"
   },
   {
-    "title": "Kustomize from the Perspective of Reversible Computation",
-    "link": "https://dev.to/canonical/kustomize-from-the-perspective-of-reversible-computation-45ec",
-    "pubDate": "Mon, 17 Nov 2025 02:00:02 +0000",
+    "title": "Bootstrap Agent Test Cases in Minutes: A Simple Hack for Copilot Studio",
+    "link": "https://dev.to/balagmadhu/bootstrap-agent-test-cases-in-minutes-a-simple-hack-for-copilot-studio-ohk",
+    "pubDate": "Mon, 17 Nov 2025 05:55:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "kustomize is a declarative configuration management mechanism heavily promoted in Kubernetes 1.14. It explicitly articulates the idea “Customization is reuse.” Its core idea borrows from Docker’s desi"
+    "contentSnippet": "Intro:\nHere’s a quick hack that uses the agent’s own knowledge base to auto-generate test cases, run an initial evaluation, and create a review-ready draft for your process owner.\nWhy This Hack Matter"
   },
   {
-    "title": "SPARC Quality Gates and AI Infused Web App development",
-    "link": "https://dev.to/nick_porter_0cfcbc03e871f/what-is-sparc-and-how-do-i-use-it-in-ai-infused-web-app-development-1p6o",
-    "pubDate": "Mon, 17 Nov 2025 01:53:27 +0000",
+    "title": "Solving Git Authentication Failures: \"Password authentication is not supported\" Error",
+    "link": "https://dev.to/kkibet/solving-git-authentication-failures-password-authentication-is-not-supported-error-n96",
+    "pubDate": "Mon, 17 Nov 2025 05:50:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I use claude CLI to write my web application on the side that I love.  It's a NextJS app with supabase. After creating my own system of writing features with .md docs I needed a better and more reliab"
+    "contentSnippet": "If you've recently encountered the frustrating error message \"Password authentication is not supported for Git operations\" when trying to clone a repository, you're not alone. This common issue stems "
   },
   {
-    "title": "Why Smart Businesses Are Choosing BunnyDoc for Digital Signing",
-    "link": "https://dev.to/ameliacole/why-smart-businesses-are-choosing-bunnydoc-for-digital-signing-423j",
-    "pubDate": "Mon, 17 Nov 2025 01:51:35 +0000",
+    "title": "How to Save a Canva Design as a Word Document?",
+    "link": "https://dev.to/sariga_divakaran_6962d1b9/how-to-save-a-canva-design-as-a-word-document-bj8",
+    "pubDate": "Mon, 17 Nov 2025 05:49:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nEvery business, no matter how big or small, deals with one major challenge—paperwork. From client contracts to employee onboarding forms, NDAs, project agreements, vendor documents, and a"
+    "contentSnippet": "Need to move your Canva design into Microsoft Word for editing or printing?\nCanva has become one of the most popular online design tools — and for good reason. \nIt lets anyone create stunning resumes,"
   },
   {
-    "title": "Build a complete HTML resume with no CSS 🔥\r\nSemantic tags + clean structure + ATS check.\r\n\r\nPerfect for beginners starting frontend.\r\n\r\n🎥 Watch: https://youtu.be/nomiehZqdto\r\n\r\n#frontend #html #vscode #frontenddev #resume #cv",
-    "link": "https://dev.to/qurashiakeel/build-a-complete-html-resume-with-no-css-semantic-tags-clean-structure-ats-check-perfect-344a",
-    "pubDate": "Mon, 17 Nov 2025 01:48:47 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "youtu.be"
-  },
-  {
-    "title": "Data Driven Generic Code Generator",
-    "link": "https://dev.to/canonical/data-driven-generic-code-generator-2p9c",
-    "pubDate": "Mon, 17 Nov 2025 01:38:09 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Maven-Integrated Code Generator\n\n\nThe Nop platform provides code generation capabilities integrated with Maven. Instead of implementing a Maven plugin, it uses the exec-maven-plugin to run the main fu"
-  },
-  {
-    "title": "What is Completion Bias and how does it impact end of lifecycle",
-    "link": "https://dev.to/nick_porter_0cfcbc03e871f/what-is-completion-bias-and-how-does-it-impact-end-of-lifecycle-idc",
-    "pubDate": "Mon, 17 Nov 2025 01:33:12 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "I write in claude what me and my wife would qualify as ‘constantly’ so it became really frustrating when at the end of a very long running task (more on long running tasks later) and claude would we r"
-  },
-  {
-    "title": "$LNT: Unlocking Bitcoin’s Potential with the Lightning Network",
-    "link": "https://dev.to/lnt_btc/lnt-unlocking-bitcoins-potential-with-the-lightning-network-p06",
-    "pubDate": "Mon, 17 Nov 2025 01:25:36 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Bitcoin is the world’s most trusted digital asset, but for all its power, it has one major limitation: utility.\nMost BTC holders just HODL, waiting for value to grow. Transactions are slow, fees can b"
-  },
-  {
-    "title": "Turning Your GitHub Repos into Gold: How to Sell Your Code Online",
-    "link": "https://dev.to/softwaredeveloperhub01/turning-your-github-repos-into-gold-how-to-sell-your-code-online-187o",
-    "pubDate": "Mon, 17 Nov 2025 01:25:00 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "As a developer, you’ve probably spent countless hours writing and perfecting code in your GitHub repositories. From small scripts to fully developed applications, all that hard work is out there for t"
+    "title": "4ヶ月で電子契約サービスを立ち上げた",
+    "link": "https://zenn.dev/tychy/articles/c4b1c1f4d42f78",
+    "pubDate": "Sun, 16 Nov 2025 15:50:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "先日、OpenSignという電子契約サービスを公開しました。\nサービスの構想から公開まで約４ヶ月、ほぼすべての修正をCoding Agent経由で行いました。最初の１週間で概ね形になったものをお客様に売れるレベルに引き上げるのに、残りの（ほぼ）４ヶ月が必要だったという感覚でした。\nAI時代に小さな会社が新規サービスを立ち上げた振り返りを書いていきます。\n\n 2025/07/10 自分の課題を解決す"
   },
   {
     "title": "GitHubで最も使われている言語の1位はPythonを抜いてTypeScriptに、最もコントリビュータが増加したOSSは「Zenブラウザ」。Octoverse 2025",
@@ -84,11 +91,18 @@
     "contentSnippet": "調査会社のガートナーは、2026年に企業や組織にとって重要なインパクトを持つ戦略的テクノロジのトップトレンドを発表しました。 The Top Strategic Technology Trends for 2026 were released last monthLearn how to turn disruption into opportunity, get expert guidance o"
   },
   {
-    "title": "Duolingoが公開している利用OSライブラリを分析してみた",
+    "title": "Duolingoが利用しているオープンソースライブラリを分析してみた",
     "link": "https://zenn.dev/kg_lens/articles/ba9260bee75d06",
     "pubDate": "Sun, 16 Nov 2025 15:15:41 GMT",
     "source": "Zenn",
     "contentSnippet": "先日Xでこのようなポストをしたところ、ありがたいことに思いのほか多くの反響がありました。\n\nせっかくなので、この記事では英語学習アプリDuolingo(デュオリンゴ)が公開しているオープンソースライブラリを確認して、領域毎にどのようなライブラリを活用しているのかを分析してみようと思います。\n参照しているDuolingoの公開記事\nhttps://ja.duolingo.com/attributio"
+  },
+  {
+    "title": "「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？",
+    "link": "https://zenn.dev/ukitaka/articles/468d418a5dd8fa",
+    "pubDate": "Sun, 16 Nov 2025 13:50:12 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2要素認証などでよくみる6桁のワンタイムパスワードですが、個人的に何となく気になっていることがありました。\nそれは 同じ数字が並ぶことが多いな と感じるということです。\n\nこの記事では\n\n「同じ数字が並ぶ」という直感が正しいのか？\n何かの目的 (例: 入力を楽にする) があってこうなっているのか？\nワンタイムパスワードの生成アルゴリズム的にこういう偏りが生まれやすくなるのか？\n\nという素朴な疑問を"
   },
   {
     "title": "初めて技術書典にサークル参加したら、楽しすぎた件",
@@ -140,11 +154,11 @@
     "contentSnippet": "この記事について\nこの記事は、私個人の経験と気づきをまとめたエッセイです。\n前回の記事ではコミュニティに関する自分の思いを言語化してみましたが、その続編としてコミュニティアンバサダーとしてのData Superheroesについて自分なりの思いを書いてみました。\n前回の記事\nこの記事から読んでいただいた方は前回の記事を参照いただければと思います。\n\n コミュニティアンバサダー Snowflake "
   },
   {
-    "title": "第4回：NumPy配列の結合",
-    "link": "https://zenn.dev/haruhiro1020/articles/1495a0060b4a09",
-    "pubDate": "Sat, 15 Nov 2025 22:00:01 GMT",
+    "title": "コミュニティへの関わり方①あなたに合った参加スタイルを見つけよう",
+    "link": "https://zenn.dev/dataheroes/articles/f2fb8c4597a32c",
+    "pubDate": "Sun, 16 Nov 2025 05:26:40 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\n本記事は「Pythonで数値計算を行うためのNumPy入門」シリーズの第4回です．\nこのシリーズでは， \"NumPyのよく使われる機能を分野ごとに理解すること\" を目標としています．\nPythonで数値計算を行う際に欠かせないライブラリ「NumPy」について，基礎から応用まで体系的に学べます．\nシリーズ構成予定（全10記事）\n\nNumPyのインストール 〜 arrayの基本\n配列の追加・"
+    "contentSnippet": "この記事について\nこの記事は、私個人の経験と気づきをまとめたエッセイです。\n\n 簡単な自己紹介\n私は、日本最大級の共通ポイントサービスの1つである、Vポイントサービスのエンジニアリング責任者をしています。\n2019年にデータ基盤の責任者だった私は、Snowflakeと出会い、それから6年近くこの製品を利用してデータ基盤の統合やモダン化を進めてきました。\n現在、Snowflakeの日本コミュニティで"
   },
   {
     "title": "自宅のRTX3060で小さなLLMを自作してみた",
@@ -166,20 +180,6 @@
     "pubDate": "2025-11-15T10:30:23.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nWebアプリケーションを開発する際、セキュリティ対策は避けて通れない重要なテーマです。攻撃者は常に脆弱性を探しており、一度セキュリティホールが悪用されると、個人情報の漏洩やシステムの改ざんなど、深刻な被害につながる可能性があります。\n本記事では、Web開発者が最..."
-  },
-  {
-    "title": "BASE64と私の親密度をあげる",
-    "link": "https://zenn.dev/akari1106/articles/f73d60144bf877",
-    "pubDate": "Sat, 15 Nov 2025 08:13:41 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n最近個人の趣味のゆる開発でも仕事開発でも本当に「BASE64」に出会う。\n本当にたまたまなのかもしれないけど、数か月振りに別案件でも会うみたいな感じです。\nもうなんか自分の友達以上に出会う頻度です。\nエンコード、デコード、どっちもなんか「あ、また会ったね」みたいなレベルで会う。\nこの一年での「会ったねシリーズ」は以下です。多分まだ年内増えるかもです。\n\nClaude APIに画像を送る "
-  },
-  {
-    "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
-    "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
-    "pubDate": "Sat, 15 Nov 2025 07:34:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nみなさん、C#書いてますか？\nTIOBE Indexの2025年11月の見出しは「Is C# going to surpass Java for the first time in history?」でした。\n\n11 月の見出し: C# は史上初めて Java を追い抜くことになるのか?\nPythonに代わって、プログラミング言語C#が最も急成長を遂げています。C#がこのペースを維持でき"
   },
   {
     "title": "[Amazon Bedrock AgentCore]エージェント呼び出し時の認証を実装してみる（Inbound Auth解説）",

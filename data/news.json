@@ -1,73 +1,94 @@
 [
   {
-    "title": "Why Big Tech Won't Hire Flutter Developers in 2026",
-    "link": "https://dev.to/eira-wexford/why-big-tech-wont-hire-flutter-developers-2i88",
-    "pubDate": "Tue, 18 Nov 2025 12:41:51 +0000",
+    "title": "Upgrading React-Native from Android SDK 34 35: Real Issues, Real Fixes, and What No One Tells You",
+    "link": "https://dev.to/muhammad_harisbaig_1268d/upgrading-react-native-from-android-sdk-34-35-real-issues-real-fixes-and-what-no-one-tells-you-5p9",
+    "pubDate": "Tue, 18 Nov 2025 18:36:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You've mastered Flutter and can ship features faster than native developers can sync their dependencies. Your apps run smoothly on iOS, Android, and web from a single codebase. Yet when you browse job"
+    "contentSnippet": "Upgrading your React-Native app from Android SDK 34 to 35 should be simple. Google releases a new SDK → you update compileSdkVersion and targetSdkVersion → rebuild → ship update. Right?\nWrong.\n\nWhat I"
   },
   {
-    "title": "Adaptive Anti-Corruption Layer (AACL)",
-    "link": "https://dev.to/panjieke/adaptive-anti-corruption-layer-aacl-3hb8",
-    "pubDate": "Tue, 18 Nov 2025 12:39:53 +0000",
+    "title": "Confessions of a Totally Average Dev: Why Being Kinda Dumb Is the Best Job on Earth ☀️😏",
+    "link": "https://dev.to/om_shree_0709/confessions-of-a-totally-average-dev-why-being-kinda-dumb-is-the-best-job-on-earth-5049",
+    "pubDate": "Tue, 18 Nov 2025 18:31:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "At Synpulse8, we’re launching our first-ever Open Source project: the Adaptive Anti-Corruption Layer (AACL), built for enterprise-grade Agentic AI. LLMs are powerful, but even tiny output quirks like "
+    "contentSnippet": "Hey you beautiful disaster of a developer, yes YOU — the one with 47 tabs of Stack Overflow open, a half-eaten burrito on your keyboard, and a nagging suspicion that console.log() is actually doing al"
   },
   {
-    "title": "Nextjs Documentation Frontend website template",
-    "link": "https://dev.to/shreyvijayvargiya/nextjs-documentation-frontend-website-template-4i75",
-    "pubDate": "Tue, 18 Nov 2025 12:38:14 +0000",
+    "title": "Cloudflare Went Down - Here's What Really Happened Today",
+    "link": "https://dev.to/mohitb_twt/cloudflare-went-down-heres-what-really-happened-today-54dg",
+    "pubDate": "Tue, 18 Nov 2025 18:30:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello people, welcome to the new email\nYou know, building tools with AI in 2025 is getting easier than earlier and more on the website/too; as we are creating quickly, as vibe coding, the more we need"
+    "contentSnippet": "Today wasn’t normal for the internet.\nOne moment everything was fine.\nChatGPT wasn’t loading.\nIf your apps felt broken, the problem wasn’t with your WiFi.\nAnd when Cloudflare goes down, the internet f"
   },
   {
-    "title": "Context-Driven Development Experiment 3: Building Multi-Project JIRA Support with Claude Code",
-    "link": "https://dev.to/imdone/context-driven-development-experiment-3-building-multi-project-jira-support-with-claude-code-1gdm",
-    "pubDate": "Tue, 18 Nov 2025 12:37:26 +0000",
+    "title": "Cloudflare Global Network Outage — What Happened & Why It Matters?\r\n\r\nA major disruption hit the internet today as Cloudflare’s Global Network experienced issues, temporarily affecting millions of websites, APIs and CDN-backed services worldwide.",
+    "link": "https://dev.to/cryptowebbuild/cloudflare-global-network-outage-what-happened-why-it-matters-a-major-disruption-hit-the-50im",
+    "pubDate": "Tue, 18 Nov 2025 18:29:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every week, I run small experiments with context-driven development (CDD), AI tools, and imdone - a tool I built that keeps your backlog right in your source code so you never lose context.\nThis week,"
+    "contentSnippet": "🚨 BREAKING: Cloudflare Outage Shook the Entire Internet Today\nSagor Ahamed  ・ Nov 18\n#webdev\n        #cloud\n        #security\n        #news"
   },
   {
-    "title": "The top 5 features of internal developer platforms",
-    "link": "https://dev.to/_steve_fenton_/the-top-5-features-of-internal-developer-platforms-2dkk",
-    "pubDate": "Tue, 18 Nov 2025 12:36:47 +0000",
+    "title": "🌍 Cloudflare Global Network Outage — What Happened & Why It Matters?\r\n\r\nA major disruption hit the internet today as Cloudflare’s Global Network experienced issues, temporarily affecting millions of websites, APIs and CDN-backed services worldwide.",
+    "link": "https://dev.to/cryptowebbuild/cloudflare-global-network-outage-what-happened-why-it-matters-a-major-disruption-hit-the-5f7k",
+    "pubDate": "Tue, 18 Nov 2025 18:28:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Our Platform Engineering Pulse report looked at many aspects of real-world practice, but one interesting study area was the themes for common platform features. We're launching a broader study to inve"
+    "contentSnippet": "🚨 BREAKING: Cloudflare Outage Shook the Entire Internet Today\nSagor Ahamed  ・ Nov 18\n#webdev\n        #cloud\n        #security\n        #news"
   },
   {
-    "title": "Building Intelligent, Metadata-Driven Pipelines with Azure Data Factory",
-    "link": "https://dev.to/sotiriav/building-intelligent-metadata-driven-pipelines-with-azure-data-factory-4ebf",
-    "pubDate": "Tue, 18 Nov 2025 12:35:43 +0000",
+    "title": "🚨 BREAKING: Cloudflare Outage Shook the Entire Internet Today",
+    "link": "https://dev.to/cryptowebbuild/breaking-cloudflare-outage-shook-the-entire-internet-today-3feo",
+    "pubDate": "Tue, 18 Nov 2025 18:28:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn today’s data-driven landscape, organizations are increasingly relying on automated, scalable, and intelligent data pipelines to streamline their analytics workflows. Among the many t"
+    "contentSnippet": "**Millions of websites around the world suddenly stopped loading —\n\n\nand the reason was HUGE:\nCloudflare’s Global Network went down.\nThis caused:\nCloudflare just confirmed:\n➡ “Issue identified — a fix"
   },
   {
-    "title": "Outerwear Performance Analysis: A Data-Driven Investigation",
-    "link": "https://dev.to/oliver_samuel_028c6f65ad6/outerwear-performance-analysis-a-data-driven-investigation-23b9",
-    "pubDate": "Tue, 18 Nov 2025 12:27:07 +0000",
+    "title": "📝 Fixing BigInt Serialization Error in Node.js + Express (A Beginner-Friendly Explanation)",
+    "link": "https://dev.to/krishnamoorthy_k_0f3f8d93/fixing-bigint-serialization-error-in-nodejs-express-a-beginner-friendly-explanation-5fe6",
+    "pubDate": "Tue, 18 Nov 2025 18:25:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Problem Statement\n\n\nThe Outerwear category has shown persistent underperformance across multiple business dimensions; revenue, margin, and customer engagement. Despite moderate sales spikes in peak"
+    "contentSnippet": "Hey everyone! 👋\n👉 BigInt. Yes, you heard that right.\nSQL databases like MySQL/PostgreSQL often use BIGINT for primary keys and timestamps, especially when dealing with large IDs or auto-increment va"
   },
   {
-    "title": "Azure Storage CORS erazed: bug or feature?",
-    "link": "https://dev.to/andrewelans/azure-storage-bug-or-feature-fea",
-    "pubDate": "Tue, 18 Nov 2025 12:26:49 +0000",
+    "title": "Practical Guidelines for Feature Selection",
+    "link": "https://dev.to/dipti_m_2e7ba36c478d1a48a/practical-guidelines-for-feature-selection-5c91",
+    "pubDate": "Tue, 18 Nov 2025 18:17:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When updating network configuration in portal.azure.com -> Storage account -> Security + networking -> Networking, your whole CORS setup is erased.\nFor example try to modify your IPv4 allowed list and"
+    "contentSnippet": "Building machine learning models isn’t just about choosing the right algorithm. The real power comes from feeding your model the right features — and removing the ones that add noise, redundancy, or u"
   },
   {
-    "title": "How I Passed My First Senior Backend Interview (Go) Using Educative",
-    "link": "https://dev.to/devflex-pro/how-i-passed-my-first-senior-backend-interview-go-using-educative-35h1",
-    "pubDate": "Tue, 18 Nov 2025 12:21:18 +0000",
+    "title": "Shared Component Architecture in Angular (When To Abstract and When Not To)",
+    "link": "https://dev.to/avwerosuoghene/shared-component-architecture-in-angular-when-to-abstract-and-when-not-to-27m0",
+    "pubDate": "Tue, 18 Nov 2025 18:15:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "+ exact courses I followed)\nFor most of my career I’ve been a “solid mid-level backend engineer.”\nsenior position, I hit the same wall:\nI could build anything, but I couldn’t explain anything.\nSystem "
+    "contentSnippet": "One of the easiest traps in frontend development is over–engineering your shared components. You start with one neat reusable button, next thing you know, your shared folder has 40 components, half of"
   },
   {
-    "title": "How to manage Let's Encrypt certificate on EC2 instance",
-    "link": "https://dev.to/jurijs_iv/how-to-manage-lets-encrypt-certificate-on-ec2-instance-46f4",
-    "pubDate": "Tue, 18 Nov 2025 12:21:10 +0000",
+    "title": "Shared Component Architecture in Angular (When To Abstract and When Not To)",
+    "link": "https://dev.to/avwerosuoghene/shared-component-architecture-in-angular-when-to-abstract-and-when-not-to-10fc",
+    "pubDate": "Tue, 18 Nov 2025 18:15:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In this guide, I’ll provide a short manual on how to create and manage Let’s Encrypt certificates on your EC2 instance using Lego (a Let's Encrypt/ACME client and library written in Go). We’ll use the"
+    "contentSnippet": "One of the easiest traps in frontend development is over–engineering your shared components. You start with one neat reusable button, next thing you know, your shared folder has 40 components, half of"
+  },
+  {
+    "title": "［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025",
+    "link": "https://www.publickey1.jp/blog/25/mcp_on_windowsaiwindowsignite_2025.html",
+    "pubDate": "2025-11-18T17:01:50.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは日本時間11月19日未明から開催する年次インベント「Microsoft Iginte 2025」で、WindowsによるネイティブなMCP（Model Context Protocol）機能となる「MCP on Windows」のパブリックプレビュー公開を発表しました。 AIエージェントがWindowsを操作可能に MCPとは一般に、生成AIが外部のツールを呼び出して情報を取得した"
+  },
+  {
+    "title": "［速報］マイクロソフト、ミッションクリティカルに対応するスケーラブルなPostgreSQL「Azure HorizonDB」発表。Ignite 2025",
+    "link": "https://www.publickey1.jp/blog/25/postgresqlazure_horizondbignite_2025.html",
+    "pubDate": "2025-11-18T17:01:29.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、ミッションクリティカルに対応したPostgreSQLのデータベースサービス「Azure HorizonDB」を発表しました。 Azure HorizonDBは高性能なPostgreSQLのマネージドサービスです。プライマリノードとレプリカノードのノード全体で最大3072vCPUまでスケ"
+  },
+  {
+    "title": "［速報］マイクロソフト、あらゆるAIエージェントを包括的に管理する「Microsoft Agent 365」発表。Ignite 2025",
+    "link": "https://www.publickey1.jp/blog/25/aimicrosoft_agent_365ignite_2025.html",
+    "pubDate": "2025-11-18T15:35:35.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは日本時間11月19日未明から開催する年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュア"
   },
   {
     "title": "HTTPS通信とTLSの仕組みを理解する",
@@ -257,26 +278,5 @@
     "pubDate": "2025-11-12T15:50:59.000Z",
     "source": "Publickey",
     "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行が安心してできるようになりました。 Node.jsはTypeScriptをサポート"
-  },
-  {
-    "title": "さくらのクラウド、コンテナをサーバレスで実行する「AppRun」を正式サービスとして提供開始へ",
-    "link": "https://www.publickey1.jp/blog/25/apprun_1.html",
-    "pubDate": "2025-11-11T15:54:09.000Z",
-    "source": "Publickey",
-    "contentSnippet": "さくらインターネットは、同社のクラウドサービス「さくらのクラウド」で今年（2025年）2月から製品トライアルを行ってきた「AppRun」を、12月9日から正式サービスとして提供開始すると発表しました。 AppRunは、コンテナ化されたアプリケーションを簡単にデプロイし、自動的にスケーリングを行うコンテナ実行基盤を提供するサービスです。Amazon Web Services（AWS）のApp Run"
-  },
-  {
-    "title": "オープンソースAIを日本のAI政策の基盤に。オープンソース・グループ・ジャパンが、開かれたAI社会とデジタル主権を構築するための提言を公開",
-    "link": "https://www.publickey1.jp/blog/25/aiaiai.html",
-    "pubDate": "2025-11-11T15:53:02.000Z",
-    "source": "Publickey",
-    "contentSnippet": "一般社団法人オープンソース・グループ・ジャパン（OSG-JP）は、日本がAI時代における国際競争力を確保し、国民から信頼されるAI社会を構築するための具体的な3つの提言「オープンソースAIを基盤とした開かれたAI社会とデジタル主権を構築するための公開提言 ― 米中依存のリスクを低減し、透明性・自律性・競争力あるAI基盤を構築 ―」を公開しました。 同団体は日本国内におけるオープンソースの普及と発展"
-  },
-  {
-    "title": "GitHub、リリース後のバイナリなどアセットを変更不可にする「Immutable Release」（変更不可リリース）機能を正式リリース",
-    "link": "https://www.publickey1.jp/blog/25/githubimmutable_release.html",
-    "pubDate": "2025-11-10T15:29:27.000Z",
-    "source": "Publickey",
-    "contentSnippet": "GitHubは、リリース後の成果物を変更できなくする新機能「Immutable Release」（変更不可リリース）機能を正式版として提供すると発表しました。 リリースしたバイナリなどが変更不可に Immutable Releaseを利用することで、リリースとして公開したバイナリやインストーラなどのアセットとGitタグが変更できなくなります。 これによって攻撃者がリリースされたアセットに対して脆弱"
   }
 ]

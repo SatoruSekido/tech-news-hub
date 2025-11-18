@@ -1,73 +1,80 @@
 [
   {
-    "title": "I Learned React Wrong for 3 Months. Here's What I Wish I Knew on Day 1",
-    "link": "https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp",
-    "pubDate": "Tue, 18 Nov 2025 06:23:24 +0000",
+    "title": "Why Big Tech Won't Hire Flutter Developers in 2026",
+    "link": "https://dev.to/eira-wexford/why-big-tech-wont-hire-flutter-developers-2i88",
+    "pubDate": "Tue, 18 Nov 2025 12:41:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I spent 3 months learning React.\nBuilt 4 projects. Felt confident. Then got destroyed in my first code review.\n\"Why are you doing it like this?\"\n\n\"This isn't how React works.\"\n\n\"Did you learn this fro"
+    "contentSnippet": "You've mastered Flutter and can ship features faster than native developers can sync their dependencies. Your apps run smoothly on iOS, Android, and web from a single codebase. Yet when you browse job"
   },
   {
-    "title": "# What Exactly Is a Computer Port, What Can Be Found There, and How to See All Existing Ports of a Computer?",
-    "link": "https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426",
-    "pubDate": "Tue, 18 Nov 2025 06:10:52 +0000",
+    "title": "Adaptive Anti-Corruption Layer (AACL)",
+    "link": "https://dev.to/panjieke/adaptive-anti-corruption-layer-aacl-3hb8",
+    "pubDate": "Tue, 18 Nov 2025 12:39:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Computer Port Defined\n\n\nA computer port is a physical or virtual interface that enables data to flow between a computer and external devices, or between software applications and network connections"
+    "contentSnippet": "At Synpulse8, we’re launching our first-ever Open Source project: the Adaptive Anti-Corruption Layer (AACL), built for enterprise-grade Agentic AI. LLMs are powerful, but even tiny output quirks like "
   },
   {
-    "title": "Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!",
-    "link": "https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l",
-    "pubDate": "Tue, 18 Nov 2025 06:09:53 +0000",
+    "title": "Nextjs Documentation Frontend website template",
+    "link": "https://dev.to/shreyvijayvargiya/nextjs-documentation-frontend-website-template-4i75",
+    "pubDate": "Tue, 18 Nov 2025 12:38:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jahari Stampley takes us behind the scenes of his rise to the cutting edge of improvisational jazz piano, from his big win at the Herbie Hancock Institute of Jazz Piano Competition to the breakthrough"
+    "contentSnippet": "Hello people, welcome to the new email\nYou know, building tools with AI in 2025 is getting easier than earlier and more on the website/too; as we are creating quickly, as vibe coding, the more we need"
   },
   {
-    "title": "How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation",
-    "link": "https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4",
-    "pubDate": "Tue, 18 Nov 2025 06:09:13 +0000",
+    "title": "Context-Driven Development Experiment 3: Building Multi-Project JIRA Support with Claude Code",
+    "link": "https://dev.to/imdone/context-driven-development-experiment-3-building-multi-project-jira-support-with-claude-code-1gdm",
+    "pubDate": "Tue, 18 Nov 2025 12:37:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Have you ever struggled with frustrating voice typing errors that turned your carefully planned message into gibberish? You're not alone. Voice-to-text technology has revolutionized how we communicate"
+    "contentSnippet": "Every week, I run small experiments with context-driven development (CDD), AI tools, and imdone - a tool I built that keeps your backlog right in your source code so you never lose context.\nThis week,"
   },
   {
-    "title": "MVC - First part",
-    "link": "https://dev.to/vasudevankumar/mvc-first-part-528j",
-    "pubDate": "Tue, 18 Nov 2025 06:09:04 +0000",
+    "title": "The top 5 features of internal developer platforms",
+    "link": "https://dev.to/_steve_fenton_/the-top-5-features-of-internal-developer-platforms-2dkk",
+    "pubDate": "Tue, 18 Nov 2025 12:36:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Controller is the most important component because it handles all incoming requests.\nDispatcherServlet(Front controller) --> HandlerMapping(URLs& ref control)--> Actual controller.\nWhen the user s"
+    "contentSnippet": "Our Platform Engineering Pulse report looked at many aspects of real-world practice, but one interesting study area was the themes for common platform features. We're launching a broader study to inve"
   },
   {
-    "title": "📻 I built an infinite 90s boombox with Gemini + Lyria (and it has an AI DJ!)",
-    "link": "https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8",
-    "pubDate": "Tue, 18 Nov 2025 06:08:28 +0000",
+    "title": "Building Intelligent, Metadata-Driven Pipelines with Azure Data Factory",
+    "link": "https://dev.to/sotiriav/building-intelligent-metadata-driven-pipelines-with-azure-data-factory-4ebf",
+    "pubDate": "Tue, 18 Nov 2025 12:35:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I recently built an experiment that I honestly can’t stop listening to. It’s a virtual, web-based Boombox. You tune the dial, the station changes, and the music crossfades in real-time.\nBut here is th"
+    "contentSnippet": "Introduction\n\n\nIn today’s data-driven landscape, organizations are increasingly relying on automated, scalable, and intelligent data pipelines to streamline their analytics workflows. Among the many t"
   },
   {
-    "title": "200+ BETA users already signed up in just one month 🎉",
-    "link": "https://dev.to/vino123/200-beta-users-already-signed-up-in-just-one-month-5gg8",
-    "pubDate": "Tue, 18 Nov 2025 06:04:42 +0000",
+    "title": "Outerwear Performance Analysis: A Data-Driven Investigation",
+    "link": "https://dev.to/oliver_samuel_028c6f65ad6/outerwear-performance-analysis-a-data-driven-investigation-23b9",
+    "pubDate": "Tue, 18 Nov 2025 12:27:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "After speaking with a ton of founders and developers, we kept hearing the same issues again and again:\n• Requirements start out unclear, causing confusion later\nSo we built Scrum Buddy — an all-in-one"
+    "contentSnippet": "1. Problem Statement\n\n\nThe Outerwear category has shown persistent underperformance across multiple business dimensions; revenue, margin, and customer engagement. Despite moderate sales spikes in peak"
   },
   {
-    "title": "Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1j33",
-    "pubDate": "Tue, 18 Nov 2025 06:01:15 +0000",
+    "title": "Azure Storage CORS erazed: bug or feature?",
+    "link": "https://dev.to/andrewelans/azure-storage-bug-or-feature-fea",
+    "pubDate": "Tue, 18 Nov 2025 12:26:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Bill Simmons and Kyle Brandt dive into the Ringer’s latest Rewatchables episode all about John Hughes’s 1985 teen classic Weird Science, starring Anthony Michael Hall, Kelly LeBrock and Ilan Mitchell-"
+    "contentSnippet": "When updating network configuration in portal.azure.com -> Storage account -> Security + networking -> Networking, your whole CORS setup is erased.\nFor example try to modify your IPv4 allowed list and"
   },
   {
-    "title": "Drowning in Photos? Let a VS Code AI Agent Organize Them for You (No Coding Needed)",
-    "link": "https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8",
-    "pubDate": "Tue, 18 Nov 2025 05:48:19 +0000",
+    "title": "How I Passed My First Senior Backend Interview (Go) Using Educative",
+    "link": "https://dev.to/devflex-pro/how-i-passed-my-first-senior-backend-interview-go-using-educative-35h1",
+    "pubDate": "Tue, 18 Nov 2025 12:21:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I have always enjoyed taking photos but like most people today, I am drowning in them. Unlike the good ol’ days where you had a roll of 24 or 36 shots and had to make each one count, nowadays a single"
+    "contentSnippet": "+ exact courses I followed)\nFor most of my career I’ve been a “solid mid-level backend engineer.”\nsenior position, I hit the same wall:\nI could build anything, but I couldn’t explain anything.\nSystem "
   },
   {
-    "title": "Strategies to Analyze Any Size Dataset with LLMs Beyond its Context Limit",
-    "link": "https://dev.to/exson_joseph/strategies-to-analyze-any-size-dataset-with-llms-beyond-its-context-limit-4i37",
-    "pubDate": "Tue, 18 Nov 2025 05:46:54 +0000",
+    "title": "How to manage Let's Encrypt certificate on EC2 instance",
+    "link": "https://dev.to/jurijs_iv/how-to-manage-lets-encrypt-certificate-on-ec2-instance-46f4",
+    "pubDate": "Tue, 18 Nov 2025 12:21:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You've connected your LLM to a SQL database using Model Context Protocol (MCP), run a query, and... oh no. Instead of the manageable 100 rows you expected, you get 50,000 records. Your LLM's context w"
+    "contentSnippet": "In this guide, I’ll provide a short manual on how to create and manage Let’s Encrypt certificates on your EC2 instance using Lego (a Let's Encrypt/ACME client and library written in Go). We’ll use the"
+  },
+  {
+    "title": "HTTPS通信とTLSの仕組みを理解する",
+    "link": "https://qiita.com/kazuki_ogawa/items/12268a7bce278c8eb102?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-18T04:44:03.000Z",
+    "source": "Qiita",
+    "contentSnippet": "株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。\n※ シンシアにおける働き方の様子はこちら\n\nシンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。\nその経験を通し、実務未経験者の方にぜひ身につけ..."
   },
   {
     "title": "RAGをゼロから実装して仕組みを学ぶ【2025年版】",
@@ -75,6 +82,20 @@
     "pubDate": "Tue, 18 Nov 2025 00:01:06 GMT",
     "source": "Zenn",
     "contentSnippet": "!\n今回は、「RAG初心者」に向けた内容です。（プロのみなさん、すみません）\n\n本記事では、RAGの基本的な仕組みを理解するために、Pythonを使ってゼロからRAGを実装する手順をざっくり解説します。\n株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。\n\n この記事は何\nこの記事では、非エンジニアでも、手元のP"
+  },
+  {
+    "title": "家族会議が「感情論」で炎上するので、心理的安全性を守るアプリをAIと二人三脚で作った話",
+    "link": "https://qiita.com/a-nagaoka/items/aa575fc8d3bf7c06b1c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T22:31:11.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nQiitaの皆さん、こんにちは。仕事のチームメンバーとなら、お互いの意見が違っても、割と「建設的な意見交換」ができますよね。\nなのに、相手が家族だと、なぜかそれが難しくなる！ そんな経験、ありませんか？（私はめっちゃあります）\n\nもう限界！家事分担を見直したい！..."
+  },
+  {
+    "title": "😱 恐怖！ChatGPTは「忖度」する 〜私がAIに「時給1500円の雑魚」と判定させた誘導実験（実話）〜",
+    "link": "https://zenn.dev/taka4rest/articles/9477a26b8c2e0b",
+    "pubDate": "Mon, 17 Nov 2025 16:22:24 GMT",
+    "source": "Zenn",
+    "contentSnippet": "😱 恐怖！ChatGPTは「忖度」する 〜私がAIに「時給1500円の雑魚」と判定させた誘導実験（実話）〜\nこんにちは！以前、「まずはフォーマットを作りましょう」という罠について記事を書きましたが、今回はさらに深刻な問題を発見してしまいました。\nChatGPTはユーザーの意見に同調しすぎるという特性があります。\n「そんなこと知ってるよ」と思われるかもしれません。しかし、実際にどれだけ影響を受ける"
   },
   {
     "title": "VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援",
@@ -89,6 +110,13 @@
     "pubDate": "2025-11-17T15:13:17.000Z",
     "source": "Publickey",
     "contentSnippet": "調査会社のSynergy Research Groupは、グローバルにおける2025年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせたものを指します。 発表によると、第3四半期のクラウドインフラ市場は1年前と比較して28％成長となり、市場規模はグローバルで1069億ドル（1ドル155円換算で約"
+  },
+  {
+    "title": "文字をうつということ｜キーボード・オタク（著）",
+    "link": "https://qiita.com/kanekanekaneko/items/055b1db531c998ea09df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T15:07:54.000Z",
+    "source": "Qiita",
+    "contentSnippet": "0. はじめに\nタイピングという技術についての安易なTipsを期待してこの記事を読む人は、がっかりするだろう。\nこの記事は、そうした期待を裏切って読者にこう訴える。\n\nノートPCに備え付けらた、または会社から貸与されたキーボードに満足してはならない\n訓令式ローマ字、ヘボン..."
   },
   {
     "title": "作って学ぶ ChatGPT Atlas",
@@ -112,18 +140,18 @@
     "contentSnippet": "はじめに\nkaggleで開催されたチェスコンペと強化学習コンペに参加し、銅メダルを獲得しました。\n\nこれらのコンペは、シミュレーションコンペと呼ばれるコンペであり、通常のコンペとは異なります。通常のコンペに比べて、シミュレーションコンペの方が初心者の方やAIに慣れていない方はメダルを獲りやすいと思います。本記事では、その理由やコンペで取り組んだ内容を振り返りながら紹介します。\n\n シミュレーション"
   },
   {
-    "title": "AIエージェントで障害対応とかにおける調査を少しでも楽にしたい",
-    "link": "https://zenn.dev/makocchan/articles/perf_investigating_agent",
-    "pubDate": "Mon, 17 Nov 2025 09:24:12 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは。間瀬です。\n今回は「AIエージェントを使って障害対応とかにおける調査を少しでも楽にしたい」というテーマで記事をお届けしたいと思います。\n\n システム運用における障害対応と個人的な課題感\n既にシステムを運用されている方であればご存知だと思いますが、障害対応って大変ですよね。\nサービス提供に影響ないことが分かっていたり、調査や復旧の必要がないことがすぐに分かれば早期に解決すること"
-  },
-  {
     "title": "【徹底解剖】ChatGPTグループチャットのセキュリティ アレコレ（前編）",
     "link": "https://qiita.com/satokan3/items/9ed160a261ec9033cc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-17T08:48:52.000Z",
     "source": "Qiita",
     "contentSnippet": "みんな、元気？\nGMOコネクトでCTOしている菅野 哲（かんの さとる）です。\n巷で賑わっているChatGPTがグループチャット機能を公開しているってのを見たので調べてみたです。\n\nはじめに\n2025年に入り、ChatGPTのグループチャット機能が業務利用されるケースが急増..."
+  },
+  {
+    "title": "【TOON】JSON時代の終わり？ 話題のTOONを解説してみた",
+    "link": "https://qiita.com/shanks665/items/a5ec31706af9ffffc491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T04:19:58.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nLLMのAPIコストが気になったことはないだろうか。プロンプトに大量のデータを渡すと、トークン数が爆発してコストもレスポンスも悪化する。\nその原因の一つがJSONだ。JSONは人間が読みやすいように設計されているため、記号や繰り返しが多い。LLMにとっては無駄が..."
   },
   {
     "title": "作って学ぶAsync Rust",
@@ -138,13 +166,6 @@
     "pubDate": "Mon, 17 Nov 2025 02:00:02 GMT",
     "source": "Zenn",
     "contentSnippet": "TL;DR\n\n約600ファイル、5,000箇所への中国語追加を「工程分割 + AST 解析」により計6時間（実装4時間、実行2時間）で完了\nAI にファイル単位で処理させると無駄な再計算が発生して非効率だったため、「抽出」「翻訳」「適用」の3工程に分割し AST 解析で効率化を実現\nこの手法の鍵は「コンテキストの制御」で、適切な粒度で問題を分割し AI に必要最小限の情報だけを渡すことで処理速度と"
-  },
-  {
-    "title": "意外と使ってない？SlackのRSS通知設定で最新情報をキャッチアップ！",
-    "link": "https://qiita.com/imamu123/items/308e857eddadfabd55be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T01:38:34.000Z",
-    "source": "Qiita",
-    "contentSnippet": "🚀 はじめに\nSlackでRSSフィードの更新通知を受け取れる機能、ご存知でしたか？\n私は以前から知ってはいたものの、なかなか使っていませんでした。今回、実際に設定してみたので、その手順と活用例を備忘録として残しておきます。\n\n🤔 RSSとSlackとは\n\nRSS: W..."
   },
   {
     "title": "あなたもクソコードの世界に触れてみませんか？？ - 逆リファクタリングバトルのイベント報告 -",
@@ -196,6 +217,13 @@
     "contentSnippet": "1: マジックワードの死と、科学的検証の夜明\n巷で囁かれる「プロンプト・エンジニアリングの終わり」。\n実際問題、AIの性能向上に伴い、小手先の作文技術の工夫をしなくても、安定して高品質な出力が得られるようになってきています。\nしかしそれは、技術の”死”を意味していません。..."
   },
   {
+    "title": "中学生がAndroidアプリ開発してGooglePlayで公開した話",
+    "link": "https://qiita.com/nekogakure/items/f1accd7aeeec5a3a7cdf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T04:39:23.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは。中2のねこがくれです。\n今回、Androidアプリを開発し、GooglePlayでリリースすることができました。\nその備忘録的なものです\nまぁごゆるりとご覧ください（？）\n\nアプリの概要\nこのアプリのコンセプトは「その場で、即座に、簡単に今の心情を保存する」とい..."
+  },
+  {
     "title": "【React】コードを書く前の基本概念を理解する",
     "link": "https://qiita.com/ktdatascience/items/cadf9e3a694aa633a63d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-16T04:26:07.000Z",
@@ -203,39 +231,11 @@
     "contentSnippet": "Reactの基本概念を理解しよう\n\nはじめに\nReactは現在、世界で最も人気のあるフロントエンドライブラリの一つです。この記事では、Reactを初めて学ぶ方に向けて、Reactの基本的な概念をわかりやすく解説します。コンポーネント、JSX、アプリケーション構造など、Re..."
   },
   {
-    "title": "【解説】ドイツの「PQC対応IDカード」とPQC対応パスポートを技術目線で読み解く",
-    "link": "https://qiita.com/satokan3/items/be788891338739d94137?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T17:27:50.000Z",
-    "source": "Qiita",
-    "contentSnippet": "時差ボケがまだ治ってないGMOコネクトでCTOしている菅野（かんの）でございます。\nXのタイムラインを眺めていたらドイツ方面でPQC対応IDカードのPoCに関する記事があったので色々調べてみた結果をまとめましたので読んでみてくださいませ。\n\nはじめに\n2025年11月10日..."
-  },
-  {
     "title": "【セキュリティ】初めてアプリをつくる人がまず抑えておくべき基本的事項",
     "link": "https://qiita.com/ktdatascience/items/72ecd89bef963acb9559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-15T10:30:23.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nWebアプリケーションを開発する際、セキュリティ対策は避けて通れない重要なテーマです。攻撃者は常に脆弱性を探しており、一度セキュリティホールが悪用されると、個人情報の漏洩やシステムの改ざんなど、深刻な被害につながる可能性があります。\n本記事では、Web開発者が最..."
-  },
-  {
-    "title": "コードレビューをゲーム化しました",
-    "link": "https://qiita.com/goofmint/items/a7fd9b4154b226a820eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T05:35:07.000Z",
-    "source": "Qiita",
-    "contentSnippet": "生成AIによるコーディング増加に伴って、コードレビューに注目が集まっています。CodeRabbitは、AIコードレビューを提供していますが、まさにその追い風に乗っています。\nそんなコードレビューですが、適切に指摘できると確信を持って言える人は、そう多くないのではないでしょう..."
-  },
-  {
-    "title": "GPT-5.1とgeoguessrするのがめっちゃ楽しい",
-    "link": "https://qiita.com/autotaker1984/items/b7f77bac83e2d62aa8df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T01:30:33.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGPT-5.1にはAdaptive Reasoningというスキルが導入されました。\nこれは、問題の難易度に応じて推論時間を自動で調整する機能で、\n簡単なタスクはより短い推論時間で、難しいタスクはより長い推論時間で回答するという仕組みです。\nその結果GPT-5...."
-  },
-  {
-    "title": "AIで仕事が奪われる？ いいえ、エンジニア寿命が伸びる時代です",
-    "link": "https://qiita.com/Sakai_path/items/ad337c67fcb336380123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T23:42:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "― 脳の衰えを補完し、経験が生かされ続ける未来 ―\n\nはじめに\nエンジニアという職業には、かつて「スピードがすべて」「新しい技術を覚え続けなければいけない」という空気（というか事実）がありました。\n（いわゆる35歳定年説に繋がる訳ですが、これはマネジメント側にまわる意味もあ..."
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",

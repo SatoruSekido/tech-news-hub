@@ -1,73 +1,73 @@
 [
   {
-    "title": "frameit.dev - fast and free video thumbs, title cards and OG images",
-    "link": "https://dev.to/edspencer/frameitdev-fast-and-free-video-thumbs-title-cards-and-og-images-250m",
-    "pubDate": "Mon, 17 Nov 2025 18:34:03 +0000",
+    "title": "Ringer Movies: The Top 5 Ethan Hawke Movies and a Double Shot of Richard Linklater",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-top-5-ethan-hawke-movies-and-a-double-shot-of-richard-linklater-fbf",
+    "pubDate": "Tue, 18 Nov 2025 02:01:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As a developer who occasionally creates technical content, I've always found thumbnail creation to be a friction point. I don't have a design background, and I don't want to pay for Photoshop or Canva"
+    "contentSnippet": "The Top 5 Ethan Hawke Movies and a Double Shot of Richard Linklater\n\n\nOn this action-packed episode, Sean Fennessey and Amanda Dobbins kick things off reacting to Tom Cruise’s honorary Oscar, a new li"
   },
   {
-    "title": "Go disassembly: branches on arm64 vs amd64",
-    "link": "https://dev.to/thevilledev/go-disassembly-branches-on-arm64-vs-amd64-1dpc",
-    "pubDate": "Mon, 17 Nov 2025 18:18:55 +0000",
+    "title": "Day 6,7,8 and 9 of becoming a full stack developer",
+    "link": "https://dev.to/ujjawal_patel_9baa51e6bf5/day-678-and-9-of-becoming-a-full-stack-developer-2ioi",
+    "pubDate": "Tue, 18 Nov 2025 01:57:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\n\nOn arm64 the negative-branch check typically compiles to a single-bit test + branch (e.g., TBNZ on the sign bit). On amd64 it's a flags-setting ALU instruction (TESTQ) followed by a condition"
+    "contentSnippet": "Completed almost 25 videos from campusx (100 days of ML)\nDropped js for now for some time"
   },
   {
-    "title": "n8n Web Scraping || Part 2: Pagination, Infinite Scroll, Network Capture & More",
-    "link": "https://dev.to/extractdata/n8n-web-scraping-part-2-pagination-infinite-scroll-network-capture-more-365",
-    "pubDate": "Mon, 17 Nov 2025 18:15:13 +0000",
+    "title": "Guided Lab: Azure Storage with Customer-Managed Keys, Retention Policies & Encryption Scopes",
+    "link": "https://dev.to/ojosamuel129/guided-lab-azure-storage-with-customer-managed-keys-retention-policies-encryption-scopes-oc4",
+    "pubDate": "Tue, 18 Nov 2025 01:50:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is Part 2 of our n8n web scraping series with Zyte API. If you’re new here, check out Part 1 first, it covers the basics: fetching pages, extracting HTML with the HTML node, cleaning + normalizin"
+    "contentSnippet": "Introduction\n\nSkilling tasks\nCreate the storage account and managed identity.\nSecure access to the storage account with a key vault and key.\nConfigure the storage account to use the customer managed k"
   },
   {
-    "title": "From-Basics-to-Deployment",
-    "link": "https://dev.to/ian_b838138a27a917398d181/from-basics-to-deployment-204n",
-    "pubDate": "Mon, 17 Nov 2025 18:12:31 +0000",
+    "title": "Dev Server with Iframe Hot Realod for Code Agents",
+    "link": "https://dev.to/gabriel_leez_ebb2b482f9/dev-server-with-iframe-hot-realod-for-code-agents-ocn",
+    "pubDate": "Tue, 18 Nov 2025 01:43:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "💡 About This Project\n\n\nThis repository documents my entire journey to become a professional Junior Full-Stack Developer. It serves as an 11-week, Project-Based Learning (PBL) curriculum focused on bu"
+    "contentSnippet": "View on GitHub"
   },
   {
-    "title": "**A Tale of Two Frameworks: Declarative vs",
-    "link": "https://dev.to/drcarlosruizviquez/a-tale-of-two-frameworks-declarative-vs-2j58",
-    "pubDate": "Mon, 17 Nov 2025 18:05:09 +0000",
+    "title": "CurlDotNet: Bringing curl Superpowers to Every Corner of the .NET 10 / C# Stack",
+    "link": "https://dev.to/iron-software/curldotnet-bringing-curl-superpowers-to-every-corner-of-the-net-10-c-stack-1ol2",
+    "pubDate": "Tue, 18 Nov 2025 01:34:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Tale of Two Frameworks: Declarative vs. Imperative AI\nAs AI continues to advance, autonomous systems have become increasingly sophisticated, with various approaches vying for dominance. In this arti"
+    "contentSnippet": "Preface: A Broken Thread, a Better Story\n\n\nThe conversation that led to this article started in frustration. A team tried to coordinate an API rollout through an endlessly long chat thread. Requiremen"
   },
   {
-    "title": "Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1fdp",
-    "pubDate": "Mon, 17 Nov 2025 18:02:35 +0000",
+    "title": "Cloudy With a Chance of Context: Navigating Change with Context Engineering",
+    "link": "https://dev.to/prince_of_pasta/cloudy-with-a-chance-of-context-navigating-change-with-context-engineering-2hf5",
+    "pubDate": "Tue, 18 Nov 2025 01:34:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "‘Snake Eyes’ Rewatch Rundown\n\n\nIn the latest Ringer Movies episode, Bill Simmons, Sean Fennessey, and Van Lathan dive back into Brian De Palma’s 1998 thriller Snake Eyes. They unpack Nic Cage’s underc"
+    "contentSnippet": "Simply writing code was never the bottleneck for software engineering. Software engineering is much broader than programming and involves the end-to-end delivery of value. While shifts like the DevOps"
   },
   {
-    "title": "Event-Driven Updates with ThingsDB",
-    "link": "https://dev.to/joente/event-driven-updates-with-thingsdb-3in5",
-    "pubDate": "Mon, 17 Nov 2025 18:00:34 +0000",
+    "title": "Build a Voice Chat App Using AWS Chime SDK (React + Node.js)",
+    "link": "https://dev.to/lico/build-a-voice-chat-app-using-aws-chime-sdk-react-nodejs-2828",
+    "pubDate": "Tue, 18 Nov 2025 01:33:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the world of real-time applications, delivering instantaneous updates to users is foundational. From collaborative documents to live chat applications, the ability to instantly reflect changes acro"
+    "contentSnippet": "I’m going to show you how to implement voice chat using the Amazon Chime SDK. It took me a while to get it working the way I wanted, and good information was weirdly hard to find. AI hallucinations di"
   },
   {
-    "title": "Can fine-tuning Large Language Models (LLMs) on a diverse da",
-    "link": "https://dev.to/drcarlosruizviquez/can-fine-tuning-large-language-models-llms-on-a-diverse-da-2ca9",
-    "pubDate": "Mon, 17 Nov 2025 18:00:01 +0000",
+    "title": "Using Advanced C Preprocessor Macros for a Pre-C23/C++20 __VA_OPT__ Substitute",
+    "link": "https://dev.to/pauljlucas/using-advanced-c-preprocessor-macros-for-a-pre-c23c20-vaopt-substitute-43c1",
+    "pubDate": "Tue, 18 Nov 2025 01:27:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Can fine-tuning Large Language Models (LLMs) on a diverse dataset of human-written text be inherently at odds with achieving true human-like intelligence, given that humans learn from experiences and "
+    "contentSnippet": "Introduction\n\n\nIn _Generic in C, I showed how to implement const function overloading in C via this macro:\n#define CONST_OVERLOAD(FN, PTR, ...) \\\n  STATIC_IF( IS_PTR_TO_CONST(PTR),   \\\n    const_ ## F"
   },
   {
-    "title": "Case Study: Como substituí o Zapier, Kommo e Calendly por um stack N8N auto-hospedado e economizei +R$ 600/mês de um cliente",
-    "link": "https://dev.to/pedrohgmello/case-study-como-substitui-o-zapier-kommo-e-calendly-por-um-stack-n8n-auto-hospedado-e-economizei-hpj",
-    "pubDate": "Mon, 17 Nov 2025 17:58:46 +0000",
+    "title": "Diagrama de classes",
+    "link": "https://dev.to/joaopedrov0/diagrama-de-classes-od3",
+    "pubDate": "Tue, 18 Nov 2025 01:24:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "O Problema do Cliente\n\n\nRecentemente, fui procurado por um mentor de negócios (vamos chamá-lo de Marcio). Ele tinha um desafio clássico: precisava de um funil de vendas 100% automatizado para capturar"
+    "contentSnippet": "O básico - Encapsulamento e tipos\n\n\n\nTomando este diagrama com uma única classe como base, podemos afirmar que:\nNomeDaClasse é o nome da classe (uau)\natributo1 é um atributo público do tipo inteiro\n\n\n"
   },
   {
-    "title": "FlexClip AI Video Maker: A Zero-Friction Way to Build Videos with AI in 2025",
-    "link": "https://dev.to/jdkhan/flexclip-ai-video-maker-a-zero-friction-way-to-build-videos-with-ai-in-2025-1lm4",
-    "pubDate": "Mon, 17 Nov 2025 17:57:45 +0000",
+    "title": "RoomSharp: Source-Generated Data Layer for Modern .NET",
+    "link": "https://dev.to/safwa1_dev/roomsharp-source-generated-data-layer-for-modern-net-163c",
+    "pubDate": "Tue, 18 Nov 2025 01:22:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Developers and makers don’t always have time to learn full-scale video editors — but video content still matters for documentation, product demos, launch updates, and tutorials.\nThat’s where FlexClip "
+    "contentSnippet": "If you’ve ever envied Android’s Room stack and wished you could have the same attribute-driven ergonomics, source-generated DAOs, and multi-database freedom in .NET 8/9/10, RoomSharp is for you. It’s "
   },
   {
     "title": "VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援",
@@ -84,11 +84,53 @@
     "contentSnippet": "調査会社のSynergy Research Groupは、グローバルにおける2025年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせたものを指します。 発表によると、第3四半期のクラウドインフラ市場は1年前と比較して28％成長となり、市場規模はグローバルで1069億ドル（1ドル155円換算で約"
   },
   {
+    "title": "作って学ぶ ChatGPT Atlas",
+    "link": "https://zenn.dev/layerx/articles/bcbfa198e1a059",
+    "pubDate": "Mon, 17 Nov 2025 13:22:25 GMT",
+    "source": "Zenn",
+    "contentSnippet": "これは LayerX AI Agent ブログリレー の47日目の記事です。前回は澁井さんの 「AIエージェントで「不要な過去を忘れる」」 でした。明日はバナナ好きで社内で有名なKentaさんがEvalに関する実用的なブログを書いてくれるはずです🍌\nこんにちは、公私共にBet AIしたいTomoaki（@tapioca_pudd）です。\nみなさんは、どのブラウザをお使いでしょうか？\nThe Br"
+  },
+  {
+    "title": "BTCONJP2025_ミニセッションと参加レポート",
+    "link": "https://zenn.dev/genda_jp/articles/d492ad7b0aee25",
+    "pubDate": "Mon, 17 Nov 2025 11:44:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "エッサホイサ伸び代ですね！\nBTCONJP2025でミニセッションでお話しさせていただきましたGENDAのケンシロウです\nhttps://btcon.jp/\nミニセッションは配信は無かったのでこちらでも公開しておきます\nこれを書いている最中にも見れなかった配信は追っていますので、\nセッションのレポというよりは個人的に色々な方と会話した内容のまとめてきな感じになります！\n\n 目次\n\n1.ミニセッショ"
+  },
+  {
+    "title": "シミュレーションコンペで銅メダル2つを獲得してkaggle Expertになった方法",
+    "link": "https://zenn.dev/epicai_techblog/articles/a80959e01d62fd",
+    "pubDate": "Mon, 17 Nov 2025 11:17:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nkaggleで開催されたチェスコンペと強化学習コンペに参加し、銅メダルを獲得しました。\n\nこれらのコンペは、シミュレーションコンペと呼ばれるコンペであり、通常のコンペとは異なります。通常のコンペに比べて、シミュレーションコンペの方が初心者の方やAIに慣れていない方はメダルを獲りやすいと思います。本記事では、その理由やコンペで取り組んだ内容を振り返りながら紹介します。\n\n シミュレーション"
+  },
+  {
+    "title": "鉄鋼業界のAI検収システムのデータ変換モジュールについて",
+    "link": "https://zenn.dev/eversteel_tech/articles/d41ddd33f08d89",
+    "pubDate": "Mon, 17 Nov 2025 10:03:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "注記：本記事に記載されているトラック番号、検収員コード、等級コードなどの具体的な値は、すべて説明用のサンプルデータです。実際の顧客データは一切使用していません。また、記事内のkey名は当社システムで管理している実際のキー（公開可能な範囲）、またはサンプルキーを使用しています。\n\n\n TL;DR\n鉄鋼業界では、各工場が独自のスクラップ管理システムを運用しており、鉄ナビ検収AIと連携する際にデータフォ"
+  },
+  {
+    "title": "【徹底解剖】ChatGPTグループチャットのセキュリティ アレコレ（前編）",
+    "link": "https://qiita.com/satokan3/items/9ed160a261ec9033cc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T08:48:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "みんな、元気？\nGMOコネクトでCTOしている菅野 哲（かんの さとる）です。\n巷で賑わっているChatGPTがグループチャット機能を公開しているってのを見たので調べてみたです。\n\nはじめに\n2025年に入り、ChatGPTのグループチャット機能が業務利用されるケースが急増..."
+  },
+  {
     "title": "作って学ぶAsync Rust",
     "link": "https://zenn.dev/maetin/books/8e1ba228b64dbf",
     "pubDate": "Mon, 17 Nov 2025 03:35:21 GMT",
     "source": "Zenn",
     "contentSnippet": "Rust非同期ランタイムを自作することで非同期処理そのものへの理解を深めることを目的とした本"
+  },
+  {
+    "title": "600ファイル5000箇所の多言語対応を半日で終わらせた話",
+    "link": "https://zenn.dev/dress_code/articles/codebase-transformation",
+    "pubDate": "Mon, 17 Nov 2025 02:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TL;DR\n\n約600ファイル、5,000箇所への中国語追加を「工程分割 + AST 解析」により計6時間（実装4時間、実行2時間）で完了\nAI にファイル単位で処理させると無駄な再計算が発生して非効率だったため、「抽出」「翻訳」「適用」の3工程に分割し AST 解析で効率化を実現\nこの手法の鍵は「コンテキストの制御」で、適切な粒度で問題を分割し AI に必要最小限の情報だけを渡すことで処理速度と"
   },
   {
     "title": "意外と使ってない？SlackのRSS通知設定で最新情報をキャッチアップ！",
@@ -103,6 +145,13 @@
     "pubDate": "Mon, 17 Nov 2025 01:28:20 GMT",
     "source": "Zenn",
     "contentSnippet": "「コードは綺麗に書くべき」\nそんな呪いにかかっていませんか？\n「可読性が正義」「保守性が命」\n確かにその通り。\nでも、そこに縛られすぎて“自由に書く楽しさ”を忘れていないでしょうか。\nコードなんて、本来もっと遊んでいい。\nときには破壊的に、意味不明に、カオスな方向へ振り切ってみてもいい。\n今日はその逆方向へ思いっきり振り切る遊び「逆リファクタリングバトル」というイベントをしたので、その内容を共有し"
+  },
+  {
+    "title": "Linuxで顔認証するPAMモジュール chissu-pam を作った",
+    "link": "https://zenn.dev/sett4/articles/cf330b6044cd49",
+    "pubDate": "Mon, 17 Nov 2025 01:00:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "これは何?\n毎回 sudo やロックスクリーン解除でパスワードを打つのが面倒なので、顔認証の PAM モジュールを自作した話です。Linux Desktop の顔認証といえば Howdy が定番ですが、あえて chissu-pam を作った理由も含めてまとめました。名前の由来は Windows Hello → 日本語のちぃ〜っす → Chissu という流れです。\nMac なら Touch ID、"
   },
   {
     "title": "ReAct 論文と共に読み解く strands-agents/sdk-python の実装",
@@ -133,34 +182,6 @@
     "contentSnippet": "調査会社のガートナーは、2026年に企業や組織にとって重要なインパクトを持つ戦略的テクノロジのトップトレンドを発表しました。 The Top Strategic Technology Trends for 2026 were released last monthLearn how to turn disruption into opportunity, get expert guidance o"
   },
   {
-    "title": "Claude Code on Amazon Bedrock の利用状況の可視化とコスト管理",
-    "link": "https://zenn.dev/aws_japan/articles/2862581173159a",
-    "pubDate": "Sun, 16 Nov 2025 15:23:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n前回のブログにて、「Amazon Bedrock を使用した Claude Code の始め方」をご紹介しました。\nhttps://zenn.dev/aws_japan/articles/c8936e019a16d0\nhttps://zenn.dev/aws_japan/articles/f92ba6fad38654\nAmazon Bedrock は従量課金で気軽に使い始められるメリット"
-  },
-  {
-    "title": "Duolingoが利用しているオープンソースライブラリを分析してみた",
-    "link": "https://zenn.dev/kg_lens/articles/ba9260bee75d06",
-    "pubDate": "Sun, 16 Nov 2025 15:15:41 GMT",
-    "source": "Zenn",
-    "contentSnippet": "先日Xでこのようなポストをしたところ、ありがたいことに思いのほか多くの反響がありました。\n\nせっかくなので、この記事では英語学習アプリDuolingo(デュオリンゴ)が公開しているオープンソースライブラリを確認して、領域毎にどのようなライブラリを活用しているのかを分析してみようと思います。\n参照しているDuolingoの公開記事\nhttps://ja.duolingo.com/attributio"
-  },
-  {
-    "title": "【Claude Code】Skills機能で『AIっぽい』UIから脱却する方法！Anthropic公式もおすすめ",
-    "link": "https://zenn.dev/tmasuyama1114/articles/anthropic_claude_skills_design",
-    "pubDate": "Sun, 16 Nov 2025 14:21:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\nClaude CodeでUIを生成してもらうと、どれも似たような見た目になってしまう。そんな経験はありませんか？\nこういうの👇\n\n私も最初は、どのプロジェクトも似たような紫のグラデーションになってしまい、困った経験があります。しかし、これには技術的な理由があるんです。そして、解決方法もちゃんと用意されています。\nこの記事では、Anthropicの公式ブログで公開された解"
-  },
-  {
-    "title": "「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？",
-    "link": "https://zenn.dev/ukitaka/articles/468d418a5dd8fa",
-    "pubDate": "Sun, 16 Nov 2025 13:50:12 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2要素認証などでよくみる6桁のワンタイムパスワードですが、個人的に何となく気になっていることがありました。\nそれは 同じ数字が並ぶことが多いな と感じるということです。\n\nこの記事では\n\n「同じ数字が並ぶ」という直感が正しいのか？\n何かの目的 (例: 入力を楽にする) があってこうなっているのか？\nワンタイムパスワードの生成アルゴリズム的にこういう偏りが生まれやすくなるのか？\n\nという素朴な疑問を"
-  },
-  {
     "title": "初めて技術書典にサークル参加したら、楽しすぎた件",
     "link": "https://qiita.com/MIDO-ruby7/items/e74914472ca49904b476?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-16T12:56:22.000Z",
@@ -168,32 +189,11 @@
     "contentSnippet": "初めて技術書典にサークル参加したら、楽しすぎた件\n楽しすぎた。\nだから、次の\"初めての参加者\"に向けて感想や気付いたことを雑にまとめてみる。\n\nまずは言いたい。技術書典オフライン、最高だったよ〜\n私は、サークルでの参加だけではなく技術書典オフライン自体が初めてでした！\n楽..."
   },
   {
-    "title": "ClaudeCode使いにもお勧め！AIコーディングエージェントDroid CLIを紹介",
-    "link": "https://zenn.dev/fbbp/articles/ae0284b5138a1a",
-    "pubDate": "Sun, 16 Nov 2025 11:49:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nここ1年で、開発者向けの「AIコーディングエージェント」が一気に増えました。\nその中でもClaude Codeの台頭を機にCLIベースのAIコーディングエージェント方面も盛り上がりを見せています。\nそんな中登場したFactory社のDroid CLIを最近好んで使っているのですが、日本語圏での知名度がまだまだなので、他のコーディングエージェント独自要素を中心に感想も併せて紹介したいと思い"
-  },
-  {
-    "title": "RTX 5090、キミにきめた！",
-    "link": "https://zenn.dev/robustonian/articles/rtx5090_i_choose_you",
-    "pubDate": "Sun, 16 Nov 2025 10:48:55 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n私はMac Studio（M2 Ultra 128GB）、EVO-X2（Ryzen AI Max+ 395 128GB）とRTX 3060を搭載したデスクトップPCを所有しており、RTX 3060機の後継をずっと検討していた。具体的には下記の4つで悩んでいた。\n\nDGX Spark（128GB）：60万〜80万\nRTX 5090（32GB）：40万〜50万\nRTX PRO 6000（96"
-  },
-  {
     "title": "プロンプト・エンジニアリングは、まだ始まってすらいない",
     "link": "https://qiita.com/makotosaekit/items/21990e3703ac721a04d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-16T10:20:01.000Z",
     "source": "Qiita",
     "contentSnippet": "1: マジックワードの死と、科学的検証の夜明\n巷で囁かれる「プロンプト・エンジニアリングの終わり」。\n実際問題、AIの性能向上に伴い、小手先の作文技術の工夫をしなくても、安定して高品質な出力が得られるようになってきています。\nしかしそれは、技術の”死”を意味していません。..."
-  },
-  {
-    "title": "【個人開発】K-POPアイドル同士のダンスチャレンジ動画を探せるサービスを開発しました【Next/Supabase/Cloudflare】",
-    "link": "https://qiita.com/masafumi1073/items/3c84fe5b19fe71ae95b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-16T08:35:24.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nアイドルに限らず「自分の探している動画がなかなか見つからない」という経験をしたことがある方は多いのではないでしょうか。近年ではAI生成コンテンツの増加もあり、目的の動画が埋もれてしまうことも少なくありません。\n今回は、K-POPアイドル同士のコラボダンスチャレン..."
   },
   {
     "title": "【React】コードを書く前の基本概念を理解する",
@@ -224,18 +224,18 @@
     "contentSnippet": "生成AIによるコーディング増加に伴って、コードレビューに注目が集まっています。CodeRabbitは、AIコードレビューを提供していますが、まさにその追い風に乗っています。\nそんなコードレビューですが、適切に指摘できると確信を持って言える人は、そう多くないのではないでしょう..."
   },
   {
-    "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
-    "link": "https://qiita.com/kotmyn0812/items/06f8a52780189457b80d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T17:18:01.000Z",
+    "title": "GPT-5.1とgeoguessrするのがめっちゃ楽しい",
+    "link": "https://qiita.com/autotaker1984/items/b7f77bac83e2d62aa8df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T01:30:33.000Z",
     "source": "Qiita",
-    "contentSnippet": "国土交通省がMCPサーバーを公開\n国土交通省がMCPサーバーを公開した、というニュースを見ました。\nお仕事柄、観光DXの観点で国土交通省のデータを見ることがあるので、気になって調べてみました。\n国土交通データプラットフォーム内に情報が公開されていたので見てみたところ、官公..."
+    "contentSnippet": "はじめに\nGPT-5.1にはAdaptive Reasoningというスキルが導入されました。\nこれは、問題の難易度に応じて推論時間を自動で調整する機能で、\n簡単なタスクはより短い推論時間で、難しいタスクはより長い推論時間で回答するという仕組みです。\nその結果GPT-5...."
   },
   {
-    "title": "【大刷新】PMBOK®の第8版がでた",
-    "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T10:47:29.000Z",
+    "title": "AIで仕事が奪われる？ いいえ、エンジニア寿命が伸びる時代です",
+    "link": "https://qiita.com/Sakai_path/items/ad337c67fcb336380123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T23:42:25.000Z",
     "source": "Qiita",
-    "contentSnippet": "PMBOK®の8版が出ました。\nhttps://www.pmi.org/standards/pmbok\nPMIの規定により内容の転記等はできないのですが、(chatGPT君に聞いたら目次もやめたほうがいいよと言われた)\n大まかな変更点と概要のみ記載していきます。\n\n3行で\n..."
+    "contentSnippet": "― 脳の衰えを補完し、経験が生かされ続ける未来 ―\n\nはじめに\nエンジニアという職業には、かつて「スピードがすべて」「新しい技術を覚え続けなければいけない」という空気（というか事実）がありました。\n（いわゆる35歳定年説に繋がる訳ですが、これはマネジメント側にまわる意味もあ..."
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",

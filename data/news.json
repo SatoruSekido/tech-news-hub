@@ -1,73 +1,80 @@
 [
   {
-    "title": "Ringer Movies: The Top 5 Ethan Hawke Movies and a Double Shot of Richard Linklater",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-the-top-5-ethan-hawke-movies-and-a-double-shot-of-richard-linklater-fbf",
-    "pubDate": "Tue, 18 Nov 2025 02:01:44 +0000",
+    "title": "I Learned React Wrong for 3 Months. Here's What I Wish I Knew on Day 1",
+    "link": "https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp",
+    "pubDate": "Tue, 18 Nov 2025 06:23:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Top 5 Ethan Hawke Movies and a Double Shot of Richard Linklater\n\n\nOn this action-packed episode, Sean Fennessey and Amanda Dobbins kick things off reacting to Tom Cruise’s honorary Oscar, a new li"
+    "contentSnippet": "I spent 3 months learning React.\nBuilt 4 projects. Felt confident. Then got destroyed in my first code review.\n\"Why are you doing it like this?\"\n\n\"This isn't how React works.\"\n\n\"Did you learn this fro"
   },
   {
-    "title": "Day 6,7,8 and 9 of becoming a full stack developer",
-    "link": "https://dev.to/ujjawal_patel_9baa51e6bf5/day-678-and-9-of-becoming-a-full-stack-developer-2ioi",
-    "pubDate": "Tue, 18 Nov 2025 01:57:29 +0000",
+    "title": "# What Exactly Is a Computer Port, What Can Be Found There, and How to See All Existing Ports of a Computer?",
+    "link": "https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426",
+    "pubDate": "Tue, 18 Nov 2025 06:10:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Completed almost 25 videos from campusx (100 days of ML)\nDropped js for now for some time"
+    "contentSnippet": "A Computer Port Defined\n\n\nA computer port is a physical or virtual interface that enables data to flow between a computer and external devices, or between software applications and network connections"
   },
   {
-    "title": "Guided Lab: Azure Storage with Customer-Managed Keys, Retention Policies & Encryption Scopes",
-    "link": "https://dev.to/ojosamuel129/guided-lab-azure-storage-with-customer-managed-keys-retention-policies-encryption-scopes-oc4",
-    "pubDate": "Tue, 18 Nov 2025 01:50:54 +0000",
+    "title": "Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!",
+    "link": "https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l",
+    "pubDate": "Tue, 18 Nov 2025 06:09:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\nSkilling tasks\nCreate the storage account and managed identity.\nSecure access to the storage account with a key vault and key.\nConfigure the storage account to use the customer managed k"
+    "contentSnippet": "Jahari Stampley takes us behind the scenes of his rise to the cutting edge of improvisational jazz piano, from his big win at the Herbie Hancock Institute of Jazz Piano Competition to the breakthrough"
   },
   {
-    "title": "Dev Server with Iframe Hot Realod for Code Agents",
-    "link": "https://dev.to/gabriel_leez_ebb2b482f9/dev-server-with-iframe-hot-realod-for-code-agents-ocn",
-    "pubDate": "Tue, 18 Nov 2025 01:43:05 +0000",
+    "title": "How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation",
+    "link": "https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4",
+    "pubDate": "Tue, 18 Nov 2025 06:09:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "View on GitHub"
+    "contentSnippet": "Have you ever struggled with frustrating voice typing errors that turned your carefully planned message into gibberish? You're not alone. Voice-to-text technology has revolutionized how we communicate"
   },
   {
-    "title": "CurlDotNet: Bringing curl Superpowers to Every Corner of the .NET 10 / C# Stack",
-    "link": "https://dev.to/iron-software/curldotnet-bringing-curl-superpowers-to-every-corner-of-the-net-10-c-stack-1ol2",
-    "pubDate": "Tue, 18 Nov 2025 01:34:29 +0000",
+    "title": "MVC - First part",
+    "link": "https://dev.to/vasudevankumar/mvc-first-part-528j",
+    "pubDate": "Tue, 18 Nov 2025 06:09:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Preface: A Broken Thread, a Better Story\n\n\nThe conversation that led to this article started in frustration. A team tried to coordinate an API rollout through an endlessly long chat thread. Requiremen"
+    "contentSnippet": "The Controller is the most important component because it handles all incoming requests.\nDispatcherServlet(Front controller) --> HandlerMapping(URLs& ref control)--> Actual controller.\nWhen the user s"
   },
   {
-    "title": "Cloudy With a Chance of Context: Navigating Change with Context Engineering",
-    "link": "https://dev.to/prince_of_pasta/cloudy-with-a-chance-of-context-navigating-change-with-context-engineering-2hf5",
-    "pubDate": "Tue, 18 Nov 2025 01:34:19 +0000",
+    "title": "📻 I built an infinite 90s boombox with Gemini + Lyria (and it has an AI DJ!)",
+    "link": "https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8",
+    "pubDate": "Tue, 18 Nov 2025 06:08:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Simply writing code was never the bottleneck for software engineering. Software engineering is much broader than programming and involves the end-to-end delivery of value. While shifts like the DevOps"
+    "contentSnippet": "I recently built an experiment that I honestly can’t stop listening to. It’s a virtual, web-based Boombox. You tune the dial, the station changes, and the music crossfades in real-time.\nBut here is th"
   },
   {
-    "title": "Build a Voice Chat App Using AWS Chime SDK (React + Node.js)",
-    "link": "https://dev.to/lico/build-a-voice-chat-app-using-aws-chime-sdk-react-nodejs-2828",
-    "pubDate": "Tue, 18 Nov 2025 01:33:33 +0000",
+    "title": "200+ BETA users already signed up in just one month 🎉",
+    "link": "https://dev.to/vino123/200-beta-users-already-signed-up-in-just-one-month-5gg8",
+    "pubDate": "Tue, 18 Nov 2025 06:04:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’m going to show you how to implement voice chat using the Amazon Chime SDK. It took me a while to get it working the way I wanted, and good information was weirdly hard to find. AI hallucinations di"
+    "contentSnippet": "After speaking with a ton of founders and developers, we kept hearing the same issues again and again:\n• Requirements start out unclear, causing confusion later\nSo we built Scrum Buddy — an all-in-one"
   },
   {
-    "title": "Using Advanced C Preprocessor Macros for a Pre-C23/C++20 __VA_OPT__ Substitute",
-    "link": "https://dev.to/pauljlucas/using-advanced-c-preprocessor-macros-for-a-pre-c23c20-vaopt-substitute-43c1",
-    "pubDate": "Tue, 18 Nov 2025 01:27:42 +0000",
+    "title": "Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1j33",
+    "pubDate": "Tue, 18 Nov 2025 06:01:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn _Generic in C, I showed how to implement const function overloading in C via this macro:\n#define CONST_OVERLOAD(FN, PTR, ...) \\\n  STATIC_IF( IS_PTR_TO_CONST(PTR),   \\\n    const_ ## F"
+    "contentSnippet": "Bill Simmons and Kyle Brandt dive into the Ringer’s latest Rewatchables episode all about John Hughes’s 1985 teen classic Weird Science, starring Anthony Michael Hall, Kelly LeBrock and Ilan Mitchell-"
   },
   {
-    "title": "Diagrama de classes",
-    "link": "https://dev.to/joaopedrov0/diagrama-de-classes-od3",
-    "pubDate": "Tue, 18 Nov 2025 01:24:31 +0000",
+    "title": "Drowning in Photos? Let a VS Code AI Agent Organize Them for You (No Coding Needed)",
+    "link": "https://dev.to/sharan_babuparamasivamm/drowning-in-photos-let-a-vs-code-ai-agent-organize-them-for-you-no-coding-needed-5ab8",
+    "pubDate": "Tue, 18 Nov 2025 05:48:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "O básico - Encapsulamento e tipos\n\n\n\nTomando este diagrama com uma única classe como base, podemos afirmar que:\nNomeDaClasse é o nome da classe (uau)\natributo1 é um atributo público do tipo inteiro\n\n\n"
+    "contentSnippet": "I have always enjoyed taking photos but like most people today, I am drowning in them. Unlike the good ol’ days where you had a roll of 24 or 36 shots and had to make each one count, nowadays a single"
   },
   {
-    "title": "RoomSharp: Source-Generated Data Layer for Modern .NET",
-    "link": "https://dev.to/safwa1_dev/roomsharp-source-generated-data-layer-for-modern-net-163c",
-    "pubDate": "Tue, 18 Nov 2025 01:22:56 +0000",
+    "title": "Strategies to Analyze Any Size Dataset with LLMs Beyond its Context Limit",
+    "link": "https://dev.to/exson_joseph/strategies-to-analyze-any-size-dataset-with-llms-beyond-its-context-limit-4i37",
+    "pubDate": "Tue, 18 Nov 2025 05:46:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever envied Android’s Room stack and wished you could have the same attribute-driven ergonomics, source-generated DAOs, and multi-database freedom in .NET 8/9/10, RoomSharp is for you. It’s "
+    "contentSnippet": "You've connected your LLM to a SQL database using Model Context Protocol (MCP), run a query, and... oh no. Instead of the manageable 100 rows you expected, you get 50,000 records. Your LLM's context w"
+  },
+  {
+    "title": "RAGをゼロから実装して仕組みを学ぶ【2025年版】",
+    "link": "https://zenn.dev/knowledgesense/articles/2619c6e5918d08",
+    "pubDate": "Tue, 18 Nov 2025 00:01:06 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n今回は、「RAG初心者」に向けた内容です。（プロのみなさん、すみません）\n\n本記事では、RAGの基本的な仕組みを理解するために、Pythonを使ってゼロからRAGを実装する手順をざっくり解説します。\n株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。\n\n この記事は何\nこの記事では、非エンジニアでも、手元のP"
   },
   {
     "title": "VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援",
@@ -105,11 +112,11 @@
     "contentSnippet": "はじめに\nkaggleで開催されたチェスコンペと強化学習コンペに参加し、銅メダルを獲得しました。\n\nこれらのコンペは、シミュレーションコンペと呼ばれるコンペであり、通常のコンペとは異なります。通常のコンペに比べて、シミュレーションコンペの方が初心者の方やAIに慣れていない方はメダルを獲りやすいと思います。本記事では、その理由やコンペで取り組んだ内容を振り返りながら紹介します。\n\n シミュレーション"
   },
   {
-    "title": "鉄鋼業界のAI検収システムのデータ変換モジュールについて",
-    "link": "https://zenn.dev/eversteel_tech/articles/d41ddd33f08d89",
-    "pubDate": "Mon, 17 Nov 2025 10:03:11 GMT",
+    "title": "AIエージェントで障害対応とかにおける調査を少しでも楽にしたい",
+    "link": "https://zenn.dev/makocchan/articles/perf_investigating_agent",
+    "pubDate": "Mon, 17 Nov 2025 09:24:12 GMT",
     "source": "Zenn",
-    "contentSnippet": "注記：本記事に記載されているトラック番号、検収員コード、等級コードなどの具体的な値は、すべて説明用のサンプルデータです。実際の顧客データは一切使用していません。また、記事内のkey名は当社システムで管理している実際のキー（公開可能な範囲）、またはサンプルキーを使用しています。\n\n\n TL;DR\n鉄鋼業界では、各工場が独自のスクラップ管理システムを運用しており、鉄ナビ検収AIと連携する際にデータフォ"
+    "contentSnippet": "はじめに\nこんにちは。間瀬です。\n今回は「AIエージェントを使って障害対応とかにおける調査を少しでも楽にしたい」というテーマで記事をお届けしたいと思います。\n\n システム運用における障害対応と個人的な課題感\n既にシステムを運用されている方であればご存知だと思いますが、障害対応って大変ですよね。\nサービス提供に影響ないことが分かっていたり、調査や復旧の必要がないことがすぐに分かれば早期に解決すること"
   },
   {
     "title": "【徹底解剖】ChatGPTグループチャットのセキュリティ アレコレ（前編）",
@@ -159,13 +166,6 @@
     "pubDate": "Mon, 17 Nov 2025 00:12:05 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、AWS Japan で Solutions Architect をしている yoheikikuta です。\n2025 年は AI エージェントの開発が盛んになっており、多くの人が何かしらの AI エージェントを作ってみたことがあるのではないでしょうか。\n一方で、LLM を用いたエージェントとしてどのような枠組みに基づいて効果的に振る舞っているのか、その枠組みがどのように実装されているの"
-  },
-  {
-    "title": "4ヶ月で電子契約サービスを立ち上げた",
-    "link": "https://zenn.dev/tychy/articles/c4b1c1f4d42f78",
-    "pubDate": "Sun, 16 Nov 2025 15:50:48 GMT",
-    "source": "Zenn",
-    "contentSnippet": "先日、OpenSignという電子契約サービスを公開しました。\nサービスの構想から公開まで約４ヶ月、ほぼすべての修正をCoding Agent経由で行いました。最初の１週間で概ね形になったものをお客様に売れるレベルに引き上げるのに、残りの（ほぼ）４ヶ月が必要だったという感覚でした。\nAI時代に小さな会社が新規サービスを立ち上げた振り返りを書いていきます。\n\n 2025/07/10 自分の課題を解決す"
   },
   {
     "title": "GitHubで最も使われている言語の1位はPythonを抜いてTypeScriptに、最もコントリビュータが増加したOSSは「Zenブラウザ」。Octoverse 2025",

@@ -1,80 +1,80 @@
 [
   {
-    "title": "Upgrading React-Native from Android SDK 34 35: Real Issues, Real Fixes, and What No One Tells You",
-    "link": "https://dev.to/muhammad_harisbaig_1268d/upgrading-react-native-from-android-sdk-34-35-real-issues-real-fixes-and-what-no-one-tells-you-5p9",
-    "pubDate": "Tue, 18 Nov 2025 18:36:21 +0000",
+    "title": "Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web",
+    "link": "https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d",
+    "pubDate": "Wed, 19 Nov 2025 01:51:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Upgrading your React-Native app from Android SDK 34 to 35 should be simple. Google releases a new SDK → you update compileSdkVersion and targetSdkVersion → rebuild → ship update. Right?\nWrong.\n\nWhat I"
+    "contentSnippet": "A Cloudflare consolidou-se como uma das principais plataformas globais de segurança e desempenho para sites, APIs e aplicações. Fundada em 2010, a empresa oferece uma ampla gama de soluções que vão de"
   },
   {
-    "title": "Confessions of a Totally Average Dev: Why Being Kinda Dumb Is the Best Job on Earth ☀️😏",
-    "link": "https://dev.to/om_shree_0709/confessions-of-a-totally-average-dev-why-being-kinda-dumb-is-the-best-job-on-earth-5049",
-    "pubDate": "Tue, 18 Nov 2025 18:31:46 +0000",
+    "title": "Why Modern Data Centers Need a Unified Approach to Firmware, Driver, and OS Validation",
+    "link": "https://dev.to/gopimahesh/why-modern-data-centers-need-a-unified-approach-to-firmware-driver-and-os-validation-44c2",
+    "pubDate": "Wed, 19 Nov 2025 01:47:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey you beautiful disaster of a developer, yes YOU — the one with 47 tabs of Stack Overflow open, a half-eaten burrito on your keyboard, and a nagging suspicion that console.log() is actually doing al"
+    "contentSnippet": "Modern data centers face an increasingly complex challenge: ensuring that servers, storage systems, and networking components operate reliably under rapidly changing workloads. With dozens of firmware"
   },
   {
-    "title": "Cloudflare Went Down - Here's What Really Happened Today",
-    "link": "https://dev.to/mohitb_twt/cloudflare-went-down-heres-what-really-happened-today-54dg",
-    "pubDate": "Tue, 18 Nov 2025 18:30:25 +0000",
+    "title": "I Built Production-Ready 2FA (TOTP) in Node.js + Angular - Here's How",
+    "link": "https://dev.to/kohsin/i-built-production-ready-2fa-totp-in-nodejs-angular-heres-how-1deb",
+    "pubDate": "Wed, 19 Nov 2025 01:47:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today wasn’t normal for the internet.\nOne moment everything was fine.\nChatGPT wasn’t loading.\nIf your apps felt broken, the problem wasn’t with your WiFi.\nAnd when Cloudflare goes down, the internet f"
+    "contentSnippet": "Ever wondered how apps like Google Authenticator work? I recently implemented Two-Factor Authentication (TOTP) in a full-stack app, and I'm sharing everything I learned. No hand-waving, no \"figure out"
   },
   {
-    "title": "Cloudflare Global Network Outage — What Happened & Why It Matters?\r\n\r\nA major disruption hit the internet today as Cloudflare’s Global Network experienced issues, temporarily affecting millions of websites, APIs and CDN-backed services worldwide.",
-    "link": "https://dev.to/cryptowebbuild/cloudflare-global-network-outage-what-happened-why-it-matters-a-major-disruption-hit-the-50im",
-    "pubDate": "Tue, 18 Nov 2025 18:29:10 +0000",
+    "title": "Context - Bridging the AI Agent's Blind Spot",
+    "link": "https://dev.to/elbanic/context-bridging-the-ai-agents-blind-spot-38d6",
+    "pubDate": "Wed, 19 Nov 2025 01:46:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚨 BREAKING: Cloudflare Outage Shook the Entire Internet Today\nSagor Ahamed  ・ Nov 18\n#webdev\n        #cloud\n        #security\n        #news"
+    "contentSnippet": "Context - Bridging the AI Agent's Blind Spot\n\n\nIn the last post, I introduced how to leverage Kiro's Steering feature to automatically record task completion history and use it as persistent context f"
   },
   {
-    "title": "🌍 Cloudflare Global Network Outage — What Happened & Why It Matters?\r\n\r\nA major disruption hit the internet today as Cloudflare’s Global Network experienced issues, temporarily affecting millions of websites, APIs and CDN-backed services worldwide.",
-    "link": "https://dev.to/cryptowebbuild/cloudflare-global-network-outage-what-happened-why-it-matters-a-major-disruption-hit-the-5f7k",
-    "pubDate": "Tue, 18 Nov 2025 18:28:54 +0000",
+    "title": "Maximize Your Online Courses: How Developers Can Create and Sell Technical Courses",
+    "link": "https://dev.to/softwaredeveloperhub01/maximize-your-online-courses-how-developers-can-create-and-sell-technical-courses-10o2",
+    "pubDate": "Wed, 19 Nov 2025 01:38:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚨 BREAKING: Cloudflare Outage Shook the Entire Internet Today\nSagor Ahamed  ・ Nov 18\n#webdev\n        #cloud\n        #security\n        #news"
+    "contentSnippet": "Imagine this: you’re a developer. You’ve built apps, solved bugs, wrangled APIs, tuned performance. You’ve learned a lot — and now you realise there’s a growing crowd of people out there willing to pa"
   },
   {
-    "title": "🚨 BREAKING: Cloudflare Outage Shook the Entire Internet Today",
-    "link": "https://dev.to/cryptowebbuild/breaking-cloudflare-outage-shook-the-entire-internet-today-3feo",
-    "pubDate": "Tue, 18 Nov 2025 18:28:06 +0000",
+    "title": "I Built and Launched a React Native App in 2 Weeks - Here's What I Learned",
+    "link": "https://dev.to/daebeom/i-built-and-launched-a-react-native-app-in-2-weeks-heres-what-i-learned-5bal",
+    "pubDate": "Wed, 19 Nov 2025 01:33:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "**Millions of websites around the world suddenly stopped loading —\n\n\nand the reason was HUGE:\nCloudflare’s Global Network went down.\nThis caused:\nCloudflare just confirmed:\n➡ “Issue identified — a fix"
+    "contentSnippet": "# I Built and Launched a React Native App in 2 Weeks\nToday I launched T or F Game on Product Hunt - a True/False trivia app built with React Native.\nI love trivia games, but was frustrated with:\nIntru"
   },
   {
-    "title": "📝 Fixing BigInt Serialization Error in Node.js + Express (A Beginner-Friendly Explanation)",
-    "link": "https://dev.to/krishnamoorthy_k_0f3f8d93/fixing-bigint-serialization-error-in-nodejs-express-a-beginner-friendly-explanation-5fe6",
-    "pubDate": "Tue, 18 Nov 2025 18:25:04 +0000",
+    "title": "AI Amnesia: Erasing Knowledge Without a Trace",
+    "link": "https://dev.to/arvind_sundararajan/ai-amnesia-erasing-knowledge-without-a-trace-1cnb",
+    "pubDate": "Wed, 19 Nov 2025 01:02:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey everyone! 👋\n👉 BigInt. Yes, you heard that right.\nSQL databases like MySQL/PostgreSQL often use BIGINT for primary keys and timestamps, especially when dealing with large IDs or auto-increment va"
+    "contentSnippet": "AI Amnesia: Erasing Knowledge Without a Trace\n\n\nImagine your AI model accidentally learned something it shouldn't have – sensitive customer data, for example. Current methods for deleting this informa"
   },
   {
-    "title": "Practical Guidelines for Feature Selection",
-    "link": "https://dev.to/dipti_m_2e7ba36c478d1a48a/practical-guidelines-for-feature-selection-5c91",
-    "pubDate": "Tue, 18 Nov 2025 18:17:47 +0000",
+    "title": "Do Something While Someone Logs Into Your Linux System",
+    "link": "https://dev.to/kingyou/do-something-while-someone-logs-into-your-linux-system-3hd4",
+    "pubDate": "Wed, 19 Nov 2025 00:58:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building machine learning models isn’t just about choosing the right algorithm. The real power comes from feeding your model the right features — and removing the ones that add noise, redundancy, or u"
+    "contentSnippet": "Have you ever wanted to automatically run a script, display a message, or execute a command when someone logs into your Linux system? Whether you're setting up a welcome message, initializing environm"
   },
   {
-    "title": "Shared Component Architecture in Angular (When To Abstract and When Not To)",
-    "link": "https://dev.to/avwerosuoghene/shared-component-architecture-in-angular-when-to-abstract-and-when-not-to-27m0",
-    "pubDate": "Tue, 18 Nov 2025 18:15:06 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/grayside/-9kb",
+    "pubDate": "Wed, 19 Nov 2025 00:43:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "One of the easiest traps in frontend development is over–engineering your shared components. You start with one neat reusable button, next thing you know, your shared folder has 40 components, half of"
+    "contentSnippet": "The lumberjack paradox: From theory to practice\nJennifer Davis for Google Cloud ・ Nov 19\n#cloud\n        #ai\n        #programming"
   },
   {
-    "title": "Shared Component Architecture in Angular (When To Abstract and When Not To)",
-    "link": "https://dev.to/avwerosuoghene/shared-component-architecture-in-angular-when-to-abstract-and-when-not-to-10fc",
-    "pubDate": "Tue, 18 Nov 2025 18:15:06 +0000",
+    "title": "The lumberjack paradox: From theory to practice",
+    "link": "https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5",
+    "pubDate": "Wed, 19 Nov 2025 00:42:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "One of the easiest traps in frontend development is over–engineering your shared components. You start with one neat reusable button, next thing you know, your shared folder has 40 components, half of"
+    "contentSnippet": "Previously, I shared my thoughts on Neal Sample’s \"lumberjack paradox\" and the urgent need to build the systems thinkers of tomorrow. I argued that leaders must move beyond simple efficiency and focus"
   },
   {
     "title": "［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025",
     "link": "https://www.publickey1.jp/blog/25/mcp_on_windowsaiwindowsignite_2025.html",
     "pubDate": "2025-11-18T17:01:50.000Z",
     "source": "Publickey",
-    "contentSnippet": "マイクロソフトは日本時間11月19日未明から開催する年次インベント「Microsoft Iginte 2025」で、WindowsによるネイティブなMCP（Model Context Protocol）機能となる「MCP on Windows」のパブリックプレビュー公開を発表しました。 AIエージェントがWindowsを操作可能に MCPとは一般に、生成AIが外部のツールを呼び出して情報を取得した"
+    "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、WindowsによるネイティブなMCP（Model Context Protocol）機能となる「MCP on Windows」のパブリックプレビュー公開を発表しました。 AIエージェントがWindowsを操作可能に MCPとは一般に、生成AIが外部のツールを呼び出して情報を取得したり"
   },
   {
     "title": "［速報］マイクロソフト、ミッションクリティカルに対応するスケーラブルなPostgreSQL「Azure HorizonDB」発表。Ignite 2025",
@@ -88,7 +88,28 @@
     "link": "https://www.publickey1.jp/blog/25/aimicrosoft_agent_365ignite_2025.html",
     "pubDate": "2025-11-18T15:35:35.000Z",
     "source": "Publickey",
-    "contentSnippet": "マイクロソフトは日本時間11月19日未明から開催する年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュア"
+    "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュアに"
+  },
+  {
+    "title": "ローカルで稼働するOpen Notebook を実際に使ってみた",
+    "link": "https://zenn.dev/ryo_tsukuda/articles/d1ae2b44a45709",
+    "pubDate": "Tue, 18 Nov 2025 08:48:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nGoogle社で提供するNotebookLMが人気ですが\nこちらはクラウドで稼働するため機密文章を扱う際、セキュリティの問題が立ちはだかります。\nそういうったセキュリティ問題を解決するため、ローカルで扱えるNotebookが公開されました\nhttps://www.open-notebook.ai/\n今回はそれを試しにつかってみました。\n\n テストで利用する機密データ(サンプル)\n今回テス"
+  },
+  {
+    "title": "ClaudeCodeの拡張思考モード解説",
+    "link": "https://zenn.dev/applibot_tech/articles/6021e75d09bddc",
+    "pubDate": "Tue, 18 Nov 2025 06:33:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "アプリボットでゲームのクライアントエンジニアをしています、杉浦(@siguma_sig)です。\n今回は、ClaudeCode の拡張思考モードについて解説します。\nなんとなくで使っていたり、常時 on にしている方もいらっしゃると思われるため、そもそもどういうものなのか、使い道はどういう場面なのかについてまとめていきます。\n\n この記事でわかること\n\n拡張思考モードの概要と挙動について\n拡張思考モ"
+  },
+  {
+    "title": "ReactのFragmentってなんぞや",
+    "link": "https://zenn.dev/sanyodo/articles/26ad88e3527605",
+    "pubDate": "Tue, 18 Nov 2025 05:59:58 GMT",
+    "source": "Zenn",
+    "contentSnippet": "発端の話\n業務でReactを用いた開発を担当することになり、\nReactド初心者な私が試しに触ってみたところ、以下のようなコードでエラーになりました。\n\njsx\nfunction Hello() {\n  return (\n    <h1>HELLO</h1>\n    <p>WORLD</p>\n  );\n}\n\nJSXのコンポーネントには単一のルート要素を返さなければいけないという制約があり、\n上記の"
   },
   {
     "title": "HTTPS通信とTLSの仕組みを理解する",
@@ -96,6 +117,20 @@
     "pubDate": "2025-11-18T04:44:03.000Z",
     "source": "Qiita",
     "contentSnippet": "株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。\n※ シンシアにおける働き方の様子はこちら\n\nシンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。\nその経験を通し、実務未経験者の方にぜひ身につけ..."
+  },
+  {
+    "title": "AI-DLCワークショップ体験記：3日間で学んだAI駆動開発の実践と課題",
+    "link": "https://zenn.dev/dip_techblog/articles/b0dfe50710267f",
+    "pubDate": "Tue, 18 Nov 2025 00:30:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！ディップ株式会社スポットエンジニアリング部で、スポットバイトルの開発を担当している町永俊介です。\n本日は、AI-DLCという開発手法を学ぶために、AWSさんにワークショップを開催していただきました！\nAI中心の開発フローを体験しながら、実際の業務課題に取り組む貴重な機会となりましたので、その内容をレポートします。\n\n ワークショップのきっかけ\n今回のワークショップのきっかけは、2025"
+  },
+  {
+    "title": "なぜMath.random()でパスワードを生成してはいけないのか：Web Crypto APIで学ぶセキュアな乱数生成",
+    "link": "https://zenn.dev/nabewata/articles/128d4cadc90860",
+    "pubDate": "Tue, 18 Nov 2025 00:07:54 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nパスワードジェネレーターを実装する際、多くの初心者がMath.random()を使ってしまいます。一見動作するように見えますが、セキュリティ上の重大な欠陥があります。\nこの記事では、Next.js + TypeScriptでセキュアなパスワードジェネレーターを実装しながら、暗号学的に安全な乱数生成の重要性を学んでいきます。\n\n Math.random()の問題点\n簡単なパスワード生成を考"
   },
   {
     "title": "RAGをゼロから実装して仕組みを学ぶ【2025年版】",
@@ -110,13 +145,6 @@
     "pubDate": "2025-11-17T22:31:11.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nQiitaの皆さん、こんにちは。仕事のチームメンバーとなら、お互いの意見が違っても、割と「建設的な意見交換」ができますよね。\nなのに、相手が家族だと、なぜかそれが難しくなる！ そんな経験、ありませんか？（私はめっちゃあります）\n\nもう限界！家事分担を見直したい！..."
-  },
-  {
-    "title": "😱 恐怖！ChatGPTは「忖度」する 〜私がAIに「時給1500円の雑魚」と判定させた誘導実験（実話）〜",
-    "link": "https://zenn.dev/taka4rest/articles/9477a26b8c2e0b",
-    "pubDate": "Mon, 17 Nov 2025 16:22:24 GMT",
-    "source": "Zenn",
-    "contentSnippet": "😱 恐怖！ChatGPTは「忖度」する 〜私がAIに「時給1500円の雑魚」と判定させた誘導実験（実話）〜\nこんにちは！以前、「まずはフォーマットを作りましょう」という罠について記事を書きましたが、今回はさらに深刻な問題を発見してしまいました。\nChatGPTはユーザーの意見に同調しすぎるという特性があります。\n「そんなこと知ってるよ」と思われるかもしれません。しかし、実際にどれだけ影響を受ける"
   },
   {
     "title": "VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援",
@@ -140,18 +168,18 @@
     "contentSnippet": "0. はじめに\nタイピングという技術についての安易なTipsを期待してこの記事を読む人は、がっかりするだろう。\nこの記事は、そうした期待を裏切って読者にこう訴える。\n\nノートPCに備え付けらた、または会社から貸与されたキーボードに満足してはならない\n訓令式ローマ字、ヘボン..."
   },
   {
-    "title": "作って学ぶ ChatGPT Atlas",
-    "link": "https://zenn.dev/layerx/articles/bcbfa198e1a059",
-    "pubDate": "Mon, 17 Nov 2025 13:22:25 GMT",
-    "source": "Zenn",
-    "contentSnippet": "これは LayerX AI Agent ブログリレー の47日目の記事です。前回は澁井さんの 「AIエージェントで「不要な過去を忘れる」」 でした。明日はバナナ好きで社内で有名なKentaさんがEvalに関する実用的なブログを書いてくれるはずです🍌\nこんにちは、公私共にBet AIしたいTomoaki（@tapioca_pudd）です。\nみなさんは、どのブラウザをお使いでしょうか？\nThe Br"
+    "title": "【libxml2】libxml2プロジェクトは放棄されました",
+    "link": "https://qiita.com/rana_kualu/items/29227778c0cb9ecd890f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T11:43:37.000Z",
+    "source": "Qiita",
+    "contentSnippet": "先日libxml2のリポジトリに、楽しいテキストが追加されていました。\n\nThis is open-source software written by hobbyists, maintained by a single volunteer, badly tested, ..."
   },
   {
-    "title": "BTCONJP2025_ミニセッションと参加レポート",
-    "link": "https://zenn.dev/genda_jp/articles/d492ad7b0aee25",
-    "pubDate": "Mon, 17 Nov 2025 11:44:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "エッサホイサ伸び代ですね！\nBTCONJP2025でミニセッションでお話しさせていただきましたGENDAのケンシロウです\nhttps://btcon.jp/\nミニセッションは配信は無かったのでこちらでも公開しておきます\nこれを書いている最中にも見れなかった配信は追っていますので、\nセッションのレポというよりは個人的に色々な方と会話した内容のまとめてきな感じになります！\n\n 目次\n\n1.ミニセッショ"
+    "title": "僕のClaude Code Plugin紹介 ~skills/create-git-worktree~",
+    "link": "https://qiita.com/getty104/items/4716e77cbadd901ea11d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T11:32:15.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事は何\nClaude Codeには Pluginという形でカスタムコマンド, サブエージェント, Skills, MCP, Hooksなどをひとつのパッケージとして配布できる機能があります。\n\n僕はこのPlugin機能を用いて、自身の環境をPluginとしてGi..."
   },
   {
     "title": "シミュレーションコンペで銅メダル2つを獲得してkaggle Expertになった方法",
@@ -159,13 +187,6 @@
     "pubDate": "Mon, 17 Nov 2025 11:17:01 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nkaggleで開催されたチェスコンペと強化学習コンペに参加し、銅メダルを獲得しました。\n\nこれらのコンペは、シミュレーションコンペと呼ばれるコンペであり、通常のコンペとは異なります。通常のコンペに比べて、シミュレーションコンペの方が初心者の方やAIに慣れていない方はメダルを獲りやすいと思います。本記事では、その理由やコンペで取り組んだ内容を振り返りながら紹介します。\n\n シミュレーション"
-  },
-  {
-    "title": "【徹底解剖】ChatGPTグループチャットのセキュリティ アレコレ（前編）",
-    "link": "https://qiita.com/satokan3/items/9ed160a261ec9033cc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T08:48:52.000Z",
-    "source": "Qiita",
-    "contentSnippet": "みんな、元気？\nGMOコネクトでCTOしている菅野 哲（かんの さとる）です。\n巷で賑わっているChatGPTがグループチャット機能を公開しているってのを見たので調べてみたです。\n\nはじめに\n2025年に入り、ChatGPTのグループチャット機能が業務利用されるケースが急増..."
   },
   {
     "title": "【TOON】JSON時代の終わり？ 話題のTOONを解説してみた",
@@ -196,20 +217,6 @@
     "contentSnippet": "「コードは綺麗に書くべき」\nそんな呪いにかかっていませんか？\n「可読性が正義」「保守性が命」\n確かにその通り。\nでも、そこに縛られすぎて“自由に書く楽しさ”を忘れていないでしょうか。\nコードなんて、本来もっと遊んでいい。\nときには破壊的に、意味不明に、カオスな方向へ振り切ってみてもいい。\n今日はその逆方向へ思いっきり振り切る遊び「逆リファクタリングバトル」というイベントをしたので、その内容を共有し"
   },
   {
-    "title": "Linuxで顔認証するPAMモジュール chissu-pam を作った",
-    "link": "https://zenn.dev/sett4/articles/cf330b6044cd49",
-    "pubDate": "Mon, 17 Nov 2025 01:00:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "これは何?\n毎回 sudo やロックスクリーン解除でパスワードを打つのが面倒なので、顔認証の PAM モジュールを自作した話です。Linux Desktop の顔認証といえば Howdy が定番ですが、あえて chissu-pam を作った理由も含めてまとめました。名前の由来は Windows Hello → 日本語のちぃ〜っす → Chissu という流れです。\nMac なら Touch ID、"
-  },
-  {
-    "title": "ReAct 論文と共に読み解く strands-agents/sdk-python の実装",
-    "link": "https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents",
-    "pubDate": "Mon, 17 Nov 2025 00:12:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、AWS Japan で Solutions Architect をしている yoheikikuta です。\n2025 年は AI エージェントの開発が盛んになっており、多くの人が何かしらの AI エージェントを作ってみたことがあるのではないでしょうか。\n一方で、LLM を用いたエージェントとしてどのような枠組みに基づいて効果的に振る舞っているのか、その枠組みがどのように実装されているの"
-  },
-  {
     "title": "GitHubで最も使われている言語の1位はPythonを抜いてTypeScriptに、最もコントリビュータが増加したOSSは「Zenブラウザ」。Octoverse 2025",
     "link": "https://www.publickey1.jp/blog/25/github1pythontypescriptosszenoctverse_2025.html",
     "pubDate": "2025-11-16T15:33:49.000Z",
@@ -238,11 +245,11 @@
     "contentSnippet": "1: マジックワードの死と、科学的検証の夜明\n巷で囁かれる「プロンプト・エンジニアリングの終わり」。\n実際問題、AIの性能向上に伴い、小手先の作文技術の工夫をしなくても、安定して高品質な出力が得られるようになってきています。\nしかしそれは、技術の”死”を意味していません。..."
   },
   {
-    "title": "中学生がAndroidアプリ開発してGooglePlayで公開した話",
-    "link": "https://qiita.com/nekogakure/items/f1accd7aeeec5a3a7cdf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-16T04:39:23.000Z",
+    "title": "Windowsでずっと開発してた人がMacで働くためのTips",
+    "link": "https://qiita.com/suecideTech/items/c00e6a7c03c4fc388ba1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T06:28:12.000Z",
     "source": "Qiita",
-    "contentSnippet": "こんにちは。中2のねこがくれです。\n今回、Androidアプリを開発し、GooglePlayでリリースすることができました。\nその備忘録的なものです\nまぁごゆるりとご覧ください（？）\n\nアプリの概要\nこのアプリのコンセプトは「その場で、即座に、簡単に今の心情を保存する」とい..."
+    "contentSnippet": "まえおき\n仕事は10年間ずっとWindowsで開発してましたが、転職を機にMacbookで開発し始めました。\n学生時代はMBPだったのでちょっとは慣れてますが...\n操作性の違いでパフォーマンスを落とさないため、導入したツールや設定をメモしておきます。\n\n操作性\n\nウィン..."
   },
   {
     "title": "【React】コードを書く前の基本概念を理解する",
@@ -250,13 +257,6 @@
     "pubDate": "2025-11-16T04:26:07.000Z",
     "source": "Qiita",
     "contentSnippet": "Reactの基本概念を理解しよう\n\nはじめに\nReactは現在、世界で最も人気のあるフロントエンドライブラリの一つです。この記事では、Reactを初めて学ぶ方に向けて、Reactの基本的な概念をわかりやすく解説します。コンポーネント、JSX、アプリケーション構造など、Re..."
-  },
-  {
-    "title": "【セキュリティ】初めてアプリをつくる人がまず抑えておくべき基本的事項",
-    "link": "https://qiita.com/ktdatascience/items/72ecd89bef963acb9559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T10:30:23.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nWebアプリケーションを開発する際、セキュリティ対策は避けて通れない重要なテーマです。攻撃者は常に脆弱性を探しており、一度セキュリティホールが悪用されると、個人情報の漏洩やシステムの改ざんなど、深刻な被害につながる可能性があります。\n本記事では、Web開発者が最..."
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",

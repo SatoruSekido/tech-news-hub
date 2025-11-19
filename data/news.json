@@ -1,73 +1,87 @@
 [
   {
-    "title": "Cloudflare: Uma Plataforma Essencial para Segurança, Desempenho e Confiabilidade na Web",
-    "link": "https://dev.to/ikauedev/cloudflare-uma-plataforma-essencial-para-seguranca-desempenho-e-confiabilidade-na-web-2o2d",
-    "pubDate": "Wed, 19 Nov 2025 01:51:31 +0000",
+    "title": "C# Collections Quick Reference",
+    "link": "https://dev.to/recurpixel/c-collections-quick-reference-k1h",
+    "pubDate": "Wed, 19 Nov 2025 06:33:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Cloudflare consolidou-se como uma das principais plataformas globais de segurança e desempenho para sites, APIs e aplicações. Fundada em 2010, a empresa oferece uma ampla gama de soluções que vão de"
-  },
-  {
-    "title": "Why Modern Data Centers Need a Unified Approach to Firmware, Driver, and OS Validation",
-    "link": "https://dev.to/gopimahesh/why-modern-data-centers-need-a-unified-approach-to-firmware-driver-and-os-validation-44c2",
-    "pubDate": "Wed, 19 Nov 2025 01:47:30 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Modern data centers face an increasingly complex challenge: ensuring that servers, storage systems, and networking components operate reliably under rapidly changing workloads. With dozens of firmware"
-  },
-  {
-    "title": "I Built Production-Ready 2FA (TOTP) in Node.js + Angular - Here's How",
-    "link": "https://dev.to/kohsin/i-built-production-ready-2fa-totp-in-nodejs-angular-heres-how-1deb",
-    "pubDate": "Wed, 19 Nov 2025 01:47:13 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Ever wondered how apps like Google Authenticator work? I recently implemented Two-Factor Authentication (TOTP) in a full-stack app, and I'm sharing everything I learned. No hand-waving, no \"figure out"
-  },
-  {
-    "title": "Context - Bridging the AI Agent's Blind Spot",
-    "link": "https://dev.to/elbanic/context-bridging-the-ai-agents-blind-spot-38d6",
-    "pubDate": "Wed, 19 Nov 2025 01:46:00 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Context - Bridging the AI Agent's Blind Spot\n\n\nIn the last post, I introduced how to leverage Kiro's Steering feature to automatically record task completion history and use it as persistent context f"
-  },
-  {
-    "title": "Maximize Your Online Courses: How Developers Can Create and Sell Technical Courses",
-    "link": "https://dev.to/softwaredeveloperhub01/maximize-your-online-courses-how-developers-can-create-and-sell-technical-courses-10o2",
-    "pubDate": "Wed, 19 Nov 2025 01:38:00 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Imagine this: you’re a developer. You’ve built apps, solved bugs, wrangled APIs, tuned performance. You’ve learned a lot — and now you realise there’s a growing crowd of people out there willing to pa"
-  },
-  {
-    "title": "I Built and Launched a React Native App in 2 Weeks - Here's What I Learned",
-    "link": "https://dev.to/daebeom/i-built-and-launched-a-react-native-app-in-2-weeks-heres-what-i-learned-5bal",
-    "pubDate": "Wed, 19 Nov 2025 01:33:54 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "# I Built and Launched a React Native App in 2 Weeks\nToday I launched T or F Game on Product Hunt - a True/False trivia app built with React Native.\nI love trivia games, but was frustrated with:\nIntru"
-  },
-  {
-    "title": "AI Amnesia: Erasing Knowledge Without a Trace",
-    "link": "https://dev.to/arvind_sundararajan/ai-amnesia-erasing-knowledge-without-a-trace-1cnb",
-    "pubDate": "Wed, 19 Nov 2025 01:02:05 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "AI Amnesia: Erasing Knowledge Without a Trace\n\n\nImagine your AI model accidentally learned something it shouldn't have – sensitive customer data, for example. Current methods for deleting this informa"
-  },
-  {
-    "title": "Do Something While Someone Logs Into Your Linux System",
-    "link": "https://dev.to/kingyou/do-something-while-someone-logs-into-your-linux-system-3hd4",
-    "pubDate": "Wed, 19 Nov 2025 00:58:49 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Have you ever wanted to automatically run a script, display a message, or execute a command when someone logs into your Linux system? Whether you're setting up a welcome message, initializing environm"
+    "contentSnippet": "Note: Created for my personal use. Used Claude AI for formatting and refinement. You might not even want to read it.\nType: Fixed-size, indexed, immutable length\nint[] arr1 = new int[5];               "
   },
   {
     "title": "[Boost]",
-    "link": "https://dev.to/grayside/-9kb",
-    "pubDate": "Wed, 19 Nov 2025 00:43:10 +0000",
+    "link": "https://dev.to/chetan_hirapara_c3830e396/-212m",
+    "pubDate": "Wed, 19 Nov 2025 06:26:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The lumberjack paradox: From theory to practice\nJennifer Davis for Google Cloud ・ Nov 19\n#cloud\n        #ai\n        #programming"
+    "contentSnippet": "Advanced Strands Agents with MCP Servers: Real-World Automation Examples\nChetan Hirapara ・ Sep 22\n#aws\n        #agenticai\n        #ai\n        #agentaichallenge"
   },
   {
-    "title": "The lumberjack paradox: From theory to practice",
-    "link": "https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5",
-    "pubDate": "Wed, 19 Nov 2025 00:42:14 +0000",
+    "title": "How Our 3-Person Team Built a “Big Project” — And Why Textideo Became the Tool We Needed",
+    "link": "https://dev.to/duke897/how-our-3-person-team-built-a-big-project-and-why-textideo-became-the-tool-we-needed-22hc",
+    "pubDate": "Wed, 19 Nov 2025 06:26:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Previously, I shared my thoughts on Neal Sample’s \"lumberjack paradox\" and the urgent need to build the systems thinkers of tomorrow. I argued that leaders must move beyond simple efficiency and focus"
+    "contentSnippet": "Most developers assume that only well-funded teams with 10+ engineers can build something meaningful.\nBut sometimes, a tiny team with the right motivation can ship something surprisingly big.\nWe’re a "
+  },
+  {
+    "title": "Leaders – Wake Up and Smell the Coffee",
+    "link": "https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf",
+    "pubDate": "Wed, 19 Nov 2025 06:13:24 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Exposing the undervaluation crisis\nThe bid and proposal profession is in crisis. Not because it lacks expertise, but because it remains widely misunderstood. Too often, proposal professionals are trea"
+  },
+  {
+    "title": "When I Grow Up, I Want to Be a Bid Writer!",
+    "link": "https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7",
+    "pubDate": "Wed, 19 Nov 2025 06:08:12 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The origins of procurement date to around 3,000 BC when Egyptians were scribing orders for the two million limestone and granite blocks needed to build the Great Pyramid. By the 15th century, the firs"
+  },
+  {
+    "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
+    "link": "https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11",
+    "pubDate": "Wed, 19 Nov 2025 06:03:28 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "はじめに\n\n\n開発ツールの月額料金、気づいたら結構な金額になっていませんか？Postman、GitHub、Notion...便利なツールほど、チーム規模が大きくなると課金額も膨らんでいきます。\n実は今、そんな商用ツールに匹敵する、いやそれ以上の機能を持つオープンソース代替が続々と登場しています。しかも、単なる「無料版」ではなく、データ管理の自由度やカスタマイズ性で商用製品を上回るケースも少なくあり"
+  },
+  {
+    "title": "From localStorage to Database: Understanding the MongoDB Structure❗",
+    "link": "https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21",
+    "pubDate": "Wed, 19 Nov 2025 05:55:18 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Intro\n\n\nHey everyone!🤗 If you are a developer who is just starting to work with databases, or perhaps you already know the basics and are looking for a recap or a more in-deph understanding, I hope t"
+  },
+  {
+    "title": "Python by Structure: Match Statements and Pattern Guards",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-match-statements-and-pattern-guards-1a68",
+    "pubDate": "Wed, 19 Nov 2025 05:52:29 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Timothy stared at a function that had grown into a monster of nested if/elif statements. \"Margaret, this works, but it's getting hard to read. I'm checking the type, then the value, then special cases"
+  },
+  {
+    "title": "Introduction to Swarm: Creating Custom Plugins",
+    "link": "https://dev.to/genyus/introduction-to-swarm-creating-custom-plugins-5829",
+    "pubDate": "Wed, 19 Nov 2025 05:50:30 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Part 1: An Extensible Typescript Code Generation Framework\n\nPart 2: Building Full-Stack Apps With Wasp\n\nPart 3: Creating a NextJS Plugin\n\n\n\nIn Part 2, we explored how Swarm's Wasp plugin accelerates W"
+  },
+  {
+    "title": "tp5获取网站的域名host带http",
+    "link": "https://dev.to/cheng_qian_8382fdc61158ce/tp5huo-qu-wang-zhan-de-yu-ming-hostdai-http-2m25",
+    "pubDate": "Wed, 19 Nov 2025 05:47:18 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "$http = (isHTTPS() == true ? \"https://\" : \"http://\") . $_SERVER['HTTP_HOST'];\n//获得   https://www.mantools.top"
+  },
+  {
+    "title": "Google Antigravityファーストインプレッション",
+    "link": "https://zenn.dev/ukiuni/articles/447549118796b1",
+    "pubDate": "Tue, 18 Nov 2025 22:54:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Gemini3とともに、GoogleのAIエディタ、Antigravityが発表されました。早速触っていきます。\nhttps://antigravity.google/download\nからダウンロードできます。\n\n各OSの手順で通例通りインストールして、起動するとセットアップ画面になります。\n\n他エディタから設定をImportできるようです。後続でテーマの内容を連携できたりするようです。\n\n珍し"
+  },
+  {
+    "title": "Claude Skillsで簡単にApple風デザインを自動生成！AIっぽいデザインから脱却する方法",
+    "link": "https://zenn.dev/tmasuyama1114/articles/apple_design_skills",
+    "pubDate": "Tue, 18 Nov 2025 19:54:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、とまだです。\n「AI にデザインを任せると AI っぽさが出る」\n「サイト全体に一貫性のあるデザインを作りたい」\nそんな悩みを解決できるのが、Claude Code Skillsという機能です。\n先日の記事でも触れましたが、Anthropic公式もおすすめしているデザインの改善方法となります。\nhttps://zenn.dev/tmasuyama1114/articles/anthro"
   },
   {
     "title": "［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025",
@@ -91,11 +105,25 @@
     "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュアに"
   },
   {
+    "title": "AIエージェントを開発するPdMがやることをプロンプトを書きながら考える",
+    "link": "https://zenn.dev/layerx/articles/671bdaf4aa0a32",
+    "pubDate": "Tue, 18 Nov 2025 14:45:14 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こちらはLayerX AI エージェントブログリレー48日目の記事です。\nこんにちは、CEO室でAIエージェント開発のPdMをしているKenta Watanabeです。昨日はTomoakiさんの作って学ぶ ChatGPT Atlas\nでした。Evalに関する実用的な記事になる予定だったんですが、ちょっと別テーマで書きたいことが出てきたのでテーマを変えてみます。これまでのAIエージェントブログリレー"
+  },
+  {
     "title": "ローカルで稼働するOpen Notebook を実際に使ってみた",
     "link": "https://zenn.dev/ryo_tsukuda/articles/d1ae2b44a45709",
     "pubDate": "Tue, 18 Nov 2025 08:48:01 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nGoogle社で提供するNotebookLMが人気ですが\nこちらはクラウドで稼働するため機密文章を扱う際、セキュリティの問題が立ちはだかります。\nそういうったセキュリティ問題を解決するため、ローカルで扱えるNotebookが公開されました\nhttps://www.open-notebook.ai/\n今回はそれを試しにつかってみました。\n\n テストで利用する機密データ(サンプル)\n今回テス"
+  },
+  {
+    "title": "基本無料のAIチャットリリースで確信したGPT-OSSこそ真のゲームチェンジャーといえる理由",
+    "link": "https://zenn.dev/collections/articles/ada3a73f0af8bf",
+    "pubDate": "Tue, 18 Nov 2025 08:08:40 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本日、nidomi というGPT-OSSを使った基本無料のAIチャットボットをリリースしました!! 🎊\nhttps://x.com/zane_jpn/status/1990691947887939870\nん・・GPT-OSSはそもそも無料なのでは！？\nというツッコミを受けそうなので、正確に言いますと\nクラウドベンダーが提供するGPT-OSSモデルを採用することで、GPUの恩恵を受けつつ付帯する無"
   },
   {
     "title": "ClaudeCodeの拡張思考モード解説",
@@ -119,18 +147,11 @@
     "contentSnippet": "株式会社シンシアでは、実務未経験のエンジニアの方や学生エンジニアインターンを採用し一緒に働いています。\n※ シンシアにおける働き方の様子はこちら\n\nシンシアでは、年間100人程度の実務未経験の方が応募し技術面接を受けます。\nその経験を通し、実務未経験者の方にぜひ身につけ..."
   },
   {
-    "title": "AI-DLCワークショップ体験記：3日間で学んだAI駆動開発の実践と課題",
-    "link": "https://zenn.dev/dip_techblog/articles/b0dfe50710267f",
-    "pubDate": "Tue, 18 Nov 2025 00:30:01 GMT",
+    "title": "SPA×モノリポ構成での継続的デプロイ実装 - 完全自動化に向けた取り組み",
+    "link": "https://zenn.dev/gvatech_blog/articles/2eb1c91aff2468",
+    "pubDate": "Tue, 18 Nov 2025 04:07:33 GMT",
     "source": "Zenn",
-    "contentSnippet": "こんにちは！ディップ株式会社スポットエンジニアリング部で、スポットバイトルの開発を担当している町永俊介です。\n本日は、AI-DLCという開発手法を学ぶために、AWSさんにワークショップを開催していただきました！\nAI中心の開発フローを体験しながら、実際の業務課題に取り組む貴重な機会となりましたので、その内容をレポートします。\n\n ワークショップのきっかけ\n今回のワークショップのきっかけは、2025"
-  },
-  {
-    "title": "なぜMath.random()でパスワードを生成してはいけないのか：Web Crypto APIで学ぶセキュアな乱数生成",
-    "link": "https://zenn.dev/nabewata/articles/128d4cadc90860",
-    "pubDate": "Tue, 18 Nov 2025 00:07:54 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nパスワードジェネレーターを実装する際、多くの初心者がMath.random()を使ってしまいます。一見動作するように見えますが、セキュリティ上の重大な欠陥があります。\nこの記事では、Next.js + TypeScriptでセキュアなパスワードジェネレーターを実装しながら、暗号学的に安全な乱数生成の重要性を学んでいきます。\n\n Math.random()の問題点\n簡単なパスワード生成を考"
+    "contentSnippet": "はじめに\n本記事では、SPA（Single Page Application）のプロダクト(モノリポ構成)において、デプロイ自動化を行なったのでその実装事例をご紹介したいと思います。\n複数のコンポーネントが存在する構成で全ての要素のデプロイを完全に自動化しつつ、ダウンタイムが発生しないようデプロイ順序も制御する必要がありましたが、あまり参考になる記事が無かったので、どのような構成で解決したかご紹介"
   },
   {
     "title": "RAGをゼロから実装して仕組みを学ぶ【2025年版】",
@@ -145,6 +166,13 @@
     "pubDate": "2025-11-17T22:31:11.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nQiitaの皆さん、こんにちは。仕事のチームメンバーとなら、お互いの意見が違っても、割と「建設的な意見交換」ができますよね。\nなのに、相手が家族だと、なぜかそれが難しくなる！ そんな経験、ありませんか？（私はめっちゃあります）\n\nもう限界！家事分担を見直したい！..."
+  },
+  {
+    "title": "恥ずかしながらCSSのコンテナクエリを知らなかったので調べてみた",
+    "link": "https://zenn.dev/stellarcreate/articles/css-container-query-responsive-design",
+    "pubDate": "Mon, 17 Nov 2025 21:30:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本記事のサマリ\n先日Xでコンテナクエリという言葉を見かけて「何それ？」となった私が、調べてみたらこれがかなり便利そうだったので共有します。CSSコンテナクエリは「画面サイズ」ではなく「親要素のサイズ」に基づいてスタイルを切り替える仕組みで、2022年後半から主要ブラウザで実装されていました。知らなかった...というより、気づいたら使える状態になっていた、というのが正直なところです。\nこれまでレスポ"
   },
   {
     "title": "VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援",
@@ -182,39 +210,11 @@
     "contentSnippet": "この記事は何\nClaude Codeには Pluginという形でカスタムコマンド, サブエージェント, Skills, MCP, Hooksなどをひとつのパッケージとして配布できる機能があります。\n\n僕はこのPlugin機能を用いて、自身の環境をPluginとしてGi..."
   },
   {
-    "title": "シミュレーションコンペで銅メダル2つを獲得してkaggle Expertになった方法",
-    "link": "https://zenn.dev/epicai_techblog/articles/a80959e01d62fd",
-    "pubDate": "Mon, 17 Nov 2025 11:17:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nkaggleで開催されたチェスコンペと強化学習コンペに参加し、銅メダルを獲得しました。\n\nこれらのコンペは、シミュレーションコンペと呼ばれるコンペであり、通常のコンペとは異なります。通常のコンペに比べて、シミュレーションコンペの方が初心者の方やAIに慣れていない方はメダルを獲りやすいと思います。本記事では、その理由やコンペで取り組んだ内容を振り返りながら紹介します。\n\n シミュレーション"
-  },
-  {
     "title": "【TOON】JSON時代の終わり？ 話題のTOONを解説してみた",
     "link": "https://qiita.com/shanks665/items/a5ec31706af9ffffc491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-17T04:19:58.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nLLMのAPIコストが気になったことはないだろうか。プロンプトに大量のデータを渡すと、トークン数が爆発してコストもレスポンスも悪化する。\nその原因の一つがJSONだ。JSONは人間が読みやすいように設計されているため、記号や繰り返しが多い。LLMにとっては無駄が..."
-  },
-  {
-    "title": "作って学ぶAsync Rust",
-    "link": "https://zenn.dev/maetin/books/8e1ba228b64dbf",
-    "pubDate": "Mon, 17 Nov 2025 03:35:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Rust非同期ランタイムを自作することで非同期処理そのものへの理解を深めることを目的とした本"
-  },
-  {
-    "title": "600ファイル5000箇所の多言語対応を半日で終わらせた話",
-    "link": "https://zenn.dev/dress_code/articles/codebase-transformation",
-    "pubDate": "Mon, 17 Nov 2025 02:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TL;DR\n\n約600ファイル、5,000箇所への中国語追加を「工程分割 + AST 解析」により計6時間（実装4時間、実行2時間）で完了\nAI にファイル単位で処理させると無駄な再計算が発生して非効率だったため、「抽出」「翻訳」「適用」の3工程に分割し AST 解析で効率化を実現\nこの手法の鍵は「コンテキストの制御」で、適切な粒度で問題を分割し AI に必要最小限の情報だけを渡すことで処理速度と"
-  },
-  {
-    "title": "あなたもクソコードの世界に触れてみませんか？？ - 逆リファクタリングバトルのイベント報告 -",
-    "link": "https://zenn.dev/smartcamp/articles/eac471f2304863",
-    "pubDate": "Mon, 17 Nov 2025 01:28:20 GMT",
-    "source": "Zenn",
-    "contentSnippet": "「コードは綺麗に書くべき」\nそんな呪いにかかっていませんか？\n「可読性が正義」「保守性が命」\n確かにその通り。\nでも、そこに縛られすぎて“自由に書く楽しさ”を忘れていないでしょうか。\nコードなんて、本来もっと遊んでいい。\nときには破壊的に、意味不明に、カオスな方向へ振り切ってみてもいい。\n今日はその逆方向へ思いっきり振り切る遊び「逆リファクタリングバトル」というイベントをしたので、その内容を共有し"
   },
   {
     "title": "GitHubで最も使われている言語の1位はPythonを抜いてTypeScriptに、最もコントリビュータが増加したOSSは「Zenブラウザ」。Octoverse 2025",

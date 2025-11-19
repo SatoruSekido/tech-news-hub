@@ -1,73 +1,87 @@
 [
   {
-    "title": "Website savings: where to cut and where to stop",
-    "link": "https://dev.to/polyapolza108/website-savings-where-to-cut-and-where-to-stop-56j1",
-    "pubDate": "Wed, 19 Nov 2025 12:42:24 +0000",
+    "title": "ServiceNow Test Management: Complete 2025 Guide",
+    "link": "https://dev.to/jamescantor38/servicenow-test-management-complete-2025-guide-32aa",
+    "pubDate": "Wed, 19 Nov 2025 18:32:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Saving money on your site can be smart — or a disaster. Here’s how to do it right.\nDo it smart, and you’ll improve efficiency and reduce costs. Do it wrong, and users leave, bugs pile up, and revenue "
+    "contentSnippet": "In today’s fast-paced software environment, teams are no longer satisfied with manually tracking test cases in spreadsheets or disconnected tools. They want a centralized way to plan, execute, and mon"
   },
   {
-    "title": "Zoho για Developers: Αναλυτικός Οδηγός για Email, CRM και WordPress Integration",
-    "link": "https://dev.to/__b63657/zoho-gia-developers-analutikos-odegos-gia-email-crm-kai-wordpress-integration-11kf",
-    "pubDate": "Wed, 19 Nov 2025 12:39:58 +0000",
+    "title": "🏰 CloudFormation Explained as a Story — The Blueprint of CloudVille",
+    "link": "https://dev.to/shweta_aee818203e9dffed84/cloudformation-explained-as-a-story-the-blueprint-of-cloudville-29m8",
+    "pubDate": "Wed, 19 Nov 2025 18:25:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Τι είναι οι υπηρεσίες provider emails;\nΟι υπηρεσίες email provider (ή email hosting providers) είναι πλατφόρμες που προσφέρουν τη δυνατότητα να στέλνεις και να λαμβάνεις emails μέσω του δικού σου doma"
+    "contentSnippet": "Imagine you’re the Chief Architect of a futuristic city called CloudVille.\nEvery time a new district needs to be built—homes, roads, power lines, streetlights, water systems—your team builds everythin"
   },
   {
-    "title": "The Brutal Truth About Today’s “AI Startups”: Most Are Just Fancy Wrappers Around Someone Else’s Model",
-    "link": "https://dev.to/ajaylegion/the-brutal-truth-about-todays-ai-startups-most-are-just-fancy-wrappers-around-someone-elses-55k6",
-    "pubDate": "Wed, 19 Nov 2025 12:39:28 +0000",
+    "title": "Transform LLM Apps into Profit: Monetizing AI Conversations with Monetzly",
+    "link": "https://dev.to/monetzly/transform-llm-apps-into-profit-monetizing-ai-conversations-with-monetzly-179l",
+    "pubDate": "Wed, 19 Nov 2025 18:18:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everyone loves shouting about “AI innovation,” but here’s the part no one wants to admit:\nIt’s like buying instant noodles, putting them in a bowl, and bragging that you’re a chef.\nBehind the scenes, "
+    "contentSnippet": "Advertising is Evolving: Here's Where It's Heading in the AI Era\n\n\nAs developers, we’re in the midst of an AI renaissance. Large Language Models (LLMs) are transforming how we interact with technology"
   },
   {
-    "title": "What Is a Firewall—and Why Should You Use One?",
-    "link": "https://dev.to/sagar_sajwan_a91beb41c861/what-is-a-firewall-and-why-should-you-use-one-2ak6",
-    "pubDate": "Wed, 19 Nov 2025 12:34:03 +0000",
+    "title": "A Book Review of A Philosophy of Software Design-how to create software that is easy to maintain",
+    "link": "https://dev.to/hectorw_tt/a-book-review-of-a-philosophy-of-software-design-how-to-create-software-that-is-easy-to-maintain-d7n",
+    "pubDate": "Wed, 19 Nov 2025 18:16:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In an era where cyberattacks are becoming increasingly sophisticated and frequent, understanding the role of firewalls in your security infrastructure is more critical than ever. A firewall serves as "
+    "contentSnippet": "Introduction\nA while back I was given a list of books to read in order to become a world class software engineer.One of these books was A Philosophy of Software Design by John Ousterhout. As the title"
   },
   {
-    "title": "React made me do it😭",
-    "link": "https://dev.to/amvitor-cm/react-made-me-do-it-1ie1",
-    "pubDate": "Wed, 19 Nov 2025 12:32:28 +0000",
+    "title": "🚀 Introducing Laravel Chatbot – A simple & powerful chatbot for your Laravel apps!",
+    "link": "https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-chatbot-a-simple-powerful-chatbot-for-your-laravel-apps-2kdl",
+    "pubDate": "Wed, 19 Nov 2025 18:09:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I said I was just testing a few components…\n\nand suddenly I have a full social media UI 😭\nIt’s not a full app, but I guess React 18 + Vite, Tailwind CSS, Lucide React, and React Context API refused t"
+    "contentSnippet": "Hey fellow developers! I just released a Laravel package that makes it easy to add a database-driven chatbot to your applications. Features include:\nKeyword-based Q&A with AND/OR logic\nConditional res"
   },
   {
-    "title": "What Is Worqlo? Turning Natural Language Into Deterministic Workflows",
-    "link": "https://dev.to/worqlo/what-is-worqlo-turning-natural-language-into-deterministic-workflows-371g",
-    "pubDate": "Wed, 19 Nov 2025 12:23:55 +0000",
+    "title": "From Taskmaster to Thought Partner: My Evolution as an Agentic AI Developer",
+    "link": "https://dev.to/boobal_writes/from-taskmaster-to-thought-partner-my-evolution-as-an-agentic-ai-developer-34k7",
+    "pubDate": "Wed, 19 Nov 2025 18:08:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most teams don’t suffer from a lack of data. They suffer because the path to that data is slow: dashboards, spreadsheets, custom reports, Slack messages, and internal tools that all require different "
+    "contentSnippet": "This blog summary traces my journey from using AI as a simple code generator to leveraging it as a strategic architect and product owner. By refining my prompting strategies and treating the AI as an "
   },
   {
-    "title": "The Overwhelmed Developer: Drowning in the Deep End of the Tech Pool",
-    "link": "https://dev.to/j4s0nc/the-overwhelmed-developer-drowning-in-the-deep-end-of-the-tech-pool-el5",
-    "pubDate": "Wed, 19 Nov 2025 12:23:34 +0000",
+    "title": "Angular Data Handling: When to use `| async` and when to `.subscribe()` manually",
+    "link": "https://dev.to/devhabib/angular-data-handling-when-to-use-async-and-when-to-subscribe-manually-2fed",
+    "pubDate": "Wed, 19 Nov 2025 18:05:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Anyone else remember the good old days? Back in 2001, armed with VB6, classic ASP, and SQL 7.5, we meticulously crafted applications. Manuals were our Stack Overflow, UI standards were gospel, and a s"
+    "contentSnippet": "One of the most common questions I get is: \"Should I use the Async Pipe or subscribe manually?\"\nThe answer is: Use the Async Pipe whenever possible. Subscribe manually only when necessary.\nHere is the"
   },
   {
-    "title": "A Deep Dive Into ESP-CSI: Channel State Information on ESP32 Chips",
-    "link": "https://dev.to/pratha_maniar/a-deep-dive-into-esp-csi-channel-state-information-on-esp32-chips-5el1",
-    "pubDate": "Wed, 19 Nov 2025 12:21:23 +0000",
+    "title": "ARGeoTrackingConfiguration 苹果街景定位支持地区",
+    "link": "https://dev.to/yo1995/argeotrackingconfiguration-ping-guo-jie-jing-ding-wei-zhi-chi-di-qu-jjp",
+    "pubDate": "Wed, 19 Nov 2025 18:05:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most people know Wi-Fi only as a way to connect phones, laptops, and IoT devices to the internet. But Wi-Fi can do much more.\nEspressif’s ESP-CSI (Channel State Information) technology allows ESP32-se"
+    "contentSnippet": "SEO: Geotracking, coverage, Visual Positioning System (VPS), ARCore, Geospatial API, ARKit, AR, 街景定位, 视觉定位\n太长不看：\n调用官方 checkAvailability 方法\n通过苹果地图 Look Around 来确定街景地图覆盖地区\n查询苹果图像收集网站列表\nApple 在 ARKit 4 时"
   },
   {
-    "title": "I got tired of writing .cursorrules manually for every project, so I built a visual generator (Free & Open)",
-    "link": "https://dev.to/diego_b153/i-got-tired-of-writing-cursorrules-manually-for-every-project-so-i-built-a-visual-generator-free-fig",
-    "pubDate": "Wed, 19 Nov 2025 12:15:50 +0000",
+    "title": "How I Transitioned Into Software Engineering (Coming From Architecture)",
+    "link": "https://dev.to/increase123/how-i-transitioned-into-software-engineering-coming-from-architecture-4b0m",
+    "pubDate": "Wed, 19 Nov 2025 17:55:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey everyone,\nI've been using AI editors like Cursor and Windsurf heavily lately. The biggest game-changer for me was using context files (.cursorrules or AGENTS.md) to stop the AI from hallucinating "
+    "contentSnippet": "When people hear that I studied Architecture for my BSc, they’re always surprised when I introduce myself today as a Software Engineer.\nBut in reality, the transition wasn’t as strange as it sounds.\nI"
   },
   {
-    "title": "GraphBit’s Agentic AI Mechanisms Compared to Other Agent Frameworks",
-    "link": "https://dev.to/yeahiasarker/graphbits-agentic-ai-mechanisms-compared-to-other-agent-frameworks-1141",
-    "pubDate": "Wed, 19 Nov 2025 12:15:39 +0000",
+    "title": "How the AWS Community Builders Program Shaped My Life — A Journey From Curiosity to Community",
+    "link": "https://dev.to/aws-builders/how-the-aws-community-builders-program-shaped-my-life-a-journey-from-curiosity-to-community-5b2c",
+    "pubDate": "Wed, 19 Nov 2025 17:54:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GraphBit (Rust core + workflow graph + lock‑free concurrency)\n\n\n\nExecution engine\n\n\nCompiled Rust core schedules a WorkflowGraph with dependency awareness, spawning ready nodes concurrently\n\nPer‑node‑"
+    "contentSnippet": "I often say this program changed my life — and I mean it in the deepest, most genuine way. It has shaped my personal and professional growth in ways I never imagined as someone just exploring AWS.\nMy "
+  },
+  {
+    "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",
+    "link": "https://www.publickey1.jp/blog/25/aigoogle_antigravitygoogle3600windsurf.html",
+    "pubDate": "2025-11-19T15:44:36.000Z",
+    "source": "Publickey",
+    "contentSnippet": "GoogleはAIエージェントファーストな統合開発環境（IDE）として「Google Antigravity」（以下、Antigravity）をパブリックプレビューとして公開しました。 Meet Google Antigravity, your new agentic development platform.An evolution of the IDE, it's built to help "
+  },
+  {
+    "title": "マイクロソフト、独自Armプロセッサの第二世代「Azure Cobalt 200」発表。デジタルツインによる徹底したシミュレーションで設計し、50％の性能向上",
+    "link": "https://www.publickey1.jp/blog/25/armazure_cobalt_20050.html",
+    "pubDate": "2025-11-19T15:42:52.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
   },
   {
     "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-13T15:37:08.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
-  },
-  {
-    "title": "マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能",
-    "link": "https://www.publickey1.jp/blog/25/net_102ltsjit.html",
-    "pubDate": "2025-11-12T15:56:05.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは日本時間の11月13日未明からオンラインイベント「.NET Conf 2025」を開催。同社の包括的なアプリケーションフレームワークの最新版となる「.NET 10」正式版のリリースを発表しました。 .NETは、デスクトップからモバイル、クラウド、ゲーム、IoT、そしてWindows、Linux、macOSなど、あらゆるプラットフォームに対応したアプリケーションの開発を包括的にカバー"
-  },
-  {
-    "title": "Node.jsでネイティブにTypeScriptを実行できる「Type Stripping」機能が安定版に到達。Node.js v25.2.0",
-    "link": "https://www.publickey1.jp/blog/25/nodejstypescripttype_strippingnodejs_v2520.html",
-    "pubDate": "2025-11-12T15:50:59.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Node.jsでネイティブにTypeScriptを実行するための機能「Type Stripping」が、11月11日にリリースされた新バージョン「Node.js v25.2.0」で安定版になったことが発表されました。 これにより本番環境などでもType Stripping機能を用いたTypeScriptファイルの実行が安心してできるようになりました。 Node.jsはTypeScriptをサポート"
   }
 ]

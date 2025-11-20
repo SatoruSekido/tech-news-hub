@@ -1,73 +1,73 @@
 [
   {
-    "title": "Why I Built TaskDeck and How It Improves Your VS Code Workflow",
-    "link": "https://dev.to/this-is-learning/why-i-built-taskdeck-and-how-it-improves-your-vs-code-workflow-4fk9",
-    "pubDate": "Thu, 20 Nov 2025 12:50:24 +0000",
+    "title": "High-Trust Teams Ship Faster: The Human Side of Engineering",
+    "link": "https://dev.to/aris_georgatos/high-trust-teams-ship-faster-the-human-side-of-engineering-ndn",
+    "pubDate": "Thu, 20 Nov 2025 18:33:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "VS Code tasks are powerful, but most developers barely use them. The problem is not the feature itself. It is the workflow. Tasks are hidden behind menus, the command palette, or a tasks.json file tha"
+    "contentSnippet": "Most engineering teams think most of their blockers are technical.\nThe brutal truth? The brutal truth? Most engineering teams are hemorrhaging productivity, and they blame a leaky abstraction.\nWe, as "
   },
   {
-    "title": "What Is A Codec? Everything You Need to Know As a Developer in 2025",
-    "link": "https://dev.to/red5/what-is-a-codec-full-codec-comparison-guide-2025-updated-35gl",
-    "pubDate": "Thu, 20 Nov 2025 12:44:21 +0000",
+    "title": "SynthID Explained: A Technical Deep Dive into DeepMind’s Invisible Watermarking System",
+    "link": "https://dev.to/grenishrai/synthid-explained-a-technical-deep-dive-into-deepminds-invisible-watermarking-system-38n7",
+    "pubDate": "Thu, 20 Nov 2025 18:29:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you have ever wondered what a codec is and why every device relies on it to play videos, music and images, this blog will walk you through everything you need to know. Learn what codecs are, how th"
+    "contentSnippet": "AI generated media has reached a point where provenance can’t rely on good faith or weak metadata. Screenshots erase EXIF tags. Text can be copied into a blank buffer. Videos can be compressed and reu"
   },
   {
-    "title": "Data Protection in Blockchain | CCPA Compliance",
-    "link": "https://dev.to/umang_suthar_9bad6f345a8a/data-protection-in-blockchain-ccpa-compliance-2bee",
-    "pubDate": "Thu, 20 Nov 2025 12:37:17 +0000",
+    "title": "Technance.com و کارتل خوک‌ها: یک اکوسیستم کلاهبرداری دیجیتال",
+    "link": "https://dev.to/cartel_of_pigs/technancecom-w-khrtl-khwkhh-ykh-khwsystm-khlhbrdry-dyjytl-250c",
+    "pubDate": "Thu, 20 Nov 2025 18:21:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Blockchain has changed how we store, share, and verify data. It gives us immutability, transparency, and trust without a middleman.\nBut there’s one catch:\n👉 Privacy laws like CCPA (California Consume"
+    "contentSnippet": "کلاهبرداری‌های رمزارزی امروز\n\n\nدر سال‌های اخیر، ایران شاهد جهش قابل توجهی در کلاهبرداری‌های مرتبط با رمزارز بوده است؛ مسأله‌ای که از یک سو ناشی از فشارهای اقتصادی و از سوی دیگر نتیجه افزایش علاقه عموم"
   },
   {
-    "title": "How I vibe code: Improving my site design with Goose and Gemini 3",
-    "link": "https://dev.to/debs_obrien/how-i-vibe-code-improving-my-site-design-with-goose-and-gemini-3-2a3k",
-    "pubDate": "Thu, 20 Nov 2025 12:32:20 +0000",
+    "title": "Padrões de projeto no front-end?",
+    "link": "https://dev.to/layssadev/padroes-de-projeto-no-front-end-1pip",
+    "pubDate": "Thu, 20 Nov 2025 18:19:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "OK this was so much fun: Googles Gemini 3 is amazing. just got it to redesign my home page. I was having fun with this one so no real idea what I wanted just vibing along. It gave me a matrix style he"
+    "contentSnippet": "Alguns meses atrás me deparei com a necessidade de refazer um projeto front-end do zero. Isso me levou a uma busca por padrões de projetos aplicados ao front-end - algo que, particularmente, não é tão"
   },
   {
-    "title": "5 Quick DevEx Audit Wins",
-    "link": "https://dev.to/linkbenjamin/5-quick-devex-audit-wins-1h7l",
-    "pubDate": "Thu, 20 Nov 2025 12:30:00 +0000",
+    "title": "UTP Cat6 Patch cord,7*0.16 26AWG (CCA) 0.5m - Review",
+    "link": "https://dev.to/innocomltd/utp-cat6-patch-cord7016-26awg-cca-05m-review-5did",
+    "pubDate": "Thu, 20 Nov 2025 18:19:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey friends!  Last summer, we walked through the big picture of The DevEx Audit—a full-scale look at where your team is bleeding time and patience. We talked a lot about the value of good Developer Ex"
+    "contentSnippet": "Overview\n\n\n\n  \n  \n  About UTP Cat6 Patch cord,7*0.16 26AWG (CCA) 0.5m\n\n\nUTP Cat6 Patch cord,7*0.16 26AWG (CCA) 0.5m\nდაკავშირებული პროდუქტები:\nUTP Cat6 Patch cord,7*0.18 24AWG (CU) 3m\nLearn more: UTP C"
   },
   {
-    "title": "Earn Big Through Bug Bounties: A Developer’s Guide to Ethical Hacking",
-    "link": "https://dev.to/softwaredeveloperhub01/earn-big-through-bug-bounties-a-developers-guide-to-ethical-hacking-4ii9",
-    "pubDate": "Thu, 20 Nov 2025 12:28:00 +0000",
+    "title": "Arcane Forge: A D&D magic item generator built with Google AI Studio",
+    "link": "https://dev.to/tawe/arcane-forge-a-dd-magic-item-generator-built-with-google-ai-studio-1cn0",
+    "pubDate": "Thu, 20 Nov 2025 18:16:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome! If you’re a developer curious about tapping into the world of bug‐bounty programs—where ethical hacking meets real rewards—you’re in the right place. This blog post will guide you through how"
+    "contentSnippet": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.\nI used Google AI Studio’s “Build apps with Gemini” feature to create Arcane Forge, a small generator that creates "
   },
   {
-    "title": "The Developer’s Paradox: Why You Need a Next.js SaaS Starter Kit to Stop Coding and Start Selling",
-    "link": "https://dev.to/thekarlesi/the-developers-paradox-why-you-need-a-nextjs-saas-starter-kit-to-stop-coding-and-start-selling-4a9k",
-    "pubDate": "Thu, 20 Nov 2025 12:24:34 +0000",
+    "title": "Entendendo Sícrono vs Assíncrono: Threads, Await e Performance",
+    "link": "https://dev.to/chihiro_dev/entendendo-sicrono-vs-assincrono-threads-await-e-performance-5ac3",
+    "pubDate": "Thu, 20 Nov 2025 18:09:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You have a brilliant idea. It came to you in the shower or during a commute—a SaaS concept that solves a specific pain point, has a clear target audience, and potential for recurring revenue. You rush"
+    "contentSnippet": "Conceitos como esses inevitavelmente aparecem na vida de quem desenvolve software. No começo, tudo parece confuso — e é normal. Você não precisa entender tudo de uma vez, quase ninguém entende. Mas ma"
   },
   {
-    "title": "Lesson 26: Freqtrade-Custom Strategy Development",
-    "link": "https://dev.to/henry_lin_3ac6363747f45b4/lesson-26-freqtrade-custom-strategy-development-255",
-    "pubDate": "Thu, 20 Nov 2025 12:20:14 +0000",
+    "title": "Cat5e UTP ქისთონ ჯეკი - Review",
+    "link": "https://dev.to/innocomltd/cat5e-utp-kiston-jeki-review-i0k",
+    "pubDate": "Thu, 20 Nov 2025 18:09:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Lesson 26: Custom Strategy Development\n\n\n⏱ Duration: 2.5 hours\n🎯 Learning Objectives: Learn to write your own trading strategies from scratch\nSo far, we've been using pre-made strategies. But true ad"
+    "contentSnippet": "Overview\n\n\n\n  \n  \n  About Cat5e UTP ქისთონ ჯეკი\n\n\nCat5e UTP keystone jack\nLearn more: Cat5e UTP ქისთონ ჯეკი\nOriginally published at innocom.ge"
   },
   {
-    "title": "Stop Shipping Muddy Shadows: A Practical, Copy‑Paste Guide to Professional UI Shadows (CSS + Tailwind)",
-    "link": "https://dev.to/srisomanaath/stop-shipping-muddy-shadows-a-practical-copy-paste-guide-to-professional-ui-shadows-css--34lg",
-    "pubDate": "Thu, 20 Nov 2025 12:18:42 +0000",
+    "title": "CAT6A UTP Keystone Jack Toolless 180 - Review",
+    "link": "https://dev.to/innocomltd/cat6a-utp-keystone-jack-toolless-180deg-review-4bai",
+    "pubDate": "Thu, 20 Nov 2025 18:08:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most shadows on the web still look like 2015: one heavy blur, too dark, pasted everywhere. Real products need shadows that signal depth without stealing attention, work on light and dark canvases, and"
+    "contentSnippet": "Overview\n\n\n\n  \n  \n  About CAT6A UTP Keystone Jack Toolless 180°\n\n\nCAT6A UTP Keystone Jack Toolless 180°\nLearn more: CAT6A UTP Keystone Jack Toolless 180°\nOriginally published at innocom.ge"
   },
   {
-    "title": "GraphBit vs. LangChain, LlamaIndex, Haystack, and similar tools",
-    "link": "https://dev.to/yeahiasarker/graphbit-vs-langchain-llamaindex-haystack-and-similar-tools-26cm",
-    "pubDate": "Thu, 20 Nov 2025 12:11:09 +0000",
+    "title": "CAT6 UTP RJ45 კონექტორი, 2 ცალი - Review",
+    "link": "https://dev.to/innocomltd/cat6-utp-rj45-konektori-2-cali-review-4c2c",
+    "pubDate": "Thu, 20 Nov 2025 18:04:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1) Performance & Architecture\n\n\n\nRust core with Python bindings (PyO3)\n\n\nAdvantage: The workflow engine, agent execution, LLM provider integrations, concurrency manager, and resilience primitives are "
+    "contentSnippet": "Overview\n\n\n\n  \n  \n  About CAT6 UTP RJ45 კონექტორი, 2 ცალი\n\n\nCAT6 UTP RJ45 Connector,2-Piece\nLearn more: CAT6 UTP RJ45 კონექტორი, 2 ცალი\nOriginally published at innocom.ge"
   },
   {
     "title": "【保存版】Google Antigravity 完全攻略ガイド｜次世代 \"エージェント型\" IDEのすべてを使い倒すチートシート",
@@ -112,11 +112,11 @@
     "contentSnippet": "こんにちは．年々病気に弱くなってきて体力の低下と年齡を感じる今日このごろです． Keeth こと桑原です．\n毎日お世話になっている 𝕏 で以下のポストを見かけました．\nhttps://x.com/le_panda_noir/status/1962638427628937481\nこちらの投稿を見たとき「これは読みたい！」と思ったのですが，しっかりリプライで\n\n書きたいってか、こういう感じのを誰か書"
   },
   {
-    "title": "OSSに貢献するときのマナー",
+    "title": "OSSに貢献するときの心得",
     "link": "https://zenn.dev/kyome/articles/1259c94ad576ca",
     "pubDate": "Wed, 19 Nov 2025 13:00:10 GMT",
     "source": "Zenn",
-    "contentSnippet": "私はOSSのアプリ/ライブラリの開発運営（オーナー）をしています[1]。世界中の多くの人がIssueを立ててくれたりPull Requestを立てて貢献（Contribute）してくれて嬉しい一方で、初コントリビュートでやり方を知らなかったり、我流が過ぎる方がおりオーナーとしてハンドリングに困ることも多々あります。そこで、OSSに貢献するときの基本的なマナーを紹介します。\n\n Issue編\nIss"
+    "contentSnippet": "私はOSSのアプリ/ライブラリの開発運営（オーナー）をしています[1]。世界中の多くの人がIssueを立ててくれたりPull Requestを立てて貢献（Contribute）してくれて嬉しい一方で、初コントリビュートでやり方を知らなかったり、我流が過ぎる方がおりオーナーとしてハンドリングに困ることも多々あります。そこで、OSSに貢献するときの基本的な心得を紹介します。\n\n Issue編\nIssu"
   },
   {
     "title": "「拡張メソッドの限界突破」C# 14 の Extension members を超簡潔に解説",

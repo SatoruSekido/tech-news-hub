@@ -1,73 +1,73 @@
 [
   {
-    "title": "ServiceNow Test Management: Complete 2025 Guide",
-    "link": "https://dev.to/jamescantor38/servicenow-test-management-complete-2025-guide-32aa",
-    "pubDate": "Wed, 19 Nov 2025 18:32:00 +0000",
+    "title": "Mutex and Lock Guard in C++",
+    "link": "https://dev.to/min38/mutex-and-lock-guard-in-c-17i9",
+    "pubDate": "Thu, 20 Nov 2025 01:53:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s fast-paced software environment, teams are no longer satisfied with manually tracking test cases in spreadsheets or disconnected tools. They want a centralized way to plan, execute, and mon"
+    "contentSnippet": "Mutex (Mutual Exclusion)\n\n\nMutex is a synchronization object that controls access to shared resources in a multithreaded environment.\nCode Example\n#include <mutex>\n#include <thread>\n\nstd::mutex mtx;\ni"
   },
   {
-    "title": "🏰 CloudFormation Explained as a Story — The Blueprint of CloudVille",
-    "link": "https://dev.to/shweta_aee818203e9dffed84/cloudformation-explained-as-a-story-the-blueprint-of-cloudville-29m8",
-    "pubDate": "Wed, 19 Nov 2025 18:25:10 +0000",
+    "title": "My Open-Source Contribution - Working on TypeScript-ESLint",
+    "link": "https://dev.to/oleksandrakordonets/my-open-source-contribution-working-on-typescript-eslint-gmd",
+    "pubDate": "Thu, 20 Nov 2025 01:46:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Imagine you’re the Chief Architect of a futuristic city called CloudVille.\nEvery time a new district needs to be built—homes, roads, power lines, streetlights, water systems—your team builds everythin"
+    "contentSnippet": "I wanted to share my contributions to open-source, and especially the work I recently did for the TypeScript-ESLint project. For this week, I challenged myself to contribute to a much bigger and more "
   },
   {
-    "title": "Transform LLM Apps into Profit: Monetizing AI Conversations with Monetzly",
-    "link": "https://dev.to/monetzly/transform-llm-apps-into-profit-monetizing-ai-conversations-with-monetzly-179l",
-    "pubDate": "Wed, 19 Nov 2025 18:18:50 +0000",
+    "title": "API Gateway vs Service Mesh: Beyond the North–South/East–West Myth",
+    "link": "https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg",
+    "pubDate": "Thu, 20 Nov 2025 01:41:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Advertising is Evolving: Here's Where It's Heading in the AI Era\n\n\nAs developers, we’re in the midst of an AI renaissance. Large Language Models (LLMs) are transforming how we interact with technology"
+    "contentSnippet": "Please note that the page became big because I had questions on my own and less information would have made things look speculatory. You can skip this and read links added at the end of the page, they"
   },
   {
-    "title": "A Book Review of A Philosophy of Software Design-how to create software that is easy to maintain",
-    "link": "https://dev.to/hectorw_tt/a-book-review-of-a-philosophy-of-software-design-how-to-create-software-that-is-easy-to-maintain-d7n",
-    "pubDate": "Wed, 19 Nov 2025 18:16:48 +0000",
+    "title": "CancellationToken: The Complete Technical Guide for .NET Developers",
+    "link": "https://dev.to/iron-software/-cancellationtoken-the-complete-technical-guide-for-net-developers-1h7p",
+    "pubDate": "Thu, 20 Nov 2025 01:41:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nA while back I was given a list of books to read in order to become a world class software engineer.One of these books was A Philosophy of Software Design by John Ousterhout. As the title"
+    "contentSnippet": "C# CancellationToken: The Complete Technical Guide for .NET Developers\n\n\nA CancellationToken in .NET allows cooperative cancellation of long-running or asynchronous operations. \nInstead of force-stopp"
   },
   {
-    "title": "🚀 Introducing Laravel Chatbot – A simple & powerful chatbot for your Laravel apps!",
-    "link": "https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-chatbot-a-simple-powerful-chatbot-for-your-laravel-apps-2kdl",
-    "pubDate": "Wed, 19 Nov 2025 18:09:29 +0000",
+    "title": "Implementing SCA tools in large legacy Android Project",
+    "link": "https://dev.to/hyuwah/implementing-sca-tools-in-large-legacy-android-project-ije",
+    "pubDate": "Thu, 20 Nov 2025 01:40:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey fellow developers! I just released a Laravel package that makes it easy to add a database-driven chatbot to your applications. Features include:\nKeyword-based Q&A with AND/OR logic\nConditional res"
+    "contentSnippet": "Overview\n\n\n\nStatic code analysis (SCA) embodies the \"shift left\" principle by moving quality control earlier in the development lifecycle. The implementation of pre-commit hooks in our project will au"
   },
   {
-    "title": "From Taskmaster to Thought Partner: My Evolution as an Agentic AI Developer",
-    "link": "https://dev.to/boobal_writes/from-taskmaster-to-thought-partner-my-evolution-as-an-agentic-ai-developer-34k7",
-    "pubDate": "Wed, 19 Nov 2025 18:08:39 +0000",
+    "title": "Build a Fast Developer Blog with Open Blog and Next.js",
+    "link": "https://dev.to/jqueryscript/build-a-fast-developer-blog-with-open-blog-and-nextjs-3i84",
+    "pubDate": "Thu, 20 Nov 2025 01:32:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This blog summary traces my journey from using AI as a simple code generator to leveraging it as a strategic architect and product owner. By refining my prompting strategies and treating the AI as an "
+    "contentSnippet": "Open Blog: A minimal blogging platform built with Next.js 15, Tailwind CSS, and MDX for developers who want full control over their content.\nKey features:\n⚡ Static HTML generation with perfect Core We"
   },
   {
-    "title": "Angular Data Handling: When to use `| async` and when to `.subscribe()` manually",
-    "link": "https://dev.to/devhabib/angular-data-handling-when-to-use-async-and-when-to-subscribe-manually-2fed",
-    "pubDate": "Wed, 19 Nov 2025 18:05:59 +0000",
+    "title": "C# Async/Await in .NET 10: The Complete Technical Guide for 2025",
+    "link": "https://dev.to/iron-software/c-asyncawait-in-net-10-the-complete-technical-guide-for-2025-1cii",
+    "pubDate": "Thu, 20 Nov 2025 01:30:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "One of the most common questions I get is: \"Should I use the Async Pipe or subscribe manually?\"\nThe answer is: Use the Async Pipe whenever possible. Subscribe manually only when necessary.\nHere is the"
+    "contentSnippet": "C# Async/Await in .NET 10: The Complete Technical Guide for 2025\n\n\nWhat is C# Async/Await in .NET\nYou know how you have more than one core on your CPU? Async/Await is how .NET ensures you're using all"
   },
   {
-    "title": "ARGeoTrackingConfiguration 苹果街景定位支持地区",
-    "link": "https://dev.to/yo1995/argeotrackingconfiguration-ping-guo-jie-jing-ding-wei-zhi-chi-di-qu-jjp",
-    "pubDate": "Wed, 19 Nov 2025 18:05:35 +0000",
+    "title": "Securing Cross-Account AWS Operations: Adding External ID Support to AwsCustomResource",
+    "link": "https://dev.to/aws-builders/securing-cross-account-aws-operations-adding-external-id-support-to-awscustomresource-l3p",
+    "pubDate": "Thu, 20 Nov 2025 01:05:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SEO: Geotracking, coverage, Visual Positioning System (VPS), ARCore, Geospatial API, ARKit, AR, 街景定位, 视觉定位\n太长不看：\n调用官方 checkAvailability 方法\n通过苹果地图 Look Around 来确定街景地图覆盖地区\n查询苹果图像收集网站列表\nApple 在 ARKit 4 时"
+    "contentSnippet": "I recently contributed to the AWS Cloud Development Kit (CDK) by implementing External ID support for AwsCustomResource, a feature that enhances security for cross-account AWS operations. The pull req"
   },
   {
-    "title": "How I Transitioned Into Software Engineering (Coming From Architecture)",
-    "link": "https://dev.to/increase123/how-i-transitioned-into-software-engineering-coming-from-architecture-4b0m",
-    "pubDate": "Wed, 19 Nov 2025 17:55:14 +0000",
+    "title": "Unlocking Crystal Secrets: A Novel Approach to Atomic Alchemy",
+    "link": "https://dev.to/arvind_sundararajan/unlocking-crystal-secrets-a-novel-approach-to-atomic-alchemy-44jd",
+    "pubDate": "Thu, 20 Nov 2025 01:02:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When people hear that I studied Architecture for my BSc, they’re always surprised when I introduce myself today as a Software Engineer.\nBut in reality, the transition wasn’t as strange as it sounds.\nI"
+    "contentSnippet": "Unlocking Crystal Secrets: A Novel Approach to Atomic Alchemy\n\n\nTired of inefficient materials discovery? Imagine being able to conjure entirely new crystalline structures from thin air, precisely tai"
   },
   {
-    "title": "How the AWS Community Builders Program Shaped My Life — A Journey From Curiosity to Community",
-    "link": "https://dev.to/aws-builders/how-the-aws-community-builders-program-shaped-my-life-a-journey-from-curiosity-to-community-5b2c",
-    "pubDate": "Wed, 19 Nov 2025 17:54:32 +0000",
+    "title": "Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced",
+    "link": "https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-4o8i",
+    "pubDate": "Thu, 20 Nov 2025 00:53:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I often say this program changed my life — and I mean it in the deepest, most genuine way. It has shaped my personal and professional growth in ways I never imagined as someone just exploring AWS.\nMy "
+    "contentSnippet": "When every Pod screams for CPU and memory, who decides who lives, who waits, and who gets evicted?\nKubernetes isn't just a scheduler — it's a negotiator of fairness and efficiency.\nThis article unpack"
   },
   {
     "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",
@@ -84,6 +84,13 @@
     "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
   },
   {
+    "title": "Gemini3 ProのVision性能をチラシチャレンジしてみた",
+    "link": "https://zenn.dev/olemi/articles/gemini-3-vision-supermarket-flyer-test",
+    "pubDate": "Wed, 19 Nov 2025 06:40:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事はGemini3Proで生成して、気持ち人間が感想とかを書いた記事です。\n\n\n はじめに\n新しいAIモデルが登場するたびに、そのVision性能（日本語の読解および構造理解）を測るために、日本のスーパーのチラシ情報を正確に取得できるかテストする「チラシチャレンジ」を行っています。\n今回は、新しくリリースされた Gemini 3 の実力を測るべく、いつものようにスーパー玉出のチラシを使っ"
+  },
+  {
     "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
     "link": "https://zenn.dev/turing_motors/articles/81cf3128b22c63",
     "pubDate": "Wed, 19 Nov 2025 06:22:29 GMT",
@@ -91,11 +98,39 @@
     "contentSnippet": "はじめに\nTuring CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。\n本記事では、OpenAIから2025年8月にリリースされたgpt-ossをNVIDIA NeMoフレームワークにて学習するための方法について解説します。\n2025年11月4日時点では、NVIDIA公式からは、LoRA finetunigを行う方法についてのみ解説されており"
   },
   {
+    "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
+    "link": "https://qiita.com/kazuya828/items/27f81e75bed8fd7c5b47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T06:03:27.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n開発ツールの月額料金、気づいたら結構な金額になっていませんか？Postman、GitHub、Notion...便利なツールほど、チーム規模が大きくなると課金額も膨らんでいきます。\n実は今、そんな商用ツールに匹敵する、いやそれ以上の機能を持つオープンソース代替が続..."
+  },
+  {
+    "title": "GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価",
+    "link": "https://qiita.com/ntaka329/items/8595b9668158a563c35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T04:06:05.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\nVSCode 1.106で正式リリースされたCopilot Plan mode、もう試しましたか？\n「Agentモードで実装したら思ってたのと違う...」そんな手戻りを、Plan modeは対話的な仕様確認で改善してくれます。\n実際に..."
+  },
+  {
     "title": "HonoとPerl 〜 異文化を持ち込む",
     "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
     "pubDate": "Wed, 19 Nov 2025 03:04:28 GMT",
     "source": "Zenn",
     "contentSnippet": "Honoの面白いネタがあるので書きます。\n\n Web標準\nHonoはWeb標準のAPIを使って作られています。Web標準は元々ブラウザで動くもの（JavaScriptやCSS、HTML）に対して考えられた技術仕様もしくは指針です。昨今はCloudflare Workers、Deno、BunといったJavaScriptランタイムはV8やJavaScriptCoreブラウザのエンジンを使っていて、サー"
+  },
+  {
+    "title": "エージェントの検索精度を向上させる Amazon Nova Multimodal Embeddings - embeddingPurpose",
+    "link": "https://zenn.dev/9310/articles/2f989837eb7fe1",
+    "pubDate": "Wed, 19 Nov 2025 03:00:20 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは。AWS Japan の AI/ML Specliaist Solutions Architect をしている佐藤です。\n本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 18 日目です。よろしくお願いします。\n!\n📚 第 17 日目の記事はこちら！\n\nAmazon Nova Son"
+  },
+  {
+    "title": "SDD(仕様駆動開発)と仕様について再度振り返る",
+    "link": "https://zenn.dev/beagle/articles/fd60745bc54de1",
+    "pubDate": "Wed, 19 Nov 2025 02:56:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "びーぐるです🐶\nAgentic Codingの開発スタイルのひとつとして、仕様駆動開発(SDD)が以前にも増して注目を浴びるようになりました。\n例えば、Findy様主催のイベント「仕様駆動開発〜新たな開発手法の可能性と実践〜」では、昼開催にもかかわらず1300人を超える参加者が集まっています。\nhttps://findy.connpass.com/event/373561/\n私も過去に何本かSD"
   },
   {
     "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている",
@@ -110,6 +145,13 @@
     "pubDate": "2025-11-19T00:52:44.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGoogle が 2025-11-18 に発表した AI エディタ、「Antigravity」を使って、実際に「AI チャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用した体験も踏..."
+  },
+  {
+    "title": "社会人1年目が語る、“セキュリティイベント沼”のすゝめ",
+    "link": "https://zenn.dev/nttdata_tech/articles/803a18ce35ba21",
+    "pubDate": "Wed, 19 Nov 2025 00:39:28 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n25卒でNTTデータグループに入社し、NTTDATA-CERTに配属された廣瀬です。\n学生時代から現在までセキュリティをはじめとしたIT系のイベントに積極的に参加しています。\n最近、「どのようなイベントに参加すればよいか」と質問を受けることが増えました。\nそこで本記事では、イベントに参加する意味、イベントの探し方、実際に参加して良かったセキュリティイベントを紹介します。\n\n 想定読者\n\n"
   },
   {
     "title": "なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法",
@@ -168,46 +210,11 @@
     "contentSnippet": "こちらはLayerX AI エージェントブログリレー48日目の記事です。\nこんにちは、CEO室でAIエージェント開発のPdMをしているKenta Watanabeです。昨日はTomoakiさんの作って学ぶ ChatGPT Atlas\nでした。Evalに関する実用的な記事になる予定だったんですが、ちょっと別テーマで書きたいことが出てきたのでテーマを変えてみます。これまでのAIエージェントブログリレー"
   },
   {
-    "title": "今年も FlutterKaigi 2025 に参加してきました",
-    "link": "https://zenn.dev/chooyan/articles/1279762434dac3",
-    "pubDate": "Tue, 18 Nov 2025 12:53:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "今年で 5 回目の開催となる FlutterKaigi に今年もスピーカーとして参加してきました。\nhttps://2025.flutterkaigi.jp/\nオフライン開催も 3 回目ということで、毎年参加している自分としては「お久しぶり」な方も多く、ワクワクというよりはむしろ「今年も帰ってきた」感のあるイベントではありましたが、一方でセッションの内容は幅広く深く新しい話ばかりでどれも面白く勉強"
-  },
-  {
-    "title": "KiroとAmazon Q Developerの比較（2025/11/18）",
-    "link": "https://qiita.com/moritalous/items/76b298854130f239c8d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-18T10:52:09.000Z",
-    "source": "Qiita",
-    "contentSnippet": "KiroがGAしました。\n\nAmazon Q Developer CLIがKiro CLIになったり、マネジメントコンソールのQ Developerの画面がKiroになったりしました。\n\nQ Developerを過去に使ってなかったAWSアカウントでQ Develop..."
-  },
-  {
-    "title": "ローカルで稼働するOpen Notebook を実際に使ってみた",
-    "link": "https://zenn.dev/ryo_tsukuda/articles/d1ae2b44a45709",
-    "pubDate": "Tue, 18 Nov 2025 08:48:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nGoogle社で提供するNotebookLMが人気ですが\nこちらはクラウドで稼働するため機密文章を扱う際、セキュリティの問題が立ちはだかります。\nそういうったセキュリティ問題を解決するため、ローカルで扱えるNotebookが公開されました\nhttps://www.open-notebook.ai/\n今回はそれを試しにつかってみました。\n\n テストで利用する機密データ(サンプル)\n今回テス"
-  },
-  {
-    "title": "基本無料のAIチャットリリースで確信したGPT-OSSこそ真のゲームチェンジャーといえる理由",
-    "link": "https://zenn.dev/collections/articles/ada3a73f0af8bf",
-    "pubDate": "Tue, 18 Nov 2025 08:08:40 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本日、nidomi というGPT-OSSを使った基本無料のAIチャットボットをリリースしました!! 🎊\nhttps://x.com/zane_jpn/status/1990691947887939870\nん・・GPT-OSSはそもそも無料なのでは！？\nというツッコミを受けそうなので、正確に言いますと\nクラウドベンダーが提供するGPT-OSSモデルを採用することで、GPUの恩恵を受けつつ付帯する無"
-  },
-  {
     "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",
     "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-18T07:34:01.000Z",
     "source": "Qiita",
-    "contentSnippet": "複雑性はなぜ破綻するのか？\n計算量と認知負荷から読み解く、ソフトウェアの限界について考えました。\n\nこれは、情報過多時代の「過学習」にも通じるテーマです。\n私たちの脳がどこで飽和し、どこから理解が追いつかなくなるのか..\nその構造を知ることは、エンジニアリングだけでなくリ..."
-  },
-  {
-    "title": "ClaudeCodeの拡張思考モード解説",
-    "link": "https://zenn.dev/applibot_tech/articles/6021e75d09bddc",
-    "pubDate": "Tue, 18 Nov 2025 06:33:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "アプリボットでゲームのクライアントエンジニアをしています、杉浦(@siguma_sig)です。\n今回は、ClaudeCode の拡張思考モードについて解説します。\nなんとなくで使っていたり、常時 on にしている方もいらっしゃると思われるため、そもそもどういうものなのか、使い道はどういう場面なのかについてまとめていきます。\n\n この記事でわかること\n\n拡張思考モードの概要と挙動について\n拡張思考モ"
+    "contentSnippet": "複雑性はなぜ破綻するのか？\n計算量と認知負荷から読み解く、ソフトウェアの限界について考えました。\n\nこれは、情報過多時代の「過学習」にも通じるテーマです。\n私たちの脳がどこで飽和し、どこから理解が追いつかなくなるのか..その構造を知ることは、エンジニアリングだけでなくリス..."
   },
   {
     "title": "家族会議が「感情論」で炎上するので、心理的安全性を守るアプリをAIと二人三脚で作った話",
@@ -264,13 +271,6 @@
     "pubDate": "2025-11-16T15:32:12.000Z",
     "source": "Publickey",
     "contentSnippet": "調査会社のガートナーは、2026年に企業や組織にとって重要なインパクトを持つ戦略的テクノロジのトップトレンドを発表しました。 The Top Strategic Technology Trends for 2026 were released last monthLearn how to turn disruption into opportunity, get expert guidance o"
-  },
-  {
-    "title": "プロンプト・エンジニアリングは、まだ始まってすらいない",
-    "link": "https://qiita.com/makotosaekit/items/21990e3703ac721a04d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-16T10:20:01.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1: マジックワードの死と、科学的検証の夜明\n巷で囁かれる「プロンプト・エンジニアリングの終わり」。\n実際問題、AIの性能向上に伴い、小手先の作文技術の工夫をしなくても、安定して高品質な出力が得られるようになってきています。\nしかしそれは、技術の”死”を意味していません。..."
   },
   {
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",

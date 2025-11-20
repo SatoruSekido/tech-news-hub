@@ -1,73 +1,87 @@
 [
   {
-    "title": "Hashicorp Vault: Secret Management Engines",
-    "link": "https://dev.to/admantium/hashicorp-vault-secret-management-engines-48nb",
-    "pubDate": "Thu, 20 Nov 2025 06:25:17 +0000",
+    "title": "Why I Built TaskDeck and How It Improves Your VS Code Workflow",
+    "link": "https://dev.to/this-is-learning/why-i-built-taskdeck-and-how-it-improves-your-vs-code-workflow-4fk9",
+    "pubDate": "Thu, 20 Nov 2025 12:50:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hashicorp Vault is a secrets management tool. It enables encrypted storage of sensitive data like API credentials, database passwords, certificates and encryption keys. This is managed by flexible plu"
+    "contentSnippet": "VS Code tasks are powerful, but most developers barely use them. The problem is not the feature itself. It is the workflow. Tasks are hidden behind menus, the command palette, or a tasks.json file tha"
   },
   {
-    "title": "🚀 Type Alias in TypeScript: Why I Use Them Every Day (And How They Compare to Interfaces)",
-    "link": "https://dev.to/mashayeakh_islam_2666f2c3/type-alias-in-typescript-why-i-use-them-every-day-and-how-they-compare-to-interfaces-399n",
-    "pubDate": "Thu, 20 Nov 2025 06:20:06 +0000",
+    "title": "What Is A Codec? Everything You Need to Know As a Developer in 2025",
+    "link": "https://dev.to/red5/what-is-a-codec-full-codec-comparison-guide-2025-updated-35gl",
+    "pubDate": "Thu, 20 Nov 2025 12:44:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve already dipped your toes into TypeScript, you’ve probably met that one feature everyone talks about but no one fully explains at the start.\nA type alias is basically giving a nickname to a t"
+    "contentSnippet": "If you have ever wondered what a codec is and why every device relies on it to play videos, music and images, this blog will walk you through everything you need to know. Learn what codecs are, how th"
   },
   {
-    "title": "How I Played With Self-Correcting LLMs While Fixing My Blog",
-    "link": "https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k",
-    "pubDate": "Thu, 20 Nov 2025 06:17:08 +0000",
+    "title": "Data Protection in Blockchain | CCPA Compliance",
+    "link": "https://dev.to/umang_suthar_9bad6f345a8a/data-protection-in-blockchain-ccpa-compliance-2bee",
+    "pubDate": "Thu, 20 Nov 2025 12:37:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Last week, I was staring at my latest blog draft, wondering why some sentences just sounded… off. Even though I’d let the AI generate most of it, a few phrases still felt clunky. That’s when I got cur"
+    "contentSnippet": "Blockchain has changed how we store, share, and verify data. It gives us immutability, transparency, and trust without a middleman.\nBut there’s one catch:\n👉 Privacy laws like CCPA (California Consume"
   },
   {
-    "title": "Why You Should Never Raise Money Before Finding Product Market Fit",
-    "link": "https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884",
-    "pubDate": "Thu, 20 Nov 2025 06:16:22 +0000",
+    "title": "How I vibe code: Improving my site design with Goose and Gemini 3",
+    "link": "https://dev.to/debs_obrien/how-i-vibe-code-improving-my-site-design-with-goose-and-gemini-3-2a3k",
+    "pubDate": "Thu, 20 Nov 2025 12:32:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Money is a terrible substitute for product market fit.\nIn 2020, Quibi raised $1.75 billion before launch. The company had A-list Hollywood talent, cutting-edge technology, and unlimited marketing budg"
+    "contentSnippet": "OK this was so much fun: Googles Gemini 3 is amazing. just got it to redesign my home page. I was having fun with this one so no real idea what I wanted just vibing along. It gave me a matrix style he"
   },
   {
-    "title": "Which One Should You Choose: Bash or Make?",
-    "link": "https://dev.to/kingyou/which-one-should-you-choose-bash-or-make-2ig0",
-    "pubDate": "Thu, 20 Nov 2025 06:09:20 +0000",
+    "title": "5 Quick DevEx Audit Wins",
+    "link": "https://dev.to/linkbenjamin/5-quick-devex-audit-wins-1h7l",
+    "pubDate": "Thu, 20 Nov 2025 12:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When it comes to project automation, build workflows, and DevOps scripting, developers are often torn between Bash scripts and Makefiles. Both have strengths—and knowing when to use each can superchar"
+    "contentSnippet": "Hey friends!  Last summer, we walked through the big picture of The DevEx Audit—a full-scale look at where your team is bleeding time and patience. We talked a lot about the value of good Developer Ex"
   },
   {
-    "title": "What Should QA Teams Prepare Before an Unannounced Inspection Occurs?",
-    "link": "https://dev.to/shalushrotiya/what-should-qa-teams-prepare-before-an-unannounced-inspection-occurs-4nme",
-    "pubDate": "Thu, 20 Nov 2025 06:05:23 +0000",
+    "title": "Earn Big Through Bug Bounties: A Developer’s Guide to Ethical Hacking",
+    "link": "https://dev.to/softwaredeveloperhub01/earn-big-through-bug-bounties-a-developers-guide-to-ethical-hacking-4ii9",
+    "pubDate": "Thu, 20 Nov 2025 12:28:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "QA teams must treat inspection readiness as continuous operational behavior, not a project. Prioritize controlled documentation, robust data integrity controls, rapid access to master records, cross-f"
+    "contentSnippet": "Welcome! If you’re a developer curious about tapping into the world of bug‐bounty programs—where ethical hacking meets real rewards—you’re in the right place. This blog post will guide you through how"
   },
   {
-    "title": "VitePress debug: \"frontmatter.title\" is appearing in search results",
-    "link": "https://dev.to/ahandsel/vitepress-debug-frontmattertitle-is-appearing-in-search-results-k60",
-    "pubDate": "Thu, 20 Nov 2025 05:56:28 +0000",
+    "title": "The Developer’s Paradox: Why You Need a Next.js SaaS Starter Kit to Stop Coding and Start Selling",
+    "link": "https://dev.to/thekarlesi/the-developers-paradox-why-you-need-a-nextjs-saas-starter-kit-to-stop-coding-and-start-selling-4a9k",
+    "pubDate": "Thu, 20 Nov 2025 12:24:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How to fix the issue of frontmatter.title appearing in VitePress search results instead of the actual content.\nWhen you first set up VitePress and use frontmatter to define titles and other metadata f"
+    "contentSnippet": "You have a brilliant idea. It came to you in the shower or during a commute—a SaaS concept that solves a specific pain point, has a clear target audience, and potential for recurring revenue. You rush"
   },
   {
-    "title": "Deterministic RAG: A Drop-in Replacement for GraphRAG’s Unstable Planning",
-    "link": "https://dev.to/yuer/deterministic-rag-a-drop-in-replacement-for-graphrags-unstable-planning-3pii",
-    "pubDate": "Thu, 20 Nov 2025 05:53:44 +0000",
+    "title": "Lesson 26: Freqtrade-Custom Strategy Development",
+    "link": "https://dev.to/henry_lin_3ac6363747f45b4/lesson-26-freqtrade-custom-strategy-development-255",
+    "pubDate": "Thu, 20 Nov 2025 12:20:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nCurrent RAG systems rely heavily on LLM-driven dynamic planning.\nsame query → different routes\nsmall context drift → different cluster summaries\ndebugging becomes guessing\nreproducibili"
+    "contentSnippet": "Lesson 26: Custom Strategy Development\n\n\n⏱ Duration: 2.5 hours\n🎯 Learning Objectives: Learn to write your own trading strategies from scratch\nSo far, we've been using pre-made strategies. But true ad"
   },
   {
-    "title": "Delete Paragraphs in Word Documents using C#",
-    "link": "https://dev.to/codingco/delete-paragraphs-in-word-documents-using-c-9c7",
-    "pubDate": "Thu, 20 Nov 2025 05:43:52 +0000",
+    "title": "Stop Shipping Muddy Shadows: A Practical, Copy‑Paste Guide to Professional UI Shadows (CSS + Tailwind)",
+    "link": "https://dev.to/srisomanaath/stop-shipping-muddy-shadows-a-practical-copy-paste-guide-to-professional-ui-shadows-css--34lg",
+    "pubDate": "Thu, 20 Nov 2025 12:18:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In .NET development, automated processing of Word documents is a common requirement. Deleting paragraphs (such as cleaning up blank paragraphs or removing specific paragraphs) is one of the most frequ"
+    "contentSnippet": "Most shadows on the web still look like 2015: one heavy blur, too dark, pasted everywhere. Real products need shadows that signal depth without stealing attention, work on light and dark canvases, and"
   },
   {
-    "title": "Integrating Machine Learning into .NET Healthcare Apps",
-    "link": "https://dev.to/evawilson01/integrating-machine-learning-into-net-healthcare-apps-113h",
-    "pubDate": "Thu, 20 Nov 2025 05:35:44 +0000",
+    "title": "GraphBit vs. LangChain, LlamaIndex, Haystack, and similar tools",
+    "link": "https://dev.to/yeahiasarker/graphbit-vs-langchain-llamaindex-haystack-and-similar-tools-26cm",
+    "pubDate": "Thu, 20 Nov 2025 12:11:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Healthcare software is evolving fast. The next real shift will not come from new databases or better dashboards. It will come from intelligence built into the systems themselves. Working at a healthca"
+    "contentSnippet": "1) Performance & Architecture\n\n\n\nRust core with Python bindings (PyO3)\n\n\nAdvantage: The workflow engine, agent execution, LLM provider integrations, concurrency manager, and resilience primitives are "
+  },
+  {
+    "title": "【保存版】Google Antigravity 完全攻略ガイド｜次世代 \"エージェント型\" IDEのすべてを使い倒すチートシート",
+    "link": "https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T01:34:26.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGoogle Antigravityがリリースされました。\n「Cursor, Windsurf...またAI搭載エディタか」って思いませんでした？\n僕も最初そう思ってたんです。\nでもね、ドキュメント読み込んでいくうちに、ちょっと考えが変わりました。\nGoogl..."
+  },
+  {
+    "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
+    "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T23:41:41.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n現場で「なんだかメモリが増えている気がする」「GC（ガベージコレクション）があるから大丈夫だと思ったら落ちた…」「原因がよく分からないままサービス再起動してごまかしている」という経験はありませんか？\n本記事では、そんな“見えてるけど見えていない”存在、つまり 「..."
   },
   {
     "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",
@@ -82,6 +96,34 @@
     "pubDate": "2025-11-19T15:42:52.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
+  },
+  {
+    "title": "【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話",
+    "link": "https://zenn.dev/motty93/articles/release_huntershub",
+    "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "やぁ！みんな。\nハンティングライフ、楽しんでいるかな？\nどうもてぃです。\nこの度HuntersHubというサービスをリリースしたので、その開発経緯や技術スタック、実装で工夫した点などを振り返りながら書きなぐっていこうと思います。\n\n\n 開発経緯\n最近全くゲームは出来ていないのですが、ふとやりたいなぁと思うゲームとしてモンスターハンターポータブルシリーズがあります。\n\nMHP2G配信の動画を見る\nコ"
+  },
+  {
+    "title": "なぜ React 哲学を守らないといけないのか？",
+    "link": "https://zenn.dev/kkeeth/articles/why-learning-react-philosophy",
+    "pubDate": "Wed, 19 Nov 2025 14:20:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは．年々病気に弱くなってきて体力の低下と年齡を感じる今日このごろです． Keeth こと桑原です．\n毎日お世話になっている 𝕏 で以下のポストを見かけました．\nhttps://x.com/le_panda_noir/status/1962638427628937481\nこちらの投稿を見たとき「これは読みたい！」と思ったのですが，しっかりリプライで\n\n書きたいってか、こういう感じのを誰か書"
+  },
+  {
+    "title": "OSSに貢献するときのマナー",
+    "link": "https://zenn.dev/kyome/articles/1259c94ad576ca",
+    "pubDate": "Wed, 19 Nov 2025 13:00:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "私はOSSのアプリ/ライブラリの開発運営（オーナー）をしています[1]。世界中の多くの人がIssueを立ててくれたりPull Requestを立てて貢献（Contribute）してくれて嬉しい一方で、初コントリビュートでやり方を知らなかったり、我流が過ぎる方がおりオーナーとしてハンドリングに困ることも多々あります。そこで、OSSに貢献するときの基本的なマナーを紹介します。\n\n Issue編\nIss"
+  },
+  {
+    "title": "「拡張メソッドの限界突破」C# 14 の Extension members を超簡潔に解説",
+    "link": "https://qiita.com/Sakai_path/items/b40ca57429a8e515f9ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T07:06:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "女性エンジニア応援 Advent Calendar 2025 参加者募集中です！\n\nはじめに\nC# 14（.NET 10 世代）から新たに導入された Extension members は、従来の拡張メソッドを“上位互換”にしたような機能です。\n拡張メソッドは便利でしたが、..."
   },
   {
     "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
@@ -112,13 +154,6 @@
     "contentSnippet": "AWS製IDEであるKiroの一般提供が始まり、それに伴いAmazon Q Developer CLI（以下Q CLI）がKiro-CLIとして統合されました。\n本記事では、Q CLIからKiro CLIへの移行によって追加された主要機能を紹介します。その上で、これらの機能とAWSが提唱するAI-DLC（AI駆動開発ライフサイクル）との関連性、およびAWSの戦略的方向性について考察します。\n\n T"
   },
   {
-    "title": "GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価",
-    "link": "https://qiita.com/ntaka329/items/8595b9668158a563c35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T04:06:05.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\nVSCode 1.106で正式リリースされたCopilot Plan mode、もう試しましたか？\n「Agentモードで実装したら思ってたのと違う...」そんな手戻りを、Plan modeは対話的な仕様確認で改善してくれます。\n実際に..."
-  },
-  {
     "title": "HonoとPerl 〜 異文化を持ち込む",
     "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
     "pubDate": "Wed, 19 Nov 2025 03:04:28 GMT",
@@ -133,6 +168,13 @@
     "contentSnippet": "びーぐるです🐶\nAgentic Codingの開発スタイルのひとつとして、仕様駆動開発(SDD)が以前にも増して注目を浴びるようになりました。\n例えば、Findy様主催のイベント「仕様駆動開発〜新たな開発手法の可能性と実践〜」では、昼開催にもかかわらず1300人を超える参加者が集まっています。\nhttps://findy.connpass.com/event/373561/\n私も過去に何本かSD"
   },
   {
+    "title": "国土交通データプラットフォーム MCP サーバーが出てた",
+    "link": "https://zenn.dev/rescuenow/articles/ff5dca69861b94",
+    "pubDate": "Wed, 19 Nov 2025 02:43:42 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\ntokadev です。\n国土交通省が提供するオープンデータプラットフォームには、インフラ施設、PLATEAU（3D 都市モデル）、交通、地理・測量、気象・災害など、非常に多様なデータが公開されています。\nこれらのデータは GraphQL API でアクセスできるのですが、API 仕様を調べてクエリを書いて...という作業は少し手間がかかります。\nと思っていたら公式の MCP が公開されま"
+  },
+  {
     "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている",
     "link": "https://qiita.com/rf_p/items/60be12914338447543d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T01:11:17.000Z",
@@ -144,7 +186,7 @@
     "link": "https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T00:52:44.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nGoogle が 2025-11-18 に発表した AI エディタ、「Antigravity」を使って、実際に「AI チャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用した体験も踏..."
+    "contentSnippet": "はじめに\nGoogle が 2025-11-18（米国時間）に発表した AI エディタ、「Antigravity」を使って、実際に「AI チャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用し..."
   },
   {
     "title": "なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法",
@@ -159,20 +201,6 @@
     "pubDate": "2025-11-18T23:37:23.000Z",
     "source": "Qiita",
     "contentSnippet": "こんにちは。当記事では、2025年11月19日にGoogleから正式発表された最新のAIモデルGemini 3.0について解説します。\n推論能力（Reasoning）とエージェント機能が飛躍的に向上したこの新モデルの全容を、公式情報を基に紐解いていきます。\n\n1. 概要\n..."
-  },
-  {
-    "title": "Google Antigravityファーストインプレッション",
-    "link": "https://zenn.dev/ukiuni/articles/447549118796b1",
-    "pubDate": "Tue, 18 Nov 2025 22:54:41 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Gemini3とともに、GoogleのAIエディタ、Antigravityが発表されました。早速触っていきます。\nhttps://antigravity.google/download\nからダウンロードできます。\n\n各OSの手順で通例通りインストールして、起動するとセットアップ画面になります。\n\n他エディタから設定をImportできるようです。後続でテーマの内容を連携できたりするようです。\n\n珍し"
-  },
-  {
-    "title": "Claude Skillsで簡単にApple風デザインを自動生成！AIっぽいデザインから脱却する方法",
-    "link": "https://zenn.dev/tmasuyama1114/articles/apple_design_skills",
-    "pubDate": "Tue, 18 Nov 2025 19:54:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\n「AI にデザインを任せると AI っぽさが出る」\n「サイト全体に一貫性のあるデザインを作りたい」\nそんな悩みを解決できるのが、Claude Code Skillsという機能です。\n先日の記事でも触れましたが、Anthropic公式もおすすめしているデザインの改善方法となります。\nhttps://zenn.dev/tmasuyama1114/articles/anthro"
   },
   {
     "title": "［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025",
@@ -196,32 +224,11 @@
     "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュアに"
   },
   {
-    "title": "AIエージェントを開発するPdMがやることをプロンプトを書きながら考える",
-    "link": "https://zenn.dev/layerx/articles/671bdaf4aa0a32",
-    "pubDate": "Tue, 18 Nov 2025 14:45:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こちらはLayerX AI エージェントブログリレー48日目の記事です。\nこんにちは、CEO室でAIエージェント開発のPdMをしているKenta Watanabeです。昨日はTomoakiさんの作って学ぶ ChatGPT Atlas\nでした。Evalに関する実用的な記事になる予定だったんですが、ちょっと別テーマで書きたいことが出てきたのでテーマを変えてみます。これまでのAIエージェントブログリレー"
-  },
-  {
-    "title": "ローカルで稼働するOpen Notebook を実際に使ってみた",
-    "link": "https://zenn.dev/ryo_tsukuda/articles/d1ae2b44a45709",
-    "pubDate": "Tue, 18 Nov 2025 08:48:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nGoogle社で提供するNotebookLMが人気ですが\nこちらはクラウドで稼働するため機密文章を扱う際、セキュリティの問題が立ちはだかります。\nそういうったセキュリティ問題を解決するため、ローカルで扱えるNotebookが公開されました\nhttps://www.open-notebook.ai/\n今回はそれを試しにつかってみました。\n\n テストで利用する機密データ(サンプル)\n今回テス"
-  },
-  {
     "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",
     "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-18T07:34:01.000Z",
     "source": "Qiita",
     "contentSnippet": "複雑性はなぜ破綻するのか？\n計算量と認知負荷から読み解く、ソフトウェアの限界について考えました。\n\nこれは、情報過多時代の「過学習」にも通じるテーマです。\n私たちの脳がどこで飽和し、どこから理解が追いつかなくなるのか..その構造を知ることは、エンジニアリングだけでなくリス..."
-  },
-  {
-    "title": "家族会議が「感情論」で炎上するので、心理的安全性を守るアプリをAIと二人三脚で作った話",
-    "link": "https://qiita.com/a-nagaoka/items/aa575fc8d3bf7c06b1c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T22:31:11.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nQiitaの皆さん、こんにちは。仕事のチームメンバーとなら、お互いの意見が違っても、割と「建設的な意見交換」ができますよね。\nなのに、相手が家族だと、なぜかそれが難しくなる！ そんな経験、ありませんか？（私はめっちゃあります）\n\nもう限界！家事分担を見直したい！..."
   },
   {
     "title": "VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援",
@@ -250,13 +257,6 @@
     "pubDate": "2025-11-17T11:43:37.000Z",
     "source": "Qiita",
     "contentSnippet": "先日libxml2のリポジトリに、楽しいテキストが追加されていました。\n\nThis is open-source software written by hobbyists, maintained by a single volunteer, badly tested, ..."
-  },
-  {
-    "title": "【TOON】JSON時代の終わり？ 話題のTOONを解説してみた",
-    "link": "https://qiita.com/shanks665/items/a5ec31706af9ffffc491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T04:19:58.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nLLMのAPIコストが気になったことはないだろうか。プロンプトに大量のデータを渡すと、トークン数が爆発してコストもレスポンスも悪化する。\nその原因の一つがJSONだ。JSONは人間が読みやすいように設計されているため、記号や繰り返しが多い。LLMにとっては無駄が..."
   },
   {
     "title": "GitHubで最も使われている言語の1位はPythonを抜いてTypeScriptに、最もコントリビュータが増加したOSSは「Zenブラウザ」。Octoverse 2025",

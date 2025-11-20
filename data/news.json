@@ -1,73 +1,73 @@
 [
   {
-    "title": "Mutex and Lock Guard in C++",
-    "link": "https://dev.to/min38/mutex-and-lock-guard-in-c-17i9",
-    "pubDate": "Thu, 20 Nov 2025 01:53:59 +0000",
+    "title": "Hashicorp Vault: Secret Management Engines",
+    "link": "https://dev.to/admantium/hashicorp-vault-secret-management-engines-48nb",
+    "pubDate": "Thu, 20 Nov 2025 06:25:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mutex (Mutual Exclusion)\n\n\nMutex is a synchronization object that controls access to shared resources in a multithreaded environment.\nCode Example\n#include <mutex>\n#include <thread>\n\nstd::mutex mtx;\ni"
+    "contentSnippet": "Hashicorp Vault is a secrets management tool. It enables encrypted storage of sensitive data like API credentials, database passwords, certificates and encryption keys. This is managed by flexible plu"
   },
   {
-    "title": "My Open-Source Contribution - Working on TypeScript-ESLint",
-    "link": "https://dev.to/oleksandrakordonets/my-open-source-contribution-working-on-typescript-eslint-gmd",
-    "pubDate": "Thu, 20 Nov 2025 01:46:49 +0000",
+    "title": "🚀 Type Alias in TypeScript: Why I Use Them Every Day (And How They Compare to Interfaces)",
+    "link": "https://dev.to/mashayeakh_islam_2666f2c3/type-alias-in-typescript-why-i-use-them-every-day-and-how-they-compare-to-interfaces-399n",
+    "pubDate": "Thu, 20 Nov 2025 06:20:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I wanted to share my contributions to open-source, and especially the work I recently did for the TypeScript-ESLint project. For this week, I challenged myself to contribute to a much bigger and more "
+    "contentSnippet": "If you’ve already dipped your toes into TypeScript, you’ve probably met that one feature everyone talks about but no one fully explains at the start.\nA type alias is basically giving a nickname to a t"
   },
   {
-    "title": "API Gateway vs Service Mesh: Beyond the North–South/East–West Myth",
-    "link": "https://dev.to/rajkundalia/api-gateway-vs-service-mesh-beyond-the-north-southeast-west-myth-2mpg",
-    "pubDate": "Thu, 20 Nov 2025 01:41:21 +0000",
+    "title": "How I Played With Self-Correcting LLMs While Fixing My Blog",
+    "link": "https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k",
+    "pubDate": "Thu, 20 Nov 2025 06:17:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Please note that the page became big because I had questions on my own and less information would have made things look speculatory. You can skip this and read links added at the end of the page, they"
+    "contentSnippet": "Last week, I was staring at my latest blog draft, wondering why some sentences just sounded… off. Even though I’d let the AI generate most of it, a few phrases still felt clunky. That’s when I got cur"
   },
   {
-    "title": "CancellationToken: The Complete Technical Guide for .NET Developers",
-    "link": "https://dev.to/iron-software/-cancellationtoken-the-complete-technical-guide-for-net-developers-1h7p",
-    "pubDate": "Thu, 20 Nov 2025 01:41:01 +0000",
+    "title": "Why You Should Never Raise Money Before Finding Product Market Fit",
+    "link": "https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884",
+    "pubDate": "Thu, 20 Nov 2025 06:16:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "C# CancellationToken: The Complete Technical Guide for .NET Developers\n\n\nA CancellationToken in .NET allows cooperative cancellation of long-running or asynchronous operations. \nInstead of force-stopp"
+    "contentSnippet": "Money is a terrible substitute for product market fit.\nIn 2020, Quibi raised $1.75 billion before launch. The company had A-list Hollywood talent, cutting-edge technology, and unlimited marketing budg"
   },
   {
-    "title": "Implementing SCA tools in large legacy Android Project",
-    "link": "https://dev.to/hyuwah/implementing-sca-tools-in-large-legacy-android-project-ije",
-    "pubDate": "Thu, 20 Nov 2025 01:40:03 +0000",
+    "title": "Which One Should You Choose: Bash or Make?",
+    "link": "https://dev.to/kingyou/which-one-should-you-choose-bash-or-make-2ig0",
+    "pubDate": "Thu, 20 Nov 2025 06:09:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\n\n\n\nStatic code analysis (SCA) embodies the \"shift left\" principle by moving quality control earlier in the development lifecycle. The implementation of pre-commit hooks in our project will au"
+    "contentSnippet": "When it comes to project automation, build workflows, and DevOps scripting, developers are often torn between Bash scripts and Makefiles. Both have strengths—and knowing when to use each can superchar"
   },
   {
-    "title": "Build a Fast Developer Blog with Open Blog and Next.js",
-    "link": "https://dev.to/jqueryscript/build-a-fast-developer-blog-with-open-blog-and-nextjs-3i84",
-    "pubDate": "Thu, 20 Nov 2025 01:32:34 +0000",
+    "title": "What Should QA Teams Prepare Before an Unannounced Inspection Occurs?",
+    "link": "https://dev.to/shalushrotiya/what-should-qa-teams-prepare-before-an-unannounced-inspection-occurs-4nme",
+    "pubDate": "Thu, 20 Nov 2025 06:05:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Open Blog: A minimal blogging platform built with Next.js 15, Tailwind CSS, and MDX for developers who want full control over their content.\nKey features:\n⚡ Static HTML generation with perfect Core We"
+    "contentSnippet": "QA teams must treat inspection readiness as continuous operational behavior, not a project. Prioritize controlled documentation, robust data integrity controls, rapid access to master records, cross-f"
   },
   {
-    "title": "C# Async/Await in .NET 10: The Complete Technical Guide for 2025",
-    "link": "https://dev.to/iron-software/c-asyncawait-in-net-10-the-complete-technical-guide-for-2025-1cii",
-    "pubDate": "Thu, 20 Nov 2025 01:30:49 +0000",
+    "title": "VitePress debug: \"frontmatter.title\" is appearing in search results",
+    "link": "https://dev.to/ahandsel/vitepress-debug-frontmattertitle-is-appearing-in-search-results-k60",
+    "pubDate": "Thu, 20 Nov 2025 05:56:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "C# Async/Await in .NET 10: The Complete Technical Guide for 2025\n\n\nWhat is C# Async/Await in .NET\nYou know how you have more than one core on your CPU? Async/Await is how .NET ensures you're using all"
+    "contentSnippet": "How to fix the issue of frontmatter.title appearing in VitePress search results instead of the actual content.\nWhen you first set up VitePress and use frontmatter to define titles and other metadata f"
   },
   {
-    "title": "Securing Cross-Account AWS Operations: Adding External ID Support to AwsCustomResource",
-    "link": "https://dev.to/aws-builders/securing-cross-account-aws-operations-adding-external-id-support-to-awscustomresource-l3p",
-    "pubDate": "Thu, 20 Nov 2025 01:05:15 +0000",
+    "title": "Deterministic RAG: A Drop-in Replacement for GraphRAG’s Unstable Planning",
+    "link": "https://dev.to/yuer/deterministic-rag-a-drop-in-replacement-for-graphrags-unstable-planning-3pii",
+    "pubDate": "Thu, 20 Nov 2025 05:53:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I recently contributed to the AWS Cloud Development Kit (CDK) by implementing External ID support for AwsCustomResource, a feature that enhances security for cross-account AWS operations. The pull req"
+    "contentSnippet": "Introduction\n\n\nCurrent RAG systems rely heavily on LLM-driven dynamic planning.\nsame query → different routes\nsmall context drift → different cluster summaries\ndebugging becomes guessing\nreproducibili"
   },
   {
-    "title": "Unlocking Crystal Secrets: A Novel Approach to Atomic Alchemy",
-    "link": "https://dev.to/arvind_sundararajan/unlocking-crystal-secrets-a-novel-approach-to-atomic-alchemy-44jd",
-    "pubDate": "Thu, 20 Nov 2025 01:02:06 +0000",
+    "title": "Delete Paragraphs in Word Documents using C#",
+    "link": "https://dev.to/codingco/delete-paragraphs-in-word-documents-using-c-9c7",
+    "pubDate": "Thu, 20 Nov 2025 05:43:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Unlocking Crystal Secrets: A Novel Approach to Atomic Alchemy\n\n\nTired of inefficient materials discovery? Imagine being able to conjure entirely new crystalline structures from thin air, precisely tai"
+    "contentSnippet": "In .NET development, automated processing of Word documents is a common requirement. Deleting paragraphs (such as cleaning up blank paragraphs or removing specific paragraphs) is one of the most frequ"
   },
   {
-    "title": "Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced",
-    "link": "https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-4o8i",
-    "pubDate": "Thu, 20 Nov 2025 00:53:43 +0000",
+    "title": "Integrating Machine Learning into .NET Healthcare Apps",
+    "link": "https://dev.to/evawilson01/integrating-machine-learning-into-net-healthcare-apps-113h",
+    "pubDate": "Thu, 20 Nov 2025 05:35:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When every Pod screams for CPU and memory, who decides who lives, who waits, and who gets evicted?\nKubernetes isn't just a scheduler — it's a negotiator of fairness and efficiency.\nThis article unpack"
+    "contentSnippet": "Healthcare software is evolving fast. The next real shift will not come from new databases or better dashboards. It will come from intelligence built into the systems themselves. Working at a healthca"
   },
   {
     "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",
@@ -84,13 +84,6 @@
     "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
   },
   {
-    "title": "Gemini3 ProのVision性能をチラシチャレンジしてみた",
-    "link": "https://zenn.dev/olemi/articles/gemini-3-vision-supermarket-flyer-test",
-    "pubDate": "Wed, 19 Nov 2025 06:40:41 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事はGemini3Proで生成して、気持ち人間が感想とかを書いた記事です。\n\n\n はじめに\n新しいAIモデルが登場するたびに、そのVision性能（日本語の読解および構造理解）を測るために、日本のスーパーのチラシ情報を正確に取得できるかテストする「チラシチャレンジ」を行っています。\n今回は、新しくリリースされた Gemini 3 の実力を測るべく、いつものようにスーパー玉出のチラシを使っ"
-  },
-  {
     "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
     "link": "https://zenn.dev/turing_motors/articles/81cf3128b22c63",
     "pubDate": "Wed, 19 Nov 2025 06:22:29 GMT",
@@ -105,6 +98,20 @@
     "contentSnippet": "はじめに\n開発ツールの月額料金、気づいたら結構な金額になっていませんか？Postman、GitHub、Notion...便利なツールほど、チーム規模が大きくなると課金額も膨らんでいきます。\n実は今、そんな商用ツールに匹敵する、いやそれ以上の機能を持つオープンソース代替が続..."
   },
   {
+    "title": "“ジャバラ”がバラっと完成！人事配置表自動化の舞台裏",
+    "link": "https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f",
+    "pubDate": "Wed, 19 Nov 2025 05:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "1. はじめに ― 「ジャバラ」とは？\n図１：組織人事一覧（見本）\n皆さんはタイトルを見て「ジャバラ？なんだそれ？果物か？うねうね、びよんびよんしたやつか？」と思われるでしょう。そうです、うねうねしたものなんです！\nジャバラは、都庁の人事配置一覧のことです。昔は都庁職員の一覧を蛇腹折りで保管していたため、この名前がついたそうです。\nGovTech東京でも、東京都の外郭団体として「ジャバラ」を作成し"
+  },
+  {
+    "title": "Kiroに統合されたQ CLI（Kiro-CLI）の新機能から見るAWSのAI開発の志向性の考察",
+    "link": "https://zenn.dev/lifull/articles/222b02560e3b0b",
+    "pubDate": "Wed, 19 Nov 2025 04:31:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "AWS製IDEであるKiroの一般提供が始まり、それに伴いAmazon Q Developer CLI（以下Q CLI）がKiro-CLIとして統合されました。\n本記事では、Q CLIからKiro CLIへの移行によって追加された主要機能を紹介します。その上で、これらの機能とAWSが提唱するAI-DLC（AI駆動開発ライフサイクル）との関連性、およびAWSの戦略的方向性について考察します。\n\n T"
+  },
+  {
     "title": "GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価",
     "link": "https://qiita.com/ntaka329/items/8595b9668158a563c35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T04:06:05.000Z",
@@ -117,13 +124,6 @@
     "pubDate": "Wed, 19 Nov 2025 03:04:28 GMT",
     "source": "Zenn",
     "contentSnippet": "Honoの面白いネタがあるので書きます。\n\n Web標準\nHonoはWeb標準のAPIを使って作られています。Web標準は元々ブラウザで動くもの（JavaScriptやCSS、HTML）に対して考えられた技術仕様もしくは指針です。昨今はCloudflare Workers、Deno、BunといったJavaScriptランタイムはV8やJavaScriptCoreブラウザのエンジンを使っていて、サー"
-  },
-  {
-    "title": "エージェントの検索精度を向上させる Amazon Nova Multimodal Embeddings - embeddingPurpose",
-    "link": "https://zenn.dev/9310/articles/2f989837eb7fe1",
-    "pubDate": "Wed, 19 Nov 2025 03:00:20 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。AWS Japan の AI/ML Specliaist Solutions Architect をしている佐藤です。\n本ブログは AWS AI Agent ブログ祭り(Zenn: #awsaiagentblogfes, X: #AWS_AI_AGENT_ブログ祭り)の第 18 日目です。よろしくお願いします。\n!\n📚 第 17 日目の記事はこちら！\n\nAmazon Nova Son"
   },
   {
     "title": "SDD(仕様駆動開発)と仕様について再度振り返る",
@@ -145,13 +145,6 @@
     "pubDate": "2025-11-19T00:52:44.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGoogle が 2025-11-18 に発表した AI エディタ、「Antigravity」を使って、実際に「AI チャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用した体験も踏..."
-  },
-  {
-    "title": "社会人1年目が語る、“セキュリティイベント沼”のすゝめ",
-    "link": "https://zenn.dev/nttdata_tech/articles/803a18ce35ba21",
-    "pubDate": "Wed, 19 Nov 2025 00:39:28 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n25卒でNTTデータグループに入社し、NTTDATA-CERTに配属された廣瀬です。\n学生時代から現在までセキュリティをはじめとしたIT系のイベントに積極的に参加しています。\n最近、「どのようなイベントに参加すればよいか」と質問を受けることが増えました。\nそこで本記事では、イベントに参加する意味、イベントの探し方、実際に参加して良かったセキュリティイベントを紹介します。\n\n 想定読者\n\n"
   },
   {
     "title": "なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法",
@@ -208,6 +201,13 @@
     "pubDate": "Tue, 18 Nov 2025 14:45:14 GMT",
     "source": "Zenn",
     "contentSnippet": "こちらはLayerX AI エージェントブログリレー48日目の記事です。\nこんにちは、CEO室でAIエージェント開発のPdMをしているKenta Watanabeです。昨日はTomoakiさんの作って学ぶ ChatGPT Atlas\nでした。Evalに関する実用的な記事になる予定だったんですが、ちょっと別テーマで書きたいことが出てきたのでテーマを変えてみます。これまでのAIエージェントブログリレー"
+  },
+  {
+    "title": "ローカルで稼働するOpen Notebook を実際に使ってみた",
+    "link": "https://zenn.dev/ryo_tsukuda/articles/d1ae2b44a45709",
+    "pubDate": "Tue, 18 Nov 2025 08:48:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nGoogle社で提供するNotebookLMが人気ですが\nこちらはクラウドで稼働するため機密文章を扱う際、セキュリティの問題が立ちはだかります。\nそういうったセキュリティ問題を解決するため、ローカルで扱えるNotebookが公開されました\nhttps://www.open-notebook.ai/\n今回はそれを試しにつかってみました。\n\n テストで利用する機密データ(サンプル)\n今回テス"
   },
   {
     "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",

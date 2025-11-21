@@ -1,73 +1,101 @@
 [
   {
-    "title": "From \"Gacha\" to \"Productivity\": A Deep Dive into Nano Banana Pro",
-    "link": "https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21",
-    "pubDate": "Fri, 21 Nov 2025 06:12:58 +0000",
+    "title": "Difference between .JAR and .WAR packaging in JAVA",
+    "link": "https://dev.to/eya_filali_a68c4d5bad918a/difference-between-jar-and-war-packaging-in-java-nph",
+    "pubDate": "Fri, 21 Nov 2025 12:38:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the AI image generation landscape of late 2025, Google DeepMind's Nano Banana Pro (also known as GemPix 2) has landed as a significant disruptor. Moving away from the \"Gacha-style\" randomness of ea"
+    "contentSnippet": "1. JAR packaging\n2. WAR packaging\nweb application deployments.\n3. Key differences\nThe key difference is their purpose and the way they function. JAR files allow us to package multiple files in order t"
   },
   {
-    "title": "SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success",
-    "link": "https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc",
-    "pubDate": "Fri, 21 Nov 2025 06:05:11 +0000",
+    "title": "Building a Technical Blog with Astro + Cloudflare",
+    "link": "https://dev.to/shusukedev/building-a-technical-blog-with-astro-cloudflare-33l",
+    "pubDate": "Fri, 21 Nov 2025 12:35:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everyone's talking about SIMA 2, DeepMind's Gemini-powered game agent, but the real opportunity is how it will change testing, training, and UX.\nGame AI is no longer a party trick.\nIt is a universal a"
+    "contentSnippet": "Building a Technical Blog with Astro + Cloudflare\n\n\nThis blog is built using Astro 5 and Cloudflare's edge computing technology. Here's how to build a fast and scalable blog system from scratch.\nAstro"
   },
   {
-    "title": "Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd",
-    "pubDate": "Fri, 21 Nov 2025 06:03:17 +0000",
+    "title": "How to Compress Your Prompts and Reduce LLM Costs",
+    "link": "https://dev.to/manishmshiva/how-to-compress-your-prompts-and-reduce-llm-costs-3pa",
+    "pubDate": "Fri, 21 Nov 2025 12:33:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Weird Science gets the Rewatchables treatment as Bill Simmons and Kyle Brandt dive into John Hughes’s 1985 cult classic starring Anthony Michael Hall, Kelly LeBrock, and Ilan Mitchell-Smith. Expect al"
+    "contentSnippet": "Microsoft just solved the hidden cost problem in AI with LLMLingua, making large language models faster, cheaper, and smarter.\nEvery developer working with large language models eventually faces the s"
   },
   {
-    "title": "Ringer Movies: The 25 Best Movies of the Century: No. 4 - 'Inglourious Basterds’",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4",
-    "pubDate": "Fri, 21 Nov 2025 06:03:01 +0000",
+    "title": "Swarm: How Browser-Based Compute Networks Turn Everyday Devices Into a Distributed Supercomputer",
+    "link": "https://dev.to/neurolov__ai/swarm-how-browser-based-compute-networks-turn-everyday-devices-into-a-distributed-supercomputer-2bf0",
+    "pubDate": "Fri, 21 Nov 2025 12:30:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Sean Fennessey and Amanda Dobbins slot Inglourious Basterds at No. 4 in their 21st-century movie countdown, arguing it’s Quentin Tarantino’s definitive triumph—outshining Once Upon a Time in Hollywood"
+    "contentSnippet": "A technical look at WebGPU-powered distributed compute systems\n\n\n\n  \n  \n  Introduction\n\n\nFor decades, large-scale compute infrastructure has been dominated by centralized data centers owned by cloud p"
   },
   {
-    "title": "SLS Copilot in Practice: Building a Flexible Data Infrastructure for LLM Applications with SLS",
-    "link": "https://dev.to/observabilityguy/sls-copilot-in-practice-building-a-flexible-data-infrastructure-for-llm-applications-with-sls-n94",
-    "pubDate": "Fri, 21 Nov 2025 05:50:22 +0000",
+    "title": "Cómo funcionan las tecnologías de navegación en los robots aspiradores: LIDAR, cámaras y sensores",
+    "link": "https://dev.to/silviajimenez/como-funcionan-las-tecnologias-de-navegacion-en-los-robots-aspiradores-lidar-camaras-y-sensores-114a",
+    "pubDate": "Fri, 21 Nov 2025 12:29:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "By Zhi Shao, From the Alibaba Cloud SLS Team\nIntroduction\nAs large language model (LLM) applications develop rapidly, we often focus on model fine-tuning and feature implementation. However, we tend t"
+    "contentSnippet": "La mayoría de robots aspiradores parecen iguales. A primera vista, cualquiera podría pensar que todos hacen lo mismo.\nLlevo más de 6 años poniendo a prueba este tipo de dispositivos en casas reales, y"
   },
   {
-    "title": "1) Describe the Python Selenium Architecture in Detail And What is the Significance of the Python Virtual Environment?",
-    "link": "https://dev.to/boobalan_rk_bce450f873037/1-describe-the-python-selenium-architecture-in-detail-and-what-is-the-significance-of-the-python-19la",
-    "pubDate": "Fri, 21 Nov 2025 05:47:22 +0000",
+    "title": "Bandwidth vs Latency: How They Affect Your Online Experience",
+    "link": "https://dev.to/sidra-jefferi/bandwidth-vs-latency-how-they-affect-your-online-experience-493e",
+    "pubDate": "Fri, 21 Nov 2025 12:13:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1) Describe the Python Selenium Architecture in Detail\nPython Selenium follows a client–server architecture designed to automate web browsers efficiently. The main components work together in a sequen"
+    "contentSnippet": "Have you ever wondered why your internet feels lightning-fast one moment and frustratingly slow the next, even when your speed test shows you’re getting great Mbps? Maybe your movie buffers during pea"
   },
   {
-    "title": "Angular 21 Released: What’s New & Developer Guide",
-    "link": "https://dev.to/mohitdecodes/angular-21-released-whats-new-developer-guide-3lm5",
-    "pubDate": "Fri, 21 Nov 2025 05:46:52 +0000",
+    "title": "Molecule Visualiser!",
+    "link": "https://dev.to/dev_ops_python/molecule-visualiser-508i",
+    "pubDate": "Fri, 21 Nov 2025 12:08:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Angular 21 landed on November 20, 2025, delivering major upgrades that improve performance, DX (developer experience), AI integration, and accessibility for web developers.\nFeatures Overview\nPerforman"
+    "contentSnippet": "This is a molecule visualiser app built with Streamlit and RDKit. this app has feature that allows you to visualise atoms and molecules in 2D and 3D .\nFeatures:\nVisualise molecules in 2D and 3D\nCustom"
   },
   {
-    "title": "How Impeller Is Transforming Flutter UI Rendering in 2026",
-    "link": "https://dev.to/eira-wexford/how-impeller-is-transforming-flutter-ui-rendering-in-2026-3dpd",
-    "pubDate": "Fri, 21 Nov 2025 05:45:51 +0000",
+    "title": "Building for the Future: Why Cloud Native App Development Is Transforming Modern Businesses",
+    "link": "https://dev.to/khushi_jitani_ca127abdedd/building-for-the-future-why-cloud-native-app-development-is-transforming-modern-businesses-2dp8",
+    "pubDate": "Fri, 21 Nov 2025 12:07:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Flutter has long been a favorite for cross-platform development, but early versions faced a persistent enemy: shader compilation jank. This stuttering effect, often visible during the first run of an "
+    "contentSnippet": "A New Era of Applications Begins\nTechnology is evolving faster than ever, and businesses are under constant pressure to deliver seamless, scalable, and high-performing digital experiences. This shift "
   },
   {
-    "title": "Meet Quesby: A Privacy-First Eleventy Starter That Stays Out of Your Way",
-    "link": "https://dev.to/quesby/meet-quesby-a-privacy-first-eleventy-starter-that-stays-out-of-your-way-4e6",
-    "pubDate": "Fri, 21 Nov 2025 05:44:02 +0000",
+    "title": "Quick Recap: Databases",
+    "link": "https://dev.to/codeintention/quick-recap-databases-4h03",
+    "pubDate": "Fri, 21 Nov 2025 12:04:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've always loved static site generators.\n\nBut every time I wanted to spin up a small, focused site, I kept hitting the same problems:\nBoilerplates full of stuff I didn't ask for\n\nToo many external de"
+    "contentSnippet": "There are different types of databases, each suited for different use cases.\nRelational Databases (RDBMS)\n\nUse structured tables with rows and columns. Follow ACID properties and use SQL for queries. "
   },
   {
-    "title": "Transforming Figma Designs into Flutter Code Using AI",
-    "link": "https://dev.to/eira-wexford/transforming-figma-designs-into-flutter-code-using-ai-10do",
-    "pubDate": "Fri, 21 Nov 2025 05:34:03 +0000",
+    "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2o8b",
+    "pubDate": "Fri, 21 Nov 2025 12:00:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The gap between visual design and functional code has always been a major bottleneck in app development. Designers create pixel-perfect interfaces, and developers spend countless hours translating tho"
+    "contentSnippet": "Everything Wrong With The Wiz In 15 Minutes Or Less takes you down the yellow brick road as CinemaSins revisits the 1978 musical now that Wicked’s back in theaters. In true Sin-oracle fashion, they po"
+  },
+  {
+    "title": "30万kmの道のり、東京でE2E自動運転を走らせる",
+    "link": "https://zenn.dev/turing_motors/articles/bc6436727234ad",
+    "pubDate": "Fri, 21 Nov 2025 05:34:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nチューリングで自動運転第一グループのマネージャをやっている棚橋です。\n今週、チューリングは無事にシリーズA 1st closeの資金調達を発表することができました。\nE2E自動運転の開発においても、ようやく都内を30分ほど走行できるレベルに到達しつつあります。しかし、ここに至るまでの道のりは決して平坦ではなく、多くの失敗や試行錯誤を積み重ねてきました。実際にチューリングでは今まで累計約3"
+  },
+  {
+    "title": "技術的負債はいつ解消すべきか？ - HERP が React 移行で使った3つの判断軸",
+    "link": "https://zenn.dev/herp_inc/articles/when-to-resolve-technical-debt",
+    "pubDate": "Fri, 21 Nov 2025 03:36:14 GMT",
+    "source": "Zenn",
+    "contentSnippet": "HERP の主力プロダクト HERP Hire は、2025 年で開発開始から 9 年目を迎える。\n長く運用されるプロダクトとなってきたので、事業の前提やユーザーの期待が変化する中で技術的負債とどう向き合うかが重要な課題となっている。\n技術的負債の解消について、多くの記事やドキュメントでは「どうやって解消するか」というアプローチに焦点が当てられているように思う。\nしかし、「どうやって解消するか」以"
+  },
+  {
+    "title": "論理削除の絞り込みはWHERE句でやるな",
+    "link": "https://zenn.dev/levtech/articles/squeeze-on-join-on",
+    "pubDate": "Fri, 21 Nov 2025 02:45:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "これはなに\nこんにちは、レバテック開発部のもりたです。\n論理削除、皆さんは採用していますか？　わたしが普段開発するシステムでは論理削除を採用しているものもあるのですが、今回はその論理削除の気を付けるべき点として「子テーブルの論理削除されたレコードの絞り込みをWHERE句でしてはならない」という問題について解説します。慣習的に起こりにくいミスなんですが、案外ダメなことを知らない人もいると思うので、ご"
+  },
+  {
+    "title": "「謝罪」しすぎない技術",
+    "link": "https://qiita.com/y_o_28/items/4f3bd30f1f0a8fe4c21e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T00:15:37.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. はじめに： なぜエンジニアは「すみません」を言いすぎてしまうのか\n開発現場で、無意識に口癖のように出てしまう「すみません」。\n心当たりはないでしょうか、私はあります....笑\n資料の提出が少し遅れたとき、MTGの冒頭、あるいは相手からの指摘を受けたとき、他チームにお..."
   },
   {
     "title": "Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証",
@@ -75,6 +103,41 @@
     "pubDate": "Thu, 20 Nov 2025 22:46:44 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n初めまして！AWS Japan に 2025/10/1 に入社した AI/ML Specialist Solutions Architect の Kujirada です。\n2025 年、MCP は Agent と外部システムを接続し、Tool として利用するためのプロトコルとして急速に普及しています。エンタープライズ利用の需要に伴い、Local MCP から Remote MCP への移"
+  },
+  {
+    "title": "念願の！API Gateway + Lambdaでストリーミングレスポンス！Bedrockの応答でカタカタできる！",
+    "link": "https://qiita.com/moritalous/items/2f9a783515abe8e3ccd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T15:59:45.000Z",
+    "source": "Qiita",
+    "contentSnippet": "念願のやつが来ました。これで、API Gateway経由でもBedrockの応答をそのままストリーミングできます。\n\n特に意味はないですが、大阪リージョンで試しました。\n\n設定\n\nマネコンでLambda管理画面を表示します\n\n「一から作成」を選択します\nランタイム..."
+  },
+  {
+    "title": "アクセスキーからaws loginへの移行を考える",
+    "link": "https://qiita.com/takahash_3/items/dcf78039fcbaea7848a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T13:13:48.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\n概要\n従来IAMユーザでローカルからAWSリソースを操作したい場合、アクセスキーを発行し、端末に設定する必要がありました。アクセスキーは長期認証情報にあたり、漏洩した場合は大きな被害につながる可能性があるため慎重に管理する必要がありました。\nそんな中発表された..."
+  },
+  {
+    "title": "Closed-Loop で実現するデータ中心の自動運転モデル",
+    "link": "https://zenn.dev/riita10069/books/ad-adas-closed-loop",
+    "pubDate": "Thu, 20 Nov 2025 10:49:14 GMT",
+    "source": "Zenn",
+    "contentSnippet": "自動運転モデル開発において考慮するべき事項を列挙しています"
+  },
+  {
+    "title": "あんさんぶるスターズ！！10周年UIアップデートで導入したコード自動生成とプレビュー機能",
+    "link": "https://zenn.dev/happy_elements/articles/hekk_article_20251119",
+    "pubDate": "Thu, 20 Nov 2025 10:06:53 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nあんさんぶるスターズ！！（以下、あんスタ）では、10周年を機に大規模なUIアップデートを実施しました。\nBright me up!! 10周年記念特設サイト｜あんさんぶるスターズ！！\nこの記事では、このUIアップデートで導入したコード自動生成とプレビュー機能をご紹介します。デザイナーがプレハブ作成後にコード生成することで動作確認まで完結でき、エンジニアを待たずに先行して開発できるワークフ"
+  },
+  {
+    "title": "【徹底比較】AI自律実装ツールでFedGAN論文を実装してみた - Copilot vs Antigravity × Claude/Gemini",
+    "link": "https://qiita.com/ntaka329/items/3b02073156239125bd6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T08:38:18.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n最近、AIによる自律実装支援ツールが相次いでリリースされました。Github Copilot Plan mode、Google AntigravityともにAIが実装計画を立案してくれる機能を持ちます。\n本記事では、前回個別に計画（設..."
   },
   {
     "title": "AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～",
@@ -89,13 +152,6 @@
     "pubDate": "2025-11-20T01:34:26.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGoogle Antigravityがリリースされました。\n「Cursor, Windsurf...またAI搭載エディタか」って思いませんでした？\n僕も最初そう思ってたんです。\nでもね、ドキュメント読み込んでいくうちに、ちょっと考えが変わりました。\nGoogl..."
-  },
-  {
-    "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
-    "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T23:41:41.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n現場で「なんだかメモリが増えている気がする」「GC（ガベージコレクション）があるから大丈夫だと思ったら落ちた…」「原因がよく分からないままサービス再起動してごまかしている」という経験はありませんか？\n本記事では、そんな“見えてるけど見えていない”存在、つまり 「..."
   },
   {
     "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
@@ -119,6 +175,13 @@
     "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
   },
   {
+    "title": "【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話",
+    "link": "https://zenn.dev/motty93/articles/release_huntershub",
+    "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "やぁ！みんな。\nハンティングライフ、楽しんでいるかな？\nどうもてぃです。\nこの度HuntersHubというサービスをリリースしたので、その開発経緯や技術スタック、実装で工夫した点などを振り返りながら書きなぐっていこうと思います。\n\n\n 開発経緯\n最近全くゲームは出来ていないのですが、ふとやりたいなぁと思うゲームとしてモンスターハンターポータブルシリーズがあります。\n\nMHP2G配信の動画を見る\nコ"
+  },
+  {
     "title": "なぜ React 哲学を守らないといけないのか？",
     "link": "https://zenn.dev/kkeeth/articles/why-learning-react-philosophy",
     "pubDate": "Wed, 19 Nov 2025 14:20:01 GMT",
@@ -133,67 +196,11 @@
     "contentSnippet": "概要\nECS Exec機能とAWS Systems Manager (SSM) Session Managerを組み合わせることで、ECS Fargateタスクを踏み台としてRDSにポートフォワーディングし、ローカルのDBクライアントから安全に接続できます。この記事では必要な準備から接続手順をまとめます。\n\n 前提条件\n\n 必要な権限\n\necs:DescribeTasks\necs:ListTask"
   },
   {
-    "title": "Microsoft Ignite 2025 で見つけた「個人的に激アツ」な Agent & Copilot アップデートまとめ",
-    "link": "https://qiita.com/katohiro_fi/items/d6e7630305236ce7de49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T13:33:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "2025/11/19（日本時間）から開催された Microsoft Ignite 2025。\n今年は例年以上に「Agent」「Copilot」といったキーワードが前面に押し出されていて、「エージェント AI 前提の世界」に備える年 になったと感じました。\nこの記事では、公式..."
-  },
-  {
-    "title": "OSSに貢献するときの心得",
-    "link": "https://zenn.dev/kyome/articles/1259c94ad576ca",
-    "pubDate": "Wed, 19 Nov 2025 13:00:10 GMT",
-    "source": "Zenn",
-    "contentSnippet": "私はOSSのアプリ/ライブラリの開発運営（オーナー）をしています[1]。世界中の多くの人がIssueを立ててくれたりPull Requestを立てて貢献（Contribute）してくれて嬉しい一方で、初コントリビュートでやり方を知らなかったり、我流が過ぎる方がおりオーナーとしてハンドリングに困ることも多々あります。そこで、OSSに貢献するときの基本的な心得を紹介します。\n\n Issue編\nIssu"
-  },
-  {
-    "title": "Typescriptにするだけで型安全になると思ってはいけない",
-    "link": "https://zenn.dev/takisato/articles/1a26aaa60ba2ba",
-    "pubDate": "Wed, 19 Nov 2025 08:49:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n「TypeScriptを使えば型安全なコードが書ける」\n多くの人はこんな期待を持って、コードを書き始めることでしょう。\nしかしそのコードは、「型」の恩恵を受けているでしょうか？\n例えば運動して痩せたいと思っている人を想像してみてください。「ジムに入会したから痩せるわ」と言われたらどうでしょう。\nその返しはあえて言いませんが、それと同じです。\n「Typescriptを使うだけ」で型安全にな"
-  },
-  {
-    "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
-    "link": "https://zenn.dev/turing_motors/articles/81cf3128b22c63",
-    "pubDate": "Wed, 19 Nov 2025 06:22:29 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nTuring CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。\n本記事では、OpenAIから2025年8月にリリースされたgpt-ossをNVIDIA NeMoフレームワークにて学習するための方法について解説します。\n2025年11月4日時点では、NVIDIA公式からは、LoRA finetunigを行う方法についてのみ解説されており"
-  },
-  {
-    "title": "A2A （Agent2Agent) プロトコルを基礎から学ぶ (1) LLM を使わない複数Agentのサンプル",
-    "link": "https://zenn.dev/sakura_internet/articles/e29d64a9d211a4",
-    "pubDate": "Wed, 19 Nov 2025 06:16:52 GMT",
-    "source": "Zenn",
-    "contentSnippet": "2025年4月、バラバラに動いていたAIエージェントたちに共通言語を与える画期的な取り組みとして、Googleが「A2A（Agent2Agent）プロトコル」を発表しました。\n\n AI Agentとは？\n実は明確な定義がありません。これがまずわかりづらさを生み出しています。\nRAGやMCPなどにより生成AIの検索能力は拡張され、様々なベンダーが多くの機能をリリースしてきました。LLMと対話するLL"
-  },
-  {
     "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
     "link": "https://qiita.com/kazuya828/items/27f81e75bed8fd7c5b47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T06:03:27.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n開発ツールの月額料金、気づいたら結構な金額になっていませんか？Postman、GitHub、Notion...便利なツールほど、チーム規模が大きくなると課金額も膨らんでいきます。\n実は今、そんな商用ツールに匹敵する、いやそれ以上の機能を持つオープンソース代替が続..."
-  },
-  {
-    "title": "“ジャバラ”がバラっと完成！人事配置表自動化の舞台裏",
-    "link": "https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f",
-    "pubDate": "Wed, 19 Nov 2025 05:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "1. はじめに ― 「ジャバラ」とは？\n図１：組織人事一覧（見本）\n皆さんはタイトルを見て「ジャバラ？なんだそれ？果物か？うねうね、びよんびよんしたやつか？」と思われるでしょう。そうです、うねうねしたものなんです！\nジャバラは、都庁の人事配置一覧のことです。昔は都庁職員の一覧を蛇腹折りで保管していたため、この名前がついたそうです。\nGovTech東京でも、東京都の外郭団体として「ジャバラ」を作成し"
-  },
-  {
-    "title": "Kiroに統合されたQ CLI（Kiro-CLI）の新機能から見るAWSのAI開発の志向性の考察",
-    "link": "https://zenn.dev/lifull/articles/222b02560e3b0b",
-    "pubDate": "Wed, 19 Nov 2025 04:31:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AWS製IDEであるKiroの一般提供が始まり、それに伴いAmazon Q Developer CLI（以下Q CLI）がKiro-CLIとして統合されました。\n本記事では、Q CLIからKiro CLIへの移行によって追加された主要機能を紹介します。その上で、これらの機能とAWSが提唱するAI-DLC（AI駆動開発ライフサイクル）との関連性、およびAWSの戦略的方向性について考察します。\n\n T"
-  },
-  {
-    "title": "GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価",
-    "link": "https://qiita.com/ntaka329/items/8595b9668158a563c35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T04:06:05.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\nVSCode 1.106で正式リリースされたCopilot Plan mode、もう試しましたか？\n「Agentモードで実装したら思ってたのと違う...」そんな手戻りを、Plan modeは対話的な仕様確認で改善してくれます。\n実際に..."
   },
   {
     "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている",
@@ -207,7 +214,7 @@
     "link": "https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T00:52:44.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nGoogle が 2025-11-18（米国時間）に発表した AI エディタ、「Antigravity」を使って、実際に「AI チャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用し..."
+    "contentSnippet": "はじめに\nGoogle が 2025-11-18（米国時間）に発表した AI エディタ、「Antigravity」を使って、実際に「AIチャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用した..."
   },
   {
     "title": "【速報】Google Gemini 3発表。推論・エージェント機能の進化を徹底解説",
@@ -236,13 +243,6 @@
     "pubDate": "2025-11-18T15:35:35.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュアに"
-  },
-  {
-    "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",
-    "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-18T07:34:01.000Z",
-    "source": "Qiita",
-    "contentSnippet": "複雑性はなぜ破綻するのか？\n計算量と認知負荷から読み解く、ソフトウェアの限界について考えました。\n\nこれは、情報過多時代の「過学習」にも通じるテーマです。\n私たちの脳がどこで飽和し、どこから理解が追いつかなくなるのか..その構造を知ることは、エンジニアリングだけでなくリス..."
   },
   {
     "title": "VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援",

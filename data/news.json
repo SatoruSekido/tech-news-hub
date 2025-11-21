@@ -1,73 +1,80 @@
 [
   {
-    "title": "High-Trust Teams Ship Faster: The Human Side of Engineering",
-    "link": "https://dev.to/aris_georgatos/high-trust-teams-ship-faster-the-human-side-of-engineering-ndn",
-    "pubDate": "Thu, 20 Nov 2025 18:33:48 +0000",
+    "title": "A beginner's guide to the Whisperx model by Victor-Upmeet on Replicate",
+    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-whisperx-model-by-victor-upmeet-on-replicate-pj0",
+    "pubDate": "Fri, 21 Nov 2025 01:45:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most engineering teams think most of their blockers are technical.\nThe brutal truth? The brutal truth? Most engineering teams are hemorrhaging productivity, and they blame a leaky abstraction.\nWe, as "
+    "contentSnippet": "This is a simplified guide to an AI model called Whisperx maintained by Victor-Upmeet. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nwhisperx is a speech t"
   },
   {
-    "title": "SynthID Explained: A Technical Deep Dive into DeepMind’s Invisible Watermarking System",
-    "link": "https://dev.to/grenishrai/synthid-explained-a-technical-deep-dive-into-deepminds-invisible-watermarking-system-38n7",
-    "pubDate": "Thu, 20 Nov 2025 18:29:42 +0000",
+    "title": "Making dynamic UIs accessible with ARIA live regions",
+    "link": "https://dev.to/nick_fe_nick/making-dynamic-uis-accessible-with-aria-live-regions-531d",
+    "pubDate": "Fri, 21 Nov 2025 01:42:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI generated media has reached a point where provenance can’t rely on good faith or weak metadata. Screenshots erase EXIF tags. Text can be copied into a blank buffer. Videos can be compressed and reu"
+    "contentSnippet": "If your UI updates content dynamically — form errors, loading states, search results, “saved!” messages — screen reader users won’t automatically know that something changed. Unless you tell them.\nThi"
   },
   {
-    "title": "Technance.com و کارتل خوک‌ها: یک اکوسیستم کلاهبرداری دیجیتال",
-    "link": "https://dev.to/cartel_of_pigs/technancecom-w-khrtl-khwkhh-ykh-khwsystm-khlhbrdry-dyjytl-250c",
-    "pubDate": "Thu, 20 Nov 2025 18:21:12 +0000",
+    "title": "After-Sales Support from Mini Asphalt Plant Manufacturers Reduces Long-Term Costs",
+    "link": "https://dev.to/macroad/after-sales-support-from-mini-asphalt-plant-manufacturers-reduces-long-term-costs-2589",
+    "pubDate": "Fri, 21 Nov 2025 01:34:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "کلاهبرداری‌های رمزارزی امروز\n\n\nدر سال‌های اخیر، ایران شاهد جهش قابل توجهی در کلاهبرداری‌های مرتبط با رمزارز بوده است؛ مسأله‌ای که از یک سو ناشی از فشارهای اقتصادی و از سوی دیگر نتیجه افزایش علاقه عموم"
+    "contentSnippet": "Beyond the initial investment of how much does it cost to build an asphalt plant, after-sales support from mini asphalt plant manufacturers plays a crucial role in reducing long-term operational costs"
   },
   {
-    "title": "Padrões de projeto no front-end?",
-    "link": "https://dev.to/layssadev/padroes-de-projeto-no-front-end-1pip",
-    "pubDate": "Thu, 20 Nov 2025 18:19:43 +0000",
+    "title": "📰 Tech Takes: A Whirlwind Day in Innovation on November 20, 2025",
+    "link": "https://dev.to/om_shree_0709/tech-takes-a-whirlwind-day-in-innovation-on-november-20-2025-309c",
+    "pubDate": "Fri, 21 Nov 2025 01:29:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Alguns meses atrás me deparei com a necessidade de refazer um projeto front-end do zero. Isso me levou a uma busca por padrões de projetos aplicados ao front-end - algo que, particularmente, não é tão"
+    "contentSnippet": "Hey there, fellow gadget lover. Picture this: It's a crisp autumn morning, your coffee's brewing, and you fire up your phone to catch up on the world. But instead of the usual doom-scroll, tech news h"
   },
   {
-    "title": "UTP Cat6 Patch cord,7*0.16 26AWG (CCA) 0.5m - Review",
-    "link": "https://dev.to/innocomltd/utp-cat6-patch-cord7016-26awg-cca-05m-review-5did",
-    "pubDate": "Thu, 20 Nov 2025 18:19:25 +0000",
+    "title": "The Solution to Rails schema.sql Fickleness: BetterStructureSql",
+    "link": "https://dev.to/mashraf_aiman_b9a968e5c1d/the-solution-to-rails-schemasql-fickleness-betterstructuresql-3aca",
+    "pubDate": "Fri, 21 Nov 2025 01:26:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\n\n\n\n  \n  \n  About UTP Cat6 Patch cord,7*0.16 26AWG (CCA) 0.5m\n\n\nUTP Cat6 Patch cord,7*0.16 26AWG (CCA) 0.5m\nდაკავშირებული პროდუქტები:\nUTP Cat6 Patch cord,7*0.18 24AWG (CU) 3m\nLearn more: UTP C"
+    "contentSnippet": "Database schema dumps play a larger role in production engineering than most teams realize. A clean, deterministic, version-stable schema file becomes crucial once an application evolves beyond a simp"
   },
   {
-    "title": "Arcane Forge: A D&D magic item generator built with Google AI Studio",
-    "link": "https://dev.to/tawe/arcane-forge-a-dd-magic-item-generator-built-with-google-ai-studio-1cn0",
-    "pubDate": "Thu, 20 Nov 2025 18:16:40 +0000",
+    "title": "How useEffect Works Behind the Scenes in React",
+    "link": "https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd",
+    "pubDate": "Fri, 21 Nov 2025 01:19:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.\nI used Google AI Studio’s “Build apps with Gemini” feature to create Arcane Forge, a small generator that creates "
+    "contentSnippet": "You've probably used useEffect hundreds of times by now. Maybe you've even mastered the dependency array dance (we've all been there). But here's something that might surprise you. Have you ever stopp"
   },
   {
-    "title": "Entendendo Sícrono vs Assíncrono: Threads, Await e Performance",
-    "link": "https://dev.to/chihiro_dev/entendendo-sicrono-vs-assincrono-threads-await-e-performance-5ac3",
-    "pubDate": "Thu, 20 Nov 2025 18:09:27 +0000",
+    "title": "Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers",
+    "link": "https://dev.to/mashraf_aiman_b9a968e5c1d/give-your-sqlite-queries-their-own-workers-a-practical-guide-for-nodejs-developers-3d74",
+    "pubDate": "Fri, 21 Nov 2025 01:11:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Conceitos como esses inevitavelmente aparecem na vida de quem desenvolve software. No começo, tudo parece confuso — e é normal. Você não precisa entender tudo de uma vez, quase ninguém entende. Mas ma"
+    "contentSnippet": "SQLite is known for being lightweight, reliable, and surprisingly fast. In the Node.js ecosystem, one of the most popular libraries for working with it is better-sqlite3. The performance is excellent,"
   },
   {
-    "title": "Cat5e UTP ქისთონ ჯეკი - Review",
-    "link": "https://dev.to/innocomltd/cat5e-utp-kiston-jeki-review-i0k",
-    "pubDate": "Thu, 20 Nov 2025 18:09:18 +0000",
+    "title": "I put an Air-Gapped Neural Network in my pocket (Python on Android)",
+    "link": "https://dev.to/sovarcneo/i-put-an-air-gapped-neural-network-in-my-pocket-python-on-android-1632",
+    "pubDate": "Fri, 21 Nov 2025 01:05:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\n\n\n\n  \n  \n  About Cat5e UTP ქისთონ ჯეკი\n\n\nCat5e UTP keystone jack\nLearn more: Cat5e UTP ქისთონ ჯეკი\nOriginally published at innocom.ge"
+    "contentSnippet": "The Pocket Mainframe\n\n\nI shared my desktop AI defense system. Now I'm sharing the mobile unit.\nThis is NEXUS v9, a sovereign network intelligence tool designed to run natively on Android (via Pydroid3"
   },
   {
-    "title": "CAT6A UTP Keystone Jack Toolless 180 - Review",
-    "link": "https://dev.to/innocomltd/cat6a-utp-keystone-jack-toolless-180deg-review-4bai",
-    "pubDate": "Thu, 20 Nov 2025 18:08:23 +0000",
+    "title": "Beyond Behavior Trees: Unleashing Smarter Robots with Executable Knowledge by Arvind Sundararajan",
+    "link": "https://dev.to/arvind_sundararajan/beyond-behavior-trees-unleashing-smarter-robots-with-executable-knowledge-by-arvind-sundararajan-1fg2",
+    "pubDate": "Fri, 21 Nov 2025 01:02:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\n\n\n\n  \n  \n  About CAT6A UTP Keystone Jack Toolless 180°\n\n\nCAT6A UTP Keystone Jack Toolless 180°\nLearn more: CAT6A UTP Keystone Jack Toolless 180°\nOriginally published at innocom.ge"
+    "contentSnippet": "Beyond Behavior Trees: Unleashing Smarter Robots with Executable Knowledge\n\n\nTired of brittle robot behaviors that fall apart when the environment changes? Are you struggling to scale your autonomous "
   },
   {
-    "title": "CAT6 UTP RJ45 კონექტორი, 2 ცალი - Review",
-    "link": "https://dev.to/innocomltd/cat6-utp-rj45-konektori-2-cali-review-4c2c",
-    "pubDate": "Thu, 20 Nov 2025 18:04:12 +0000",
+    "title": "TestRail Manager: Automatiza tu Gestión de Pruebas con Python",
+    "link": "https://dev.to/jefferson_rosas/testrail-manager-automatiza-tu-gestion-de-pruebas-con-python-2ba",
+    "pubDate": "Fri, 21 Nov 2025 00:58:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Overview\n\n\n\n  \n  \n  About CAT6 UTP RJ45 კონექტორი, 2 ცალი\n\n\nCAT6 UTP RJ45 Connector,2-Piece\nLearn more: CAT6 UTP RJ45 კონექტორი, 2 ცალი\nOriginally published at innocom.ge"
+    "contentSnippet": "🚀 TestRail Manager: Automatiza tu Gestión de Pruebas con Python\n\n\n¿Cansado de gestionar manualmente tus casos de prueba en TestRail? ¿Quieres automatizar el reporte de resultados desde tus tests? Tes"
+  },
+  {
+    "title": "AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～",
+    "link": "https://zenn.dev/r_kaga/articles/74673cb9333007",
+    "pubDate": "Thu, 20 Nov 2025 08:24:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "初めまして、kagayaです。\n共訳した「AIエンジニアリング（オライリー・ジャパン）」が2025年11月28日に発売します。\nhttps://www.oreilly.co.jp/books/9784814401383/\n今回は書籍のタイトルでもある、AIエンジニアリングについてです。\n基盤モデルのAPI化により、AIをプロダクトに組み込むスキルの需要が高まっています。\nそれが、書籍のテーマである"
   },
   {
     "title": "【保存版】Google Antigravity 完全攻略ガイド｜次世代 \"エージェント型\" IDEのすべてを使い倒すチートシート",
@@ -82,6 +89,20 @@
     "pubDate": "2025-11-19T23:41:41.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n現場で「なんだかメモリが増えている気がする」「GC（ガベージコレクション）があるから大丈夫だと思ったら落ちた…」「原因がよく分からないままサービス再起動してごまかしている」という経験はありませんか？\n本記事では、そんな“見えてるけど見えていない”存在、つまり 「..."
+  },
+  {
+    "title": "⚔️ C#クエスト ― LINQの試練 🐉",
+    "link": "https://zenn.dev/plusone/articles/ea227c2f5d323e",
+    "pubDate": "Wed, 19 Nov 2025 23:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "🌅 プロローグ — 久しぶりの再会\n\n長いあいだ C# から離れていた。\nVB6 と .NET を行き来していた頃の記憶はまだ残っているけれど、\n本格的に C# と向き合っていたわけではない。\nそれでも――\n当時の C# の“手触り”は覚えている。\n素朴で、伸びしろの多い、どこか初々しい言語だった。\nところが久しぶりに再会してみると、\nその姿はまるで別物だった。\nラムダ式、LINQ、非同期、パタ"
+  },
+  {
+    "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
+    "link": "https://qiita.com/sion_neko/items/105168a19194c67a13d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T16:44:07.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n2025年11月18日、GoogleがAntigravityという新しいIDEを発表し、AIコーディングツールの選択肢がまた一つ増えました。早速試してみたので、普段使っているClaude Codeと比較しながら感想をまとめます。\nちょっと気になっている人に使用感..."
   },
   {
     "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",
@@ -112,6 +133,13 @@
     "contentSnippet": "こんにちは．年々病気に弱くなってきて体力の低下と年齡を感じる今日このごろです． Keeth こと桑原です．\n毎日お世話になっている 𝕏 で以下のポストを見かけました．\nhttps://x.com/le_panda_noir/status/1962638427628937481\nこちらの投稿を見たとき「これは読みたい！」と思ったのですが，しっかりリプライで\n\n書きたいってか、こういう感じのを誰か書"
   },
   {
+    "title": "Microsoft Ignite 2025 で見つけた「個人的に激アツ」な Agent & Copilot アップデートまとめ",
+    "link": "https://qiita.com/katohiro_fi/items/d6e7630305236ce7de49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T13:33:37.000Z",
+    "source": "Qiita",
+    "contentSnippet": "2025/11/19（日本時間）から開催された Microsoft Ignite 2025。\n今年は例年以上に「Agent」「Copilot」といったキーワードが前面に押し出されていて、「エージェント AI 前提の世界」に備える年 になったと感じました。\nこの記事では、公式..."
+  },
+  {
     "title": "OSSに貢献するときの心得",
     "link": "https://zenn.dev/kyome/articles/1259c94ad576ca",
     "pubDate": "Wed, 19 Nov 2025 13:00:10 GMT",
@@ -119,11 +147,11 @@
     "contentSnippet": "私はOSSのアプリ/ライブラリの開発運営（オーナー）をしています[1]。世界中の多くの人がIssueを立ててくれたりPull Requestを立てて貢献（Contribute）してくれて嬉しい一方で、初コントリビュートでやり方を知らなかったり、我流が過ぎる方がおりオーナーとしてハンドリングに困ることも多々あります。そこで、OSSに貢献するときの基本的な心得を紹介します。\n\n Issue編\nIssu"
   },
   {
-    "title": "「拡張メソッドの限界突破」C# 14 の Extension members を超簡潔に解説",
-    "link": "https://qiita.com/Sakai_path/items/b40ca57429a8e515f9ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T07:06:53.000Z",
-    "source": "Qiita",
-    "contentSnippet": "女性エンジニア応援 Advent Calendar 2025 参加者募集中です！\n\nはじめに\nC# 14（.NET 10 世代）から新たに導入された Extension members は、従来の拡張メソッドを“上位互換”にしたような機能です。\n拡張メソッドは便利でしたが、..."
+    "title": "Typescriptにするだけで型安全になると思ってはいけない",
+    "link": "https://zenn.dev/takisato/articles/1a26aaa60ba2ba",
+    "pubDate": "Wed, 19 Nov 2025 08:49:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「TypeScriptを使えば型安全なコードが書ける」\n多くの人はこんな期待を持って、コードを書き始めることでしょう。\nしかしそのコードは、「型」の恩恵を受けているでしょうか？\n例えば運動して痩せたいと思っている人を想像してみてください。「ジムに入会したから痩せるわ」と言われたらどうでしょう。\nその返しはあえて言いませんが、それと同じです。\n「Typescriptを使うだけ」で型安全にな"
   },
   {
     "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
@@ -131,6 +159,13 @@
     "pubDate": "Wed, 19 Nov 2025 06:22:29 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nTuring CTO室に所属している東京科学大学(Institute of Science Tokyo)の藤井です。\n本記事では、OpenAIから2025年8月にリリースされたgpt-ossをNVIDIA NeMoフレームワークにて学習するための方法について解説します。\n2025年11月4日時点では、NVIDIA公式からは、LoRA finetunigを行う方法についてのみ解説されており"
+  },
+  {
+    "title": "A2A （Agent2Agent) プロトコルを基礎から学ぶ (1) LLM を使わない複数Agentのサンプル",
+    "link": "https://zenn.dev/sakura_internet/articles/e29d64a9d211a4",
+    "pubDate": "Wed, 19 Nov 2025 06:16:52 GMT",
+    "source": "Zenn",
+    "contentSnippet": "2025年4月、バラバラに動いていたAIエージェントたちに共通言語を与える画期的な取り組みとして、Googleが「A2A（Agent2Agent）プロトコル」を発表しました。\n\n AI Agentとは？\n実は明確な定義がありません。これがまずわかりづらさを生み出しています。\nRAGやMCPなどにより生成AIの検索能力は拡張され、様々なベンダーが多くの機能をリリースしてきました。LLMと対話するLL"
   },
   {
     "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
@@ -154,25 +189,11 @@
     "contentSnippet": "AWS製IDEであるKiroの一般提供が始まり、それに伴いAmazon Q Developer CLI（以下Q CLI）がKiro-CLIとして統合されました。\n本記事では、Q CLIからKiro CLIへの移行によって追加された主要機能を紹介します。その上で、これらの機能とAWSが提唱するAI-DLC（AI駆動開発ライフサイクル）との関連性、およびAWSの戦略的方向性について考察します。\n\n T"
   },
   {
-    "title": "HonoとPerl 〜 異文化を持ち込む",
-    "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
-    "pubDate": "Wed, 19 Nov 2025 03:04:28 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Honoの面白いネタがあるので書きます。\n\n Web標準\nHonoはWeb標準のAPIを使って作られています。Web標準は元々ブラウザで動くもの（JavaScriptやCSS、HTML）に対して考えられた技術仕様もしくは指針です。昨今はCloudflare Workers、Deno、BunといったJavaScriptランタイムはV8やJavaScriptCoreブラウザのエンジンを使っていて、サー"
-  },
-  {
-    "title": "SDD(仕様駆動開発)と仕様について再度振り返る",
-    "link": "https://zenn.dev/beagle/articles/fd60745bc54de1",
-    "pubDate": "Wed, 19 Nov 2025 02:56:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "びーぐるです🐶\nAgentic Codingの開発スタイルのひとつとして、仕様駆動開発(SDD)が以前にも増して注目を浴びるようになりました。\n例えば、Findy様主催のイベント「仕様駆動開発〜新たな開発手法の可能性と実践〜」では、昼開催にもかかわらず1300人を超える参加者が集まっています。\nhttps://findy.connpass.com/event/373561/\n私も過去に何本かSD"
-  },
-  {
-    "title": "国土交通データプラットフォーム MCP サーバーが出てた",
-    "link": "https://zenn.dev/rescuenow/articles/ff5dca69861b94",
-    "pubDate": "Wed, 19 Nov 2025 02:43:42 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\ntokadev です。\n国土交通省が提供するオープンデータプラットフォームには、インフラ施設、PLATEAU（3D 都市モデル）、交通、地理・測量、気象・災害など、非常に多様なデータが公開されています。\nこれらのデータは GraphQL API でアクセスできるのですが、API 仕様を調べてクエリを書いて...という作業は少し手間がかかります。\nと思っていたら公式の MCP が公開されま"
+    "title": "GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価",
+    "link": "https://qiita.com/ntaka329/items/8595b9668158a563c35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T04:06:05.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGMOコネクトの永田です。\nVSCode 1.106で正式リリースされたCopilot Plan mode、もう試しましたか？\n「Agentモードで実装したら思ってたのと違う...」そんな手戻りを、Plan modeは対話的な仕様確認で改善してくれます。\n実際に..."
   },
   {
     "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている",
@@ -187,13 +208,6 @@
     "pubDate": "2025-11-19T00:52:44.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGoogle が 2025-11-18（米国時間）に発表した AI エディタ、「Antigravity」を使って、実際に「AI チャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用し..."
-  },
-  {
-    "title": "なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法",
-    "link": "https://zenn.dev/loglass/articles/7dfe1fb0aa1086",
-    "pubDate": "Wed, 19 Nov 2025 00:28:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、ログラスの松岡(@little_hand_s)です\n\n\n 3行まとめ\n\nバッファを適切に積まないと、計画が遅延する可能性が高まる。\nバッファを積みにくくする心理的バイアス(計画錯誤、過度に守備的と思われる不安)が存在する。\nバイアスを打ち破るために、内訳を分解して過去の実績データに基づいて算出する「分解・ファクトベースバッファ」を使うとよい\n\n※この記事ではアジャイル開発を例に説明しま"
   },
   {
     "title": "【速報】Google Gemini 3発表。推論・エージェント機能の進化を徹底解説",
@@ -243,20 +257,6 @@
     "pubDate": "2025-11-17T15:13:17.000Z",
     "source": "Publickey",
     "contentSnippet": "調査会社のSynergy Research Groupは、グローバルにおける2025年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせたものを指します。 発表によると、第3四半期のクラウドインフラ市場は1年前と比較して28％成長となり、市場規模はグローバルで1069億ドル（1ドル155円換算で約"
-  },
-  {
-    "title": "文字をうつということ｜キーボード・オタク（著）",
-    "link": "https://qiita.com/kanekanekaneko/items/055b1db531c998ea09df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T15:07:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "0. はじめに\nタイピングという技術についての安易なTipsを期待してこの記事を読む人は、がっかりするだろう。\nこの記事は、そうした期待を裏切って読者にこう訴える。\n\nノートPCに備え付けらた、または会社から貸与されたキーボードに満足してはならない\n訓令式ローマ字、ヘボン..."
-  },
-  {
-    "title": "【libxml2】libxml2プロジェクトは放棄されました",
-    "link": "https://qiita.com/rana_kualu/items/29227778c0cb9ecd890f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T11:43:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "先日libxml2のリポジトリに、楽しいテキストが追加されていました。\n\nThis is open-source software written by hobbyists, maintained by a single volunteer, badly tested, ..."
   },
   {
     "title": "GitHubで最も使われている言語の1位はPythonを抜いてTypeScriptに、最もコントリビュータが増加したOSSは「Zenブラウザ」。Octoverse 2025",

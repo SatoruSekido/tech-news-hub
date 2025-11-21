@@ -1,73 +1,80 @@
 [
   {
-    "title": "A beginner's guide to the Whisperx model by Victor-Upmeet on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-whisperx-model-by-victor-upmeet-on-replicate-pj0",
-    "pubDate": "Fri, 21 Nov 2025 01:45:09 +0000",
+    "title": "From \"Gacha\" to \"Productivity\": A Deep Dive into Nano Banana Pro",
+    "link": "https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21",
+    "pubDate": "Fri, 21 Nov 2025 06:12:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Whisperx maintained by Victor-Upmeet. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nwhisperx is a speech t"
+    "contentSnippet": "In the AI image generation landscape of late 2025, Google DeepMind's Nano Banana Pro (also known as GemPix 2) has landed as a significant disruptor. Moving away from the \"Gacha-style\" randomness of ea"
   },
   {
-    "title": "Making dynamic UIs accessible with ARIA live regions",
-    "link": "https://dev.to/nick_fe_nick/making-dynamic-uis-accessible-with-aria-live-regions-531d",
-    "pubDate": "Fri, 21 Nov 2025 01:42:50 +0000",
+    "title": "SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success",
+    "link": "https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc",
+    "pubDate": "Fri, 21 Nov 2025 06:05:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If your UI updates content dynamically — form errors, loading states, search results, “saved!” messages — screen reader users won’t automatically know that something changed. Unless you tell them.\nThi"
+    "contentSnippet": "Everyone's talking about SIMA 2, DeepMind's Gemini-powered game agent, but the real opportunity is how it will change testing, training, and UX.\nGame AI is no longer a party trick.\nIt is a universal a"
   },
   {
-    "title": "After-Sales Support from Mini Asphalt Plant Manufacturers Reduces Long-Term Costs",
-    "link": "https://dev.to/macroad/after-sales-support-from-mini-asphalt-plant-manufacturers-reduces-long-term-costs-2589",
-    "pubDate": "Fri, 21 Nov 2025 01:34:11 +0000",
+    "title": "Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd",
+    "pubDate": "Fri, 21 Nov 2025 06:03:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Beyond the initial investment of how much does it cost to build an asphalt plant, after-sales support from mini asphalt plant manufacturers plays a crucial role in reducing long-term operational costs"
+    "contentSnippet": "Weird Science gets the Rewatchables treatment as Bill Simmons and Kyle Brandt dive into John Hughes’s 1985 cult classic starring Anthony Michael Hall, Kelly LeBrock, and Ilan Mitchell-Smith. Expect al"
   },
   {
-    "title": "📰 Tech Takes: A Whirlwind Day in Innovation on November 20, 2025",
-    "link": "https://dev.to/om_shree_0709/tech-takes-a-whirlwind-day-in-innovation-on-november-20-2025-309c",
-    "pubDate": "Fri, 21 Nov 2025 01:29:12 +0000",
+    "title": "Ringer Movies: The 25 Best Movies of the Century: No. 4 - 'Inglourious Basterds’",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4",
+    "pubDate": "Fri, 21 Nov 2025 06:03:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey there, fellow gadget lover. Picture this: It's a crisp autumn morning, your coffee's brewing, and you fire up your phone to catch up on the world. But instead of the usual doom-scroll, tech news h"
+    "contentSnippet": "Sean Fennessey and Amanda Dobbins slot Inglourious Basterds at No. 4 in their 21st-century movie countdown, arguing it’s Quentin Tarantino’s definitive triumph—outshining Once Upon a Time in Hollywood"
   },
   {
-    "title": "The Solution to Rails schema.sql Fickleness: BetterStructureSql",
-    "link": "https://dev.to/mashraf_aiman_b9a968e5c1d/the-solution-to-rails-schemasql-fickleness-betterstructuresql-3aca",
-    "pubDate": "Fri, 21 Nov 2025 01:26:52 +0000",
+    "title": "SLS Copilot in Practice: Building a Flexible Data Infrastructure for LLM Applications with SLS",
+    "link": "https://dev.to/observabilityguy/sls-copilot-in-practice-building-a-flexible-data-infrastructure-for-llm-applications-with-sls-n94",
+    "pubDate": "Fri, 21 Nov 2025 05:50:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Database schema dumps play a larger role in production engineering than most teams realize. A clean, deterministic, version-stable schema file becomes crucial once an application evolves beyond a simp"
+    "contentSnippet": "By Zhi Shao, From the Alibaba Cloud SLS Team\nIntroduction\nAs large language model (LLM) applications develop rapidly, we often focus on model fine-tuning and feature implementation. However, we tend t"
   },
   {
-    "title": "How useEffect Works Behind the Scenes in React",
-    "link": "https://dev.to/sxchintha/how-useeffect-works-behind-the-scenes-in-react-3fjd",
-    "pubDate": "Fri, 21 Nov 2025 01:19:37 +0000",
+    "title": "1) Describe the Python Selenium Architecture in Detail And What is the Significance of the Python Virtual Environment?",
+    "link": "https://dev.to/boobalan_rk_bce450f873037/1-describe-the-python-selenium-architecture-in-detail-and-what-is-the-significance-of-the-python-19la",
+    "pubDate": "Fri, 21 Nov 2025 05:47:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You've probably used useEffect hundreds of times by now. Maybe you've even mastered the dependency array dance (we've all been there). But here's something that might surprise you. Have you ever stopp"
+    "contentSnippet": "1) Describe the Python Selenium Architecture in Detail\nPython Selenium follows a client–server architecture designed to automate web browsers efficiently. The main components work together in a sequen"
   },
   {
-    "title": "Give Your SQLite Queries Their Own Workers: A Practical Guide for Node.js Developers",
-    "link": "https://dev.to/mashraf_aiman_b9a968e5c1d/give-your-sqlite-queries-their-own-workers-a-practical-guide-for-nodejs-developers-3d74",
-    "pubDate": "Fri, 21 Nov 2025 01:11:36 +0000",
+    "title": "Angular 21 Released: What’s New & Developer Guide",
+    "link": "https://dev.to/mohitdecodes/angular-21-released-whats-new-developer-guide-3lm5",
+    "pubDate": "Fri, 21 Nov 2025 05:46:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SQLite is known for being lightweight, reliable, and surprisingly fast. In the Node.js ecosystem, one of the most popular libraries for working with it is better-sqlite3. The performance is excellent,"
+    "contentSnippet": "Angular 21 landed on November 20, 2025, delivering major upgrades that improve performance, DX (developer experience), AI integration, and accessibility for web developers.\nFeatures Overview\nPerforman"
   },
   {
-    "title": "I put an Air-Gapped Neural Network in my pocket (Python on Android)",
-    "link": "https://dev.to/sovarcneo/i-put-an-air-gapped-neural-network-in-my-pocket-python-on-android-1632",
-    "pubDate": "Fri, 21 Nov 2025 01:05:12 +0000",
+    "title": "How Impeller Is Transforming Flutter UI Rendering in 2026",
+    "link": "https://dev.to/eira-wexford/how-impeller-is-transforming-flutter-ui-rendering-in-2026-3dpd",
+    "pubDate": "Fri, 21 Nov 2025 05:45:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Pocket Mainframe\n\n\nI shared my desktop AI defense system. Now I'm sharing the mobile unit.\nThis is NEXUS v9, a sovereign network intelligence tool designed to run natively on Android (via Pydroid3"
+    "contentSnippet": "Flutter has long been a favorite for cross-platform development, but early versions faced a persistent enemy: shader compilation jank. This stuttering effect, often visible during the first run of an "
   },
   {
-    "title": "Beyond Behavior Trees: Unleashing Smarter Robots with Executable Knowledge by Arvind Sundararajan",
-    "link": "https://dev.to/arvind_sundararajan/beyond-behavior-trees-unleashing-smarter-robots-with-executable-knowledge-by-arvind-sundararajan-1fg2",
-    "pubDate": "Fri, 21 Nov 2025 01:02:05 +0000",
+    "title": "Meet Quesby: A Privacy-First Eleventy Starter That Stays Out of Your Way",
+    "link": "https://dev.to/quesby/meet-quesby-a-privacy-first-eleventy-starter-that-stays-out-of-your-way-4e6",
+    "pubDate": "Fri, 21 Nov 2025 05:44:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Beyond Behavior Trees: Unleashing Smarter Robots with Executable Knowledge\n\n\nTired of brittle robot behaviors that fall apart when the environment changes? Are you struggling to scale your autonomous "
+    "contentSnippet": "I've always loved static site generators.\n\nBut every time I wanted to spin up a small, focused site, I kept hitting the same problems:\nBoilerplates full of stuff I didn't ask for\n\nToo many external de"
   },
   {
-    "title": "TestRail Manager: Automatiza tu Gestión de Pruebas con Python",
-    "link": "https://dev.to/jefferson_rosas/testrail-manager-automatiza-tu-gestion-de-pruebas-con-python-2ba",
-    "pubDate": "Fri, 21 Nov 2025 00:58:05 +0000",
+    "title": "Transforming Figma Designs into Flutter Code Using AI",
+    "link": "https://dev.to/eira-wexford/transforming-figma-designs-into-flutter-code-using-ai-10do",
+    "pubDate": "Fri, 21 Nov 2025 05:34:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 TestRail Manager: Automatiza tu Gestión de Pruebas con Python\n\n\n¿Cansado de gestionar manualmente tus casos de prueba en TestRail? ¿Quieres automatizar el reporte de resultados desde tus tests? Tes"
+    "contentSnippet": "The gap between visual design and functional code has always been a major bottleneck in app development. Designers create pixel-perfect interfaces, and developers spend countless hours translating tho"
+  },
+  {
+    "title": "Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証",
+    "link": "https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp",
+    "pubDate": "Thu, 20 Nov 2025 22:46:44 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n初めまして！AWS Japan に 2025/10/1 に入社した AI/ML Specialist Solutions Architect の Kujirada です。\n2025 年、MCP は Agent と外部システムを接続し、Tool として利用するためのプロトコルとして急速に普及しています。エンタープライズ利用の需要に伴い、Local MCP から Remote MCP への移"
   },
   {
     "title": "AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～",
@@ -91,13 +98,6 @@
     "contentSnippet": "はじめに\n現場で「なんだかメモリが増えている気がする」「GC（ガベージコレクション）があるから大丈夫だと思ったら落ちた…」「原因がよく分からないままサービス再起動してごまかしている」という経験はありませんか？\n本記事では、そんな“見えてるけど見えていない”存在、つまり 「..."
   },
   {
-    "title": "⚔️ C#クエスト ― LINQの試練 🐉",
-    "link": "https://zenn.dev/plusone/articles/ea227c2f5d323e",
-    "pubDate": "Wed, 19 Nov 2025 23:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "🌅 プロローグ — 久しぶりの再会\n\n長いあいだ C# から離れていた。\nVB6 と .NET を行き来していた頃の記憶はまだ残っているけれど、\n本格的に C# と向き合っていたわけではない。\nそれでも――\n当時の C# の“手触り”は覚えている。\n素朴で、伸びしろの多い、どこか初々しい言語だった。\nところが久しぶりに再会してみると、\nその姿はまるで別物だった。\nラムダ式、LINQ、非同期、パタ"
-  },
-  {
     "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
     "link": "https://qiita.com/sion_neko/items/105168a19194c67a13d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T16:44:07.000Z",
@@ -119,18 +119,18 @@
     "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
   },
   {
-    "title": "【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話",
-    "link": "https://zenn.dev/motty93/articles/release_huntershub",
-    "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "やぁ！みんな。\nハンティングライフ、楽しんでいるかな？\nどうもてぃです。\nこの度HuntersHubというサービスをリリースしたので、その開発経緯や技術スタック、実装で工夫した点などを振り返りながら書きなぐっていこうと思います。\n\n\n 開発経緯\n最近全くゲームは出来ていないのですが、ふとやりたいなぁと思うゲームとしてモンスターハンターポータブルシリーズがあります。\n\nMHP2G配信の動画を見る\nコ"
-  },
-  {
     "title": "なぜ React 哲学を守らないといけないのか？",
     "link": "https://zenn.dev/kkeeth/articles/why-learning-react-philosophy",
     "pubDate": "Wed, 19 Nov 2025 14:20:01 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは．年々病気に弱くなってきて体力の低下と年齡を感じる今日このごろです． Keeth こと桑原です．\n毎日お世話になっている 𝕏 で以下のポストを見かけました．\nhttps://x.com/le_panda_noir/status/1962638427628937481\nこちらの投稿を見たとき「これは読みたい！」と思ったのですが，しっかりリプライで\n\n書きたいってか、こういう感じのを誰か書"
+  },
+  {
+    "title": "【爆速】ECS Fargateタスクを踏み台にしてRDSへ安全に接続",
+    "link": "https://zenn.dev/zuzuzu/articles/aws_ecs_exec_db_access",
+    "pubDate": "Wed, 19 Nov 2025 13:48:04 GMT",
+    "source": "Zenn",
+    "contentSnippet": "概要\nECS Exec機能とAWS Systems Manager (SSM) Session Managerを組み合わせることで、ECS Fargateタスクを踏み台としてRDSにポートフォワーディングし、ローカルのDBクライアントから安全に接続できます。この記事では必要な準備から接続手順をまとめます。\n\n 前提条件\n\n 必要な権限\n\necs:DescribeTasks\necs:ListTask"
   },
   {
     "title": "Microsoft Ignite 2025 で見つけた「個人的に激アツ」な Agent & Copilot アップデートまとめ",

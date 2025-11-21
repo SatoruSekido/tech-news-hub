@@ -1,73 +1,73 @@
 [
   {
-    "title": "Difference between .JAR and .WAR packaging in JAVA",
-    "link": "https://dev.to/eya_filali_a68c4d5bad918a/difference-between-jar-and-war-packaging-in-java-nph",
-    "pubDate": "Fri, 21 Nov 2025 12:38:30 +0000",
+    "title": "Building a Room Booking System with laravel, Inertia.js and Vue.js",
+    "link": "https://dev.to/rasoul_zinati_1f633313c05/building-a-room-booking-system-with-laravel-inertiajs-and-vuejs-62m",
+    "pubDate": "Fri, 21 Nov 2025 18:32:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. JAR packaging\n2. WAR packaging\nweb application deployments.\n3. Key differences\nThe key difference is their purpose and the way they function. JAR files allow us to package multiple files in order t"
+    "contentSnippet": "troduction\n\n\nCreating a modern room booking system is a great way to learn full-stack JavaScript development. This demo project combines Inertia.js, Vue.js, Tabler, and Bootstrap to create a responsiv"
   },
   {
-    "title": "Building a Technical Blog with Astro + Cloudflare",
-    "link": "https://dev.to/shusukedev/building-a-technical-blog-with-astro-cloudflare-33l",
-    "pubDate": "Fri, 21 Nov 2025 12:35:49 +0000",
+    "title": "Simply Docker Series (Ubuntu-Install)",
+    "link": "https://dev.to/shushank_gautam_7448f6ac3/simply-docker-series-ubuntu-install-2a2p",
+    "pubDate": "Fri, 21 Nov 2025 18:31:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a Technical Blog with Astro + Cloudflare\n\n\nThis blog is built using Astro 5 and Cloudflare's edge computing technology. Here's how to build a fast and scalable blog system from scratch.\nAstro"
+    "contentSnippet": "🐧 Linux Users — Let’s Set Up Docker (Ubuntu/Debian Style 🚀)\nInstalling Docker on Linux works a little differently, but don’t worry — just follow these simple steps and you’ll have a clean Docker set"
   },
   {
-    "title": "How to Compress Your Prompts and Reduce LLM Costs",
-    "link": "https://dev.to/manishmshiva/how-to-compress-your-prompts-and-reduce-llm-costs-3pa",
-    "pubDate": "Fri, 21 Nov 2025 12:33:36 +0000",
+    "title": "my understanding of crud applications,controllers, and middlewares.",
+    "link": "https://dev.to/devmancer10/my-understanding-of-crud-applicationscontrollers-and-middlewares-16c8",
+    "pubDate": "Fri, 21 Nov 2025 18:26:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Microsoft just solved the hidden cost problem in AI with LLMLingua, making large language models faster, cheaper, and smarter.\nEvery developer working with large language models eventually faces the s"
+    "contentSnippet": "Okay, before we start - quick disclaimer: I am in no way a professional. I'm just typing this stuff here because I'm too lazy to write notes in my book.\nNow, let's begin!\nTo me, CRUD applications feel"
   },
   {
-    "title": "Swarm: How Browser-Based Compute Networks Turn Everyday Devices Into a Distributed Supercomputer",
-    "link": "https://dev.to/neurolov__ai/swarm-how-browser-based-compute-networks-turn-everyday-devices-into-a-distributed-supercomputer-2bf0",
-    "pubDate": "Fri, 21 Nov 2025 12:30:07 +0000",
+    "title": "IaC Showdown : Terraform ou Ansible ? 🚀",
+    "link": "https://dev.to/tavernetech/iac-showdown-terraform-ou-ansible--5h27",
+    "pubDate": "Fri, 21 Nov 2025 18:26:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A technical look at WebGPU-powered distributed compute systems\n\n\n\n  \n  \n  Introduction\n\n\nFor decades, large-scale compute infrastructure has been dominated by centralized data centers owned by cloud p"
+    "contentSnippet": "Introduction\n\n\nPicture this: You're standing in the DevOps tool aisle at 3 AM (because that's when all infrastructure decisions are made, right?), your infrastructure is doing its best impression of a"
   },
   {
-    "title": "Cómo funcionan las tecnologías de navegación en los robots aspiradores: LIDAR, cámaras y sensores",
-    "link": "https://dev.to/silviajimenez/como-funcionan-las-tecnologias-de-navegacion-en-los-robots-aspiradores-lidar-camaras-y-sensores-114a",
-    "pubDate": "Fri, 21 Nov 2025 12:29:19 +0000",
+    "title": "Why Java Dependencies Are Not Installed Like JavaScript or Python Packages",
+    "link": "https://dev.to/rijultp/why-java-dependencies-are-not-installed-like-javascript-or-python-packages-5fff",
+    "pubDate": "Fri, 21 Nov 2025 18:24:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "La mayoría de robots aspiradores parecen iguales. A primera vista, cualquiera podría pensar que todos hacen lo mismo.\nLlevo más de 6 años poniendo a prueba este tipo de dispositivos en casas reales, y"
+    "contentSnippet": "If you are coming from JavaScript, Python, or other ecosystems, you might be familiar with installation commands like npm install package-name or pip install package-name. These commands directly fetc"
   },
   {
-    "title": "Bandwidth vs Latency: How They Affect Your Online Experience",
-    "link": "https://dev.to/sidra-jefferi/bandwidth-vs-latency-how-they-affect-your-online-experience-493e",
-    "pubDate": "Fri, 21 Nov 2025 12:13:12 +0000",
+    "title": "AI Monetization Simplified: How Monetzly Powers Your Conversations",
+    "link": "https://dev.to/monetzly/ai-monetization-simplified-how-monetzly-powers-your-conversations-83g",
+    "pubDate": "Fri, 21 Nov 2025 18:18:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Have you ever wondered why your internet feels lightning-fast one moment and frustratingly slow the next, even when your speed test shows you’re getting great Mbps? Maybe your movie buffers during pea"
+    "contentSnippet": "Traditional Ads Don’t Work in AI Conversations. Here’s What Does.\n\n\nAs the AI app landscape continues to explode, developers are faced with a pressing challenge: how to monetize their innovations with"
   },
   {
-    "title": "Molecule Visualiser!",
-    "link": "https://dev.to/dev_ops_python/molecule-visualiser-508i",
-    "pubDate": "Fri, 21 Nov 2025 12:08:12 +0000",
+    "title": "Laeyrd - Create theme & customize VS Code without touching JSON 😁",
+    "link": "https://dev.to/rajeev_theenggs/laeyrd-create-theme-customize-vs-code-without-touching-json-387b",
+    "pubDate": "Fri, 21 Nov 2025 18:17:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a molecule visualiser app built with Streamlit and RDKit. this app has feature that allows you to visualise atoms and molecules in 2D and 3D .\nFeatures:\nVisualise molecules in 2D and 3D\nCustom"
+    "contentSnippet": "Introducing Laeyrd: Create theme & customize VS Code without touching JSON 😁\n\n\nIf you’re like me, you spend a lot of time in VS Code. And if you care about your development environment, you’ve probab"
   },
   {
-    "title": "Building for the Future: Why Cloud Native App Development Is Transforming Modern Businesses",
-    "link": "https://dev.to/khushi_jitani_ca127abdedd/building-for-the-future-why-cloud-native-app-development-is-transforming-modern-businesses-2dp8",
-    "pubDate": "Fri, 21 Nov 2025 12:07:29 +0000",
+    "title": "I built a Rails UI library with Tailwind CSS & Stimulus JS (now at 48 component sets with 260+ examples)",
+    "link": "https://dev.to/sandu/i-built-a-rails-ui-library-with-tailwind-css-stimulus-js-now-at-48-component-sets-with-260-1c7d",
+    "pubDate": "Fri, 21 Nov 2025 18:13:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A New Era of Applications Begins\nTechnology is evolving faster than ever, and businesses are under constant pressure to deliver seamless, scalable, and high-performing digital experiences. This shift "
+    "contentSnippet": "Hi everyone, I'm Alex 👋\nA few months ago, I released Rails Blocks, a growing library of UI components that started as an internal tool for myself and our dev team, It started with 20 component sets w"
   },
   {
-    "title": "Quick Recap: Databases",
-    "link": "https://dev.to/codeintention/quick-recap-databases-4h03",
-    "pubDate": "Fri, 21 Nov 2025 12:04:17 +0000",
+    "title": "I Built A Browser Extension That Save ChatGPT, Claude, Grok, DeepSeek & Gemini",
+    "link": "https://dev.to/kudrot_adegoke_56c2820fe8/i-built-a-browser-extension-that-save-chatgpt-claude-grok-deepseek-gemini-3k2o",
+    "pubDate": "Fri, 21 Nov 2025 18:10:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "There are different types of databases, each suited for different use cases.\nRelational Databases (RDBMS)\n\nUse structured tables with rows and columns. Follow ACID properties and use SQL for queries. "
+    "contentSnippet": "I Spent Months Building This AI Chat Exporter Because Nothing Else Worked (And Now It's Free)\n\n\nHey dev.to community! 👋\nI finally shipped my first browser extension to Chrome, Edge, and Firefox — and"
   },
   {
-    "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2o8b",
-    "pubDate": "Fri, 21 Nov 2025 12:00:20 +0000",
+    "title": "How I Fixed a Confusing Bug in NumPy",
+    "link": "https://dev.to/jongwan93/how-i-fixed-a-confusing-bug-in-numpy-1gkj",
+    "pubDate": "Fri, 21 Nov 2025 18:09:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With The Wiz In 15 Minutes Or Less takes you down the yellow brick road as CinemaSins revisits the 1978 musical now that Wicked’s back in theaters. In true Sin-oracle fashion, they po"
+    "contentSnippet": "Contributing to a massive open-source project like NumPy can feel intimidating. You imagine complex C code, advanced math, and scary build processes. But sometimes, a bug is just a simple logic error "
   },
   {
     "title": "30万kmの道のり、東京でE2E自動運転を走らせる",

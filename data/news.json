@@ -1,73 +1,73 @@
 [
   {
-    "title": "Silent-Civ Part 13 — Section 12-2 Fundamental Informational Units (Mapping the Civilization into YAML)",
-    "link": "https://dev.to/kato_masato_c5593c81af5c6/silent-civ-part-13-section-12-2-fundamental-informational-units-mapping-the-civilization-into-2khh",
-    "pubDate": "Sat, 22 Nov 2025 12:36:37 +0000",
+    "title": "Day F5: The Day I Lost",
+    "link": "https://dev.to/casperday11/day-f5-the-day-i-lost-cj3",
+    "pubDate": "Sat, 22 Nov 2025 18:17:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Silent-Civ does not rely on language.\nThe most compatible form is a structured YAML model.\nBelow is the adjusted form of Silent-Civ’s informational triad as expressed through\nSilent-Civ YAML Architect"
+    "contentSnippet": "I'm not gonna sugarcoat this. Today was bad.\nI didn't study. At all.\nDBMS exam is Monday. Two full weeks of exams starting. And I spent today doing absolutely nothing productive.\nNot because I was res"
   },
   {
-    "title": "Why C Took 52 Years to Get a Real Bool",
-    "link": "https://dev.to/ysy63874/why-c-took-52-years-to-get-a-real-bool-13gk",
-    "pubDate": "Sat, 22 Nov 2025 12:35:25 +0000",
+    "title": "Andrew Huang: Making a track with the dial-up modem sound",
+    "link": "https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1",
+    "pubDate": "Sat, 22 Nov 2025 18:08:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1972 April. Cherry blossoms bloomed in Cambridge Park, but MIT’s AI Lab was in open revolt over the glacial speed of ARPANET. 300 kilometers south of New York, at Bell Labs, Dennis Ritchie hunched ove"
+    "contentSnippet": "Andrew Huang’s latest video dives into how he turns the iconic dial-up modem screech into a full-blown music track, sharing his step-by-step process and creative hacks. He’s got a ton of extras over o"
   },
   {
-    "title": "Why Governments Are Exploring Browser-Based Distributed Compute Networks",
-    "link": "https://dev.to/neurolov__ai/why-governments-are-exploring-browser-based-distributed-compute-networks-dih",
-    "pubDate": "Sat, 22 Nov 2025 12:30:14 +0000",
+    "title": "Message Throttling with Apache Camel Master Component",
+    "link": "https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p",
+    "pubDate": "Sat, 22 Nov 2025 18:00:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A technical perspective on decentralized national compute architecture\n\n\n\n\n\n\n  \n  \n  Chapter 1 — Nations Depend on Compute More Than Ever\n\n\nModern governance increasingly depends on large-scale comput"
+    "contentSnippet": "The Problem\n\n\nWhen managing events, it's common to encounter a rapid succession of events within a brief period. For instance, within an application driven by events, creating an entity can trigger mu"
   },
   {
-    "title": "Evolution of Agentic AI C/O Amazon Quicksuite",
-    "link": "https://dev.to/aws-builders/evolution-of-agentic-ai-co-amazon-quicksuite-2kh",
-    "pubDate": "Sat, 22 Nov 2025 12:19:56 +0000",
+    "title": "Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments",
+    "link": "https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3cbp",
+    "pubDate": "Sat, 22 Nov 2025 18:00:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today, whatever is new quickly becomes old. We started with AI, then moved to Generative AI, and now it’s Agentic AI. Honestly, the lines blur because everything overlaps and shines depending on our u"
+    "contentSnippet": "This post delves into the multifaceted technological landscape, covering critical updates from major players and emerging trends.\nWe'll explore Google's stance on AI training and user data privacy ami"
   },
   {
-    "title": "VSCode Autocomplete extension",
-    "link": "https://dev.to/fsiovn/vscode-autocomplete-extension-2623",
-    "pubDate": "Sat, 22 Nov 2025 12:16:53 +0000",
+    "title": "Clean Architecture in .NET — From Pretty Diagrams to Production‑Ready Code",
+    "link": "https://dev.to/cristiansifuentes/clean-architecture-in-net-from-pretty-diagrams-to-production-ready-code-591b",
+    "pubDate": "Sat, 22 Nov 2025 17:59:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "VSCode Marketplace\nI've built an autocomplete extension for VS Code.\nIt works really well with Cerebras.\nGive it a try and share your feedback!\n🚀 Bring Your Own Key (BYOK)\n\n\n✨ AI-generated code\n\n\n⚡ I"
+    "contentSnippet": "If you’ve been scrolling through Clean Architecture diagrams like the ones above—colorful boxes for Presentation, Domain, Data—and thinking:\n“OK, but what does this look like in real .NET code?”\n…this"
   },
   {
-    "title": "🏌How to Convince Stakeholders to Adopt New Technology in Your Project",
-    "link": "https://dev.to/anisubhra_sarkar/how-to-convince-stakeholders-to-adopt-new-technology-in-your-project-3i1m",
-    "pubDate": "Sat, 22 Nov 2025 12:11:32 +0000",
+    "title": "Comment Blob IA: l’interconnexion Nvidia-OpenAI-Google-Microsoft change tout?",
+    "link": "https://dev.to/camille_vingere_f1a536f90/comment-blob-ia-linterconnexion-nvidia-openai-google-microsoft-change-tout-2dfa",
+    "pubDate": "Sat, 22 Nov 2025 17:59:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introducing new technology into an existing product is rarely a technical problem — it’s a people and business problem.\nYou may have solid reasons to adopt:\nReact Server Components\nA new state managem"
+    "contentSnippet": "Blob IA: l’écosystème connecté des titans de l’intelligence artificielle\n\n\nBlob IA: l’interconnexion des géants Nvidia, OpenAI, Google et Microsoft illustre la vitesse à laquelle les infrastructures e"
   },
   {
-    "title": "Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops",
-    "link": "https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg",
-    "pubDate": "Sat, 22 Nov 2025 12:09:25 +0000",
+    "title": "7 TypeScript Tricks That Feel Illegal to Use",
+    "link": "https://dev.to/tjcoding/7-typescript-tricks-that-feel-illegal-to-use-k40",
+    "pubDate": "Sat, 22 Nov 2025 17:54:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome to Day 42 of the #80DaysOfChallenges journey! This intermediate challenge tackles converting between Roman numerals and integers in both directions, supporting ranges from 1 to 3999 with dicti"
+    "contentSnippet": "If you’re reading this, you likely know your way around interface, type, and generics. You probably have strict mode enabled. But TypeScript is capable of much more than just catching typos or ensurin"
   },
   {
-    "title": "CSS",
-    "link": "https://dev.to/mujahida_joynab_64c7407d8/css-42ep",
-    "pubDate": "Sat, 22 Nov 2025 12:08:39 +0000",
+    "title": "Black Friday Web Hosting Deals 2025 – Grab Up to 98% Off on the Best Hosts (Live Offers)",
+    "link": "https://dev.to/just4sanu/black-friday-web-hosting-deals-2025-grab-up-to-98-off-on-the-best-hosts-live-offers-1ko7",
+    "pubDate": "Sat, 22 Nov 2025 17:54:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Font -> Google font\nflex-wrap : wrap \n Hello Banner \n Lorem ipsum"
+    "contentSnippet": "Welcome to my Best Black Friday / Cyber Monday Web Hosting Deals 2025 article.\nBlack Friday is the single best time of the year to start a new website or switch to a faster, more powerful web host. Wi"
   },
   {
-    "title": "My Code Worked. Excel’s \"Protected View\" Killed It.",
-    "link": "https://dev.to/not_varunkv/my-code-worked-excels-protected-view-killed-it-d58",
-    "pubDate": "Sat, 22 Nov 2025 12:07:46 +0000",
+    "title": "Debloat OPPO A15s",
+    "link": "https://dev.to/skidee/debloat-oppo-a15s-1jed",
+    "pubDate": "Sat, 22 Nov 2025 17:53:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I am building a Micro-SaaS called SpeakSheet. The premise is simple: You speak (or type) a prompt, and it generates a structured Excel file.\nThe stack is solid: NextJS, Tailwind, Supabase, and Gemini "
+    "contentSnippet": "This is the list of packages that you can safely remove.\nStep 1: setup the debloater https://beebom.com/how-remove-bloatware-android-phone\nStep 2: select and remove the following packages\ncom.android."
   },
   {
-    "title": "Mapping the Skeleton of Every Webpage - Understanding HTML’s Core Structure",
-    "link": "https://dev.to/theosnyman-dev/mapping-the-skeleton-of-every-webpage-understanding-htmls-core-structure-28dm",
-    "pubDate": "Sat, 22 Nov 2025 12:03:43 +0000",
+    "title": "Stop Writing Analytics Code. Start Defining It",
+    "link": "https://dev.to/yelmuratoff/stop-writing-analytics-code-start-defining-it-4l4h",
+    "pubDate": "Sat, 22 Nov 2025 17:50:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "HTML can feel like a long list of tags until you notice the quiet architecture hiding underneath. Browsers aren’t tossing those tags around at random, they’re following a predictable pattern that give"
+    "contentSnippet": "Type-safe analytics, automated documentation, and data integrity-from a single source of truth.\nAs a Developer who has seen the inside of massive codebases, I've witnessed the same tragedy play out in"
   },
   {
     "title": "【ポエム】プログラミングスキルと同じように、AIデバッグスキルも必要になりそうだな、と感じた話",
@@ -147,7 +147,7 @@
     "contentSnippet": "はじめに\nこんにちは、Yoyoyo8128です！\nARC210で、2200パフォを出し、入黄をすることができました！\nほぼ自語りですが見てってください！\n\n自己紹介\n開成高等学校の1年生です。\n開成では、コンピュータ部(Kaisei Computer Lovers..."
   },
   {
-    "title": "論理削除の絞り込みはWHERE句でやるな",
+    "title": "LEFT JOINの論理削除はWHERE句でしぼるな",
     "link": "https://zenn.dev/levtech/articles/squeeze-on-join-on",
     "pubDate": "Fri, 21 Nov 2025 02:45:01 GMT",
     "source": "Zenn",

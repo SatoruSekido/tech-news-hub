@@ -1,73 +1,80 @@
 [
   {
-    "title": "Building a Room Booking System with laravel, Inertia.js and Vue.js",
-    "link": "https://dev.to/rasoul_zinati_1f633313c05/building-a-room-booking-system-with-laravel-inertiajs-and-vuejs-62m",
-    "pubDate": "Fri, 21 Nov 2025 18:32:26 +0000",
+    "title": "As AI-driven diagnosis and treatment plans become increasing",
+    "link": "https://dev.to/drcarlosruizviquez/as-ai-driven-diagnosis-and-treatment-plans-become-increasing-350k",
+    "pubDate": "Sat, 22 Nov 2025 01:37:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "troduction\n\n\nCreating a modern room booking system is a great way to learn full-stack JavaScript development. This demo project combines Inertia.js, Vue.js, Tabler, and Bootstrap to create a responsiv"
+    "contentSnippet": "As AI-driven diagnosis and treatment plans become increasingly prevalent in healthcare, a crucial question arises: to what extent can AI be considered 'co-author' rather than just 'co-reader' of medic"
   },
   {
-    "title": "Simply Docker Series (Ubuntu-Install)",
-    "link": "https://dev.to/shushank_gautam_7448f6ac3/simply-docker-series-ubuntu-install-2a2p",
-    "pubDate": "Fri, 21 Nov 2025 18:31:44 +0000",
+    "title": "Amazon Bedrock Agentcore & System Design",
+    "link": "https://dev.to/aws-builders/amazon-bedrock-agentcore-system-design-m5j",
+    "pubDate": "Sat, 22 Nov 2025 01:17:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🐧 Linux Users — Let’s Set Up Docker (Ubuntu/Debian Style 🚀)\nInstalling Docker on Linux works a little differently, but don’t worry — just follow these simple steps and you’ll have a clean Docker set"
+    "contentSnippet": "The recent general availability of Amazon Bedrock Agentcore marks a significant milestone in the evolution of AI-powered applications on AWS. While Bedrock has already established itself as a leading "
   },
   {
-    "title": "my understanding of crud applications,controllers, and middlewares.",
-    "link": "https://dev.to/devmancer10/my-understanding-of-crud-applicationscontrollers-and-middlewares-16c8",
-    "pubDate": "Fri, 21 Nov 2025 18:26:46 +0000",
+    "title": "Mi Agente se Rebeló: Intentando Crear un Bedrock Agent con S3 (y el Famoso Error '[retrieved information]'",
+    "link": "https://dev.to/sinariver/mi-agente-se-rebelo-intentando-crear-un-bedrock-agent-con-s3-y-el-famoso-error-retrieved-2php",
+    "pubDate": "Sat, 22 Nov 2025 01:14:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Okay, before we start - quick disclaimer: I am in no way a professional. I'm just typing this stuff here because I'm too lazy to write notes in my book.\nNow, let's begin!\nTo me, CRUD applications feel"
+    "contentSnippet": "TL;DR\nEn este lab vas a construir un Bedrock Agent totalmente funcional que puede:\nLeer tus documentos en S3\nExtraer información\nEjecutar funciones\nResponder preguntas de forma estructurada\nRazonar pa"
   },
   {
-    "title": "IaC Showdown : Terraform ou Ansible ? 🚀",
-    "link": "https://dev.to/tavernetech/iac-showdown-terraform-ou-ansible--5h27",
-    "pubDate": "Fri, 21 Nov 2025 18:26:36 +0000",
+    "title": "I Built a Bedrock Agent for Learning… And It Definitely Took That Mission Seriously",
+    "link": "https://dev.to/sinariver/i-built-a-bedrock-agent-for-learning-and-it-definitely-took-that-mission-seriously-kf3",
+    "pubDate": "Sat, 22 Nov 2025 01:14:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nPicture this: You're standing in the DevOps tool aisle at 3 AM (because that's when all infrastructure decisions are made, right?), your infrastructure is doing its best impression of a"
+    "contentSnippet": "TL;DR\nIn this lab you’re going to build a fully functional Bedrock Agent that can:\nRead your documents in S3\nExtract information\nExecute functions\nAnswer questions in a structured way\nReason step by s"
   },
   {
-    "title": "Why Java Dependencies Are Not Installed Like JavaScript or Python Packages",
-    "link": "https://dev.to/rijultp/why-java-dependencies-are-not-installed-like-javascript-or-python-packages-5fff",
-    "pubDate": "Fri, 21 Nov 2025 18:24:23 +0000",
+    "title": "Build Claude Desktop Extensions in Minutes with QuickMCP.NET",
+    "link": "https://dev.to/gunpal5/build-claude-desktop-extensions-in-minutes-with-quickmcpnet-3p48",
+    "pubDate": "Sat, 22 Nov 2025 01:12:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you are coming from JavaScript, Python, or other ecosystems, you might be familiar with installation commands like npm install package-name or pip install package-name. These commands directly fetc"
+    "contentSnippet": "Hey developers!\nRemember the last time you tried to integrate a REST API with Claude Desktop? Yeah, me too. It involved reading through MCP docs, writing YAML configs, figuring out authentication, and"
   },
   {
-    "title": "AI Monetization Simplified: How Monetzly Powers Your Conversations",
-    "link": "https://dev.to/monetzly/ai-monetization-simplified-how-monetzly-powers-your-conversations-83g",
-    "pubDate": "Fri, 21 Nov 2025 18:18:25 +0000",
+    "title": "Introducing GistPad.com – A Secure Pastebin for Developers",
+    "link": "https://dev.to/gistpad/introducing-gistpadcom-a-secure-pastebin-for-developers-o4b",
+    "pubDate": "Sat, 22 Nov 2025 01:03:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Traditional Ads Don’t Work in AI Conversations. Here’s What Does.\n\n\nAs the AI app landscape continues to explode, developers are faced with a pressing challenge: how to monetize their innovations with"
+    "contentSnippet": "👋 Hey Dev.to, I’m new here!\n\n\nI just joined Dev.to and thought I’d introduce myself by sharing a project I’ve been building: GistPad.com.  \nIt’s basically a modern pastebin, but with a focus on priva"
   },
   {
-    "title": "Laeyrd - Create theme & customize VS Code without touching JSON 😁",
-    "link": "https://dev.to/rajeev_theenggs/laeyrd-create-theme-customize-vs-code-without-touching-json-387b",
-    "pubDate": "Fri, 21 Nov 2025 18:17:28 +0000",
+    "title": "Service Mesh Explained: When You Actually Need Istio or Linkerd",
+    "link": "https://dev.to/instadevops/service-mesh-explained-when-you-actually-need-istio-or-linkerd-3o7h",
+    "pubDate": "Sat, 22 Nov 2025 01:02:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introducing Laeyrd: Create theme & customize VS Code without touching JSON 😁\n\n\nIf you’re like me, you spend a lot of time in VS Code. And if you care about your development environment, you’ve probab"
+    "contentSnippet": "Introduction\n\n\nService meshes have become one of the most talked-about technologies in cloud-native infrastructure. But amid the hype, a critical question often gets overlooked: Do you actually need o"
   },
   {
-    "title": "I built a Rails UI library with Tailwind CSS & Stimulus JS (now at 48 component sets with 260+ examples)",
-    "link": "https://dev.to/sandu/i-built-a-rails-ui-library-with-tailwind-css-stimulus-js-now-at-48-component-sets-with-260-1c7d",
-    "pubDate": "Fri, 21 Nov 2025 18:13:02 +0000",
+    "title": "Continuous Contribution for Hiero SDK Python - Release 0.3",
+    "link": "https://dev.to/cynthia_f/continuous-contribution-for-hiero-sdk-python-release-03-6bk",
+    "pubDate": "Sat, 22 Nov 2025 00:59:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hi everyone, I'm Alex 👋\nA few months ago, I released Rails Blocks, a growing library of UI components that started as an internal tool for myself and our dev team, It started with 20 component sets w"
+    "contentSnippet": "For this release 0.3, I continued to work on the https://github.com/hiero-ledger/hiero-sdk-python repository. My initial goal was not just to solve an issue and open a pull request for Hacktoberfest, "
   },
   {
-    "title": "I Built A Browser Extension That Save ChatGPT, Claude, Grok, DeepSeek & Gemini",
-    "link": "https://dev.to/kudrot_adegoke_56c2820fe8/i-built-a-browser-extension-that-save-chatgpt-claude-grok-deepseek-gemini-3k2o",
-    "pubDate": "Fri, 21 Nov 2025 18:10:42 +0000",
+    "title": "SvelteKit Surreal Database Authentication",
+    "link": "https://dev.to/jdgamble555/sveltekit-surreal-database-authentication-51e9",
+    "pubDate": "Sat, 22 Nov 2025 00:58:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I Spent Months Building This AI Chat Exporter Because Nothing Else Worked (And Now It's Free)\n\n\nHey dev.to community! 👋\nI finally shipped my first browser extension to Chrome, Edge, and Firefox — and"
+    "contentSnippet": "I created a login for Surreal Database and SvelteKit. The core server function can be reused in ANY TS SSR Framework!\nCreate a new SvelteKit project with TS.\nnpx sv create surreal-auth\n\nInstall latest"
   },
   {
-    "title": "How I Fixed a Confusing Bug in NumPy",
-    "link": "https://dev.to/jongwan93/how-i-fixed-a-confusing-bug-in-numpy-1gkj",
-    "pubDate": "Fri, 21 Nov 2025 18:09:15 +0000",
+    "title": "Revolutionize AI Conversations: Monetzly's Impact on Developer Earnings",
+    "link": "https://dev.to/monetzly/revolutionize-ai-conversations-monetzlys-impact-on-developer-earnings-4cai",
+    "pubDate": "Sat, 22 Nov 2025 00:54:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Contributing to a massive open-source project like NumPy can feel intimidating. You imagine complex C code, advanced math, and scary build processes. But sometimes, a bug is just a simple logic error "
+    "contentSnippet": "Unlocking Monetization in AI Conversations: Meet Monetzly\n\n\nTraditional advertising has struggled to find its footing in the world of AI conversations. Users engage differently with AI applications th"
+  },
+  {
+    "title": "なぜAIは会話を重ねると間違えるのか：マルチターン対話の落とし穴と実用化への示唆",
+    "link": "https://zenn.dev/pksha/articles/6f38eac49db885",
+    "pubDate": "Fri, 21 Nov 2025 05:35:59 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは、PKSHA Technologyでアルゴリズムエンジニアをしている原田です。LLMの性能は、各種ベンチマークにおいて着実な向上を見せており、その能力の高さは客観的な指標によっても示されています。しかし、これらの指標が必ずしも実際のユースケースにおける性能と一致するとは限らない点は、AIを実用化する上で重要な視点です。\nその一例として、マルチターンでの対話が挙げられます。LLM"
   },
   {
     "title": "30万kmの道のり、東京でE2E自動運転を走らせる",
@@ -75,6 +82,13 @@
     "pubDate": "Fri, 21 Nov 2025 05:34:46 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nチューリングで自動運転第一グループのマネージャをやっている棚橋です。\n今週、チューリングは無事にシリーズA 1st closeの資金調達を発表することができました。\nE2E自動運転の開発においても、ようやく都内を30分ほど走行できるレベルに到達しつつあります。しかし、ここに至るまでの道のりは決して平坦ではなく、多くの失敗や試行錯誤を積み重ねてきました。実際にチューリングでは今まで累計約3"
+  },
+  {
+    "title": "20年超レガシー『バイトル』をAI駆動で再設計！事業成長を実現するリアーキ戦略",
+    "link": "https://zenn.dev/dip_k16/articles/2c86ae68b1c661",
+    "pubDate": "Fri, 21 Nov 2025 04:07:27 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこんにちは！ディップ株式会社 執行役員 CTOの長島です。\n今回はアーキテクチャカンファレンス2025での登壇でお話しした内容を残しておこうと思います。\n20年以上続く求人サービス『バイトル』。この巨大モノリスと日々向き合い、私たちは事業成長を続けながら大規模リアーキテクチャに挑んでいます。既存システムと共存しつつ、複雑な技術負債の解消、ドメイン再設計、マイクロサービス移行の意思決定。持"
   },
   {
     "title": "技術的負債はいつ解消すべきか？ - HERP が React 移行で使った3つの判断軸",
@@ -96,6 +110,13 @@
     "pubDate": "2025-11-21T00:15:37.000Z",
     "source": "Qiita",
     "contentSnippet": "1. はじめに： なぜエンジニアは「すみません」を言いすぎてしまうのか\n開発現場で、無意識に口癖のように出てしまう「すみません」。\n心当たりはないでしょうか、私はあります....笑\n資料の提出が少し遅れたとき、MTGの冒頭、あるいは相手からの指摘を受けたとき、他チームにお..."
+  },
+  {
+    "title": "AI駆動組み込み開発における「Rustの必然性」",
+    "link": "https://zenn.dev/kokimu/articles/7bb7f9f3896bb4",
+    "pubDate": "Fri, 21 Nov 2025 00:01:45 GMT",
+    "source": "Zenn",
+    "contentSnippet": "AI駆動組み込み開発における「Rustの必然性」\n\n はじめに\nRustは学習コストが高い言語として知られています。所有権、ライフタイム、借用チェッカーといった独特な概念は、C言語やPythonから移行するエンジニアにとって大きな壁となってきました。しかし、AIエージェント(Claude Code、Gemini、Codexなど)を活用した開発という視点から見ると、この評価は大きく変わります。\n本記"
   },
   {
     "title": "Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証",
@@ -133,13 +154,6 @@
     "contentSnippet": "はじめに\nあんさんぶるスターズ！！（以下、あんスタ）では、10周年を機に大規模なUIアップデートを実施しました。\nBright me up!! 10周年記念特設サイト｜あんさんぶるスターズ！！\nこの記事では、このUIアップデートで導入したコード自動生成とプレビュー機能をご紹介します。デザイナーがプレハブ作成後にコード生成することで動作確認まで完結でき、エンジニアを待たずに先行して開発できるワークフ"
   },
   {
-    "title": "【徹底比較】AI自律実装ツールでFedGAN論文を実装してみた - Copilot vs Antigravity × Claude/Gemini",
-    "link": "https://qiita.com/ntaka329/items/3b02073156239125bd6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T08:38:18.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\n最近、AIによる自律実装支援ツールが相次いでリリースされました。Github Copilot Plan mode、Google AntigravityともにAIが実装計画を立案してくれる機能を持ちます。\n本記事では、前回個別に計画（設..."
-  },
-  {
     "title": "AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～",
     "link": "https://zenn.dev/r_kaga/articles/74673cb9333007",
     "pubDate": "Thu, 20 Nov 2025 08:24:38 GMT",
@@ -152,6 +166,13 @@
     "pubDate": "2025-11-20T01:34:26.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGoogle Antigravityがリリースされました。\n「Cursor, Windsurf...またAI搭載エディタか」って思いませんでした？\n僕も最初そう思ってたんです。\nでもね、ドキュメント読み込んでいくうちに、ちょっと考えが変わりました。\nGoogl..."
+  },
+  {
+    "title": "「純全帯幺九（ジュンチャン）、難易度の割に安すぎないか？」という麻雀の疑問をGemini 3に聞いてみた。",
+    "link": "https://qiita.com/inukai-masanori/items/29b3aa79f33858845685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T00:13:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n麻雀打ちなら一度は思ったことがあるはずです。\n「純全帯幺九（ジュンチャン）、難易度の割に安すぎないか？」 と。\n苦労して作ったジュンチャン（3翻）と、破壊力抜群のチンイツ（6翻）。 体感では「絶対にジュンチャンの方が難しい」と感じていましたが、果たして本当なのか..."
   },
   {
     "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
@@ -175,25 +196,11 @@
     "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
   },
   {
-    "title": "【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話",
-    "link": "https://zenn.dev/motty93/articles/release_huntershub",
-    "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "やぁ！みんな。\nハンティングライフ、楽しんでいるかな？\nどうもてぃです。\nこの度HuntersHubというサービスをリリースしたので、その開発経緯や技術スタック、実装で工夫した点などを振り返りながら書きなぐっていこうと思います。\n\n\n 開発経緯\n最近全くゲームは出来ていないのですが、ふとやりたいなぁと思うゲームとしてモンスターハンターポータブルシリーズがあります。\n\nMHP2G配信の動画を見る\nコ"
-  },
-  {
-    "title": "なぜ React 哲学を守らないといけないのか？",
-    "link": "https://zenn.dev/kkeeth/articles/why-learning-react-philosophy",
-    "pubDate": "Wed, 19 Nov 2025 14:20:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは．年々病気に弱くなってきて体力の低下と年齡を感じる今日このごろです． Keeth こと桑原です．\n毎日お世話になっている 𝕏 で以下のポストを見かけました．\nhttps://x.com/le_panda_noir/status/1962638427628937481\nこちらの投稿を見たとき「これは読みたい！」と思ったのですが，しっかりリプライで\n\n書きたいってか、こういう感じのを誰か書"
-  },
-  {
-    "title": "【爆速】ECS Fargateタスクを踏み台にしてRDSへ安全に接続",
-    "link": "https://zenn.dev/zuzuzu/articles/aws_ecs_exec_db_access",
-    "pubDate": "Wed, 19 Nov 2025 13:48:04 GMT",
-    "source": "Zenn",
-    "contentSnippet": "概要\nECS Exec機能とAWS Systems Manager (SSM) Session Managerを組み合わせることで、ECS Fargateタスクを踏み台としてRDSにポートフォワーディングし、ローカルのDBクライアントから安全に接続できます。この記事では必要な準備から接続手順をまとめます。\n\n 前提条件\n\n 必要な権限\n\necs:DescribeTasks\necs:ListTask"
+    "title": "話題のGemini3で東方風の弾幕シューティングゲームをつくってみた",
+    "link": "https://qiita.com/geekman4040/items/fdbf1e71b16d6f6f1a8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T12:13:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Gemini3リリース！\nなにやらGemini3がリリースされたらしい。フロントエンド周りのUI設計に強いらしい。専門はバックエンドだしあんまり関係ないかなー。\n...え、single prompt（一回のプロンプト）でゲーム作れちゃうの！？\n\nということで、Gemini..."
   },
   {
     "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
@@ -215,13 +222,6 @@
     "pubDate": "2025-11-19T00:52:44.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGoogle が 2025-11-18（米国時間）に発表した AI エディタ、「Antigravity」を使って、実際に「AIチャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用した..."
-  },
-  {
-    "title": "【速報】Google Gemini 3発表。推論・エージェント機能の進化を徹底解説",
-    "link": "https://qiita.com/kentaro_kawamura/items/8d8d52c43154fb172b40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-18T23:37:23.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。当記事では、2025年11月19日にGoogleから正式発表された最新のAIモデルGemini 3.0について解説します。\n推論能力（Reasoning）とエージェント機能が飛躍的に向上したこの新モデルの全容を、公式情報を基に紐解いていきます。\n\n1. 概要\n..."
   },
   {
     "title": "［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025",

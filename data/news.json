@@ -1,80 +1,122 @@
 [
   {
-    "title": "Exploring the Benefits of n8n AWS Integration for Enhanced Workflow Automation",
-    "link": "https://dev.to/nayeem79/exploring-the-benefits-of-n8n-aws-integration-for-enhanced-workflow-automation-ii2",
-    "pubDate": "Sat, 22 Nov 2025 06:15:18 +0000",
+    "title": "Silent-Civ Part 13 — Section 12-2 Fundamental Informational Units (Mapping the Civilization into YAML)",
+    "link": "https://dev.to/kato_masato_c5593c81af5c6/silent-civ-part-13-section-12-2-fundamental-informational-units-mapping-the-civilization-into-2khh",
+    "pubDate": "Sat, 22 Nov 2025 12:36:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s digital landscape, businesses strive to stay ahead by embracing automation to increase efficiency and reduce human error. n8n, an open-source automation tool, combined with AWS (Amazon Web "
+    "contentSnippet": "Silent-Civ does not rely on language.\nThe most compatible form is a structured YAML model.\nBelow is the adjusted form of Silent-Civ’s informational triad as expressed through\nSilent-Civ YAML Architect"
   },
   {
-    "title": "The Role of Social Profiles in Strengthening Brand SEO",
-    "link": "https://dev.to/dbhatasana/the-role-of-social-profiles-in-strengthening-brand-seo-35l8",
-    "pubDate": "Sat, 22 Nov 2025 06:11:24 +0000",
+    "title": "Why C Took 52 Years to Get a Real Bool",
+    "link": "https://dev.to/ysy63874/why-c-took-52-years-to-get-a-real-bool-13gk",
+    "pubDate": "Sat, 22 Nov 2025 12:35:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Search engine optimization has significantly evolved over the past decade, but one element remains central to every brand’s visibility journey: trust. Search engines reward brands that appear credible"
+    "contentSnippet": "1972 April. Cherry blossoms bloomed in Cambridge Park, but MIT’s AI Lab was in open revolt over the glacial speed of ARPANET. 300 kilometers south of New York, at Bell Labs, Dennis Ritchie hunched ove"
   },
   {
-    "title": "Spring Cloud Gateway Explained Simply: Routing, Filters, and Real-Life Use Cases",
-    "link": "https://dev.to/ashifur_nahid_c0cbfcc7105/spring-cloud-gateway-explained-simply-routing-filters-and-real-life-use-cases-fg8",
-    "pubDate": "Sat, 22 Nov 2025 06:07:41 +0000",
+    "title": "Why Governments Are Exploring Browser-Based Distributed Compute Networks",
+    "link": "https://dev.to/neurolov__ai/why-governments-are-exploring-browser-based-distributed-compute-networks-dih",
+    "pubDate": "Sat, 22 Nov 2025 12:30:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In modern software development, applications are no longer built as one large, monolithic system. Instead, teams break systems into microservices—small, independent services responsible for specific t"
+    "contentSnippet": "A technical perspective on decentralized national compute architecture\n\n\n\n\n\n\n  \n  \n  Chapter 1 — Nations Depend on Compute More Than Ever\n\n\nModern governance increasingly depends on large-scale comput"
   },
   {
-    "title": "Google’s Over-Compliance is Doing the Regime's Job: A Letter from an Iranian Full-Stack Developer",
-    "link": "https://dev.to/habibi_dev/googles-over-compliance-is-doing-the-regimes-job-a-letter-from-an-iranian-full-stack-developer-39em",
-    "pubDate": "Sat, 22 Nov 2025 06:07:30 +0000",
+    "title": "Evolution of Agentic AI C/O Amazon Quicksuite",
+    "link": "https://dev.to/aws-builders/evolution-of-agentic-ai-co-amazon-quicksuite-2kh",
+    "pubDate": "Sat, 22 Nov 2025 12:19:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "To the Executive Leadership and Compliance Teams at Google,\nI am writing this as a Full-Stack Developer with over 10 years of professional experience and 15 years of activity on the open web. I am not"
+    "contentSnippet": "Today, whatever is new quickly becomes old. We started with AI, then moved to Generative AI, and now it’s Agentic AI. Honestly, the lines blur because everything overlaps and shines depending on our u"
   },
   {
-    "title": "From Mt. Gox to the Stars: How Jed McCaleb Built Stellar Into a $15B Financial Revolution",
-    "link": "https://dev.to/roan911/from-mt-gox-to-the-stars-how-jed-mccaleb-built-stellar-into-a-15b-financial-revolution-5h7",
-    "pubDate": "Sat, 22 Nov 2025 06:03:45 +0000",
+    "title": "VSCode Autocomplete extension",
+    "link": "https://dev.to/fsiovn/vscode-autocomplete-extension-2623",
+    "pubDate": "Sat, 22 Nov 2025 12:16:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Here's a question: What do Mt. Gox, Ripple, and Stellar have in common?\nAnswer: One guy. Jed McCaleb.\nAnd if that name makes you do a double-take, you're not alone. Because McCaleb's story is one of t"
+    "contentSnippet": "VSCode Marketplace\nI've built an autocomplete extension for VS Code.\nIt works really well with Cerebras.\nGive it a try and share your feedback!\n🚀 Bring Your Own Key (BYOK)\n\n\n✨ AI-generated code\n\n\n⚡ I"
   },
   {
-    "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896",
-    "pubDate": "Sat, 22 Nov 2025 06:00:06 +0000",
+    "title": "🏌How to Convince Stakeholders to Adopt New Technology in Your Project",
+    "link": "https://dev.to/anisubhra_sarkar/how-to-convince-stakeholders-to-adopt-new-technology-in-your-project-3i1m",
+    "pubDate": "Sat, 22 Nov 2025 12:11:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less\n\n\nCinemaSins takes a hilarious, sin-counting stroll through this fun, action-packed hybrid of K-pop and demon-hunting. Expect playful jab"
+    "contentSnippet": "Introducing new technology into an existing product is rarely a technical problem — it’s a people and business problem.\nYou may have solid reasons to adopt:\nReact Server Components\nA new state managem"
   },
   {
-    "title": "Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing",
-    "link": "https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0",
-    "pubDate": "Sat, 22 Nov 2025 05:53:18 +0000",
+    "title": "Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops",
+    "link": "https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg",
+    "pubDate": "Sat, 22 Nov 2025 12:09:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For years, green screens were the standard way to remove backgrounds. They worked, but only if you had perfect lighting, studio space, and time for cleanup. Today, AI background removal has stepped in"
+    "contentSnippet": "Welcome to Day 42 of the #80DaysOfChallenges journey! This intermediate challenge tackles converting between Roman numerals and integers in both directions, supporting ranges from 1 to 3999 with dicti"
   },
   {
-    "title": "Be a Responsible Code Reviewer",
-    "link": "https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni",
-    "pubDate": "Sat, 22 Nov 2025 05:49:28 +0000",
+    "title": "CSS",
+    "link": "https://dev.to/mujahida_joynab_64c7407d8/css-42ep",
+    "pubDate": "Sat, 22 Nov 2025 12:08:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When you work with different teams long enough, you start noticing something meaningful:\nGood code reviews don’t just improve the code—they strengthen teams, culture, and the way we write applications"
+    "contentSnippet": "Font -> Google font\nflex-wrap : wrap \n Hello Banner \n Lorem ipsum"
   },
   {
-    "title": "Python vs Java – Which Is Better for Freshers?",
-    "link": "https://dev.to/anu_1aa515b51add9e0287d20/python-vs-java-which-is-better-for-freshers-2dm9",
-    "pubDate": "Sat, 22 Nov 2025 05:48:06 +0000",
+    "title": "My Code Worked. Excel’s \"Protected View\" Killed It.",
+    "link": "https://dev.to/not_varunkv/my-code-worked-excels-protected-view-killed-it-d58",
+    "pubDate": "Sat, 22 Nov 2025 12:07:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Choosing the right programming language is one of the biggest decisions for freshers entering the IT industry. Among hundreds of options, Python and Java stand out as the most popular and career-frien"
+    "contentSnippet": "I am building a Micro-SaaS called SpeakSheet. The premise is simple: You speak (or type) a prompt, and it generates a structured Excel file.\nThe stack is solid: NextJS, Tailwind, Supabase, and Gemini "
   },
   {
-    "title": "UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud",
-    "link": "https://dev.to/nftsaz2025/uk-unleashes-new-cybersecurity-bill-fortifying-digital-defenses-after-28m-crypto-fraud-4j1g",
-    "pubDate": "Sat, 22 Nov 2025 05:34:35 +0000",
+    "title": "Mapping the Skeleton of Every Webpage - Understanding HTML’s Core Structure",
+    "link": "https://dev.to/theosnyman-dev/mapping-the-skeleton-of-every-webpage-understanding-htmls-core-structure-28dm",
+    "pubDate": "Sat, 22 Nov 2025 12:03:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud\nThe digital landscape is constantly evolving, bringing with it both unprecedented opportunities and increasingl"
+    "contentSnippet": "HTML can feel like a long list of tags until you notice the quiet architecture hiding underneath. Browsers aren’t tossing those tags around at random, they’re following a predictable pattern that give"
   },
   {
-    "title": "なぜAIは会話を重ねると間違えるのか：マルチターン対話の落とし穴と実用化への示唆",
-    "link": "https://zenn.dev/pksha/articles/6f38eac49db885",
-    "pubDate": "Fri, 21 Nov 2025 05:35:59 GMT",
+    "title": "【ポエム】プログラミングスキルと同じように、AIデバッグスキルも必要になりそうだな、と感じた話",
+    "link": "https://zenn.dev/sunagaku/articles/ai-debug-skill-needed",
+    "pubDate": "Fri, 21 Nov 2025 23:43:48 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、PKSHA Technologyでアルゴリズムエンジニアをしている原田です。LLMの性能は、各種ベンチマークにおいて着実な向上を見せており、その能力の高さは客観的な指標によっても示されています。しかし、これらの指標が必ずしも実際のユースケースにおける性能と一致するとは限らない点は、AIを実用化する上で重要な視点です。\nその一例として、マルチターンでの対話が挙げられます。LLM"
+    "contentSnippet": "はじめに\n僕は、普段から多くのAI活用のトップランナーの方々と仲良くさせて頂いていて、僕自身も AI の活用方法について発信したりしています。\nそんな中で、最近ふと感じたことがあります。それは、「AIデバッグスキル」の重要性です。\nプログラミングを学ぶ際、文法やデバッグ方法を学ぶことは大切です。\n同じように、AI を使いこなすためにも「なぜ上手く動かないのか？」を理解し、改善していくスキルが必要に"
+  },
+  {
+    "title": "Nano Banana Pro APIの新規機能は Gemini Web版で利用できるの！？ (Gemini 3 Pro Image)",
+    "link": "https://zenn.dev/mohy_nyapan/articles/72ae3a8965a41c",
+    "pubDate": "Fri, 21 Nov 2025 16:21:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nAIのはなしだけどAIでかいてないよ！\nGoogleのマニュアルを少し試してみたよ\n\n\n はじめに\nおひさしぶりです\nちょっと備忘録的に書きます、全部マニュアルに記載のある内容です！\nただ、自分用に残したかったので書きました\n今までのNanobananaが出来ることに関しては今回触れません（反響あったら書くかもですがｗ）\nマニュアルが主にAPIベースなので、\nGeminiやaistudioとは"
+  },
+  {
+    "title": "アーキテクチャカンファレンス参加レポート",
+    "link": "https://zenn.dev/yuma_ito_bd/articles/20251121-architecture-conference-report",
+    "pubDate": "Fri, 21 Nov 2025 14:59:09 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n2025/11/20~2025/11/21の2日間で行われた「アーキテクチャConference2025」に参加してきました。\nhttps://architecture-con.findy-tools.io/2025\nシステムの設計は興味がある分野の一つでして、今回新しく学んだことや気になったことをまとめてみようと思います。\nhttps://x.com/yuma_ito_bd/statu"
+  },
+  {
+    "title": "Rustで『安全』と言い切れるか？Cloudflare 障害と unwrap() のリアル",
+    "link": "https://zenn.dev/dokusy/articles/666387f63061de",
+    "pubDate": "Fri, 21 Nov 2025 13:17:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n2025年11月18日、インターネットインフラ大手 Cloudflare にて、世界規模のサービス障害が発生しました。\nその原因として、Rust 製プロキシサービス内で起きた panic の一撃が引き金になったことが報じられています。中でも注目されたのが、Rust 標準ライブラリの Option::unwrap() または Result::unwrap() の呼び出しです。\nしかし、この"
+  },
+  {
+    "title": "技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？",
+    "link": "https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T11:57:41.000Z",
+    "source": "Qiita",
+    "contentSnippet": "これまでのあらすじ\n技術書典19に出展したけど、全然売れない。悲しみの投稿\n\nをしたのが11月19日23時頃。特に反応もなく、「誰もお前を愛さない」状態になる。翌日は、いつもの愚にも付かない伝言ゲームをして(それを世の中では仕事というらしい)、帰宅。そうしてSNSを開..."
+  },
+  {
+    "title": "Reactのexport defaultとexportって何がどう違うんや",
+    "link": "https://zenn.dev/sanyodo/articles/7de65a3fac794d",
+    "pubDate": "Fri, 21 Nov 2025 08:15:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "発端の話\n業務でReactを触って開発を進めていく中で、以下のようなコードをよく見かけました。\n\nButton.tsx\nexport default function Button() {\n  return <button>押す</button>;\n}\n\n一方でこんなコードも見かけました。\n\nButton.tsx\nexport function Button() {\n  return <butto"
+  },
+  {
+    "title": "新卒3ヶ月目で共通基盤の0→1を任されて学んだ『アウトカム思考』の大切さ",
+    "link": "https://zenn.dev/loglass/articles/2025-newcomer",
+    "pubDate": "Fri, 21 Nov 2025 08:03:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の118週目の記事です！\n3年間連続達成まで残り41週となりました！\n\n\n はじめに\n今年の4月に新卒でログラスにエンジニアとして入社したカワサキです。\nログラスに入社して3ヶ月目から共通基盤プロジェクトの立ち上げの開発に携わり、エンジニアとしてアプリケーション部分の開発全般を行いました。入社してすぐに"
   },
   {
     "title": "30万kmの道のり、東京でE2E自動運転を走らせる",
@@ -98,6 +140,13 @@
     "contentSnippet": "HERP の主力プロダクト HERP Hire は、2025 年で開発開始から 9 年目を迎える。\n長く運用されるプロダクトとなってきたので、事業の前提やユーザーの期待が変化する中で技術的負債とどう向き合うかが重要な課題となっている。\n技術的負債の解消について、多くの記事やドキュメントでは「どうやって解消するか」というアプローチに焦点が当てられているように思う。\nしかし、「どうやって解消するか」以"
   },
   {
+    "title": "AtCoderで入黄しました！",
+    "link": "https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T03:19:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは、Yoyoyo8128です！\nARC210で、2200パフォを出し、入黄をすることができました！\nほぼ自語りですが見てってください！\n\n自己紹介\n開成高等学校の1年生です。\n開成では、コンピュータ部(Kaisei Computer Lovers..."
+  },
+  {
     "title": "論理削除の絞り込みはWHERE句でやるな",
     "link": "https://zenn.dev/levtech/articles/squeeze-on-join-on",
     "pubDate": "Fri, 21 Nov 2025 02:45:01 GMT",
@@ -112,18 +161,11 @@
     "contentSnippet": "1. はじめに： なぜエンジニアは「すみません」を言いすぎてしまうのか\n開発現場で、無意識に口癖のように出てしまう「すみません」。\n心当たりはないでしょうか、私はあります....笑\n資料の提出が少し遅れたとき、MTGの冒頭、あるいは相手からの指摘を受けたとき、他チームにお..."
   },
   {
-    "title": "AI駆動組み込み開発における「Rustの必然性」",
-    "link": "https://zenn.dev/kokimu/articles/7bb7f9f3896bb4",
-    "pubDate": "Fri, 21 Nov 2025 00:01:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AI駆動組み込み開発における「Rustの必然性」\n\n はじめに\nRustは学習コストが高い言語として知られています。所有権、ライフタイム、借用チェッカーといった独特な概念は、C言語やPythonから移行するエンジニアにとって大きな壁となってきました。しかし、AIエージェント(Claude Code、Gemini、Codexなど)を活用した開発という視点から見ると、この評価は大きく変わります。\n本記"
-  },
-  {
-    "title": "Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証",
-    "link": "https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp",
-    "pubDate": "Thu, 20 Nov 2025 22:46:44 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n初めまして！AWS Japan に 2025/10/1 に入社した AI/ML Specialist Solutions Architect の Kujirada です。\n2025 年、MCP は Agent と外部システムを接続し、Tool として利用するためのプロトコルとして急速に普及しています。エンタープライズ利用の需要に伴い、Local MCP から Remote MCP への移"
+    "title": "【速報】Google画像生成AIの新モデル「Nano Banana Pro」登場！Gemini 3ベースの描画力を徹底解説",
+    "link": "https://qiita.com/kentaro_kawamura/items/d2b858d9d6e091855757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T23:41:03.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは！\n今日（2025年11月21日）、Google DeepMindから新しい画像生成AI 「Nano Banana Pro」 が発表されました。（技術的な名称は Gemini 3 Pro Image です）\n先日発表されたばかりの「Gemini 3」の頭脳（推論能..."
   },
   {
     "title": "念願の！API Gateway + Lambdaでストリーミングレスポンス！Bedrockの応答でカタカタできる！",
@@ -140,27 +182,6 @@
     "contentSnippet": "はじめに\n\n概要\n従来IAMユーザでローカルからAWSリソースを操作したい場合、アクセスキーを発行し、端末に設定する必要がありました。アクセスキーは長期認証情報にあたり、漏洩した場合は大きな被害につながる可能性があるため慎重に管理する必要がありました。\nそんな中発表された..."
   },
   {
-    "title": "Closed-Loop で実現するデータ中心の自動運転モデル",
-    "link": "https://zenn.dev/riita10069/books/ad-adas-closed-loop",
-    "pubDate": "Thu, 20 Nov 2025 10:49:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "自動運転モデル開発において考慮するべき事項を列挙しています"
-  },
-  {
-    "title": "あんさんぶるスターズ！！10周年UIアップデートで導入したコード自動生成とプレビュー機能",
-    "link": "https://zenn.dev/happy_elements/articles/hekk_article_20251119",
-    "pubDate": "Thu, 20 Nov 2025 10:06:53 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nあんさんぶるスターズ！！（以下、あんスタ）では、10周年を機に大規模なUIアップデートを実施しました。\nBright me up!! 10周年記念特設サイト｜あんさんぶるスターズ！！\nこの記事では、このUIアップデートで導入したコード自動生成とプレビュー機能をご紹介します。デザイナーがプレハブ作成後にコード生成することで動作確認まで完結でき、エンジニアを待たずに先行して開発できるワークフ"
-  },
-  {
-    "title": "AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～",
-    "link": "https://zenn.dev/r_kaga/articles/74673cb9333007",
-    "pubDate": "Thu, 20 Nov 2025 08:24:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "初めまして、kagayaです。\n共訳した「AIエンジニアリング（オライリー・ジャパン）」が2025年11月28日に発売します。\nhttps://www.oreilly.co.jp/books/9784814401383/\n今回は書籍のタイトルでもある、AIエンジニアリングについてです。\n基盤モデルのAPI化により、AIをプロダクトに組み込むスキルの需要が高まっています。\nそれが、書籍のテーマである"
-  },
-  {
     "title": "【保存版】Google Antigravity 完全攻略ガイド｜次世代 \"エージェント型\" IDEのすべてを使い倒すチートシート",
     "link": "https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-20T01:34:26.000Z",
@@ -168,11 +189,11 @@
     "contentSnippet": "はじめに\nGoogle Antigravityがリリースされました。\n「Cursor, Windsurf...またAI搭載エディタか」って思いませんでした？\n僕も最初そう思ってたんです。\nでもね、ドキュメント読み込んでいくうちに、ちょっと考えが変わりました。\nGoogl..."
   },
   {
-    "title": "「純全帯幺九（ジュンチャン）、難易度の割に安すぎないか？」という麻雀の疑問をGemini 3に聞いてみた。",
-    "link": "https://qiita.com/inukai-masanori/items/29b3aa79f33858845685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T00:13:06.000Z",
+    "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
+    "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T23:41:41.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n麻雀打ちなら一度は思ったことがあるはずです。\n「純全帯幺九（ジュンチャン）、難易度の割に安すぎないか？」 と。\n苦労して作ったジュンチャン（3翻）と、破壊力抜群のチンイツ（6翻）。 体感では「絶対にジュンチャンの方が難しい」と感じていましたが、果たして本当なのか..."
+    "contentSnippet": "はじめに\n現場で「なんだかメモリが増えている気がする」「GC（ガベージコレクション）があるから大丈夫だと思ったら落ちた…」「原因がよく分からないままサービス再起動してごまかしている」という経験はありませんか？\n本記事では、そんな“見えてるけど見えていない”存在、つまり 「..."
   },
   {
     "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
@@ -201,27 +222,6 @@
     "pubDate": "2025-11-19T12:13:47.000Z",
     "source": "Qiita",
     "contentSnippet": "Gemini3リリース！\nなにやらGemini3がリリースされたらしい。フロントエンド周りのUI設計に強いらしい。専門はバックエンドだしあんまり関係ないかなー。\n...え、single prompt（一回のプロンプト）でゲーム作れちゃうの！？\n\nということで、Gemini..."
-  },
-  {
-    "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
-    "link": "https://qiita.com/kazuya828/items/27f81e75bed8fd7c5b47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T06:03:27.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n開発ツールの月額料金、気づいたら結構な金額になっていませんか？Postman、GitHub、Notion...便利なツールほど、チーム規模が大きくなると課金額も膨らんでいきます。\n実は今、そんな商用ツールに匹敵する、いやそれ以上の機能を持つオープンソース代替が続..."
-  },
-  {
-    "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている",
-    "link": "https://qiita.com/rf_p/items/60be12914338447543d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T01:11:17.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n本日2025/11/19、GoogleがGemini3.0を発表すると同時に、「Google Antigravity」というIDEを発表しました。\n\nCursorやKiroのように、VSCodeから派生して作られたIDEです。\nそしてさすがGoogle、今ま..."
-  },
-  {
-    "title": "Googleが発表したAIエディタ、Antigravityを触ってみた。~指示・実装・動作確認~",
-    "link": "https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T00:52:44.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGoogle が 2025-11-18（米国時間）に発表した AI エディタ、「Antigravity」を使って、実際に「AIチャットアプリ」を開発してみました。\n本記事では、拡張機能である Antigravity Browser Extension を利用した..."
   },
   {
     "title": "［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025",

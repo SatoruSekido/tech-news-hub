@@ -1,73 +1,73 @@
 [
   {
-    "title": "Intro to Pytest",
-    "link": "https://dev.to/thatmlguy/intro-to-pytest-1m35",
-    "pubDate": "Sun, 23 Nov 2025 12:40:09 +0000",
+    "title": "Announcing udwall: A New Tool for Making UFW and Docker Play Nice With Each Other",
+    "link": "https://dev.to/ganesh-kumar/announcing-udwall-a-new-tool-for-making-ufw-and-docker-play-nice-with-each-other-554b",
+    "pubDate": "Sun, 23 Nov 2025 18:21:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.\nTo install pytest, run:\npip install pytest\n\nIn th"
+    "contentSnippet": "Many of us believe that the combination of UFW and Docker is the standard stack for deploying applications securely without exposing docker container ports.\nConfiguring UFW via provisioning tools like"
   },
   {
-    "title": "Bridging the Gap: Integrating 3GL Languages with Uniface",
-    "link": "https://dev.to/petercode/bridging-the-gap-integrating-3gl-languages-with-uniface-4fa2",
-    "pubDate": "Sun, 23 Nov 2025 12:23:49 +0000",
+    "title": "Understanding the C Compilation Process",
+    "link": "https://dev.to/manojge/understanding-the-c-compilation-process-5b91",
+    "pubDate": "Sun, 23 Nov 2025 18:20:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIf you work with Uniface, you know it’s a powerful low-code platform for building enterprise applications. However, there are moments when standard 4GL isn't enough. You might need high"
+    "contentSnippet": "This article grew out of my journey to revisit C from a systems perspective. Most of my career has been in Notes/Domino, Java, and Drupal, and although I learned C during my university years, I never "
   },
   {
-    "title": "I've got the best idea for Thanksgiving. Im going to make a multi layer gelatin cake. Then I can tell everyone its my OSI model and how this gelatin cake relates to computer science. Dorky? Yes. Going to make my OSI gelatin cake anyways. 🌈",
-    "link": "https://dev.to/annavi11arrea1/ive-got-the-best-idea-for-thanksgiving-im-going-to-make-a-multi-layer-gelatin-cake-then-i-can-104l",
-    "pubDate": "Sun, 23 Nov 2025 12:22:09 +0000",
+    "title": "AI for Bharat: Tired of Just Reading About AI? It’s Time to Start Building",
+    "link": "https://dev.to/arunagri82/ai-for-bharat-tired-of-just-reading-about-ai-its-time-to-start-building-275k",
+    "pubDate": "Sun, 23 Nov 2025 18:09:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": ""
+    "contentSnippet": "Artificial Intelligence is reshaping industries, accelerating careers, and creating new opportunities every single day. Yet most developers in India are stuck in the same cycle:\n\n👉 Watching tutorials"
   },
   {
-    "title": "Uniface Meets 3GL: Integrating Legacy Power with Modern Performance",
-    "link": "https://dev.to/petercode/uniface-meets-3gl-integrating-legacy-power-with-modern-performance-6gj",
-    "pubDate": "Sun, 23 Nov 2025 12:14:13 +0000",
+    "title": "8-Bit Music Theory: Kirby Air Riders' Music is FUN FUN FUN",
+    "link": "https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-3fjm",
+    "pubDate": "Sun, 23 Nov 2025 18:08:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey Developers! 👋\n\n\nIf you work with Rocket Uniface, you know how powerful ProcScript is for building business applications quickly. But let’s be honest—sometimes you hit a wall. Maybe you need to pe"
+    "contentSnippet": "Kirby Air Riders’ “Starlit Journey” Breakdown\n\n\n8bitMusicTheory dives into the exuberant main theme of Kirby Air Riders, “Starlit Journey,” explaining how each section—intro, verse, chorus, bridge and"
   },
   {
-    "title": "Google ADK Tutorials",
-    "link": "https://dev.to/liberifatali/google-adk-tutorials-1e2b",
-    "pubDate": "Sun, 23 Nov 2025 12:12:16 +0000",
+    "title": "Building Domain-Specific AI Agents Through Configuration, Not Code",
+    "link": "https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh",
+    "pubDate": "Sun, 23 Nov 2025 18:01:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I'm putting a list of tutorials for Google ADK (Agent Development Kit). This is the foundation.\nA quick start to get a feel of Google ADK \nFirst experience with ADK tools\nA good crash course\nADK patte"
+    "contentSnippet": "Building Domain-Specific AI Agents Through Configuration, Not Code\n\n\nI built a framework where you can create specialized AI agents (like a Compliance Reviewer or Travel Planner) by writing a YAML fil"
   },
   {
-    "title": "How I Achieved a 95+ Lighthouse Performance Score in a Next.js E-commerce Site (And How You Can, Too)",
-    "link": "https://dev.to/seyedahmaddv/how-i-achieved-a-95-lighthouse-performance-score-in-a-nextjs-e-commerce-site-and-how-you-can-2pe5",
-    "pubDate": "Sun, 23 Nov 2025 12:08:12 +0000",
+    "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k",
+    "pubDate": "Sun, 23 Nov 2025 18:00:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the world of e-commerce, every second counts. Studies show that a mere one-second delay in page load time can lead to a 7% reduction in conversions. For a business, that's not just a statistic; it'"
+    "contentSnippet": "Everything Wrong With The Wiz in 15 Minutes (Or Less)\n\n\nCinemaSins is back on the yellow brick road now that Wicked is back in theaters—this time digging into the 1978 classic The Wiz to see if it’s b"
   },
   {
-    "title": "Why Softmax is Used Instead of Argmax in Neural Network Training",
-    "link": "https://dev.to/imdadul_haqueohi_1eb693e/why-softmax-is-used-instead-of-argmax-in-neural-network-training-aba",
-    "pubDate": "Sun, 23 Nov 2025 12:04:18 +0000",
+    "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4e3c",
+    "pubDate": "Sun, 23 Nov 2025 18:00:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why Softmax is Used Instead of Argmax in Neural Network Training\n\n\n\n  \n  \n  1. Information Loss with Argmax\n\n\nArgmax only returns the index of the highest logit value and completely discards all confi"
+    "contentSnippet": "Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less\n\nCinemaSins dives into the neon-soaked world of KPop Demon Hunters, rattling off every quibble, plot hole and eyebrow-raising moment in u"
   },
   {
-    "title": "🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing",
-    "link": "https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip",
-    "pubDate": "Sun, 23 Nov 2025 12:02:31 +0000",
+    "title": "Building a Location Picker in React Native Maps (with Draggable Marker & Address Lookup)",
+    "link": "https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00",
+    "pubDate": "Sun, 23 Nov 2025 17:59:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIf you work with Uniface, you probably know that it plays well with others—specifically with 3GL languages like C or C++. We often use activate or perform to call out to legacy C librar"
+    "contentSnippet": "Introduction\n\n\nIn my previous post, I covered how to integrate Google Maps and display the user’s live location.\nNow let’s take it one step further — by creating a location picker where users can drag"
   },
   {
-    "title": "De-Silo Your Revenue Engine: A 5-Step Playbook for Aligning Sales & Marketing APIs",
-    "link": "https://dev.to/michaelaiglobal/de-silo-your-revenue-engine-a-5-step-playbook-for-aligning-sales-marketing-apis-3ci9",
-    "pubDate": "Sun, 23 Nov 2025 12:01:48 +0000",
+    "title": "Spring Security Flow",
+    "link": "https://dev.to/arunagri82/spring-security-flow-1hkg",
+    "pubDate": "Sun, 23 Nov 2025 17:57:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Let's be honest, the traditional wall between sales and marketing teams feels like a legacy monolith with no API documentation. Marketing generates leads (pushes data to a queue), and sales complains "
+    "contentSnippet": "When a user submits login details, Spring Security’s authentication filter intercepts the request and converts it into an Authentication object. This object is then passed to the AuthenticationManager"
   },
   {
-    "title": "The New Digital Empire",
-    "link": "https://dev.to/rawveg/the-new-digital-empire-3lnm",
-    "pubDate": "Sun, 23 Nov 2025 12:00:00 +0000",
+    "title": "Do companies share API docs with third-party integration providers?",
+    "link": "https://dev.to/margaaber/do-companies-share-api-docs-with-third-party-integration-providers-4dj6",
+    "pubDate": "Sun, 23 Nov 2025 17:52:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The race to regulate artificial intelligence has begun, but the starting line isn't level. As governments scramble to establish ethical frameworks for AI systems that could reshape society, a troublin"
+    "contentSnippet": "Do companies usually provide their API documentation (Swagger/OpenAPI, etc.) to third-party companies, like integration providers or tools that plug into their system?\nIf so, is it usually complete, o"
   },
   {
     "title": "【Claude Code】SkillsとSubAgents、どっちを使えばいいの？違いと使い分けを完全解説",

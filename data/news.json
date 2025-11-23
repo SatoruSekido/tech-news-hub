@@ -1,73 +1,115 @@
 [
   {
-    "title": "The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God",
-    "link": "https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9",
-    "pubDate": "Sun, 23 Nov 2025 06:20:52 +0000",
+    "title": "Intro to Pytest",
+    "link": "https://dev.to/thatmlguy/intro-to-pytest-1m35",
+    "pubDate": "Sun, 23 Nov 2025 12:40:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God\n\n\n\n  \n  \n  The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God\n\n\nIn a world saturated with information, the quest for wisdom, gu"
+    "contentSnippet": "The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.\nTo install pytest, run:\npip install pytest\n\nIn th"
   },
   {
-    "title": "Singleton Pattern issue in playwright browser",
-    "link": "https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b",
-    "pubDate": "Sun, 23 Nov 2025 06:20:31 +0000",
+    "title": "Bridging the Gap: Integrating 3GL Languages with Uniface",
+    "link": "https://dev.to/petercode/bridging-the-gap-integrating-3gl-languages-with-uniface-4fa2",
+    "pubDate": "Sun, 23 Nov 2025 12:23:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Explaining why the singleton pattern retains the previous value:\n// ONE instance created when module loads\nconst playwrightManager = new PlaywrightBrowserManager();\n\n// This instance has properties:\n/"
+    "contentSnippet": "Introduction\n\n\nIf you work with Uniface, you know it’s a powerful low-code platform for building enterprise applications. However, there are moments when standard 4GL isn't enough. You might need high"
   },
   {
-    "title": "Streamline SDK Integration for AI Monetization with Monetzly",
-    "link": "https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2",
-    "pubDate": "Sun, 23 Nov 2025 06:17:38 +0000",
+    "title": "I've got the best idea for Thanksgiving. Im going to make a multi layer gelatin cake. Then I can tell everyone its my OSI model and how this gelatin cake relates to computer science. Dorky? Yes. Going to make my OSI gelatin cake anyways. 🌈",
+    "link": "https://dev.to/annavi11arrea1/ive-got-the-best-idea-for-thanksgiving-im-going-to-make-a-multi-layer-gelatin-cake-then-i-can-104l",
+    "pubDate": "Sun, 23 Nov 2025 12:22:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Monetization Without Paywalls: The Future of AI App Revenue\n\n\nThe biggest challenge in AI today? Monetization without killing user experience. With the rapid explosion of AI applications, developers a"
+    "contentSnippet": ""
   },
   {
-    "title": "SteadyFetch: A tiny Android SDK that refuses to let your downloads die",
-    "link": "https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g",
-    "pubDate": "Sun, 23 Nov 2025 06:11:19 +0000",
+    "title": "Uniface Meets 3GL: Integrating Legacy Power with Modern Performance",
+    "link": "https://dev.to/petercode/uniface-meets-3gl-integrating-legacy-power-with-modern-performance-6gj",
+    "pubDate": "Sun, 23 Nov 2025 12:14:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most download bugs do not show up in crashlytics.\n\nThey show up as angry users, half written files, and silent failures when Android decides that your background work is no longer welcome. 😤\nI hit th"
+    "contentSnippet": "Hey Developers! 👋\n\n\nIf you work with Rocket Uniface, you know how powerful ProcScript is for building business applications quickly. But let’s be honest—sometimes you hit a wall. Maybe you need to pe"
   },
   {
-    "title": "📘 SaijinOS Part 12 (DEV Edition) Silent-Civ Architecture — Minimal Pre-Linguistic Structural Model",
-    "link": "https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c",
-    "pubDate": "Sun, 23 Nov 2025 06:10:16 +0000",
+    "title": "Google ADK Tutorials",
+    "link": "https://dev.to/liberifatali/google-adk-tutorials-1e2b",
+    "pubDate": "Sun, 23 Nov 2025 12:12:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 SaijinOS Series Navigation\n\n\n\nPart\nTitle\nLink\n\n\n\n\n🤝 9\nMulti-Persona Co-Creation Protocol\nhttps://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep\n\n\n🕊️ 10\nP"
+    "contentSnippet": "I'm putting a list of tutorials for Google ADK (Agent Development Kit). This is the foundation.\nA quick start to get a feel of Google ADK \nFirst experience with ADK tools\nA good crash course\nADK patte"
   },
   {
-    "title": "Shell Scripting for DevOps (Week 2)",
-    "link": "https://dev.to/ashish0360/shell-scripting-for-devops-week-2-5ble",
-    "pubDate": "Sun, 23 Nov 2025 06:09:24 +0000",
+    "title": "How I Achieved a 95+ Lighthouse Performance Score in a Next.js E-commerce Site (And How You Can, Too)",
+    "link": "https://dev.to/seyedahmaddv/how-i-achieved-a-95-lighthouse-performance-score-in-a-nextjs-e-commerce-site-and-how-you-can-2pe5",
+    "pubDate": "Sun, 23 Nov 2025 12:08:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Part 1 - The Essentials: Shebang, Shell Types, Basic Syntax, Variables & User Input\n\n\nBy Ashish — Learn in Public DevOps Journey (Week 2)\nhttps://www.linkedin.com/in/ashish360/\nhttps://github.com/ashi"
+    "contentSnippet": "In the world of e-commerce, every second counts. Studies show that a mere one-second delay in page load time can lead to a 7% reduction in conversions. For a business, that's not just a statistic; it'"
   },
   {
-    "title": "Building End-to-End Local AI Agents with Microsoft Agent Framework and AG-UI",
-    "link": "https://dev.to/stormhub/building-end-to-end-local-ai-agents-with-microsoft-agent-framework-and-ag-ui-nbi",
-    "pubDate": "Sun, 23 Nov 2025 06:06:37 +0000",
+    "title": "Why Softmax is Used Instead of Argmax in Neural Network Training",
+    "link": "https://dev.to/imdadul_haqueohi_1eb693e/why-softmax-is-used-instead-of-argmax-in-neural-network-training-aba",
+    "pubDate": "Sun, 23 Nov 2025 12:04:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Microsoft Agent Framework significantly elevates AI agent orchestration. A standout feature is its implementation of the Agent–User Interaction (AG-UI) Protocol, which standardizes how AI agents c"
+    "contentSnippet": "Why Softmax is Used Instead of Argmax in Neural Network Training\n\n\n\n  \n  \n  1. Information Loss with Argmax\n\n\nArgmax only returns the index of the highest logit value and completely discards all confi"
   },
   {
-    "title": "Gemini 3 Pro: How Google’s New AI Reads, Sees, and Codes Like Never Before",
-    "link": "https://dev.to/aiwithapex/gemini-3-pro-how-googles-new-ai-reads-sees-and-codes-like-never-before-4f57",
-    "pubDate": "Sun, 23 Nov 2025 06:05:17 +0000",
+    "title": "🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing",
+    "link": "https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip",
+    "pubDate": "Sun, 23 Nov 2025 12:02:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everyone’s talking about the new 1M-token, multimodal AI wave; the real opportunity is how you turn it into revenue, speed, and defensible workflows.\nGoogle’s Gemini 3 Pro raised the bar, but the loud"
+    "contentSnippet": "Introduction\n\n\nIf you work with Uniface, you probably know that it plays well with others—specifically with 3GL languages like C or C++. We often use activate or perform to call out to legacy C librar"
   },
   {
-    "title": "VolBack: Backup Tool Part 2",
-    "link": "https://dev.to/japroger/volback-backup-tool-part-2-2pb7",
-    "pubDate": "Sun, 23 Nov 2025 06:01:18 +0000",
+    "title": "De-Silo Your Revenue Engine: A 5-Step Playbook for Aligning Sales & Marketing APIs",
+    "link": "https://dev.to/michaelaiglobal/de-silo-your-revenue-engine-a-5-step-playbook-for-aligning-sales-marketing-apis-3ci9",
+    "pubDate": "Sun, 23 Nov 2025 12:01:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Intro\n\n\nRead the post VolBack: Backup Tool Part 1 to get familiar with basics ideas\nThere are special cases of backup volume calculations. \nIf n = 1, we don't need a at all. Therefore \n\n\n  S1=x1S_1 = "
+    "contentSnippet": "Let's be honest, the traditional wall between sales and marketing teams feels like a legacy monolith with no API documentation. Marketing generates leads (pushes data to a queue), and sales complains "
   },
   {
-    "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3dk9",
-    "pubDate": "Sun, 23 Nov 2025 06:00:15 +0000",
+    "title": "The New Digital Empire",
+    "link": "https://dev.to/rawveg/the-new-digital-empire-3lnm",
+    "pubDate": "Sun, 23 Nov 2025 12:00:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "With Wicked back in theaters, CinemaSins straps on their ruby slippers for a brisk, 15-minute “Everything Wrong With The Wiz” takedown—spotlighting every plot hole, cheesy effect and head-scratching m"
+    "contentSnippet": "The race to regulate artificial intelligence has begun, but the starting line isn't level. As governments scramble to establish ethical frameworks for AI systems that could reshape society, a troublin"
+  },
+  {
+    "title": "【Claude Code】SkillsとSubAgents、どっちを使えばいいの？違いと使い分けを完全解説",
+    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_skills_vs_subagents",
+    "pubDate": "Sat, 22 Nov 2025 23:46:35 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、とまだです。\nClaude Code を使いこなしていくと、必ずぶつかる疑問があります。それが、\n「Skills（スキル）とSubAgents（サブエージェント）、どっちを使えばいいの？」\nという疑問です。公式ドキュメントを読んだとしても、この2つの違いが分かりにくいですよね。\nそのため、混乱するのも無理はありません。\n私も最近、Claude Skills に関する記事を公開しましたが"
+  },
+  {
+    "title": "ペイントツール上でライフゲームを動かす",
+    "link": "https://zenn.dev/melville/articles/83c91d6ea42d0c",
+    "pubDate": "Sat, 22 Nov 2025 23:27:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "これはKritaという無料のペイントツールですが、Conwayのライフゲームが動作しています。\nスクリプト等は用いておらず、標準のフィルターと合成レイヤーのみを用いています。\n\n 解説\n端的に言うと次の4レイヤーを重ねることでライフゲームの次の世代の計算を行うことができます。\n\nぼかしフィルター\n\n#b88b73 加算\nカラー補正フィルター\n\n#000000 彩度HSV\n\n\n ぼかしフィルター\nこ"
+  },
+  {
+    "title": "Durable Agent で長時間ツール呼び出し - Microsoft Agent Framework (C#) その15",
+    "link": "https://zenn.dev/microsoft/articles/agent-framework-015",
+    "pubDate": "Sat, 22 Nov 2025 16:33:26 GMT",
+    "source": "Zenn",
+    "contentSnippet": "シリーズ記事\n!\nこの記事はプレビュー版の Microsoft Agent Framework を基に書かれています。今後のバージョンアップで内容が変わる可能性があります。\nここで記載しているコードは執筆時点の情報に基づいています。\n\n\nその1: 「雑感」とハローワールド\nその2: ざっとリポジトリを見てみる\nその3: ワークフローを見てみよう\nその4: ワークフローの Executor を掘り下"
+  },
+  {
+    "title": "Claude Codeはサブエージェントが何をしたか知らない",
+    "link": "https://zenn.dev/trust_delta/articles/claude-code-subagent-001",
+    "pubDate": "Sat, 22 Nov 2025 15:37:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TL;DR\n\n\nサブエージェント実行ログは、\n\nUI上に緑〇で表示される\nメインのコンテキストには入らない\n再起動後に消える\n\n\n「画面に出てる」≠「Claudeが知ってる」\n\n\n\n はじめに\nClaude Codeでサブエージェントを使っていて気になったことを実験してみました。\n公式ドキュメントには「メイン会話とは別の独立したコンテキストウィンドウを使用します」とありますが、どの程度の分離具合か"
+  },
+  {
+    "title": "俺のVercelは遅かった - Function Regionの罠",
+    "link": "https://zenn.dev/mountain1009/articles/00c8a4542e6194",
+    "pubDate": "Sat, 22 Nov 2025 13:06:11 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nNext.js アプリを Vercel にデプロイしたら、なぜか異常に遅い...。そんな経験ありませんか？\n普段は Cloudflare Workers や Cloud Run を使っていた私が、初めて Vercel を本番運用することになりました。\n完全初見です。\n「Vercel って評判いいし、Next.js との相性も最高って聞くし、余裕でしょ」\nそう思っていた矢先、意外なところに"
+  },
+  {
+    "title": "`aws login`の認証情報をboto3で使うにはひと工夫必要だよ！",
+    "link": "https://qiita.com/moritalous/items/482b1e0a7418652568e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T12:41:11.000Z",
+    "source": "Qiita",
+    "contentSnippet": "新しいaws loginが激アツですよね？\n\n「SDKでも使えるよ！」とあったのですが、Boto3だとちょいと一工夫必要でしたので共有します。\n\nとりあえずやってみよう\n前提として、最新のAWS CLIをインストールし、aws loginでログインしておきま..."
   },
   {
     "title": "Lambda Tenant Isolation Mode（テナント分離モード）",
@@ -84,18 +126,11 @@
     "contentSnippet": "11/22 20:40更新： Dockerfileを更新し忘れていたため反映しました🙏\n\nAmazon ECSの新機能「エクスプレスモード」が登場しました。\n\nECRにコンテナイメージさえプッシュしておけば、面倒なネットワークやタスク定義などの準備をせずとも、簡単..."
   },
   {
-    "title": "A2A を基礎から学ぶ (4) Function Calling による複数 Agent の選択的呼び出しの実装",
-    "link": "https://zenn.dev/sakura_internet/articles/72af3abdfe5c5b",
-    "pubDate": "Sat, 22 Nov 2025 03:37:19 GMT",
+    "title": "aws loginコマンドが来たのでAWSのアクセスキーを削除したかったけど、やっぱり保留しました。",
+    "link": "https://zenn.dev/ncdc/articles/153101d64b0175",
+    "pubDate": "Sat, 22 Nov 2025 03:14:00 GMT",
     "source": "Zenn",
-    "contentSnippet": "https://zenn.dev/sakura_internet/articles/e29d64a9d211a4\nhttps://zenn.dev/sakura_internet/articles/0f77e58048f906\nhttps://zenn.dev/sakura_internet/articles/8e049c64fc00b1\n前回までの手順で、PlannerAgentが与えられたプロ"
-  },
-  {
-    "title": "Amazon ECS Expressモードがリリースされました",
-    "link": "https://qiita.com/yama3133/items/9baaea109351c6b2bcc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-22T03:09:24.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nECS Expressモードがリリースされていましたので確認してみました。\n\nECSの設定(通常)\n今までだと、\nクラスターの作成\n名前空間の設定\nタスク定義の設定\n必要なロールの作成\n等の手順が必要でした。\n\nECS Expressモード\nAWSマネジメントコ..."
+    "contentSnippet": "はじめに\nAWS CLIにaws loginコマンドが実装されました。\nhttps://aws.amazon.com/jp/blogs/security/simplified-developer-access-to-aws-with-aws-login/\nこのコマンドを使うとアクセスキーがなくてもAWS CLIを使用できます。つまりアクセスキーの発行が不要となるので、アクセスキーの漏洩という大きな"
   },
   {
     "title": "【ポエム】プログラミングスキルと同じように、AIデバッグスキルも必要になりそうだな、と感じた話",
@@ -103,6 +138,13 @@
     "pubDate": "Fri, 21 Nov 2025 23:43:48 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n僕は、普段から多くのAI活用のトップランナーの方々と仲良くさせて頂いていて、僕自身も AI の活用方法について発信したりしています。\nそんな中で、最近ふと感じたことがあります。それは、「AIデバッグスキル」の重要性です。\nプログラミングを学ぶ際、文法やデバッグ方法を学ぶことは大切です。\n同じように、AI を使いこなすためにも「なぜ上手く動かないのか？」を理解し、改善していくスキルが必要に"
+  },
+  {
+    "title": "Antigravity使うのやめてCopilotに戻った話",
+    "link": "https://qiita.com/tubasa854/items/bf96feb1a0d26fe3a4c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T21:38:41.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Web系開発&技術コンサルの会社を経営をしています。界隈の方はぜひ繋がりましょう → https://x.com/tsubasa859\n\nはじめに\nGoogle DeepMindが先日リリースした新しいAI開発プラットフォーム「Antigravity」を試してみました。Ge..."
   },
   {
     "title": "Nano Banana Pro APIの新規機能は Gemini Web版で利用できるの！？ (Gemini 3 Pro Image)",
@@ -119,32 +161,18 @@
     "contentSnippet": "はじめに\n2025/11/20~2025/11/21の2日間で行われた「アーキテクチャConference2025」に参加してきました。\nhttps://architecture-con.findy-tools.io/2025\nシステムの設計は興味がある分野の一つでして、今回新しく学んだことや気になったことをまとめてみようと思います。\nhttps://x.com/yuma_ito_bd/statu"
   },
   {
-    "title": "Rustで『安全』と言い切れるか？Cloudflare 障害と unwrap() のリアル",
-    "link": "https://zenn.dev/dokusy/articles/666387f63061de",
-    "pubDate": "Fri, 21 Nov 2025 13:17:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025年11月18日、インターネットインフラ大手 Cloudflare にて、世界規模のサービス障害が発生しました。\nその原因として、Rust 製プロキシサービス内で起きた panic の一撃が引き金になったことが報じられています。中でも注目されたのが、Rust 標準ライブラリの Option::unwrap() または Result::unwrap() の呼び出しです。\nしかし、この"
+    "title": "技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？",
+    "link": "https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T11:57:41.000Z",
+    "source": "Qiita",
+    "contentSnippet": "これまでのあらすじ\n技術書典19に出展したけど、全然売れない。悲しみの投稿\n\nをしたのが11月19日23時頃。特に反応もなく、「誰もお前を愛さない」状態になる。翌日は、いつもの愚にも付かない伝言ゲームをして(それを世の中では仕事というらしい)、帰宅。そうしてSNSを開..."
   },
   {
-    "title": "Reactのexport defaultとexportって何がどう違うんや",
-    "link": "https://zenn.dev/sanyodo/articles/7de65a3fac794d",
-    "pubDate": "Fri, 21 Nov 2025 08:15:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "発端の話\n業務でReactを触って開発を進めていく中で、以下のようなコードをよく見かけました。\n\nButton.tsx\nexport default function Button() {\n  return <button>押す</button>;\n}\n\n一方でこんなコードも見かけました。\n\nButton.tsx\nexport function Button() {\n  return <butto"
-  },
-  {
-    "title": "新卒3ヶ月目で共通基盤の0→1を任されて学んだ『アウトカム思考』の大切さ",
-    "link": "https://zenn.dev/loglass/articles/2025-newcomer",
-    "pubDate": "Fri, 21 Nov 2025 08:03:08 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の118週目の記事です！\n3年間連続達成まで残り41週となりました！\n\n\n はじめに\n今年の4月に新卒でログラスにエンジニアとして入社したカワサキです。\nログラスに入社して3ヶ月目から共通基盤プロジェクトの立ち上げの開発に携わり、エンジニアとしてアプリケーション部分の開発全般を行いました。入社してすぐに"
-  },
-  {
-    "title": "Prisma v7の新機能と変更点まとめ",
-    "link": "https://zenn.dev/assign/articles/prisma-v7-whats-new",
-    "pubDate": "Fri, 21 Nov 2025 05:48:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。\n先日、Prisma ORMのメジャーバージョンであるv7.0.0がリリースされました。\n今回のアップデートでは、長らく待ち望まれていたRust-free Clientのデフォルト化や、設定ファイルの刷新など、Developer Experience (DX) を大きく向上させる変更が含まれ"
+    "title": "Copilot Studio で SharePoint Listのデータを精度よく取り扱うには",
+    "link": "https://qiita.com/tomoyasasaki1204/items/240299546095a313b228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T06:45:12.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nみなさん、こんにちは\nマイクロソフト佐々木です。\n本日はよくある課題の「Copilot Studio で SharePoint Listのデータを精度よく取り扱うには」です。\n本来であれば、SharePoint Listのナレッジの整備の仕方など深いテーマを書く..."
   },
   {
     "title": "C# は史上初めて Java を追い抜くことになるのか？ - 2025年11月のTIOBE指数",
@@ -154,18 +182,18 @@
     "contentSnippet": "はじめに\n「TIOBE Index for November 2025」（2025年11月のTIOBE指数）でこんな面白い見出しを見つけました！\n\nNovember Headline: Is C# going to surpass Java for the first t..."
   },
   {
-    "title": "30万kmの道のり、東京でE2E自動運転を走らせる",
-    "link": "https://zenn.dev/turing_motors/articles/bc6436727234ad",
-    "pubDate": "Fri, 21 Nov 2025 05:34:46 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nチューリングで自動運転第一グループのマネージャをやっている棚橋です。\n今週、チューリングは無事にシリーズA 1st closeの資金調達を発表することができました。\nE2E自動運転の開発においても、ようやく都内を30分ほど走行できるレベルに到達しつつあります。しかし、ここに至るまでの道のりは決して平坦ではなく、多くの失敗や試行錯誤を積み重ねてきました。実際にチューリングでは今まで累計約3"
-  },
-  {
     "title": "AtCoderで入黄しました！",
     "link": "https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-21T03:19:50.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは、Yoyoyo8128です！\nARC210で、2200パフォを出し、入黄をすることができました！\nほぼ自語りですが見てってください！\n\n自己紹介\n開成高等学校の1年生です。\n開成では、コンピュータ部(Kaisei Computer Lovers..."
+  },
+  {
+    "title": "TryHackMeのすゝめ",
+    "link": "https://qiita.com/AKASecurity/items/38de2a7fbe3355879e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T01:25:44.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこの記事はセキュリティに興味のある初学者🔰からすでにセキュリティエンジニアとして、就業している方（経験者）📖など幅広い方に向けて書いています。\n私自身もTryHackMeを利用しており、非常に有用なサイトだと感じたため、紹介しようと思い記事を書きました。\n※本記..."
   },
   {
     "title": "「謝罪」しすぎない技術",
@@ -180,34 +208,6 @@
     "pubDate": "2025-11-20T23:41:03.000Z",
     "source": "Qiita",
     "contentSnippet": "こんにちは！\n今日（2025年11月21日）、Google DeepMindから新しい画像生成AI 「Nano Banana Pro」 が発表されました。（技術的な名称は Gemini 3 Pro Image です）\n先日発表されたばかりの「Gemini 3」の頭脳（推論能..."
-  },
-  {
-    "title": "念願の！API Gateway + Lambdaでストリーミングレスポンス！Bedrockの応答でカタカタできる！",
-    "link": "https://qiita.com/moritalous/items/2f9a783515abe8e3ccd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T15:59:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "念願のやつが来ました。これで、API Gateway経由でもBedrockの応答をそのままストリーミングできます。\n\n特に意味はないですが、大阪リージョンで試しました。\n\n設定\n\nマネコンでLambda管理画面を表示します\n\n「一から作成」を選択します\nランタイム..."
-  },
-  {
-    "title": "アクセスキーからaws loginへの移行を考える",
-    "link": "https://qiita.com/takahash_3/items/dcf78039fcbaea7848a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T13:13:48.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n\n概要\n従来IAMユーザでローカルからAWSリソースを操作したい場合、アクセスキーを発行し、端末に設定する必要がありました。アクセスキーは長期認証情報にあたり、漏洩した場合は大きな被害につながる可能性があるため慎重に管理する必要がありました。\nそんな中発表された..."
-  },
-  {
-    "title": "【保存版】Google Antigravity 完全攻略ガイド｜次世代 \"エージェント型\" IDEのすべてを使い倒すチートシート",
-    "link": "https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T01:34:26.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGoogle Antigravityがリリースされました。\n「Cursor, Windsurf...またAI搭載エディタか」って思いませんでした？\n僕も最初そう思ってたんです。\nでもね、ドキュメント読み込んでいくうちに、ちょっと考えが変わりました。\nGoogl..."
-  },
-  {
-    "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
-    "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T23:41:41.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n現場で「なんだかメモリが増えている気がする」「GC（ガベージコレクション）があるから大丈夫だと思ったら落ちた…」「原因がよく分からないままサービス再起動してごまかしている」という経験はありませんか？\n本記事では、そんな“見えてるけど見えていない”存在、つまり 「..."
   },
   {
     "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",

@@ -1,80 +1,80 @@
 [
   {
-    "title": "8-Bit Music Theory: Kirby Air Riders' Music is FUN FUN FUN",
-    "link": "https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-5oe",
-    "pubDate": "Sun, 23 Nov 2025 02:08:48 +0000",
+    "title": "The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God",
+    "link": "https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9",
+    "pubDate": "Sun, 23 Nov 2025 06:20:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Kirby Air Riders’ Music is FUN FUN FUN\n\n\n8bit Music Theory dives into Kirby Air Riders’ main theme, “Starlit Journey,” and dissects what makes it burst with joy. From the sparkly intro and catchy vers"
+    "contentSnippet": "The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God\n\n\n\n  \n  \n  The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God\n\n\nIn a world saturated with information, the quest for wisdom, gu"
   },
   {
-    "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1i0",
-    "pubDate": "Sun, 23 Nov 2025 02:01:06 +0000",
+    "title": "Singleton Pattern issue in playwright browser",
+    "link": "https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b",
+    "pubDate": "Sun, 23 Nov 2025 06:20:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins dives into the world of K-Pop Demon Hunters with their trademark snark, packing a playful “Everything Wrong With…” rundown into just 16 minutes. Alongside the video, they plug their main si"
+    "contentSnippet": "Explaining why the singleton pattern retains the previous value:\n// ONE instance created when module loads\nconst playwrightManager = new PlaywrightBrowserManager();\n\n// This instance has properties:\n/"
   },
   {
-    "title": "🚀 Shift Left Performance Testing in Spring Boot: Stability Through Control",
-    "link": "https://dev.to/akdevcraft/shift-left-performance-testing-in-spring-boot-stability-through-control-5e01",
-    "pubDate": "Sun, 23 Nov 2025 01:58:58 +0000",
+    "title": "Streamline SDK Integration for AI Monetization with Monetzly",
+    "link": "https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2",
+    "pubDate": "Sun, 23 Nov 2025 06:17:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nPerformance testing often comes too late in the Software Development Lifecycle, either after the code is merged, deployed, or when something starts slowing down in production.\nBut what "
+    "contentSnippet": "Monetization Without Paywalls: The Future of AI App Revenue\n\n\nThe biggest challenge in AI today? Monetization without killing user experience. With the rapid explosion of AI applications, developers a"
   },
   {
-    "title": "Why I Prefer Web Fundamentals Over the Endless Framework Cycle",
-    "link": "https://dev.to/mashraf_aiman_b9a968e5c1d/why-i-prefer-web-fundamentals-over-the-endless-framework-cycle-1698",
-    "pubDate": "Sun, 23 Nov 2025 01:48:46 +0000",
+    "title": "SteadyFetch: A tiny Android SDK that refuses to let your downloads die",
+    "link": "https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g",
+    "pubDate": "Sun, 23 Nov 2025 06:11:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For the past decade, the web development world has been moving at a pace that often feels unsustainable. Frameworks appear every few months, each promising to redefine productivity, simplify complexit"
+    "contentSnippet": "Most download bugs do not show up in crashlytics.\n\nThey show up as angry users, half written files, and silent failures when Android decides that your background work is no longer welcome. 😤\nI hit th"
   },
   {
-    "title": "A beginner's guide to the Vggt-1b model by Vufinder on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vggt-1b-model-by-vufinder-on-replicate-4oo8",
-    "pubDate": "Sun, 23 Nov 2025 01:45:03 +0000",
+    "title": "📘 SaijinOS Part 12 (DEV Edition) Silent-Civ Architecture — Minimal Pre-Linguistic Structural Model",
+    "link": "https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c",
+    "pubDate": "Sun, 23 Nov 2025 06:10:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Vggt-1b maintained by Vufinder. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nvggt-1b is a feed-forward ne"
+    "contentSnippet": "🚀 SaijinOS Series Navigation\n\n\n\nPart\nTitle\nLink\n\n\n\n\n🤝 9\nMulti-Persona Co-Creation Protocol\nhttps://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep\n\n\n🕊️ 10\nP"
   },
   {
-    "title": "Part 3 of My First .NET Core Web API Project: Documenting the Rookie Mistakes and Wins on the Way to a Job.",
-    "link": "https://dev.to/jervie_gono/part-3-of-my-first-net-core-web-api-project-documenting-the-rookie-mistakes-and-wins-on-the-way-pam",
-    "pubDate": "Sun, 23 Nov 2025 01:32:22 +0000",
+    "title": "Shell Scripting for DevOps (Week 2)",
+    "link": "https://dev.to/ashish0360/shell-scripting-for-devops-week-2-5ble",
+    "pubDate": "Sun, 23 Nov 2025 06:09:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Creating Identity Entities\n\n\nWe will now Proceed on Creating Authentication and Authorization\nWe need 2 Entities:\nApplicationUser\nApplicationRole\n\nThe Application User will be used for User Account an"
+    "contentSnippet": "Part 1 - The Essentials: Shebang, Shell Types, Basic Syntax, Variables & User Input\n\n\nBy Ashish — Learn in Public DevOps Journey (Week 2)\nhttps://www.linkedin.com/in/ashish360/\nhttps://github.com/ashi"
   },
   {
-    "title": "Stop Building Indie SaaS the Hard Way",
-    "link": "https://dev.to/brandonkylebailey/stop-building-indie-saas-the-hard-way-26o2",
-    "pubDate": "Sun, 23 Nov 2025 01:32:10 +0000",
+    "title": "Building End-to-End Local AI Agents with Microsoft Agent Framework and AG-UI",
+    "link": "https://dev.to/stormhub/building-end-to-end-local-ai-agents-with-microsoft-agent-framework-and-ag-ui-nbi",
+    "pubDate": "Sun, 23 Nov 2025 06:06:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In my experience, developers burn months writing boilerplate, chasing config drift, and IaC before a single user arrives. The market rewards velocity, not heroics. Ship slower than your competitors an"
+    "contentSnippet": "The Microsoft Agent Framework significantly elevates AI agent orchestration. A standout feature is its implementation of the Agent–User Interaction (AG-UI) Protocol, which standardizes how AI agents c"
   },
   {
-    "title": "SpaceX vs Blue Origin: Why the Next Big Shock in Spaceflight Might Come From Bezos, Not Musk",
-    "link": "https://dev.to/mashraf_aiman_b9a968e5c1d/spacex-vs-blue-origin-why-the-next-big-shock-in-spaceflight-might-come-from-bezos-not-musk-22cc",
-    "pubDate": "Sun, 23 Nov 2025 01:32:04 +0000",
+    "title": "Gemini 3 Pro: How Google’s New AI Reads, Sees, and Codes Like Never Before",
+    "link": "https://dev.to/aiwithapex/gemini-3-pro-how-googles-new-ai-reads-sees-and-codes-like-never-before-4f57",
+    "pubDate": "Sun, 23 Nov 2025 06:05:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For years the public narrative has been simple: SpaceX dominates, everyone else watches. But something important has been happening quietly in the background. While Starship captures headlines, Blue O"
+    "contentSnippet": "Everyone’s talking about the new 1M-token, multimodal AI wave; the real opportunity is how you turn it into revenue, speed, and defensible workflows.\nGoogle’s Gemini 3 Pro raised the bar, but the loud"
   },
   {
-    "title": "The Future of UX: Robotics, Telepresence, and the Rise of Human-in-the-Loop Design",
-    "link": "https://dev.to/mashraf_aiman_b9a968e5c1d/the-future-of-ux-robotics-telepresence-and-the-rise-of-human-in-the-loop-design-3h87",
-    "pubDate": "Sun, 23 Nov 2025 01:21:44 +0000",
+    "title": "VolBack: Backup Tool Part 2",
+    "link": "https://dev.to/japroger/volback-backup-tool-part-2-2pb7",
+    "pubDate": "Sun, 23 Nov 2025 06:01:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For decades we imagined a world where our physical presence could be projected anywhere, where a machine could act as our stand-in while we remained comfortably at home. What once lived in science-fic"
+    "contentSnippet": "Intro\n\n\nRead the post VolBack: Backup Tool Part 1 to get familiar with basics ideas\nThere are special cases of backup volume calculations. \nIf n = 1, we don't need a at all. Therefore \n\n\n  S1=x1S_1 = "
   },
   {
-    "title": "Fiat Omnia",
-    "link": "https://dev.to/sixto_mcready_1a384d9671b/fiat-omnia-3l9k",
-    "pubDate": "Sun, 23 Nov 2025 01:10:46 +0000",
+    "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3dk9",
+    "pubDate": "Sun, 23 Nov 2025 06:00:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Deep Code Audit: fiat_rootkit_diagnostic.sys\n\n\nAudit Metadata\nSHA-256: u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x\n\n\nAuthor: Anonymous (post-1971 monetary prophet)\nCommit Hash: 2025-11"
+    "contentSnippet": "With Wicked back in theaters, CinemaSins straps on their ruby slippers for a brisk, 15-minute “Everything Wrong With The Wiz” takedown—spotlighting every plot hole, cheesy effect and head-scratching m"
   },
   {
     "title": "Lambda Tenant Isolation Mode（テナント分離モード）",
     "link": "https://zenn.dev/aws_japan/articles/lambda-tenant-isolation",
     "pubDate": "Sat, 22 Nov 2025 11:02:13 GMT",
     "source": "Zenn",
-    "contentSnippet": "はじめに\nおはようございます、加藤です。\n2025年11月19日にAWS Lambdaに新機能Tenant isolation modeが登場しました。\n\nWhat's new\nLaunch blog\n\nこの機能はマルチテナントで提供されるSaaSサービス向けに、マルチテナントに近い使用感でシングルテナントのLambda関数を提供する機能です。\n単一のLambda関数に対しても実行時にtenant"
+    "contentSnippet": "はじめに\nおはようございます、加藤です。\n2025年11月19日にAWS Lambdaに新機能Tenant isolation modeが登場しました。\n\nWhat's new\nLaunch blog\n\nこの機能はマルチテナントで提供されるサービス向けに、単一のLambda関数に対して実行時にテナントIDを指定し、それごとにLambda関数の実行環境を分離することによってテナントごとに実行環境の分"
   },
   {
     "title": "ECSの新機能Expressモードで、認証つきStreamlitアプリを簡単にAWSデプロイしよう！",

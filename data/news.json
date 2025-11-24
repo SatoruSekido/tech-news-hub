@@ -1,73 +1,115 @@
 [
   {
-    "title": "Announcing udwall: A New Tool for Making UFW and Docker Play Nice With Each Other",
-    "link": "https://dev.to/ganesh-kumar/announcing-udwall-a-new-tool-for-making-ufw-and-docker-play-nice-with-each-other-554b",
-    "pubDate": "Sun, 23 Nov 2025 18:21:29 +0000",
+    "title": "Mastering FizzBuzz in Python: A Step-by-Step Guide",
+    "link": "https://dev.to/highcenburg/mastering-fizzbuzz-in-python-a-step-by-step-guide-2hmm",
+    "pubDate": "Mon, 24 Nov 2025 02:13:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Many of us believe that the combination of UFW and Docker is the standard stack for deploying applications securely without exposing docker container ports.\nConfiguring UFW via provisioning tools like"
+    "contentSnippet": "FizzBuzz is one of the most famous coding interview questions. While it may seem simple at first glance, it tests a programmer's ability to handle conditional logic, control flow, and edge cases effec"
   },
   {
-    "title": "Understanding the C Compilation Process",
-    "link": "https://dev.to/manojge/understanding-the-c-compilation-process-5b91",
-    "pubDate": "Sun, 23 Nov 2025 18:20:42 +0000",
+    "title": "Occam’s Razor destroyed my polynomial model in 5 minutes",
+    "link": "https://dev.to/mohammadreza_mahdian_3841/occams-razor-destroyed-my-polynomial-model-in-5-minutes-3779",
+    "pubDate": "Mon, 24 Nov 2025 02:11:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This article grew out of my journey to revisit C from a systems perspective. Most of my career has been in Notes/Domino, Java, and Drupal, and although I learned C during my university years, I never "
+    "contentSnippet": "I keep seeing people add higher-degree polynomials “just in case”.\nA simple, reproducible example showing why a more complex model is not always better — even on perfectly linear data.\nToday I created"
   },
   {
-    "title": "AI for Bharat: Tired of Just Reading About AI? It’s Time to Start Building",
-    "link": "https://dev.to/arunagri82/ai-for-bharat-tired-of-just-reading-about-ai-its-time-to-start-building-275k",
-    "pubDate": "Sun, 23 Nov 2025 18:09:26 +0000",
+    "title": "A new take on CSS Plumeria's main strengths",
+    "link": "https://dev.to/refirst11/a-new-take-on-css-plumerias-main-strengths-19le",
+    "pubDate": "Mon, 24 Nov 2025 02:08:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Artificial Intelligence is reshaping industries, accelerating careers, and creating new opportunities every single day. Yet most developers in India are stuck in the same cycle:\n\n👉 Watching tutorials"
+    "contentSnippet": "Completely zero runtime\n\n\nPlumeria handles all styling at build time, with no runtime CSS injection. This means that your JavaScript bundle contains 0 bytes of CSS-in-JS runtime code.\n@plumeria/compil"
   },
   {
-    "title": "8-Bit Music Theory: Kirby Air Riders' Music is FUN FUN FUN",
-    "link": "https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-3fjm",
-    "pubDate": "Sun, 23 Nov 2025 18:08:53 +0000",
+    "title": "Retry and Backoff: Building Resilient Systems",
+    "link": "https://dev.to/siffiyan_assauri_51ec6d1b/retry-and-backoff-building-resilient-systems-4ipa",
+    "pubDate": "Mon, 24 Nov 2025 02:02:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Kirby Air Riders’ “Starlit Journey” Breakdown\n\n\n8bitMusicTheory dives into the exuberant main theme of Kirby Air Riders, “Starlit Journey,” explaining how each section—intro, verse, chorus, bridge and"
-  },
-  {
-    "title": "Building Domain-Specific AI Agents Through Configuration, Not Code",
-    "link": "https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh",
-    "pubDate": "Sun, 23 Nov 2025 18:01:06 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Building Domain-Specific AI Agents Through Configuration, Not Code\n\n\nI built a framework where you can create specialized AI agents (like a Compliance Reviewer or Travel Planner) by writing a YAML fil"
+    "contentSnippet": "In network based applications, transient failures like network delays or temporarily unresponsive servers are common. Without a retry mechanism, these disruptions can cause immediate failures, affecti"
   },
   {
     "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k",
-    "pubDate": "Sun, 23 Nov 2025 18:00:15 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-44p6",
+    "pubDate": "Mon, 24 Nov 2025 02:00:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With The Wiz in 15 Minutes (Or Less)\n\n\nCinemaSins is back on the yellow brick road now that Wicked is back in theaters—this time digging into the 1978 classic The Wiz to see if it’s b"
+    "contentSnippet": "CinemaSins is off down the yellow brick road with a fresh “Everything Wrong With The Wiz in 15 Minutes Or Less,” timed to Wicked’s big-screen return and daring you to decide if The Wiz holds up better"
   },
   {
     "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4e3c",
-    "pubDate": "Sun, 23 Nov 2025 18:00:08 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2782",
+    "pubDate": "Mon, 24 Nov 2025 02:00:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less\n\nCinemaSins dives into the neon-soaked world of KPop Demon Hunters, rattling off every quibble, plot hole and eyebrow-raising moment in u"
+    "contentSnippet": "TL;DR\n\n\nCinemaSins unleashes its signature snark on KPop Demon Hunters, tallying up every plot hole, cringe-worthy moment and over-the-top fight in under 16 minutes. Expect clever jabs, ridiculous “si"
   },
   {
-    "title": "Building a Location Picker in React Native Maps (with Draggable Marker & Address Lookup)",
-    "link": "https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00",
-    "pubDate": "Sun, 23 Nov 2025 17:59:06 +0000",
+    "title": "From Static VXML to GenAI: Migrating Legacy IVR to Microsoft Copilot Studio By Ramya Vellanki",
+    "link": "https://dev.to/ramya_vellanki_e93288ad2f/from-static-vxml-to-genai-migrating-legacy-ivr-to-microsoft-copilot-studioby-ramya-vellanki-3nci",
+    "pubDate": "Mon, 24 Nov 2025 01:55:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn my previous post, I covered how to integrate Google Maps and display the user’s live location.\nNow let’s take it one step further — by creating a location picker where users can drag"
+    "contentSnippet": "For nearly a decade, I lived and breathed VXML (Voice Extensible Markup Language). Working with platforms like Nuance, I built enterprise-grade IVR systems that handled millions of calls. We spent wee"
   },
   {
-    "title": "Spring Security Flow",
-    "link": "https://dev.to/arunagri82/spring-security-flow-1hkg",
-    "pubDate": "Sun, 23 Nov 2025 17:57:22 +0000",
+    "title": "Everyone is focusing on AI engineers and AI developers, but nobody is talking about two real groups:\r\n\r\nAI Builders and AI Operators",
+    "link": "https://dev.to/jaideepparashar/everyone-is-focusing-on-ai-engineers-and-ai-developers-but-nobody-is-talking-about-two-real-381c",
+    "pubDate": "Mon, 24 Nov 2025 01:48:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When a user submits login details, Spring Security’s authentication filter intercepts the request and converts it into an Authentication object. This object is then passed to the AuthenticationManager"
+    "contentSnippet": "The Coming Divide: AI Builders vs AI Operators\nJaideep Parashar ・ Nov 24\n#ai\n        #devops\n        #developer\n        #productivity"
   },
   {
-    "title": "Do companies share API docs with third-party integration providers?",
-    "link": "https://dev.to/margaaber/do-companies-share-api-docs-with-third-party-integration-providers-4dj6",
-    "pubDate": "Sun, 23 Nov 2025 17:52:37 +0000",
+    "title": "Why Every DevOps Engineer Must Learn DHCP — Even If You Work Only on AWS",
+    "link": "https://dev.to/srinivasamcjf/why-every-devops-engineer-must-learn-dhcp-even-if-you-work-only-on-aws-2bp7",
+    "pubDate": "Mon, 24 Nov 2025 01:40:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Do companies usually provide their API documentation (Swagger/OpenAPI, etc.) to third-party companies, like integration providers or tools that plug into their system?\nIf so, is it usually complete, o"
+    "contentSnippet": "1.AWS gives you DHCP — but only inside VPC\nAWS automatically provides:\nIP addressing\nDNS assignment\nLease renewal\nDHCP options sets\nBut ONLY inside AWS.\nWhen you work in real enterprises, AWS is just "
+  },
+  {
+    "title": "I built a generative UI Guitar Tutor app",
+    "link": "https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1",
+    "pubDate": "Mon, 24 Nov 2025 01:40:36 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "I recently started learning guitar, so I’ve been looking at online tabs for chord progressions and songs. I've found online guitar tabs sites to be a bit rough to navigate and covered in ads.\nAlso, I "
+  },
+  {
+    "title": "終わらない会議を「ベクトル演算」で強制終了させるAIプロンプト",
+    "link": "https://qiita.com/makotosaekit/items/b2e256bc08c94821140c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T11:55:21.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. なんでワイらは「議論」で消耗してしまうんや\n会議が長い。\nチャットのラリーが終わらん。\nホンマ、これだけでワイらの仕事時間の大半が消えとるやんけ。ボトルネックすぎンゴ。\n世の中どんどん便利になっとるはずなのに、楽になればなるほど「どうするか」を決めにくくなっとる気が..."
+  },
+  {
+    "title": "ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した",
+    "link": "https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746",
+    "pubDate": "Sun, 23 Nov 2025 11:39:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本当は、今でもRailway Oriented Programmingで書きたい\n!\n注:この記事は筆者の考えを書き出したものをLLMを使って編集してまとめ上げています。\n\n株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\n私は Railway Oriented Programming が好きで、C#で実現するために ResultBox というライブラリを作り、自社のイベントソ"
+  },
+  {
+    "title": "仕様書駆動開発で一番いいAIモデル&エージェント検証 11/23版",
+    "link": "https://zenn.dev/sakastudio/articles/a5ea1eee97ec37",
+    "pubDate": "Sun, 23 Nov 2025 10:54:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "GPT5.1、Gemini 3.0、Sonnet 4.5と各社モデルが出揃ってきた感じがするので、改めて今現在のSDDでどれが一番いいか検証しました。\nただ、検証もそれなりに面倒なので、厳密なベンチマークほど信用のおけるものではないということを留意してください。\n\n 忙しい人のためのサマリ\n\n仕様書作成は Cursor + gemini3.0が最も良かった。\n実装はcodexが最も良かった。\n\n\n"
+  },
+  {
+    "title": "Microsoft Ignite 2025しがない回想記　Keynote入れないのぉ？？~ネパール人に感謝して~",
+    "link": "https://zenn.dev/kasada/articles/b89c69e66ff67d",
+    "pubDate": "Sun, 23 Nov 2025 08:55:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、しがない情シスことKaz Asadaです。今回は2025/11/18~21@サンフランシスコで開催されたMicrosoftの年次カンファレンスMicrosoft Ignite 2025に参加してきたので、その時の思い出を綴ります。来年もサンフランシスコでの開催とのこと、この記事が再び悲しむ人を生み出さないようになれば幸いです。\n!\nこの記事はIgniteの中身よりKeynoteの参加ま"
+  },
+  {
+    "title": "Diffusion PlannerとAutowareにおける機械学習応用",
+    "link": "https://qiita.com/soyaoki/items/77ea79aa380b95693c24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T06:19:59.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n先日、AutowareのLearningベース Prediction/Planning 公開！という投稿を拝見しました。\n\nこちらはDiffusion Plannerと呼ばれるもので、ICLR'25 (Oral) に採択されたOSSの自動運転プランナーのよう..."
+  },
+  {
+    "title": "AIを駆使して2D図面画像を2DCAD(ベクター)化する",
+    "link": "https://zenn.dev/firstautomation/articles/36e4d5e3455f52",
+    "pubDate": "Sun, 23 Nov 2025 05:08:28 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n株式会社ファースト・オートメーションCTOの田中(しろくま)です！\n今回は以下のような2D図面画像の分析の難しさと生成AIの発展によってそれが少しずつ解けるようになってきているという話をしたいと思います。\n\n\n 解きたい問題\n我々が製造業と関わる中で、なかなか最新のAIを持ってしても解くのが難しいと思っている問題が2D図面の画像解析です。\n2D図面の画像を正確に解析できるようになることで"
   },
   {
     "title": "【Claude Code】SkillsとSubAgents、どっちを使えばいいの？違いと使い分けを完全解説",
@@ -84,32 +126,11 @@
     "contentSnippet": "これはKritaという無料のペイントツールですが、Conwayのライフゲームが動作しています。\nスクリプト等は用いておらず、標準のフィルターと合成レイヤーのみを用いています。\n\n 解説\n端的に言うと次の4レイヤーを重ねることでライフゲームの次の世代の計算を行うことができます。\n\nぼかしフィルター\n\n#b88b73 加算\nカラー補正フィルター\n\n#000000 彩度HSV\n\n\n ぼかしフィルター\nこ"
   },
   {
-    "title": "Durable Agent で長時間ツール呼び出し - Microsoft Agent Framework (C#) その15",
-    "link": "https://zenn.dev/microsoft/articles/agent-framework-015",
-    "pubDate": "Sat, 22 Nov 2025 16:33:26 GMT",
-    "source": "Zenn",
-    "contentSnippet": "シリーズ記事\n!\nこの記事はプレビュー版の Microsoft Agent Framework を基に書かれています。今後のバージョンアップで内容が変わる可能性があります。\nここで記載しているコードは執筆時点の情報に基づいています。\n\n\nその1: 「雑感」とハローワールド\nその2: ざっとリポジトリを見てみる\nその3: ワークフローを見てみよう\nその4: ワークフローの Executor を掘り下"
-  },
-  {
-    "title": "Claude Codeはサブエージェントが何をしたか知らない",
-    "link": "https://zenn.dev/trust_delta/articles/claude-code-subagent-001",
-    "pubDate": "Sat, 22 Nov 2025 15:37:15 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TL;DR\n\n\nサブエージェント実行ログは、\n\nUI上に緑〇で表示される\nメインのコンテキストには入らない\n再起動後に消える\n\n\n「画面に出てる」≠「Claudeが知ってる」\n\n\n\n はじめに\nClaude Codeでサブエージェントを使っていて気になったことを実験してみました。\n公式ドキュメントには「メイン会話とは別の独立したコンテキストウィンドウを使用します」とありますが、どの程度の分離具合か"
-  },
-  {
     "title": "俺のVercelは遅かった - Function Regionの罠",
     "link": "https://zenn.dev/mountain1009/articles/00c8a4542e6194",
     "pubDate": "Sat, 22 Nov 2025 13:06:11 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nNext.js アプリを Vercel にデプロイしたら、なぜか異常に遅い...。そんな経験ありませんか？\n普段は Cloudflare Workers や Cloud Run を使っていた私が、初めて Vercel を本番運用することになりました。\n完全初見です。\n「Vercel って評判いいし、Next.js との相性も最高って聞くし、余裕でしょ」\nそう思っていた矢先、意外なところに"
-  },
-  {
-    "title": "`aws login`の認証情報をboto3で使うにはひと工夫必要だよ！",
-    "link": "https://qiita.com/moritalous/items/482b1e0a7418652568e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-22T12:41:11.000Z",
-    "source": "Qiita",
-    "contentSnippet": "新しいaws loginが激アツですよね？\n\n「SDKでも使えるよ！」とあったのですが、Boto3だとちょいと一工夫必要でしたので共有します。\n\nとりあえずやってみよう\n前提として、最新のAWS CLIをインストールし、aws loginでログインしておきま..."
   },
   {
     "title": "Lambda Tenant Isolation Mode（テナント分離モード）",
@@ -126,18 +147,25 @@
     "contentSnippet": "11/22 20:40更新： Dockerfileを更新し忘れていたため反映しました🙏\n\nAmazon ECSの新機能「エクスプレスモード」が登場しました。\n\nECRにコンテナイメージさえプッシュしておけば、面倒なネットワークやタスク定義などの準備をせずとも、簡単..."
   },
   {
+    "title": "【備忘録】AgentCoreデプロイ手順（Windows編）",
+    "link": "https://qiita.com/yakumo_09/items/43dea9a424ff8246652f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T07:12:38.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n私が普段検証に使用しているPCはMacなのですが、会社のPCはWindowsです。\n会社のPCでも試してみようと思ったのですが手順が微妙に違い、戸惑ったので残しておこうと思います。\n今回は仮想化、エージェント作成、Runtimeにデプロイまで実施します。細かい解..."
+  },
+  {
+    "title": "【備忘録】アーキテクチャConference 2025 で 学びと気づきが得られすぎたので、共有したい...",
+    "link": "https://zenn.dev/sunagaku/articles/architecture-conference-2025",
+    "pubDate": "Sat, 22 Nov 2025 05:38:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n昨日、一昨日にかけて開催された、アーキテクチャConferenceに参加してきました。\n本イベントを通じて、自分自身がまだ足りていないスキルを明確にできたり、今の企業が直面している課題、そしてそれをどのように解決していくかのヒントを得ることができました。\nまだ完全に理解できたわけではありませんが、非常に多くのことを学ばせていただきました。\n本記事では、カンファレンスで得られた学びを自分自"
+  },
+  {
     "title": "aws loginコマンドが来たのでAWSのアクセスキーを削除したかったけど、やっぱり保留しました。",
     "link": "https://zenn.dev/ncdc/articles/153101d64b0175",
     "pubDate": "Sat, 22 Nov 2025 03:14:00 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nAWS CLIにaws loginコマンドが実装されました。\nhttps://aws.amazon.com/jp/blogs/security/simplified-developer-access-to-aws-with-aws-login/\nこのコマンドを使うとアクセスキーがなくてもAWS CLIを使用できます。つまりアクセスキーの発行が不要となるので、アクセスキーの漏洩という大きな"
-  },
-  {
-    "title": "【ポエム】プログラミングスキルと同じように、AIデバッグスキルも必要になりそうだな、と感じた話",
-    "link": "https://zenn.dev/sunagaku/articles/ai-debug-skill-needed",
-    "pubDate": "Fri, 21 Nov 2025 23:43:48 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n僕は、普段から多くのAI活用のトップランナーの方々と仲良くさせて頂いていて、僕自身も AI の活用方法について発信したりしています。\nそんな中で、最近ふと感じたことがあります。それは、「AIデバッグスキル」の重要性です。\nプログラミングを学ぶ際、文法やデバッグ方法を学ぶことは大切です。\n同じように、AI を使いこなすためにも「なぜ上手く動かないのか？」を理解し、改善していくスキルが必要に"
   },
   {
     "title": "Antigravity使うのやめてCopilotに戻った話",
@@ -147,39 +175,11 @@
     "contentSnippet": "Web系開発&技術コンサルの会社を経営をしています。界隈の方はぜひ繋がりましょう → https://x.com/tsubasa859\n\nはじめに\nGoogle DeepMindが先日リリースした新しいAI開発プラットフォーム「Antigravity」を試してみました。Ge..."
   },
   {
-    "title": "Nano Banana Pro APIの新規機能は Gemini Web版で利用できるの！？ (Gemini 3 Pro Image)",
-    "link": "https://zenn.dev/mohy_nyapan/articles/72ae3a8965a41c",
-    "pubDate": "Fri, 21 Nov 2025 16:21:10 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nAIのはなしだけどAIでかいてないよ！\nGoogleのマニュアルを少し試してみたよ\n\n\n はじめに\nおひさしぶりです\nちょっと備忘録的に書きます、全部マニュアルに記載のある内容です！\nただ、自分用に残したかったので書きました\n今までのNanobananaが出来ることに関しては今回触れません（反響あったら書くかもですがｗ）\nマニュアルが主にAPIベースなので、\nGeminiやaistudioとは"
-  },
-  {
-    "title": "アーキテクチャカンファレンス参加レポート",
-    "link": "https://zenn.dev/yuma_ito_bd/articles/20251121-architecture-conference-report",
-    "pubDate": "Fri, 21 Nov 2025 14:59:09 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n2025/11/20~2025/11/21の2日間で行われた「アーキテクチャConference2025」に参加してきました。\nhttps://architecture-con.findy-tools.io/2025\nシステムの設計は興味がある分野の一つでして、今回新しく学んだことや気になったことをまとめてみようと思います。\nhttps://x.com/yuma_ito_bd/statu"
-  },
-  {
     "title": "技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？",
     "link": "https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-21T11:57:41.000Z",
     "source": "Qiita",
     "contentSnippet": "これまでのあらすじ\n技術書典19に出展したけど、全然売れない。悲しみの投稿\n\nをしたのが11月19日23時頃。特に反応もなく、「誰もお前を愛さない」状態になる。翌日は、いつもの愚にも付かない伝言ゲームをして(それを世の中では仕事というらしい)、帰宅。そうしてSNSを開..."
-  },
-  {
-    "title": "Copilot Studio で SharePoint Listのデータを精度よく取り扱うには",
-    "link": "https://qiita.com/tomoyasasaki1204/items/240299546095a313b228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T06:45:12.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nみなさん、こんにちは\nマイクロソフト佐々木です。\n本日はよくある課題の「Copilot Studio で SharePoint Listのデータを精度よく取り扱うには」です。\n本来であれば、SharePoint Listのナレッジの整備の仕方など深いテーマを書く..."
-  },
-  {
-    "title": "C# は史上初めて Java を追い抜くことになるのか？ - 2025年11月のTIOBE指数",
-    "link": "https://qiita.com/Sakai_path/items/b8917ffa206b11f8c86a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T05:47:04.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n「TIOBE Index for November 2025」（2025年11月のTIOBE指数）でこんな面白い見出しを見つけました！\n\nNovember Headline: Is C# going to surpass Java for the first t..."
   },
   {
     "title": "AtCoderで入黄しました！",

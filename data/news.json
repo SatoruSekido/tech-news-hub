@@ -1,80 +1,73 @@
 [
   {
-    "title": "Mastering FizzBuzz in Python: A Step-by-Step Guide",
-    "link": "https://dev.to/highcenburg/mastering-fizzbuzz-in-python-a-step-by-step-guide-2hmm",
-    "pubDate": "Mon, 24 Nov 2025 02:13:25 +0000",
+    "title": "Affiliate Marketing for Developers: How to Make Money Promoting Tools You Love",
+    "link": "https://dev.to/softwaredeveloperhub01/affiliate-marketing-for-developers-how-to-make-money-promoting-tools-you-love-1g08",
+    "pubDate": "Mon, 24 Nov 2025 06:27:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "FizzBuzz is one of the most famous coding interview questions. While it may seem simple at first glance, it tests a programmer's ability to handle conditional logic, control flow, and edge cases effec"
+    "contentSnippet": "As a developer, you're constantly using tools and platforms to make your workflow more efficient, your code cleaner, and your projects more manageable. What if I told you that you could monetize your "
   },
   {
-    "title": "Occam’s Razor destroyed my polynomial model in 5 minutes",
-    "link": "https://dev.to/mohammadreza_mahdian_3841/occams-razor-destroyed-my-polynomial-model-in-5-minutes-3779",
-    "pubDate": "Mon, 24 Nov 2025 02:11:46 +0000",
+    "title": "Prompt Optimization for AI Builder: Lessons from TOON vs Text",
+    "link": "https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol",
+    "pubDate": "Mon, 24 Nov 2025 06:23:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I keep seeing people add higher-degree polynomials “just in case”.\nA simple, reproducible example showing why a more complex model is not always better — even on perfectly linear data.\nToday I created"
+    "contentSnippet": "Intro:\nSetup:\nVersion 1: Traditional natural language instruction, written in a descriptive, narrative style.\nYou are a sustainability expert specializing in utility invoice analysis and data normaliz"
   },
   {
-    "title": "A new take on CSS Plumeria's main strengths",
-    "link": "https://dev.to/refirst11/a-new-take-on-css-plumerias-main-strengths-19le",
-    "pubDate": "Mon, 24 Nov 2025 02:08:22 +0000",
+    "title": "Python Django Developer: From Beginner to Expert in Web Apps & APIs",
+    "link": "https://dev.to/miftah_jabeen_3deefdf3c7a/python-django-developer-from-beginner-to-expert-in-web-apps-apis-2io8",
+    "pubDate": "Mon, 24 Nov 2025 06:15:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Completely zero runtime\n\n\nPlumeria handles all styling at build time, with no runtime CSS injection. This means that your JavaScript bundle contains 0 bytes of CSS-in-JS runtime code.\n@plumeria/compil"
+    "contentSnippet": "In the ever-evolving world of technology, becoming a Python Django Developer is one of the most rewarding career paths. Django, a high-level Python framework, allows developers to create robust Django"
   },
   {
-    "title": "Retry and Backoff: Building Resilient Systems",
-    "link": "https://dev.to/siffiyan_assauri_51ec6d1b/retry-and-backoff-building-resilient-systems-4ipa",
-    "pubDate": "Mon, 24 Nov 2025 02:02:41 +0000",
+    "title": "Savvy HRMS: Best Attendance Management Software India",
+    "link": "https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6",
+    "pubDate": "Mon, 24 Nov 2025 06:09:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In network based applications, transient failures like network delays or temporarily unresponsive servers are common. Without a retry mechanism, these disruptions can cause immediate failures, affecti"
+    "contentSnippet": "Accurately tracking employee attendance is pivotal for any business striving to maintain productivity and compliance. Attendance management software offers a practical solution, automating the recordi"
+  },
+  {
+    "title": "Metaprogramming in Low-Code Platforms",
+    "link": "https://dev.to/canonical/metaprogramming-in-low-code-platforms-4b0h",
+    "pubDate": "Mon, 24 Nov 2025 06:08:25 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Among many programming languages, the venerable Lisp has always been a unique presence, a uniqueness often summarized as “Lisp is a programmable programming language.” This means Lisp has powerful met"
+  },
+  {
+    "title": "NFT Development Company: Building the Next Digital Ownership Economy",
+    "link": "https://dev.to/infograins_softwaresolut/nft-development-company-building-the-next-digital-ownership-economy-4874",
+    "pubDate": "Mon, 24 Nov 2025 06:05:13 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The digital world is shifting toward a new ownership model—one where assets are secure, verifiable, traceable, and uniquely yours. NFTs have enabled creators, brands, enterprises, and innovators to tr"
+  },
+  {
+    "title": "XDSL: General-Purpose Domain-Specific Language Design",
+    "link": "https://dev.to/canonical/xdsl-general-purpose-domain-specific-language-design-35g6",
+    "pubDate": "Mon, 24 Nov 2025 06:04:45 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "The Nop platform offers a language-oriented programming paradigm: when solving problems, we tend to first design a Domain-Specific Language (DSL), and then use that DSL to describe business logic. The"
+  },
+  {
+    "title": "Build in Public: Week 3. First Survive Discovery, Then Enjoy Analysis",
+    "link": "https://dev.to/olgabraginskaya/build-in-public-week-3-first-survive-discovery-then-enjoy-analysis-29kb",
+    "pubDate": "Mon, 24 Nov 2025 06:03:12 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Last week I noticed something annoying: the engagement on my Week 1 and Week 2 posts dropped, even though the content was objectively good. So I asked Perplexity when developers actually read dev.to a"
+  },
+  {
+    "title": "Is Big Interview Worth It? An Honest Developer’s Take",
+    "link": "https://dev.to/stack_overflowed/is-big-interview-worth-it-an-honest-developers-take-5bki",
+    "pubDate": "Mon, 24 Nov 2025 06:02:14 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "Is Big Interview Worth It? An Honest Developer’s Take\n\n\nIf you’ve ever sat in front of your laptop, sweating bullets before a coding interview, you’ve probably asked yourself: “Why didn’t I prepare mo"
   },
   {
     "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-44p6",
-    "pubDate": "Mon, 24 Nov 2025 02:00:23 +0000",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-542a",
+    "pubDate": "Mon, 24 Nov 2025 06:00:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "CinemaSins is off down the yellow brick road with a fresh “Everything Wrong With The Wiz in 15 Minutes Or Less,” timed to Wicked’s big-screen return and daring you to decide if The Wiz holds up better"
-  },
-  {
-    "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2782",
-    "pubDate": "Mon, 24 Nov 2025 02:00:10 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins unleashes its signature snark on KPop Demon Hunters, tallying up every plot hole, cringe-worthy moment and over-the-top fight in under 16 minutes. Expect clever jabs, ridiculous “si"
-  },
-  {
-    "title": "From Static VXML to GenAI: Migrating Legacy IVR to Microsoft Copilot Studio By Ramya Vellanki",
-    "link": "https://dev.to/ramya_vellanki_e93288ad2f/from-static-vxml-to-genai-migrating-legacy-ivr-to-microsoft-copilot-studioby-ramya-vellanki-3nci",
-    "pubDate": "Mon, 24 Nov 2025 01:55:24 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "For nearly a decade, I lived and breathed VXML (Voice Extensible Markup Language). Working with platforms like Nuance, I built enterprise-grade IVR systems that handled millions of calls. We spent wee"
-  },
-  {
-    "title": "Everyone is focusing on AI engineers and AI developers, but nobody is talking about two real groups:\r\n\r\nAI Builders and AI Operators",
-    "link": "https://dev.to/jaideepparashar/everyone-is-focusing-on-ai-engineers-and-ai-developers-but-nobody-is-talking-about-two-real-381c",
-    "pubDate": "Mon, 24 Nov 2025 01:48:10 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "The Coming Divide: AI Builders vs AI Operators\nJaideep Parashar ・ Nov 24\n#ai\n        #devops\n        #developer\n        #productivity"
-  },
-  {
-    "title": "Why Every DevOps Engineer Must Learn DHCP — Even If You Work Only on AWS",
-    "link": "https://dev.to/srinivasamcjf/why-every-devops-engineer-must-learn-dhcp-even-if-you-work-only-on-aws-2bp7",
-    "pubDate": "Mon, 24 Nov 2025 01:40:39 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "1.AWS gives you DHCP — but only inside VPC\nAWS automatically provides:\nIP addressing\nDNS assignment\nLease renewal\nDHCP options sets\nBut ONLY inside AWS.\nWhen you work in real enterprises, AWS is just "
-  },
-  {
-    "title": "I built a generative UI Guitar Tutor app",
-    "link": "https://dev.to/milst/i-built-a-generative-ui-guitar-tutor-app-45b1",
-    "pubDate": "Mon, 24 Nov 2025 01:40:36 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "I recently started learning guitar, so I’ve been looking at online tabs for chord progressions and songs. I've found online guitar tabs sites to be a bit rough to navigate and covered in ads.\nAlso, I "
-  },
-  {
-    "title": "終わらない会議を「ベクトル演算」で強制終了させるAIプロンプト",
-    "link": "https://qiita.com/makotosaekit/items/b2e256bc08c94821140c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-23T11:55:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. なんでワイらは「議論」で消耗してしまうんや\n会議が長い。\nチャットのラリーが終わらん。\nホンマ、これだけでワイらの仕事時間の大半が消えとるやんけ。ボトルネックすぎンゴ。\n世の中どんどん便利になっとるはずなのに、楽になればなるほど「どうするか」を決めにくくなっとる気が..."
+    "contentSnippet": "Everything Wrong With The Wiz In 15 Minutes Or Less\n\n\nCinemaSins is back on the yellow brick road—thanks to Wicked hitting theaters again—to roast The Wiz with their signature “sins” countdown, squeez"
   },
   {
     "title": "ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した",
@@ -180,6 +173,13 @@
     "pubDate": "2025-11-21T11:57:41.000Z",
     "source": "Qiita",
     "contentSnippet": "これまでのあらすじ\n技術書典19に出展したけど、全然売れない。悲しみの投稿\n\nをしたのが11月19日23時頃。特に反応もなく、「誰もお前を愛さない」状態になる。翌日は、いつもの愚にも付かない伝言ゲームをして(それを世の中では仕事というらしい)、帰宅。そうしてSNSを開..."
+  },
+  {
+    "title": "Copilot Studio で SharePoint Listのデータを精度よく取り扱うには",
+    "link": "https://qiita.com/tomoyasasaki1204/items/240299546095a313b228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T06:45:12.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nみなさん、こんにちは\nマイクロソフト佐々木です。\n本日はよくある課題の「Copilot Studio で SharePoint Listのデータを精度よく取り扱うには」です。\n本来であれば、SharePoint Listのナレッジの整備の仕方など深いテーマを書く..."
   },
   {
     "title": "AtCoderで入黄しました！",

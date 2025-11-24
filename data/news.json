@@ -1,73 +1,87 @@
 [
   {
-    "title": "The Future of Web Development: What Skills Will Matter Most",
-    "link": "https://dev.to/sia_negi21/the-future-of-web-development-what-skills-will-matter-most-4045",
-    "pubDate": "Mon, 24 Nov 2025 12:48:41 +0000",
+    "title": "Ship Features, Not Spreadsheets: Wiring Your App Straight Into the Finance Stack",
+    "link": "https://dev.to/nick_johnson/ship-features-not-spreadsheets-wiring-your-app-straight-into-the-finance-stack-3g4m",
+    "pubDate": "Mon, 24 Nov 2025 18:32:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The world of web development is in a constant state of flux. What was cutting-edge yesterday is standard practice today, and what’s emerging now will define the web of tomorrow. Staying ahead of the c"
+    "contentSnippet": "You’ve probably lived this sprint-from-hell before.\nProduct wants “self-serve revenue dashboards.” Sales wants “real-time MRR.” Finance wants “clean numbers by Monday.” You, naturally, get the request"
   },
   {
-    "title": "recent thoughts about gen-ai",
-    "link": "https://dev.to/forbit/recent-thoughts-about-gen-ai-57hj",
-    "pubDate": "Mon, 24 Nov 2025 12:45:37 +0000",
+    "title": "Choosing Between Agent Builder and n8n? Here’s the Breakdown That Would’ve Saved Me Months",
+    "link": "https://dev.to/composiodev/choosing-between-agent-builder-and-n8n-heres-the-breakdown-that-wouldve-saved-me-months-2fm5",
+    "pubDate": "Mon, 24 Nov 2025 18:25:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "i feel robbed of my own progress when i rely solely on AI to code for me. there has been, over the past 4 years since i started working as a software engineer, a clear increase in my skills as a progr"
+    "contentSnippet": "For startup teams, developers, and growing businesses, choosing the right automation tool can be the difference between shipping fast and getting stuck in complexity. \nOpenAI Agent Builder and N8N bot"
   },
   {
-    "title": "Building fast in Angular with Zard UI, Tailwind CSS and Signals",
-    "link": "https://dev.to/hassantayyab/building-fast-in-angular-with-zard-ui-tailwind-css-and-signals-cj5",
-    "pubDate": "Mon, 24 Nov 2025 12:41:55 +0000",
+    "title": "Software Development Teams and Architecture: A Complete Guide",
+    "link": "https://dev.to/datatechbridge/software-development-teams-and-architecture-a-complete-guide-4nm7",
+    "pubDate": "Mon, 24 Nov 2025 18:24:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you are building products in a startup environment you do not have time to reinvent buttons and argue about folder structures for a week.\nYou need to ship.\nModern Angular actually makes that pretty"
+    "contentSnippet": "Table of Contents\n\n\n\n\nSoftware Team Roles\n1.1 Core Team Structure\n1.2 Required Skills for All Roles\n1.3 The Functional Analyst\n1.4 The Lead Developer\n1.5 The Solution Architect\nArchitect Personality T"
   },
   {
-    "title": "LLM Code Map: Visualize TypeScript/JavaScript Dependencies & Empower AI Agents",
-    "link": "https://dev.to/mk668a/llm-code-map-visualize-typescriptjavascript-dependencies-empower-ai-agents-4bng",
-    "pubDate": "Mon, 24 Nov 2025 12:40:57 +0000",
+    "title": "What happens when you try to get hired by the top IT companies",
+    "link": "https://dev.to/thetechpreneur/what-happens-when-you-try-to-get-hired-by-the-top-it-companies-1kg5",
+    "pubDate": "Mon, 24 Nov 2025 18:19:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Repository URL: https://github.com/mk668a/llm-codemap\nHave you ever jumped into a new codebase and felt completely lost in a web of imports and function calls? Or maybe you are working with AI agents "
+    "contentSnippet": "I have a favorite letter in the FAANG word: a company whose values and product resonate particularly strongly with me, and I'd love to work there. I'm sure you have a favorite company, too. A great pr"
   },
   {
-    "title": "Unlock Better AI Outputs with These 3 Prompt Engineering Secrets",
-    "link": "https://dev.to/pritish_academy/unlock-better-ai-outputs-with-these-3-prompt-engineering-secrets-29ka",
-    "pubDate": "Mon, 24 Nov 2025 12:39:54 +0000",
+    "title": "A Day in the Life of a DevOps Engineer Who Handles Cloud Work",
+    "link": "https://dev.to/i_am_vesh/a-day-in-the-life-of-a-devops-engineer-who-handles-cloud-work-3mml",
+    "pubDate": "Mon, 24 Nov 2025 18:18:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "⭐ 1. Give Context + Goal + Constraints\n\n\nLLMs perform best when they understand:\nWho you are (role)\nWhat you want (goal)\nHow to behave (constraints)\nExample:\n\n“You are a senior React mentor. Explain R"
+    "contentSnippet": "Most articles about DevOps pretend the job is smooth and predictable. Anyone who has actually done the work knows that this is not true. A DevOps engineer who also handles cloud responsibilities lives"
   },
   {
-    "title": "𝗪𝗵𝘆 𝗦𝗼𝗖 𝗠𝗮𝘁𝘁𝗲𝗿𝘀",
-    "link": "https://dev.to/supraja_tangella_b7f0738e/-45p2",
-    "pubDate": "Mon, 24 Nov 2025 12:34:34 +0000",
+    "title": "API UP — an API as a Service",
+    "link": "https://dev.to/paulocheque/api-up-an-api-as-a-service-2lah",
+    "pubDate": "Mon, 24 Nov 2025 18:16:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If everything depends on everything… one small change can break the whole system.\nSeparation of Concerns (SoC) is one of the most important software design principles.\nIt means don’t mix different res"
+    "contentSnippet": "Hey everyone!\nIt’s not a no-code toy — it generates a real async Python backend (compiled to C), with:\nYou can create an API, deploy it, and start calling it from your frontend or mobile app in minute"
   },
   {
-    "title": "Polars vs Pandas: Why 2025 Data Scientists Must Master This New Power Tool",
-    "link": "https://dev.to/gowthamimmek196/polars-vs-pandas-why-2025-data-scientists-must-master-this-new-power-tool-49aa",
-    "pubDate": "Mon, 24 Nov 2025 12:19:48 +0000",
+    "title": "Introducing brew-coffee - One Command Dev Environment Setup",
+    "link": "https://dev.to/n4en/introducing-brew-coffee-one-command-dev-environment-setup-3g3l",
+    "pubDate": "Mon, 24 Nov 2025 18:04:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For over a decade, Pandas has been the undisputed champion of data manipulation in Python. Every data scientist's journey begins with learning DataFrames, and Pandas has been synonymous with tabular d"
+    "contentSnippet": "If you’ve ever onboarded to a new project, switched laptops, or tried spinning up a fresh dev setup, you probably know the pain inconsistent environments, missing packages, broken dependencies, endles"
   },
   {
-    "title": "We hosted a Live Session on Gemini 3 Pro Preview. Here's how it went.",
-    "link": "https://dev.to/kilocode/we-hosted-a-live-session-on-gemini-3-pro-preview-heres-how-it-went-557i",
-    "pubDate": "Mon, 24 Nov 2025 12:18:10 +0000",
+    "title": "Inheritance in Java",
+    "link": "https://dev.to/vidya_varshini/inheritance-in-java-381e",
+    "pubDate": "Mon, 24 Nov 2025 18:04:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We just wrapped an action-packed session walking through Google's new Gemini 3 model and how it performs inside Kilo Code. We talked benchmarks and pricing, and even shipped an entire video game with "
+    "contentSnippet": "What is inheritance: It is the mechanism by which object of one class act as object of another class. Here, one class can inherit the features (fields and methods) of another class. This is one of the"
   },
   {
-    "title": "Coffee Haven - Uno Platform AI Challenge Entry",
-    "link": "https://dev.to/shiva_shanker_k/coffee-haven-uno-platform-ai-challenge-entry-4ib",
-    "pubDate": "Mon, 24 Nov 2025 12:03:50 +0000",
+    "title": "Day 01 – Intro to Terraform & Infrastructure as Code (IaC)",
+    "link": "https://dev.to/amit_kumar_7db8e36a64dd45/day-01-intro-to-terraform-infrastructure-as-code-iac-637",
+    "pubDate": "Mon, 24 Nov 2025 18:04:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Coffee Haven ☕ - Cross-Platform Coffee Shop App\n\n\nI built a professional coffee shop application for the Uno Platform AI Challenge\n\n\nProfessional Design\nClean, modern UI with warm color palette\nReal c"
+    "contentSnippet": "What is Infrastructure as Code(IaC)?\nwhy this matters:\nIt keeps your infrastructure consistent.\nYou can track every change using Git.\nIt reduces manual mistakes.\nYou can recreate the same setup anytim"
   },
   {
-    "title": "Better Agents CLI with Kilo Code and LangWatch",
-    "link": "https://dev.to/kilocode/better-agents-cli-with-kilo-code-and-langwatch-16gc",
-    "pubDate": "Mon, 24 Nov 2025 12:03:32 +0000",
+    "title": "Comparing Open AI MCP and Anthropic MCP",
+    "link": "https://dev.to/aun_aideveloper/comparing-openai-mcp-and-anthropic-mcp-safeguarding-llms-with-mitigation-and-co-2c36",
+    "pubDate": "Mon, 24 Nov 2025 18:00:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Better Agents CLI with Kilo Code and LangWatch\n\n\n\nThis is a guest post by Rogerio Chaves, CTO and Founder of LangWatch. He brings 14 years of software engineering experience to solving one of AI's big"
+    "contentSnippet": "Comparing OpenAI MCP and Anthropic MCP: Safeguarding LLMs with Mitigation and Control Platforms\n\n\nAs Large Language Models (LLMs) become increasingly integrated into diverse applications, the need for"
+  },
+  {
+    "title": "ワイヤレス給電システムを提供するスタートアップが、データベースとしてTiDBを選択する理由とは？［PR］",
+    "link": "https://www.publickey1.jp/blog/25/aeterlink-tidbpr.html",
+    "pubDate": "2025-11-24T17:36:32.000Z",
+    "source": "Publickey",
+    "contentSnippet": "「ワイヤレス給電によって配線のない『デジタル世界』を実現する」というビジョンを掲げ、空間伝送型のワイヤレス給電ソリューション「AirPlug」を展開しているのが、日本のスタートアップ企業「Aeterlink」（エイターリンク）です。 同社は単にワイヤレス給電のためのハードウェアを提供するだけではなく、ワイヤレス給電によって実現するさまざまな場所に配置されたセンサーからのデータを活用するソフトウェア"
+  },
+  {
+    "title": "Rust言語をAWS Lambdaが正式サポート。高速なサーバレスアプリケーションが実装可能に",
+    "link": "https://www.publickey1.jp/blog/25/rustaws_lambda.html",
+    "pubDate": "2025-11-24T15:56:49.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、サーバレス基盤となるAWS LambdaによるRust言語の正式サポートを発表しました。 AWS Lambdaで利用可能なプログラミング言語のランタイムはこれまでNode.js/JavaScript、Python、Java、.NET、Rubyなどが用意されていました。これに新たにRust言語が加わることになります。 小さくて非常に高速な実行が可能"
   },
   {
     "title": "シリーズ: AI時代におけるフロントエンド（NextJS/ReactJS）のディレクトリ構造",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-16T15:33:49.000Z",
     "source": "Publickey",
     "contentSnippet": "GitHubは、この1年のGitHubにおけるGitHubの利用動向やオープンソースの動向などをまとめた年次レポート「Octoverse 2025」を発表しました。 開発者人口はインドが中国を抜いて2位に 発表によると、2025年8月時点のGitHub上のプロジェクト総数は6億3000万。この1年で増加した開発者の総数は1億8000万人超で、コントリビュータの総数は11億2000万人以上。 国別の"
-  },
-  {
-    "title": "「2026年の戦略的テクノロジートレンド」を早くもガートナーが発表。AIネイティブ開発プラットフォーム、コンフィデンシャルコンピューティング、ドメイン特化型言語モデルなど",
-    "link": "https://www.publickey1.jp/blog/25/2026ai.html",
-    "pubDate": "2025-11-16T15:32:12.000Z",
-    "source": "Publickey",
-    "contentSnippet": "調査会社のガートナーは、2026年に企業や組織にとって重要なインパクトを持つ戦略的テクノロジのトップトレンドを発表しました。 The Top Strategic Technology Trends for 2026 were released last monthLearn how to turn disruption into opportunity, get expert guidance o"
-  },
-  {
-    "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
-    "link": "https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html",
-    "pubDate": "2025-11-13T15:37:08.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Googleは、AIを用いることでファイルの種類を高速かつ正確に判別できるオープンソースのツール「Magika 1.0」を公開したと発表しました。 Magikaは、あるファイルの中味が何なのか、記述されたプログラミング言語の種類、動画や画像、音声などのフォーマットの種類、ExcelやWord、PDFなどのオフィス系ソフトウェアの種類、OSの実行形式バイナリなどの種類を瞬時に判別してくれます。 最初"
   }
 ]

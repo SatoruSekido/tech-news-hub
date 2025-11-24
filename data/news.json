@@ -1,73 +1,94 @@
 [
   {
-    "title": "Affiliate Marketing for Developers: How to Make Money Promoting Tools You Love",
-    "link": "https://dev.to/softwaredeveloperhub01/affiliate-marketing-for-developers-how-to-make-money-promoting-tools-you-love-1g08",
-    "pubDate": "Mon, 24 Nov 2025 06:27:00 +0000",
+    "title": "The Future of Web Development: What Skills Will Matter Most",
+    "link": "https://dev.to/sia_negi21/the-future-of-web-development-what-skills-will-matter-most-4045",
+    "pubDate": "Mon, 24 Nov 2025 12:48:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As a developer, you're constantly using tools and platforms to make your workflow more efficient, your code cleaner, and your projects more manageable. What if I told you that you could monetize your "
+    "contentSnippet": "The world of web development is in a constant state of flux. What was cutting-edge yesterday is standard practice today, and what’s emerging now will define the web of tomorrow. Staying ahead of the c"
   },
   {
-    "title": "Prompt Optimization for AI Builder: Lessons from TOON vs Text",
-    "link": "https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol",
-    "pubDate": "Mon, 24 Nov 2025 06:23:04 +0000",
+    "title": "recent thoughts about gen-ai",
+    "link": "https://dev.to/forbit/recent-thoughts-about-gen-ai-57hj",
+    "pubDate": "Mon, 24 Nov 2025 12:45:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Intro:\nSetup:\nVersion 1: Traditional natural language instruction, written in a descriptive, narrative style.\nYou are a sustainability expert specializing in utility invoice analysis and data normaliz"
+    "contentSnippet": "i feel robbed of my own progress when i rely solely on AI to code for me. there has been, over the past 4 years since i started working as a software engineer, a clear increase in my skills as a progr"
   },
   {
-    "title": "Python Django Developer: From Beginner to Expert in Web Apps & APIs",
-    "link": "https://dev.to/miftah_jabeen_3deefdf3c7a/python-django-developer-from-beginner-to-expert-in-web-apps-apis-2io8",
-    "pubDate": "Mon, 24 Nov 2025 06:15:39 +0000",
+    "title": "Building fast in Angular with Zard UI, Tailwind CSS and Signals",
+    "link": "https://dev.to/hassantayyab/building-fast-in-angular-with-zard-ui-tailwind-css-and-signals-cj5",
+    "pubDate": "Mon, 24 Nov 2025 12:41:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the ever-evolving world of technology, becoming a Python Django Developer is one of the most rewarding career paths. Django, a high-level Python framework, allows developers to create robust Django"
+    "contentSnippet": "If you are building products in a startup environment you do not have time to reinvent buttons and argue about folder structures for a week.\nYou need to ship.\nModern Angular actually makes that pretty"
   },
   {
-    "title": "Savvy HRMS: Best Attendance Management Software India",
-    "link": "https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6",
-    "pubDate": "Mon, 24 Nov 2025 06:09:51 +0000",
+    "title": "LLM Code Map: Visualize TypeScript/JavaScript Dependencies & Empower AI Agents",
+    "link": "https://dev.to/mk668a/llm-code-map-visualize-typescriptjavascript-dependencies-empower-ai-agents-4bng",
+    "pubDate": "Mon, 24 Nov 2025 12:40:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Accurately tracking employee attendance is pivotal for any business striving to maintain productivity and compliance. Attendance management software offers a practical solution, automating the recordi"
+    "contentSnippet": "Repository URL: https://github.com/mk668a/llm-codemap\nHave you ever jumped into a new codebase and felt completely lost in a web of imports and function calls? Or maybe you are working with AI agents "
   },
   {
-    "title": "Metaprogramming in Low-Code Platforms",
-    "link": "https://dev.to/canonical/metaprogramming-in-low-code-platforms-4b0h",
-    "pubDate": "Mon, 24 Nov 2025 06:08:25 +0000",
+    "title": "Unlock Better AI Outputs with These 3 Prompt Engineering Secrets",
+    "link": "https://dev.to/pritish_academy/unlock-better-ai-outputs-with-these-3-prompt-engineering-secrets-29ka",
+    "pubDate": "Mon, 24 Nov 2025 12:39:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Among many programming languages, the venerable Lisp has always been a unique presence, a uniqueness often summarized as “Lisp is a programmable programming language.” This means Lisp has powerful met"
+    "contentSnippet": "⭐ 1. Give Context + Goal + Constraints\n\n\nLLMs perform best when they understand:\nWho you are (role)\nWhat you want (goal)\nHow to behave (constraints)\nExample:\n\n“You are a senior React mentor. Explain R"
   },
   {
-    "title": "NFT Development Company: Building the Next Digital Ownership Economy",
-    "link": "https://dev.to/infograins_softwaresolut/nft-development-company-building-the-next-digital-ownership-economy-4874",
-    "pubDate": "Mon, 24 Nov 2025 06:05:13 +0000",
+    "title": "𝗪𝗵𝘆 𝗦𝗼𝗖 𝗠𝗮𝘁𝘁𝗲𝗿𝘀",
+    "link": "https://dev.to/supraja_tangella_b7f0738e/-45p2",
+    "pubDate": "Mon, 24 Nov 2025 12:34:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The digital world is shifting toward a new ownership model—one where assets are secure, verifiable, traceable, and uniquely yours. NFTs have enabled creators, brands, enterprises, and innovators to tr"
+    "contentSnippet": "If everything depends on everything… one small change can break the whole system.\nSeparation of Concerns (SoC) is one of the most important software design principles.\nIt means don’t mix different res"
   },
   {
-    "title": "XDSL: General-Purpose Domain-Specific Language Design",
-    "link": "https://dev.to/canonical/xdsl-general-purpose-domain-specific-language-design-35g6",
-    "pubDate": "Mon, 24 Nov 2025 06:04:45 +0000",
+    "title": "Polars vs Pandas: Why 2025 Data Scientists Must Master This New Power Tool",
+    "link": "https://dev.to/gowthamimmek196/polars-vs-pandas-why-2025-data-scientists-must-master-this-new-power-tool-49aa",
+    "pubDate": "Mon, 24 Nov 2025 12:19:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Nop platform offers a language-oriented programming paradigm: when solving problems, we tend to first design a Domain-Specific Language (DSL), and then use that DSL to describe business logic. The"
+    "contentSnippet": "For over a decade, Pandas has been the undisputed champion of data manipulation in Python. Every data scientist's journey begins with learning DataFrames, and Pandas has been synonymous with tabular d"
   },
   {
-    "title": "Build in Public: Week 3. First Survive Discovery, Then Enjoy Analysis",
-    "link": "https://dev.to/olgabraginskaya/build-in-public-week-3-first-survive-discovery-then-enjoy-analysis-29kb",
-    "pubDate": "Mon, 24 Nov 2025 06:03:12 +0000",
+    "title": "We hosted a Live Session on Gemini 3 Pro Preview. Here's how it went.",
+    "link": "https://dev.to/kilocode/we-hosted-a-live-session-on-gemini-3-pro-preview-heres-how-it-went-557i",
+    "pubDate": "Mon, 24 Nov 2025 12:18:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Last week I noticed something annoying: the engagement on my Week 1 and Week 2 posts dropped, even though the content was objectively good. So I asked Perplexity when developers actually read dev.to a"
+    "contentSnippet": "We just wrapped an action-packed session walking through Google's new Gemini 3 model and how it performs inside Kilo Code. We talked benchmarks and pricing, and even shipped an entire video game with "
   },
   {
-    "title": "Is Big Interview Worth It? An Honest Developer’s Take",
-    "link": "https://dev.to/stack_overflowed/is-big-interview-worth-it-an-honest-developers-take-5bki",
-    "pubDate": "Mon, 24 Nov 2025 06:02:14 +0000",
+    "title": "Coffee Haven - Uno Platform AI Challenge Entry",
+    "link": "https://dev.to/shiva_shanker_k/coffee-haven-uno-platform-ai-challenge-entry-4ib",
+    "pubDate": "Mon, 24 Nov 2025 12:03:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Is Big Interview Worth It? An Honest Developer’s Take\n\n\nIf you’ve ever sat in front of your laptop, sweating bullets before a coding interview, you’ve probably asked yourself: “Why didn’t I prepare mo"
+    "contentSnippet": "Coffee Haven ☕ - Cross-Platform Coffee Shop App\n\n\nI built a professional coffee shop application for the Uno Platform AI Challenge\n\n\nProfessional Design\nClean, modern UI with warm color palette\nReal c"
   },
   {
-    "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-542a",
-    "pubDate": "Mon, 24 Nov 2025 06:00:55 +0000",
+    "title": "Better Agents CLI with Kilo Code and LangWatch",
+    "link": "https://dev.to/kilocode/better-agents-cli-with-kilo-code-and-langwatch-16gc",
+    "pubDate": "Mon, 24 Nov 2025 12:03:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With The Wiz In 15 Minutes Or Less\n\n\nCinemaSins is back on the yellow brick road—thanks to Wicked hitting theaters again—to roast The Wiz with their signature “sins” countdown, squeez"
+    "contentSnippet": "Better Agents CLI with Kilo Code and LangWatch\n\n\n\nThis is a guest post by Rogerio Chaves, CTO and Founder of LangWatch. He brings 14 years of software engineering experience to solving one of AI's big"
+  },
+  {
+    "title": "シリーズ: AI時代におけるフロントエンド（NextJS/ReactJS）のディレクトリ構造",
+    "link": "https://qiita.com/TOMOSIA-HieuNT/items/ae0642e32156ea2d8d36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-24T06:50:57.000Z",
+    "source": "Qiita",
+    "contentSnippet": "パート2: Clean Architecture - AI時代におけるコード組織化の解決策\n\n1. はじめに: 実際の問題と解決策\n\nプロジェクトの背景\n私は大規模なフロントエンドプロジェクトで作業しています：\n\nチームサイズ: 10人以上の開発者\n\nコードベース: ..."
+  },
+  {
+    "title": "Open xINT CTF 2025 Writeup",
+    "link": "https://zenn.dev/tkaliiho/articles/59888f72729744",
+    "pubDate": "Sun, 23 Nov 2025 15:25:59 GMT",
+    "source": "Zenn",
+    "contentSnippet": "まえがき\n去年に引き続きAVTOKYOに２度目の参加でした。たぶんいるやろくらいに思っていた友人(@ion_katsu7352)を入場時に発見し合流、PC作業しやすい席を確保して万全の体制でOpen xINT CTF 2025に挑むことになりました。チーム名、karion(kariiho+ion)はその場のノリです。\n今回は、仮説を検証してみたらそのまま正解だったパターンに恵まれたこともあり、1位"
+  },
+  {
+    "title": "[技術書典19]初めての技術同人誌作成・オフライン出展",
+    "link": "https://zenn.dev/hamijay_cloud/articles/3d99f22f8e098f",
+    "pubDate": "Sun, 23 Nov 2025 11:55:28 GMT",
+    "source": "Zenn",
+    "contentSnippet": "1. はじめに\nみなさん、こんにちは。ひよこインフラエンジニアです。普段はAWSを中心に、既存システムの保守運用や新規システムの設計・構築・テストなどのお仕事をしています。この度、2025/11/16(日)に池袋サンシャインシティにて行われた技術書典19でオフライン出展をしてきました。\n\n 技術書典とは\n技術書典は「技術書を中心とした様々な本を頒布する同人誌即売会」で、「エンジニア・デザイナー・研"
   },
   {
     "title": "ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した",
@@ -77,6 +98,13 @@
     "contentSnippet": "本当は、今でもRailway Oriented Programmingで書きたい\n!\n注:この記事は筆者の考えを書き出したものをLLMを使って編集してまとめ上げています。\n\n株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\n私は Railway Oriented Programming が好きで、C#で実現するために ResultBox というライブラリを作り、自社のイベントソ"
   },
   {
+    "title": "AWS CDKのGrantsクラスを試してみた",
+    "link": "https://zenn.dev/aki_kii/articles/try-grants-class-for-awscdk",
+    "pubDate": "Sun, 23 Nov 2025 11:08:19 GMT",
+    "source": "Zenn",
+    "contentSnippet": "AWS CDKでは、特定のAWSリソースから他のAWSリソースに対してgrantXxxメソッドを利用して権限を付与できます。\ngrantXxxメソッドを利用すれば、複雑な権限設定をとても簡単に書けます。\n例えば、S3バケットに対してread権限を付与したいときは、次のように書けます。\nexport class CdkSampleStack extends cdk.Stack {\n  constru"
+  },
+  {
     "title": "仕様書駆動開発で一番いいAIモデル&エージェント検証 11/23版",
     "link": "https://zenn.dev/sakastudio/articles/a5ea1eee97ec37",
     "pubDate": "Sun, 23 Nov 2025 10:54:41 GMT",
@@ -84,11 +112,46 @@
     "contentSnippet": "GPT5.1、Gemini 3.0、Sonnet 4.5と各社モデルが出揃ってきた感じがするので、改めて今現在のSDDでどれが一番いいか検証しました。\nただ、検証もそれなりに面倒なので、厳密なベンチマークほど信用のおけるものではないということを留意してください。\n\n 忙しい人のためのサマリ\n\n仕様書作成は Cursor + gemini3.0が最も良かった。\n実装はcodexが最も良かった。\n\n\n"
   },
   {
-    "title": "Microsoft Ignite 2025しがない回想記　Keynote入れないのぉ？？~ネパール人に感謝して~",
-    "link": "https://zenn.dev/kasada/articles/b89c69e66ff67d",
-    "pubDate": "Sun, 23 Nov 2025 08:55:48 GMT",
+    "title": "Snowlfake ML Jobsを使おう！",
+    "link": "https://zenn.dev/takikomi/articles/314d3bdda3ad8b",
+    "pubDate": "Sun, 23 Nov 2025 10:39:58 GMT",
     "source": "Zenn",
-    "contentSnippet": "こんにちは、しがない情シスことKaz Asadaです。今回は2025/11/18~21@サンフランシスコで開催されたMicrosoftの年次カンファレンスMicrosoft Ignite 2025に参加してきたので、その時の思い出を綴ります。来年もサンフランシスコでの開催とのこと、この記事が再び悲しむ人を生み出さないようになれば幸いです。\n!\nこの記事はIgniteの中身よりKeynoteの参加ま"
+    "contentSnippet": "この記事は帰ってきたSPCS活用最新事例LT祭：再び解き放て、Snowpark Container Servicesの力！で話した内容の解説です。\nアーカイブがこちらで公開されているのでぜひご覧ください！\nSPCS関連のアレコレがギッチリ詰まった熱量高いLTイベントでした。\nhttps://youtu.be/aGIJHv1i4gQ\n\n semi-AutoMLのススメ\n機械学習を良い感じにやっていき"
+  },
+  {
+    "title": "Unityのホラーゲーム用ライティング設定メモ",
+    "link": "https://zenn.dev/akubi/articles/5168a19d946f1c",
+    "pubDate": "Sun, 23 Nov 2025 10:37:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "ほぼ３Dの方のゲームは経験なかったので、単調なホラーマップを作ろうと思った。\n\nデフォだとすんごいのっぺりしてたので、チャッピーにあまり期待せず最低限の要点を聞いてみた。\n\n ① Ambient Light（環境光）を真っ黒にする ←最重要\n\nデフォではAmbient が灰色になってるから暗所の質感が全部飛んでる。\nLighting ウィンドウ → Environment タブ に切り替え。\nここ"
+  },
+  {
+    "title": "Rust でローカルにできる限りにセキュアに保存",
+    "link": "https://zenn.dev/nodamushi/articles/7189de6df51938",
+    "pubDate": "Sun, 23 Nov 2025 09:47:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Rust で他人に抜かれたらまずいデータをローカルに保存したいときにどうするか、ちょっと調べたり考えたりしたまとめ。\n主にこの記事では暗号化する鍵（OsRnd とか使った 自動生成の鍵 を想定）の扱い方をローカルでどうするかです。暗号化方法については適宜選べばよいでしょう。ChaCha20Poly1305 あたりで十分かと個人的には思います。\nクラウドを使えやクソデブって？うん、それでいいんじゃな"
+  },
+  {
+    "title": "AWS CDK で Grants クラスが導入されました（v2.227.0)",
+    "link": "https://zenn.dev/aws_japan/articles/cdk-grants-refactor",
+    "pubDate": "Sun, 23 Nov 2025 09:42:53 GMT",
+    "source": "Zenn",
+    "contentSnippet": "AWS CDK の L2 Construct を利用するメリットの 1 つとしてgrantsメソッドによる権限付与の抽象化があります。例えば以下は L2 Construct で SNS トピックを生成し、IAM ロールに対して Publish の権限を付与します。\ndeclare const role: iam.IRole;\nconst topic = new sns.Topic(this, \"M"
+  },
+  {
+    "title": "【Google Antigravity】話題のAI IDEを使って、家庭菜園シミュレータを1日で爆誕させた話",
+    "link": "https://zenn.dev/acorn181/articles/2186869ff32265",
+    "pubDate": "Sun, 23 Nov 2025 08:41:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先日発表されたGoogleの新しいエージェント型開発環境「Antigravity」。\n「コードを書くのではなく、Agentを管理する」という新しいパラダイムを提唱するこのツールを使って、 1日で本格的な「家庭菜園シミュレータ（Garden Planner）」 を開発しました。\n結論から言うと、 「詳細な仕様さえ渡せば、実装コストはほぼゼロになる」 という衝撃的な体験でした。\nこの記事では"
+  },
+  {
+    "title": "ChatGPTにDiscordトレンドAIニュース自動配信Botを作ってもらった【ChatGPT･GitHub Actions･Discord】",
+    "link": "https://qiita.com/foocode/items/43136e8d06b2edc5fa34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T07:22:51.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nPython初心者のWebエンジニアが、ChatGPTの力を借りてDiscordのAIニュース自動配信Botを作成した体験談です。\n「AIの情報を追うの疲れた...」「お金をかけたくない...」という方の参考になれば幸いです。\n\n目次\n\nはじめに\nきっかけ\n作っ..."
   },
   {
     "title": "Diffusion PlannerとAutowareにおける機械学習応用",
@@ -98,39 +161,39 @@
     "contentSnippet": "はじめに\n先日、AutowareのLearningベース Prediction/Planning 公開！という投稿を拝見しました。\n\nこちらはDiffusion Plannerと呼ばれるもので、ICLR'25 (Oral) に採択されたOSSの自動運転プランナーのよう..."
   },
   {
-    "title": "AIを駆使して2D図面画像を2DCAD(ベクター)化する",
-    "link": "https://zenn.dev/firstautomation/articles/36e4d5e3455f52",
-    "pubDate": "Sun, 23 Nov 2025 05:08:28 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n株式会社ファースト・オートメーションCTOの田中(しろくま)です！\n今回は以下のような2D図面画像の分析の難しさと生成AIの発展によってそれが少しずつ解けるようになってきているという話をしたいと思います。\n\n\n 解きたい問題\n我々が製造業と関わる中で、なかなか最新のAIを持ってしても解くのが難しいと思っている問題が2D図面の画像解析です。\n2D図面の画像を正確に解析できるようになることで"
+    "title": "「2025年の崖」問題はどうなったのか？",
+    "link": "https://qiita.com/k12da/items/cd344a6fec413e08edc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T06:08:38.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n私は5年前（2020年）にエンジニアを目指した時に初めて、「2025年の崖」や「DX推進」という話題について知りました。\nそして気づいたら2025年。\nあれからIT業界全体でこの問題に対してどのような変化があったのかをリサーチしてみました。\n\n本記事をご覧いた..."
   },
   {
-    "title": "【Claude Code】SkillsとSubAgents、どっちを使えばいいの？違いと使い分けを完全解説",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_skills_vs_subagents",
-    "pubDate": "Sat, 22 Nov 2025 23:46:35 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\nClaude Code を使いこなしていくと、必ずぶつかる疑問があります。それが、\n「Skills（スキル）とSubAgents（サブエージェント）、どっちを使えばいいの？」\nという疑問です。公式ドキュメントを読んだとしても、この2つの違いが分かりにくいですよね。\nそのため、混乱するのも無理はありません。\n私も最近、Claude Skills に関する記事を公開しましたが"
+    "title": "Git の歴史を映画のように再生する gitlogue を作りました",
+    "link": "https://qiita.com/unhappychoice/items/7e2d792dbf7993ac4465?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T01:51:25.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n最近 Omarchy を導入したり、r/unixporn を眺めていて、ターミナルスクリーンセーバーの存在を知りました。\ncbonsai や asciiquarium、tarts など、ターミナルを彩る様々なツールがあります。\nそのうちなにか自分で作ってみたいと..."
   },
   {
-    "title": "ペイントツール上でライフゲームを動かす",
-    "link": "https://zenn.dev/melville/articles/83c91d6ea42d0c",
-    "pubDate": "Sat, 22 Nov 2025 23:27:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "これはKritaという無料のペイントツールですが、Conwayのライフゲームが動作しています。\nスクリプト等は用いておらず、標準のフィルターと合成レイヤーのみを用いています。\n\n 解説\n端的に言うと次の4レイヤーを重ねることでライフゲームの次の世代の計算を行うことができます。\n\nぼかしフィルター\n\n#b88b73 加算\nカラー補正フィルター\n\n#000000 彩度HSV\n\n\n ぼかしフィルター\nこ"
+    "title": "【Microsoft Ignite Update】Copilot Studio で SharepointListsMCP を試してみた",
+    "link": "https://qiita.com/Takashi_Masumori/items/33e80f0186dc1cf34168?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T23:36:30.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nMicrosoft Ignite 2025 で多くのアップデートが発表されました。その中の一つにて、多くの MCP Server が発表され、早速、Copilot Studio で利用可能になりました。\n\n恐らく、多くの市民開発者にとって注目なのは、「Share..."
   },
   {
-    "title": "俺のVercelは遅かった - Function Regionの罠",
-    "link": "https://zenn.dev/mountain1009/articles/00c8a4542e6194",
-    "pubDate": "Sat, 22 Nov 2025 13:06:11 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nNext.js アプリを Vercel にデプロイしたら、なぜか異常に遅い...。そんな経験ありませんか？\n普段は Cloudflare Workers や Cloud Run を使っていた私が、初めて Vercel を本番運用することになりました。\n完全初見です。\n「Vercel って評判いいし、Next.js との相性も最高って聞くし、余裕でしょ」\nそう思っていた矢先、意外なところに"
+    "title": "VLMで自動運転やってみた #2",
+    "link": "https://qiita.com/soyaoki/items/3ebd29fa3d5b24ea1b4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T15:01:35.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nVision-Language Model (VLM) を活用した自動運転システムの開発は、個人的に注目している技術領域のひとつです。\n以前、自動運転AIチャレンジ環境を使用して、入力画像から車両制御指令値を直接生成するVLM Controllerの構築に挑戦し..."
   },
   {
-    "title": "Lambda Tenant Isolation Mode（テナント分離モード）",
-    "link": "https://zenn.dev/aws_japan/articles/lambda-tenant-isolation",
-    "pubDate": "Sat, 22 Nov 2025 11:02:13 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nおはようございます、加藤です。\n2025年11月19日にAWS Lambdaに新機能Tenant isolation modeが登場しました。\n\nWhat's new\nLaunch blog\n\nこの機能はマルチテナントで提供されるサービス向けに、単一のLambda関数に対して実行時にテナントIDを指定し、それごとにLambda関数の実行環境を分離することによってテナントごとに実行環境の分"
+    "title": "`aws login`の認証情報をboto3で使うにはひと工夫必要だよ！",
+    "link": "https://qiita.com/moritalous/items/482b1e0a7418652568e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T12:41:11.000Z",
+    "source": "Qiita",
+    "contentSnippet": "新しいaws loginが激アツですよね？\n\n「SDKでも使えるよ！」とあったのですが、Boto3だとちょいと一工夫必要でしたので共有します。\n\nとりあえずやってみよう\n前提として、最新のAWS CLIをインストールし、aws loginでログインしておきま..."
   },
   {
     "title": "ECSの新機能Expressモードで、認証つきStreamlitアプリを簡単にAWSデプロイしよう！",
@@ -145,69 +208,6 @@
     "pubDate": "2025-11-22T07:12:38.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n私が普段検証に使用しているPCはMacなのですが、会社のPCはWindowsです。\n会社のPCでも試してみようと思ったのですが手順が微妙に違い、戸惑ったので残しておこうと思います。\n今回は仮想化、エージェント作成、Runtimeにデプロイまで実施します。細かい解..."
-  },
-  {
-    "title": "【備忘録】アーキテクチャConference 2025 で 学びと気づきが得られすぎたので、共有したい...",
-    "link": "https://zenn.dev/sunagaku/articles/architecture-conference-2025",
-    "pubDate": "Sat, 22 Nov 2025 05:38:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n昨日、一昨日にかけて開催された、アーキテクチャConferenceに参加してきました。\n本イベントを通じて、自分自身がまだ足りていないスキルを明確にできたり、今の企業が直面している課題、そしてそれをどのように解決していくかのヒントを得ることができました。\nまだ完全に理解できたわけではありませんが、非常に多くのことを学ばせていただきました。\n本記事では、カンファレンスで得られた学びを自分自"
-  },
-  {
-    "title": "aws loginコマンドが来たのでAWSのアクセスキーを削除したかったけど、やっぱり保留しました。",
-    "link": "https://zenn.dev/ncdc/articles/153101d64b0175",
-    "pubDate": "Sat, 22 Nov 2025 03:14:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nAWS CLIにaws loginコマンドが実装されました。\nhttps://aws.amazon.com/jp/blogs/security/simplified-developer-access-to-aws-with-aws-login/\nこのコマンドを使うとアクセスキーがなくてもAWS CLIを使用できます。つまりアクセスキーの発行が不要となるので、アクセスキーの漏洩という大きな"
-  },
-  {
-    "title": "Antigravity使うのやめてCopilotに戻った話",
-    "link": "https://qiita.com/tubasa854/items/bf96feb1a0d26fe3a4c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T21:38:41.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Web系開発&技術コンサルの会社を経営をしています。界隈の方はぜひ繋がりましょう → https://x.com/tsubasa859\n\nはじめに\nGoogle DeepMindが先日リリースした新しいAI開発プラットフォーム「Antigravity」を試してみました。Ge..."
-  },
-  {
-    "title": "技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？",
-    "link": "https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T11:57:41.000Z",
-    "source": "Qiita",
-    "contentSnippet": "これまでのあらすじ\n技術書典19に出展したけど、全然売れない。悲しみの投稿\n\nをしたのが11月19日23時頃。特に反応もなく、「誰もお前を愛さない」状態になる。翌日は、いつもの愚にも付かない伝言ゲームをして(それを世の中では仕事というらしい)、帰宅。そうしてSNSを開..."
-  },
-  {
-    "title": "Copilot Studio で SharePoint Listのデータを精度よく取り扱うには",
-    "link": "https://qiita.com/tomoyasasaki1204/items/240299546095a313b228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T06:45:12.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nみなさん、こんにちは\nマイクロソフト佐々木です。\n本日はよくある課題の「Copilot Studio で SharePoint Listのデータを精度よく取り扱うには」です。\n本来であれば、SharePoint Listのナレッジの整備の仕方など深いテーマを書く..."
-  },
-  {
-    "title": "AtCoderで入黄しました！",
-    "link": "https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T03:19:50.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは、Yoyoyo8128です！\nARC210で、2200パフォを出し、入黄をすることができました！\nほぼ自語りですが見てってください！\n\n自己紹介\n開成高等学校の1年生です。\n開成では、コンピュータ部(Kaisei Computer Lovers..."
-  },
-  {
-    "title": "TryHackMeのすゝめ",
-    "link": "https://qiita.com/AKASecurity/items/38de2a7fbe3355879e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T01:25:44.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこの記事はセキュリティに興味のある初学者🔰からすでにセキュリティエンジニアとして、就業している方（経験者）📖など幅広い方に向けて書いています。\n私自身もTryHackMeを利用しており、非常に有用なサイトだと感じたため、紹介しようと思い記事を書きました。\n※本記..."
-  },
-  {
-    "title": "「謝罪」しすぎない技術",
-    "link": "https://qiita.com/y_o_28/items/4f3bd30f1f0a8fe4c21e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T00:15:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. はじめに： なぜエンジニアは「すみません」を言いすぎてしまうのか\n開発現場で、無意識に口癖のように出てしまう「すみません」。\n心当たりはないでしょうか、私はあります....笑\n資料の提出が少し遅れたとき、MTGの冒頭、あるいは相手からの指摘を受けたとき、他チームにお..."
-  },
-  {
-    "title": "【速報】Google画像生成AIの新モデル「Nano Banana Pro」登場！Gemini 3ベースの描画力を徹底解説",
-    "link": "https://qiita.com/kentaro_kawamura/items/d2b858d9d6e091855757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T23:41:03.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは！\n今日（2025年11月21日）、Google DeepMindから新しい画像生成AI 「Nano Banana Pro」 が発表されました。（技術的な名称は Gemini 3 Pro Image です）\n先日発表されたばかりの「Gemini 3」の頭脳（推論能..."
   },
   {
     "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",

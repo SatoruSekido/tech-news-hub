@@ -1,73 +1,87 @@
 [
   {
-    "title": "Understanding How the Internet Works: A Beginner's Guide to the Client-Server Model and APIs",
-    "link": "https://dev.to/thecurlyhairdev/understanding-how-the-internet-works-a-beginners-guide-to-the-client-server-model-and-apis-2f18",
-    "pubDate": "Tue, 25 Nov 2025 12:53:55 +0000",
+    "title": "Refactoring Legacy: Part 1 - DTO's & Value Objects",
+    "link": "https://dev.to/clegginabox/refactoring-legacy-part-1-dtos-value-objects-2i30",
+    "pubDate": "Tue, 25 Nov 2025 18:36:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever wondered what happens behind the scenes every time you click a link?\nIn this article, we will decisively break down every crucial concept you need to understand when fetching data from the intern"
+    "contentSnippet": "Ever opened a codebase where a single JSON payload could arrive in 17 different shapes depending on the phase of the moon?\nOver the last few years my contracts have involved working with legacy code i"
   },
   {
-    "title": "The Scale Trap: How Tech Teams Went from Solving Problems to Debugging Their Own Bloat",
-    "link": "https://dev.to/j4s0nc/the-scale-trap-how-tech-teams-went-from-solving-problems-to-debugging-their-own-bloat-2072",
-    "pubDate": "Tue, 25 Nov 2025 12:43:03 +0000",
+    "title": "🌙 New Blog Drop: When Your Boss Tells You to Make Magic in One Year — The Majora’s Mask Story",
+    "link": "https://dev.to/blaze_faisal/new-blog-drop-when-your-boss-tells-you-to-make-magic-in-one-year-the-majoras-mask-story-470f",
+    "pubDate": "Tue, 25 Nov 2025 18:24:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every engineering success story contains a devastating failure loop: The moment we solve a core problem, we create a new, internal constraint. We started out trying to help users, but somewhere along "
+    "contentSnippet": "Gamers, gather ‘round — this one’s wild.\nNintendo had just finished Ocarina of Time… and instead of celebrating, the team basically got hit with:\n“Great job. Now make another masterpiece. You’ve got o"
   },
   {
-    "title": "How Sellers Prepare Agencies Websites for Sale",
-    "link": "https://dev.to/suddhajit_links_4ee9b6582/how-sellers-prepare-agencies-websites-for-sale-5c3e",
-    "pubDate": "Tue, 25 Nov 2025 12:38:18 +0000",
+    "title": "**Titular: \"Avanza con Transparencia: Evalúe TarantulaHawk",
+    "link": "https://dev.to/drcarlosruizviquez/titular-avanza-con-transparencia-evalue-tarantulahawk-2e24",
+    "pubDate": "Tue, 25 Nov 2025 18:24:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Selling an agency website requires careful preparation to maximize value and ensure a smooth transaction. Sellers need to present a professional, profitable, and low-risk business that appeals to buye"
+    "contentSnippet": "Titular: \"Avanza con Transparencia: Evalúe TarantulaHawk.ai para una Gestión de PLD Sostenible y Eficaz\"\nComo experto en Inteligencia Artificial (IA) y Prevención del Lavado de Dinero (PLD), le propon"
   },
   {
-    "title": "A look at Aikido's first launch on Product Hunt",
-    "link": "https://dev.to/fmerian/a-look-at-aikidos-first-launch-on-product-hunt-3mdn",
-    "pubDate": "Tue, 25 Nov 2025 12:37:00 +0000",
+    "title": "Why Pub/Sub Is the Architecture Trick Every Developer Should Know",
+    "link": "https://dev.to/vatukah/why-pubsub-is-the-architecture-trick-every-developer-should-know-1i8k",
+    "pubDate": "Tue, 25 Nov 2025 18:21:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "⁠#1 Product of the Day and #1 Developer Tool of the Month: Aikido Security first launched on Product Hunt last month, and they crushed it.\nTagline, visual assets, community engagement... Here's a brea"
+    "contentSnippet": "Did you ever run into a situation where an event or specific action happens in your code, and you want other components to react — maybe update the UI, trigger a toast, refresh some data — but you end"
   },
   {
-    "title": "Cron Jobs vs Real Task Schedulers: A Love Story",
-    "link": "https://dev.to/elvissautet/cron-jobs-vs-real-task-schedulers-a-love-story-1fka",
-    "pubDate": "Tue, 25 Nov 2025 12:32:24 +0000",
+    "title": "Integrate Monetzly: The SDK Solution for Profitable AI Conversations",
+    "link": "https://dev.to/monetzly/integrate-monetzly-the-sdk-solution-for-profitable-ai-conversations-3aah",
+    "pubDate": "Tue, 25 Nov 2025 18:19:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey folks. I know, I know, another long post. But if you've been following \nToday's about task scheduling. Specifically, about a problem I've spent way too much time solving in production.\nYou know th"
+    "contentSnippet": "Why 90% of AI Apps Fail to Monetize Effectively—and How You Can Succeed\n\n\nThe AI revolution is here, but did you know that approximately 90% of AI applications struggle to find a sustainable monetizat"
   },
   {
-    "title": "Building a Movie App with Clean Architecture Concepts in React Native",
-    "link": "https://dev.to/rubemfsv/building-a-movie-app-with-clean-architecture-concepts-in-react-native-6md",
-    "pubDate": "Tue, 25 Nov 2025 12:30:46 +0000",
+    "title": "🚀 React Performance Tip: Why useState(() => ...) Beats useState({...})",
+    "link": "https://dev.to/yorgie7/react-performance-tip-why-usestate-beats-usestate-5blj",
+    "pubDate": "Tue, 25 Nov 2025 18:19:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I'm a huge movie fan, and I've decided to combine my passion for cinema with my love for building well-architected systems to practice my React Native skills. That's how Premiere Night was born.\nI've "
+    "contentSnippet": "Most developers write:\nconst [ref] = useState({ current: initialValue });\n\n...but don't realize this silently creates performance overhead ---\nWhen you do:\nuseState({ current: initialValue });\n\nJavaSc"
   },
   {
-    "title": "Vue 3 Modal Component from Scratch with Teleport & Transitions",
-    "link": "https://dev.to/djamware_tutorial_eba1a61/vue-3-modal-component-from-scratch-with-teleport-transitions-1a3k",
-    "pubDate": "Tue, 25 Nov 2025 12:29:35 +0000",
+    "title": "I made Google Calendar Extension for browser that has already reached 4,000 WAU.",
+    "link": "https://dev.to/just_commit/i-made-google-calendar-extension-for-browser-that-has-already-reached-4000-wau-ccd",
+    "pubDate": "Tue, 25 Nov 2025 18:17:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Just published a full guide on building a complete Vue 3 modal component without relying on UI frameworks. You’ll learn:\nTeleport for rendering outside the DOM tree\nSlide, fade, scale, and spring anim"
+    "contentSnippet": "I work in IT, and like any specialist in an IT company working remotely, I have to attend daily standups, various meetings, discussions, and conferences. I used to never use GCalendar at all, but now,"
   },
   {
-    "title": "The Hidden Advantage of SaaS SEO Agencies in a Highly Competitive Landscape",
-    "link": "https://dev.to/dennis_santos_fdc46978eb4/the-hidden-advantage-of-saas-seo-agencies-in-a-highly-competitive-landscape-3n4m",
-    "pubDate": "Tue, 25 Nov 2025 12:27:52 +0000",
+    "title": "Session Service: як правильно будувати сесію у high-load казино",
+    "link": "https://dev.to/4mars/session-service-iak-pravilno-buduvati-siesiiu-u-high-load-kazino-19mf",
+    "pubDate": "Tue, 25 Nov 2025 18:15:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Understanding the Role of SaaS SEO Today\nThe SaaS market moves fast, and visibility often determines whether a product thrives or disappears into obscurity. Over the past few years, I have worked with"
+    "contentSnippet": "Session Service: як правильно будувати сесію у high-load казино\n\n\nУправління сесіями в онлайн-казино — це не просто \"зберігати токен у Redis\". При навантаженні в десятки тисяч одночасних гравців кожна"
   },
   {
-    "title": "Day-02 Terraform AWS Provider",
-    "link": "https://dev.to/amit_kumar_7db8e36a64dd45/day-02-terraform-aws-provider-1305",
-    "pubDate": "Tue, 25 Nov 2025 12:25:51 +0000",
+    "title": "We had enough of brainrot. We built a terminal app for Instagram to stop that.",
+    "link": "https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n",
+    "pubDate": "Tue, 25 Nov 2025 18:13:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Understanding The Terraform Providers\nInfrastruture as Code(IaC) has changed the way developers and cloud engineers manage and deploy infrastruture. Among all IaC tools, Terraform stands out for its s"
+    "contentSnippet": "Instagram: the app you open to send one message… and suddenly 30 minutes are gone. We all know the cycle — and we finally had enough.\nWhat if Instagram had a quick fix? A productivity-friendly mode th"
   },
   {
-    "title": "How LLMs Like ChatGPT Work: A Look Behind the AI Curtain",
-    "link": "https://dev.to/sia_negi21/how-llms-like-chatgpt-work-a-look-behind-the-ai-curtain-45mo",
-    "pubDate": "Tue, 25 Nov 2025 12:25:43 +0000",
+    "title": "**Unlocking AI-Driven Content Optimization: The 'Engagement",
+    "link": "https://dev.to/drcarlosruizviquez/unlocking-ai-driven-content-optimization-the-engagement-5cmg",
+    "pubDate": "Tue, 25 Nov 2025 18:08:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Foundation: What is a Large Language Model?\n\n\nAt its heart, a Large Language Model (LLM) is a type of artificial intelligence designed to understand, generate, and interact with human text. The \"l"
+    "contentSnippet": "Unlocking AI-Driven Content Optimization: The 'Engagement Lift Index'\nWhen evaluating the success of AI-powered content on Netflix, a crucial metric to consider is the 'Engagement Lift Index' (ELI). T"
+  },
+  {
+    "title": "Rubyの次バージョンは「Ruby 4.0」に。「Ruby 4.0 Preview2」がリリース",
+    "link": "https://www.publickey1.jp/blog/25/rubyruby_40ruby_40_preview2.html",
+    "pubDate": "2025-11-25T15:55:03.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Ruby開発チームは11月17日、Ruby 4.0 Preview Release 2」をリリースしました。 Rubyはまつもとゆきひろ氏により1993年に開発が始められたプログラミング言語です。シンプルで生産性の高いプログラムを書くことができることなどを特長とし、Ruby on Rails（Rails）と呼ばれるWebアプリケーションを容易に構築できるフレームワークを備えていることで人気のプログ"
+  },
+  {
+    "title": "マイクロソフト、データベースエンジンにAIを統合した「SQL Server 2025」正式版をリリース。T-SQLの正規表現関数、並行性向上による性能改善など",
+    "link": "https://www.publickey1.jp/blog/25/aisql_server_2025t-sql.html",
+    "pubDate": "2025-11-25T15:52:09.000Z",
+    "source": "Publickey",
+    "contentSnippet": "マイクロソフトは同社のリレーショナルデータベース製品の最新馬「SQL Server 2025」正式版のリリースを発表しました。 DBエンジンにAIを統合 SQL Server 2025ではデータベースエンジンにAIが統合され、データに対してセマンティックサーチや自然言語での対話が可能となりました。 操作言語として使われている「Transact-SQL」（T-SQL）にAIモデル管理機能が組み込まれ"
   },
   {
     "title": "PythonでLLM APIを並列実行する方法",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-17T15:14:53.000Z",
     "source": "Publickey",
     "contentSnippet": "無償のコードエディタ「Visual Studio Code」（以下、VS Code）の最新版として今月（2025年11月）にリリースされた「VS Code October 2025 (version 1.106)」で、仕様や実装計画の作成をCopilotが支援してくれる「Planエージェント」機能が搭載されたことが明らかになりました。 Learn more about these features"
-  },
-  {
-    "title": "クラウドインフラのシェア、AWSが再び30％を切って29％に。Googleが13％へと成長。2025年第3四半期、Synergy Researchの調査結果",
-    "link": "https://www.publickey1.jp/blog/25/aws3029google1320253synergy_research.html",
-    "pubDate": "2025-11-17T15:13:17.000Z",
-    "source": "Publickey",
-    "contentSnippet": "調査会社のSynergy Research Groupは、グローバルにおける2025年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせたものを指します。 発表によると、第3四半期のクラウドインフラ市場は1年前と比較して28％成長となり、市場規模はグローバルで1069億ドル（1ドル155円換算で約"
-  },
-  {
-    "title": "GitHubで最も使われている言語の1位はPythonを抜いてTypeScriptに、最もコントリビュータが増加したOSSは「Zenブラウザ」。Octoverse 2025",
-    "link": "https://www.publickey1.jp/blog/25/github1pythontypescriptosszenoctverse_2025.html",
-    "pubDate": "2025-11-16T15:33:49.000Z",
-    "source": "Publickey",
-    "contentSnippet": "GitHubは、この1年のGitHubにおけるGitHubの利用動向やオープンソースの動向などをまとめた年次レポート「Octoverse 2025」を発表しました。 開発者人口はインドが中国を抜いて2位に 発表によると、2025年8月時点のGitHub上のプロジェクト総数は6億3000万。この1年で増加した開発者の総数は1億8000万人超で、コントリビュータの総数は11億2000万人以上。 国別の"
   }
 ]

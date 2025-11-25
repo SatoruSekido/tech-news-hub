@@ -1,73 +1,73 @@
 [
   {
-    "title": "SHA1-Hulud, npm supply chain incident",
-    "link": "https://dev.to/snyk/sha1-hulud-npm-supply-chain-incident-1kap",
-    "pubDate": "Tue, 25 Nov 2025 02:00:37 +0000",
+    "title": "Reasoning In The Wild: How I Actually Think About Cognition",
+    "link": "https://dev.to/marcosomma/reasoning-in-the-wild-how-i-actually-think-about-cognition-1i90",
+    "pubDate": "Tue, 25 Nov 2025 06:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "On November 24th, 2025, we identified a new supply chain attack in the npm ecosystem, referred to as SHA1-Hulud. We believe this is a second wave of the Shai-Hulud attack, which occurred in September "
+    "contentSnippet": "Cognition, for me, did not start in a lab or a code editor. It started in a field, in the mud, watching an animal pretend not to care that I was watching. That is the core of how I see reasoning.\nNot "
   },
   {
-    "title": "CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2g7h",
-    "pubDate": "Tue, 25 Nov 2025 02:00:24 +0000",
+    "title": "The Secret Life of Go: Variables & Types",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-variables-types-53co",
+    "pubDate": "Tue, 25 Nov 2025 06:25:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nCinemaSins just dropped “Everything Wrong With The Wiz In 15 Minutes Or Less,” taking their signature snark down the yellow brick road now that Wicked is back in theaters. Along the way they p"
+    "contentSnippet": "Chapter 2: Variables, Types, and the Art of Declaration\n\n\nThe morning light streaming through the tall windows of the Whitmore Archive had a different quality today—sharper, more purposeful. Ethan arr"
   },
   {
-    "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-573h",
-    "pubDate": "Tue, 25 Nov 2025 02:00:16 +0000",
+    "title": "Pourquoi changer sera difficile… (Réflexion personnelle)",
+    "link": "https://dev.to/elvisans/pourquoi-changer-sera-difficile-reflexion-personnelle-11ak",
+    "pubDate": "Tue, 25 Nov 2025 06:20:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less is CinemaSins’ latest snarky breakdown, calling out every plot hole, cringe line and weird trope in rapid-fire fashion. If you ever wonde"
+    "contentSnippet": "Il m’arrive souvent, entre deux lignes de code, deux features à shipper ou deux idées de startup; de repenser à l’environnement dans lequel j’ai grandi. Un environnement qui, qu’on le veuille ou non, "
   },
   {
-    "title": "Liquid Round Button Animation",
-    "link": "https://dev.to/jubayid_hassan_734b7ff1de/liquid-round-button-animation-16j7",
-    "pubDate": "Tue, 25 Nov 2025 01:27:23 +0000",
+    "title": "What Can QA Teams Learn from Recent FDA Inspections at Rubicon Research (India)?",
+    "link": "https://dev.to/shalushrotiya/what-can-qa-teams-learn-from-recent-fda-inspections-at-rubicon-research-india-4aj5",
+    "pubDate": "Tue, 25 Nov 2025 06:18:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This pure CSS button utilizes the ::before pseudo-element to create a scaling hover animation. The lime-green circle is positioned absolutely and scaled up using transform: scale() on hover, while ove"
+    "contentSnippet": "Recent FDA inspections at Rubicon Research’s India facilities (Satara and Thane) have highlighted persistent GMP risks that matter to every pharma QA team: documentation gaps, inadequate process contr"
   },
   {
-    "title": "GoogleのAIエディタ「Antigravity」を触ってみた！設定やワークフローも解説",
-    "link": "https://dev.to/beachone1155/googlenoaiedeitaantigravity-wohong-tutemitashe-ding-yawakuhuromojie-shuo-2lll",
-    "pubDate": "Tue, 25 Nov 2025 01:22:53 +0000",
+    "title": "🚀 New SaaS Website Template Added: \"Database\" Is Now Live",
+    "link": "https://dev.to/ngmaterialdev/new-saas-website-template-added-database-is-now-live-5fh9",
+    "pubDate": "Tue, 25 Nov 2025 06:17:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GoogleのAIエディタ「Antigravity」を触ってみた！設定やワークフローも解説\n\n\n\n  \n  \n  はじめに\n\n\nGoogleが2025年11月18日に発表した新しいAIエディタ「Antigravity」。\n今回は、実際にAntigravityを使って簡単なアプリ開発を試してみた感想と、Antigravityの真骨頂とも言える「プロジェクト固有のルール設定」や「ワークフロー機能」につ"
+    "contentSnippet": "We’re excited to announce a brand-new addition to Angular Material Blocks — introducing Database, a complete website template designed for SaaS products, developer tools, and modern cloud platforms.\nD"
   },
   {
-    "title": "AI駆動型販売・在庫管理システム「OpsPilot Console」の実装と展望",
-    "link": "https://dev.to/beachone1155/aiqu-dong-xing-fan-mai-zai-ku-guan-li-sisutemuopspilot-console-noshi-zhuang-tozhan-wang-pa",
-    "pubDate": "Tue, 25 Nov 2025 01:22:40 +0000",
+    "title": "Can AI Replace Programmers by 2030? Here’s What the Future of Coding Really Looks Like",
+    "link": "https://dev.to/faisal_106/can-ai-replace-programmers-by-2030-heres-what-the-future-of-coding-really-looks-like-2hcn",
+    "pubDate": "Tue, 25 Nov 2025 06:11:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI駆動型販売・在庫管理システム「OpsPilot Console」の実装と展望\n\n\n\n  \n  \n  はじめに\n\n\nこんにちは！今回は、現在開発中の「OpsPilot Console」というプロジェクトについてご紹介します。\n「業務システムって堅苦しくて使いにくい...」そんなイメージを払拭すべく、モダンな技術スタックでサクサク動く、そしてAIの力で業務を効率化するシステムを目指しています。\n\n"
+    "contentSnippet": "Imagine it’s 2030. You walk into your home office, grab your coffee, and fire up your IDE. But something’s different. Your coding partner today isn’t just a team member on Zoom—it’s an AI assistant th"
   },
   {
-    "title": "Unlocking Automation with Strands Agents and Bedrock",
-    "link": "https://dev.to/elbanic/unlocking-automation-with-strands-agents-and-bedrock-3noa",
-    "pubDate": "Tue, 25 Nov 2025 01:20:00 +0000",
+    "title": "Breaking Down the True Cost of App Development in Canada in 2026",
+    "link": "https://dev.to/dits_marketing_5a30d3f55f/breaking-down-the-true-cost-of-app-development-in-canada-in-2026-g2b",
+    "pubDate": "Tue, 25 Nov 2025 06:10:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introducing Strands Agents & The YourDay Project Overview\n\n\nStrands Agents is a powerful, code-first framework that dramatically simplifies the process of building and operating complex, multi-tool Ag"
+    "contentSnippet": "Canada’s digital economy is scaling at an unprecedented velocity, driven by enterprise modernization, startup acceleration, and a surge in mobile-first service delivery across healthcare, fintech, ret"
   },
   {
-    "title": "Erase and Rewind: Surgically Removing Bias from AI Models",
-    "link": "https://dev.to/arvind_sundararajan/erase-and-rewind-surgically-removing-bias-from-ai-models-5250",
-    "pubDate": "Tue, 25 Nov 2025 01:02:06 +0000",
+    "title": "7 Must-Try Open-Source AI Coding Models for Privacy, Speed, and Control",
+    "link": "https://dev.to/aiwithapex/7-must-try-open-source-ai-coding-models-for-privacy-speed-and-control-2bk0",
+    "pubDate": "Tue, 25 Nov 2025 06:04:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Erase and Rewind: Surgically Removing Bias from AI Models\n\n\nImagine your groundbreaking AI, trained on a massive dataset, suddenly exhibits unwanted biases – perhaps discriminating against a specific "
+    "contentSnippet": "Most people think running AI coding models locally is confusing, slow, and not worth it—here's the simple playbook for private, fast dev that works ↓\nYou don't need the cloud to ship faster.\nYou need "
   },
   {
-    "title": "Stop decoding Hex manually. I built a Python J1939 Sniffer with a GUI (No Hardware Needed)",
-    "link": "https://dev.to/philyeh/stop-decoding-hex-manually-i-built-a-python-j1939-sniffer-with-a-gui-no-hardware-needed-1p8o",
-    "pubDate": "Tue, 25 Nov 2025 00:57:06 +0000",
+    "title": "Construyendo tu Propio C2 con Nim (Porque Python ya es muy Mainstream)",
+    "link": "https://dev.to/rventz/construyendo-tu-propio-c2-con-nim-porque-python-ya-es-muy-mainstream-3acj",
+    "pubDate": "Tue, 25 Nov 2025 06:04:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "After receiving the Top Docker Author badge last week for my Offline AI post (thanks everyone! 🙏), many of you asked about my workflow for hardware and vehicle networks.\nSo today, I'm switching gears"
+    "contentSnippet": "# Disclaimer: Úsalo solo en entornos que controles o tengas permiso explícito. Ya sabes, ética y esas cosas aburridas pero necesarias.\n\n\n\n\n\n\n  \n  \n  ¿Por Qué Nim? (Y Por Qué Deberías Prestarle Atenció"
   },
   {
-    "title": "Webfoundry gets GPT 5.1 Codex HTML generation through voice assistant",
-    "link": "https://dev.to/guiprav2/webfoundry-gets-gpt-51-codex-html-generation-through-voice-assistant-4o71",
-    "pubDate": "Tue, 25 Nov 2025 00:49:09 +0000",
+    "title": "The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.\r\n\r\nThey will be built by 5 people and AI. This isn’t a slogan.",
+    "link": "https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph",
+    "pubDate": "Tue, 25 Nov 2025 05:56:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "App URL: https://webfoundry.app/ (no account creation necessary)\nSo this is my visual app builder Webfoundry, I used it to create a handful web apps including MEATEOR, the P2P Grindr alternative I pos"
+    "contentSnippet": "Why the Next Unicorns Will Be Built With 5 People and AI\nJaideep Parashar ・ Nov 25\n#ai\n        #productivity\n        #performance\n        #devops"
   },
   {
     "title": "ワイヤレス給電システムを提供するスタートアップが、データベースとしてTiDBを選択する理由とは？［PR］",

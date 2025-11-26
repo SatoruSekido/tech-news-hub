@@ -1,73 +1,80 @@
 [
   {
-    "title": "Top 10 Mistakes Developers Still Make with Firebase in 2025",
-    "link": "https://dev.to/mridudixit15/top-10-mistakes-developers-still-make-with-firebase-in-2025-53ah",
-    "pubDate": "Wed, 26 Nov 2025 12:38:19 +0000",
+    "title": "Microservices Authentication & Authorization: A Beginner's Guide",
+    "link": "https://dev.to/rushier/microservices-authentication-authorization-a-beginners-guide-1hde",
+    "pubDate": "Wed, 26 Nov 2025 18:26:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Even in 2025, Firebase remains one of the most popular platforms for building real-time, serverless, and scalable applications. But with ease of use comes a new wave of misconfigurations, billing shoc"
+    "contentSnippet": "Hello there! If you've ever felt overwhelmed by the idea of securing a microservices architecture, you are not alone. It's a common stumbling block. In a monolithic app, you just check the session in "
   },
   {
-    "title": "How AI and Procedural Generation Are Transforming Role Play Game Development",
-    "link": "https://dev.to/sarah_taylor_c02e59164123/how-ai-and-procedural-generation-are-transforming-role-play-game-development-3ml4",
-    "pubDate": "Wed, 26 Nov 2025 12:37:54 +0000",
+    "title": "Data Lakes vs. Data Warehouses: Which Model Fits Your Use Case?",
+    "link": "https://dev.to/mathewpregasen/data-lakes-vs-data-warehouses-which-model-fits-your-use-case-46mm",
+    "pubDate": "Wed, 26 Nov 2025 18:25:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI and procedural generation are reshaping the RPG development landscape by enabling automatic content creation and adaptive game systems that respond dynamically to player behavior. This fusion allow"
+    "contentSnippet": "A few months ago, all of your startup’s data could be stored in just one database. Now, you’re overwhelmed by customer data from six separate services, and your operations team is requesting detailed "
   },
   {
-    "title": "Run React Native Background Tasks 2026 For Optimal Performance",
-    "link": "https://dev.to/eira-wexford/run-react-native-background-tasks-2026-for-optimal-performance-d26",
-    "pubDate": "Wed, 26 Nov 2025 12:37:53 +0000",
+    "title": "What is Nuxeo? A brutally honest assessment from 10+ years of implementation",
+    "link": "https://dev.to/thecontenthorizon/what-is-nuxeo-a-brutally-honest-assessment-from-10-years-of-implementation-1ae6",
+    "pubDate": "Wed, 26 Nov 2025 18:22:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mobile users expect their apps to work silently, even when the screen is off. If your app stops syncing data, playing music, or tracking location the moment it minimizes, you lose users immediately.\nB"
+    "contentSnippet": "After a decade training Nuxeo developers, I can predict when someone quits: Day three.\nThey're drowning in diagrams trying to understand document models, schemas, facets, repositories, event buses, li"
   },
   {
-    "title": "We Used Claude to Build an Entire n8n Workflow in Minutes: Here’s What Actually Happened",
-    "link": "https://dev.to/ciphernutz/we-used-claude-to-build-an-entire-n8n-workflow-in-minutes-heres-what-actually-happened-3nd7",
-    "pubDate": "Wed, 26 Nov 2025 12:37:40 +0000",
+    "title": "I Built an Animated UI Library for CSS Haters",
+    "link": "https://dev.to/karan_k/i-built-an-animated-ui-library-for-css-haters-1nn6",
+    "pubDate": "Wed, 26 Nov 2025 18:22:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever built workflows in Zapier, Make, or custom code, you already know the truth:\nn8n is powerful, but building complex workflows, API calls, loops, conditions, error handling-can feel overw"
+    "contentSnippet": "Hello Everyone,\nMy name is Karan, and I'm a Frontend Developer, but I feel like I'm more of a Design Engineer because of my love for creating UIs\nWhen I started my development journey, I fell for fron"
   },
   {
-    "title": "Why Decentralized Exchanges Matter More Than Ever for Developers",
-    "link": "https://dev.to/umang_suthar_9bad6f345a8a/why-decentralized-exchanges-matter-more-than-ever-for-developers-ik9",
-    "pubDate": "Wed, 26 Nov 2025 12:36:35 +0000",
+    "title": "Type hints in Python (6)",
+    "link": "https://dev.to/hyperkai/type-hints-in-python-6-5d84",
+    "pubDate": "Wed, 26 Nov 2025 18:17:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most crypto trading still relies on centralized systems; fast, yes, but fragile.\n\nA decentralized exchange flips that model entirely.\nWith trustless execution, transparent mechanics, and user-owned as"
+    "contentSnippet": "Buy Me a Coffee☕\n*Memo:\nMy post explains type hints (1).\nMy post explains type hints (2).\nMy post explains type hints (3).\nMy post explains type hints (4).\nMy post explains type hints (5).\nCallable an"
   },
   {
-    "title": "Preparing Your Business for Scalability: Technical & Process Considerations",
-    "link": "https://dev.to/deeksha_gupta_c32bad80064/preparing-your-business-for-scalability-technical-process-considerations-38o6",
-    "pubDate": "Wed, 26 Nov 2025 12:36:12 +0000",
+    "title": "Mastering Python Code Quality: A No-Nonsense Guide to Tools That Actually Prevent Technical Debt",
+    "link": "https://dev.to/djinn-soul/-mastering-python-code-quality-a-no-nonsense-guide-to-tools-that-actually-prevent-technical-debt-21b2",
+    "pubDate": "Wed, 26 Nov 2025 18:10:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the rapidly evolving digital economy, companies need to be able to scale quickly without impacting performance, efficiency or the customer experience. The ability to scale is no longer a competitiv"
+    "contentSnippet": "Hey fellow engineers—tired of codebases that start clean and end up as tangled messes? You're not alone. Most teams slap on a linter and a formatter, pat themselves on the back, and then spend years w"
   },
   {
-    "title": "Still Reaching for Spring? Then You Might Still Think Happy Meals Are Fine Dining.",
-    "link": "https://dev.to/leonpennings/still-reaching-for-spring-then-you-might-still-think-happy-meals-are-fine-dining-42n2",
-    "pubDate": "Wed, 26 Nov 2025 12:28:32 +0000",
+    "title": "Temporal Workflow Orchestration: Building Reliable Agentic AI Systems",
+    "link": "https://dev.to/akki907/temporal-workflow-orchestration-building-reliable-agentic-ai-systems-3bpm",
+    "pubDate": "Wed, 26 Nov 2025 18:07:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Spring is paradoxical.\n\nIt “solves” problems it created — and trained a generation of developers to understand Spring, not software engineering.\nDependency Injection everywhere (even when there’s 1 im"
+    "contentSnippet": "Introduction\n\n\nIn the world of distributed systems and agentic AI, managing complex, long-running workflows reliably is a significant challenge. Traditional approaches often struggle with failures, st"
   },
   {
-    "title": "Multitenancy in Yii2: Practical Guide and Code Examples",
-    "link": "https://dev.to/amaristany/multitenancy-in-yii2-practical-guide-and-code-examples-4b5l",
-    "pubDate": "Wed, 26 Nov 2025 12:27:47 +0000",
+    "title": "VueFinder — A Modern File Manager for Vue",
+    "link": "https://dev.to/n1crack/vuefinder-a-modern-file-manager-for-vue-3ge5",
+    "pubDate": "Wed, 26 Nov 2025 18:07:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Multitenancy in Yii2: Practical Guide and Code Examples\n\n\nMultitenancy is a powerful architectural pattern that allows a single application instance to serve multiple tenants (clients or organizations"
+    "contentSnippet": "If you’ve ever needed a fast, flexible, and framework-friendly file manager for your Vue applications, VueFinder might be exactly what you’re looking for.\nOriginally built as a small utility, it has e"
   },
   {
-    "title": "I Built an AI Chatbot Wrong (And What I Learned About Cloudflare's AI Search)",
-    "link": "https://dev.to/dannwaneri/i-built-an-ai-chatbot-wrong-and-what-i-learned-about-cloudflares-ai-search-feo",
-    "pubDate": "Wed, 26 Nov 2025 12:20:20 +0000",
+    "title": "My Journey Into Cloud Engineering: Embracing the Shift",
+    "link": "https://dev.to/onuoha/my-journey-into-cloud-engineering-embracing-the-shift-2pi2",
+    "pubDate": "Wed, 26 Nov 2025 18:07:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Last week, I spent over two hours helping a client build an AI-powered chatbot for their wellness e-commerce site. I set up a sophisticated RAG system using Cloudflare Vectorize, wrote custom vectoriz"
+    "contentSnippet": "Working in hospital theatre recovery has taught me the importance of precision, adaptability, and reliable systems. Beyond patient care, I’ve also been closely involved with managing data, coordinatin"
   },
   {
-    "title": "Why Your Playwright Test Reports Are Messy (And How test.step() Fixes It)",
-    "link": "https://dev.to/pratik01/why-your-playwright-test-reports-are-messy-and-how-teststep-fixes-it-1hem",
-    "pubDate": "Wed, 26 Nov 2025 12:17:50 +0000",
+    "title": "Panic in the sandbox",
+    "link": "https://dev.to/adam_weber_6dc0d5bd752326/panic-in-the-sandbox-1aek",
+    "pubDate": "Wed, 26 Nov 2025 18:05:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You’ve written solid Playwright tests.\n“Test failed: should complete checkout flow”\nNo clear reason.\nThis isn’t a tooling problem.\ntest structure problem.\nMost Playwright tests look like this:\njs\n\ntes"
+    "contentSnippet": "Day 1 — Trying to get the QEMU kernel sandbox going\n\n\nTime to setup the environment for kernel development. Rather than risk shooting myself in the foot on my bare host, I decided to: build a custom k"
+  },
+  {
+    "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",
+    "link": "https://www.publickey1.jp/blog/25/kubernetesawsamazon_eks_mcp_server.html",
+    "pubDate": "2025-11-26T15:39:23.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、複雑なkubectlコマンドや深いKubernetesの専門知識を用いなくとも、自然言語でKubernetesに指示をして運用や管理を可能にするフルマネージドな新サービス「Amazon EKS MCP Server」のプレビュー公開を発表しました。 Amazon EKS（Amazon Elastic Kubernetes Service）は、AW"
   },
   {
     "title": "エンジニアの「絵で説明して」問題、Nano Banana Pro（Gemini 3 Pro Image）でどこまで解消できるか試してみた",
@@ -271,12 +278,5 @@
     "pubDate": "2025-11-18T15:35:35.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュアに"
-  },
-  {
-    "title": "VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援",
-    "link": "https://www.publickey1.jp/blog/25/vs_codeplancopilot.html",
-    "pubDate": "2025-11-17T15:14:53.000Z",
-    "source": "Publickey",
-    "contentSnippet": "無償のコードエディタ「Visual Studio Code」（以下、VS Code）の最新版として今月（2025年11月）にリリースされた「VS Code October 2025 (version 1.106)」で、仕様や実装計画の作成をCopilotが支援してくれる「Planエージェント」機能が搭載されたことが明らかになりました。 Learn more about these features"
   }
 ]

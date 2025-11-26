@@ -1,73 +1,73 @@
 [
   {
-    "title": "AI Specification Driven Development",
-    "link": "https://dev.to/rillus/ai-specification-driven-development-4n93",
-    "pubDate": "Wed, 26 Nov 2025 02:02:12 +0000",
+    "title": "Why Your React App Lags but This Canvas Game Runs at 60FPS",
+    "link": "https://dev.to/yzbkaka_dev/why-your-react-app-lags-but-this-canvas-game-runs-at-60fps-2h1d",
+    "pubDate": "Wed, 26 Nov 2025 06:40:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Back in October I stood in front of a room of engineers at John Lewis' head office and delivered my presentation on Specification Driven Development. After the talk, lots of people still had questions"
+    "contentSnippet": "We need to talk about the state of modern web development.\nYesterday, I profiled a simple corporate dashboard. It had a bundle size of 2.4MB (gzipped), took 3 seconds to reach Time to Interactive (TTI"
   },
   {
-    "title": "Source Code Analysis of the Nonlinear Chinese-Style Reporting Engine NopReport",
-    "link": "https://dev.to/canonical/source-code-analysis-of-the-nonlinear-chinese-style-reporting-engine-nopreport-2d21",
-    "pubDate": "Wed, 26 Nov 2025 01:52:25 +0000",
+    "title": "How to Build Agentic AI Systems: A Guide for Engineering Leaders",
+    "link": "https://dev.to/ioweb_961ddefd53bd65fce97/how-to-build-agentic-ai-systems-a-guide-for-engineering-leaders-2nj7",
+    "pubDate": "Wed, 26 Nov 2025 06:29:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In daily development, we often need to import and export Excel data, generate Excel and Word reports, etc. Common packages like easyexcel and poi-tl rely on the underlying POI engine, which is bulky a"
+    "contentSnippet": "The promise of Artificial Intelligence has evolved from generating content to taking action. Engineering leaders are now tasked with a new challenge: how to build agentic AI systems that are reliable,"
   },
   {
-    "title": "Open-source Chinese-style reporting engine using Excel as the designer: NopReport",
-    "link": "https://dev.to/canonical/open-source-chinese-style-reporting-engine-using-excel-as-the-designer-nopreport-2j20",
-    "pubDate": "Wed, 26 Nov 2025 01:39:36 +0000",
+    "title": "How I Reverse-Engineered Perplexity’s Referral Signup",
+    "link": "https://dev.to/picklepixel/how-i-reverse-engineered-perplexitys-referral-signup-4f04",
+    "pubDate": "Wed, 26 Nov 2025 06:27:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Chinese-style reports are synonymous with complex-structure reports. They broadly refer to summary reports commonly found in domestic information systems, presenting multi-source data in the form of r"
+    "contentSnippet": "I wasn't trying to change the world, I just didn't want to spend 30 minutes per signup\nI was a campus partner for Perplexity which means every signup is 15$ in my pocket, as a student this sounds grea"
   },
   {
-    "title": "shadcn-components-blocks: 100+ UI Components for React/Next.js",
-    "link": "https://dev.to/jqueryscript/shadcn-components-blocks-100-ui-components-for-reactnextjs-41o7",
-    "pubDate": "Wed, 26 Nov 2025 01:39:28 +0000",
+    "title": "Under the Hood: pyscn — A High-Performance Python Analyzer for the AI Era",
+    "link": "https://dev.to/djinn-soul/under-the-hood-pyscn-a-high-performance-python-analyzer-for-the-ai-era-3e8l",
+    "pubDate": "Wed, 26 Nov 2025 06:26:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "shadcn-components-blocks adds over 100 production-ready components to your shadcn/ui projects.\nKey features:\nCheck the documentation site to browse the full catalog and grab the installation commands "
+    "contentSnippet": "pyscn: Keeping AI-Generated Python Code Clean with Structural Analysis\n\n\nAs developers rely more on AI tools to generate large amounts of code, maintaining code quality becomes increasingly challengin"
   },
   {
-    "title": "The 2025 Tech Layoff Cycle Isn’t the Real Threat, It’s What Comes After",
-    "link": "https://dev.to/brandonkylebailey/the-2025-tech-layoff-cycle-isnt-the-real-threat-its-what-comes-after-4cf7",
-    "pubDate": "Wed, 26 Nov 2025 01:31:54 +0000",
+    "title": "We’re Already There: Exocogence Is Here Now",
+    "link": "https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe",
+    "pubDate": "Wed, 26 Nov 2025 06:15:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Title: The 2025 Tech Layoff Cycle Isn’t the Real Threat — It’s What Comes After\nEveryone keeps staring at layoff numbers, but that’s not what’s putting devs out of work. The real danger is simpler: hi"
+    "contentSnippet": "I. The Ambient Revolution\n\n\nI keep seeing the same moment at work.\nYou’re on a call, someone’s sharing their screen, you toss out a weird angle on the problem. Not wrong, just slightly sideways. They "
   },
   {
-    "title": "createElementNS、setAttribute()、SVG 的 viewBox 属性、`<svg>`",
-    "link": "https://dev.to/nikimunger/createelementns-setattribute-svg-de-viewbox-shu-xing--cbg",
-    "pubDate": "Wed, 26 Nov 2025 01:25:23 +0000",
+    "title": "Day 54 of 100 days dsa coding challenge",
+    "link": "https://dev.to/manasi_patil_/day-54-of-100-days-dsa-coding-challenge-4b2o",
+    "pubDate": "Wed, 26 Nov 2025 06:12:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "createElementNS\n\n\n\n\n\ndocument.createElementNS(namespaceURL, tagName)\n\nnamespaceURL（命名空间 URL）\n'http://www.w3.org/2000/svg'\n\nMathML 用：\n'http://www.w3.org/1998/Math/MathML'\n\ntagName（元素名称）\n'svg'\n'circle'\n"
+    "contentSnippet": "Taking on a new challenge: solving GeeksforGeeks POTD daily and sharing my solutions! 💻🔥\nProblem:\n\nhttps://www.geeksforgeeks.org/problems/and-operation5726/1\nAND In Range\nDifficulty: Medium  Accurac"
   },
   {
-    "title": "Class and Object in java",
-    "link": "https://dev.to/vishnu_vishnu_856744a4421/class-and-object-in-java-1562",
-    "pubDate": "Wed, 26 Nov 2025 01:23:12 +0000",
+    "title": "We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?",
+    "link": "https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl",
+    "pubDate": "Wed, 26 Nov 2025 06:09:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is class?\nA class in Java is a Blueprint or template from which an object is created.  The object is defined by the Structure and behaviour(methods) that objects of that class will possess.\n\n\nIt "
+    "contentSnippet": "I don’t code.\nBut I spend my days around people who do — the late-night builders, the tab-vs-space philosophers, the “I’ll fix it in 5 minutes” liars (we all know it’s never 5 minutes :P).\nAnd being s"
   },
   {
-    "title": "DevConnect 2025",
-    "link": "https://dev.to/kubo_sk/devconnect-2025-l5b",
-    "pubDate": "Wed, 26 Nov 2025 01:11:39 +0000",
+    "title": "GraphBit's Memory Efficiency Techniques: Code-Backed Strategies for Optimization",
+    "link": "https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7",
+    "pubDate": "Wed, 26 Nov 2025 06:09:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "DevConnect is Ethereum’s annual week of deep-dive community events. in 2025, it took place in Buenos Aires - the region where crypto actually runs day-to-day finance.\nI’ve broken it down to the struct"
+    "contentSnippet": "Below is a concise, code‑verified summary of GraphBit’s memory efficiency techniques, with short excerpts and file paths.\n1) Memory‑optimized executor profile\n\n\n\nPurpose: run in constrained environmen"
   },
   {
-    "title": "El conocimiento lingüístico en NLP: el puente entre la sintaxis y la semántica",
-    "link": "https://dev.to/vicodev/el-conocimiento-linguistico-en-nlp-el-puente-entre-la-sintaxis-y-la-semantica-2m8a",
-    "pubDate": "Wed, 26 Nov 2025 01:10:49 +0000",
+    "title": "Why Indian Temples Need Digital Solutions: A Tech Perspective",
+    "link": "https://dev.to/mobilesutra_technologies_/why-indian-temples-need-digital-solutions-a-tech-perspective-5g5",
+    "pubDate": "Wed, 26 Nov 2025 06:09:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "La inteligencia artificial moderna ha avanzado enormemente en el procesamiento de lenguaje natural (NLP), pero sigue enfrentándose a una pregunta esencial: ¿entienden las máquinas el lenguaje o simple"
+    "contentSnippet": "As developers, when we talk about “digitization,” we usually think of startups, enterprise systems, or e-commerce. But temples face the same kind of operational challenges that businesses do—sometimes"
   },
   {
-    "title": "Linguistic Knowledge in NLP: bridging syntax and semantics",
-    "link": "https://dev.to/vicodev/linguistic-knowledge-in-nlp-bridging-syntax-and-semantics-11a7",
-    "pubDate": "Wed, 26 Nov 2025 01:10:19 +0000",
+    "title": "10 Figma Shortcuts You Must Know (2025 Edition)",
+    "link": "https://dev.to/pixel_mosaic/10-figma-shortcuts-you-must-know-2025-edition-23ag",
+    "pubDate": "Wed, 26 Nov 2025 06:02:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern artificial intelligence has made tremendous progress in natural language processing (NLP), yet it still faces a profound question: do machines truly understand language, or are they simply mimi"
+    "contentSnippet": "Speed matters — especially when you're designing in Figma. Whether you're working on UI screens, illustrations, or prototypes, the right shortcuts can save minutes on every task (which adds up fast).\n"
   },
   {
     "title": "Rubyの次バージョンは「Ruby 4.0」に。「Ruby 4.0 Preview2」がリリース",

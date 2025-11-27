@@ -1,73 +1,73 @@
 [
   {
-    "title": "Create and Sell Custom WordPress Themes: A Dev’s Guide to Earning Big",
-    "link": "https://dev.to/softwaredeveloperhub01/create-and-sell-custom-wordpress-themes-a-devs-guide-to-earning-big-3jaf",
-    "pubDate": "Thu, 27 Nov 2025 01:52:00 +0000",
+    "title": "Definition of Services in Kubernetes",
+    "link": "https://dev.to/itsmecharan7/definition-of-services-in-kubernetes-36if",
+    "pubDate": "Thu, 27 Nov 2025 06:23:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Are you a developer looking to turn your WordPress skills into a reliable stream of income?\nYou’re not alone. With millions of websites running on WordPress, the demand for custom themes and plugins h"
+    "contentSnippet": "A Service in Kubernetes is an object that provides a stable IP address, DNS name, and consistent network access to a group of Pods.\nBecause Pods are temporary — they die, restart, or get new IPs — a S"
   },
   {
-    "title": "AI-Generated Code: Is It Good or Bad?",
-    "link": "https://dev.to/andersoncontreira/ai-generated-code-is-it-good-or-bad-2p70",
-    "pubDate": "Thu, 27 Nov 2025 01:45:48 +0000",
+    "title": "Types of Chatbots: Rule-Based, NLP & AI Chatbots Explained (Insights from DGTL Tech Hub)",
+    "link": "https://dev.to/dgtltechhub/types-of-chatbots-rule-based-nlp-ai-chatbots-explained-insights-from-dgtl-tech-hub-2ohb",
+    "pubDate": "Thu, 27 Nov 2025 06:19:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Developers should stop wasting time debating whether AI-generated code is “good” or “bad” and start focusing on how to use it intelligently and responsibly.\nAI does not replace technical knowledge or "
+    "contentSnippet": "Chatbots have become an essential part of modern business communication. Whether it's answering customer questions, guiding online shoppers, or generating new leads, chatbots help companies save time "
   },
   {
-    "title": "He Stood Between Me and the Stones: A Deep Walk Through John 8",
-    "link": "https://dev.to/douglasvandergraph/he-stood-between-me-and-the-stones-a-deep-walk-through-john-8-4ej1",
-    "pubDate": "Thu, 27 Nov 2025 01:44:57 +0000",
+    "title": "Forget Wall Street: Here’s How to Create the Best Stock Screener Yourself",
+    "link": "https://dev.to/djinn/forget-wall-street-heres-how-to-create-the-best-stock-screener-yourself-4k2i",
+    "pubDate": "Thu, 27 Nov 2025 06:19:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "There are chapters in Scripture that sit quietly on the page until your life finally reaches the moment where you can hear them. Chapters that wait for your wounds to be open enough, your heart to be "
+    "contentSnippet": "Stock Screeners for Math People: Build Your Own\n\n\nA stock screener is just a function. You don't need Wall Street, a fancy terminal, or YouTube. If you know high school math and Python, you can build "
   },
   {
-    "title": "API Request Limiter Challenge",
-    "link": "https://dev.to/fosres/api-request-limiter-challenge-5dc1",
-    "pubDate": "Thu, 27 Nov 2025 01:40:12 +0000",
+    "title": "🚀 Terraform Azure Infrastructure (Modular Architecture + DevSecOps)",
+    "link": "https://dev.to/techmademi/terraform-azure-infrastructure-modular-architecture-devsecops-291p",
+    "pubDate": "Thu, 27 Nov 2025 06:17:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Time to complete: 30-60 minutes\n\nDifficulty: Intermediate\n\nSkills tested: Application Security, Algorithm Design, Edge Case Handling\nIn April 2020, security researcher Tom Anthony discovered he could "
+    "contentSnippet": "Code Structure\n\n\n\n\n\n.\n├── azure-pipelines.yml                 # Azure DevOps CI/CD pipeline \n├── main\n│   ├── main.tf                         # Module orchestration\n│   ├── provider.tf                "
   },
   {
-    "title": "Conquer Any Screen: Responsive Design Best Practices for a Seamless User Experience",
-    "link": "https://dev.to/muhammad_fayzliaqat_cc8b/conquer-any-screen-responsive-design-best-practices-for-a-seamless-user-experience-4082",
-    "pubDate": "Thu, 27 Nov 2025 01:27:05 +0000",
+    "title": "The Shopify products.json Trick: Scrape Any Store 25x Faster with Python",
+    "link": "https://dev.to/dentedlogic/the-shopify-productsjson-trick-scrape-any-store-25x-faster-with-python-4p95",
+    "pubDate": "Thu, 27 Nov 2025 06:14:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Conquer Any Screen: Responsive Design Best Practices for a Seamless User Experience\n\n\nIn today's hyper-connected world, users are accessing websites on a dizzying array of devices, from smartphones an"
+    "contentSnippet": "If you’ve ever done any web scraping, you know how annoying it is to parse HTML: finding parents of elements, navigating through a web of xml tags, hoping CSS selectors don’t change over time and brea"
   },
   {
-    "title": "Suite 33: A business management platform for SMEs.",
-    "link": "https://dev.to/rahmannugar/suite-33-a-business-management-platform-for-smes-1gdl",
-    "pubDate": "Thu, 27 Nov 2025 01:26:49 +0000",
+    "title": "Shared Namespaces",
+    "link": "https://dev.to/itsmecharan7/shared-namespaces-fpm",
+    "pubDate": "Thu, 27 Nov 2025 06:11:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Running a small or medium sized business is difficult enough when operations are structured. Small and medium sized enterprises often rely on manual processes to run their operations. Sales are record"
+    "contentSnippet": "🧠 First: What is a Namespace in Linux?\n\n\n\n\n\nA namespace in Linux is a boundary or an isolation mechanism.\nIt decides what a process is allowed to see on the system.\nThink of it like:\nA private room i"
   },
   {
-    "title": "Level Up Your Database Game: Mastering Key Design Patterns",
-    "link": "https://dev.to/muhammad_fayzliaqat_cc8b/level-up-your-database-game-mastering-key-design-patterns-7d5",
-    "pubDate": "Thu, 27 Nov 2025 01:24:30 +0000",
+    "title": "Project-Based Learning With 3D Design and Printing: Transforming Classrooms Through Creative Making",
+    "link": "https://dev.to/julia970/project-based-learning-with-3d-design-and-printing-transforming-classrooms-through-creative-making-51k5",
+    "pubDate": "Thu, 27 Nov 2025 06:07:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Level Up Your Database Game: Mastering Key Design Patterns\n\n\nBuilding efficient and scalable databases isn't just about knowing SQL. It's about crafting a robust architecture that can handle complex d"
+    "contentSnippet": "Project-Based Learning With 3D Design and Printing: Transforming Classrooms Through Creative Making\nEducation has shifted from passive learning to active, hands-on engagement. Among the most transform"
   },
   {
-    "title": "🚀 Hosting My Portfolio on KillerCoda Using Nginx",
-    "link": "https://dev.to/josephosuorji/hosting-my-portfolio-on-killercoda-using-nginx-44k7",
-    "pubDate": "Thu, 27 Nov 2025 01:24:22 +0000",
+    "title": "From PNG to PDF — Exploring the Design Behind PNG to PDF",
+    "link": "https://dev.to/yabin/from-png-to-pdf-exploring-the-design-behind-png-to-pdf-4916",
+    "pubDate": "Thu, 27 Nov 2025 06:06:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Hands-On DevOps Practice Task\nDuring one of our DevOps sessions in the Tech With Achievers bootcamp, our tutor gave us a practical assignment:\nCreate a personal portfolio and host it using Nginx on "
+    "contentSnippet": "If you often need to convert PNG images (screenshots, UI designs, scans, etc.) into PDF documents, pngtopdf.io offers a lightweight, fast, cross-platform solution.\n🧠 Why Do We Need a PNG → PDF Tool?\n"
   },
   {
-    "title": "Unlocking Data Narratives: Visualizing Information Flow with Concept Graphs",
-    "link": "https://dev.to/arvind_sundararajan/unlocking-data-narratives-visualizing-information-flow-with-concept-graphs-2l18",
-    "pubDate": "Thu, 27 Nov 2025 01:02:10 +0000",
+    "title": "Building My Own HTTP Server in TypeScript",
+    "link": "https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a",
+    "pubDate": "Thu, 27 Nov 2025 06:04:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Unlocking Data Narratives: Visualizing Information Flow with Concept Graphs\n\n\nDrowning in data but struggling to see the big picture? Do you find it challenging to translate complex data streams into "
+    "contentSnippet": "How I Started\n\n\nWhen I started my journey with web development, after some weeks I kept hearing about \"requests\" and \"responses.\" Wait! What is a request? What is a response? Why does HTTP exist, and "
   },
   {
-    "title": "Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension",
-    "link": "https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9",
-    "pubDate": "Thu, 27 Nov 2025 01:00:12 +0000",
+    "title": "Gemini 3.0: Stop Arguing Models—Start Rewiring Work",
+    "link": "https://dev.to/aiwithapex/gemini-30-stop-arguing-models-start-rewiring-work-5c71",
+    "pubDate": "Thu, 27 Nov 2025 06:04:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension\n\n\n\nIf you've been using TCJSGame for your 2D web games, you've probably noticed that performance can become an issue as your games"
+    "contentSnippet": "Everyone's talking about Google's Gemini 3.0, but the real opportunity isn't model vs model—it’s how UI understanding will reshape your daily work.\nMost teams will wait for the press release.\nThe smar"
   },
   {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",
@@ -77,7 +77,7 @@
     "contentSnippet": "Amazon Web Services（AWS）は、複雑なkubectlコマンドや深いKubernetesの専門知識を用いなくとも、自然言語でKubernetesに指示をして運用や管理を可能にするフルマネージドな新サービス「Amazon EKS MCP Server」のプレビュー公開を発表しました。 Amazon EKS（Amazon Elastic Kubernetes Service）は、AW"
   },
   {
-    "title": "「その Dockerfile、卒業しよう」実務で通用するベストプラクティス",
+    "title": "「そのDockerfile、卒業しよう」実務で通用するベストプラクティス",
     "link": "https://zenn.dev/isawa/articles/a721641613f013",
     "pubDate": "Wed, 26 Nov 2025 12:00:05 GMT",
     "source": "Zenn",

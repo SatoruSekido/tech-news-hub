@@ -1,73 +1,108 @@
 [
   {
-    "title": "Definition of Services in Kubernetes",
-    "link": "https://dev.to/itsmecharan7/definition-of-services-in-kubernetes-36if",
-    "pubDate": "Thu, 27 Nov 2025 06:23:11 +0000",
+    "title": "🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD",
+    "link": "https://dev.to/latchudevops/task-3-enable-autosync-health-checks-self-heal-in-argocd-3pap",
+    "pubDate": "Thu, 27 Nov 2025 12:49:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Service in Kubernetes is an object that provides a stable IP address, DNS name, and consistent network access to a group of Pods.\nBecause Pods are temporary — they die, restart, or get new IPs — a S"
+    "contentSnippet": "ArgoCD is powerful because it continuously watches Git and your cluster, and keeps them in sync.\n✅ Auto-Sync\nAutomatically apply changes from Git to the cluster.\n✅ Self-Heal\nIf someone manually edits "
   },
   {
-    "title": "Types of Chatbots: Rule-Based, NLP & AI Chatbots Explained (Insights from DGTL Tech Hub)",
-    "link": "https://dev.to/dgtltechhub/types-of-chatbots-rule-based-nlp-ai-chatbots-explained-insights-from-dgtl-tech-hub-2ohb",
-    "pubDate": "Thu, 27 Nov 2025 06:19:54 +0000",
+    "title": "Ensuring Message Order in Distributed Systems: Addressing Pub/Sub Ordering Key Limitations with Subscriber-side Sorting",
+    "link": "https://dev.to/einfochips/ensuring-message-order-in-distributed-systems-addressing-pubsub-ordering-key-limitations-with-5f0o",
+    "pubDate": "Thu, 27 Nov 2025 12:40:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Chatbots have become an essential part of modern business communication. Whether it's answering customer questions, guiding online shoppers, or generating new leads, chatbots help companies save time "
+    "contentSnippet": "Executive Summary\n\n\nIn event-driven and distributed architectures, preserving the order of messages is critical for maintaining state consistency, processing accuracy, and system reliability. Google C"
   },
   {
-    "title": "Forget Wall Street: Here’s How to Create the Best Stock Screener Yourself",
-    "link": "https://dev.to/djinn/forget-wall-street-heres-how-to-create-the-best-stock-screener-yourself-4k2i",
-    "pubDate": "Thu, 27 Nov 2025 06:19:03 +0000",
+    "title": "4. PYTHON ESSENTIALS FOR AI/ML (Advanced OOP)",
+    "link": "https://dev.to/m_t_ramkrushna/4-python-essentials-for-aiml-advanced-oop-dg1",
+    "pubDate": "Thu, 27 Nov 2025 12:34:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Stock Screeners for Math People: Build Your Own\n\n\nA stock screener is just a function. You don't need Wall Street, a fancy terminal, or YouTube. If you know high school math and Python, you can build "
+    "contentSnippet": "1. Class Methods (@classmethod)\n\n\n\n  \n  \n  What it is\n\n\nA method that belongs to the class, not an individual object.\ncls instead of self.\nCreating alternative constructors\n\nTracking class-level data\n"
   },
   {
-    "title": "🚀 Terraform Azure Infrastructure (Modular Architecture + DevSecOps)",
-    "link": "https://dev.to/techmademi/terraform-azure-infrastructure-modular-architecture-devsecops-291p",
-    "pubDate": "Thu, 27 Nov 2025 06:17:02 +0000",
+    "title": "5. PYTHON ESSENTIALS FOR AI/ML (List & Dictionary Comprehensions)",
+    "link": "https://dev.to/m_t_ramkrushna/5-python-essentials-for-aiml-list-dictionary-comprehensions-2fi5",
+    "pubDate": "Thu, 27 Nov 2025 12:34:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Code Structure\n\n\n\n\n\n.\n├── azure-pipelines.yml                 # Azure DevOps CI/CD pipeline \n├── main\n│   ├── main.tf                         # Module orchestration\n│   ├── provider.tf                "
+    "contentSnippet": "🛒 1. What Are Comprehensions?\n\n\nComprehensions are a compact and expressive way to create lists and dictionaries.\nInstead of writing long loops, you write everything in one clean line.\nWithout compre"
   },
   {
-    "title": "The Shopify products.json Trick: Scrape Any Store 25x Faster with Python",
-    "link": "https://dev.to/dentedlogic/the-shopify-productsjson-trick-scrape-any-store-25x-faster-with-python-4p95",
-    "pubDate": "Thu, 27 Nov 2025 06:14:44 +0000",
+    "title": "Ethereum's Interop Layer (EIL), Sequence's Unified Payments, Eth Updated Roadmap at Devconnect, EIP-7702 Infra Integration",
+    "link": "https://dev.to/etherspot/ethereums-interop-layer-eil-sequences-unified-payments-eth-updated-roadmap-at-devconnect-352k",
+    "pubDate": "Thu, 27 Nov 2025 12:31:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever done any web scraping, you know how annoying it is to parse HTML: finding parents of elements, navigating through a web of xml tags, hoping CSS selectors don’t change over time and brea"
+    "contentSnippet": "We are welcoming you to our weekly digest! Here, we discuss the latest trends and advancements in account abstraction, chain abstraction and everything related, as well as bring some insights from Eth"
   },
   {
-    "title": "Shared Namespaces",
-    "link": "https://dev.to/itsmecharan7/shared-namespaces-fpm",
-    "pubDate": "Thu, 27 Nov 2025 06:11:04 +0000",
+    "title": "Fashion Predictions: What Men Will Be Wearing Next Year",
+    "link": "https://dev.to/stylesphereaa/fashion-predictions-what-men-will-be-wearing-next-year-50ga",
+    "pubDate": "Thu, 27 Nov 2025 12:28:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🧠 First: What is a Namespace in Linux?\n\n\n\n\n\nA namespace in Linux is a boundary or an isolation mechanism.\nIt decides what a process is allowed to see on the system.\nThink of it like:\nA private room i"
+    "contentSnippet": "Men’s fashion is heading into one of its most interesting phases yet. As culture shifts and comfort becomes a priority, trends are evolving in ways that feel fresh but still practical. The modern man "
   },
   {
-    "title": "Project-Based Learning With 3D Design and Printing: Transforming Classrooms Through Creative Making",
-    "link": "https://dev.to/julia970/project-based-learning-with-3d-design-and-printing-transforming-classrooms-through-creative-making-51k5",
-    "pubDate": "Thu, 27 Nov 2025 06:07:34 +0000",
+    "title": "Tattoo Studio Croydon: Finding the Right Artists for Quality, Safety & Style",
+    "link": "https://dev.to/nsdtattoo/tattoo-studio-croydon-finding-the-right-artists-for-quality-safety-style-277e",
+    "pubDate": "Thu, 27 Nov 2025 12:25:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Project-Based Learning With 3D Design and Printing: Transforming Classrooms Through Creative Making\nEducation has shifted from passive learning to active, hands-on engagement. Among the most transform"
+    "contentSnippet": "When it comes to getting inked, choosing the right Tattoo Studio Croydon is just as important as choosing the tattoo itself. The studio you select determines the quality, hygiene, professionalism, saf"
   },
   {
-    "title": "From PNG to PDF — Exploring the Design Behind PNG to PDF",
-    "link": "https://dev.to/yabin/from-png-to-pdf-exploring-the-design-behind-png-to-pdf-4916",
-    "pubDate": "Thu, 27 Nov 2025 06:06:26 +0000",
+    "title": "Revolutionize Developer Revenue with Monetzly's AI Conversation API",
+    "link": "https://dev.to/monetzly/revolutionize-developer-revenue-with-monetzlys-ai-conversation-api-22o8",
+    "pubDate": "Thu, 27 Nov 2025 12:25:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you often need to convert PNG images (screenshots, UI designs, scans, etc.) into PDF documents, pngtopdf.io offers a lightweight, fast, cross-platform solution.\n🧠 Why Do We Need a PNG → PDF Tool?\n"
+    "contentSnippet": "The Future of Advertising in AI Conversations: Meet Monetzly\n\n\nAdvertising is evolving. As AI applications continue to explode, traditional monetization models are struggling to keep pace without disr"
   },
   {
-    "title": "Building My Own HTTP Server in TypeScript",
-    "link": "https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a",
-    "pubDate": "Thu, 27 Nov 2025 06:04:51 +0000",
+    "title": "5 Ways AI Workflow Automation Boosts Business Processes",
+    "link": "https://dev.to/mygom/5-ways-ai-workflow-automation-boosts-business-processes-55o5",
+    "pubDate": "Thu, 27 Nov 2025 12:22:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How I Started\n\n\nWhen I started my journey with web development, after some weeks I kept hearing about \"requests\" and \"responses.\" Wait! What is a request? What is a response? Why does HTTP exist, and "
+    "contentSnippet": "Look, we have seen dozens of companies automate their workflows over the past few years. But most of them just digitized their mess. They took broken processes, slapped some Zapier on them, and called"
   },
   {
-    "title": "Gemini 3.0: Stop Arguing Models—Start Rewiring Work",
-    "link": "https://dev.to/aiwithapex/gemini-30-stop-arguing-models-start-rewiring-work-5c71",
-    "pubDate": "Thu, 27 Nov 2025 06:04:49 +0000",
+    "title": "Why Choose Hailo AI Accelerators for Edge AI over Traditional GPUs?",
+    "link": "https://dev.to/revinetech/why-choose-hailo-ai-accelerators-for-edge-ai-over-traditional-gpus-41gm",
+    "pubDate": "Thu, 27 Nov 2025 12:18:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everyone's talking about Google's Gemini 3.0, but the real opportunity isn't model vs model—it’s how UI understanding will reshape your daily work.\nMost teams will wait for the press release.\nThe smar"
+    "contentSnippet": "Introduction: What is Edge AI and Why It Matters\nIn recent years, edge AI, which means running artificial intelligence tasks directly on devices such as cameras, sensors, small computers, or robots ra"
+  },
+  {
+    "title": "Honoの7つのコンセプト",
+    "link": "https://zenn.dev/yusukebe/articles/1f3ac394f31f3b",
+    "pubDate": "Thu, 27 Nov 2025 03:28:54 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Hono概要\nHonoはバックエンドのためのWebフレームワークです。Cloudflare Workers、Deno、Bun、Node.jsなどどんなJavaScriptのランタイムでも動作します。2021年の12月15日から開発が始まり4年が経とうとしています。\n\n以下はHonoを使った基本的な\"Hello World\"のアプリケーションです。Honoのインスタンスを作成し、ルートを定義するだけ"
+  },
+  {
+    "title": "「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。",
+    "link": "https://zenn.dev/loglass/articles/16745471ef55ff",
+    "pubDate": "Wed, 26 Nov 2025 23:22:39 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、ログラスの松岡(@little_hand_s)です\n\n\n 3行まとめ\n\n「先にテストをまとめて書かせる」はTDDではない（サイクルと目的が違う）\n従来のTDDでは非推奨だったが、AI時代では有効な手法に\n違いを理解して使い分けることで、AI時代の開発がより効果的になる\n\n\n AI時代のTDDと、混乱しやすい実現方法\n最近、AI開発の文脈で「TDD（Test-Driven Develop"
+  },
+  {
+    "title": "SNSアプリの投稿画面のUIデザイン改善",
+    "link": "https://zenn.dev/noppe/articles/7093cbaac7d976",
+    "pubDate": "Wed, 26 Nov 2025 20:11:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事では、iOS 向け Mastodon クライアント DAWN が行った投稿画面の UI デザイン改善について解説します。\nDAWNは、iOSのネイティブアプリとしての使いやすさと、Mastodonの分散型SNSとしての特性を両立させることを目指しています。\n先日、App Storeで３つのフィーチャー掲載をいただき、ユーザーの皆様からも高い評価をいただいています。\n\n今回の変更では、よりネ"
+  },
+  {
+    "title": "JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由",
+    "link": "https://zenn.dev/akari1106/articles/ba99c8702ee732",
+    "pubDate": "Wed, 26 Nov 2025 17:22:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nJSONくん、君はちょっと「おしゃべり」すぎるかもしれない。\n開発をしていると、JSON (JavaScript Object Notation) とはもう「空気」のような存在ですよね。何かしらどこかしらで付き合いのある感じ。\nAPIを叩けばJSONが返ってくる。設定ファイルもJSON。何ならログもJSON。\n私も長年連れ添った相棒として、彼（JSON）のことは信頼しています。\nでも、L"
+  },
+  {
+    "title": "git worktree 並列開発でのポート競合を解消するCLI、PortMuxを作りました",
+    "link": "https://zenn.dev/yuta_takahashi/articles/introduce-portmux-cli",
+    "pubDate": "Wed, 26 Nov 2025 17:00:13 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nCoding Agent でタスクを並列に進めることが一般的になりつつある昨今、git worktree でブランチごとに環境を分け、ローカルで並行開発する場面が増えています。このような開発フローでは、各 worktree で開発サーバーを立ち上げて行き来しながら動作確認する必要があります。\nとはいえ、ローカルサーバーの切り替えは手間がかかります。1 つのプロダクトで複数のサーバーを立て"
   },
   {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",
@@ -75,6 +110,13 @@
     "pubDate": "2025-11-26T15:39:23.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、複雑なkubectlコマンドや深いKubernetesの専門知識を用いなくとも、自然言語でKubernetesに指示をして運用や管理を可能にするフルマネージドな新サービス「Amazon EKS MCP Server」のプレビュー公開を発表しました。 Amazon EKS（Amazon Elastic Kubernetes Service）は、AW"
+  },
+  {
+    "title": "GitHub Copilot カスタムエージェントのための agents.md 作成ベストプラクティス",
+    "link": "https://zenn.dev/studypocket/articles/github-copilot-agents-md-best-practices",
+    "pubDate": "Wed, 26 Nov 2025 15:23:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nスタディポケットでソフトウェアエンジニア / SRE として働いている@Tocyukiです。\n先日 GitHub Copilot にカスタムエージェント機能が登場し、これは面白そうだと思い早速試してみました。\nhttps://github.blog/changelog/2025-10-28-custom-agents-for-github-copilot/\n.github/agents/"
   },
   {
     "title": "「そのDockerfile、卒業しよう」実務で通用するベストプラクティス",
@@ -91,11 +133,25 @@
     "contentSnippet": "MCPの新仕様(2025-11-25)の大きなアップデートの一つであるCIMD(Client ID Metadata Documents)について自分なりに調べた内容を書きます。\nhttps://modelcontextprotocol.io/specification/2025-11-25/basic/authorization\n!\nセキュリティの専門家ではないため、内容に間違いが見られる場合は"
   },
   {
+    "title": "機能的凝集とコロケーションで保守しやすい React Router v7 コンポーネント設計",
+    "link": "https://zenn.dev/coji/articles/react-router-v7-functional-cohesion-colocation",
+    "pubDate": "Wed, 26 Nov 2025 10:13:13 GMT",
+    "source": "Zenn",
+    "contentSnippet": "これはなに？\n複数のユーザーロールや類似機能を含むフロントエンドで、コンポーネントをどう分割すべきか悩んだことはありませんか？本記事では「機能的凝集」という考え方と、remix-flat-routes のコロケーション構成を組み合わせることで、条件分岐が散らばりにくく保守しやすい設計を紹介します。\n本記事では以下の技術スタックを前提としています。\n\nReact Router v7（framewor"
+  },
+  {
     "title": "モノレポ＋Hono＋OpenAPIスキーマ駆動(Orval)+Drizzleは最高",
     "link": "https://zenn.dev/takumi0706/articles/12229d929523ec",
     "pubDate": "Wed, 26 Nov 2025 08:05:10 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n最近の開発で、モノレポ上に Hono のバックエンドと Next.js のフロントを抱えたアプリを作っている。そこで一周回って確信したのが、「Hono + OpenAPIスキーマ駆動 (Orval) + Drizzle」の組み合わせがとにかく快適ということ。この記事では、その理由と気持ちよかった設計ポイントをまとめる。\nポイントは以下の3つ。\n\nHonoがプレゼンテーション層の薄皮に徹し"
+  },
+  {
+    "title": "AI時代、未経験から1年で実務レベルのエンジニアになった方法",
+    "link": "https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-26T04:26:30.000Z",
+    "source": "Qiita",
+    "contentSnippet": "去年の今頃、僕は完全な未経験者だった。\nプログラミングの「プ」の字も知らず、ターミナルを開くのすら怖かった。\nでも、2025年の今、僕は実務レベルのエンジニアとして働いている。\n何が変わったのか？それはAIの力を借りながら、正しい順番で基礎を積み上げたことだ。\nAIがあれば..."
   },
   {
     "title": "エンジニアの「絵で説明して」問題、Nano Banana Pro（Gemini 3 Pro Image）でどこまで解消できるか試してみた",
@@ -105,46 +161,11 @@
     "contentSnippet": "はじめに\nGMOコネクトの永田です。\nエンジニアやアーキテクトの皆さん、こんな経験はありませんか？\n「この技術的な内容、文字だけじゃ分かりにくいから絵で説明して」\n分かりやすく説明したい気持ちはあるものの、AWS構成図やアーキテクチャ図を作るのは正直かなり面倒。構成を整理..."
   },
   {
-    "title": "【30日でAWSをマスターするハンズオン問題集】Day1：AWSのアクセス制御「IAM」",
-    "link": "https://qiita.com/chiaoi/items/f923a5b3ea086f26ca1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-26T01:26:27.000Z",
-    "source": "Qiita",
-    "contentSnippet": "📝 概要\nこちらの投稿は2025 Japan AWS Jr.Championsの有志メンバーで作成した『30日間で主要AWSサービスを構築できるようになる』をテーマにした初学者向けのハンズオン問題集のDAY1になります！\n問題集の趣旨や作成に至るまでの経緯は以下の記事をご..."
-  },
-  {
     "title": "【Copilot Studio】AI エージェントの価値、使い分けを整理してみた",
     "link": "https://qiita.com/Takashi_Masumori/items/e9fa2a6bf025a0a4335f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-25T23:55:39.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n私は、Microsoft 製品、特に、ローコード、ノーコードプラットフォームの Power Platform、そして、AI エージェント （以降エージェント）という観点では、Copilot Studio に関してお客様の支援をしています。\n※まだ、Copilot..."
-  },
-  {
-    "title": "【画像AI革命】Google画像生成AIの新モデル「Nano Banana Pro」を試してみた",
-    "link": "https://qiita.com/tomokoro/items/c6f681a0b67e502df11c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T23:35:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. はじめに\nみなさんこんにちは！\nGoogleの最新AIモデル「Gemini 3」の発表と同時に登場した、新たな画像生成AIモデルについて解説します。これまで多くのクリエイターやエンジニアを悩ませてきた、AI生成画像における 「文字の崩れ」 という長年の課題 がついに..."
-  },
-  {
-    "title": "英語がもう苦手ではなくなったエンジニアが一つ殻を破るためにやった学習",
-    "link": "https://zenn.dev/moneyforward/articles/893eb6f50bd896",
-    "pubDate": "Tue, 25 Nov 2025 23:30:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "さっそくまとめ\n\n私の職場では特にエンジニア組織のグローバル化が進んでいます\n\n私はそんな中、英語がほぼ話せない状態（CEFRレベル：A2）から入社し、1.5年間社会人として頑張れる範囲で英語学習を続けてきました\n\n初期は平日でも4時間程度の学習時間を確保していました\n現在は机に向かうのは1時間程度で、あとは通勤時間や隙間時間を利用して学習しています\n\n\nスピーキングにおいて、中上級者（CEFR:"
-  },
-  {
-    "title": "Claude for Excelがマジですごかった",
-    "link": "https://zenn.dev/acntechjp/articles/4b2f19b536d262",
-    "pubDate": "Tue, 25 Nov 2025 21:18:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "ExcelのサイドバーからClaudeを呼び出して、スプレッドシートを直接操作できる「Claude for Excel」。\n実際に触ってみたら想像以上でしたので試した内容を共有します。\n今回試したのは2つ。\n\nレシート画像からExcelへの自動転記\nWEBページの内容をExcelにまとめる\n\nそれぞれデモ動画も撮ったのでぜひ見てほしい。\n\n レシートの自動転記\nhttps://www.youtub"
-  },
-  {
-    "title": "オープンソース・プロジェクトのたたみ方",
-    "link": "https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project",
-    "pubDate": "Tue, 25 Nov 2025 16:08:30 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本記事は Embulk に関する以下のアナウンスの、非公式日本語版 + α です。\n\n\n Embulk の「メンテナンス・モード」\n去る 2025 年 10 月 15 日、その時点で GitHub の embulk organization に入っていた人に向けて、以下のようなメールを送りました。\n\nEmbulk に関係し、中でも Embulk の GitHub org にいる皆さま、\nEmbul"
   },
   {
     "title": "Rubyの次バージョンは「Ruby 4.0」に。「Ruby 4.0 Preview2」がリリース",
@@ -168,32 +189,11 @@
     "contentSnippet": "こんにちは。\n2025 Japan AWS Jr. Champions のさとみんです。\nこの度、Jr.Championsの有志メンバーで協力してハンズオン問題集を作成しました…！！\n題して\n\n【30日でAWSをマスターするハンズオン問題集】\n\nです！！\n今回は0日目として..."
   },
   {
-    "title": "AIアプリケーション開発を体系的に学ぶ 『AIエンジニアリング』全章紹介",
-    "link": "https://zenn.dev/seya/articles/333b03b47234aa",
-    "pubDate": "Tue, 25 Nov 2025 10:08:44 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AIエンジニアリングを、広めたい。\n共訳した書籍「AIエンジニアリング（オライリー・ジャパン）」が2025年11月28日(今週！)に発売します。\nhttps://www.oreilly.co.jp/books/9784814401383/\n共訳者であるkagayaさんがこちらの記事で「AIエンジニアリングとは何か？」という概念自体について掘り下げてくれました。\nhttps://zenn.dev/r"
-  },
-  {
-    "title": "巨大SQLに対する解読術",
-    "link": "https://zenn.dev/leverages/articles/2ab70781a8c211",
-    "pubDate": "Tue, 25 Nov 2025 09:30:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは！ゲンシュンです。\nこの記事は執筆中に「もはやAIに聞けば済むことね？」と思い投稿をお蔵入りしたものの、やっぱりまだ必要な知見かもしれないと思い直して残骸から蘇生したものとなります笑。\n\n 背景\n前職では古来から存在するアプリケーションの集計用SQLをdbtを導入してリファクタリングしたり、現職では作成者が不在となった1500行超える大量のスケジュールクエリを全てDataformで書き直"
-  },
-  {
-    "title": "Claude Codeを使い倒して完成した俺流のバックエンド開発スタイル",
-    "link": "https://zenn.dev/epicai_techblog/articles/175d86a4994a7d",
-    "pubDate": "Tue, 25 Nov 2025 09:09:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n初めまして。EpicAIの佐藤と申します。\n私は機械学習をバックグラウンドとする人間なので機械学習関連のコーディングは慣れているのですが、諸事情によりWebアプリのバックエンド開発をすることになりました。Webアプリ開発は多少は経験があるのですが、めちゃめちゃ自走力があるかというとそうではないので、Claude Codeを使って4ヶ月ほどバックエンド開発をしました。\n私がClaude C"
-  },
-  {
-    "title": "【Hono + Cloudflare Workers + Supabase】でAPIを作ってCRUDする",
-    "link": "https://zenn.dev/gemcook/articles/48c368723e21e6",
-    "pubDate": "Tue, 25 Nov 2025 05:43:51 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n本記事では、Hono + Cloudflare Workers + Supabase を組み合わせて、シンプルな CRUD API を構築する方法を紹介します！\nHono と Cloudflare Workers の組み合わせや、Hono と Supabase の組み合わせに関する記事はすでにたくさんあるんですが、Hono + Cloudflare Workers + Supabase "
+    "title": "AWSのコスト削減・最適化手法とコスト管理の勘所",
+    "link": "https://qiita.com/kiwi-dev/items/df7e2923e0a723ccc345?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-25T11:34:44.000Z",
+    "source": "Qiita",
+    "contentSnippet": "本記事では私が行ってきたAWSでのコスト削減、最適化の手法とコスト管理全般に関わることを記載します。\n執筆時点(2025/11)の情報となりますので記事閲覧日によっては新しいサービスや機能改修により記事内容が適切ではない可能性がございますのでご留意ください。\n\n不要・余分な..."
   },
   {
     "title": "つい手癖で毎回「レビュー修正」とだけコミットメッセージを書いてしまう人へ",
@@ -210,6 +210,13 @@
     "contentSnippet": "はじめに\n2025年11月24日、AnthropicがClaude Opus 4.5のリリースと同時に発表したClaude Code for Desktopが想像以上に便利だったので共有します。\n「え、ターミナルじゃなくてデスクトップアプリでClaude Codeが動くの..."
   },
   {
+    "title": "「コードは設計書だ」と本気で思い直したきっかけ",
+    "link": "https://qiita.com/tomo19950806/items/cafe6f78776d4bc45252?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-24T23:25:33.000Z",
+    "source": "Qiita",
+    "contentSnippet": "「コードは設計書だ」と本気で思い直したきっかけ\n「詳細設計はありません。現行踏襲で。仕様はソースを読んでください。」\nある現場でこう言われたとき、「あ、これはマズいかもしれない」とうすうす感じていました。\n一応、設計書はありました。でも中身はほとんど空っぽで、画面イメージ..."
+  },
+  {
     "title": "ワイヤレス給電システムを提供するスタートアップが、データベースとしてTiDBを選択する理由とは？［PR］",
     "link": "https://www.publickey1.jp/blog/25/aeterlink-tidbpr.html",
     "pubDate": "2025-11-24T17:36:32.000Z",
@@ -224,11 +231,11 @@
     "contentSnippet": "Amazon Web Services（AWS）は、サーバレス基盤となるAWS LambdaによるRust言語の正式サポートを発表しました。 AWS Lambdaで利用可能なプログラミング言語のランタイムはこれまでNode.js/JavaScript、Python、Java、.NET、Rubyなどが用意されていました。これに新たにRust言語が加わることになります。 小さくて非常に高速な実行が可能"
   },
   {
-    "title": "【俺みたいになるな】初めて技術書典で本を出す時の教訓と難しさについて",
-    "link": "https://qiita.com/har1101/items/fd3ab8a1bcb2a4a37085?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T08:30:10.000Z",
+    "title": "メインWindows機をKVMで仮想化運用を始めた",
+    "link": "https://qiita.com/Blaster36/items/310654ac87ba9f711d9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-24T09:17:09.000Z",
     "source": "Qiita",
-    "contentSnippet": "こんにちは、ふくちと申します。\n2025年11月16日(日)に池袋・サンシャインシティで開催された技術書典19に参加し、本(技術同人誌)を販売してきました。umitsuさん、つくぼしさんとの共著です。\n\n私にとって本(というかそもそも自作した物)を売ることが初めての経験..."
+    "contentSnippet": "はじめに\n久しぶりの記事。\n筆者はめちゃめちゃWindows派なので、当然に自宅PCメインはWindows機（GPUカード搭載）です。\nWSL／UbuntuでもGPUカードは認識できたりするのですが、なんか違うなと。\nProxmox VE1も考えたのですが、Ubuntu機..."
   },
   {
     "title": "【歴史】Reactが覇権を握るまでの知られざる物語【図解解説】",
@@ -236,13 +243,6 @@
     "pubDate": "2025-11-24T08:00:32.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは、Watanabe Jin(@Sicut_study)です。\n普段はReactに関してのチュートリアルをたくさん投稿していて思いました。\n\n「Reactを始めるなら歴史から学んだほうがよいのでは？」\n\nそこでReactの歴史についてネット..."
-  },
-  {
-    "title": "【React】コンポーネント設計パターン6選 - 小〜中規模開発",
-    "link": "https://qiita.com/ktdatascience/items/58a38c0efc915651b2cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T01:39:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nReactでアプリケーションを開発していると、コンポーネントの整理方法に悩むことはありませんか。「どこに何を置くべきか」「どう分割すればいいのか」といった疑問は、プロジェクトが大きくなるほど重要になってきます。\nこの記事では、Reactのコンポーネント設計でよく..."
   },
   {
     "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",

@@ -1,73 +1,73 @@
 [
   {
-    "title": "🎯 Task #3 — Enable AutoSync + Health Checks + Self-Heal in ArgoCD",
-    "link": "https://dev.to/latchudevops/task-3-enable-autosync-health-checks-self-heal-in-argocd-3pap",
-    "pubDate": "Thu, 27 Nov 2025 12:49:52 +0000",
+    "title": "🧩 Brainfuck — The 8-Command Language Built to Hurt Programmers",
+    "link": "https://dev.to/viz-x/brainfuck-the-8-command-language-built-to-hurt-programmers-31pe",
+    "pubDate": "Thu, 27 Nov 2025 18:35:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "ArgoCD is powerful because it continuously watches Git and your cluster, and keeps them in sync.\n✅ Auto-Sync\nAutomatically apply changes from Git to the cluster.\n✅ Self-Heal\nIf someone manually edits "
+    "contentSnippet": "What is Brainfuck?\n\n\nBrainfuck is a minimalist esoteric programming language created by Urban Müller in 1993. It is famous for using only eight single-character commands while still being fully Turing"
   },
   {
-    "title": "Ensuring Message Order in Distributed Systems: Addressing Pub/Sub Ordering Key Limitations with Subscriber-side Sorting",
-    "link": "https://dev.to/einfochips/ensuring-message-order-in-distributed-systems-addressing-pubsub-ordering-key-limitations-with-5f0o",
-    "pubDate": "Thu, 27 Nov 2025 12:40:22 +0000",
+    "title": "Why Studying the Turing Machine Changed How I See AI And Why Every New AI Engineer Should Revisit It",
+    "link": "https://dev.to/maulik_sompura_22/why-studying-the-turing-machine-changed-how-i-see-ai-and-why-every-new-ai-engineer-should-revisit-it-43hp",
+    "pubDate": "Thu, 27 Nov 2025 18:29:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Executive Summary\n\n\nIn event-driven and distributed architectures, preserving the order of messages is critical for maintaining state consistency, processing accuracy, and system reliability. Google C"
+    "contentSnippet": "How a “boring theory subject” ended up shaping my entire AI career\n\n\nWhen I was doing my Master’s in computer engineering at the University of Padova, there was one subject everyone whispered about:\nA"
   },
   {
-    "title": "4. PYTHON ESSENTIALS FOR AI/ML (Advanced OOP)",
-    "link": "https://dev.to/m_t_ramkrushna/4-python-essentials-for-aiml-advanced-oop-dg1",
-    "pubDate": "Thu, 27 Nov 2025 12:34:39 +0000",
+    "title": "🧿 Hexagony — Programming Inside a Hexagon for No Logical Reason",
+    "link": "https://dev.to/viz-x/hexagony-programming-inside-a-hexagon-for-no-logical-reason-3e8f",
+    "pubDate": "Thu, 27 Nov 2025 18:23:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Class Methods (@classmethod)\n\n\n\n  \n  \n  What it is\n\n\nA method that belongs to the class, not an individual object.\ncls instead of self.\nCreating alternative constructors\n\nTracking class-level data\n"
+    "contentSnippet": "Hexagony is a two-dimensional code-golf programming language created by Martin Ender in 2015. Instead of running code line by line like normal languages, Hexagony executes instructions across a hexago"
   },
   {
-    "title": "5. PYTHON ESSENTIALS FOR AI/ML (List & Dictionary Comprehensions)",
-    "link": "https://dev.to/m_t_ramkrushna/5-python-essentials-for-aiml-list-dictionary-comprehensions-2fi5",
-    "pubDate": "Thu, 27 Nov 2025 12:34:16 +0000",
+    "title": "How can you find experts to build a new financial technology product?",
+    "link": "https://dev.to/it-influencer/how-can-you-find-experts-to-build-a-new-financial-technology-product-4ded",
+    "pubDate": "Thu, 27 Nov 2025 18:22:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🛒 1. What Are Comprehensions?\n\n\nComprehensions are a compact and expressive way to create lists and dictionaries.\nInstead of writing long loops, you write everything in one clean line.\nWithout compre"
+    "contentSnippet": "Building a new financial technology product is not just about hiring “good developers”. You need people who understand both software and finance, security and regulation, user experience and real worl"
   },
   {
-    "title": "Ethereum's Interop Layer (EIL), Sequence's Unified Payments, Eth Updated Roadmap at Devconnect, EIP-7702 Infra Integration",
-    "link": "https://dev.to/etherspot/ethereums-interop-layer-eil-sequences-unified-payments-eth-updated-roadmap-at-devconnect-352k",
-    "pubDate": "Thu, 27 Nov 2025 12:31:22 +0000",
+    "title": "🐍 Grass — The Programming Language That Looks Like a Field of Grass",
+    "link": "https://dev.to/viz-x/grass-the-programming-language-that-looks-like-a-field-of-grass-5ag",
+    "pubDate": "Thu, 27 Nov 2025 18:20:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We are welcoming you to our weekly digest! Here, we discuss the latest trends and advancements in account abstraction, chain abstraction and everything related, as well as bring some insights from Eth"
+    "contentSnippet": "Grass is an esoteric/experimental programming language created by Yoshimitsu Yoshioka. The language is intentionally designed to look like a field of grass using only three characters: \"w\", \"W\", and \""
   },
   {
-    "title": "Fashion Predictions: What Men Will Be Wearing Next Year",
-    "link": "https://dev.to/stylesphereaa/fashion-predictions-what-men-will-be-wearing-next-year-50ga",
-    "pubDate": "Thu, 27 Nov 2025 12:28:59 +0000",
+    "title": "🎯 GolfScript — The OG Code-Golf Language",
+    "link": "https://dev.to/viz-x/golfscript-the-og-code-golf-language-19dd",
+    "pubDate": "Thu, 27 Nov 2025 18:19:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Men’s fashion is heading into one of its most interesting phases yet. As culture shifts and comfort becomes a priority, trends are evolving in ways that feel fresh but still practical. The modern man "
+    "contentSnippet": "GolfScript is a code-golf programming language created by Zach Schneider in 2009. It exists for one reason: write programs using the fewest characters possible. The language uses postfix (stack-based)"
   },
   {
-    "title": "Tattoo Studio Croydon: Finding the Right Artists for Quality, Safety & Style",
-    "link": "https://dev.to/nsdtattoo/tattoo-studio-croydon-finding-the-right-artists-for-quality-safety-style-277e",
-    "pubDate": "Thu, 27 Nov 2025 12:25:24 +0000",
+    "title": "Transform Conversations into Cash: Monetzly for Developers",
+    "link": "https://dev.to/monetzly/transform-conversations-into-cash-monetzly-for-developers-3e93",
+    "pubDate": "Thu, 27 Nov 2025 18:17:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When it comes to getting inked, choosing the right Tattoo Studio Croydon is just as important as choosing the tattoo itself. The studio you select determines the quality, hygiene, professionalism, saf"
+    "contentSnippet": "Advertising is Evolving: Here’s Where It’s Heading in the AI Era\n\n\nAs developers, we’re witnessing a monumental shift in how applications are built and monetized, especially in the realm of AI. The ex"
   },
   {
-    "title": "Revolutionize Developer Revenue with Monetzly's AI Conversation API",
-    "link": "https://dev.to/monetzly/revolutionize-developer-revenue-with-monetzlys-ai-conversation-api-22o8",
-    "pubDate": "Thu, 27 Nov 2025 12:25:06 +0000",
+    "title": "MongoDB Index Intersection (and PostgreSQL Bitmap-and)",
+    "link": "https://dev.to/franckpachot/mongodb-index-intersection-and-postgresql-bitmap-scan-40a6",
+    "pubDate": "Thu, 27 Nov 2025 18:16:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Future of Advertising in AI Conversations: Meet Monetzly\n\n\nAdvertising is evolving. As AI applications continue to explode, traditional monetization models are struggling to keep pace without disr"
+    "contentSnippet": "You won’t always have a perfect index for every query, but may have have single-field indexes for each filter. In such cases, PostgreSQL can use Bitmap Scan to combine these indexes. MongoDB is also c"
   },
   {
-    "title": "5 Ways AI Workflow Automation Boosts Business Processes",
-    "link": "https://dev.to/mygom/5-ways-ai-workflow-automation-boosts-business-processes-55o5",
-    "pubDate": "Thu, 27 Nov 2025 12:22:35 +0000",
+    "title": "Jelly — Code Golf With Unicode Chaos and Zero Apology",
+    "link": "https://dev.to/viz-x/jelly-code-golf-with-unicode-chaos-and-zero-apology-337o",
+    "pubDate": "Thu, 27 Nov 2025 18:12:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Look, we have seen dozens of companies automate their workflows over the past few years. But most of them just digitized their mess. They took broken processes, slapped some Zapier on them, and called"
+    "contentSnippet": "Jelly\n\n\nJelly is a code-golf programming language designed for writing the shortest code possible. It was created by Dennis Mitchell and is frequently used in competitive programming challenges where "
   },
   {
-    "title": "Why Choose Hailo AI Accelerators for Edge AI over Traditional GPUs?",
-    "link": "https://dev.to/revinetech/why-choose-hailo-ai-accelerators-for-edge-ai-over-traditional-gpus-41gm",
-    "pubDate": "Thu, 27 Nov 2025 12:18:42 +0000",
+    "title": "🧪 05AB1E — Tiny Language, Big Chaos",
+    "link": "https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma",
+    "pubDate": "Thu, 27 Nov 2025 18:09:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction: What is Edge AI and Why It Matters\nIn recent years, edge AI, which means running artificial intelligence tasks directly on devices such as cameras, sensors, small computers, or robots ra"
+    "contentSnippet": "05AB1E\n\n\n05AB1E is a code-golf programming language created around 2015 by Adnan. The goal of the language is to make programs as short as possible, even if the code looks strange or unreadable. It us"
   },
   {
     "title": "Honoの7つのコンセプト",

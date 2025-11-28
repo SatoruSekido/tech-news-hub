@@ -1,73 +1,80 @@
 [
   {
-    "title": "🧩 Brainfuck — The 8-Command Language Built to Hurt Programmers",
-    "link": "https://dev.to/viz-x/brainfuck-the-8-command-language-built-to-hurt-programmers-31pe",
-    "pubDate": "Thu, 27 Nov 2025 18:35:37 +0000",
+    "title": "🧩 Need for Services in Kubernetes.",
+    "link": "https://dev.to/itsmecharan7/need-for-services-in-kubernetes-5acl",
+    "pubDate": "Fri, 28 Nov 2025 01:46:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is Brainfuck?\n\n\nBrainfuck is a minimalist esoteric programming language created by Urban Müller in 1993. It is famous for using only eight single-character commands while still being fully Turing"
+    "contentSnippet": "Kubernetes Pods are not permanent. They can:\nrestart\nscale up/down\nget recreated\nmove to another node\n👉 Every time a Pod is recreated, it receives a new Pod IP.\nThis makes Pod IPs unreliable for dire"
   },
   {
-    "title": "Why Studying the Turing Machine Changed How I See AI And Why Every New AI Engineer Should Revisit It",
-    "link": "https://dev.to/maulik_sompura_22/why-studying-the-turing-machine-changed-how-i-see-ai-and-why-every-new-ai-engineer-should-revisit-it-43hp",
-    "pubDate": "Thu, 27 Nov 2025 18:29:32 +0000",
+    "title": "A beginner's guide to the Gpt-4o-Mini model by Openai on Replicate",
+    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-gpt-4o-mini-model-by-openai-on-replicate-4jln",
+    "pubDate": "Fri, 28 Nov 2025 01:44:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How a “boring theory subject” ended up shaping my entire AI career\n\n\nWhen I was doing my Master’s in computer engineering at the University of Padova, there was one subject everyone whispered about:\nA"
+    "contentSnippet": "This is a simplified guide to an AI model called Gpt-4o-Mini maintained by Openai. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\ngpt-4o-mini is a streamlin"
   },
   {
-    "title": "🧿 Hexagony — Programming Inside a Hexagon for No Logical Reason",
-    "link": "https://dev.to/viz-x/hexagony-programming-inside-a-hexagon-for-no-logical-reason-3e8f",
-    "pubDate": "Thu, 27 Nov 2025 18:23:10 +0000",
+    "title": "Uncovering Global Content Trends on Netflix: A Full Tableau Analytics Breakdown",
+    "link": "https://dev.to/augo_amos/uncovering-global-content-trends-on-netflix-a-full-tableau-analytics-breakdown-23c9",
+    "pubDate": "Fri, 28 Nov 2025 01:42:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hexagony is a two-dimensional code-golf programming language created by Martin Ender in 2015. Instead of running code line by line like normal languages, Hexagony executes instructions across a hexago"
+    "contentSnippet": "The rapid growth of streaming platforms has generated an unprecedented volume of content, making data visualization essential for understanding catalog composition, audience targeting, and regional co"
   },
   {
-    "title": "How can you find experts to build a new financial technology product?",
-    "link": "https://dev.to/it-influencer/how-can-you-find-experts-to-build-a-new-financial-technology-product-4ded",
-    "pubDate": "Thu, 27 Nov 2025 18:22:06 +0000",
+    "title": "When we can use ARIA",
+    "link": "https://dev.to/jeganmurugan_0101/when-we-can-use-aria-42h6",
+    "pubDate": "Fri, 28 Nov 2025 01:30:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a new financial technology product is not just about hiring “good developers”. You need people who understand both software and finance, security and regulation, user experience and real worl"
+    "contentSnippet": "Element type    Use ARIA?   Why\n👉 Don't add ARIA to explain what HTML already explains.\nLet’s compare with simple real-world examples\nCorrect ARIA Uses\nIcon button\n\n\n\n<button aria-label=\"Close\">\n   <"
   },
   {
-    "title": "🐍 Grass — The Programming Language That Looks Like a Field of Grass",
-    "link": "https://dev.to/viz-x/grass-the-programming-language-that-looks-like-a-field-of-grass-5ag",
-    "pubDate": "Thu, 27 Nov 2025 18:20:21 +0000",
+    "title": "Understanding Web 3.0: The Blockchain Revolution",
+    "link": "https://dev.to/sreeni5018/understanding-web-30-the-blockchain-revolution-17of",
+    "pubDate": "Fri, 28 Nov 2025 01:24:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Grass is an esoteric/experimental programming language created by Yoshimitsu Yoshioka. The language is intentionally designed to look like a field of grass using only three characters: \"w\", \"W\", and \""
+    "contentSnippet": "The internet has evolved through multiple stages: from static web pages in Web 1.0, to dynamic and social platforms in Web 2.0, and now to Web 3.0, an era powered by blockchain technology, decentraliz"
   },
   {
-    "title": "🎯 GolfScript — The OG Code-Golf Language",
-    "link": "https://dev.to/viz-x/golfscript-the-og-code-golf-language-19dd",
-    "pubDate": "Thu, 27 Nov 2025 18:19:05 +0000",
+    "title": "Lina: Adaptive Scroll Area for React with Native Touch Support",
+    "link": "https://dev.to/jqueryscript/lina-adaptive-scroll-area-for-react-with-native-touch-support-45oh",
+    "pubDate": "Fri, 28 Nov 2025 01:15:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GolfScript is a code-golf programming language created by Zach Schneider in 2009. It exists for one reason: write programs using the fewest characters possible. The language uses postfix (stack-based)"
+    "contentSnippet": "Lina: A shadcn/ui ScrollArea replacement that actually adapts to your input method.\nKey features:\n🎯 Detects touch vs pointer and switches between native scrolling and custom scrollbars\n🌫️ Edge masks"
   },
   {
-    "title": "Transform Conversations into Cash: Monetzly for Developers",
-    "link": "https://dev.to/monetzly/transform-conversations-into-cash-monetzly-for-developers-3e93",
-    "pubDate": "Thu, 27 Nov 2025 18:17:31 +0000",
+    "title": "The Only Developer Skill That Scales in 2026",
+    "link": "https://dev.to/brandonkylebailey/the-only-developer-skill-that-scales-in-2026-1km8",
+    "pubDate": "Fri, 28 Nov 2025 01:14:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Advertising is Evolving: Here’s Where It’s Heading in the AI Era\n\n\nAs developers, we’re witnessing a monumental shift in how applications are built and monetized, especially in the realm of AI. The ex"
+    "contentSnippet": "Technical stacks shift. Hiring markets mutate. Tooling obsoletes itself every quarter. The only durable advantage is the ability to convert ambiguity into working systems faster than your peers. That "
   },
   {
-    "title": "MongoDB Index Intersection (and PostgreSQL Bitmap-and)",
-    "link": "https://dev.to/franckpachot/mongodb-index-intersection-and-postgresql-bitmap-scan-40a6",
-    "pubDate": "Thu, 27 Nov 2025 18:16:42 +0000",
+    "title": "Seeing Through the Shine: AI That 'Sculpts' 3D from Reflections",
+    "link": "https://dev.to/arvind_sundararajan/seeing-through-the-shine-ai-that-sculpts-3d-from-reflections-3cci",
+    "pubDate": "Fri, 28 Nov 2025 01:02:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You won’t always have a perfect index for every query, but may have have single-field indexes for each filter. In such cases, PostgreSQL can use Bitmap Scan to combine these indexes. MongoDB is also c"
+    "contentSnippet": "Seeing Through the Shine: AI That 'Sculpts' 3D from Reflections\n\n\nEver tried to 3D scan a shiny object? The reflections throw everything off, making accurate reconstruction nearly impossible. It's lik"
   },
   {
-    "title": "Jelly — Code Golf With Unicode Chaos and Zero Apology",
-    "link": "https://dev.to/viz-x/jelly-code-golf-with-unicode-chaos-and-zero-apology-337o",
-    "pubDate": "Thu, 27 Nov 2025 18:12:32 +0000",
+    "title": "Transform SDK Integration with Monetzly's Smart Ad Solutions",
+    "link": "https://dev.to/monetzly/transform-sdk-integration-with-monetzlys-smart-ad-solutions-2d20",
+    "pubDate": "Fri, 28 Nov 2025 00:55:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Jelly\n\n\nJelly is a code-golf programming language designed for writing the shortest code possible. It was created by Dennis Mitchell and is frequently used in competitive programming challenges where "
+    "contentSnippet": "What if Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nImagine a world where your AI application not only serves users but also generates revenue through two distinct channels—withou"
   },
   {
-    "title": "🧪 05AB1E — Tiny Language, Big Chaos",
-    "link": "https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma",
-    "pubDate": "Thu, 27 Nov 2025 18:09:49 +0000",
+    "title": "How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces",
+    "link": "https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp",
+    "pubDate": "Fri, 28 Nov 2025 00:52:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "05AB1E\n\n\n05AB1E is a code-golf programming language created around 2015 by Adnan. The goal of the language is to make programs as short as possible, even if the code looks strange or unreadable. It us"
+    "contentSnippet": "How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces\n\n\n\n  \n  \n  Introduction\n\n\nMost UI layouts today are clean, responsive, and technically sound, but they ofte"
+  },
+  {
+    "title": "Next.js Cache回想",
+    "link": "https://zenn.dev/akfm/articles/nextjs-caching-history",
+    "pubDate": "Thu, 27 Nov 2025 08:22:39 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事はJSConf JP 2025で発表した内容を、記事として執筆しなおしたものです。\n\nNext.jsは従来より、デフォルトで高いパフォーマンスを実現するフレームワークであることを重視してきました。App RouterにおいてもSSR・Streaming・Cacheなど様々な最適化により、高いパフォーマンスの実現を目指してきました。しかし一方で、積極的なCache活用や複雑すぎるCach"
   },
   {
     "title": "Honoの7つのコンセプト",
@@ -75,6 +82,20 @@
     "pubDate": "Thu, 27 Nov 2025 03:28:54 GMT",
     "source": "Zenn",
     "contentSnippet": "Hono概要\nHonoはバックエンドのためのWebフレームワークです。Cloudflare Workers、Deno、Bun、Node.jsなどどんなJavaScriptのランタイムでも動作します。2021年の12月15日から開発が始まり4年が経とうとしています。\n\n以下はHonoを使った基本的な\"Hello World\"のアプリケーションです。Honoのインスタンスを作成し、ルートを定義するだけ"
+  },
+  {
+    "title": "【Gemini 3 Pro】コピペ可能：ニュース収集からリッチなUI生成まで全自動化する Gem の作り方",
+    "link": "https://qiita.com/Ryo-Nakano/items/bfd528bb5f6b83e0c43c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T02:50:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "🏰 できたもの\nGemini 3 Pro を使って、以下を実現できる Gem を作成しました。\nニュースを収集して、きれいに一覧化してくれる\n\n~~\nカテゴリごとにフィルターすることも可能です\n\n~~\nカードをクリックするとニュースの詳細を見ることができます\n\n~~\n入力..."
+  },
+  {
+    "title": "Gemini in Android StudioでAndroid開発を快適にする",
+    "link": "https://qiita.com/TJ_droid/items/ff140b11512132ac9ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T02:09:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事を書こうと思ったきっかけ\nこれまでAIエージェントを使用した開発ではClaudeCodeを主に使用していたが、ここ最近のGoogleの進化を見てGeminiを触ってみようと思ったのがきっかけです。\n以前にGeminiを使用したときは精度、機能ともに物足りないなと感..."
   },
   {
     "title": "「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。",
@@ -89,13 +110,6 @@
     "pubDate": "Wed, 26 Nov 2025 20:11:02 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事では、iOS 向け Mastodon クライアント DAWN が行った投稿画面の UI デザイン改善について解説します。\nDAWNは、iOSのネイティブアプリとしての使いやすさと、Mastodonの分散型SNSとしての特性を両立させることを目指しています。\n先日、App Storeで３つのフィーチャー掲載をいただき、ユーザーの皆様からも高い評価をいただいています。\n\n今回の変更では、よりネ"
-  },
-  {
-    "title": "JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由",
-    "link": "https://zenn.dev/akari1106/articles/ba99c8702ee732",
-    "pubDate": "Wed, 26 Nov 2025 17:22:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nJSONくん、君はちょっと「おしゃべり」すぎるかもしれない。\n開発をしていると、JSON (JavaScript Object Notation) とはもう「空気」のような存在ですよね。何かしらどこかしらで付き合いのある感じ。\nAPIを叩けばJSONが返ってくる。設定ファイルもJSON。何ならログもJSON。\n私も長年連れ添った相棒として、彼（JSON）のことは信頼しています。\nでも、L"
   },
   {
     "title": "git worktree 並列開発でのポート競合を解消するCLI、PortMuxを作りました",
@@ -196,18 +210,18 @@
     "contentSnippet": "本記事では私が行ってきたAWSでのコスト削減、最適化の手法とコスト管理全般に関わることを記載します。\n執筆時点(2025/11)の情報となりますので記事閲覧日によっては新しいサービスや機能改修により記事内容が適切ではない可能性がございますのでご留意ください。\n\n不要・余分な..."
   },
   {
+    "title": "BOMを制する者はUTF-8を制す！ Excel文字化け・謎の先頭3バイト・CSVが壊れる全ての元凶を完全に理解する",
+    "link": "https://qiita.com/Sakai_path/items/e5e7c64e760240612700?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-25T07:20:12.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nUTF-8とExcelは、Windows開発者にとってもっとも信頼できない組み合わせです。\n\n「CSVをExcelで開いたら文字化けした」\n「プログラムで出力したCSVが、Excelでだけ壊れる」\n「BOM付きにしたら今度は別のツールでエラー」\n「先頭に謎の空白..."
+  },
+  {
     "title": "つい手癖で毎回「レビュー修正」とだけコミットメッセージを書いてしまう人へ",
     "link": "https://qiita.com/jnchito/items/9ab5df60bf83afeb1d76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-25T02:47:54.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに：いつも手癖でコミットメッセージを書いてませんか？\ngitのコミットメッセージはできるだけ、具体的な内容を書くべきです。\n（何をどう変えたのか、どういう理由で変更したのか、等）\nしかし、初心者の人は「レビュー修正」や「指摘対応」のように、ただの作業名をコミットメッ..."
-  },
-  {
-    "title": "【速報】Claude Code for Desktopが神すぎる件 - Opus 4.5で並列コーディングが可能に",
-    "link": "https://qiita.com/Takao-Mochizuki/items/d988887f223c208f4169?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T01:27:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n2025年11月24日、AnthropicがClaude Opus 4.5のリリースと同時に発表したClaude Code for Desktopが想像以上に便利だったので共有します。\n「え、ターミナルじゃなくてデスクトップアプリでClaude Codeが動くの..."
   },
   {
     "title": "「コードは設計書だ」と本気で思い直したきっかけ",
@@ -229,20 +243,6 @@
     "pubDate": "2025-11-24T15:56:49.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、サーバレス基盤となるAWS LambdaによるRust言語の正式サポートを発表しました。 AWS Lambdaで利用可能なプログラミング言語のランタイムはこれまでNode.js/JavaScript、Python、Java、.NET、Rubyなどが用意されていました。これに新たにRust言語が加わることになります。 小さくて非常に高速な実行が可能"
-  },
-  {
-    "title": "メインWindows機をKVMで仮想化運用を始めた",
-    "link": "https://qiita.com/Blaster36/items/310654ac87ba9f711d9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T09:17:09.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n久しぶりの記事。\n筆者はめちゃめちゃWindows派なので、当然に自宅PCメインはWindows機（GPUカード搭載）です。\nWSL／UbuntuでもGPUカードは認識できたりするのですが、なんか違うなと。\nProxmox VE1も考えたのですが、Ubuntu機..."
-  },
-  {
-    "title": "【歴史】Reactが覇権を握るまでの知られざる物語【図解解説】",
-    "link": "https://qiita.com/Sicut_study/items/ab4d6ba9da63d71a6c50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T08:00:32.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは、Watanabe Jin(@Sicut_study)です。\n普段はReactに関してのチュートリアルをたくさん投稿していて思いました。\n\n「Reactを始めるなら歴史から学んだほうがよいのでは？」\n\nそこでReactの歴史についてネット..."
   },
   {
     "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",

@@ -1,73 +1,80 @@
 [
   {
-    "title": "🧩 Need for Services in Kubernetes.",
-    "link": "https://dev.to/itsmecharan7/need-for-services-in-kubernetes-5acl",
-    "pubDate": "Fri, 28 Nov 2025 01:46:12 +0000",
+    "title": "I built a Serverless AI Job Search Agent with Next.js, FastAPI, and Google Gemini. Here is the Architecture. 🛠️",
+    "link": "https://dev.to/kotyada_saipraneeth_7be9/i-built-a-serverless-ai-job-search-agent-with-nextjs-fastapi-and-google-gemini-here-is-the-4pl4",
+    "pubDate": "Fri, 28 Nov 2025 06:35:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Kubernetes Pods are not permanent. They can:\nrestart\nscale up/down\nget recreated\nmove to another node\n👉 Every time a Pod is recreated, it receives a new Pod IP.\nThis makes Pod IPs unreliable for dire"
+    "contentSnippet": "The Problem: Doom-Scrolling for Jobs\nI graduated in July 2024 (B.Tech CS), and I quickly realized a painful truth: Job hunting is 90% manual data entry and 10% actual interviewing.\nI was spending hour"
   },
   {
-    "title": "A beginner's guide to the Gpt-4o-Mini model by Openai on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-gpt-4o-mini-model-by-openai-on-replicate-4jln",
-    "pubDate": "Fri, 28 Nov 2025 01:44:42 +0000",
+    "title": "Architecting Advanced Routing Patterns in Symfony",
+    "link": "https://dev.to/mattleads/architecting-advanced-routing-patterns-in-symfony-1cdp",
+    "pubDate": "Fri, 28 Nov 2025 06:30:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Gpt-4o-Mini maintained by Openai. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\ngpt-4o-mini is a streamlin"
+    "contentSnippet": "If you ask a junior developer what the Symfony Routing component does, they will tell you it maps a URL to a controller. They aren’t wrong, but they are only scratching the surface.\nFor a Senior Devel"
   },
   {
-    "title": "Uncovering Global Content Trends on Netflix: A Full Tableau Analytics Breakdown",
-    "link": "https://dev.to/augo_amos/uncovering-global-content-trends-on-netflix-a-full-tableau-analytics-breakdown-23c9",
-    "pubDate": "Fri, 28 Nov 2025 01:42:26 +0000",
+    "title": "Measuring ROI of a Salesforce Agentforce Implementation",
+    "link": "https://dev.to/anurag_sharma_ebb90ce4c63/measuring-roi-of-a-salesforce-agentforce-implementation-3if",
+    "pubDate": "Fri, 28 Nov 2025 06:20:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The rapid growth of streaming platforms has generated an unprecedented volume of content, making data visualization essential for understanding catalog composition, audience targeting, and regional co"
+    "contentSnippet": "You measure the ROI of a Salesforce Agentforce implementation by defining clear business objectives, establishing baseline metrics, tracking key performance indicators (KPIs) such as cost per case, ca"
   },
   {
-    "title": "When we can use ARIA",
-    "link": "https://dev.to/jeganmurugan_0101/when-we-can-use-aria-42h6",
-    "pubDate": "Fri, 28 Nov 2025 01:30:27 +0000",
+    "title": "Debunking AI Hallucinations: The Real Technical Difference Between HP 841 and HP A3 Printheads",
+    "link": "https://dev.to/_b7cb1ce3b2fcc46a04f44/debunking-ai-hallucinations-the-real-technical-difference-between-hp-841-and-hp-a3-printheads-4k68",
+    "pubDate": "Fri, 28 Nov 2025 06:19:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Element type    Use ARIA?   Why\n👉 Don't add ARIA to explain what HTML already explains.\nLet’s compare with simple real-world examples\nCorrect ARIA Uses\nIcon button\n\n\n\n<button aria-label=\"Close\">\n   <"
+    "contentSnippet": "I recently asked a popular LLM for a technical comparison between HP's industrial-grade 841 printhead and a standard office A3 printhead. The response was a perfect example of an AI hallucination—it w"
   },
   {
-    "title": "Understanding Web 3.0: The Blockchain Revolution",
-    "link": "https://dev.to/sreeni5018/understanding-web-30-the-blockchain-revolution-17of",
-    "pubDate": "Fri, 28 Nov 2025 01:24:46 +0000",
+    "title": "Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community",
+    "link": "https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4",
+    "pubDate": "Fri, 28 Nov 2025 06:19:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The internet has evolved through multiple stages: from static web pages in Web 1.0, to dynamic and social platforms in Web 2.0, and now to Web 3.0, an era powered by blockchain technology, decentraliz"
+    "contentSnippet": "1 year ago, most of my work lived in a very different world from Web3.\nI was building and managing communities, writing technical content, and helping products grow. I’ve written dozens of technical a"
   },
   {
-    "title": "Lina: Adaptive Scroll Area for React with Native Touch Support",
-    "link": "https://dev.to/jqueryscript/lina-adaptive-scroll-area-for-react-with-native-touch-support-45oh",
-    "pubDate": "Fri, 28 Nov 2025 01:15:55 +0000",
+    "title": "Azure Synapse vs Databricks: 10 Must-Know Differences (2025)",
+    "link": "https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p",
+    "pubDate": "Fri, 28 Nov 2025 06:10:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Lina: A shadcn/ui ScrollArea replacement that actually adapts to your input method.\nKey features:\n🎯 Detects touch vs pointer and switches between native scrolling and custom scrollbars\n🌫️ Edge masks"
+    "contentSnippet": "Data is the foundation of modern enterprise innovation—but you need a solid platform to make the most of it. That means being able to handle massive amounts of data, power real-time analytics, and sim"
   },
   {
-    "title": "The Only Developer Skill That Scales in 2026",
-    "link": "https://dev.to/brandonkylebailey/the-only-developer-skill-that-scales-in-2026-1km8",
-    "pubDate": "Fri, 28 Nov 2025 01:14:08 +0000",
+    "title": "NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantitative Firms",
+    "link": "https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37",
+    "pubDate": "Fri, 28 Nov 2025 06:09:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Technical stacks shift. Hiring markets mutate. Tooling obsoletes itself every quarter. The only durable advantage is the ability to convert ambiguity into working systems faster than your peers. That "
+    "contentSnippet": "In the quantitative investment field, the performance and scalability of the storage system support efficient research and computational tasks. JuiceFS, an open-source high-performance distributed fil"
   },
   {
-    "title": "Seeing Through the Shine: AI That 'Sculpts' 3D from Reflections",
-    "link": "https://dev.to/arvind_sundararajan/seeing-through-the-shine-ai-that-sculpts-3d-from-reflections-3cci",
-    "pubDate": "Fri, 28 Nov 2025 01:02:05 +0000",
+    "title": "Free Interactive SQL Practice Platform for Developers",
+    "link": "https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk",
+    "pubDate": "Fri, 28 Nov 2025 06:09:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Seeing Through the Shine: AI That 'Sculpts' 3D from Reflections\n\n\nEver tried to 3D scan a shiny object? The reflections throw everything off, making accurate reconstruction nearly impossible. It's lik"
+    "contentSnippet": "Looking for a practical way to improve your SQL skills? Check out https://www.sql-practice.online/ — a free platform with 60+ interactive SQL exercises based on realistic business data (HR, E-commerce"
   },
   {
-    "title": "Transform SDK Integration with Monetzly's Smart Ad Solutions",
-    "link": "https://dev.to/monetzly/transform-sdk-integration-with-monetzlys-smart-ad-solutions-2d20",
-    "pubDate": "Fri, 28 Nov 2025 00:55:44 +0000",
+    "title": "🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster (CICD)",
+    "link": "https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c",
+    "pubDate": "Fri, 28 Nov 2025 06:08:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What if Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nImagine a world where your AI application not only serves users but also generates revenue through two distinct channels—withou"
+    "contentSnippet": "📌 How CI/CD Works\n\n\nStep-by-Step Flow\n1️⃣ Developer pushes code to GitHub\nPush changes inside app/main.go\nPush new Dockerfile changes\nPush manifest updates\n2️⃣ GitHub Actions Runs\nBuilds Docker image"
   },
   {
-    "title": "How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces",
-    "link": "https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp",
-    "pubDate": "Fri, 28 Nov 2025 00:52:07 +0000",
+    "title": "Using VPN for Google Services: Why and When You Need It in 2025",
+    "link": "https://dev.to/dev-vpn/using-vpn-for-google-services-why-and-when-you-need-it-in-2025-6oi",
+    "pubDate": "Fri, 28 Nov 2025 06:04:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces\n\n\n\n  \n  \n  Introduction\n\n\nMost UI layouts today are clean, responsive, and technically sound, but they ofte"
+    "contentSnippet": "Why Google Services Access Is Becoming Problematic\n\n\nGoogle Search, Gmail, YouTube, Google Maps, Google Meet, and Gemini are tools modern work can't function without. But in 2025, users face new barri"
+  },
+  {
+    "title": "Open Notebookを完全ローカル環境で動かす方法",
+    "link": "https://zenn.dev/karaage0703/articles/51a8276e74451c",
+    "pubDate": "Thu, 27 Nov 2025 15:13:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Open NotebookはGoogle NotebookLM のオープンソース版として注目されているツールです。\n通常はOpenAIやAnthropicなどのクラウドAPIを使用しますが、Ollamaと組み合わせて完全にローカルで動かす方法を紹介します。\nNVIDIA DGX Sparkで試してみたので、動かし方をメモしておきます。\n\n 環境\n\n\nハードウェア: NVIDIA DGX Spark"
   },
   {
     "title": "Next.js Cache回想",
@@ -98,6 +105,13 @@
     "contentSnippet": "この記事を書こうと思ったきっかけ\nこれまでAIエージェントを使用した開発ではClaudeCodeを主に使用していたが、ここ最近のGoogleの進化を見てGeminiを触ってみようと思ったのがきっかけです。\n以前にGeminiを使用したときは精度、機能ともに物足りないなと感..."
   },
   {
+    "title": "FastAPIのテストコードを書いてDIの重要性を知った話",
+    "link": "https://zenn.dev/lancers/articles/1bff9ebffdbd89",
+    "pubDate": "Thu, 27 Nov 2025 01:56:09 GMT",
+    "source": "Zenn",
+    "contentSnippet": "きっかけ\nこんにちは、ランサーズでエンジニアをしている岡田です。\n当時は開発スピード優先でテストコードなんて二の次。\nDIの概念は知りつつも、「DIを意識した開発コードって？」「DIを意識すると何が良いの？」と分からないままでした。\nそれでも、FastAPI+sqlalchemyの開発では、DBを使う時に大抵エンドポイントの引数にdb: Session = Depends(get_db)が出てきま"
+  },
+  {
     "title": "「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。",
     "link": "https://zenn.dev/loglass/articles/16745471ef55ff",
     "pubDate": "Wed, 26 Nov 2025 23:22:39 GMT",
@@ -110,6 +124,13 @@
     "pubDate": "Wed, 26 Nov 2025 20:11:02 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事では、iOS 向け Mastodon クライアント DAWN が行った投稿画面の UI デザイン改善について解説します。\nDAWNは、iOSのネイティブアプリとしての使いやすさと、Mastodonの分散型SNSとしての特性を両立させることを目指しています。\n先日、App Storeで３つのフィーチャー掲載をいただき、ユーザーの皆様からも高い評価をいただいています。\n\n今回の変更では、よりネ"
+  },
+  {
+    "title": "JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由",
+    "link": "https://zenn.dev/akari1106/articles/ba99c8702ee732",
+    "pubDate": "Wed, 26 Nov 2025 17:22:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nJSONくん、君はちょっと「おしゃべり」すぎるかもしれない。\n開発をしていると、JSON (JavaScript Object Notation) とはもう「空気」のような存在ですよね。何かしらどこかしらで付き合いのある感じ。\nAPIを叩けばJSONが返ってくる。設定ファイルもJSON。何ならログもJSON。\n私も長年連れ添った相棒として、彼（JSON）のことは信頼しています。\nでも、L"
   },
   {
     "title": "git worktree 並列開発でのポート競合を解消するCLI、PortMuxを作りました",
@@ -138,27 +159,6 @@
     "pubDate": "Wed, 26 Nov 2025 12:00:05 GMT",
     "source": "Zenn",
     "contentSnippet": "概要\nどすこいです！\nこの記事では、Dockerfileを実務で扱う際に知っておくと大きく効率が上がる設計ガイドを書きました！\nDockerそのものの仕組みには深入りせず、実際にDockerfileを書く場面でつまずきやすい部分だけを解説します！\nなお、扱う例はGoを想定しています。\n\n この記事で行わないこと\n\nDockerの基礎\nネットワーク、ボリューム、Docker Engineの詳細解説\n"
-  },
-  {
-    "title": "MCP 認可の新仕様(2025-11-25)で登場のCIMDについて",
-    "link": "https://zenn.dev/kplusk/articles/d4c2ec231bbd46",
-    "pubDate": "Wed, 26 Nov 2025 10:48:29 GMT",
-    "source": "Zenn",
-    "contentSnippet": "MCPの新仕様(2025-11-25)の大きなアップデートの一つであるCIMD(Client ID Metadata Documents)について自分なりに調べた内容を書きます。\nhttps://modelcontextprotocol.io/specification/2025-11-25/basic/authorization\n!\nセキュリティの専門家ではないため、内容に間違いが見られる場合は"
-  },
-  {
-    "title": "機能的凝集とコロケーションで保守しやすい React Router v7 コンポーネント設計",
-    "link": "https://zenn.dev/coji/articles/react-router-v7-functional-cohesion-colocation",
-    "pubDate": "Wed, 26 Nov 2025 10:13:13 GMT",
-    "source": "Zenn",
-    "contentSnippet": "これはなに？\n複数のユーザーロールや類似機能を含むフロントエンドで、コンポーネントをどう分割すべきか悩んだことはありませんか？本記事では「機能的凝集」という考え方と、remix-flat-routes のコロケーション構成を組み合わせることで、条件分岐が散らばりにくく保守しやすい設計を紹介します。\n本記事では以下の技術スタックを前提としています。\n\nReact Router v7（framewor"
-  },
-  {
-    "title": "モノレポ＋Hono＋OpenAPIスキーマ駆動(Orval)+Drizzleは最高",
-    "link": "https://zenn.dev/takumi0706/articles/12229d929523ec",
-    "pubDate": "Wed, 26 Nov 2025 08:05:10 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n最近の開発で、モノレポ上に Hono のバックエンドと Next.js のフロントを抱えたアプリを作っている。そこで一周回って確信したのが、「Hono + OpenAPIスキーマ駆動 (Orval) + Drizzle」の組み合わせがとにかく快適ということ。この記事では、その理由と気持ちよかった設計ポイントをまとめる。\nポイントは以下の3つ。\n\nHonoがプレゼンテーション層の薄皮に徹し"
   },
   {
     "title": "AI時代、未経験から1年で実務レベルのエンジニアになった方法",

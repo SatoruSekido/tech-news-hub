@@ -1,73 +1,73 @@
 [
   {
-    "title": "Java copySign() Method: Your Guide to Sign Manipulation",
-    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-copysign-method-your-guide-to-sign-manipulation-1k2i",
-    "pubDate": "Fri, 28 Nov 2025 12:38:56 +0000",
+    "title": "Identity-Based Computing: A Post-Device Architecture",
+    "link": "https://dev.to/suign/identity-based-computing-a-post-device-architecture-17o7",
+    "pubDate": "Fri, 28 Nov 2025 18:28:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Java copySign() Method: Finally, Take Control of Your Number's Sign\n\n\nAlright, let's talk about one of those \"hidden gem\" methods in Java that doesn't get the spotlight it deserves. We're diving deep "
+    "contentSnippet": "We shouldn’t think in terms of devices anymore.\nLet’s break down what that means.\n⸻\n\n💡 Why Devices No Longer Make Sense\nEvery one of these is treated as a “container of state”.\nBut as soon as you los"
   },
   {
-    "title": "How Vibe Coding Changed my Development Workflow",
-    "link": "https://dev.to/davidmorais/how-vibe-coding-changed-my-development-workflow-38gb",
-    "pubDate": "Fri, 28 Nov 2025 12:37:05 +0000",
+    "title": "How Do I Return the Response from an Asynchronous Call?",
+    "link": "https://dev.to/sharmaprash/how-do-i-return-the-response-from-an-asynchronous-call-nl2",
+    "pubDate": "Fri, 28 Nov 2025 18:10:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Intro\n\n\nIn this article, I walk through the process of building Phantom Pulse, highlighting how I used AI tools for planning and development. I share insights from exploring the LLM landscape, as well"
+    "contentSnippet": "Async calls (e.g., fetch()) return Promises, not immediate values. Direct return yields undefined. Focus: JavaScript (adapt for other langs).\nfunction fetchData() {\n  let result;\n  fetch('https://api."
   },
   {
-    "title": "Java String Ceiling: What It Is & How to Implement It | CoderCrafter",
-    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-string-ceiling-what-it-is-how-to-implement-it-codercrafter-3iik",
-    "pubDate": "Fri, 28 Nov 2025 12:35:37 +0000",
+    "title": "Memory-Safety-Ultimate-Guardian",
+    "link": "https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-20eb",
+    "pubDate": "Fri, 28 Nov 2025 18:07:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Java String Ceil(): The Method That Doesn't Exist (And How to Build Your Own\n\n\n)\nYou instinctively type \"someText\".ceil() and... nothing. Your IDE stares back at you with a red squiggly line of disapp"
+    "contentSnippet": "GitHub Home\nA hacker exploited this vulnerability, bypassed authentication, and stole the entire user table data. By the time we discovered it, it was too late. For the next few months, our entire tea"
   },
   {
-    "title": "Amazon Quick Suite : Quick Flow and Quick Research",
-    "link": "https://dev.to/budionosan/amazon-quick-suite-quick-flow-and-quick-research-15li",
-    "pubDate": "Fri, 28 Nov 2025 12:32:56 +0000",
+    "title": "What is a NullPointerException, and How Do I Fix It?",
+    "link": "https://dev.to/sharmaprash/what-is-a-nullpointerexception-and-how-do-i-fix-it-7bc",
+    "pubDate": "Fri, 28 Nov 2025 18:06:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "REQUIREMENTS : \nAWS account, you can sign up/sign in here\n\nAmazon Quick Suite : Integration and Extension blog, you can see this blog\n\n\n\nA. Amazon Quick Suite : Quick Flow\nPROBLEM : Manual check CV sc"
+    "contentSnippet": "NullPointerException (NPE) is a Java runtime exception thrown when code accesses a null reference (e.g., calling a method on null).\nTrigger: Attempting to use a null object reference (e.g., null.lengt"
   },
   {
-    "title": "🚀 From Scattered Scripts to Product Hunt Launch: My Journey Building the Professional Automation Toolkit",
-    "link": "https://dev.to/dopaminefiend/from-scattered-scripts-to-product-hunt-launch-my-journey-building-the-professional-automation-6b8",
-    "pubDate": "Fri, 28 Nov 2025 12:25:55 +0000",
+    "title": "Clean and maintainable Git Histories – Part 2",
+    "link": "https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip",
+    "pubDate": "Fri, 28 Nov 2025 18:05:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 From Scattered Scripts to Product Hunt Launch: My Journey Building the Professional Automation Toolkit\n\n\n\n  \n  \n  🌱 The Beginning\n\n\nSix months ago, I was staring at a folder full of chaos: 30+ aut"
+    "contentSnippet": "3 simple tricks for managing git histories\nIt took me a while to learn these simple tricks for effectively managing Git histories with just a few commands. In the first article, I explained why clear,"
   },
   {
-    "title": "Nested Checkox - React Interview",
-    "link": "https://dev.to/zeeshanali0704/nested-checkox-react-interview-145p",
-    "pubDate": "Fri, 28 Nov 2025 12:25:51 +0000",
+    "title": "Xray Test Management for Jira: To What Extent Can AgileTest Be An Affordable Alternative? ",
+    "link": "https://dev.to/kayson_2025/xray-test-management-for-jira-to-what-extent-can-agiletest-be-an-affordable-alternative-4h4c",
+    "pubDate": "Fri, 28 Nov 2025 18:04:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "// App.js (React, CodeSandbox-ready)\n// Nested checkboxes with parent/child sync and indeterminate states.\n\nimport React from \"react\";\n\n// ----- Sample tree data -----\nconst tree = {\n  id: \"a\",\n  labe"
+    "contentSnippet": "Xray Test Management for Jira is a widely used tool for test planning, execution, and reporting, offering a comprehensive set of features to manage testing workflows directly within Jira. It’s designe"
   },
   {
-    "title": "My Journey From No-Code to Real Product Design",
-    "link": "https://dev.to/vidya_trikon_tech/my-journey-from-no-code-to-real-product-design-29gj",
-    "pubDate": "Fri, 28 Nov 2025 12:20:20 +0000",
+    "title": "Ringer Movies: The Robert Redford Hall of Fame",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-4k88",
+    "pubDate": "Fri, 28 Nov 2025 18:00:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "My Journey From No-Code to Real Product Design\nWhen I first started building things, I wasn’t writing code.\nI began with no-code tools — simple drag-and-drop platforms that helped me bring ideas to li"
+    "contentSnippet": "The Robert Redford Hall of Fame\n\nSean Fennessey and Amanda Dobbins invite actor-playwright Tracy Letts to celebrate Robert Redford’s illustrious career. Together they riff on his standout roles, share"
   },
   {
-    "title": "Vue tricks: smart layouts for VueJS",
-    "link": "https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5",
-    "pubDate": "Fri, 28 Nov 2025 12:14:13 +0000",
+    "title": "CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3c05",
+    "pubDate": "Fri, 28 Nov 2025 18:00:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mastering layouts in Vue.js is a milestone that separates beginners from intermediate developers. When you first start, you likely wrap every page in a <NavBar> and <Footer> component. It works, but i"
+    "contentSnippet": "Summary\n\n\nCinema Sins takes on Fantastic Four in a rapid-fire “Everything Wrong With…” video, clocking in at under 20 minutes and delivering their usual blend of snarky quips and pointed “sins.” They "
   },
   {
-    "title": "useState in React Hook",
-    "link": "https://dev.to/bharath_11/usestate-in-react-hook-43bd",
-    "pubDate": "Fri, 28 Nov 2025 12:09:34 +0000",
+    "title": "Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome",
+    "link": "https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3",
+    "pubDate": "Fri, 28 Nov 2025 17:44:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "updating the screen:\nimport { useState } from 'react';\n\nyour component to “remember” some information and display it.\nfunction MyButton() {\n  const [count, setCount] = useState(0);\n\ninitial state of c"
+    "contentSnippet": "I'm a Python developer who takes pride in writing code that's more readable and less ambiguous or failure prone. Therefore, it was a never-before seen adventure for me, a journey of treading unknown t"
   },
   {
-    "title": "Explore Private Plane Charter Benefits With First Book Never Miss",
-    "link": "https://dev.to/anmaraviation/explore-private-plane-charter-benefits-with-first-book-never-miss-5930",
-    "pubDate": "Fri, 28 Nov 2025 12:03:19 +0000",
+    "title": "PART 5 — The Rise of Network SQL (N-SQL)",
+    "link": "https://dev.to/peacebinflow/part-5-the-rise-of-network-sql-n-sql-240b",
+    "pubDate": "Fri, 28 Nov 2025 17:42:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Traveling by air can be stressful. Long check-ins, security lines, and delays often make trips exhausting. For those who value time, comfort, and convenience, private plane charter is an ideal solutio"
+    "contentSnippet": "SECTION 1 — The Past: The Origin Story of SQL\nBefore we talk about a new query language for networks, we have to pay respect to the old one — the one that defined how the entire digital world thinks a"
   },
   {
     "title": "Docker環境のNestJSアプリの検索パフォーマンスを確認する方法",

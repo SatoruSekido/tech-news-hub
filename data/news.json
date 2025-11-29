@@ -1,73 +1,80 @@
 [
   {
-    "title": "Identity-Based Computing: A Post-Device Architecture",
-    "link": "https://dev.to/suign/identity-based-computing-a-post-device-architecture-17o7",
-    "pubDate": "Fri, 28 Nov 2025 18:28:37 +0000",
+    "title": "A Critique & Refresh for the SXSW Community Manager Manifesto (2012)",
+    "link": "https://dev.to/commit_confidential/a-critique-refresh-for-the-sxsw-community-manager-manifesto-2012-4741",
+    "pubDate": "Sat, 29 Nov 2025 01:44:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We shouldn’t think in terms of devices anymore.\nLet’s break down what that means.\n⸻\n\n💡 Why Devices No Longer Make Sense\nEvery one of these is treated as a “container of state”.\nBut as soon as you los"
+    "contentSnippet": "SXSW Community Manager Manifesto (2012)\n\n\n\n  \n  \n  CRITIQUE & ANALYSIS\n\n\n\n  \n  \n  Authored by:\n\n\n\nMichael Ellis\n\nJoy Ndukwe\n\n[Your Name Here]\nThe Community Creed (2026) is a living document created to"
   },
   {
-    "title": "How Do I Return the Response from an Asynchronous Call?",
-    "link": "https://dev.to/sharmaprash/how-do-i-return-the-response-from-an-asynchronous-call-nl2",
-    "pubDate": "Fri, 28 Nov 2025 18:10:05 +0000",
+    "title": "Building a Frankenstein App in 14 Days: How Kiro Changed My Development Workflow",
+    "link": "https://dev.to/dev_dl/building-a-frankenstein-app-in-14-days-how-kiro-changed-my-development-workflow-96a",
+    "pubDate": "Sat, 29 Nov 2025 01:43:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Async calls (e.g., fetch()) return Promises, not immediate values. Direct return yields undefined. Focus: JavaScript (adapt for other langs).\nfunction fetchData() {\n  let result;\n  fetch('https://api."
+    "contentSnippet": "The Challenge\n\n\nDuring the Kiroween hackathon, I set out to build something ambitious: an API Schema Explorer that combines three typically separate developer tools into one unified platform. The app "
   },
   {
-    "title": "Memory-Safety-Ultimate-Guardian",
-    "link": "https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-20eb",
-    "pubDate": "Fri, 28 Nov 2025 18:07:46 +0000",
+    "title": "Middleware-Philosophy-The-Perfect-Balance-of-Simplicity-and-Power",
+    "link": "https://dev.to/member_8455d9df/middleware-philosophy-the-perfect-balance-of-simplicity-and-power-oaj",
+    "pubDate": "Sat, 29 Nov 2025 01:42:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nA hacker exploited this vulnerability, bypassed authentication, and stole the entire user table data. By the time we discovered it, it was too late. For the next few months, our entire tea"
+    "contentSnippet": "GitHub Home\nThat was in a large e-commerce platform project where we needed to implement complex request processing flows. User authentication, permission checking, logging, performance monitoring, an"
   },
   {
-    "title": "What is a NullPointerException, and How Do I Fix It?",
-    "link": "https://dev.to/sharmaprash/what-is-a-nullpointerexception-and-how-do-i-fix-it-7bc",
-    "pubDate": "Fri, 28 Nov 2025 18:06:47 +0000",
+    "title": "Digital Excellence Is Now the Baseline - Not a Bonus",
+    "link": "https://dev.to/farhannasirdev/digital-excellence-is-now-the-baseline-not-a-bonus-4nl4",
+    "pubDate": "Sat, 29 Nov 2025 01:39:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "NullPointerException (NPE) is a Java runtime exception thrown when code accesses a null reference (e.g., calling a method on null).\nTrigger: Attempting to use a null object reference (e.g., null.lengt"
+    "contentSnippet": "Digital excellence isn’t optional anymore. Every pixel, every workflow, and every line of code directly shapes how users experience your product — and how your business grows.\nBuild fast - but build s"
   },
   {
-    "title": "Clean and maintainable Git Histories – Part 2",
-    "link": "https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip",
-    "pubDate": "Fri, 28 Nov 2025 18:05:26 +0000",
+    "title": "mcp-scan: a ferramenta que revela riscos que você não vê",
+    "link": "https://dev.to/caramelo-ti/mcp-scan-a-ferramenta-que-revela-riscos-que-voce-nao-ve-3dci",
+    "pubDate": "Sat, 29 Nov 2025 01:31:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "3 simple tricks for managing git histories\nIt took me a while to learn these simple tricks for effectively managing Git histories with just a few commands. In the first article, I explained why clear,"
+    "contentSnippet": "Recentemente saiu a nova edição do Tech Radar da Thoughtworks e, dando uma olhada no quadrante de ferramentas no anel Trial, me deparei com uma recomendação de um colega: o servidor MCP Context7. A pr"
   },
   {
-    "title": "Xray Test Management for Jira: To What Extent Can AgileTest Be An Affordable Alternative? ",
-    "link": "https://dev.to/kayson_2025/xray-test-management-for-jira-to-what-extent-can-agiletest-be-an-affordable-alternative-4h4c",
-    "pubDate": "Fri, 28 Nov 2025 18:04:54 +0000",
+    "title": "Java > Python for AI Agents? I Built a Surf-Forecasting Agent to Find Out",
+    "link": "https://dev.to/phouchens/java-python-for-ai-agents-i-built-a-surf-forecasting-agent-to-find-out-5aca",
+    "pubDate": "Sat, 29 Nov 2025 01:30:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Xray Test Management for Jira is a widely used tool for test planning, execution, and reporting, offering a comprehensive set of features to manage testing workflows directly within Jira. It’s designe"
+    "contentSnippet": "StokeBroker: My Journey Building an AI Surf Agent with Java and Embabel\n\n\nShots fired! Sorry Python people, but let me explain. Only a couple of days after I wrote CodeBro, my AI agent written in Java"
   },
   {
-    "title": "Ringer Movies: The Robert Redford Hall of Fame",
-    "link": "https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-4k88",
-    "pubDate": "Fri, 28 Nov 2025 18:00:23 +0000",
+    "title": "Modern Navigation in SwiftUI",
+    "link": "https://dev.to/sebastienlato/modern-navigation-in-swiftui-1c8g",
+    "pubDate": "Sat, 29 Nov 2025 01:24:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Robert Redford Hall of Fame\n\nSean Fennessey and Amanda Dobbins invite actor-playwright Tracy Letts to celebrate Robert Redford’s illustrious career. Together they riff on his standout roles, share"
+    "contentSnippet": "Navigation in SwiftUI has evolved massively since the early days of NavigationView.\n\nWith NavigationStack, NavigationPath, sheet detents, and modern transitions, we finally have a system that’s flexib"
   },
   {
-    "title": "CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3c05",
-    "pubDate": "Fri, 28 Nov 2025 18:00:10 +0000",
+    "title": "Because the existing Mermaid diagram editors online produce unattractive charts, I created a new one.",
+    "link": "https://dev.to/glenn_chencg33_10528ea/because-the-existing-mermaid-diagram-editors-online-produce-unattractive-charts-i-created-a-new-1939",
+    "pubDate": "Sat, 29 Nov 2025 01:24:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Summary\n\n\nCinema Sins takes on Fantastic Four in a rapid-fire “Everything Wrong With…” video, clocking in at under 20 minutes and delivering their usual blend of snarky quips and pointed “sins.” They "
+    "contentSnippet": "https://modern-mermaid.live\nI've been using Mermaid for flowcharts and diagrams for a while, but I always felt that the available online editors just produce ugly, unpolished charts. So I decided to b"
   },
   {
-    "title": "Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome",
-    "link": "https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3",
-    "pubDate": "Fri, 28 Nov 2025 17:44:13 +0000",
+    "title": "Async-Programming-New-Era",
+    "link": "https://dev.to/member_34349a73/async-programming-new-era-401c",
+    "pubDate": "Sat, 29 Nov 2025 01:08:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I'm a Python developer who takes pride in writing code that's more readable and less ambiguous or failure prone. Therefore, it was a never-before seen adventure for me, a journey of treading unknown t"
+    "contentSnippet": "GitHub Home\nAs a veteran with 40 years of programming experience, I have experienced various stages of async programming development. Remember those days of writing code with callback hell? Every asyn"
   },
   {
-    "title": "PART 5 — The Rise of Network SQL (N-SQL)",
-    "link": "https://dev.to/peacebinflow/part-5-the-rise-of-network-sql-n-sql-240b",
-    "pubDate": "Fri, 28 Nov 2025 17:42:37 +0000",
+    "title": "Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More",
+    "link": "https://dev.to/rosgluk/local-llm-hosting-complete-2025-guide-ollama-vllm-localai-jan-lm-studio-more-1dcl",
+    "pubDate": "Sat, 29 Nov 2025 01:07:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SECTION 1 — The Past: The Origin Story of SQL\nBefore we talk about a new query language for networks, we have to pay respect to the old one — the one that defined how the entire digital world thinks a"
+    "contentSnippet": "Local deployment of LLMs has become increasingly popular as developers and organizations seek enhanced privacy, reduced latency, and greater control over their AI infrastructure.\nThe market now offers"
+  },
+  {
+    "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
+    "link": "https://qiita.com/quniquni/items/1e6bafbc6bfce74afe5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T08:49:28.000Z",
+    "source": "Qiita",
+    "contentSnippet": "React / Next.js に慣れてくると、次に悩むのはだいたい「設計レイヤー」まわりですよね。\n\nコンポーネントが太りやすい\n\nuseEffect が増えてロジックが迷子になる\n状態をどこに置くか毎回迷う\nHooks をどこまで分割すべきか分からない\n\nこのあたりのモ..."
   },
   {
     "title": "Docker環境のNestJSアプリの検索パフォーマンスを確認する方法",
@@ -84,11 +91,32 @@
     "contentSnippet": "はじめに\nNestJSでアプリを開発していて、jestを使ったmockを触る機会がありました。その際、mockの使い分けがわからなかったので、まとめてみました。\n私が疑問に思ったのは「mockClear()をよく使っているけど、たまにでてくるmockReset()は何だろ..."
   },
   {
+    "title": "RxJS入門｜ObservableとOperator",
+    "link": "https://qiita.com/Tsurukawauchi_Jin/items/85e41aca2ba8eac2fd8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T00:40:57.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nAngularを使っていると避けては通れないRxJSですが、「正直よくわからないまま使っている」という人も多いのではないでしょうか。僕もまさにその一人でした。\nそこで本記事では、RxJSを理解するうえで最初に押さえておきたいキーワードを中心に、基本をシンプルに整..."
+  },
+  {
+    "title": "家に来た人に毎回Wi-Fiパスワード聞かれるのが面倒なので、QR化したら謎の歓迎ページが爆誕した",
+    "link": "https://qiita.com/mamoru-ngy/items/baa445f308238c10df3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T23:50:11.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. 毎回Wi-Fiパスワードを共有するの、面倒じゃないですか？\n家に友人が来たとき、ほぼ毎回こうなります。\n\n「WiFiパスワード教えて〜」\n「いいよ〜！これパスワード！」\n「ありがとう！（入力…）あれ、つながらない、、、」\n「えっ、ここ一文字間違えてるかも」\n\nいつも..."
+  },
+  {
     "title": "【書籍まとめ】この一冊で全部わかる ネットワークの基本 (1章〜3章)",
     "link": "https://qiita.com/Nao52/items/d94edde982c355f7cc13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-27T23:30:48.000Z",
     "source": "Qiita",
     "contentSnippet": "参考書籍\n\nイラスト図解式 この一冊で全部わかるネットワークの基本 第2版\n\n前提条件\n\n上記の書籍でインプットをしていることを前提としているため、解説等は基本的にありません。\n特に図で理解をした方がいい場合も多いので、ぜひ読んでみていただきたいです。\nインプット後の知..."
+  },
+  {
+    "title": "開発生産性を最大化するために考えていること ~あるいは技術的負債について",
+    "link": "https://zenn.dev/bloomo_tech/articles/a93e4ecbb16b15",
+    "pubDate": "Thu, 27 Nov 2025 23:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n\n 要約\n\n開発生産性を事業価値へと繋げるまでにいくつもロスが発生する。ロスを分類してどのようなアクションを行うべきかを整理する。\n技術的負債はメタファーとして誕生したが、現代ではコードや設計、開発プロセスの不備を指す言葉としても使われている。技術的負債の教訓は負債は避けられず、放置していると指数関数的に増える場合があることと、メタファーが生まれて定着するくらいには技術的なロスの説明が難"
   },
   {
     "title": "Open Notebookを完全ローカル環境で動かす方法",
@@ -105,18 +133,25 @@
     "contentSnippet": "AI にコードレビューを投げると、ありがたいことに山ほどレビューコメントが返ってくる。\nしかし、実際に運用してみると、その中には直さなくても良さそうな細かい指摘や、そもそもレビュー内容自体が誤っているコメントが紛れ込み、PR のコメント欄があっという間にカオスな状態になることも珍しくない。\n結局のところ、一つひとつについて「この指摘は妥当か？」「今すぐ対応すべきか？」を目で追いながら判断していくこ"
   },
   {
+    "title": "1Password Shell Pluginが便利",
+    "link": "https://qiita.com/ohakutsu/items/384a3d0802dbe08287db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T09:33:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1Password Shell Pluginを長らく使っていて便利だなと感じているので紹介します！\n\n1Password Shell Pluginとは\nCLIツール（GitHub CLI, AWS CLIなど）の実行時に、1Passwordに保存したCLIツールの認証情報を..."
+  },
+  {
+    "title": "Go + クリーンアーキテクチャで AI エージェント基盤を再設計した話【前編】",
+    "link": "https://zenn.dev/iyusuke/articles/b06400ce2b66c9",
+    "pubDate": "Thu, 27 Nov 2025 09:22:45 GMT",
+    "source": "Zenn",
+    "contentSnippet": "AIエージェントの開発を一気に行っていたのでそのまとめとなる記事を書いてみようと思います。\nエージェント開発のSDKやノーコードツールは充実してきていますが、MVPとしてバックエンドとして使ってる Go でライブラリなどをあまり使わず開発を進めた結果、ほぼ自前で実装することになったので一からのAIエージェント開発ということで参考になるかと思います。\n\n 1. はじめに：なぜ Go で AI エージ"
+  },
+  {
     "title": "2台のDGX Sparkを相互接続して無事にvLLMを動作させるまでのメモ",
     "link": "https://zenn.dev/t0d4/articles/7d8951b7c40fba",
     "pubDate": "Thu, 27 Nov 2025 09:03:36 GMT",
     "source": "Zenn",
     "contentSnippet": "DGX Sparkは，「デスク上の Grace Blackwell AI スーパーコンピューター」を謳うMac miniサイズのAIワークステーションです．\nhttps://www.nvidia.com/ja-jp/products/workstations/dgx-spark/\n今回これを2台購入して相互接続し，vLLMによってマルチノード構成のTensor Parallelismでgpt-os"
-  },
-  {
-    "title": "【NanoBanana🍌(Gemini)】画像生成の精度を極限まで高めたプロンプトエンジニアリング6つの実践",
-    "link": "https://qiita.com/GIFCat/items/b60e263366b720f004bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T08:49:46.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。\nGIFTechの伝統工芸×テクノロジープロジェクト –– GIFTech JAPAN NEXT CRAFTでアプリケーション開発を担当した@enumura1 です。\nこのアプリは伝統工芸職人さん向けの、プロダクトデザインAIアプリです。独自性の高い技術を用い..."
   },
   {
     "title": "Next.js Cache回想",
@@ -154,20 +189,6 @@
     "contentSnippet": "こんにちは、ログラスの松岡(@little_hand_s)です\n\n\n 3行まとめ\n\n「先にテストをまとめて書かせる」はTDDではない（サイクルと目的が違う）\n従来のTDDでは非推奨だったが、AI時代では有効な手法に\n違いを理解して使い分けることで、AI時代の開発がより効果的になる\n\n\n AI時代のTDDと、混乱しやすい実現方法\n最近、AI開発の文脈で「TDD（Test-Driven Develop"
   },
   {
-    "title": "SNSアプリの投稿画面のUIデザイン改善",
-    "link": "https://zenn.dev/noppe/articles/7093cbaac7d976",
-    "pubDate": "Wed, 26 Nov 2025 20:11:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事では、iOS 向け Mastodon クライアント DAWN が行った投稿画面の UI デザイン改善について解説します。\nDAWNは、iOSのネイティブアプリとしての使いやすさと、Mastodonの分散型SNSとしての特性を両立させることを目指しています。\n先日、App Storeで３つのフィーチャー掲載をいただき、ユーザーの皆様からも高い評価をいただいています。\n\n今回の変更では、よりネ"
-  },
-  {
-    "title": "JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由",
-    "link": "https://zenn.dev/akari1106/articles/ba99c8702ee732",
-    "pubDate": "Wed, 26 Nov 2025 17:22:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nJSONくん、君はちょっと「おしゃべり」すぎるかもしれない。\n開発をしていると、JSON (JavaScript Object Notation) とはもう「空気」のような存在ですよね。何かしらどこかしらで付き合いのある感じ。\nAPIを叩けばJSONが返ってくる。設定ファイルもJSON。何ならログもJSON。\n私も長年連れ添った相棒として、彼（JSON）のことは信頼しています。\nでも、L"
-  },
-  {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",
     "link": "https://www.publickey1.jp/blog/25/kubernetesawsamazon_eks_mcp_server.html",
     "pubDate": "2025-11-26T15:39:23.000Z",
@@ -196,13 +217,6 @@
     "contentSnippet": "はじめに\nGMOコネクトの永田です。\nエンジニアやアーキテクトの皆さん、こんな経験はありませんか？\n「この技術的な内容、文字だけじゃ分かりにくいから絵で説明して」\n分かりやすく説明したい気持ちはあるものの、AWS構成図やアーキテクチャ図を作るのは正直かなり面倒。構成を整理..."
   },
   {
-    "title": "【30日でAWSをマスターするハンズオン問題集】Day1：AWSのアクセス制御「IAM」",
-    "link": "https://qiita.com/chiaoi/items/f923a5b3ea086f26ca1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-26T01:26:27.000Z",
-    "source": "Qiita",
-    "contentSnippet": "📝 概要\nこちらの投稿は2025 Japan AWS Jr.Championsの有志メンバーで作成した『30日間で主要AWSサービスを構築できるようになる』をテーマにした初学者向けのハンズオン問題集のDAY1になります！\n問題集の趣旨や作成に至るまでの経緯は以下の記事をご..."
-  },
-  {
     "title": "Rubyの次バージョンは「Ruby 4.0」に。「Ruby 4.0 Preview2」がリリース",
     "link": "https://www.publickey1.jp/blog/25/rubyruby_40ruby_40_preview2.html",
     "pubDate": "2025-11-25T15:55:03.000Z",
@@ -215,20 +229,6 @@
     "pubDate": "2025-11-25T15:52:09.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトは同社のリレーショナルデータベース製品の最新版「SQL Server 2025」正式版のリリースを発表しました。 DBエンジンにAIを統合 SQL Server 2025ではデータベースエンジンにAIが統合され、データに対してセマンティックサーチや自然言語での対話が可能となりました。 操作言語として使われている「Transact-SQL」（T-SQL）にAIモデル管理機能が組み込まれ"
-  },
-  {
-    "title": "30日でAWSをマスターするハンズオン問題集の投稿開始します！！",
-    "link": "https://qiita.com/satosato_kozakana/items/446971c2deca7e27d0aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T12:06:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。\n2025 Japan AWS Jr. Champions のさとみんです。\nこの度、Jr.Championsの有志メンバーで協力してハンズオン問題集を作成しました…！！\n題して\n\n【30日でAWSをマスターするハンズオン問題集】\n\nです！！\n今回は0日目として..."
-  },
-  {
-    "title": "AWSのコスト削減・最適化手法とコスト管理の勘所",
-    "link": "https://qiita.com/kiwi-dev/items/df7e2923e0a723ccc345?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T11:34:44.000Z",
-    "source": "Qiita",
-    "contentSnippet": "本記事では私が行ってきたAWSでのコスト削減、最適化の手法とコスト管理全般に関わることを記載します。\n執筆時点(2025/11)の情報となりますので記事閲覧日によっては新しいサービスや機能改修により記事内容が適切ではない可能性がございますのでご留意ください。\n\n不要・余分な..."
   },
   {
     "title": "ワイヤレス給電システムを提供するスタートアップが、データベースとしてTiDBを選択する理由とは？［PR］",

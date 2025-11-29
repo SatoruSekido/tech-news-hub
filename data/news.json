@@ -1,73 +1,94 @@
 [
   {
-    "title": "Guide to Mitsuki Repositories: From Zero to Full CRUD",
-    "link": "https://dev.to/david_landup/guide-to-mitsuki-repositories-from-zero-to-full-crud-59n6",
-    "pubDate": "Sat, 29 Nov 2025 06:34:42 +0000",
+    "title": "7 DevOps Skills Nobody Tells You to Learn Early — FULL BREAKDOWN",
+    "link": "https://dev.to/arbythecoder/7-devops-skills-nobody-tells-you-to-learn-early-full-breakdown-3d8m",
+    "pubDate": "Sat, 29 Nov 2025 12:39:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nThe data access layer is the foundation of web applications, sitting at the bottom of the layered architectures that power enterprise code.\nMitsuki's data layer, centered around the @Cr"
+    "contentSnippet": "TL;DR: These 7 skills separate DevOps engineers who grow FAST from those stuck troubleshooting for years. Each one looks simple but has hidden layers that only show up in production. Read on for real "
   },
   {
-    "title": "A Single Dork to Understand Your Infrastructure: Asset Exposure & Configuration Profiling",
-    "link": "https://dev.to/rrrowan/a-single-dork-to-understand-your-infrastructure-asset-exposure-configuration-profiling-4j0k",
-    "pubDate": "Sat, 29 Nov 2025 06:25:13 +0000",
+    "title": "Delhi Climate Visualization using KitikiPlot",
+    "link": "https://dev.to/boddu_sripavan_5b6c8d66d4/delhi-climate-visualization-using-kitikiplot-l44",
+    "pubDate": "Sat, 29 Nov 2025 12:35:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In cybersecurity, identifying internet-facing infrastructure and rapidly building configuration profiles is fundamental to effective defense. There are multiple ways to capture this information, and Z"
+    "contentSnippet": "Introduction\n\n\nClimate analysis systematically examines historical weather data over a specified period, focusing on key factors such as temperature, humidity, atmospheric pressure, etc. These paramet"
   },
   {
-    "title": "Filecnv — Fast, Private, and Secure Image Processing in the Browser",
-    "link": "https://dev.to/cismic/filecnv-fast-private-and-secure-image-processing-in-the-browser-33dh",
-    "pubDate": "Sat, 29 Nov 2025 06:18:08 +0000",
+    "title": "abstractions in memory system for agents",
+    "link": "https://dev.to/crawlingcrusader/abstractions-in-memory-system-for-agents-2nd9",
+    "pubDate": "Sat, 29 Nov 2025 12:31:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Images are a massive part of the web these days—whether for e-commerce, portfolios, or social networks. But working with images tends to have trade-offs. Older websites upload your images to a server "
+    "contentSnippet": "when you are building a memory system for your agents you will likely go through following abstractions during development. these abstractions have been listed in the order of manual instrumentation r"
   },
   {
-    "title": "A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin",
-    "link": "https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0",
-    "pubDate": "Sat, 29 Nov 2025 06:07:31 +0000",
+    "title": "WE'RE LIVE ON PRODUCT HUNT",
+    "link": "https://dev.to/meysam81/were-live-on-product-hunt-2n4",
+    "pubDate": "Sat, 29 Nov 2025 12:21:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Let me break down what happens in .me(and why it’s powerful\n⸻\n\n\n  \n  \n  ✅ 1. You store a value inside a secret branch\n\n\nExample:\nme.wallet.secret(\"alpha\").privateBalance(99999);\nThis produces:\npayload"
+    "contentSnippet": "WE'RE LIVE ON PRODUCT HUNT\nAwesome Directories: 300+ curated launch directories for indie hackers\n→ Free forever\n🔗 Link below\nhttps://www.producthunt.com/products/awesome-directories\nIf you've ever w"
   },
   {
-    "title": "A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?",
-    "link": "https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p",
-    "pubDate": "Sat, 29 Nov 2025 06:05:01 +0000",
+    "title": "The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare",
+    "link": "https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof",
+    "pubDate": "Sat, 29 Nov 2025 12:18:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most people think AI browsers are hype; I tested Perplexity's Comet and learned this: it's a rocket on static pages and stalls on dynamic sites.\nIt changed how I run deep research.\nBut it also exposed"
+    "contentSnippet": "The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare\nFor a developer, this tiny hardware represents a massive challenge: What happens to user data when the fi"
   },
   {
-    "title": "CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef",
-    "pubDate": "Sat, 29 Nov 2025 06:00:27 +0000",
+    "title": "Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-4i28",
+    "pubDate": "Sat, 29 Nov 2025 12:17:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less\n\n\nCinemaSins serves up its trademark snark in a 20-minute breakdown of The Fantastic Four, pointing out every hiccup, plot h"
+    "contentSnippet": "Exploring Backend Development with Rust and Go: Insights from Web Developer Travis McCracken\nHi, I’m Travis McCracken—your friendly Web Developer passionate about building efficient, scalable, and rel"
   },
   {
-    "title": "Is software testing a good career in India among freshers? – Complete Guide (2025)",
-    "link": "https://dev.to/digital_quastechb_50ce999/is-software-testing-a-good-career-in-india-among-freshers-complete-guide-2025-4f62",
-    "pubDate": "Sat, 29 Nov 2025 05:59:03 +0000",
+    "title": "Comparison of Web Worker, SharedWorker, and Service Worke",
+    "link": "https://dev.to/zeeshanali0704/comparison-of-web-worker-sharedworker-and-service-worke-3ff0",
+    "pubDate": "Sat, 29 Nov 2025 12:17:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "It is not simple to make the correct choice of career after graduation. Software testing is one of the options, and thousands of fresh graduates are using this path today, which has been offered by th"
+    "contentSnippet": "Quick mental model\nWeb Worker (DedicatedWorker): Background thread for one page. No UI, no DOM. Best for CPU-heavy tasks off the main thread.\nSharedWorker: Background thread shared by multiple tabs/wi"
   },
   {
-    "title": "Semantic Algebra Spec.",
-    "link": "https://dev.to/suign/semantic-algebra-spec-23n5",
-    "pubDate": "Sat, 29 Nov 2025 05:54:23 +0000",
+    "title": "404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥",
+    "link": "https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b",
+    "pubDate": "Sat, 29 Nov 2025 12:10:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Symbolic Language for Identity, Meaning, and Computation\nWhat if every idea, file, identity, wallet, memory, or data point could be expressed with a single algebraic expression?\nSemantic Algebra — t"
+    "contentSnippet": "curl + Postman + brain = 404ping\nWhen I built 404ping v0.0.1, it was a tiny experiment.\nThat first version could only:\nSend simple HTTP requests\nStore a few variables\nHandle basic collections\nThat’s i"
   },
   {
-    "title": "Python Selenium Architecture",
-    "link": "https://dev.to/akshay_kiran_b011ddf5055f/python-selenium-architecture-420c",
-    "pubDate": "Sat, 29 Nov 2025 05:53:43 +0000",
+    "title": "Setting Up a Dev Environment for FastAPI, PostgreSQL, SQLAlchemy & Alembic with Docker",
+    "link": "https://dev.to/jod35/setting-up-a-dev-environment-for-fastapi-postgresql-sqlalchemy-alembic-with-docker-4nci",
+    "pubDate": "Sat, 29 Nov 2025 12:05:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Selenium follows a layered architecture that defines how automation scripts interact with a web browser. When using Python for automation, the workflow is structured in a clear communication hierarchy"
+    "contentSnippet": "In this video, I'll walk you through setting up a development environment for a FastAPI application using PostgreSQL as the database, SQLAlchemy as the ORM, and Alembic for handling migrations – all r"
   },
   {
-    "title": "Trauma-informed design left everyone asking: \"How does it actually know I'm struggling without spying?\"",
-    "link": "https://dev.to/crisiscoresystems/trauma-informed-design-left-everyone-asking-how-does-it-actually-know-im-struggling-without-26a0",
-    "pubDate": "Sat, 29 Nov 2025 05:52:50 +0000",
+    "title": "Your Video Testimonials Are Wasted. Deploy Them Here for Max B2B Lead Gen (Not Your Homepage).",
+    "link": "https://dev.to/michaelaiglobal/your-video-testimonials-are-wasted-deploy-them-here-for-max-b2b-lead-gen-not-your-homepage-23pb",
+    "pubDate": "Sat, 29 Nov 2025 12:00:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This answers it—with real code and real ethics.\nWhen I launched Pain Tracker, the feedback from trauma survivors hit me like a truck:\n\"Okay, but how does it detect a crisis... without sending my data "
+    "contentSnippet": "We've all seen the playbook: you get a killer video testimonial from a happy customer, and the first thing you do is slap it onto your homepage. Job done, right? \nWrong. For a technical B2B audience, "
+  },
+  {
+    "title": "Claude Code スキル・サブエージェント攻略ガイド",
+    "link": "https://zenn.dev/oligin/articles/7691926a83936a",
+    "pubDate": "Sat, 29 Nov 2025 06:09:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本稿は、Claude Code のスキルとサブエージェントを確実に発動させるための実践ガイドである。公式ドキュメントには記載のない罠がいくつか存在するため、検証結果を踏まえて攻略手順をまとめる。忍耐力が試される区間なので気長に頑張りましょう。\n\n\n 発端：スキルが発火しない\nまず目標を確認する。やりたいのは「プロジェクト固有のコーディング規約を Claude に守らせる」こと。\nスキルを作成する。"
+  },
+  {
+    "title": "マケプレでサブスクしたMCPサーバーをAgentCore RuntimeにデプロイしてMCP Proxy for AWS経由でKiro CLIからアクセスする",
+    "link": "https://qiita.com/moritalous/items/7c156fad25748e4e6bde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T15:47:30.000Z",
+    "source": "Qiita",
+    "contentSnippet": "いろんなアップデートをごちゃまぜに検証しました。\n実用的に使いたい場合はローカルMCPでいいような気がします。\n{\n  \"mcpServers\": {\n    \"awslabs.aws-api-mcp-server\": {\n      \"command\": \"uvx\",..."
+  },
+  {
+    "title": "cc-sddで71ファイルのユーザー管理機能実装を手戻りなく進めた話",
+    "link": "https://zenn.dev/91works/articles/1f725ab39c31c2",
+    "pubDate": "Fri, 28 Nov 2025 12:15:19 GMT",
+    "source": "Zenn",
+    "contentSnippet": "所感・結論\ncc-sdd（Claude Code Spec-Driven Development）を初めて使ってみた。\nhttps://github.com/gotalab/cc-sdd\n結論から言うと、かなり品質よく、手戻りがほぼない状態で実装を進めることができた。今回ユーザー管理機能の実装という名目で、ファイル差分が71ファイル（そのうち約30ファイルは仕様書などのMarkdownドキュメント"
   },
   {
     "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
@@ -77,25 +98,25 @@
     "contentSnippet": "React / Next.js に慣れてくると、次に悩むのはだいたい「設計レイヤー」まわりですよね。\n\nコンポーネントが太りやすい\n\nuseEffect が増えてロジックが迷子になる\n状態をどこに置くか毎回迷う\nHooks をどこまで分割すべきか分からない\n\nこのあたりのモ..."
   },
   {
-    "title": "Docker環境のNestJSアプリの検索パフォーマンスを確認する方法",
-    "link": "https://qiita.com/I635230/items/e27c2f519ec0bff14c84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T02:21:29.000Z",
+    "title": "VizGames2025を振り返る",
+    "link": "https://qiita.com/unbosoms/items/59d2fc3db13a0a544d2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T08:36:53.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nWebアプリを作るために、backendでDBの設定をするときに、「インデックスを貼る」という行為を行います。こちらは検索のパフォーマンスのために非常に重要な行為です。\nしかし、初学者にとってはパフォーマンスよりちゃんと動くことが重要なため、蔑ろにされがちな項目..."
+    "contentSnippet": "この記事の趣旨\n2025年11月20日に開催されたデータ可視化コンテスト「Viz Games 2025」にて優勝することができました。この記事ではViz Gamesとは何か？優勝にいたるまでの過程など個人的に振り返っていきます。\n\nViz Gamesとは？\nTablea..."
   },
   {
-    "title": "jest.fn / jest.spyOn / jest.mock と reset系の使い分け",
-    "link": "https://qiita.com/I635230/items/282139e61fcf97d14ce3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T01:51:14.000Z",
+    "title": "AWS上で使えるファイル転送サービス比較 ~AWS Transfer Family VS HULFT10 for Container Services",
+    "link": "https://qiita.com/SoichiroKikuchi/items/3c38518c281188f7ee9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T08:03:06.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nNestJSでアプリを開発していて、jestを使ったmockを触る機会がありました。その際、mockの使い分けがわからなかったので、まとめてみました。\n私が疑問に思ったのは「mockClear()をよく使っているけど、たまにでてくるmockReset()は何だろ..."
+    "contentSnippet": "はじめに\n業務の中で企業内や企業間でファイル転送を行う必要があることと思います。\n従来のファイル転送方式(FTP等)では以下のような手間がありファイル転送サービスの導入をしている・検討しているという企業も多くあるでしょう。\n\n送受信プログラムの作り込みが多い\nエラー対応フ..."
   },
   {
-    "title": "RxJS入門｜ObservableとOperator",
-    "link": "https://qiita.com/Tsurukawauchi_Jin/items/85e41aca2ba8eac2fd8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T00:40:57.000Z",
+    "title": "AWS re:Invent 2025 参加レポ #1出発前編",
+    "link": "https://qiita.com/yamamoto-kazuhide001/items/ca7a731b5d8ffa2fea03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T06:25:44.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\nAngularを使っていると避けては通れないRxJSですが、「正直よくわからないまま使っている」という人も多いのではないでしょうか。僕もまさにその一人でした。\nそこで本記事では、RxJSを理解するうえで最初に押さえておきたいキーワードを中心に、基本をシンプルに整..."
+    "contentSnippet": "はじめに\n皆さんはじめまして！\nパナソニック コネクト株式会社 クラウドソリューション部の山本(一)です。\n部門内に3人いる山本のうち、第3の山本です(他2名もQiita執筆メンバーにおります)。\n今回が初投稿です。\nAWS re:Invent 2025に参加することとな..."
   },
   {
     "title": "家に来た人に毎回Wi-Fiパスワード聞かれるのが面倒なので、QR化したら謎の歓迎ページが爆誕した",
@@ -112,18 +133,11 @@
     "contentSnippet": "参考書籍\n\nイラスト図解式 この一冊で全部わかるネットワークの基本 第2版\n\n前提条件\n\n上記の書籍でインプットをしていることを前提としているため、解説等は基本的にありません。\n特に図で理解をした方がいい場合も多いので、ぜひ読んでみていただきたいです。\nインプット後の知..."
   },
   {
-    "title": "開発生産性を最大化するために考えていること ~あるいは技術的負債について",
-    "link": "https://zenn.dev/bloomo_tech/articles/a93e4ecbb16b15",
-    "pubDate": "Thu, 27 Nov 2025 23:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n\n 要約\n\n開発生産性を事業価値へと繋げるまでにいくつもロスが発生する。ロスを分類してどのようなアクションを行うべきかを整理する。\n技術的負債はメタファーとして誕生したが、現代ではコードや設計、開発プロセスの不備を指す言葉としても使われている。技術的負債の教訓は負債は避けられず、放置していると指数関数的に増える場合があることと、メタファーが生まれて定着するくらいには技術的なロスの説明が難"
-  },
-  {
     "title": "Open Notebookを完全ローカル環境で動かす方法",
     "link": "https://zenn.dev/karaage0703/articles/51a8276e74451c",
     "pubDate": "Thu, 27 Nov 2025 15:13:48 GMT",
     "source": "Zenn",
-    "contentSnippet": "Open NotebookはGoogle NotebookLM のオープンソース版として注目されているツールです。\n通常はOpenAIやAnthropicなどのクラウドAPIを使用しますが、Ollamaと組み合わせて完全にローカルで動かす方法を紹介します。\nNVIDIA DGX Sparkで試してみたので、動かし方をメモしておきます。\n\n 環境\n\n\nハードウェア: NVIDIA DGX Spark"
+    "contentSnippet": "Open NotebookはGoogle NotebookLM のオープンソース版として注目されているツールです。\n通常はOpenAIやAnthropicなどのクラウドAPIを使用しますが、Ollamaと組み合わせて完全にローカルで動かす方法を紹介します。\nNVIDIA DGX Sparkで試しましたが、他のPCでも参考になるかなと思います。\n\n 環境\n\n\nハードウェア: NVIDIA DGX S"
   },
   {
     "title": "AIコードレビュー「棚卸し」のススメ",
@@ -131,6 +145,13 @@
     "pubDate": "Thu, 27 Nov 2025 11:54:43 GMT",
     "source": "Zenn",
     "contentSnippet": "AI にコードレビューを投げると、ありがたいことに山ほどレビューコメントが返ってくる。\nしかし、実際に運用してみると、その中には直さなくても良さそうな細かい指摘や、そもそもレビュー内容自体が誤っているコメントが紛れ込み、PR のコメント欄があっという間にカオスな状態になることも珍しくない。\n結局のところ、一つひとつについて「この指摘は妥当か？」「今すぐ対応すべきか？」を目で追いながら判断していくこ"
+  },
+  {
+    "title": "【Linux】LVM を使うべきか",
+    "link": "https://zenn.dev/eiken/articles/16153147235b67",
+    "pubDate": "Thu, 27 Nov 2025 09:52:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n個人PC の VmwareFusion に Linux をインストールしていたら、セットアップの途中で LVM を使うか問われた。\n業務環境では LVM を使ってなかったので、これまであまり LVM について理解を深める機会がなかったが、これを機に LVM について改めて整理してみることにした。\n\n LVM とは\nLVM は、複数の物理ディスクやパーティションを仮想的に束ねて、ボリューム"
   },
   {
     "title": "1Password Shell Pluginが便利",
@@ -182,13 +203,6 @@
     "contentSnippet": "きっかけ\nこんにちは、ランサーズでエンジニアをしている岡田です。\n当時は開発スピード優先でテストコードなんて二の次。\nDIの概念は知りつつも、「DIを意識した開発コードって？」「DIを意識すると何が良いの？」と分からないままでした。\nそれでも、FastAPI+sqlalchemyの開発では、DBを使う時に大抵エンドポイントの引数にdb: Session = Depends(get_db)が出てきま"
   },
   {
-    "title": "「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。",
-    "link": "https://zenn.dev/loglass/articles/16745471ef55ff",
-    "pubDate": "Wed, 26 Nov 2025 23:22:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、ログラスの松岡(@little_hand_s)です\n\n\n 3行まとめ\n\n「先にテストをまとめて書かせる」はTDDではない（サイクルと目的が違う）\n従来のTDDでは非推奨だったが、AI時代では有効な手法に\n違いを理解して使い分けることで、AI時代の開発がより効果的になる\n\n\n AI時代のTDDと、混乱しやすい実現方法\n最近、AI開発の文脈で「TDD（Test-Driven Develop"
-  },
-  {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",
     "link": "https://www.publickey1.jp/blog/25/kubernetesawsamazon_eks_mcp_server.html",
     "pubDate": "2025-11-26T15:39:23.000Z",
@@ -196,25 +210,11 @@
     "contentSnippet": "Amazon Web Services（AWS）は、複雑なkubectlコマンドや深いKubernetesの専門知識を用いなくとも、自然言語でKubernetesに指示をして運用や管理を可能にするフルマネージドな新サービス「Amazon EKS MCP Server」のプレビュー公開を発表しました。 Amazon EKS（Amazon Elastic Kubernetes Service）は、AW"
   },
   {
-    "title": "GitHub Copilot カスタムエージェントのための agents.md 作成ベストプラクティス",
-    "link": "https://zenn.dev/studypocket/articles/github-copilot-agents-md-best-practices",
-    "pubDate": "Wed, 26 Nov 2025 15:23:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nスタディポケットでソフトウェアエンジニア / SRE として働いている@Tocyukiです。\n先日 GitHub Copilot にカスタムエージェント機能が登場し、これは面白そうだと思い早速試してみました。\nhttps://github.blog/changelog/2025-10-28-custom-agents-for-github-copilot/\n.github/agents/"
-  },
-  {
-    "title": "AI時代、未経験から1年で実務レベルのエンジニアになった方法",
-    "link": "https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-26T04:26:30.000Z",
+    "title": "【Android】Jetpack Compose State 完全ガイド",
+    "link": "https://qiita.com/nozomi2025/items/1417e560767f656ba99c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-26T15:13:08.000Z",
     "source": "Qiita",
-    "contentSnippet": "去年の今頃、僕は完全な未経験者だった。\nプログラミングの「プ」の字も知らず、ターミナルを開くのすら怖かった。\nでも、2025年の今、僕は実務レベルのエンジニアとして働いている。\n何が変わったのか？それはAIの力を借りながら、正しい順番で基礎を積み上げたことだ。\nAIがあれば..."
-  },
-  {
-    "title": "エンジニアの「絵で説明して」問題、Nano Banana Pro（Gemini 3 Pro Image）でどこまで解消できるか試してみた",
-    "link": "https://qiita.com/ntaka329/items/6609861b7149c2ee8331?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-26T02:46:43.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGMOコネクトの永田です。\nエンジニアやアーキテクトの皆さん、こんな経験はありませんか？\n「この技術的な内容、文字だけじゃ分かりにくいから絵で説明して」\n分かりやすく説明したい気持ちはあるものの、AWS構成図やアーキテクチャ図を作るのは正直かなり面倒。構成を整理..."
+    "contentSnippet": "はじめに\nJetpack Compose を学んでいると、必ずぶつかるのが State（状態）。\n「なんか remember とか mutableStateOf とかいっぱいあるんだけど⁉」\nと感じる人は多い。でも、一度“本質”をつかむと、Compose はめちゃくちゃ気..."
   },
   {
     "title": "Rubyの次バージョンは「Ruby 4.0」に。「Ruby 4.0 Preview2」がリリース",

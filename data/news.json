@@ -1,73 +1,73 @@
 [
   {
-    "title": "A Critique & Refresh for the SXSW Community Manager Manifesto (2012)",
-    "link": "https://dev.to/commit_confidential/a-critique-refresh-for-the-sxsw-community-manager-manifesto-2012-4741",
-    "pubDate": "Sat, 29 Nov 2025 01:44:01 +0000",
+    "title": "Guide to Mitsuki Repositories: From Zero to Full CRUD",
+    "link": "https://dev.to/david_landup/guide-to-mitsuki-repositories-from-zero-to-full-crud-59n6",
+    "pubDate": "Sat, 29 Nov 2025 06:34:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SXSW Community Manager Manifesto (2012)\n\n\n\n  \n  \n  CRITIQUE & ANALYSIS\n\n\n\n  \n  \n  Authored by:\n\n\n\nMichael Ellis\n\nJoy Ndukwe\n\n[Your Name Here]\nThe Community Creed (2026) is a living document created to"
+    "contentSnippet": "Introduction\n\n\nThe data access layer is the foundation of web applications, sitting at the bottom of the layered architectures that power enterprise code.\nMitsuki's data layer, centered around the @Cr"
   },
   {
-    "title": "Building a Frankenstein App in 14 Days: How Kiro Changed My Development Workflow",
-    "link": "https://dev.to/dev_dl/building-a-frankenstein-app-in-14-days-how-kiro-changed-my-development-workflow-96a",
-    "pubDate": "Sat, 29 Nov 2025 01:43:32 +0000",
+    "title": "A Single Dork to Understand Your Infrastructure: Asset Exposure & Configuration Profiling",
+    "link": "https://dev.to/rrrowan/a-single-dork-to-understand-your-infrastructure-asset-exposure-configuration-profiling-4j0k",
+    "pubDate": "Sat, 29 Nov 2025 06:25:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Challenge\n\n\nDuring the Kiroween hackathon, I set out to build something ambitious: an API Schema Explorer that combines three typically separate developer tools into one unified platform. The app "
+    "contentSnippet": "In cybersecurity, identifying internet-facing infrastructure and rapidly building configuration profiles is fundamental to effective defense. There are multiple ways to capture this information, and Z"
   },
   {
-    "title": "Middleware-Philosophy-The-Perfect-Balance-of-Simplicity-and-Power",
-    "link": "https://dev.to/member_8455d9df/middleware-philosophy-the-perfect-balance-of-simplicity-and-power-oaj",
-    "pubDate": "Sat, 29 Nov 2025 01:42:06 +0000",
+    "title": "Filecnv — Fast, Private, and Secure Image Processing in the Browser",
+    "link": "https://dev.to/cismic/filecnv-fast-private-and-secure-image-processing-in-the-browser-33dh",
+    "pubDate": "Sat, 29 Nov 2025 06:18:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nThat was in a large e-commerce platform project where we needed to implement complex request processing flows. User authentication, permission checking, logging, performance monitoring, an"
+    "contentSnippet": "Images are a massive part of the web these days—whether for e-commerce, portfolios, or social networks. But working with images tends to have trade-offs. Older websites upload your images to a server "
   },
   {
-    "title": "Digital Excellence Is Now the Baseline - Not a Bonus",
-    "link": "https://dev.to/farhannasirdev/digital-excellence-is-now-the-baseline-not-a-bonus-4nl4",
-    "pubDate": "Sat, 29 Nov 2025 01:39:14 +0000",
+    "title": "A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin",
+    "link": "https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0",
+    "pubDate": "Sat, 29 Nov 2025 06:07:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Digital excellence isn’t optional anymore. Every pixel, every workflow, and every line of code directly shapes how users experience your product — and how your business grows.\nBuild fast - but build s"
+    "contentSnippet": "Let me break down what happens in .me(and why it’s powerful\n⸻\n\n\n  \n  \n  ✅ 1. You store a value inside a secret branch\n\n\nExample:\nme.wallet.secret(\"alpha\").privateBalance(99999);\nThis produces:\npayload"
   },
   {
-    "title": "mcp-scan: a ferramenta que revela riscos que você não vê",
-    "link": "https://dev.to/caramelo-ti/mcp-scan-a-ferramenta-que-revela-riscos-que-voce-nao-ve-3dci",
-    "pubDate": "Sat, 29 Nov 2025 01:31:03 +0000",
+    "title": "A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?",
+    "link": "https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p",
+    "pubDate": "Sat, 29 Nov 2025 06:05:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Recentemente saiu a nova edição do Tech Radar da Thoughtworks e, dando uma olhada no quadrante de ferramentas no anel Trial, me deparei com uma recomendação de um colega: o servidor MCP Context7. A pr"
+    "contentSnippet": "Most people think AI browsers are hype; I tested Perplexity's Comet and learned this: it's a rocket on static pages and stalls on dynamic sites.\nIt changed how I run deep research.\nBut it also exposed"
   },
   {
-    "title": "Java > Python for AI Agents? I Built a Surf-Forecasting Agent to Find Out",
-    "link": "https://dev.to/phouchens/java-python-for-ai-agents-i-built-a-surf-forecasting-agent-to-find-out-5aca",
-    "pubDate": "Sat, 29 Nov 2025 01:30:34 +0000",
+    "title": "CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef",
+    "pubDate": "Sat, 29 Nov 2025 06:00:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "StokeBroker: My Journey Building an AI Surf Agent with Java and Embabel\n\n\nShots fired! Sorry Python people, but let me explain. Only a couple of days after I wrote CodeBro, my AI agent written in Java"
+    "contentSnippet": "Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less\n\n\nCinemaSins serves up its trademark snark in a 20-minute breakdown of The Fantastic Four, pointing out every hiccup, plot h"
   },
   {
-    "title": "Modern Navigation in SwiftUI",
-    "link": "https://dev.to/sebastienlato/modern-navigation-in-swiftui-1c8g",
-    "pubDate": "Sat, 29 Nov 2025 01:24:41 +0000",
+    "title": "Is software testing a good career in India among freshers? – Complete Guide (2025)",
+    "link": "https://dev.to/digital_quastechb_50ce999/is-software-testing-a-good-career-in-india-among-freshers-complete-guide-2025-4f62",
+    "pubDate": "Sat, 29 Nov 2025 05:59:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Navigation in SwiftUI has evolved massively since the early days of NavigationView.\n\nWith NavigationStack, NavigationPath, sheet detents, and modern transitions, we finally have a system that’s flexib"
+    "contentSnippet": "It is not simple to make the correct choice of career after graduation. Software testing is one of the options, and thousands of fresh graduates are using this path today, which has been offered by th"
   },
   {
-    "title": "Because the existing Mermaid diagram editors online produce unattractive charts, I created a new one.",
-    "link": "https://dev.to/glenn_chencg33_10528ea/because-the-existing-mermaid-diagram-editors-online-produce-unattractive-charts-i-created-a-new-1939",
-    "pubDate": "Sat, 29 Nov 2025 01:24:02 +0000",
+    "title": "Semantic Algebra Spec.",
+    "link": "https://dev.to/suign/semantic-algebra-spec-23n5",
+    "pubDate": "Sat, 29 Nov 2025 05:54:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "https://modern-mermaid.live\nI've been using Mermaid for flowcharts and diagrams for a while, but I always felt that the available online editors just produce ugly, unpolished charts. So I decided to b"
+    "contentSnippet": "A Symbolic Language for Identity, Meaning, and Computation\nWhat if every idea, file, identity, wallet, memory, or data point could be expressed with a single algebraic expression?\nSemantic Algebra — t"
   },
   {
-    "title": "Async-Programming-New-Era",
-    "link": "https://dev.to/member_34349a73/async-programming-new-era-401c",
-    "pubDate": "Sat, 29 Nov 2025 01:08:25 +0000",
+    "title": "Python Selenium Architecture",
+    "link": "https://dev.to/akshay_kiran_b011ddf5055f/python-selenium-architecture-420c",
+    "pubDate": "Sat, 29 Nov 2025 05:53:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nAs a veteran with 40 years of programming experience, I have experienced various stages of async programming development. Remember those days of writing code with callback hell? Every asyn"
+    "contentSnippet": "Selenium follows a layered architecture that defines how automation scripts interact with a web browser. When using Python for automation, the workflow is structured in a clear communication hierarchy"
   },
   {
-    "title": "Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More",
-    "link": "https://dev.to/rosgluk/local-llm-hosting-complete-2025-guide-ollama-vllm-localai-jan-lm-studio-more-1dcl",
-    "pubDate": "Sat, 29 Nov 2025 01:07:08 +0000",
+    "title": "Trauma-informed design left everyone asking: \"How does it actually know I'm struggling without spying?\"",
+    "link": "https://dev.to/crisiscoresystems/trauma-informed-design-left-everyone-asking-how-does-it-actually-know-im-struggling-without-26a0",
+    "pubDate": "Sat, 29 Nov 2025 05:52:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Local deployment of LLMs has become increasingly popular as developers and organizations seek enhanced privacy, reduced latency, and greater control over their AI infrastructure.\nThe market now offers"
+    "contentSnippet": "This answers it—with real code and real ethics.\nWhen I launched Pain Tracker, the feedback from trauma survivors hit me like a truck:\n\"Okay, but how does it detect a crisis... without sending my data "
   },
   {
     "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",

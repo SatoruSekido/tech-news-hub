@@ -1,73 +1,80 @@
 [
   {
-    "title": "I Can't Afford Ads for My SaaS, So I'm Trying This Instead.",
-    "link": "https://dev.to/wwenioaguiar/i-cant-afford-ads-for-my-saas-so-im-trying-this-instead-2m8d",
-    "pubDate": "Sun, 30 Nov 2025 02:05:18 +0000",
+    "title": "Financial Transaction Data Reconciler PayPal",
+    "link": "https://dev.to/elianalamhost/financial-transaction-data-reconciler-paypal-240b",
+    "pubDate": "Sun, 30 Nov 2025 06:15:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I did the thing every developer dreams of: I built and launched my own SaaS product, PostPulsar (https://post-pulsar.com). It’s a tool I'm genuinely proud of—it uses AI to help content creators like m"
+    "contentSnippet": "Speaker: Jayaseelan Shanmugam @ AWS FSI Meetup 2025 Q4\nIntroduction to PayPal:\nPayPal is a global payment service provider processing 1.7 trillion in annual payment volume.\n\n\nOperates in 200 global ma"
   },
   {
-    "title": "CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2go4",
-    "pubDate": "Sun, 30 Nov 2025 02:00:11 +0000",
+    "title": "Stifel Modern Data Platform",
+    "link": "https://dev.to/elianalamhost/stifel-modern-data-platform-3i7i",
+    "pubDate": "Sun, 30 Nov 2025 06:14:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less is CinemaSins’ latest roast of Marvel’s reboot—calling it “sintastic” if not a total flop. They’ve teamed up with BetterHelp"
+    "contentSnippet": "Speaker: Martin Nieuwoudt, Hossein Johari, Srinivas Kandi, Amit Maindola @ AWS FSI Meetup 2025 Q4\nStifel Overview:\nAround 10,000 associates across North America and Europe\n\n\nApproximately $540 billion"
   },
   {
-    "title": "Developing real-time, humanlike AI video agents that enable natural customer interactions",
-    "link": "https://dev.to/hardiquedasore/developing-real-time-humanlike-ai-video-agents-that-enable-natural-customer-interactions-4hj5",
-    "pubDate": "Sun, 30 Nov 2025 01:58:51 +0000",
+    "title": "LocalStorage vs SessionStorage vs Cookies — When to Use What?",
+    "link": "https://dev.to/manukumar07/localstorage-vs-sessionstorage-vs-cookies-when-to-use-what-4l6i",
+    "pubDate": "Sun, 30 Nov 2025 06:14:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "“You should live your life like a lion which means that most of your time you’re resting, lazing around, doing whatever you find entertaining, and then once in a while, you get obsessed with something"
+    "contentSnippet": "Modern web apps store a lot of data in the browser — user preferences, tokens, UI states, cart items, and even feature flags.\nBut which storage should you use?\n🗃️ 1. LocalStorage\n✅ Persistent storage"
   },
   {
-    "title": "2025: Code Clarity Is Becoming the New Team Multiplier",
-    "link": "https://dev.to/farhannasirdev/2025-code-clarity-is-becoming-the-new-team-multiplier-27bi",
-    "pubDate": "Sun, 30 Nov 2025 01:48:28 +0000",
+    "title": "A Graviton Migration Success Story",
+    "link": "https://dev.to/elianalamhost/a-graviton-migration-success-story-36ma",
+    "pubDate": "Sun, 30 Nov 2025 06:13:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Teams today aren’t struggling because of tools - they’re struggling because of hidden complexity inside their codebases.\nNew 2025 Dev Workflow Insights\nDevelopers spend more time understanding code th"
+    "contentSnippet": "Speaker: Francois Vernet @ AWS FSI Meetup 2025 Q4\nLeveraging AWS and EC2 Graviton for System Transformation\nOverview of Numora\nEstablished for 100 years, headquartered in Tokyo\n\n\nFive divisions: wealt"
   },
   {
-    "title": "Maglev-Pentabot: From Factory Floor to Surgical Precision? The Future of Non-Contact Manipulation",
-    "link": "https://dev.to/arvind_sundararajan/maglev-pentabot-from-factory-floor-to-surgical-precision-the-future-of-non-contact-manipulation-lb1",
-    "pubDate": "Sun, 30 Nov 2025 01:02:04 +0000",
+    "title": "🚀 CI/CD Testing Tools Comparison: GitHub Actions vs GitLab CI vs Jenkins (With Real Examples!)",
+    "link": "https://dev.to/diegocastillo12/testing-management-tools-a-comprehensive-comparison-with-real-world-examples-5930",
+    "pubDate": "Sun, 30 Nov 2025 06:12:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Maglev-Pentabot: From Factory Floor to Surgical Precision? The Future of Non-Contact Manipulation\n\n\nImagine assembling delicate electronics without ever touching them, or performing surgery with instr"
+    "contentSnippet": "📋 Introducción\n\n\nLas herramientas de testing automatizado son fundamentales en el desarrollo moderno. Este artículo compara las principales plataformas CI/CD con ejemplos prácticos y código real.\n¿Qu"
   },
   {
-    "title": "Romans 4 — The Faith That Opens the Door God Intended All Along",
-    "link": "https://dev.to/douglasvandergraph/romans-4-the-faith-that-opens-the-door-god-intended-all-along-4eog",
-    "pubDate": "Sun, 30 Nov 2025 00:46:28 +0000",
+    "title": "Brex Database Disaster Recovery",
+    "link": "https://dev.to/elianalamhost/brex-database-disaster-recovery-4375",
+    "pubDate": "Sun, 30 Nov 2025 06:11:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Faith that unlocks righteousness.\nRomans 4 is not just Paul teaching theology. It’s Paul pulling back the veil on how God has always worked with humanity. Long before Scripture developed its structure"
+    "contentSnippet": "Speaker: Fabiano Honorato, Michelle Koo, Stephen Brandon @ AWS FSI Meetup 2025 Q4\nIntroduction to Brex\nFinancial operating system platform for managing expenses, travel, credit.\n\n\nEngineering manager "
   },
   {
-    "title": "Desafio Final e o Segredo do O(N) (Dois Ponteiros)",
-    "link": "https://dev.to/gissandrogama/desafio-final-e-o-segredo-do-on-dois-ponteiros-3g4",
-    "pubDate": "Sun, 30 Nov 2025 00:39:13 +0000",
+    "title": "UserScanner a CLI tool to help you select a unique username across all popular sites.",
+    "link": "https://dev.to/kaifcodec/userscanner-a-cli-tool-to-help-you-select-a-unique-username-across-all-popular-sites-3bn1",
+    "pubDate": "Sun, 30 Nov 2025 06:09:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Pensando Linear: Resolvendo Problemas Complexos em O(N) e o Segredo do O(1) de Elixir 🔑\n\n\nChegamos ao final da nossa jornada pela Complexidade de Algoritmos! Vimos o poder do Merge Sort O(N log N) e "
+    "contentSnippet": "User Scanner\n\n\n\nRepo: https://github.com/kaifcodec/user-scanner\n\nSuper easy to contribute and add new site support, join the other contributors and help us make the tool better.\nScan a username across"
   },
   {
-    "title": "O Padrão Ouro da Ordenação: O(N log N)",
-    "link": "https://dev.to/gissandrogama/post-4-o-padrao-ouro-da-ordenacao-on-log-n-46jp",
-    "pubDate": "Sun, 30 Nov 2025 00:37:04 +0000",
+    "title": "Conquering the Shadow DOM: A Guide for Automation Testers",
+    "link": "https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8",
+    "pubDate": "Sun, 30 Nov 2025 06:04:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "O Melhor dos Dois Mundos: Entendendo a Complexidade O(N log N) do Merge Sort 🥇\n\n\nNos posts anteriores, conquistamos a velocidade da Busca Binária O(log N) e a eficiência Linear O(N). Agora, vamos ao "
+    "contentSnippet": "November 30, 2025 · 3 min read\nIf you've ever tried to automate a modern web application built with Web Components, you've likely hit the Shadow DOM wall.\nYou inspect an element — you see it right the"
   },
   {
-    "title": "Otimizando landing page e-commerce: Guia definitivo 2025",
-    "link": "https://dev.to/littlegoat/otimizando-landing-page-e-commerce-guia-definitivo-2025-56lj",
-    "pubDate": "Sun, 30 Nov 2025 00:32:25 +0000",
+    "title": "That One Weird Line of Go Code That Saved My Weekend (And My Sanity)",
+    "link": "https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h",
+    "pubDate": "Sun, 30 Nov 2025 06:00:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TLDR: A otimização de landing pages vai além do design. Foque em cinco pilares técnicos:\nAnalise o Core Web Vitals, cada segundo de atraso pode reduzir conversões em 20%\nSchema.org/JSON-LD: dados estr"
+    "contentSnippet": "Interface compliance checks in Go let you verify at compile-time that your types actually implement the interfaces they claim to, preventing runtime disasters. By adding a simple declaration like var "
   },
   {
-    "title": "**Title:** The Rise of Second-Hand Shopping: How Thrift Stores are Capitalizing on the Black Friday Phenomenon",
-    "link": "https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-of-second-hand-shopping-how-thrift-stores-are-capitalizing-on-the-black-friday-2cc8",
-    "pubDate": "Sun, 30 Nov 2025 00:25:17 +0000",
+    "title": "🚀 How I Cut Deep Learning Training Time by 45% — Without Upgrading Hardware",
+    "link": "https://dev.to/ashish_ghadigaonkar_/how-i-cut-deep-learning-training-time-by-45-without-upgrading-hardware-71f",
+    "pubDate": "Sun, 30 Nov 2025 05:57:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Title: The Rise of Second-Hand Shopping: How Thrift Stores are Capitalizing on the Black Friday Phenomenon\n\n\nIntroduction\nThe holiday season is upon us, and with it comes the annual tradition of Black"
+    "contentSnippet": "A practical experiment comparing Caching + Prefetching, Mixed Precision, and Gradient Accumulation\nMachine Learning engineers often celebrate higher accuracy, better architectures, newer models — but "
+  },
+  {
+    "title": "永続化と切り離した＂純粋＂ドメインモデリング入門 - ステート、イベント、Deciderで始めるイミュータブルモデルの実装",
+    "link": "https://zenn.dev/jtechjapan_pub/articles/fc9878ec69b6a1",
+    "pubDate": "Sat, 29 Nov 2025 20:11:30 GMT",
+    "source": "Zenn",
+    "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\n先週開催されたアーキテクチャカンファレンスで登壇し、「Always Valid Domain Model」について話しました。これは、ドメインモデルが常に整合性のある状態を保つことを保証する設計アプローチです。\nhttps://speakerdeck.com/tomohisa/regret-free-architecture-w"
   },
   {
     "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
@@ -77,11 +84,25 @@
     "contentSnippet": "これはなに\n先日、技術書典19に参加してきました。\n技術書典では色々と書籍を買ったんですが、その中でも特に良かったなと感じた『わかる！ソフトウェア設計トレーニング』についてご紹介します。\nちなみに購入リンクはこちら。\nhttps://techbookfest.org/product/28eUFHQYcuN7VX4UGsPzsi\n紙媒体[1]のやつは11/30までしか購入できないらしいので、買いたい"
   },
   {
+    "title": "UniTask 実装で意識している 7 つのポイント",
+    "link": "https://zenn.dev/fig_codefactory/articles/60a404a42e7a16",
+    "pubDate": "Sat, 29 Nov 2025 12:12:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Unity で非同期的な処理を書くとき、多くの人はまず コルーチン（Coroutine） を使うと思います。\nコルーチンは簡単に書けて便利ですが、\n複数の非同期処理を組み合わせたり、戻り値を扱ったりすると、コードが複雑になりがちです。\nそこで登場するのが UniTask です。\nUniTask は、Unity 向けに最適化された軽量な非同期処理用ライブラリで、\nコルーチンよりもパフォーマンス面で優"
+  },
+  {
     "title": "再帰やループを使わずに組合せを求める",
     "link": "https://zenn.dev/pona/articles/675a59cb0a9efc",
     "pubDate": "Sat, 29 Nov 2025 12:10:02 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n世の中の言語や環境の中には，順列や組合せの生成といった高度なコレクション操作を標準で提供してくれないものが少なからずあります．かかる折には自前でジェネレータを定義するものですが，再帰だのループだのと書いているうちに目が回って疲れてしまいます．しかし，こと組合せの生成に関しては心配無用です．繰り返しを用いずにビット演算だけでこれを実現する方法があります．\n\n 組合せと二進数\n組合せというの"
+  },
+  {
+    "title": "コンテナとは何か",
+    "link": "https://zenn.dev/ka_kan/articles/25f0617bed553d",
+    "pubDate": "Sat, 29 Nov 2025 07:12:20 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nDockerをはじめとするコンテナ技術を利用して開発を行う人は少なくないと思います。\n普段意識せずに使用しているコンテナ、これらはどのように定義や実装をされているのでしょうか。\n本記事では、コンテナとは何かを\n\n公式ドキュメントなどの定義\nLinuxカーネル\n実際のプロセスの観察\n\nの 3 つの観点から確認します。\n事前にこちらを読んでおくと事前知識として少しだけに役立つかもしれません。"
   },
   {
     "title": "Android/PCに映る全てのモノをAI自動テストするツールを開発した話",
@@ -173,27 +194,6 @@
     "pubDate": "2025-11-27T23:30:48.000Z",
     "source": "Qiita",
     "contentSnippet": "参考書籍\n\nイラスト図解式 この一冊で全部わかるネットワークの基本 第2版\n\n前提条件\n\n上記の書籍でインプットをしていることを前提としているため、解説等は基本的にありません。\n特に図で理解をした方がいい場合も多いので、ぜひ読んでみていただきたいです。\nインプット後の知..."
-  },
-  {
-    "title": "開発生産性を最大化するために考えていること ~あるいは技術的負債について",
-    "link": "https://zenn.dev/bloomo_tech/articles/a93e4ecbb16b15",
-    "pubDate": "Thu, 27 Nov 2025 23:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n\n 要約\n\n開発生産性を事業価値へと繋げるまでにいくつもロスが発生する。ロスを分類してどのようなアクションを行うべきかを整理する。\n技術的負債はメタファーとして誕生したが、現代ではコードや設計、開発プロセスの不備を指す言葉としても使われている。技術的負債の教訓は負債は避けられず、放置していると指数関数的に増える場合があることと、メタファーが生まれて定着するくらいには技術的なロスの説明が難"
-  },
-  {
-    "title": "Open Notebookを完全ローカル環境で動かす方法",
-    "link": "https://zenn.dev/karaage0703/articles/51a8276e74451c",
-    "pubDate": "Thu, 27 Nov 2025 15:13:48 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Open NotebookはGoogle NotebookLM のオープンソース版として注目されているツールです。\n通常はOpenAIやAnthropicなどのクラウドAPIを使用しますが、Ollamaと組み合わせて完全にローカルで動かす方法を紹介します。\nNVIDIA DGX Sparkで試しましたが、他のPCでも参考になるかなと思います。\n\n 環境\n\n\nハードウェア: NVIDIA DGX S"
-  },
-  {
-    "title": "AIコードレビュー「棚卸し」のススメ",
-    "link": "https://zenn.dev/aki_think/articles/e8a846e9bb95b0",
-    "pubDate": "Thu, 27 Nov 2025 11:54:43 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AI にコードレビューを投げると、ありがたいことに山ほどレビューコメントが返ってくる。\nしかし、実際に運用してみると、その中には直さなくても良さそうな細かい指摘や、そもそもレビュー内容自体が誤っているコメントが紛れ込み、PR のコメント欄があっという間にカオスな状態になることも珍しくない。\n結局のところ、一つひとつについて「この指摘は妥当か？」「今すぐ対応すべきか？」を目で追いながら判断していくこ"
   },
   {
     "title": "1Password Shell Pluginが便利",

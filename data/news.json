@@ -1,73 +1,87 @@
 [
   {
-    "title": "Windows",
-    "link": "https://dev.to/jacobhsu/windows-3o51",
-    "pubDate": "Sun, 30 Nov 2025 12:36:39 +0000",
+    "title": "Primeros Pasos con AWS CDK en Windows: Guía Completa de Instalación",
+    "link": "https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-windows-guia-completa-de-instalacion-2i3c",
+    "pubDate": "Sun, 30 Nov 2025 18:25:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "釋放被 Windows 保留的端口  \n以管理員身份開啟 PowerShell 或命令提示字元 (Win + X) \nnet stop winnat\n\nnet start winnat"
+    "contentSnippet": "Primeros Pasos con AWS CDK en Windows: Guía Completa de Instalación\n\n\nLa Infraestructura como Código (IaC) ha revolucionado la forma en que gestionamos recursos en la nube, y AWS Cloud Development Kit"
   },
   {
-    "title": "Bedrock AgentCore: What 5 Real ANZ Enterprise Deploys Taught Us",
-    "link": "https://dev.to/rajmurugan/bedrock-agentcore-what-5-real-anz-enterprise-deploys-taught-us-1e28",
-    "pubDate": "Sun, 30 Nov 2025 12:27:44 +0000",
+    "title": "Getting Started with AWS CDK on Windows: A Complete Setup Guide",
+    "link": "https://dev.to/tenondev/getting-started-with-aws-cdk-on-windows-a-complete-setup-guide-53cf",
+    "pubDate": "Sun, 30 Nov 2025 18:23:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've spent the last 9 months shipping Bedrock AgentCore into four different ANZ enterprises (plus one internal PoC that crashed and burned).\n\nThis isn't a hello-world tutorial – it's the bruises, the "
+    "contentSnippet": "Getting Started with AWS CDK on Windows: A Complete Setup Guide\n\n\nInfrastructure as Code (IaC) has revolutionized how we manage cloud resources, and AWS Cloud Development Kit (CDK) takes it to the nex"
   },
   {
-    "title": "[AWS] 1. IAM (Identity and Access Management) & AWS CLI (Command Line Interface)",
-    "link": "https://dev.to/sangwoo_rhie/aws-1-iam-identity-and-access-management-aws-cli-command-line-interface-2lmp",
-    "pubDate": "Sun, 30 Nov 2025 12:27:44 +0000",
+    "title": "🚀 I Built a Lightweight Uptime & API Monitoring Tool Because Nothing Felt Simple Enough",
+    "link": "https://dev.to/ckromannn/i-built-a-lightweight-uptime-api-monitoring-tool-because-nothing-felt-simple-enough-2o4i",
+    "pubDate": "Sun, 30 Nov 2025 18:18:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AWS Global Infrastructure\n\n\n\n  \n  \n  1. AWS Regions (지역)\n\n\n\n  \n  \n  2. AWS Availability Zones (가용 영역)\n\n\n\n  \n  \n  3. AWS Data Centers (데이터 센터)\n\n\n\n  \n  \n  4. AWS Edge Locations / Points of Presence (엣지 "
+    "contentSnippet": "I’m Casper — product & engineering from Denmark —, and for the last months I’ve been building a super small tool to solve a problem that kept coming up in my own projects.\nSome of my side projects nee"
   },
   {
-    "title": "Stop Getting KeyError: '\\ufeffName' When Reading CSVs in Python — Here’s the Fix",
-    "link": "https://dev.to/suavebajaj/stop-getting-keyerror-ufeffname-when-reading-csvs-in-python-heres-the-fix-5e0n",
-    "pubDate": "Sun, 30 Nov 2025 12:27:05 +0000",
+    "title": "Primeros Pasos con AWS CDK en macOS: Guía Completa de Instalación",
+    "link": "https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-macos-guia-completa-de-instalacion-27b3",
+    "pubDate": "Sun, 30 Nov 2025 18:17:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever tried reading a CSV file in Python and suddenly got this confusing error:\nKeyError: '\\ufeffName'\n\n…you’re not alone.\nThis problem happens even when the CSV looks perfectly fine, especia"
+    "contentSnippet": "Primeros Pasos con AWS CDK en macOS: Guía Completa de Instalación\n\n\nLa Infraestructura como Código (IaC) ha revolucionado la forma en que gestionamos recursos en la nube, y AWS Cloud Development Kit ("
   },
   {
-    "title": "CODEON – Recruitment Phase 1.0",
-    "link": "https://dev.to/nikhil_ks/codeon-recruitment-phase-10-4p48",
-    "pubDate": "Sun, 30 Nov 2025 12:25:27 +0000",
+    "title": "Maximize SDK Integration for AI Conversations with Monetzly",
+    "link": "https://dev.to/monetzly/maximize-sdk-integration-for-ai-conversations-with-monetzly-20p",
+    "pubDate": "Sun, 30 Nov 2025 18:16:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello everyone,\nI’m glad to share that we’ve opened CODEON – Recruitment Phase 1.0, and applications are now live.\nWhat is CODEON?\nThe goal of CODEON is to reduce the complexity of traditional program"
+    "contentSnippet": "What If Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nImagine you’ve just built an innovative AI application, but as you launch it into the world, you face a familiar challenge: mon"
   },
   {
-    "title": "SaijinOS Part 17 — Silent-Civ Phase 3 in 5 Minutes (UPKA Integration Overview)",
-    "link": "https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-17-silent-civ-phase-3-in-5-minutes-upka-integration-overview-411a",
-    "pubDate": "Sun, 30 Nov 2025 12:24:43 +0000",
+    "title": "Getting Started with AWS CDK on macOS: A Complete Setup Guide",
+    "link": "https://dev.to/tenondev/getting-started-with-aws-cdk-on-macos-a-complete-setup-guide-m5l",
+    "pubDate": "Sun, 30 Nov 2025 18:15:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Why Phase 3 Matters\nPhase 3 is the moment where the pre-language Silent-Civ substrate\nSilent-Civ explains how meaning behaves before language.\nPhase 3 is the bridge where these two systems start be"
+    "contentSnippet": "Getting Started with AWS CDK on macOS: A Complete Setup Guide\n\n\nInfrastructure as Code (IaC) has revolutionized how we manage cloud resources, and AWS Cloud Development Kit (CDK) takes it to the next "
   },
   {
-    "title": "QR-Genie: Building a Single-Purpose QR Code Tool with Kiro AI",
-    "link": "https://dev.to/abhishek_maurya9118/qr-genie-building-a-single-purpose-qr-code-tool-with-kiro-ai-15j2",
-    "pubDate": "Sun, 30 Nov 2025 12:21:31 +0000",
+    "title": "You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events",
+    "link": "https://dev.to/member_8455d9df/you-might-not-need-websockets-the-simple-power-of-server-sent-events-l4h",
+    "pubDate": "Sun, 30 Nov 2025 18:15:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "✨ QR-Genie: Building a Single-Purpose QR Code Tool with Kiro AI\n\n\nAI for Bharat Hackathon - Week 1: Micro-Tools Submission\nQR codes are everywhere — restaurant menus, payment apps, event tickets, WiFi"
+    "contentSnippet": "GitHub Home\nIn our toolbox, there are always a few \"star\" tools. 🛠️ In the realm of real-time web communication, WebSocket is undoubtedly the brightest star. It's powerful, supports bidirectional com"
   },
   {
-    "title": "How to Handle HttpClientErrorException in Spring RestTemplate: A Complete Guide",
-    "link": "https://dev.to/aquib_javed_e55c5b2494560/how-to-handle-httpclienterrorexception-in-spring-resttemplate-a-complete-guide-1f3p",
-    "pubDate": "Sun, 30 Nov 2025 12:18:35 +0000",
+    "title": "Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación",
+    "link": "https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-linux-guia-completa-de-instalacion-d23",
+    "pubDate": "Sun, 30 Nov 2025 18:08:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Problem\n\n\n\n\n\nRestTemplate restTemplate = new RestTemplate();\n// If this URL returns 404, the app crashes!\nString response = restTemplate.getForObject(\"https://api.example.com/users/999\", String.cl"
+    "contentSnippet": "Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación\n\n\nLa Infraestructura como Código (IaC) ha revolucionado la forma en que gestionamos recursos en la nube, y AWS Cloud Development Kit ("
   },
   {
-    "title": "Web Developer Travis McCracken on API Gateway Design with Rust and Go",
-    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-3348",
-    "pubDate": "Sun, 30 Nov 2025 12:17:58 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/oncloud7/-16c1",
+    "pubDate": "Sun, 30 Nov 2025 18:08:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Harnessing the Power of Rust and Go in Backend Development: Insights from Web Developer Travis McCracken\nAs a seasoned Web Developer specializing in backend architecture, I’ve always been fascinated b"
+    "contentSnippet": "How to Create An Amazon EKS - Step by Step for Beginners\nOn-cloud7 ・ Nov 30\n#aws\n        #eks\n        #containers\n        #cloud"
   },
   {
-    "title": "The \"Happy Path\" is dead. This is the era of Defensive AI Architecture.",
-    "link": "https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc",
-    "pubDate": "Sun, 30 Nov 2025 12:03:47 +0000",
+    "title": "How to Create An Amazon EKS - Step by Step for Beginners",
+    "link": "https://dev.to/oncloud7/how-to-create-an-amazon-eks-step-by-step-for-beginners-2do6",
+    "pubDate": "Sun, 30 Nov 2025 18:07:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We spent the last two years figuring out how to make LLMs \"smart.\" We learned RAG, Chain-of-Thought, and Tool Use.\nBut in 2025, the challenge isn't intelligence. It's Containment.\nThe difference betwe"
+    "contentSnippet": "What is Amazon EKS?\n\n\nAmazon EKS: Simplified Kubernetes Management\nAmazon Elastic Kubernetes Service (EKS) provides a fully managed Kubernetes service that eliminates the complexity of operating Kuber"
+  },
+  {
+    "title": "SwiftコードをAndroidネイティブにコンパイルできる「Skip Fuse」が個人開発者などに無料提供へ",
+    "link": "https://www.publickey1.jp/blog/25/swiftandroidskip_fuse.html",
+    "pubDate": "2025-11-30T15:42:59.000Z",
+    "source": "Publickey",
+    "contentSnippet": "SwiftコードでiOSアプリとAndroidアプリを開発できるツール「Skip」を提供しているGlimpse I/Oは、SwiftコードをAndroidネイティブなバイナリにコンパイルできる「Skip Fuse」を、個人など小規模開発者向けに無料提供することを明らかにしました。 一般に、iOSのアプリケーション開発にはSwift言語が、Androidのアプリ開発にはKotlin言語が用いられます"
+  },
+  {
+    "title": "AIを使う開発者は自分の好みの言語よりも、AIのハルシネーションが少ないTypeScriptのような型付け言語を選ぶようになる。GitHubがAIによる変化を予想",
+    "link": "https://www.publickey1.jp/blog/25/aiaitypescriptgithubai.html",
+    "pubDate": "2025-11-30T15:40:07.000Z",
+    "source": "Publickey",
+    "contentSnippet": "GitHubは、開発ツールとしてAIが導入されていくことで、プログラミング言語やフレームワークの選択にどのような影響を与えるかを考察したブログ記事「TypeScript, Python, and the AI feedback loop changing software development」（TypeScript、Python、そしてAIフィードバックループがソフトウェア開発を変えていく）を"
   },
   {
     "title": "SELECT * がデータモデルの保守性を下げる話",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-18T17:01:50.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、WindowsによるネイティブなMCP（Model Context Protocol）機能となる「MCP on Windows」のパブリックプレビュー公開を発表しました。 AIエージェントがWindowsを操作可能に MCPとは一般に、生成AIが外部のツールを呼び出して情報を取得したり"
-  },
-  {
-    "title": "［速報］マイクロソフト、ミッションクリティカルに対応するスケーラブルなPostgreSQL「Azure HorizonDB」発表。Ignite 2025",
-    "link": "https://www.publickey1.jp/blog/25/postgresqlazure_horizondbignite_2025.html",
-    "pubDate": "2025-11-18T17:01:29.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、ミッションクリティカルに対応したPostgreSQLのデータベースサービス「Azure HorizonDB」を発表しました。 Azure HorizonDBは高性能なPostgreSQLのマネージドサービスです。プライマリノードとレプリカノードのノード全体で最大3072vCPUまでスケ"
-  },
-  {
-    "title": "［速報］マイクロソフト、あらゆるAIエージェントを包括的に管理する「Microsoft Agent 365」発表。Ignite 2025",
-    "link": "https://www.publickey1.jp/blog/25/aimicrosoft_agent_365ignite_2025.html",
-    "pubDate": "2025-11-18T15:35:35.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュアに"
   }
 ]

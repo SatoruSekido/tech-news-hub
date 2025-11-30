@@ -1,73 +1,80 @@
 [
   {
-    "title": "Financial Transaction Data Reconciler PayPal",
-    "link": "https://dev.to/elianalamhost/financial-transaction-data-reconciler-paypal-240b",
-    "pubDate": "Sun, 30 Nov 2025 06:15:54 +0000",
+    "title": "Windows",
+    "link": "https://dev.to/jacobhsu/windows-3o51",
+    "pubDate": "Sun, 30 Nov 2025 12:36:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Speaker: Jayaseelan Shanmugam @ AWS FSI Meetup 2025 Q4\nIntroduction to PayPal:\nPayPal is a global payment service provider processing 1.7 trillion in annual payment volume.\n\n\nOperates in 200 global ma"
+    "contentSnippet": "釋放被 Windows 保留的端口  \n以管理員身份開啟 PowerShell 或命令提示字元 (Win + X) \nnet stop winnat\n\nnet start winnat"
   },
   {
-    "title": "Stifel Modern Data Platform",
-    "link": "https://dev.to/elianalamhost/stifel-modern-data-platform-3i7i",
-    "pubDate": "Sun, 30 Nov 2025 06:14:40 +0000",
+    "title": "Bedrock AgentCore: What 5 Real ANZ Enterprise Deploys Taught Us",
+    "link": "https://dev.to/rajmurugan/bedrock-agentcore-what-5-real-anz-enterprise-deploys-taught-us-1e28",
+    "pubDate": "Sun, 30 Nov 2025 12:27:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Speaker: Martin Nieuwoudt, Hossein Johari, Srinivas Kandi, Amit Maindola @ AWS FSI Meetup 2025 Q4\nStifel Overview:\nAround 10,000 associates across North America and Europe\n\n\nApproximately $540 billion"
+    "contentSnippet": "I've spent the last 9 months shipping Bedrock AgentCore into four different ANZ enterprises (plus one internal PoC that crashed and burned).\n\nThis isn't a hello-world tutorial – it's the bruises, the "
   },
   {
-    "title": "LocalStorage vs SessionStorage vs Cookies — When to Use What?",
-    "link": "https://dev.to/manukumar07/localstorage-vs-sessionstorage-vs-cookies-when-to-use-what-4l6i",
-    "pubDate": "Sun, 30 Nov 2025 06:14:03 +0000",
+    "title": "[AWS] 1. IAM (Identity and Access Management) & AWS CLI (Command Line Interface)",
+    "link": "https://dev.to/sangwoo_rhie/aws-1-iam-identity-and-access-management-aws-cli-command-line-interface-2lmp",
+    "pubDate": "Sun, 30 Nov 2025 12:27:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern web apps store a lot of data in the browser — user preferences, tokens, UI states, cart items, and even feature flags.\nBut which storage should you use?\n🗃️ 1. LocalStorage\n✅ Persistent storage"
+    "contentSnippet": "AWS Global Infrastructure\n\n\n\n  \n  \n  1. AWS Regions (지역)\n\n\n\n  \n  \n  2. AWS Availability Zones (가용 영역)\n\n\n\n  \n  \n  3. AWS Data Centers (데이터 센터)\n\n\n\n  \n  \n  4. AWS Edge Locations / Points of Presence (엣지 "
   },
   {
-    "title": "A Graviton Migration Success Story",
-    "link": "https://dev.to/elianalamhost/a-graviton-migration-success-story-36ma",
-    "pubDate": "Sun, 30 Nov 2025 06:13:22 +0000",
+    "title": "Stop Getting KeyError: '\\ufeffName' When Reading CSVs in Python — Here’s the Fix",
+    "link": "https://dev.to/suavebajaj/stop-getting-keyerror-ufeffname-when-reading-csvs-in-python-heres-the-fix-5e0n",
+    "pubDate": "Sun, 30 Nov 2025 12:27:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Speaker: Francois Vernet @ AWS FSI Meetup 2025 Q4\nLeveraging AWS and EC2 Graviton for System Transformation\nOverview of Numora\nEstablished for 100 years, headquartered in Tokyo\n\n\nFive divisions: wealt"
+    "contentSnippet": "If you’ve ever tried reading a CSV file in Python and suddenly got this confusing error:\nKeyError: '\\ufeffName'\n\n…you’re not alone.\nThis problem happens even when the CSV looks perfectly fine, especia"
   },
   {
-    "title": "🚀 CI/CD Testing Tools Comparison: GitHub Actions vs GitLab CI vs Jenkins (With Real Examples!)",
-    "link": "https://dev.to/diegocastillo12/testing-management-tools-a-comprehensive-comparison-with-real-world-examples-5930",
-    "pubDate": "Sun, 30 Nov 2025 06:12:56 +0000",
+    "title": "CODEON – Recruitment Phase 1.0",
+    "link": "https://dev.to/nikhil_ks/codeon-recruitment-phase-10-4p48",
+    "pubDate": "Sun, 30 Nov 2025 12:25:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "📋 Introducción\n\n\nLas herramientas de testing automatizado son fundamentales en el desarrollo moderno. Este artículo compara las principales plataformas CI/CD con ejemplos prácticos y código real.\n¿Qu"
+    "contentSnippet": "Hello everyone,\nI’m glad to share that we’ve opened CODEON – Recruitment Phase 1.0, and applications are now live.\nWhat is CODEON?\nThe goal of CODEON is to reduce the complexity of traditional program"
   },
   {
-    "title": "Brex Database Disaster Recovery",
-    "link": "https://dev.to/elianalamhost/brex-database-disaster-recovery-4375",
-    "pubDate": "Sun, 30 Nov 2025 06:11:20 +0000",
+    "title": "SaijinOS Part 17 — Silent-Civ Phase 3 in 5 Minutes (UPKA Integration Overview)",
+    "link": "https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-17-silent-civ-phase-3-in-5-minutes-upka-integration-overview-411a",
+    "pubDate": "Sun, 30 Nov 2025 12:24:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Speaker: Fabiano Honorato, Michelle Koo, Stephen Brandon @ AWS FSI Meetup 2025 Q4\nIntroduction to Brex\nFinancial operating system platform for managing expenses, travel, credit.\n\n\nEngineering manager "
+    "contentSnippet": "🚀 Why Phase 3 Matters\nPhase 3 is the moment where the pre-language Silent-Civ substrate\nSilent-Civ explains how meaning behaves before language.\nPhase 3 is the bridge where these two systems start be"
   },
   {
-    "title": "UserScanner a CLI tool to help you select a unique username across all popular sites.",
-    "link": "https://dev.to/kaifcodec/userscanner-a-cli-tool-to-help-you-select-a-unique-username-across-all-popular-sites-3bn1",
-    "pubDate": "Sun, 30 Nov 2025 06:09:48 +0000",
+    "title": "QR-Genie: Building a Single-Purpose QR Code Tool with Kiro AI",
+    "link": "https://dev.to/abhishek_maurya9118/qr-genie-building-a-single-purpose-qr-code-tool-with-kiro-ai-15j2",
+    "pubDate": "Sun, 30 Nov 2025 12:21:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "User Scanner\n\n\n\nRepo: https://github.com/kaifcodec/user-scanner\n\nSuper easy to contribute and add new site support, join the other contributors and help us make the tool better.\nScan a username across"
+    "contentSnippet": "✨ QR-Genie: Building a Single-Purpose QR Code Tool with Kiro AI\n\n\nAI for Bharat Hackathon - Week 1: Micro-Tools Submission\nQR codes are everywhere — restaurant menus, payment apps, event tickets, WiFi"
   },
   {
-    "title": "Conquering the Shadow DOM: A Guide for Automation Testers",
-    "link": "https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8",
-    "pubDate": "Sun, 30 Nov 2025 06:04:59 +0000",
+    "title": "How to Handle HttpClientErrorException in Spring RestTemplate: A Complete Guide",
+    "link": "https://dev.to/aquib_javed_e55c5b2494560/how-to-handle-httpclienterrorexception-in-spring-resttemplate-a-complete-guide-1f3p",
+    "pubDate": "Sun, 30 Nov 2025 12:18:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "November 30, 2025 · 3 min read\nIf you've ever tried to automate a modern web application built with Web Components, you've likely hit the Shadow DOM wall.\nYou inspect an element — you see it right the"
+    "contentSnippet": "The Problem\n\n\n\n\n\nRestTemplate restTemplate = new RestTemplate();\n// If this URL returns 404, the app crashes!\nString response = restTemplate.getForObject(\"https://api.example.com/users/999\", String.cl"
   },
   {
-    "title": "That One Weird Line of Go Code That Saved My Weekend (And My Sanity)",
-    "link": "https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h",
-    "pubDate": "Sun, 30 Nov 2025 06:00:00 +0000",
+    "title": "Web Developer Travis McCracken on API Gateway Design with Rust and Go",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-3348",
+    "pubDate": "Sun, 30 Nov 2025 12:17:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Interface compliance checks in Go let you verify at compile-time that your types actually implement the interfaces they claim to, preventing runtime disasters. By adding a simple declaration like var "
+    "contentSnippet": "Harnessing the Power of Rust and Go in Backend Development: Insights from Web Developer Travis McCracken\nAs a seasoned Web Developer specializing in backend architecture, I’ve always been fascinated b"
   },
   {
-    "title": "🚀 How I Cut Deep Learning Training Time by 45% — Without Upgrading Hardware",
-    "link": "https://dev.to/ashish_ghadigaonkar_/how-i-cut-deep-learning-training-time-by-45-without-upgrading-hardware-71f",
-    "pubDate": "Sun, 30 Nov 2025 05:57:51 +0000",
+    "title": "The \"Happy Path\" is dead. This is the era of Defensive AI Architecture.",
+    "link": "https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc",
+    "pubDate": "Sun, 30 Nov 2025 12:03:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A practical experiment comparing Caching + Prefetching, Mixed Precision, and Gradient Accumulation\nMachine Learning engineers often celebrate higher accuracy, better architectures, newer models — but "
+    "contentSnippet": "We spent the last two years figuring out how to make LLMs \"smart.\" We learned RAG, Chain-of-Thought, and Tool Use.\nBut in 2025, the challenge isn't intelligence. It's Containment.\nThe difference betwe"
+  },
+  {
+    "title": "SELECT * がデータモデルの保守性を下げる話",
+    "link": "https://zenn.dev/okiyuki/articles/d94b4ceb940160",
+    "pubDate": "Sun, 30 Nov 2025 00:23:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "SQLコーディング規約で SELECT * を使わずにカラム名を明示化する、というポリシーを時々見るのですが、正直なところ自分はこれまで「どっちでもいいかな〜」くらいに思ってました。アドホックな分析なら速いし、dbtで開発していても最下流のデータマートなら「カラムが増えても勝手についてきてくれるし、楽でいいじゃん」くらいに考えていました。\n一方、ディメンショナルモデリングを運用する中で、これを入れ"
   },
   {
     "title": "永続化と切り離した＂純粋＂ドメインモデリング入門 - ステート、イベント、Deciderで始めるイミュータブルモデルの実装",
@@ -82,6 +89,20 @@
     "pubDate": "Sat, 29 Nov 2025 14:52:58 GMT",
     "source": "Zenn",
     "contentSnippet": "これはなに\n先日、技術書典19に参加してきました。\n技術書典では色々と書籍を買ったんですが、その中でも特に良かったなと感じた『わかる！ソフトウェア設計トレーニング』についてご紹介します。\nちなみに購入リンクはこちら。\nhttps://techbookfest.org/product/28eUFHQYcuN7VX4UGsPzsi\n紙媒体[1]のやつは11/30までしか購入できないらしいので、買いたい"
+  },
+  {
+    "title": "超シンプル！リモートワークの電話連絡を自動化してみた話 (2025年版)",
+    "link": "https://qiita.com/torifukukaiou/items/8ad537bcb178b75ab87c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-29T13:08:30.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Qiita Advent Calendar 2025\n今年もこの季節がいよいよ始まりました \n誰よりもこの日を待ちわびていたと自負しております。\n2024年12月26日から首を長くして楽しみにしておりました。\n \n\nはじめに\nこの記事は、Works Huma..."
+  },
+  {
+    "title": "【化学でPython】SymPy：化学反応速度式などの解析解をさくっと導出する",
+    "link": "https://zenn.dev/yamnor/articles/chem-with-python-sympy",
+    "pubDate": "Sat, 29 Nov 2025 12:59:39 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこの「化学でPython」シリーズでは、化学の分野で有用な Python ライブラリを紹介しています。\n今回紹介するのは、SymPy です。\n\n SymPy とは？\nSymPy は、Python で 記号計算（Symbolic Computation） を行うためのライブラリです。\n物理化学のレポートや論文作成で、「複雑な微分方程式を解きたい」「反応速度式の一般解を導出したい」といった場"
   },
   {
     "title": "UniTask 実装で意識している 7 つのポイント",
@@ -147,13 +168,6 @@
     "contentSnippet": "本記事のサマリ\n2025年9月に、長らくNext.jsエコシステムで愛用されてきたAuth.js（旧NextAuth.js）がBetter Authチームによって正式に引き継がれました。この記事では、このニュースの背景と、TypeScript firstで設計されたBetter Authの特徴、従来のAuth.jsとの違いについて調べた結果をまとめています。\n\n はじめに - 認証ライブラリに起き"
   },
   {
-    "title": "cc-sddで71ファイルのユーザー管理機能実装を手戻りなく進めた話",
-    "link": "https://zenn.dev/91works/articles/1f725ab39c31c2",
-    "pubDate": "Fri, 28 Nov 2025 12:15:19 GMT",
-    "source": "Zenn",
-    "contentSnippet": "所感・結論\ncc-sdd（Claude Code Spec-Driven Development）を初めて使ってみた。\nhttps://github.com/gotalab/cc-sdd\n結論から言うと、かなり品質よく、手戻りがほぼない状態で実装を進めることができた。今回ユーザー管理機能の実装という名目で、ファイル差分が71ファイル（そのうち約30ファイルは仕様書などのMarkdownドキュメント"
-  },
-  {
     "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
     "link": "https://qiita.com/quniquni/items/1e6bafbc6bfce74afe5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-28T08:49:28.000Z",
@@ -161,18 +175,11 @@
     "contentSnippet": "React / Next.js に慣れてくると、次に悩むのはだいたい「設計レイヤー」まわりですよね。\n\nコンポーネントが太りやすい\n\nuseEffect が増えてロジックが迷子になる\n状態をどこに置くか毎回迷う\nHooks をどこまで分割すべきか分からない\n\nこのあたりのモ..."
   },
   {
-    "title": "VizGames2025を振り返る",
-    "link": "https://qiita.com/unbosoms/items/59d2fc3db13a0a544d2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T08:36:53.000Z",
+    "title": "🚀 Google Antigravity徹底解説！無料で最強のAIエディタは初学者の【すごいキズぐすり】となるか？",
+    "link": "https://qiita.com/Yadon987/items/4177ee549cc3a485f2ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T08:21:45.000Z",
     "source": "Qiita",
-    "contentSnippet": "この記事の趣旨\n2025年11月20日に開催されたデータ可視化コンテスト「Viz Games 2025」にて優勝することができました。この記事ではViz Gamesとは何か？優勝にいたるまでの過程など個人的に振り返っていきます。\n\nViz Gamesとは？\nTablea..."
-  },
-  {
-    "title": "Cursor・MCPを活用した画面刷新プロジェクトにおける開発サイクルと教訓",
-    "link": "https://zenn.dev/pksha/articles/82d7ebc8496c32",
-    "pubDate": "Fri, 28 Nov 2025 08:03:16 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nPKSHA Technology のソフトウェアエンジニアの新冨です。\n私のチームでは社内問い合わせ管理ソフトウェアである PKSHA AI ヘルプデスクを開発しています。PKSHA AI ヘルプデスクに関する詳しい説明は以下の記事を参考にしてください。\nhttps://voice.pkshatech.com/n/n95e89b426a94\n先日、問い合わせ者用の Teams 風なチャッ"
+    "contentSnippet": "🚀  1. AIエディタの波に乗ろう！初学者こそ知るべき「無料で遊べる神ツール」\nこんにちは！Webエンジニアを目指して勉強を始めて2ヶ月半の「ヤドゥン」です。\n最近はAIツールの利用料金の請求におびえながら、いかに 「お金をかけずに」 アプリ開発の効率を上げるかばかり考..."
   },
   {
     "title": "【エディタ】VS codeからAntigravityに移行しました",
@@ -189,11 +196,11 @@
     "contentSnippet": "1. 毎回Wi-Fiパスワードを共有するの、面倒じゃないですか？\n家に友人が来たとき、ほぼ毎回こうなります。\n\n「WiFiパスワード教えて〜」\n「いいよ〜！これパスワード！」\n「ありがとう！（入力…）あれ、つながらない、、、」\n「えっ、ここ一文字間違えてるかも」\n\nいつも..."
   },
   {
-    "title": "【書籍まとめ】この一冊で全部わかる ネットワークの基本 (1章〜3章)",
-    "link": "https://qiita.com/Nao52/items/d94edde982c355f7cc13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T23:30:48.000Z",
+    "title": "Copilotが書いたコードを捨てる勇気が、一流エンジニアの条件になった理由",
+    "link": "https://qiita.com/kenta_sat0/items/15a50c8a41cc57f2a7f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T10:20:23.000Z",
     "source": "Qiita",
-    "contentSnippet": "参考書籍\n\nイラスト図解式 この一冊で全部わかるネットワークの基本 第2版\n\n前提条件\n\n上記の書籍でインプットをしていることを前提としているため、解説等は基本的にありません。\n特に図で理解をした方がいい場合も多いので、ぜひ読んでみていただきたいです。\nインプット後の知..."
+    "contentSnippet": "はじめに：Copilot、便利すぎて逆に怖くない？\nGitHub Copilotが出てから3年くらい経ちましたね。もう使ってない人の方が少ないんじゃないかってレベルで普及してます。\nでも最近、面白いことに気づいたんですよ。めちゃくちゃできるエンジニアほど、Copilotの..."
   },
   {
     "title": "1Password Shell Pluginが便利",
@@ -201,13 +208,6 @@
     "pubDate": "2025-11-27T09:33:52.000Z",
     "source": "Qiita",
     "contentSnippet": "1Password Shell Pluginを長らく使っていて便利だなと感じているので紹介します！\n\n1Password Shell Pluginとは\nCLIツール（GitHub CLI, AWS CLIなど）の実行時に、1Passwordに保存したCLIツールの認証情報を..."
-  },
-  {
-    "title": "【Gemini 3 Pro】コピペ可能：ニュース収集からリッチなUI生成まで全自動化する Gem の作り方",
-    "link": "https://qiita.com/Ryo-Nakano/items/bfd528bb5f6b83e0c43c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T02:50:24.000Z",
-    "source": "Qiita",
-    "contentSnippet": "🏰 できたもの\nGemini 3 Pro を使って、以下を実現できる Gem を作成しました。\nニュースを収集して、きれいに一覧化してくれる\n\n~~\nカテゴリごとにフィルターすることも可能です\n\n~~\nカードをクリックするとニュースの詳細を見ることができます\n\n~~\n入力..."
   },
   {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",

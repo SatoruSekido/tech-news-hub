@@ -1,73 +1,73 @@
 [
   {
-    "title": "Primeros Pasos con AWS CDK en Windows: Guía Completa de Instalación",
-    "link": "https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-windows-guia-completa-de-instalacion-2i3c",
-    "pubDate": "Sun, 30 Nov 2025 18:25:27 +0000",
+    "title": "Reusable ViewModel Architecture for SwiftUI",
+    "link": "https://dev.to/sebastienlato/reusable-viewmodel-architecture-for-swiftui-2bg2",
+    "pubDate": "Mon, 01 Dec 2025 02:20:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Primeros Pasos con AWS CDK en Windows: Guía Completa de Instalación\n\n\nLa Infraestructura como Código (IaC) ha revolucionado la forma en que gestionamos recursos en la nube, y AWS Cloud Development Kit"
+    "contentSnippet": "SwiftUI has evolved fast — especially with the new @observable macro, improved data flow, and better navigation tools.\n\nBut one thing still confuses many developers:\nHow do you structure ViewModels in"
   },
   {
-    "title": "Getting Started with AWS CDK on Windows: A Complete Setup Guide",
-    "link": "https://dev.to/tenondev/getting-started-with-aws-cdk-on-windows-a-complete-setup-guide-53cf",
-    "pubDate": "Sun, 30 Nov 2025 18:23:44 +0000",
+    "title": "Reusable ViewModel Architecture for SwiftUI",
+    "link": "https://dev.to/sebastienlato/reusable-viewmodel-architecture-for-swiftui-52bg",
+    "pubDate": "Mon, 01 Dec 2025 02:20:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Getting Started with AWS CDK on Windows: A Complete Setup Guide\n\n\nInfrastructure as Code (IaC) has revolutionized how we manage cloud resources, and AWS Cloud Development Kit (CDK) takes it to the nex"
+    "contentSnippet": "SwiftUI has evolved fast — especially with the new @observable macro, improved data flow, and better navigation tools.\n\nBut one thing still confuses many developers:\nHow do you structure ViewModels in"
   },
   {
-    "title": "🚀 I Built a Lightweight Uptime & API Monitoring Tool Because Nothing Felt Simple Enough",
-    "link": "https://dev.to/ckromannn/i-built-a-lightweight-uptime-api-monitoring-tool-because-nothing-felt-simple-enough-2o4i",
-    "pubDate": "Sun, 30 Nov 2025 18:18:27 +0000",
+    "title": "Showing Nearby Places & Routes in React Native Maps",
+    "link": "https://dev.to/dainyjose/showing-nearby-places-routes-in-react-native-maps-34b7",
+    "pubDate": "Mon, 01 Dec 2025 02:18:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’m Casper — product & engineering from Denmark —, and for the last months I’ve been building a super small tool to solve a problem that kept coming up in my own projects.\nSome of my side projects nee"
+    "contentSnippet": "Introduction\n\n\nIn Part 1 we integrated maps into React Native, and in Part 2 we built a location picker.\nNow, let’s make it smarter — by showing nearby places (like restaurants or stores) and drawing "
   },
   {
-    "title": "Primeros Pasos con AWS CDK en macOS: Guía Completa de Instalación",
-    "link": "https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-macos-guia-completa-de-instalacion-27b3",
-    "pubDate": "Sun, 30 Nov 2025 18:17:50 +0000",
+    "title": "Priority Inversion and the NASA Mars Pathfinder Bug",
+    "link": "https://dev.to/shivam_rai_b1e30ae7bae001/priority-inversion-and-the-nasa-mars-pathfinder-bug-3gch",
+    "pubDate": "Mon, 01 Dec 2025 02:10:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Primeros Pasos con AWS CDK en macOS: Guía Completa de Instalación\n\n\nLa Infraestructura como Código (IaC) ha revolucionado la forma en que gestionamos recursos en la nube, y AWS Cloud Development Kit ("
+    "contentSnippet": "Priority inversion happens when a high-priority task is forced to wait because a low-priority task is holding a resource it needs. The problem becomes worse when a medium-priority task keeps running a"
   },
   {
-    "title": "Maximize SDK Integration for AI Conversations with Monetzly",
-    "link": "https://dev.to/monetzly/maximize-sdk-integration-for-ai-conversations-with-monetzly-20p",
-    "pubDate": "Sun, 30 Nov 2025 18:16:48 +0000",
+    "title": "Building a Small Kali Linux “Health Checker” in Nim (KaliSentry)",
+    "link": "https://dev.to/0x57origin/building-a-small-kali-linux-health-checker-in-nim-kalisentry-53ni",
+    "pubDate": "Mon, 01 Dec 2025 02:08:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What If Your AI App Could Generate Revenue in Two Ways Simultaneously?\n\n\nImagine you’ve just built an innovative AI application, but as you launch it into the world, you face a familiar challenge: mon"
+    "contentSnippet": "So I’ve been doing my masters in cyber security and I wanted a small side project that wasn’t too crazy but still kinda useful. I’ve been messing with Nim lately and decided to try building a simple K"
   },
   {
-    "title": "Getting Started with AWS CDK on macOS: A Complete Setup Guide",
-    "link": "https://dev.to/tenondev/getting-started-with-aws-cdk-on-macos-a-complete-setup-guide-m5l",
-    "pubDate": "Sun, 30 Nov 2025 18:15:23 +0000",
+    "title": "Manage revisions in Azure Container Apps",
+    "link": "https://dev.to/lotanna_obianefo/manage-revisions-in-azure-container-apps-5938",
+    "pubDate": "Mon, 01 Dec 2025 02:04:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Getting Started with AWS CDK on macOS: A Complete Setup Guide\n\n\nInfrastructure as Code (IaC) has revolutionized how we manage cloud resources, and AWS Cloud Development Kit (CDK) takes it to the next "
+    "contentSnippet": "Azure Container Apps includes a built-in revision management system that allows you to track, control, and roll back application updates with ease. Each time you deploy new code or update configuratio"
   },
   {
-    "title": "You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events",
-    "link": "https://dev.to/member_8455d9df/you-might-not-need-websockets-the-simple-power-of-server-sent-events-l4h",
-    "pubDate": "Sun, 30 Nov 2025 18:15:16 +0000",
+    "title": "Every startup claims they’re AI-enabled. Every tool claims intelligence. Every founder claims differentiation.\r\n\r\nBut here’s the truth:\r\n\r\nMost founders have no idea what “AI-enabled” actually means.",
+    "link": "https://dev.to/jaideepparashar/every-startup-claims-theyre-ai-enabled-every-tool-claims-intelligence-every-founder-claims-39ie",
+    "pubDate": "Mon, 01 Dec 2025 02:02:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub Home\nIn our toolbox, there are always a few \"star\" tools. 🛠️ In the realm of real-time web communication, WebSocket is undoubtedly the brightest star. It's powerful, supports bidirectional com"
+    "contentSnippet": "Why Most Founders Misunderstand What “AI-Enabled” Means\nJaideep Parashar ・ Dec 1\n#ai\n        #webdev\n        #beginners\n        #devops"
   },
   {
-    "title": "Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación",
-    "link": "https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-linux-guia-completa-de-instalacion-d23",
-    "pubDate": "Sun, 30 Nov 2025 18:08:21 +0000",
+    "title": "How to Track Amazon Competitors: A Practical Guide to Winning With Store Monitoring",
+    "link": "https://dev.to/loopsthings/how-to-track-amazon-competitors-a-practical-guide-to-winning-with-store-monitoring-32bf",
+    "pubDate": "Mon, 01 Dec 2025 02:01:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación\n\n\nLa Infraestructura como Código (IaC) ha revolucionado la forma en que gestionamos recursos en la nube, y AWS Cloud Development Kit ("
+    "contentSnippet": "In Amazon’s cutthroat marketplace, data isn’t just power—it’s the difference between outselling rivals and getting left in the dust. Manual checks won’t cut it anymore. This guide breaks down how to b"
   },
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/oncloud7/-16c1",
-    "pubDate": "Sun, 30 Nov 2025 18:08:08 +0000",
+    "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
+    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1nal",
+    "pubDate": "Mon, 01 Dec 2025 02:00:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How to Create An Amazon EKS - Step by Step for Beginners\nOn-cloud7 ・ Nov 30\n#aws\n        #eks\n        #containers\n        #cloud"
+    "contentSnippet": "Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less\n\n\nCinemaSins dives into the wild world of KPop Demon Hunters, pointing out every hilarious misstep and cheeky slip in just 16 minutes (or"
   },
   {
-    "title": "How to Create An Amazon EKS - Step by Step for Beginners",
-    "link": "https://dev.to/oncloud7/how-to-create-an-amazon-eks-step-by-step-for-beginners-2do6",
-    "pubDate": "Sun, 30 Nov 2025 18:07:38 +0000",
+    "title": "Why Most Founders Misunderstand What “AI-Enabled” Means",
+    "link": "https://dev.to/jaideepparashar/why-most-founders-misunderstand-what-ai-enabled-means-24gi",
+    "pubDate": "Mon, 01 Dec 2025 01:59:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "What is Amazon EKS?\n\n\nAmazon EKS: Simplified Kubernetes Management\nAmazon Elastic Kubernetes Service (EKS) provides a fully managed Kubernetes service that eliminates the complexity of operating Kuber"
+    "contentSnippet": "“AI-enabled.”\nIt’s the most overused phrase in pitch decks, product pages, and founder conversations in 2025.\nBut here’s the truth:\nMost founders have no idea what “AI-enabled” actually means.\nBecause"
   },
   {
     "title": "SwiftコードをAndroidネイティブにコンパイルできる「Skip Fuse」が個人開発者などに無料提供へ",
@@ -84,6 +84,62 @@
     "contentSnippet": "GitHubは、開発ツールとしてAIが導入されていくことで、プログラミング言語やフレームワークの選択にどのような影響を与えるかを考察したブログ記事「TypeScript, Python, and the AI feedback loop changing software development」（TypeScript、Python、そしてAIフィードバックループがソフトウェア開発を変えていく）を"
   },
   {
+    "title": "AIコーディング実践環境の構築方法【2025年12月】",
+    "link": "https://zenn.dev/mkj/articles/bf59c4c86d98a8",
+    "pubDate": "Sun, 30 Nov 2025 15:00:43 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は、松尾研究所Advent Calendar 2025の記事です。本記事ではAIコーディングを実践するための環境構築方法が分かります。具体的なポイントは以下となります。\n\n2025年12月時点での、Claude Code を中心としたAIコーディング環境の構築手順\nAIコーディングに必要なツールの概要、セットアップ方法、使い方\n仕様駆動開発でソフトウェア開発する流れと具体的な実践方法\n\n!"
+  },
+  {
+    "title": "アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。",
+    "link": "https://zenn.dev/watany/articles/ad14f8a352d62f",
+    "pubDate": "Sun, 30 Nov 2025 15:00:21 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこれから話すのは地雷の話で、踏むまではそれを知らない人もいるが一発の被弾が致命傷になる話だ。\n誰も話してくれないが、静かに起こっているアウトプットへの変化、そのムードについて書く。\nムードなので定量的な話ではないが、その辺は差し引いて意見の一つとして読んで欲しい。\n\n 「アウトプット最高！」の時代\nQiita、はてブ、Zennなどに書くのが当たり前の時代。書けば書くほど褒められる、という"
+  },
+  {
+    "title": "CISSPに合格しました",
+    "link": "https://qiita.com/kowaretyatta/items/a8b17843e91829cb8034?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T11:41:44.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n2025年11月11日CISSPに合格したので、どんな勉強したのかとかをまとめておきます\n\nモチベーション\n今年の４月に応用情報技術者試験を受け、なんとか合格\n次のステップの、情報処理安全確保支援士に向けてセキュリティ周りの勉強をしていたら\nなんかめっちゃ面白い..."
+  },
+  {
+    "title": "生成AI着せ替え体験 2025北陸編の振り返り＠JAWS FESTA 2025 in 金沢",
+    "link": "https://qiita.com/riz3f7/items/265bed100455e4abac61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T10:04:55.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n2025年10月11日に金沢で開催されたJAWS FESTA 2025 北陸のお祭りトラックにて、Amazon Nova CanvasのVirtual Try-on機能を使ったバーチャル試着コンテンツ「生成AI着せ替え体験 2025北陸編」を公開しました。\nJ..."
+  },
+  {
+    "title": "esa記事を自動要約するSlack Botの実装詳細【Gemini + Cloud Run】",
+    "link": "https://zenn.dev/transmedia_blog/articles/ad324e179b8a68",
+    "pubDate": "Sun, 30 Nov 2025 09:04:52 GMT",
+    "source": "Zenn",
+    "contentSnippet": "1. はじめに\nこんにちは！\nTransMedia Tech Lab に所属している B1 の木村 翔竜です。\n前回の記事では、私の先輩が「毎日更新される膨大な情報を効率良くインプットするには」というのを書きました。こちらでは、esaへの投稿を自動で要約してSlackに通知するbotの概要と運用結果をご紹介しました。\n本記事では、その実装の詳細について解説していきます！具体的には以下の内容をカバー"
+  },
+  {
+    "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
+    "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T06:56:37.000Z",
+    "source": "Qiita",
+    "contentSnippet": "AIがあるから資格勉強する気が出ない\n前に同僚がこんな話をしてくれました。\n「資格を取らなくてもAIと対話しながら仕様やサービスの選定ができれば良くない？」\n「資格取れても社内評価が上がるくらいだから」\nまあわかる。わかるけど、、\nこの「わかるけど、、」と思ったことが自分..."
+  },
+  {
+    "title": "超高速SQL単体テスト rawsql-ts/pg-testkit",
+    "link": "https://zenn.dev/mkmonaka/articles/c2413d99ae67bb",
+    "pubDate": "Sun, 30 Nov 2025 06:45:17 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Node.jsでSQLを高速に単体テストするライブラリ @rawsql-ts/pg-testkit を紹介します。\n生SQLは当然として、PrismaやDrizzleなど既存ORMとも併用可能で、既存アーキテクチャを壊さず導入できます。\n\n 従来の問題点\nSQLの単体テストを行う場合、一般的には以下の手順で行います。\n\nマイグレーション（テーブル環境構築）\nシーディング（テストデータ投入）\nテスト"
+  },
+  {
+    "title": "Server-Sent Events（SSE）で実現するクロスデバイスリアルタイム連携 - Redis Pub/Subでマルチサーバー対応",
+    "link": "https://zenn.dev/helloworld/articles/a9d5049e8aaa04",
+    "pubDate": "Sun, 30 Nov 2025 02:11:50 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「あるデバイスで起きた操作を、別のデバイスにリアルタイムで反映させたい」——そんな要件に出会ったことはありませんか？\n例えば：\n\nスマホアプリで注文 → 店舗側のタブレットに即座に通知\n受付端末で来訪者登録 → 担当者のPCに瞬時に表示\nモバイルから会議室予約 → 会議室前のディスプレイに即座に反映\n\nこのような クロスデバイス連携 の実現には、通常WebSocketが使われますが、実は"
+  },
+  {
     "title": "SELECT * がデータモデルの保守性を下げる話",
     "link": "https://zenn.dev/okiyuki/articles/d94b4ceb940160",
     "pubDate": "Sun, 30 Nov 2025 00:23:03 GMT",
@@ -98,25 +154,18 @@
     "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\n先週開催されたアーキテクチャカンファレンスで登壇し、「Always Valid Domain Model」について話しました。これは、ドメインモデルが常に整合性のある状態を保つことを保証する設計アプローチです。\nhttps://speakerdeck.com/tomohisa/regret-free-architecture-w"
   },
   {
+    "title": "【個人開発】ChatGPTの履歴JSONを「完全ローカル」で解析する爆速ビューアを作った話",
+    "link": "https://qiita.com/takumi_ilove-ai/items/39a16ec6a5ca99cffdfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-29T15:50:48.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nはじめまして、takumi です。 趣味で個人開発も行っています。\n今回は、個人開発で ChatGPT の履歴ビューワー兼コンバーター「iLoveAI」を開発したので、その技術的な裏側や開発の過程で得られた知見を共有したいと思います。\niLoveAI: http..."
+  },
+  {
     "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
     "link": "https://zenn.dev/mconfjp/articles/good-book-at-gijutsushoten2025",
     "pubDate": "Sat, 29 Nov 2025 14:52:58 GMT",
     "source": "Zenn",
     "contentSnippet": "これはなに\n先日、技術書典19に参加してきました。\n技術書典では色々と書籍を買ったんですが、その中でも特に良かったなと感じた『わかる！ソフトウェア設計トレーニング』についてご紹介します。\nちなみに購入リンクはこちら。\nhttps://techbookfest.org/product/28eUFHQYcuN7VX4UGsPzsi\n紙媒体[1]のやつは11/30までしか購入できないらしいので、買いたい"
-  },
-  {
-    "title": "超シンプル！リモートワークの電話連絡を自動化してみた話 (2025年版)",
-    "link": "https://qiita.com/torifukukaiou/items/8ad537bcb178b75ab87c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T13:08:30.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Qiita Advent Calendar 2025\n今年もこの季節がいよいよ始まりました \n誰よりもこの日を待ちわびていたと自負しております。\n2024年12月26日から首を長くして楽しみにしておりました。\n \n\nはじめに\nこの記事は、Works Huma..."
-  },
-  {
-    "title": "【化学でPython】SymPy：化学反応速度式などの解析解をさくっと導出する",
-    "link": "https://zenn.dev/yamnor/articles/chem-with-python-sympy",
-    "pubDate": "Sat, 29 Nov 2025 12:59:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこの「化学でPython」シリーズでは、化学の分野で有用な Python ライブラリを紹介しています。\n今回紹介するのは、SymPy です。\n\n SymPy とは？\nSymPy は、Python で 記号計算（Symbolic Computation） を行うためのライブラリです。\n物理化学のレポートや論文作成で、「複雑な微分方程式を解きたい」「反応速度式の一般解を導出したい」といった場"
   },
   {
     "title": "UniTask 実装で意識している 7 つのポイント",
@@ -133,27 +182,6 @@
     "contentSnippet": "はじめに\n世の中の言語や環境の中には，順列や組合せの生成といった高度なコレクション操作を標準で提供してくれないものが少なからずあります．かかる折には自前でジェネレータを定義するものですが，再帰だのループだのと書いているうちに目が回って疲れてしまいます．しかし，こと組合せの生成に関しては心配無用です．繰り返しを用いずにビット演算だけでこれを実現する方法があります．\n\n 組合せと二進数\n組合せというの"
   },
   {
-    "title": "コンテナとは何か",
-    "link": "https://zenn.dev/ka_kan/articles/25f0617bed553d",
-    "pubDate": "Sat, 29 Nov 2025 07:12:20 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nDockerをはじめとするコンテナ技術を利用して開発を行う人は少なくないと思います。\n普段意識せずに使用しているコンテナ、これらはどのように定義や実装をされているのでしょうか。\n本記事では、コンテナとは何かを\n\n公式ドキュメントなどの定義\nLinuxカーネル\n実際のプロセスの観察\n\nの 3 つの観点から確認します。\n事前にこちらを読んでおくと事前知識として少しだけに役立つかもしれません。"
-  },
-  {
-    "title": "Android/PCに映る全てのモノをAI自動テストするツールを開発した話",
-    "link": "https://zenn.dev/jam0824/articles/2b23a35dfb23e7",
-    "pubDate": "Sat, 29 Nov 2025 07:05:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "概要\nAndroid/PCの画面に映るものなら一通り自動操作(テスト)できる、いわゆるADB版/PC版のComputer useを自前実装した話です。\n主に要素が取りにくいゲームなどのE2E自動テスト目的で開発しています。\nもちろんAppでもWebでもユーザーが操作できるモノなら操作可能です。\n用途は……\n\n人用のテストケース(手順とか期待結果が書いてあるアレ)を実施できるので、夜の間にやってもら"
-  },
-  {
-    "title": "Claude Code スキル・サブエージェント攻略ガイド",
-    "link": "https://zenn.dev/oligin/articles/7691926a83936a",
-    "pubDate": "Sat, 29 Nov 2025 06:09:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本稿は、Claude Code のスキルとサブエージェントを確実に発動させるための実践ガイドである。公式ドキュメントには記載のない罠がいくつか存在するため、検証結果を踏まえて攻略手順をまとめる。忍耐力が試される区間なので気長に頑張りましょう。\n\n\n 発端：スキルが発火しない\nまず目標を確認する。やりたいのは「プロジェクト固有のコーディング規約を Claude に守らせる」こと。\nスキルを作成する。"
-  },
-  {
     "title": "API Gatewayのストリーミング機能を試してみました",
     "link": "https://qiita.com/yakumo_09/items/db2d2df88863136483e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-29T05:05:12.000Z",
@@ -168,18 +196,11 @@
     "contentSnippet": "話題のSharePointナレッジエージェントは管理センターのGUIで設定ができないので、今回PowerShellで設定してみました！\n\n1. SharePoint Online 管理シェルをインストールする\nこちらから管理シェルをインストールします。秒で設定が終わり..."
   },
   {
-    "title": "Power BI 勉強会 #34 - Power Query の大事な話",
-    "link": "https://qiita.com/PowerBIxyz/items/2344651f396cb1749ad4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T03:23:04.000Z",
+    "title": "「S3はオブジェクトストレージ」の意味、本当に理解できてますか？~見事にハマった俺の屍を超えて行け~",
+    "link": "https://qiita.com/Rabbit_booK/items/aa6ea14f7ed2106f3655?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T10:22:04.000Z",
     "source": "Qiita",
-    "contentSnippet": "このポストの内容ざっくりは、\nチンすればお弁当は温まります。電子レンジを使うとき考えておいた方がよいのは、500 W で 2 分とか、お弁当がふたつならとかレシピ(手順や操作)ではなく、なぜチンするとお温まるのかということ。上手に使いこなすためにレシピを増やしていく。それは..."
-  },
-  {
-    "title": "Auth.jsを引き継いだBetter Authについて、調べてみたぜ",
-    "link": "https://zenn.dev/stellarcreate/articles/20251129-better-auth-authjs-successor",
-    "pubDate": "Fri, 28 Nov 2025 21:30:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本記事のサマリ\n2025年9月に、長らくNext.jsエコシステムで愛用されてきたAuth.js（旧NextAuth.js）がBetter Authチームによって正式に引き継がれました。この記事では、このニュースの背景と、TypeScript firstで設計されたBetter Authの特徴、従来のAuth.jsとの違いについて調べた結果をまとめています。\n\n はじめに - 認証ライブラリに起き"
+    "contentSnippet": "AWSの資格勉強（SAAなど）をしていると、必ず出てくる定番の知識があります。\n「S3はオブジェクトストレージであり、EFSのようなファイルストレージとは異なり、ディレクトリ階層構造を持たない」\n私も丸暗記して、「またこれかー、サービス問題やわ」とドヤ顔していました。\nしか..."
   },
   {
     "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
@@ -187,13 +208,6 @@
     "pubDate": "2025-11-28T08:49:28.000Z",
     "source": "Qiita",
     "contentSnippet": "React / Next.js に慣れてくると、次に悩むのはだいたい「設計レイヤー」まわりですよね。\n\nコンポーネントが太りやすい\n\nuseEffect が増えてロジックが迷子になる\n状態をどこに置くか毎回迷う\nHooks をどこまで分割すべきか分からない\n\nこのあたりのモ..."
-  },
-  {
-    "title": "🚀 Google Antigravity徹底解説！無料で最強のAIエディタは初学者の【すごいキズぐすり】となるか？",
-    "link": "https://qiita.com/Yadon987/items/4177ee549cc3a485f2ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T08:21:45.000Z",
-    "source": "Qiita",
-    "contentSnippet": "🚀  1. AIエディタの波に乗ろう！初学者こそ知るべき「無料で遊べる神ツール」\nこんにちは！Webエンジニアを目指して勉強を始めて2ヶ月半の「ヤドゥン」です。\n最近はAIツールの利用料金の請求におびえながら、いかに 「お金をかけずに」 アプリ開発の効率を上げるかばかり考..."
   },
   {
     "title": "【エディタ】VS codeからAntigravityに移行しました",
@@ -208,20 +222,6 @@
     "pubDate": "2025-11-27T23:50:11.000Z",
     "source": "Qiita",
     "contentSnippet": "1. 毎回Wi-Fiパスワードを共有するの、面倒じゃないですか？\n家に友人が来たとき、ほぼ毎回こうなります。\n\n「WiFiパスワード教えて〜」\n「いいよ〜！これパスワード！」\n「ありがとう！（入力…）あれ、つながらない、、、」\n「えっ、ここ一文字間違えてるかも」\n\nいつも..."
-  },
-  {
-    "title": "Copilotが書いたコードを捨てる勇気が、一流エンジニアの条件になった理由",
-    "link": "https://qiita.com/kenta_sat0/items/15a50c8a41cc57f2a7f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T10:20:23.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに：Copilot、便利すぎて逆に怖くない？\nGitHub Copilotが出てから3年くらい経ちましたね。もう使ってない人の方が少ないんじゃないかってレベルで普及してます。\nでも最近、面白いことに気づいたんですよ。めちゃくちゃできるエンジニアほど、Copilotの..."
-  },
-  {
-    "title": "1Password Shell Pluginが便利",
-    "link": "https://qiita.com/ohakutsu/items/384a3d0802dbe08287db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T09:33:52.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1Password Shell Pluginを長らく使っていて便利だなと感じているので紹介します！\n\n1Password Shell Pluginとは\nCLIツール（GitHub CLI, AWS CLIなど）の実行時に、1Passwordに保存したCLIツールの認証情報を..."
   },
   {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",

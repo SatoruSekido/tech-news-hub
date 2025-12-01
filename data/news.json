@@ -1,66 +1,94 @@
 [
   {
-    "title": "Multimodal Agents and Their Applications",
-    "link": "https://dev.to/pranav_s_5b1ec7cc447dcdcc/multimodal-agents-and-their-applications-33ie",
-    "pubDate": "Mon, 01 Dec 2025 12:51:48 +0000",
+    "title": "Kubernetes Secrets Without the Pain: Meet kcpwd",
+    "link": "https://dev.to/osmanuygar/kubernetes-secrets-without-the-pain-meet-kcpwd-4pfo",
+    "pubDate": "Mon, 01 Dec 2025 18:39:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Multimodal Agents and Their Applications\n\n\nAuthor: Pranav S - 2025-12-01\nMultimodal agents are AI systems that perceive, reason, and act using multiple input and output modalities (e.g., text, images,"
+    "contentSnippet": "Kubernetes Secrets Without the Pain: Meet kcpwd\n\n\nkcpwd is a cross-platform password manager that syncs to Kubernetes secrets with zero infrastructure. No Vault servers, no operators, no complexity—ju"
   },
   {
-    "title": "Web3 iGaming, The Glass Box Economy",
-    "link": "https://dev.to/asroy/web3-igaming-the-glass-box-economy-db3",
-    "pubDate": "Mon, 01 Dec 2025 12:49:34 +0000",
+    "title": "NDC Conferences: Optimize Your Internal OS and Minimize Compatibility Issues at Work - Alice Meredith",
+    "link": "https://dev.to/scale_youtube/ndc-conferences-optimize-your-internal-os-and-minimize-compatibility-issues-at-work-alice-3nej",
+    "pubDate": "Mon, 01 Dec 2025 18:37:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Key Takeaways:\n1. Core Concept: Web3 iGaming is the \"Glass Box\" economy, replacing traditional \"Black Box\" trust with outcomes verifiable through immutable code and cryptographic proof.\n2. Verificatio"
+    "contentSnippet": "Ever felt like you’re running a unique OS and crashing head-first into someone else’s? In her NDC Copenhagen talk, Alice Meredith breaks down your “HumanOS”—personality traits, strengths, stress defau"
   },
   {
-    "title": "Refactoring the Analytics Core in DocBeacon: The Hidden Cost of Aggregation",
-    "link": "https://dev.to/howard_shaw_3c36a3a6cb900/refactoring-the-analytics-core-in-docbeacon-the-hidden-cost-of-aggregation-46cf",
-    "pubDate": "Mon, 01 Dec 2025 12:48:52 +0000",
+    "title": "How I decide when an app is ready to launch",
+    "link": "https://dev.to/shayy/how-i-decide-when-an-app-is-ready-to-launch-kb3",
+    "pubDate": "Mon, 01 Dec 2025 18:32:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’ve been deep inside one of the most complex parts of DocBeacon, the tracking and analytics engine.\nWe aggregate user behavior data on three levels:\nShare-level (each document share link)\nDocument-le"
+    "contentSnippet": "There's no perfect moment to launch. I've shipped things too early and watched users bounce off broken flows. I've also waited too long, polishing features nobody asked for while the motivation slowly"
   },
   {
-    "title": "Migrating Azure Table Storage Across Organizations: A Practical Guide",
-    "link": "https://dev.to/techwithhari/migrating-azure-table-storage-across-organizations-a-practical-guide-5gph",
-    "pubDate": "Mon, 01 Dec 2025 12:43:00 +0000",
+    "title": "Agentic AI for Developers: Building Autonomous AI Systems Instead of Chatbots",
+    "link": "https://dev.to/careerbytecode/agentic-ai-for-developers-building-autonomous-ai-systems-instead-of-chatbots-3kj6",
+    "pubDate": "Mon, 01 Dec 2025 18:31:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nCloud migrations are a common challenge in modern DevOps workflows, especially when dealing with organizational changes like mergers, acquisitions, or restructuring. Recently, I had to "
+    "contentSnippet": "For years, developers have used AI as a tool  an API that generates text, code, or images when prompted. But the next stage of AI isn’t about better prompting. It’s about AI that can think, plan, act,"
   },
   {
-    "title": "Immersive Web: A Blend of Logic, Motion, and Emotion",
-    "link": "https://dev.to/worapon_jintajirakul/immersive-web-a-blend-of-logic-motion-and-emotion-2j4k",
-    "pubDate": "Mon, 01 Dec 2025 12:39:21 +0000",
+    "title": "Week 9: Using Recoil in React!",
+    "link": "https://dev.to/nikhilsharma6/week-9-using-recoil-in-react-2m0j",
+    "pubDate": "Mon, 01 Dec 2025 18:28:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building Web That Feels — Not Just Functions\n🔗🔗 https://tech-futuristic-landing.vercel.app/"
+    "contentSnippet": "Back after 2 weeks of vacation!(it was actually a continuous battle with so many evaluations and exams at college). During this time I've been covering State Management with context API and Recoil! Le"
   },
   {
-    "title": "Terraform File Structure",
-    "link": "https://dev.to/nandan_007/terraform-file-structure-4mag",
-    "pubDate": "Mon, 01 Dec 2025 12:37:59 +0000",
+    "title": "🚀 Day 1: Introduction to Apache Spark",
+    "link": "https://dev.to/sandeepk27/day-1-introduction-to-apache-spark-3haa",
+    "pubDate": "Mon, 01 Dec 2025 18:27:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Day 6 of #30daysofawsterraform challenge\nToday I come across file structure in Terraform. \nWhy file structure is important in Terraform?\n\n\nBasic form of file structure:\nterraform-project/\nIn the enter"
+    "contentSnippet": "Welcome to Day 1 of the 60 Day Spark Mastery Series!\nLet’s begin with the fundamentals.\n🌟 What is Apache Spark?\nApache Spark is a lightning-fast distributed computing engine used for processing massi"
   },
   {
-    "title": "The Business Value of .NET Training for Modern Engineering Teams",
-    "link": "https://dev.to/iteyonikservices/the-business-value-of-net-training-for-modern-engineering-teams-2ijd",
-    "pubDate": "Mon, 01 Dec 2025 12:34:59 +0000",
+    "title": "How to Search Non-Patent Literature for Prior Art",
+    "link": "https://dev.to/patentscanai/how-to-search-non-patent-literature-for-prior-art-4ag8",
+    "pubDate": "Mon, 01 Dec 2025 18:25:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Enterprise applications power everything—customer data, transactions, workflows. When they fail or slow down, the business feels it instantly. Yet many organizations upgrade their tech stacks without "
+    "contentSnippet": "In today’s innovation-driven world, the difference between a strong patent and a vulnerable one often comes down to the quality of your prior art search. While most people start with patent databases,"
   },
   {
-    "title": "Why Companies Hire React Native Developers for Rapid Cross-Platform Delivery",
-    "link": "https://dev.to/lucy1/why-companies-hire-react-native-developers-for-rapid-cross-platform-delivery-7ac",
-    "pubDate": "Mon, 01 Dec 2025 12:34:00 +0000",
+    "title": "Monetzly: A Game-Changer for AI Monetization in LLM Apps",
+    "link": "https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-ehf",
+    "pubDate": "Mon, 01 Dec 2025 18:20:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Speed is the new currency of digital commerce. Whether one is a business growing mobile capabilities or a startup proving an MVP, there has never been more pressure to get to market fast and iterate q"
+    "contentSnippet": "When Ads Become Helpful Suggestions Instead of Interruptions\n\n\nIn the rapidly evolving landscape of AI-powered applications, developers face a dual challenge: how to monetize their innovations without"
   },
   {
-    "title": "AWS Terraform Meta Arguments | Count, depends_on, for_each",
-    "link": "https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-meta-arguments-count-dependson-foreach-19nh",
-    "pubDate": "Mon, 01 Dec 2025 12:32:20 +0000",
+    "title": "Simply Order (Part 8) – Querying Orders with Details: GraphQL in Action",
+    "link": "https://dev.to/hassan314159/simply-order-part-8-querying-orders-with-details-graphql-in-action-2nmb",
+    "pubDate": "Mon, 01 Dec 2025 18:20:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Terraform becomes truly powerful when you start using meta-arguments — special parameters that change how resources are created, managed, and related to each other. While Terraform syntax is easy to l"
+    "contentSnippet": "This is the eighth article in our series, where we design a simple order solution for a hypothetical company called Simply Order. The company expects high traffic and needs a resilient, scalable, and "
+  },
+  {
+    "title": "From “Overqualified” to IT Jr: 6-month update on my career pivot #webdev #career #programming #productivity",
+    "link": "https://dev.to/guadalupe182/from-overqualified-to-it-jr-6-month-update-on-my-career-pivot-webdev-career-programming-3lkk",
+    "pubDate": "Mon, 01 Dec 2025 18:19:19 +0000",
+    "source": "DEV.to",
+    "contentSnippet": "A few months ago I wrote about a really uncomfortable experience inside my own company:\n\nI applied internally to grow as a developer and ended up being called “overqualified” and even “unable to code”"
+  },
+  {
+    "title": "「AWS MCP Server」プレビュー開始。最新のAWS APIからナレッジベースまで包括的にAIからAWSを利用可能に",
+    "link": "https://www.publickey1.jp/blog/25/aws_mcp_serveraws_apiaiaws.html",
+    "pubDate": "2025-12-01T16:31:04.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Servicesは、AIを用いてAWSを利用するための新サービス「AWS MCP Server」のプレビュー提供を発表しました。 MCPとは一般に、生成AIやAIエージェントが外部のツールを呼び出して情報を取得したり操作したりする際に使われるプロトコルです。生成AIやAIエージェントがMCPクライアントとなり、情報提供や操作の対象となる側がMCPサーバとなります。 AWSはす"
+  },
+  {
+    "title": "AWS、コンテナアプリケーションのインフラ周りを自動設定してくれる「Amazon ECS Express Mode」提供開始",
+    "link": "https://www.publickey1.jp/blog/25/awsamazon_ecs_express_mode.html",
+    "pubDate": "2025-12-01T15:50:55.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、コンテナ化されたアプリケーションのデプロイやスケーリング、運用管理などを提供するフルマネージドサービス「Amazon ECS」（Amazon Elastic Container Service）の新機能として、複雑な設定を自動化することで迅速なデプロイを可能にする「Amazon ECS Express Mode」の提供を発表しました。 本来、コン"
+  },
+  {
+    "title": "Kawaiiパワーで完全に理解！しっかりやり切るOAuthとOIDC入門 (執筆中)",
+    "link": "https://zenn.dev/calloc134/books/sikkari-oauth-oidc",
+    "pubDate": "Mon, 01 Dec 2025 14:45:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "OAuthとOIDCの基礎から実践までを丁寧に解説。セキュリティの基本概念、認可フロー、トークンの仕組み、実装例など。Kawaiiイラスト満載で楽しく学びましょう！現在OAuthまで執筆。"
   },
   {
     "title": "AWSがGoogle Cloudとの高速接続を発表、来年にはAzureとも接続。「AWS Interconnect」プレビュー開始",
@@ -68,13 +96,6 @@
     "pubDate": "2025-12-01T12:21:45.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと高速なプライベート接続を実現する新サービス「AWS Interconnect - multicloud」のプレビュー開始を発表しました。 AWSサービスにより外部クラウドと高速接続 クラウドの普及によって、AWS、Microsoft Azure、Google Cloudなどの"
-  },
-  {
-    "title": "Smart_Store: Triple-Lock Validation for Secure Data Imports",
-    "link": "https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-triple-lock-validation-for-secure-data-imports-3761",
-    "pubDate": "Mon, 01 Dec 2025 12:21:41 +0000",
-    "source": "DEV.to",
-    "contentSnippet": "Previously, I talked about schema guides and versioning in Smart_Store; today, I will discuss schema validation during file import.\nData is the lifeblood of modern applications. But here’s the truth: "
   },
   {
     "title": "思考を減らしコードに集中するための tmux, Neovim 設定",
@@ -210,13 +231,6 @@
     "contentSnippet": "はじめに\nこれから話すのは地雷の話で、踏むまではそれを知らない人もいるが一発の被弾が致命傷になる話だ。\n誰も話してくれないが、静かに起こっているアウトプットへの変化、そのムードについて書く。\nムードなので定量的な話ではないが、その辺は差し引いて意見の一つとして読んで欲しい。\n\n 「アウトプット最高！」の時代\nQiita、はてブ、Zennなどに書くのが当たり前の時代。書けば書くほど褒められる、という"
   },
   {
-    "title": "Polars R パッケージを書き直しました",
-    "link": "https://zenn.dev/eitsupi/articles/r-polars-2025",
-    "pubDate": "Sun, 30 Nov 2025 15:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "r-polars・おぼえていますか\n以前、Polars Rパッケージを紹介しました。\nhttps://zenn.dev/eitsupi/articles/r-polars-2023\n改めて説明すると、Pythonにデータフレームを持ち込んだpandasよりも高速であると評判のPolarsというRust製のクエリエンジンをバックエンドに持つPythonパッケージがあり、それのR版です。\nデータフレー"
-  },
-  {
     "title": "CISSPに合格しました",
     "link": "https://qiita.com/kowaretyatta/items/a8b17843e91829cb8034?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-30T11:41:44.000Z",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-24T15:56:49.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、サーバレス基盤となるAWS LambdaによるRust言語の正式サポートを発表しました。 AWS Lambdaで利用可能なプログラミング言語のランタイムはこれまでNode.js/JavaScript、Python、Java、.NET、Rubyなどが用意されていました。これに新たにRust言語が加わることになります。 小さくて非常に高速な実行が可能"
-  },
-  {
-    "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",
-    "link": "https://www.publickey1.jp/blog/25/aigoogle_antigravitygoogle3600windsurf.html",
-    "pubDate": "2025-11-19T15:44:36.000Z",
-    "source": "Publickey",
-    "contentSnippet": "GoogleはAIエージェントファーストな統合開発環境（IDE）として「Google Antigravity」（以下、Antigravity）をパブリックプレビューとして公開しました。 Meet Google Antigravity, your new agentic development platform.An evolution of the IDE, it's built to help "
-  },
-  {
-    "title": "マイクロソフト、独自Armプロセッサの第二世代「Azure Cobalt 200」発表。デジタルツインによる徹底したシミュレーションで設計し、50％の性能向上",
-    "link": "https://www.publickey1.jp/blog/25/armazure_cobalt_20050.html",
-    "pubDate": "2025-11-19T15:42:52.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
   }
 ]

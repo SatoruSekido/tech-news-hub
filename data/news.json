@@ -1,73 +1,143 @@
 [
   {
-    "title": "How to Evaluate Smart Device + Token Projects: A Checklist for Crypto Investors & Builders",
-    "link": "https://dev.to/asher_66640eb206c4123b2f5/how-to-evaluate-smart-device-token-projects-a-checklist-for-crypto-investors-builders-15dd",
-    "pubDate": "Mon, 01 Dec 2025 06:36:22 +0000",
+    "title": "Multimodal Agents and Their Applications",
+    "link": "https://dev.to/pranav_s_5b1ec7cc447dcdcc/multimodal-agents-and-their-applications-33ie",
+    "pubDate": "Mon, 01 Dec 2025 12:51:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🔹 Why a Checklist Matters\nThe crypto space is flooded with flashy project whitepapers and grand promises. When hardware + tokens + user behavior come together, complexity increases. For investors, bu"
+    "contentSnippet": "Multimodal Agents and Their Applications\n\n\nAuthor: Pranav S - 2025-12-01\nMultimodal agents are AI systems that perceive, reason, and act using multiple input and output modalities (e.g., text, images,"
   },
   {
-    "title": "Why Everyday Smart Devices (Yes — Even a Toothbrush) Matter in Web3 & DePIN",
-    "link": "https://dev.to/asher_66640eb206c4123b2f5/why-everyday-smart-devices-yes-even-a-toothbrush-matter-in-web3-depin-4mg4",
-    "pubDate": "Mon, 01 Dec 2025 06:35:04 +0000",
+    "title": "Web3 iGaming, The Glass Box Economy",
+    "link": "https://dev.to/asroy/web3-igaming-the-glass-box-economy-db3",
+    "pubDate": "Mon, 01 Dec 2025 12:49:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In 2025, Web3 isn’t just about tokens and wallets anymore — it’s about data, everyday devices, and how “real-world IoT + blockchain” can reshape habits. Most people think crypto = charts, trades, or b"
+    "contentSnippet": "Key Takeaways:\n1. Core Concept: Web3 iGaming is the \"Glass Box\" economy, replacing traditional \"Black Box\" trust with outcomes verifiable through immutable code and cryptographic proof.\n2. Verificatio"
   },
   {
-    "title": "Infrastructure as a Service: The Backbone of Modern Cloud Computing",
-    "link": "https://dev.to/khushi_jitani_ca127abdedd/infrastructure-as-a-service-the-backbone-of-modern-cloud-computing-3ig2",
-    "pubDate": "Mon, 01 Dec 2025 06:31:29 +0000",
+    "title": "Refactoring the Analytics Core in DocBeacon: The Hidden Cost of Aggregation",
+    "link": "https://dev.to/howard_shaw_3c36a3a6cb900/refactoring-the-analytics-core-in-docbeacon-the-hidden-cost-of-aggregation-46cf",
+    "pubDate": "Mon, 01 Dec 2025 12:48:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In an era where businesses are scaling faster than ever, Infrastructure as a Service (IaaS) has emerged as one of the most searched and adopted cloud models in the world. Organizations are shifting aw"
+    "contentSnippet": "I’ve been deep inside one of the most complex parts of DocBeacon, the tracking and analytics engine.\nWe aggregate user behavior data on three levels:\nShare-level (each document share link)\nDocument-le"
   },
   {
-    "title": "The Rise of Predictive UX: How Data Forecasts User Behavior Before It Happens",
-    "link": "https://dev.to/millipixels1/the-rise-of-predictive-ux-how-data-forecasts-user-behavior-before-it-happens-2fg5",
-    "pubDate": "Mon, 01 Dec 2025 06:31:05 +0000",
+    "title": "Migrating Azure Table Storage Across Organizations: A Practical Guide",
+    "link": "https://dev.to/techwithhari/migrating-azure-table-storage-across-organizations-a-practical-guide-5gph",
+    "pubDate": "Mon, 01 Dec 2025 12:43:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This shift is called Predictive UX, and it’s evolving fast. Powered by AI, machine learning, and behavioral analytics, Predictive UX gives companies the ability to understand what users will likely do"
+    "contentSnippet": "Introduction\n\n\nCloud migrations are a common challenge in modern DevOps workflows, especially when dealing with organizational changes like mergers, acquisitions, or restructuring. Recently, I had to "
   },
   {
-    "title": "Why Digital Health Summits Are Becoming the New Engine for Policy Change",
-    "link": "https://dev.to/sana_shaikh_/why-digital-health-summits-are-becoming-the-new-engine-for-policy-change-4f57",
-    "pubDate": "Mon, 01 Dec 2025 06:31:01 +0000",
+    "title": "Immersive Web: A Blend of Logic, Motion, and Emotion",
+    "link": "https://dev.to/worapon_jintajirakul/immersive-web-a-blend-of-logic-motion-and-emotion-2j4k",
+    "pubDate": "Mon, 01 Dec 2025 12:39:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Digital health has moved far beyond apps, wearables, and teleconsultations. Today, it influences how governments plan healthcare systems, how regulators frame compliance, and how industries think abou"
+    "contentSnippet": "Building Web That Feels — Not Just Functions\n🔗🔗 https://tech-futuristic-landing.vercel.app/"
   },
   {
-    "title": "Building Real-Time Voice Learning with VAPI: WebRTC + AI Tutors",
-    "link": "https://dev.to/chayan-1906/building-real-time-voice-learning-with-vapi-webrtc-ai-tutors-1l9o",
-    "pubDate": "Mon, 01 Dec 2025 06:30:37 +0000",
+    "title": "Terraform File Structure",
+    "link": "https://dev.to/nandan_007/terraform-file-structure-4mag",
+    "pubDate": "Mon, 01 Dec 2025 12:37:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Text-based learning apps are passive. I wanted students to have real conversations with AI tutors—natural voice interactions where they could ask questions, get explanations, and learn through dialogu"
+    "contentSnippet": "Day 6 of #30daysofawsterraform challenge\nToday I come across file structure in Terraform. \nWhy file structure is important in Terraform?\n\n\nBasic form of file structure:\nterraform-project/\nIn the enter"
   },
   {
-    "title": "Meet MaterialM Open Source Django Admin Template That Will Transform Your Dashboards",
-    "link": "https://dev.to/wrap-pixel/meet-materialm-open-source-django-admin-template-that-will-transform-your-dashboards-1ljg",
-    "pubDate": "Mon, 01 Dec 2025 06:27:18 +0000",
+    "title": "The Business Value of .NET Training for Modern Engineering Teams",
+    "link": "https://dev.to/iteyonikservices/the-business-value-of-net-training-for-modern-engineering-teams-2ijd",
+    "pubDate": "Mon, 01 Dec 2025 12:34:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Battling outdated admin design or coding simple dashboards. Introducing MaterialM Django Admin Template is your shortcut to launching professional web applications, giving you a beautiful, modern inte"
+    "contentSnippet": "Enterprise applications power everything—customer data, transactions, workflows. When they fail or slow down, the business feels it instantly. Yet many organizations upgrade their tech stacks without "
   },
   {
-    "title": "Enhancing Markdown Image Handling in Astro",
-    "link": "https://dev.to/logarithmicspirals/enhancing-markdown-image-handling-in-astro-35pg",
-    "pubDate": "Mon, 01 Dec 2025 06:23:09 +0000",
+    "title": "Why Companies Hire React Native Developers for Rapid Cross-Platform Delivery",
+    "link": "https://dev.to/lucy1/why-companies-hire-react-native-developers-for-rapid-cross-platform-delivery-7ac",
+    "pubDate": "Mon, 01 Dec 2025 12:34:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nAfter writing new content, committing the markdown, and pushing to GitHub, my Astro build pipeline runs.\nSince my site is built with Astro, I have a custom integration I've written whic"
+    "contentSnippet": "Speed is the new currency of digital commerce. Whether one is a business growing mobile capabilities or a startup proving an MVP, there has never been more pressure to get to market fast and iterate q"
   },
   {
-    "title": "Handling Lingering Conversations Gracefully in Microsoft Copilot Studio",
-    "link": "https://dev.to/balagmadhu/handling-lingering-conversations-gracefully-in-microsoft-copilot-studio-3m",
-    "pubDate": "Mon, 01 Dec 2025 06:21:26 +0000",
+    "title": "AWS Terraform Meta Arguments | Count, depends_on, for_each",
+    "link": "https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-meta-arguments-count-dependson-foreach-19nh",
+    "pubDate": "Mon, 01 Dec 2025 12:32:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Intro:\nSessions lingering indefinitely after the final message.\nThese issues weren’t just technical annoyances — they impacted user experience, compliance, and bot reliability, especially in regulated"
+    "contentSnippet": "Terraform becomes truly powerful when you start using meta-arguments — special parameters that change how resources are created, managed, and related to each other. While Terraform syntax is easy to l"
   },
   {
-    "title": "Effortless SafeLine Updates: One Script to Rule Them All",
-    "link": "https://dev.to/arina_cholee/effortless-safeline-updates-one-script-to-rule-them-all-3cop",
-    "pubDate": "Mon, 01 Dec 2025 06:21:16 +0000",
+    "title": "AWSがGoogle Cloudとの高速接続を発表、来年にはAzureとも接続。「AWS Interconnect」プレビュー開始",
+    "link": "https://www.publickey1.jp/blog/25/awsgoogle_cloudazureaws_interconnect.html",
+    "pubDate": "2025-12-01T12:21:45.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと高速なプライベート接続を実現する新サービス「AWS Interconnect - multicloud」のプレビュー開始を発表しました。 AWSサービスにより外部クラウドと高速接続 クラウドの普及によって、AWS、Microsoft Azure、Google Cloudなどの"
+  },
+  {
+    "title": "Smart_Store: Triple-Lock Validation for Secure Data Imports",
+    "link": "https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-triple-lock-validation-for-secure-data-imports-3761",
+    "pubDate": "Mon, 01 Dec 2025 12:21:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Keeping your SafeLine WAF installation up to date is critical for security, performance, and access to new features.  \nBut manual updates can be tedious. Luckily, this all-in-one Bash script automates"
+    "contentSnippet": "Previously, I talked about schema guides and versioning in Smart_Store; today, I will discuss schema validation during file import.\nData is the lifeblood of modern applications. But here’s the truth: "
+  },
+  {
+    "title": "思考を減らしコードに集中するための tmux, Neovim 設定",
+    "link": "https://zenn.dev/layerx/articles/8c29b0367238b8",
+    "pubDate": "Mon, 01 Dec 2025 04:58:55 GMT",
+    "source": "Zenn",
+    "contentSnippet": "LayerX Tech Advent Calendar 2025 記念すべき1日目の記事です。めでたいですね。初日は @frkake さんの「OCR技術の変遷と日本語対応モデルの性能検証」との二本立てです。\nバクラク事業部 スタッフエンジニアの @izumin5210 です。\nPlatform Engineering 部 Enabling チームでいろいろなことをしています。\n最近は AI Age"
+  },
+  {
+    "title": "Windows 95から30年。PCと私たちの生活はどう変わったのか？",
+    "link": "https://qiita.com/sapi_kawahara/items/92e16d42131c94c54cbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T04:43:29.000Z",
+    "source": "Qiita",
+    "contentSnippet": "Windows 95から30年。PCと私たちの生活はどう変わったのか？\nWindows 95が1995年11月23日に発売され、日本中で「インターネット・ブーム」が巻き起こってから30年が経ちました。当時と現在（2025年）のスペック、そして私たちのライフスタイルがどのよ..."
+  },
+  {
+    "title": "TanStack Startを試してみたけど、もうNext.jsには戻れない",
+    "link": "https://zenn.dev/yt4/articles/tanstack-start-next-js",
+    "pubDate": "Mon, 01 Dec 2025 02:23:18 GMT",
+    "source": "Zenn",
+    "contentSnippet": "英語圏の X で Next.js と TanStack Start を比較する投稿が話題になっていました。\n投稿の冒頭には「TanStack Start を試してみたけど、もう Next.js には戻れない」とあり、投稿主は TanStack Start を強く推奨しているように見えます。\nこの投稿に対し、多くのコメントが寄せられていました。\n興味深い議論だと感じたので、この記事では元の投稿と寄せ"
+  },
+  {
+    "title": "文系未経験がLinuCレベル1を3か月で取得した話",
+    "link": "https://qiita.com/Yoshiiany/items/878b36fff86ec884de4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:07:48.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこの記事では文系未経験でLinuC レベル1合格に至った学習方法などを紹介していきたいと思います。\nこれからLinuCレベル1に挑戦しようと考えている初学者の方の参考になればと思います。\n\nLinuCとは\nLinuCは、一般社団法人LPI-Japanが運営する、..."
+  },
+  {
+    "title": "kubernetes Deep Dive (etcd + Raft)",
+    "link": "https://qiita.com/Plath/items/6a07fbbda5b443b4079a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:07:21.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025の1日目の記事になります。\n本日のテーマは\"kubernetes Deep Dive (etcd + Raft)\"です。私はいつも開発でkubernetes（k8s）を使っています。より深くk..."
+  },
+  {
+    "title": "ユーザ追加からパスワードポリシー設定までの実施作業",
+    "link": "https://qiita.com/alexanoD/items/193fcbab50c341fad129?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:05:46.000Z",
+    "source": "Qiita",
+    "contentSnippet": "何故この記事を書こうと思ったか\n文系卒未経験エンジニアである自分がいつかの作業で割と主動で検証から手順書作成、リリースまで持っていいったものの一つで今後の必ず使う機会があるだろうなと思ったのでどんな作業をしたのか流れをこの記事を通してアウトプットとして残します。\n流れとし..."
+  },
+  {
+    "title": "オラ、ラマにコードレビューしてもらうわ",
+    "link": "https://qiita.com/ussy_k/items/0f48fb0fb6cbe0aedb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:05:01.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n昨年のアドベントカレンダーでは、技術というよりもマネジメント系の記事を投稿したので、今年は技術を書いていきます。\nAIに関しては、全然勉強不足ですが、温かく見てもらえるとありがたいです....\n【昨年の記事】\nリーダー1年目の懺悔\nありがたいことに、沢山の方々に..."
+  },
+  {
+    "title": "客先のDBを間違えて削除した話",
+    "link": "https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:04:59.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事は「 本番環境などでやらかしちゃった人 Advent Calendar 2025」の1日目です。\n\nはじめに\n「慣れてきた頃が一番危ない」\nあれ、ほんとです。\n当時の私は作業にも環境にも慣れてきて、油断が出始めていました。\n「いつもの作業だし、サクッと終わらせよう」..."
+  },
+  {
+    "title": "エンジニアの雑談力って大事",
+    "link": "https://qiita.com/sato_626/items/b07819166ee4a82155a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:04:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "目的\n最近リモートワークが主体になりつつある事でなかなか話をする機会が少なくなっています。仕事をする中で普段話さない人に質問したり話しかけるのって結構ハードル高い人って結構いると思います。なので今回はそのハードルを少しでも下れるような自分なりの雑談力について共有して聞きた..."
   },
   {
     "title": "【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！",
@@ -75,6 +145,13 @@
     "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、t-chenです。\n[1]\n突然ですが、オンラインで誰でも利用できるNode.js環境を準備しました。vmモジュールを利用してサンドボックス化したので、安全なはずです。普段遣いしていていろいろな情報が詰まったPCでサーバーを動かしていますが、大丈夫でしょう。\n...\n[2]\nうわ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ハッキングされた〜〜〜〜〜〜〜〜〜〜〜\n\n VMモジュールとは？\n外部から"
+  },
+  {
+    "title": "突如削除されるLINEメッセージ💬にエンジニアリングで対抗してみた",
+    "link": "https://qiita.com/musutafakemaru/items/f5b326db7da0af609542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T21:55:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. 設計\n環境：Android(私のスマホがAndroidのため)\n開発環境：Android Studio(Kotlin)\n上述の通り、LINEから通知が来たらログを保管します。\n保管先として「LINE通知ログを保管するDB」をローカルに用意し、1レコードに「送信者」「..."
   },
   {
     "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
@@ -88,7 +165,7 @@
     "link": "https://zenn.dev/microsoft/articles/azurebackbone",
     "pubDate": "Sun, 30 Nov 2025 18:43:47 GMT",
     "source": "Zenn",
-    "contentSnippet": "こちらは Microsoft Azure Tech Advent Calendar 2025 1日目 の記事です。\n\n はじめに\nAzure を支えるネットワークインフラ について、公式ドキュメント等にある情報をまとめつつ、図解しながら、その構造や通信の経路などを掘り下げてみます。特に バックボーン あたりをフォーカスして記載しています。また本記事とあわせ、実際にバックボーン経由の通信がインターネ"
+    "contentSnippet": "こちらは Microsoft Azure Tech Advent Calendar 2025 1日目 の記事です。\n\n はじめに\nAzure を支えるネットワークインフラ について、公式ドキュメント等にある情報をまとめつつ、図解しながら、その構造や通信の経路などを掘り下げてみます。特に バックボーン あたりをフォーカスして記載しています。また本記事とあわせ、本当に通信がインターネットに出てないか検"
   },
   {
     "title": "SwiftコードをAndroidネイティブにコンパイルできる「Skip Fuse」が個人開発者などに無料提供へ",
@@ -147,81 +224,11 @@
     "contentSnippet": "はじめに\n2025年11月11日CISSPに合格したので、どんな勉強したのかとかをまとめておきます\n\nモチベーション\n今年の４月に応用情報技術者試験を受け、なんとか合格\n次のステップの、情報処理安全確保支援士に向けてセキュリティ周りの勉強をしていたら\nなんかめっちゃ面白い..."
   },
   {
-    "title": "生成AI着せ替え体験 2025北陸編の振り返り＠JAWS FESTA 2025 in 金沢",
-    "link": "https://qiita.com/riz3f7/items/265bed100455e4abac61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T10:04:55.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n2025年10月11日に金沢で開催されたJAWS FESTA 2025 北陸のお祭りトラックにて、Amazon Nova CanvasのVirtual Try-on機能を使ったバーチャル試着コンテンツ「生成AI着せ替え体験 2025北陸編」を公開しました。\nJ..."
-  },
-  {
-    "title": "esa記事を自動要約するSlack Botの実装詳細【Gemini + Cloud Run】",
-    "link": "https://zenn.dev/transmedia_blog/articles/ad324e179b8a68",
-    "pubDate": "Sun, 30 Nov 2025 09:04:52 GMT",
-    "source": "Zenn",
-    "contentSnippet": "1. はじめに\nこんにちは！\nTransMedia Tech Lab に所属している B1 の木村 翔竜です。\n前回の記事では、私の先輩が「毎日更新される膨大な情報を効率良くインプットするには」というのを書きました。こちらでは、esaへの投稿を自動で要約してSlackに通知するbotの概要と運用結果をご紹介しました。\n本記事では、その実装の詳細について解説していきます！具体的には以下の内容をカバー"
-  },
-  {
-    "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
-    "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T06:56:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "AIがあるから資格勉強する気が出ない\n前に同僚がこんな話をしてくれました。\n「資格を取らなくてもAIと対話しながら仕様やサービスの選定ができれば良くない？」\n「資格取れても社内評価が上がるくらいだから」\nまあわかる。わかるけど、、\nこの「わかるけど、、」と思ったことが自分..."
-  },
-  {
-    "title": "超高速SQL単体テスト rawsql-ts/pg-testkit",
-    "link": "https://zenn.dev/mkmonaka/articles/c2413d99ae67bb",
-    "pubDate": "Sun, 30 Nov 2025 06:45:17 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Node.jsでSQLを高速に単体テストするライブラリ @rawsql-ts/pg-testkit を紹介します。\n生SQLは当然として、PrismaやDrizzleなど既存ORMとも併用可能で、既存アーキテクチャを壊さず導入できます。\n\n 従来の問題点\nSQLの単体テストを行う場合、一般的には以下の手順で行います。\n\nマイグレーション（テーブル環境構築）\nシーディング（テストデータ投入）\nテスト"
-  },
-  {
-    "title": "【個人開発】ChatGPTの履歴JSONを「完全ローカル」で解析する爆速ビューアを作った話",
-    "link": "https://qiita.com/takumi_ilove-ai/items/39a16ec6a5ca99cffdfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T15:50:48.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nはじめまして、takumi です。 趣味で個人開発も行っています。\n今回は、個人開発で ChatGPT の履歴ビューワー兼コンバーター「iLoveAI」を開発したので、その技術的な裏側や開発の過程で得られた知見を共有したいと思います。\niLoveAI: http..."
-  },
-  {
-    "title": "API Gatewayのストリーミング機能を試してみました",
-    "link": "https://qiita.com/yakumo_09/items/db2d2df88863136483e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T05:05:12.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nAmazon API Gatewayがストリーム応答をサポートするアップデートがありました。\n\nいきなりですが、下はストリーミングと非ストリーミングの比較です。\nめっちゃ見やすくなってますよね。\n\n  \n  \n\n今回は動作検証をしながら、どのようなアップデー..."
-  },
-  {
-    "title": "SharePoint ナレッジエージェントを有効化するためにSharePoint Online管理シェルを使ってみた",
-    "link": "https://qiita.com/ponponmikankan/items/b857d73df7841ab93e3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T04:20:57.000Z",
-    "source": "Qiita",
-    "contentSnippet": "話題のSharePointナレッジエージェントは管理センターのGUIで設定ができないので、今回PowerShellで設定してみました！\n\n1. SharePoint Online 管理シェルをインストールする\nこちらから管理シェルをインストールします。秒で設定が終わり..."
-  },
-  {
-    "title": "「S3はオブジェクトストレージ」の意味、本当に理解できてますか？~見事にハマった俺の屍を超えて行け~",
-    "link": "https://qiita.com/Rabbit_booK/items/aa6ea14f7ed2106f3655?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T10:22:04.000Z",
-    "source": "Qiita",
-    "contentSnippet": "AWSの資格勉強（SAAなど）をしていると、必ず出てくる定番の知識があります。\n「S3はオブジェクトストレージであり、EFSのようなファイルストレージとは異なり、ディレクトリ階層構造を持たない」\n私も丸暗記して、「またこれかー、サービス問題やわ」とドヤ顔していました。\nしか..."
-  },
-  {
     "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
     "link": "https://qiita.com/quniquni/items/1e6bafbc6bfce74afe5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-28T08:49:28.000Z",
     "source": "Qiita",
     "contentSnippet": "React / Next.js に慣れてくると、次に悩むのはだいたい「設計レイヤー」まわりですよね。\n\nコンポーネントが太りやすい\n\nuseEffect が増えてロジックが迷子になる\n状態をどこに置くか毎回迷う\nHooks をどこまで分割すべきか分からない\n\nこのあたりのモ..."
-  },
-  {
-    "title": "【エディタ】VS codeからAntigravityに移行しました",
-    "link": "https://qiita.com/hayuse/items/28d8716a8b5fd6ac91fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T06:18:08.000Z",
-    "source": "Qiita",
-    "contentSnippet": "なぜ移行したのか\n今話題になってるGoogleのIDEであるAntigravityですが、移行した理由はただ一つ。\nGeminiを使っているから\nVscodeの拡張機能と互換があるので個人的には、標準でgeminiがあるかCopilotがあるかの違いかなと感じてます。\n特..."
-  },
-  {
-    "title": "家に来た人に毎回Wi-Fiパスワード聞かれるのが面倒なので、QR化したら謎の歓迎ページが爆誕した",
-    "link": "https://qiita.com/mamoru-ngy/items/baa445f308238c10df3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T23:50:11.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. 毎回Wi-Fiパスワードを共有するの、面倒じゃないですか？\n家に友人が来たとき、ほぼ毎回こうなります。\n\n「WiFiパスワード教えて〜」\n「いいよ〜！これパスワード！」\n「ありがとう！（入力…）あれ、つながらない、、、」\n「えっ、ここ一文字間違えてるかも」\n\nいつも..."
   },
   {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",
@@ -271,12 +278,5 @@
     "pubDate": "2025-11-19T15:42:52.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトは、同社が独自開発している独自Armプロセッサの第二世代となる「Azure Cobalt 200」を発表しました。 Cobalt 200はArmのクラウドCPUおよびAIアクセラレータ向けのシリコンデザインであるArm Neoverse Compute Subsystem V3(CSS V3)をベースに、マイクロソフトが開発したプロセッサです。 Cobalt 200のSoCには132"
-  },
-  {
-    "title": "［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025",
-    "link": "https://www.publickey1.jp/blog/25/mcp_on_windowsaiwindowsignite_2025.html",
-    "pubDate": "2025-11-18T17:01:50.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、WindowsによるネイティブなMCP（Model Context Protocol）機能となる「MCP on Windows」のパブリックプレビュー公開を発表しました。 AIエージェントがWindowsを操作可能に MCPとは一般に、生成AIが外部のツールを呼び出して情報を取得したり"
   }
 ]

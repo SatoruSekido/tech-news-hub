@@ -1,73 +1,94 @@
 [
   {
-    "title": "Reusable ViewModel Architecture for SwiftUI",
-    "link": "https://dev.to/sebastienlato/reusable-viewmodel-architecture-for-swiftui-2bg2",
-    "pubDate": "Mon, 01 Dec 2025 02:20:48 +0000",
+    "title": "How to Evaluate Smart Device + Token Projects: A Checklist for Crypto Investors & Builders",
+    "link": "https://dev.to/asher_66640eb206c4123b2f5/how-to-evaluate-smart-device-token-projects-a-checklist-for-crypto-investors-builders-15dd",
+    "pubDate": "Mon, 01 Dec 2025 06:36:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SwiftUI has evolved fast — especially with the new @observable macro, improved data flow, and better navigation tools.\n\nBut one thing still confuses many developers:\nHow do you structure ViewModels in"
+    "contentSnippet": "🔹 Why a Checklist Matters\nThe crypto space is flooded with flashy project whitepapers and grand promises. When hardware + tokens + user behavior come together, complexity increases. For investors, bu"
   },
   {
-    "title": "Reusable ViewModel Architecture for SwiftUI",
-    "link": "https://dev.to/sebastienlato/reusable-viewmodel-architecture-for-swiftui-52bg",
-    "pubDate": "Mon, 01 Dec 2025 02:20:47 +0000",
+    "title": "Why Everyday Smart Devices (Yes — Even a Toothbrush) Matter in Web3 & DePIN",
+    "link": "https://dev.to/asher_66640eb206c4123b2f5/why-everyday-smart-devices-yes-even-a-toothbrush-matter-in-web3-depin-4mg4",
+    "pubDate": "Mon, 01 Dec 2025 06:35:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SwiftUI has evolved fast — especially with the new @observable macro, improved data flow, and better navigation tools.\n\nBut one thing still confuses many developers:\nHow do you structure ViewModels in"
+    "contentSnippet": "In 2025, Web3 isn’t just about tokens and wallets anymore — it’s about data, everyday devices, and how “real-world IoT + blockchain” can reshape habits. Most people think crypto = charts, trades, or b"
   },
   {
-    "title": "Showing Nearby Places & Routes in React Native Maps",
-    "link": "https://dev.to/dainyjose/showing-nearby-places-routes-in-react-native-maps-34b7",
-    "pubDate": "Mon, 01 Dec 2025 02:18:54 +0000",
+    "title": "Infrastructure as a Service: The Backbone of Modern Cloud Computing",
+    "link": "https://dev.to/khushi_jitani_ca127abdedd/infrastructure-as-a-service-the-backbone-of-modern-cloud-computing-3ig2",
+    "pubDate": "Mon, 01 Dec 2025 06:31:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn Part 1 we integrated maps into React Native, and in Part 2 we built a location picker.\nNow, let’s make it smarter — by showing nearby places (like restaurants or stores) and drawing "
+    "contentSnippet": "In an era where businesses are scaling faster than ever, Infrastructure as a Service (IaaS) has emerged as one of the most searched and adopted cloud models in the world. Organizations are shifting aw"
   },
   {
-    "title": "Priority Inversion and the NASA Mars Pathfinder Bug",
-    "link": "https://dev.to/shivam_rai_b1e30ae7bae001/priority-inversion-and-the-nasa-mars-pathfinder-bug-3gch",
-    "pubDate": "Mon, 01 Dec 2025 02:10:15 +0000",
+    "title": "The Rise of Predictive UX: How Data Forecasts User Behavior Before It Happens",
+    "link": "https://dev.to/millipixels1/the-rise-of-predictive-ux-how-data-forecasts-user-behavior-before-it-happens-2fg5",
+    "pubDate": "Mon, 01 Dec 2025 06:31:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Priority inversion happens when a high-priority task is forced to wait because a low-priority task is holding a resource it needs. The problem becomes worse when a medium-priority task keeps running a"
+    "contentSnippet": "This shift is called Predictive UX, and it’s evolving fast. Powered by AI, machine learning, and behavioral analytics, Predictive UX gives companies the ability to understand what users will likely do"
   },
   {
-    "title": "Building a Small Kali Linux “Health Checker” in Nim (KaliSentry)",
-    "link": "https://dev.to/0x57origin/building-a-small-kali-linux-health-checker-in-nim-kalisentry-53ni",
-    "pubDate": "Mon, 01 Dec 2025 02:08:07 +0000",
+    "title": "Why Digital Health Summits Are Becoming the New Engine for Policy Change",
+    "link": "https://dev.to/sana_shaikh_/why-digital-health-summits-are-becoming-the-new-engine-for-policy-change-4f57",
+    "pubDate": "Mon, 01 Dec 2025 06:31:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "So I’ve been doing my masters in cyber security and I wanted a small side project that wasn’t too crazy but still kinda useful. I’ve been messing with Nim lately and decided to try building a simple K"
+    "contentSnippet": "Digital health has moved far beyond apps, wearables, and teleconsultations. Today, it influences how governments plan healthcare systems, how regulators frame compliance, and how industries think abou"
   },
   {
-    "title": "Manage revisions in Azure Container Apps",
-    "link": "https://dev.to/lotanna_obianefo/manage-revisions-in-azure-container-apps-5938",
-    "pubDate": "Mon, 01 Dec 2025 02:04:26 +0000",
+    "title": "Building Real-Time Voice Learning with VAPI: WebRTC + AI Tutors",
+    "link": "https://dev.to/chayan-1906/building-real-time-voice-learning-with-vapi-webrtc-ai-tutors-1l9o",
+    "pubDate": "Mon, 01 Dec 2025 06:30:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Azure Container Apps includes a built-in revision management system that allows you to track, control, and roll back application updates with ease. Each time you deploy new code or update configuratio"
+    "contentSnippet": "Text-based learning apps are passive. I wanted students to have real conversations with AI tutors—natural voice interactions where they could ask questions, get explanations, and learn through dialogu"
   },
   {
-    "title": "Every startup claims they’re AI-enabled. Every tool claims intelligence. Every founder claims differentiation.\r\n\r\nBut here’s the truth:\r\n\r\nMost founders have no idea what “AI-enabled” actually means.",
-    "link": "https://dev.to/jaideepparashar/every-startup-claims-theyre-ai-enabled-every-tool-claims-intelligence-every-founder-claims-39ie",
-    "pubDate": "Mon, 01 Dec 2025 02:02:08 +0000",
+    "title": "Meet MaterialM Open Source Django Admin Template That Will Transform Your Dashboards",
+    "link": "https://dev.to/wrap-pixel/meet-materialm-open-source-django-admin-template-that-will-transform-your-dashboards-1ljg",
+    "pubDate": "Mon, 01 Dec 2025 06:27:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why Most Founders Misunderstand What “AI-Enabled” Means\nJaideep Parashar ・ Dec 1\n#ai\n        #webdev\n        #beginners\n        #devops"
+    "contentSnippet": "Battling outdated admin design or coding simple dashboards. Introducing MaterialM Django Admin Template is your shortcut to launching professional web applications, giving you a beautiful, modern inte"
   },
   {
-    "title": "How to Track Amazon Competitors: A Practical Guide to Winning With Store Monitoring",
-    "link": "https://dev.to/loopsthings/how-to-track-amazon-competitors-a-practical-guide-to-winning-with-store-monitoring-32bf",
-    "pubDate": "Mon, 01 Dec 2025 02:01:20 +0000",
+    "title": "Enhancing Markdown Image Handling in Astro",
+    "link": "https://dev.to/logarithmicspirals/enhancing-markdown-image-handling-in-astro-35pg",
+    "pubDate": "Mon, 01 Dec 2025 06:23:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In Amazon’s cutthroat marketplace, data isn’t just power—it’s the difference between outselling rivals and getting left in the dust. Manual checks won’t cut it anymore. This guide breaks down how to b"
+    "contentSnippet": "Introduction\n\n\nAfter writing new content, committing the markdown, and pushing to GitHub, my Astro build pipeline runs.\nSince my site is built with Astro, I have a custom integration I've written whic"
   },
   {
-    "title": "CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less",
-    "link": "https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1nal",
-    "pubDate": "Mon, 01 Dec 2025 02:00:40 +0000",
+    "title": "Handling Lingering Conversations Gracefully in Microsoft Copilot Studio",
+    "link": "https://dev.to/balagmadhu/handling-lingering-conversations-gracefully-in-microsoft-copilot-studio-3m",
+    "pubDate": "Mon, 01 Dec 2025 06:21:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less\n\n\nCinemaSins dives into the wild world of KPop Demon Hunters, pointing out every hilarious misstep and cheeky slip in just 16 minutes (or"
+    "contentSnippet": "Intro:\nSessions lingering indefinitely after the final message.\nThese issues weren’t just technical annoyances — they impacted user experience, compliance, and bot reliability, especially in regulated"
   },
   {
-    "title": "Why Most Founders Misunderstand What “AI-Enabled” Means",
-    "link": "https://dev.to/jaideepparashar/why-most-founders-misunderstand-what-ai-enabled-means-24gi",
-    "pubDate": "Mon, 01 Dec 2025 01:59:13 +0000",
+    "title": "Effortless SafeLine Updates: One Script to Rule Them All",
+    "link": "https://dev.to/arina_cholee/effortless-safeline-updates-one-script-to-rule-them-all-3cop",
+    "pubDate": "Mon, 01 Dec 2025 06:21:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "“AI-enabled.”\nIt’s the most overused phrase in pitch decks, product pages, and founder conversations in 2025.\nBut here’s the truth:\nMost founders have no idea what “AI-enabled” actually means.\nBecause"
+    "contentSnippet": "Keeping your SafeLine WAF installation up to date is critical for security, performance, and access to new features.  \nBut manual updates can be tedious. Luckily, this all-in-one Bash script automates"
+  },
+  {
+    "title": "【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！",
+    "link": "https://zenn.dev/tchen/articles/8999302b0953b3",
+    "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、t-chenです。\n[1]\n突然ですが、オンラインで誰でも利用できるNode.js環境を準備しました。vmモジュールを利用してサンドボックス化したので、安全なはずです。普段遣いしていていろいろな情報が詰まったPCでサーバーを動かしていますが、大丈夫でしょう。\n...\n[2]\nうわ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ハッキングされた〜〜〜〜〜〜〜〜〜〜〜\n\n VMモジュールとは？\n外部から"
+  },
+  {
+    "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
+    "link": "https://zenn.dev/acntechjp/articles/411bbb4fe65022",
+    "pubDate": "Sun, 30 Nov 2025 21:24:12 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n今回紹介するのは、Claude Opus 4.5 と M365 Copilot を組み合わせて、自社スタイルのPowerPointを自動生成する方法です。\nhttps://youtu.be/RPaQJwZJpTQ\n\n上記PVはGemini3 Proで製作\n\n\n\n きっかけ：まつにぃさんのNote記事\nこの方法を思いついたきっかけは、まつにぃさんが投稿された以下のNote記事です。\nhtt"
+  },
+  {
+    "title": "Azure の バックボーン や ネットワーク を図解してみる",
+    "link": "https://zenn.dev/microsoft/articles/azurebackbone",
+    "pubDate": "Sun, 30 Nov 2025 18:43:47 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こちらは Microsoft Azure Tech Advent Calendar 2025 1日目 の記事です。\n\n はじめに\nAzure を支えるネットワークインフラ について、公式ドキュメント等にある情報をまとめつつ、図解しながら、その構造や通信の経路などを掘り下げてみます。特に バックボーン あたりをフォーカスして記載しています。また本記事とあわせ、実際にバックボーン経由の通信がインターネ"
   },
   {
     "title": "SwiftコードをAndroidネイティブにコンパイルできる「Skip Fuse」が個人開発者などに無料提供へ",
@@ -84,6 +105,20 @@
     "contentSnippet": "GitHubは、開発ツールとしてAIが導入されていくことで、プログラミング言語やフレームワークの選択にどのような影響を与えるかを考察したブログ記事「TypeScript, Python, and the AI feedback loop changing software development」（TypeScript、Python、そしてAIフィードバックループがソフトウェア開発を変えていく）を"
   },
   {
+    "title": "Swift 6.2からのConcurrency SafeなNotification",
+    "link": "https://zenn.dev/matsuji/articles/fa7fa7517282e3",
+    "pubDate": "Sun, 30 Nov 2025 15:30:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\niOSやmacOSのアプリケーションの開発をする上でNotificationCenterを使うタイミングは時々あります。\nNotificationCenterはグローバルに通知を飛ばすことができ、OSからのイベントやCore Dataの変更を購読したりできます。\nこのNotificationCenterですが、Objective-C時代のAPIを引きずっていて、現在のSwiftに最適化さ"
+  },
+  {
+    "title": "Cortex AISQLで住所の名寄せをやってみた",
+    "link": "https://zenn.dev/dataheroes/articles/71f5c46419c2f4",
+    "pubDate": "Sun, 30 Nov 2025 15:06:56 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本記事は、Snowflake Advent Calendar 2025 の 1 日目です。\n2025年10月1日に開催した第5回Snowflake中部ユーザー会で発表した内容に加筆再構成したものになります。\nですので、基本的に2025年9月末時点の情報に基づきます（一部最新情報反映あり）。AISQLは日々進化してくはずなので、最新情報は公式ドキュメントでご参照ください。\n!\n第5回Snowflak"
+  },
+  {
     "title": "AIコーディング実践環境の構築方法【2025年12月】",
     "link": "https://zenn.dev/mkj/articles/bf59c4c86d98a8",
     "pubDate": "Sun, 30 Nov 2025 15:00:43 GMT",
@@ -96,6 +131,13 @@
     "pubDate": "Sun, 30 Nov 2025 15:00:21 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこれから話すのは地雷の話で、踏むまではそれを知らない人もいるが一発の被弾が致命傷になる話だ。\n誰も話してくれないが、静かに起こっているアウトプットへの変化、そのムードについて書く。\nムードなので定量的な話ではないが、その辺は差し引いて意見の一つとして読んで欲しい。\n\n 「アウトプット最高！」の時代\nQiita、はてブ、Zennなどに書くのが当たり前の時代。書けば書くほど褒められる、という"
+  },
+  {
+    "title": "Polars R パッケージを書き直しました",
+    "link": "https://zenn.dev/eitsupi/articles/r-polars-2025",
+    "pubDate": "Sun, 30 Nov 2025 15:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "r-polars・おぼえていますか\n以前、Polars Rパッケージを紹介しました。\nhttps://zenn.dev/eitsupi/articles/r-polars-2023\n改めて説明すると、Pythonにデータフレームを持ち込んだpandasよりも高速であると評判のPolarsというRust製のクエリエンジンをバックエンドに持つPythonパッケージがあり、それのR版です。\nデータフレー"
   },
   {
     "title": "CISSPに合格しました",
@@ -133,53 +175,11 @@
     "contentSnippet": "Node.jsでSQLを高速に単体テストするライブラリ @rawsql-ts/pg-testkit を紹介します。\n生SQLは当然として、PrismaやDrizzleなど既存ORMとも併用可能で、既存アーキテクチャを壊さず導入できます。\n\n 従来の問題点\nSQLの単体テストを行う場合、一般的には以下の手順で行います。\n\nマイグレーション（テーブル環境構築）\nシーディング（テストデータ投入）\nテスト"
   },
   {
-    "title": "Server-Sent Events（SSE）で実現するクロスデバイスリアルタイム連携 - Redis Pub/Subでマルチサーバー対応",
-    "link": "https://zenn.dev/helloworld/articles/a9d5049e8aaa04",
-    "pubDate": "Sun, 30 Nov 2025 02:11:50 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n「あるデバイスで起きた操作を、別のデバイスにリアルタイムで反映させたい」——そんな要件に出会ったことはありませんか？\n例えば：\n\nスマホアプリで注文 → 店舗側のタブレットに即座に通知\n受付端末で来訪者登録 → 担当者のPCに瞬時に表示\nモバイルから会議室予約 → 会議室前のディスプレイに即座に反映\n\nこのような クロスデバイス連携 の実現には、通常WebSocketが使われますが、実は"
-  },
-  {
-    "title": "SELECT * がデータモデルの保守性を下げる話",
-    "link": "https://zenn.dev/okiyuki/articles/d94b4ceb940160",
-    "pubDate": "Sun, 30 Nov 2025 00:23:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "SQLコーディング規約で SELECT * を使わずにカラム名を明示化する、というポリシーを時々見るのですが、正直なところ自分はこれまで「どっちでもいいかな〜」くらいに思ってました。アドホックな分析なら速いし、dbtで開発していても最下流のデータマートなら「カラムが増えても勝手についてきてくれるし、楽でいいじゃん」くらいに考えていました。\n一方、ディメンショナルモデリングを運用する中で、これを入れ"
-  },
-  {
-    "title": "永続化と切り離した＂純粋＂ドメインモデリング入門 - ステート、イベント、Deciderで始めるイミュータブルモデルの実装",
-    "link": "https://zenn.dev/jtechjapan_pub/articles/fc9878ec69b6a1",
-    "pubDate": "Sat, 29 Nov 2025 20:11:30 GMT",
-    "source": "Zenn",
-    "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\n先週開催されたアーキテクチャカンファレンスで登壇し、「Always Valid Domain Model」について話しました。これは、ドメインモデルが常に整合性のある状態を保つことを保証する設計アプローチです。\nhttps://speakerdeck.com/tomohisa/regret-free-architecture-w"
-  },
-  {
     "title": "【個人開発】ChatGPTの履歴JSONを「完全ローカル」で解析する爆速ビューアを作った話",
     "link": "https://qiita.com/takumi_ilove-ai/items/39a16ec6a5ca99cffdfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-29T15:50:48.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nはじめまして、takumi です。 趣味で個人開発も行っています。\n今回は、個人開発で ChatGPT の履歴ビューワー兼コンバーター「iLoveAI」を開発したので、その技術的な裏側や開発の過程で得られた知見を共有したいと思います。\niLoveAI: http..."
-  },
-  {
-    "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
-    "link": "https://zenn.dev/mconfjp/articles/good-book-at-gijutsushoten2025",
-    "pubDate": "Sat, 29 Nov 2025 14:52:58 GMT",
-    "source": "Zenn",
-    "contentSnippet": "これはなに\n先日、技術書典19に参加してきました。\n技術書典では色々と書籍を買ったんですが、その中でも特に良かったなと感じた『わかる！ソフトウェア設計トレーニング』についてご紹介します。\nちなみに購入リンクはこちら。\nhttps://techbookfest.org/product/28eUFHQYcuN7VX4UGsPzsi\n紙媒体[1]のやつは11/30までしか購入できないらしいので、買いたい"
-  },
-  {
-    "title": "UniTask 実装で意識している 7 つのポイント",
-    "link": "https://zenn.dev/fig_codefactory/articles/60a404a42e7a16",
-    "pubDate": "Sat, 29 Nov 2025 12:12:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Unity で非同期的な処理を書くとき、多くの人はまず コルーチン（Coroutine） を使うと思います。\nコルーチンは簡単に書けて便利ですが、\n複数の非同期処理を組み合わせたり、戻り値を扱ったりすると、コードが複雑になりがちです。\nそこで登場するのが UniTask です。\nUniTask は、Unity 向けに最適化された軽量な非同期処理用ライブラリで、\nコルーチンよりもパフォーマンス面で優"
-  },
-  {
-    "title": "再帰やループを使わずに組合せを求める",
-    "link": "https://zenn.dev/pona/articles/675a59cb0a9efc",
-    "pubDate": "Sat, 29 Nov 2025 12:10:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n世の中の言語や環境の中には，順列や組合せの生成といった高度なコレクション操作を標準で提供してくれないものが少なからずあります．かかる折には自前でジェネレータを定義するものですが，再帰だのループだのと書いているうちに目が回って疲れてしまいます．しかし，こと組合せの生成に関しては心配無用です．繰り返しを用いずにビット演算だけでこれを実現する方法があります．\n\n 組合せと二進数\n組合せというの"
   },
   {
     "title": "API Gatewayのストリーミング機能を試してみました",

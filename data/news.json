@@ -1,73 +1,73 @@
 [
   {
-    "title": "From Zero to Beautiful UI: How I Built an Instagram-Like Layout Using Uno Platform Hot Design 🔥",
-    "link": "https://dev.to/hadil/from-zero-to-beautiful-ui-how-i-built-an-instagram-like-layout-using-uno-platform-hot-design-302h",
-    "pubDate": "Tue, 02 Dec 2025 06:27:43 +0000",
+    "title": "Building Intelligent AI Agents with MongoDB Atlas: A Bidirectional Data Flow Architecture",
+    "link": "https://dev.to/pash10g/building-intelligent-ai-agents-with-mongodb-atlas-a-bidirectional-data-flow-architecture-2obl",
+    "pubDate": "Tue, 02 Dec 2025 12:55:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps - Hot Design Showcase\nOver the last days, I challenged myself to build a clean, modern, Instagram-style profile page using Uno Platfor"
+    "contentSnippet": "As AI agents become increasingly sophisticated, the way applications interact with databases is fundamentally changing. Gone are the days of simple CRUD operations and static queries. Modern AI-powere"
   },
   {
-    "title": "Deploy SafeLine WAF with Docker Compose: A Step-by-Step Guide",
-    "link": "https://dev.to/arina_cholee/deploy-safeline-waf-with-docker-compose-a-step-by-step-guide-1fk0",
-    "pubDate": "Tue, 02 Dec 2025 06:27:16 +0000",
+    "title": "Pixlore — A Web-to-Figma Engine That Bridges UI, Code, and Product Workflows",
+    "link": "https://dev.to/doong_yee/pixlore-a-web-to-figma-engine-that-bridges-ui-code-and-product-workflows-5a6h",
+    "pubDate": "Tue, 02 Dec 2025 12:48:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SafeLine WAF is an open-source, powerful web application firewall designed to protect your web applications from a range of security threats. In this guide, we’ll walk you through deploying SafeLine u"
+    "contentSnippet": "As front-end engineers and product teams, we often need to understand, audit, or replicate UI patterns from existing web interfaces — and doing that manually in Figma can feel… inefficient.\nRebuilding"
   },
   {
-    "title": "5 Physics Systems You Can Build in Scratch (With Working Code)",
-    "link": "https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k",
-    "pubDate": "Tue, 02 Dec 2025 06:21:30 +0000",
+    "title": "Authenticating Users in Astro & React Apps with Better Auth",
+    "link": "https://dev.to/isnan__h/authenticating-users-in-astro-react-apps-with-better-auth-3loe",
+    "pubDate": "Tue, 02 Dec 2025 12:40:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Physics transforms boring games into engaging experiences. Here are 5 systems you can build in Scratch today.\nPhysics simulates real-world forces:\nGravity - Objects fall naturally\nMomentum - Moving ob"
+    "contentSnippet": "This post was originally published in my website here.\nAuthentication is a critical foundation for every contemporary web application, but establishing it is often one of the most significant, time-in"
   },
   {
-    "title": "Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook",
-    "link": "https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk",
-    "pubDate": "Tue, 02 Dec 2025 06:20:06 +0000",
+    "title": "Security Holes in MCP Servers and How To Plug Them",
+    "link": "https://dev.to/thenjdevopsguy/security-holes-in-mcp-servers-and-how-to-plug-them-d61",
+    "pubDate": "Tue, 02 Dec 2025 12:35:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Github Link: https://github.com/moolmin/kiro-avatar-creator\nhttps://kiroween-avatar.vercel.app/\n\nHackathons make you choose: ship fast or ship clean. I wanted both. So I built a Kiroween Avatar Maker "
+    "contentSnippet": "Model Context Protocol (MCP), has officially hit one year old as of November 25th and although there have been some amazing innovations within MCP, one issue still persists - the gaping security hole."
   },
   {
-    "title": "Web development roadmap",
-    "link": "https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2",
-    "pubDate": "Tue, 02 Dec 2025 06:19:46 +0000",
+    "title": "I Built an AI That Finds Every Article Similar to Your Text — Here’s How It Works",
+    "link": "https://dev.to/stokry/i-built-an-ai-that-finds-every-article-similar-to-your-text-heres-how-it-works-bhb",
+    "pubDate": "Tue, 02 Dec 2025 12:34:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1️⃣ Basics of Web & How the Internet Works  \n├── What is a website?  \n├── How browsers & servers communicate (HTTP/HTTPS)  \n├── DNS, Hosting, Domain basics\n2️⃣ Frontend Development (Client-Side)  \n📄 "
+    "contentSnippet": "Most search engines will show you pages that mention the same keywords.\nBut what if you want to find articles that express the same ideas, even if they’re written completely differently?\nThat’s the pr"
   },
   {
-    "title": "19,400+ GitHub Stars: This Free WAF Is on Fire",
-    "link": "https://dev.to/arina_cholee/19400-github-stars-this-free-waf-is-on-fire-1lf1",
-    "pubDate": "Tue, 02 Dec 2025 06:15:58 +0000",
+    "title": "Recognition of the Winners of the Agentic Postgres Challenge with Tiger Data",
+    "link": "https://dev.to/jramone3/recognition-of-the-winners-of-the-agentic-postgres-challenge-with-tiger-data-4np4",
+    "pubDate": "Tue, 02 Dec 2025 12:20:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Tired of constantly maintaining endless regex rules in traditional WAFs? Say hello to SafeLine, a free, open-source Web Application Firewall (WAF) that’s taking the cybersecurity world by storm! With "
+    "contentSnippet": "🏆 Recognition of the Winners of the Agentic Postgres Challenge with Tiger Data\n🥇 First Place – Simran Shaikh (@simranshaikh20_50)\nInnovation: Leveraged Tiger Cloud’s zero-copy database forks to run "
   },
   {
-    "title": "7 Best Resources to Learn SQL: My Journey from Confusion to Confidence",
-    "link": "https://dev.to/stack_overflowed/7-best-resources-to-learn-sql-my-journey-from-confusion-to-confidence-3jnk",
-    "pubDate": "Tue, 02 Dec 2025 06:08:53 +0000",
+    "title": "Getting Started with Nop: How to Creatively Extend GraphQL",
+    "link": "https://dev.to/canonical/getting-started-with-nop-how-to-creatively-extend-graphql-5e7c",
+    "pubDate": "Tue, 02 Dec 2025 12:17:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I remember the first time I dove into SQL—it was overwhelming. The syntax felt alien, and I wasn’t sure where to start. If you’ve been there, struggling to grasp SQL’s power or feeling lost in tutoria"
+    "contentSnippet": "The Nop platform does not use common GraphQL open-source libraries such as graphql-java; instead, it implements the NopGraphQL engine from scratch. The NopGraphQL engine introduces many novel implemen"
   },
   {
-    "title": "🧠Maybe I Just Do Not Get It!",
-    "link": "https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f",
-    "pubDate": "Tue, 02 Dec 2025 06:08:00 +0000",
+    "title": "How Crypto Businesses Can Prepare for MiCA Authorization in the European Union",
+    "link": "https://dev.to/aleksandr_rozental_1b7caa/how-crypto-businesses-can-prepare-for-mica-authorization-in-the-european-union-3i2h",
+    "pubDate": "Tue, 02 Dec 2025 12:15:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I have been working with AI for a while now.\nNot as a tourist. Not as a weekend hacker. Deep in it. Shipping things, wiring models into products, watching logs at 3am, apologizing to users when someth"
+    "contentSnippet": "The European regulatory environment for crypto is evolving rapidly, and MiCA is the most significant development shaping how businesses operate across the European Union. Companies launching exchanges"
   },
   {
-    "title": "大模型微调：SFT",
-    "link": "https://dev.to/aquareo/da-mo-xing-wei-diao-sft-1d54",
-    "pubDate": "Tue, 02 Dec 2025 06:06:39 +0000",
+    "title": "รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B (ไม่ไหว) สู่ 4B \"Sweet Spot\"",
+    "link": "https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp",
+    "pubDate": "Tue, 02 Dec 2025 12:12:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "⭐ 第二部分：SFT 完整流程（从头到尾讲给你听）\n\n\n我会用你能理解的方式讲：\nStep 1：准备 SFT 数据（Prompt → Answer）\n\n\n比如 HH-RLHF 里有：\nHuman: How do I pick a lock?\nAssistant: Sorry, I cannot help with illegal activities...\n\n我们把它变成：\n输入（prompt）："
+    "contentSnippet": "สวัสดีครับ! นี่คือบทความสรุปการเดินทางของเราในการพยายามรันโมเดล Typhoon 2.5 (ทั้ง 30B และ 4B) บน Google Colab Free Tier ครับ เราได้ลองผิดลองถูกมาหลายวิธี และนี่คือบทเรียนทั้งหมดที่เราพบ ตั้งแต่ความล้ม"
   },
   {
-    "title": "Day-08: Meta Arguments in terraform",
-    "link": "https://dev.to/bhaskara_tejabulusu_b4bf/day-08-meta-arguments-in-terraform-4gc6",
-    "pubDate": "Tue, 02 Dec 2025 06:04:40 +0000",
+    "title": "Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results",
+    "link": "https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080",
+    "pubDate": "Tue, 02 Dec 2025 12:10:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Meta arguments\n\n\nIn terraform, the meta arguments are classified into 5 types\ndepends_on\ncount\nfor_each\nprovider\nlifecycle\n\ncount:\nused for iterating over a list\nexample code:\n// variables.tf\nvariable"
+    "contentSnippet": "Introduction\n\n\nPrompting used to feel like magic. Sometimes the AI gave great results sometimes it didn’t. But modern AI workloads require consistency, structure, validation, and reliability — not gue"
   },
   {
     "title": "爆速CLI入門 ~最初に知りたかったTips~",
@@ -75,6 +75,27 @@
     "pubDate": "Tue, 02 Dec 2025 00:32:58 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事はTechBullのアドカレ2日目の記事です。\n\n はじめに\n怠惰はプログラマの美徳である。\nCLIはそんな怠惰人間を支えてくれる最強の相棒である。\nキーボードだけで操作し、自動化を積み重ねていく。\nそんな世界へ踏み込もうとすると、最初の一歩で壁にぶつかる。\n本を開けば呪文のようなコマンドオプションが並び、由来もわからない。\nman や help があると言われても英語がつらい。\n何から手"
+  },
+  {
+    "title": "IT企業に入社して、、（製造業出身のしがない２６歳）",
+    "link": "https://qiita.com/systemi-taka/items/2fc456c113409cdd0881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:08:12.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめまして、11月中旬にシステムアイに入社いたしました。佐藤です✌️\n私のキャリアは製造業での機械設計者として始まり、その後紆余曲折ありフリーランスエンジニアを経て今回初めて「バリバリのIT企業」で働くことになりました。\n入社してからの半月間、これまでの労働人生では想像..."
+  },
+  {
+    "title": "スパゲティプログラムに3行追加したら決済ができなくなった話",
+    "link": "https://qiita.com/ryo_s0127/items/d5ee3d84237e62bc5cbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:05:35.000Z",
+    "source": "Qiita",
+    "contentSnippet": "これは私が決済系のシステム開発に携わっていた時の話\n個人や企業が特定されるような情報は伏せますが、数年前炎上の末にできあがった1つのシステムがありました。\nそれはそれはものすごいコードだったのです。\n\nどんなコードだったのか\nこのシステムは画面で値を入力し、次々と画面を遷..."
+  },
+  {
+    "title": "AIと楽しくおしゃべりしながらプレイできるリバーシを作りました",
+    "link": "https://qiita.com/nabettu/items/08fc6bbc780f757e7e84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:03:04.000Z",
+    "source": "Qiita",
+    "contentSnippet": "※オセロ→リバーシに修正しました。\n本記事はクソアプリアドベントカレンダー2025の記事です。\n11年目に突入してきましたが、皆さんいかがお過ごしでしょうか。私もこのカレンダーに参加して10回目となりましたので、10年クソアプリを作っているということになります。。。マジか。..."
   },
   {
     "title": "「AWS MCP Server」プレビュー開始。最新のAWS APIからナレッジベースまで包括的にAIからAWSを利用可能に",
@@ -154,39 +175,18 @@
     "contentSnippet": "!\n※この記事は「COUNTER WORKS Advent Calendar 2025」の1日目の記事です。\n\n\n 結論: Blacksmithのrunnerを使うといいよ！\n\nサードパーティであるBlacksmith製のrunnerを利用した所、1分あたりの単価が半額になった上に、実行時間も減り、結果コストも約70%削減できました。\n今回の結果は、正確には、Github Actions用yaml"
   },
   {
+    "title": "コードレビューではgtrが便利！",
+    "link": "https://qiita.com/Nozomuts/items/0f16c7de2a85a7aad6c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T01:20:10.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nGitHubのアップデートは頻繁に行われていて、GitHub上でのコードレビューもしやすくなってきてますね！\nただ、やっぱり手元のエディタで動かしながら確認したいことってありますよね\nでも、そのために現在の作業を stash したり、ブランチを切り替えて npm..."
+  },
+  {
     "title": "EMになって10年。10年前の自分に伝えたい8つのこと",
     "link": "https://zenn.dev/openlogi/articles/d43f344f146274",
     "pubDate": "Sun, 30 Nov 2025 23:17:33 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事はOPENLOGI Advent Calendarの1日目の記事です。\n私はマネジメントの仕事を始めてから、今年でちょうど10年になりました。最初は現場リーダーから始めて、EM、VPoE、執行役員と経験してきました。\nこの10年の間に、リリースが1年半遅れていたプロジェクトの立て直しや、CTOのいない組織の立て直しなど、いくつかの「なかなかハードな現場」を経験してきました。\n当然ですが、全"
-  },
-  {
-    "title": "文系未経験がLinuCレベル1を3か月で取得した話",
-    "link": "https://qiita.com/Yoshiiany/items/878b36fff86ec884de4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:07:48.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこの記事では文系未経験でLinuC レベル1合格に至った学習方法などを紹介していきたいと思います。\nこれからLinuCレベル1に挑戦しようと考えている初学者の方の参考になればと思います。\n\nLinuCとは\nLinuCは、一般社団法人LPI-Japanが運営する、..."
-  },
-  {
-    "title": "kubernetes Deep Dive (etcd + Raft)",
-    "link": "https://qiita.com/Plath/items/6a07fbbda5b443b4079a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:07:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025の1日目の記事になります。\n本日のテーマは\"kubernetes Deep Dive (etcd + Raft)\"です。私はいつも開発でkubernetes（k8s）を使っています。より深くk..."
-  },
-  {
-    "title": "【現場で使える】Linuxコマンド早見表",
-    "link": "https://qiita.com/takuya_nakanishi24/items/08685a6f50272c548f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:06:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n\n現場で実際に使用したLinuxコマンドを、自分用の備忘録も兼ねてまとめました。\n今回は使用頻度の多かった4つのコマンドをご紹介いたします。\nすぐに試せるようシンプルな例も添えています。\n\n使用コマンド\n\n・uname -n\n用途:ホスト名を表示\n書式:una..."
-  },
-  {
-    "title": "ユーザ追加からパスワードポリシー設定までの実施作業",
-    "link": "https://qiita.com/alexanoD/items/193fcbab50c341fad129?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:05:46.000Z",
-    "source": "Qiita",
-    "contentSnippet": "何故この記事を書こうと思ったか\n文系卒未経験エンジニアである自分がいつかの作業で割と主動で検証から手順書作成、リリースまで持っていいったものの一つで今後の必ず使う機会があるだろうなと思ったのでどんな作業をしたのか流れをこの記事を通してアウトプットとして残します。\n流れとし..."
   },
   {
     "title": "オラ、ラマにコードレビューしてもらうわ",
@@ -238,11 +238,11 @@
     "contentSnippet": "GitHubは、開発ツールとしてAIが導入されていくことで、プログラミング言語やフレームワークの選択にどのような影響を与えるかを考察したブログ記事「TypeScript, Python, and the AI feedback loop changing software development」（TypeScript、Python、そしてAIフィードバックループがソフトウェア開発を変えていく）を"
   },
   {
-    "title": "CISSPに合格しました",
-    "link": "https://qiita.com/kowaretyatta/items/a8b17843e91829cb8034?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T11:41:44.000Z",
+    "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
+    "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T06:56:37.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n2025年11月11日CISSPに合格したので、どんな勉強したのかとかをまとめておきます\n\nモチベーション\n今年の４月に応用情報技術者試験を受け、なんとか合格\n次のステップの、情報処理安全確保支援士に向けてセキュリティ周りの勉強をしていたら\nなんかめっちゃ面白い..."
+    "contentSnippet": "AIがあるから資格勉強する気が出ない\n前に同僚がこんな話をしてくれました。\n「資格を取らなくてもAIと対話しながら仕様やサービスの選定ができれば良くない？」\n「資格取れても社内評価が上がるくらいだから」\nまあわかる。わかるけど、、\nこの「わかるけど、、」と思ったことが自分..."
   },
   {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",

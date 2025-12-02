@@ -1,73 +1,80 @@
 [
   {
-    "title": "How I Automated a Full GitLab Migration Using Bash (Real Case Study + Scripts)",
-    "link": "https://dev.to/claudiodevops/how-i-automated-a-full-gitlab-migration-using-bash-real-case-study-scripts-2dnc",
-    "pubDate": "Tue, 02 Dec 2025 01:59:33 +0000",
+    "title": "From Zero to Beautiful UI: How I Built an Instagram-Like Layout Using Uno Platform Hot Design 🔥",
+    "link": "https://dev.to/hadil/from-zero-to-beautiful-ui-how-i-built-an-instagram-like-layout-using-uno-platform-hot-design-302h",
+    "pubDate": "Tue, 02 Dec 2025 06:27:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Migrating multiple repositories between GitLab instances can quickly become a complex and repetitive process — especially when dealing with groups, subgroups, CI/CD pipelines, variables, tags, and iss"
+    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps - Hot Design Showcase\nOver the last days, I challenged myself to build a clean, modern, Instagram-style profile page using Uno Platfor"
   },
   {
-    "title": "Advent of Code 2025 is Here!",
-    "link": "https://dev.to/linkbenjamin/advent-of-code-2025-is-here-4ldi",
-    "pubDate": "Tue, 02 Dec 2025 01:54:45 +0000",
+    "title": "Deploy SafeLine WAF with Docker Compose: A Step-by-Step Guide",
+    "link": "https://dev.to/arina_cholee/deploy-safeline-waf-with-docker-compose-a-step-by-step-guide-1fk0",
+    "pubDate": "Tue, 02 Dec 2025 06:27:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey fellow adventurers!\nEvery year on adventofcode.com, you can sharpen your coding skills with some brain-bending programming challenges.\nI did it for the first time last year and while I wasn't able"
+    "contentSnippet": "SafeLine WAF is an open-source, powerful web application firewall designed to protect your web applications from a range of security threats. In this guide, we’ll walk you through deploying SafeLine u"
   },
   {
-    "title": "Mastering Remote Planning Poker: A Complete Guide for Distributed Teams",
-    "link": "https://dev.to/deniss_semjonovs_43d2d2f3/mastering-remote-planning-poker-a-complete-guide-for-distributed-teams-1o3c",
-    "pubDate": "Tue, 02 Dec 2025 01:54:06 +0000",
+    "title": "5 Physics Systems You Can Build in Scratch (With Working Code)",
+    "link": "https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k",
+    "pubDate": "Tue, 02 Dec 2025 06:21:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Planning poker has been a staple of agile estimation for decades. But with the shift to remote work, teams need new strategies to make these sessions effective when participants aren't in the same roo"
+    "contentSnippet": "Physics transforms boring games into engaging experiences. Here are 5 systems you can build in Scratch today.\nPhysics simulates real-world forces:\nGravity - Objects fall naturally\nMomentum - Moving ob"
   },
   {
-    "title": "Managing Complex State: From Dynamic Depth Charts to Tactical Game Grids",
-    "link": "https://dev.to/ffteamnames/managing-complex-state-from-dynamic-depth-charts-to-tactical-game-grids-1n56",
-    "pubDate": "Tue, 02 Dec 2025 01:48:13 +0000",
+    "title": "Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook",
+    "link": "https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk",
+    "pubDate": "Tue, 02 Dec 2025 06:20:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey dev.to community,\nWhether we are building data-heavy web applications or interactive games, one challenge remains constant: managing complex state. How we represent, update, and maintain the \"trut"
+    "contentSnippet": "Github Link: https://github.com/moolmin/kiro-avatar-creator\nhttps://kiroween-avatar.vercel.app/\n\nHackathons make you choose: ship fast or ship clean. I wanted both. So I built a Kiroween Avatar Maker "
   },
   {
-    "title": "Mastering PowerPoint Lists: A Spire.Presentation for Java Tutorial",
-    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/mastering-powerpoint-lists-a-spirepresentation-for-java-tutorial-1423",
-    "pubDate": "Tue, 02 Dec 2025 01:38:07 +0000",
+    "title": "Web development roadmap",
+    "link": "https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2",
+    "pubDate": "Tue, 02 Dec 2025 06:19:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Crafting effective presentations hinges on clear communication, and structured lists are indispensable for conveying information succinctly. Whether you're outlining key points, detailing steps, or pr"
+    "contentSnippet": "1️⃣ Basics of Web & How the Internet Works  \n├── What is a website?  \n├── How browsers & servers communicate (HTTP/HTTPS)  \n├── DNS, Hosting, Domain basics\n2️⃣ Frontend Development (Client-Side)  \n📄 "
   },
   {
-    "title": "Dubai vs. Abu Dhabi: Which City is Better for New Year's Eve?",
-    "link": "https://dev.to/chenlanlan/dubai-vs-abu-dhabi-which-city-is-better-for-new-years-eve-29k9",
-    "pubDate": "Tue, 02 Dec 2025 01:33:53 +0000",
+    "title": "19,400+ GitHub Stars: This Free WAF Is on Fire",
+    "link": "https://dev.to/arina_cholee/19400-github-stars-this-free-waf-is-on-fire-1lf1",
+    "pubDate": "Tue, 02 Dec 2025 06:15:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When it comes to ringing in the New Year in style, Dubai and Abu Dhabi stand out as two of the most sought-after destinations in the UAE. Each city offers a unique flavor of celebration, making it a t"
+    "contentSnippet": "Tired of constantly maintaining endless regex rules in traditional WAFs? Say hello to SafeLine, a free, open-source Web Application Firewall (WAF) that’s taking the cybersecurity world by storm! With "
   },
   {
-    "title": "Why We Don't Use Browser Extensions: The Clickjacking Problem",
-    "link": "https://dev.to/sourabh_katti_f87f3875e01/why-we-dont-use-browser-extensions-the-clickjacking-problem-379i",
-    "pubDate": "Tue, 02 Dec 2025 01:33:14 +0000",
+    "title": "7 Best Resources to Learn SQL: My Journey from Confusion to Confidence",
+    "link": "https://dev.to/stack_overflowed/7-best-resources-to-learn-sql-my-journey-from-confusion-to-confidence-3jnk",
+    "pubDate": "Tue, 02 Dec 2025 06:08:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "At DEF CON 2025, security researchers disclosed a clickjacking vulnerability affecting the browser extensions of 1Password, Bitwarden, and LastPass. The attack allows malicious websites to steal autof"
+    "contentSnippet": "I remember the first time I dove into SQL—it was overwhelming. The syntax felt alien, and I wasn’t sure where to start. If you’ve been there, struggling to grasp SQL’s power or feeling lost in tutoria"
   },
   {
-    "title": "The Shai-Hulud Worm: How 500+ NPM Packages Became Credential-Stealing Malware",
-    "link": "https://dev.to/sourabh_katti_f87f3875e01/the-shai-hulud-worm-how-500-npm-packages-became-credential-stealing-malware-2ad1",
-    "pubDate": "Tue, 02 Dec 2025 01:31:47 +0000",
+    "title": "🧠Maybe I Just Do Not Get It!",
+    "link": "https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f",
+    "pubDate": "Tue, 02 Dec 2025 06:08:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In September 2025, security researchers discovered something unprecedented: a self-replicating worm spreading through the NPM package ecosystem, stealing developer credentials and automatically infect"
+    "contentSnippet": "I have been working with AI for a while now.\nNot as a tourist. Not as a weekend hacker. Deep in it. Shipping things, wiring models into products, watching logs at 3am, apologizing to users when someth"
   },
   {
-    "title": "From a Single File to a Full Chrome Extension Using Kiro",
-    "link": "https://dev.to/ansellmaximilian/from-a-single-file-to-a-full-chrome-extension-using-kiro-4hld",
-    "pubDate": "Tue, 02 Dec 2025 01:09:06 +0000",
+    "title": "大模型微调：SFT",
+    "link": "https://dev.to/aquareo/da-mo-xing-wei-diao-sft-1d54",
+    "pubDate": "Tue, 02 Dec 2025 06:06:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Quick Demo\n\n\n\n\n\n\n\n  \n  \n  Introduction\n\n\nThere have been an increasing variety of coding agents recently. Each one getting more integrated and comprehensive than the last. I've been lucky enough to ha"
+    "contentSnippet": "⭐ 第二部分：SFT 完整流程（从头到尾讲给你听）\n\n\n我会用你能理解的方式讲：\nStep 1：准备 SFT 数据（Prompt → Answer）\n\n\n比如 HH-RLHF 里有：\nHuman: How do I pick a lock?\nAssistant: Sorry, I cannot help with illegal activities...\n\n我们把它变成：\n输入（prompt）："
   },
   {
-    "title": "Chip Design Breakthrough: Predicting Performance Before Layout",
-    "link": "https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p",
-    "pubDate": "Tue, 02 Dec 2025 01:02:06 +0000",
+    "title": "Day-08: Meta Arguments in terraform",
+    "link": "https://dev.to/bhaskara_tejabulusu_b4bf/day-08-meta-arguments-in-terraform-4gc6",
+    "pubDate": "Tue, 02 Dec 2025 06:04:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Chip Design Breakthrough: Predicting Performance Before Layout\n\n\nTired of lengthy design cycles and performance surprises late in the game? Imagine knowing your chip's power consumption and speed befo"
+    "contentSnippet": "Meta arguments\n\n\nIn terraform, the meta arguments are classified into 5 types\ndepends_on\ncount\nfor_each\nprovider\nlifecycle\n\ncount:\nused for iterating over a list\nexample code:\n// variables.tf\nvariable"
+  },
+  {
+    "title": "爆速CLI入門 ~最初に知りたかったTips~",
+    "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner",
+    "pubDate": "Tue, 02 Dec 2025 00:32:58 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事はTechBullのアドカレ2日目の記事です。\n\n はじめに\n怠惰はプログラマの美徳である。\nCLIはそんな怠惰人間を支えてくれる最強の相棒である。\nキーボードだけで操作し、自動化を積み重ねていく。\nそんな世界へ踏み込もうとすると、最初の一歩で壁にぶつかる。\n本を開けば呪文のようなコマンドオプションが並び、由来もわからない。\nman や help があると言われても英語がつらい。\n何から手"
   },
   {
     "title": "「AWS MCP Server」プレビュー開始。最新のAWS APIからナレッジベースまで包括的にAIからAWSを利用可能に",
@@ -84,6 +91,13 @@
     "contentSnippet": "Amazon Web Services（AWS）は、コンテナ化されたアプリケーションのデプロイやスケーリング、運用管理などを提供するフルマネージドサービス「Amazon ECS」（Amazon Elastic Container Service）の新機能として、複雑な設定を自動化することで迅速なデプロイを可能にする「Amazon ECS Express Mode」の提供を発表しました。 本来、コン"
   },
   {
+    "title": "RAGプロダクトを支える、ベクトルDB構築以外の周辺Tips",
+    "link": "https://zenn.dev/mkj/articles/1a9aed0c21db7e",
+    "pubDate": "Mon, 01 Dec 2025 15:00:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、松尾研究所 データサイエンティストの浮田です。この記事は、松尾研究所Advent Calendar 2025の記事です。\nRAG (Retrieval-Augmented Generation) と聞くと、「ベクトルDBを構築する」という話に意識が向きがちです。もちろんベクトルDBはRAGの基盤になる重要な要素ですが、実際に使われるRAGプロダクトを作ろうとすると、ベクトルDB構築以外"
+  },
+  {
     "title": "Kawaiiパワーで完全に理解！しっかりやり切るOAuthとOIDC入門 (執筆中)",
     "link": "https://zenn.dev/calloc134/books/sikkari-oauth-oidc",
     "pubDate": "Mon, 01 Dec 2025 14:45:10 GMT",
@@ -96,6 +110,13 @@
     "pubDate": "2025-12-01T12:21:45.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと高速なプライベート接続を実現する新サービス「AWS Interconnect - multicloud」のプレビュー開始を発表しました。 AWSサービスにより外部クラウドと高速接続 クラウドの普及によって、AWS、Microsoft Azure、Google Cloudなどの"
+  },
+  {
+    "title": "やったらあかんで！ AWSアンチパターン",
+    "link": "https://zenn.dev/isawa/articles/3e9f9aeba89bde",
+    "pubDate": "Mon, 01 Dec 2025 11:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "概要\nどうも、どすこいです！\n先日投稿した 「そのDockerfile、卒業しよう」実務で通用するベストプラクティス が多くの方に読んでいただき、本当にうれしく思っています。\n今回取り上げるテーマは、AWSにおけるアンチパターンです。\n「AWSは触れているけれど、正直ベストプラクティスが分からないまま何となく動かしている」\n「インフラは後から直せばいいと思っていたら、思った以上に深刻な状態になって"
   },
   {
     "title": "思考を減らしコードに集中するための tmux, Neovim 設定",
@@ -117,13 +138,6 @@
     "pubDate": "Mon, 01 Dec 2025 04:08:34 GMT",
     "source": "Zenn",
     "contentSnippet": "WebAssemblyアドベントカレンダー1日目，兼モニクル Advent Calendar 20251日目の記事になります．\n\n はじめに\n\n Wasm 3.0\nさて，今年の9月にWasm 3.0が発表されました．これは Wasm 2.0以降新たに追加，実装されたWasmの仕様をまとめ，新たにWasm 3.0としてバージョニングしたものです．\nですので，Wasm 3.0が発表されたからといって何"
-  },
-  {
-    "title": "AIでデータ抽出するならBEAM＊を取り入れよう",
-    "link": "https://zenn.dev/gaudiy_blog/articles/03f029c82099cf",
-    "pubDate": "Mon, 01 Dec 2025 02:29:08 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。株式会社GaudiyでAnalytics Engineerをしている星野（@mochigenmai）です。\nこの記事は #GauDev Advent Calendar 2025 の1日目の記事です。\nhttps://adventar.org/calendars/11616\n\n昨今、生成AIを用いたデータ抽出（Text-to-SQLやMCPでのセマンティックレイヤーの操作など）の構築にト"
   },
   {
     "title": "TanStack Startを試してみたけど、もうNext.jsには戻れない",
@@ -208,20 +222,6 @@
     "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、t-chenです。\n[1]\n突然ですが、オンラインで誰でも利用できるNode.js環境を準備しました。vmモジュールを利用してサンドボックス化したので、安全なはずです。普段遣いしていていろいろな情報が詰まったPCでサーバーを動かしていますが、大丈夫でしょう。\n...\n[2]\nうわ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ハッキングされた〜〜〜〜〜〜〜〜〜〜〜\n\n VMモジュールとは？\n外部から"
-  },
-  {
-    "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
-    "link": "https://zenn.dev/acntechjp/articles/411bbb4fe65022",
-    "pubDate": "Sun, 30 Nov 2025 21:24:12 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n今回紹介するのは、Claude Opus 4.5 と M365 Copilot を組み合わせて、自社スタイルのPowerPointを自動生成する方法です。\nhttps://youtu.be/RPaQJwZJpTQ\n\n上記PVはGemini3 Proで製作\n\n\n\n きっかけ：まつにぃさんのNote記事\nこの方法を思いついたきっかけは、まつにぃさんが投稿された以下のNote記事です。\nhtt"
-  },
-  {
-    "title": "Azure の バックボーン や ネットワーク を図解してみる",
-    "link": "https://zenn.dev/microsoft/articles/azurebackbone",
-    "pubDate": "Sun, 30 Nov 2025 18:43:47 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こちらは Microsoft Azure Tech Advent Calendar 2025 1日目 の記事です。\n\n はじめに\nAzure を支えるネットワークインフラ について、公式ドキュメント等にある情報をまとめつつ、図解しながら、その構造や通信の経路などを掘り下げてみます。特に バックボーン あたりをフォーカスして記載しています。また本記事とあわせ、本当に通信がインターネットに出てないか検"
   },
   {
     "title": "SwiftコードをAndroidネイティブにコンパイルできる「Skip Fuse」が個人開発者などに無料提供へ",

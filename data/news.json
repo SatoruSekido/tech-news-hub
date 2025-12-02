@@ -1,73 +1,87 @@
 [
   {
-    "title": "Building Intelligent AI Agents with MongoDB Atlas: A Bidirectional Data Flow Architecture",
-    "link": "https://dev.to/pash10g/building-intelligent-ai-agents-with-mongodb-atlas-a-bidirectional-data-flow-architecture-2obl",
-    "pubDate": "Tue, 02 Dec 2025 12:55:48 +0000",
+    "title": "CHW Monthly Activity Aggregation: Turning Visit Logs into Insight",
+    "link": "https://dev.to/oliver_samuel_028c6f65ad6/chw-monthly-activity-aggregation-turning-visit-logs-into-insight-4jm5",
+    "pubDate": "Tue, 02 Dec 2025 18:33:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As AI agents become increasingly sophisticated, the way applications interact with databases is fundamentally changing. Gone are the days of simple CRUD operations and static queries. Modern AI-powere"
+    "contentSnippet": "Community Health Workers (CHWs) generate a huge amount of visit-level data: every household visit, assessment, and follow-up. On its own, this raw data is hard to use. Our CHW Monthly Activity Aggrega"
   },
   {
-    "title": "Pixlore — A Web-to-Figma Engine That Bridges UI, Code, and Product Workflows",
-    "link": "https://dev.to/doong_yee/pixlore-a-web-to-figma-engine-that-bridges-ui-code-and-product-workflows-5a6h",
-    "pubDate": "Tue, 02 Dec 2025 12:48:53 +0000",
+    "title": "Building My First RAG System in One Week with Kiro IDE 🎃",
+    "link": "https://dev.to/syed_shahnizam_4d470b6e21/building-my-first-rag-system-in-one-week-with-kiro-ide-19ee",
+    "pubDate": "Tue, 02 Dec 2025 18:26:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As front-end engineers and product teams, we often need to understand, audit, or replicate UI patterns from existing web interfaces — and doing that manually in Figma can feel… inefficient.\nRebuilding"
+    "contentSnippet": "Submitted for Kiroween Hackathon 2024 - Skeleton Crew Category\nAs a junior apps developer, I'd never built a RAG (Retrieval Augmented Generation) system before. The concept seemed intimidating: vector"
   },
   {
-    "title": "Authenticating Users in Astro & React Apps with Better Auth",
-    "link": "https://dev.to/isnan__h/authenticating-users-in-astro-react-apps-with-better-auth-3loe",
-    "pubDate": "Tue, 02 Dec 2025 12:40:13 +0000",
+    "title": "Your First Mini Terraform Project: Install, Configure, and Deploy on AWS",
+    "link": "https://dev.to/krisha_arya_55/your-first-mini-terraform-project-install-configure-and-deploy-on-aws-10j2",
+    "pubDate": "Tue, 02 Dec 2025 18:20:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This post was originally published in my website here.\nAuthentication is a critical foundation for every contemporary web application, but establishing it is often one of the most significant, time-in"
+    "contentSnippet": "🌟 What is Terraform?\nTerraform by HashiCorp is an Infrastructure as Code (IaC) tool used to:\n✔ Provision AWS / Azure / GCP resources\nIt uses its own DSL called HCL (HashiCorp Configuration Language)."
   },
   {
-    "title": "Security Holes in MCP Servers and How To Plug Them",
-    "link": "https://dev.to/thenjdevopsguy/security-holes-in-mcp-servers-and-how-to-plug-them-d61",
-    "pubDate": "Tue, 02 Dec 2025 12:35:43 +0000",
+    "title": "->> Day-08 AWS Terraform Meta Arguments | count, depends_on, for_each",
+    "link": "https://dev.to/amit_kumar_7db8e36a64dd45/-day-08-aws-terraform-meta-arguments-count-dependson-foreach-2im0",
+    "pubDate": "Tue, 02 Dec 2025 18:12:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Model Context Protocol (MCP), has officially hit one year old as of November 25th and although there have been some amazing innovations within MCP, one issue still persists - the gaping security hole."
+    "contentSnippet": "Terraform gets much easier to use once you understand its meta arguments. These arguments help you decide how many resources to create, how they should be linked, and how Terraform keeps track of them"
   },
   {
-    "title": "I Built an AI That Finds Every Article Similar to Your Text — Here’s How It Works",
-    "link": "https://dev.to/stokry/i-built-an-ai-that-finds-every-article-similar-to-your-text-heres-how-it-works-bhb",
-    "pubDate": "Tue, 02 Dec 2025 12:34:19 +0000",
+    "title": "8 Technical SEO Processes Every Developer Should Own in Modern SaaS Teams",
+    "link": "https://dev.to/liamtakahiro/8-technical-seo-processes-every-developer-should-own-in-modern-saas-teams-1i9k",
+    "pubDate": "Tue, 02 Dec 2025 18:10:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most search engines will show you pages that mention the same keywords.\nBut what if you want to find articles that express the same ideas, even if they’re written completely differently?\nThat’s the pr"
+    "contentSnippet": "Technical SEO is no longer just a marketing concern. In modern SaaS organizations, developers play a critical role in building scalable, discoverable, and high-performance websites. When dev teams col"
   },
   {
-    "title": "Recognition of the Winners of the Agentic Postgres Challenge with Tiger Data",
-    "link": "https://dev.to/jramone3/recognition-of-the-winners-of-the-agentic-postgres-challenge-with-tiger-data-4np4",
-    "pubDate": "Tue, 02 Dec 2025 12:20:48 +0000",
+    "title": "Easy Steps to Generate a Config Module in NestJS",
+    "link": "https://dev.to/rubenoalvarado/easy-steps-to-generate-a-config-module-in-nestjs-246n",
+    "pubDate": "Tue, 02 Dec 2025 18:09:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🏆 Recognition of the Winners of the Agentic Postgres Challenge with Tiger Data\n🥇 First Place – Simran Shaikh (@simranshaikh20_50)\nInnovation: Leveraged Tiger Cloud’s zero-copy database forks to run "
+    "contentSnippet": "When I started with NestJS, I didn't understand modules, interceptors, guards, and other advanced techniques the framework offers. As a result, I built insecure applications with poor practices. Over "
   },
   {
-    "title": "Getting Started with Nop: How to Creatively Extend GraphQL",
-    "link": "https://dev.to/canonical/getting-started-with-nop-how-to-creatively-extend-graphql-5e7c",
-    "pubDate": "Tue, 02 Dec 2025 12:17:12 +0000",
+    "title": "What Burnout Taught Me About My Post-Hollywood Phone Problem",
+    "link": "https://dev.to/michael_esola_2b72a138c22/what-burnout-taught-me-about-my-post-hollywood-phone-problem-3mg7",
+    "pubDate": "Tue, 02 Dec 2025 18:03:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Nop platform does not use common GraphQL open-source libraries such as graphql-java; instead, it implements the NopGraphQL engine from scratch. The NopGraphQL engine introduces many novel implemen"
+    "contentSnippet": "When I was a motion picture literary agent in Beverly Hills, I averaged two hundred calls or more a day. My assistant fielded each one, booked meetings, and was the traffic controller keeping the plan"
   },
   {
-    "title": "How Crypto Businesses Can Prepare for MiCA Authorization in the European Union",
-    "link": "https://dev.to/aleksandr_rozental_1b7caa/how-crypto-businesses-can-prepare-for-mica-authorization-in-the-european-union-3i2h",
-    "pubDate": "Tue, 02 Dec 2025 12:15:53 +0000",
+    "title": "Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday",
+    "link": "https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb",
+    "pubDate": "Tue, 02 Dec 2025 18:00:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The European regulatory environment for crypto is evolving rapidly, and MiCA is the most significant development shaping how businesses operate across the European Union. Companies launching exchanges"
+    "contentSnippet": "Self-healing systems are basically computer systems that can fix themselves automatically when something goes wrong. \nInstead of waiting for a human to notice a problem and manually fix it (\"reactive "
   },
   {
-    "title": "รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B (ไม่ไหว) สู่ 4B \"Sweet Spot\"",
-    "link": "https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp",
-    "pubDate": "Tue, 02 Dec 2025 12:12:47 +0000",
+    "title": "If It’s Hard to Read, It’s Hard to Build",
+    "link": "https://dev.to/lovestaco/if-its-hard-to-read-its-hard-to-build-19eg",
+    "pubDate": "Tue, 02 Dec 2025 18:00:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "สวัสดีครับ! นี่คือบทความสรุปการเดินทางของเราในการพยายามรันโมเดล Typhoon 2.5 (ทั้ง 30B และ 4B) บน Google Colab Free Tier ครับ เราได้ลองผิดลองถูกมาหลายวิธี และนี่คือบทเรียนทั้งหมดที่เราพบ ตั้งแต่ความล้ม"
+    "contentSnippet": "Hello, I'm Maneshwar. I'm working on FreeDevTools online currently building **one place for all dev tools, cheat codes, and TLDRs* — a free, open-source hub where developers can quickly find and use t"
   },
   {
-    "title": "Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results",
-    "link": "https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080",
-    "pubDate": "Tue, 02 Dec 2025 12:10:47 +0000",
+    "title": "New to Dev to community",
+    "link": "https://dev.to/jagtar_singh_11d201bd24a6/new-to-dev-to-community-206g",
+    "pubDate": "Tue, 02 Dec 2025 17:59:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nPrompting used to feel like magic. Sometimes the AI gave great results sometimes it didn’t. But modern AI workloads require consistency, structure, validation, and reliability — not gue"
+    "contentSnippet": "Hey Everyone\nI used to do coding from 2013-2018 after that explore the new opportunities started my start ups but got failed and I am againg starting programmer Journey.\nThe tech stack which I have ch"
+  },
+  {
+    "title": "AWS、コンテナではなくEC2インスタンスでサーバレスを構築できる「AWS Lambda Managed Instances」リリース",
+    "link": "https://www.publickey1.jp/blog/25/awsec2aws_lambda_managed_instances.html",
+    "pubDate": "2025-12-02T16:23:54.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Servicesは、サーバレス基盤「AWS Lambda」の新機能として、コンテナではなくEC2インスタンスでサーバレスアプリケーションを構築できる「AWS Lambda Managed Instances」をリリースしました。 AWS Lambdaは、あらかじめ関数として記述したコードをコンテナとして瞬時に起動し、アプリケーションとして提供するサーバレスコンピューティング基"
+  },
+  {
+    "title": "AWS、AIエージェントでレガシーなWindowsアプリをコードもDBもモダンな「.NET＋Aurora PostgreSQL」に自動変換。AWS Transformリリース",
+    "link": "https://www.publickey1.jp/blog/25/awsaiwindowsdbnetaurora_postgresqlaws_transform.html",
+    "pubDate": "2025-12-02T16:18:26.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Servicesは、.NET FrameworkとSQL Serverの構成によるレガシーなWindowsアプリケーションを、モダンな.NETのとAurora PostgreSQLの構成にコードもデータベースも変換するAIエージェント機能を搭載した「AWS Transform for full-stack Windows modernization」をリリースしました。 AW"
   },
   {
     "title": "爆速CLI入門 ~最初に知りたかったTips~",
@@ -75,6 +89,13 @@
     "pubDate": "Tue, 02 Dec 2025 00:32:58 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事はTechBullのアドカレ2日目の記事です。\n\n はじめに\n怠惰はプログラマの美徳である。\nCLIはそんな怠惰人間を支えてくれる最強の相棒である。\nキーボードだけで操作し、自動化を積み重ねていく。\nそんな世界へ踏み込もうとすると、最初の一歩で壁にぶつかる。\n本を開けば呪文のようなコマンドオプションが並び、由来もわからない。\nman や help があると言われても英語がつらい。\n何から手"
+  },
+  {
+    "title": "AI出力の品質が悪い？「レビューと改善を3回繰り返して」だけで圧倒的に品質が上がる",
+    "link": "https://zenn.dev/loglass/articles/c356dbc3062137",
+    "pubDate": "Tue, 02 Dec 2025 00:23:51 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、ログラスの松岡(@little_hand_s)です。\n\n\n 3行まとめ\n\nAIに 「レビューと改善を3回繰り返して」 と指示するだけで、アウトプットの品質が向上する\n本記事では、この手法を 「セルフレビュー反復」 と呼び、ドキュメント生成でもコーディングでも活用できる\nシンプルな指示から始めても効果が出る。レビュー基準を育てていくことで、さらに品質が向上する\n\n!\n本記事は「Claud"
   },
   {
     "title": "IT企業に入社して、、（製造業出身のしがない２６歳）",
@@ -117,6 +138,13 @@
     "pubDate": "Mon, 01 Dec 2025 15:00:03 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、松尾研究所 データサイエンティストの浮田です。この記事は、松尾研究所Advent Calendar 2025の記事です。\nRAG (Retrieval-Augmented Generation) と聞くと、「ベクトルDBを構築する」という話に意識が向きがちです。もちろんベクトルDBはRAGの基盤になる重要な要素ですが、実際に使われるRAGプロダクトを作ろうとすると、ベクトルDB構築以外"
+  },
+  {
+    "title": "改めて Active Directory のセキュリティ対策を考えよう",
+    "link": "https://zenn.dev/microsoft/articles/active-directory-security-advent-calendar-2025-1",
+    "pubDate": "Mon, 01 Dec 2025 14:59:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに / アドベント カレンダーの企画趣旨\n2025 年も残り一ヶ月となりました。今年も様々なセキュリティ インシデントが話題にのぼりましたが、引き続き Active Directory (以下 AD) を狙った攻撃も数多く発生しているという話を各所で耳にしています。\nまた、昨今の大規模インシデントで世の中のセキュリティ意識が高まっている影響もあってか、先日 X で何気なくつぶやいた以下のポス"
   },
   {
     "title": "Kawaiiパワーで完全に理解！しっかりやり切るOAuthとOIDC入門 (執筆中)",
@@ -182,13 +210,6 @@
     "contentSnippet": "はじめに\nGitHubのアップデートは頻繁に行われていて、GitHub上でのコードレビューもしやすくなってきてますね！\nただ、やっぱり手元のエディタで動かしながら確認したいことってありますよね\nでも、そのために現在の作業を stash したり、ブランチを切り替えて npm..."
   },
   {
-    "title": "EMになって10年。10年前の自分に伝えたい8つのこと",
-    "link": "https://zenn.dev/openlogi/articles/d43f344f146274",
-    "pubDate": "Sun, 30 Nov 2025 23:17:33 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事はOPENLOGI Advent Calendarの1日目の記事です。\n私はマネジメントの仕事を始めてから、今年でちょうど10年になりました。最初は現場リーダーから始めて、EM、VPoE、執行役員と経験してきました。\nこの10年の間に、リリースが1年半遅れていたプロジェクトの立て直しや、CTOのいない組織の立て直しなど、いくつかの「なかなかハードな現場」を経験してきました。\n当然ですが、全"
-  },
-  {
     "title": "オラ、ラマにコードレビューしてもらうわ",
     "link": "https://qiita.com/ussy_k/items/0f48fb0fb6cbe0aedb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-30T22:05:01.000Z",
@@ -215,13 +236,6 @@
     "pubDate": "2025-11-30T22:03:19.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに：エンジニアにとって「最高の目覚まし」とは\n朝、起きることができない。\n大音量のアラームも、光で起こす目覚ましライトも、計算問題を解かないと止まらないアプリも試しました。しかし、慣れてしまえば二度寝は容易です。脳が「これはただのアラームだ」と学習してしまうからです..."
-  },
-  {
-    "title": "【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！",
-    "link": "https://zenn.dev/tchen/articles/8999302b0953b3",
-    "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、t-chenです。\n[1]\n突然ですが、オンラインで誰でも利用できるNode.js環境を準備しました。vmモジュールを利用してサンドボックス化したので、安全なはずです。普段遣いしていていろいろな情報が詰まったPCでサーバーを動かしていますが、大丈夫でしょう。\n...\n[2]\nうわ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ハッキングされた〜〜〜〜〜〜〜〜〜〜〜\n\n VMモジュールとは？\n外部から"
   },
   {
     "title": "SwiftコードをAndroidネイティブにコンパイルできる「Skip Fuse」が個人開発者などに無料提供へ",
@@ -264,19 +278,5 @@
     "pubDate": "2025-11-25T15:52:09.000Z",
     "source": "Publickey",
     "contentSnippet": "マイクロソフトは同社のリレーショナルデータベース製品の最新版「SQL Server 2025」正式版のリリースを発表しました。 DBエンジンにAIを統合 SQL Server 2025ではデータベースエンジンにAIが統合され、データに対してセマンティックサーチや自然言語での対話が可能となりました。 操作言語として使われている「Transact-SQL」（T-SQL）にAIモデル管理機能が組み込まれ"
-  },
-  {
-    "title": "ワイヤレス給電システムを提供するスタートアップが、データベースとしてTiDBを選択する理由とは？［PR］",
-    "link": "https://www.publickey1.jp/blog/25/aeterlink-tidbpr.html",
-    "pubDate": "2025-11-24T17:36:32.000Z",
-    "source": "Publickey",
-    "contentSnippet": "「ワイヤレス給電によって配線のない『デジタル世界』を実現する」というビジョンを掲げ、空間伝送型のワイヤレス給電ソリューション「AirPlug」を展開しているのが、日本のスタートアップ企業「Aeterlink」（エイターリンク）です。 同社は単にワイヤレス給電のためのハードウェアを提供するだけではなく、ワイヤレス給電によって実現するさまざまな場所に配置されたセンサーからのデータを活用するソフトウェア"
-  },
-  {
-    "title": "Rust言語をAWS Lambdaが正式サポート。高速なサーバレスアプリケーションが実装可能に",
-    "link": "https://www.publickey1.jp/blog/25/rustaws_lambda.html",
-    "pubDate": "2025-11-24T15:56:49.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、サーバレス基盤となるAWS LambdaによるRust言語の正式サポートを発表しました。 AWS Lambdaで利用可能なプログラミング言語のランタイムはこれまでNode.js/JavaScript、Python、Java、.NET、Rubyなどが用意されていました。これに新たにRust言語が加わることになります。 小さくて非常に高速な実行が可能"
   }
 ]

@@ -1,73 +1,73 @@
 [
   {
-    "title": "Kubernetes Secrets Without the Pain: Meet kcpwd",
-    "link": "https://dev.to/osmanuygar/kubernetes-secrets-without-the-pain-meet-kcpwd-4pfo",
-    "pubDate": "Mon, 01 Dec 2025 18:39:47 +0000",
+    "title": "How I Automated a Full GitLab Migration Using Bash (Real Case Study + Scripts)",
+    "link": "https://dev.to/claudiodevops/how-i-automated-a-full-gitlab-migration-using-bash-real-case-study-scripts-2dnc",
+    "pubDate": "Tue, 02 Dec 2025 01:59:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Kubernetes Secrets Without the Pain: Meet kcpwd\n\n\nkcpwd is a cross-platform password manager that syncs to Kubernetes secrets with zero infrastructure. No Vault servers, no operators, no complexity—ju"
+    "contentSnippet": "Migrating multiple repositories between GitLab instances can quickly become a complex and repetitive process — especially when dealing with groups, subgroups, CI/CD pipelines, variables, tags, and iss"
   },
   {
-    "title": "NDC Conferences: Optimize Your Internal OS and Minimize Compatibility Issues at Work - Alice Meredith",
-    "link": "https://dev.to/scale_youtube/ndc-conferences-optimize-your-internal-os-and-minimize-compatibility-issues-at-work-alice-3nej",
-    "pubDate": "Mon, 01 Dec 2025 18:37:13 +0000",
+    "title": "Advent of Code 2025 is Here!",
+    "link": "https://dev.to/linkbenjamin/advent-of-code-2025-is-here-4ldi",
+    "pubDate": "Tue, 02 Dec 2025 01:54:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever felt like you’re running a unique OS and crashing head-first into someone else’s? In her NDC Copenhagen talk, Alice Meredith breaks down your “HumanOS”—personality traits, strengths, stress defau"
+    "contentSnippet": "Hey fellow adventurers!\nEvery year on adventofcode.com, you can sharpen your coding skills with some brain-bending programming challenges.\nI did it for the first time last year and while I wasn't able"
   },
   {
-    "title": "How I decide when an app is ready to launch",
-    "link": "https://dev.to/shayy/how-i-decide-when-an-app-is-ready-to-launch-kb3",
-    "pubDate": "Mon, 01 Dec 2025 18:32:27 +0000",
+    "title": "Mastering Remote Planning Poker: A Complete Guide for Distributed Teams",
+    "link": "https://dev.to/deniss_semjonovs_43d2d2f3/mastering-remote-planning-poker-a-complete-guide-for-distributed-teams-1o3c",
+    "pubDate": "Tue, 02 Dec 2025 01:54:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "There's no perfect moment to launch. I've shipped things too early and watched users bounce off broken flows. I've also waited too long, polishing features nobody asked for while the motivation slowly"
+    "contentSnippet": "Planning poker has been a staple of agile estimation for decades. But with the shift to remote work, teams need new strategies to make these sessions effective when participants aren't in the same roo"
   },
   {
-    "title": "Agentic AI for Developers: Building Autonomous AI Systems Instead of Chatbots",
-    "link": "https://dev.to/careerbytecode/agentic-ai-for-developers-building-autonomous-ai-systems-instead-of-chatbots-3kj6",
-    "pubDate": "Mon, 01 Dec 2025 18:31:39 +0000",
+    "title": "Managing Complex State: From Dynamic Depth Charts to Tactical Game Grids",
+    "link": "https://dev.to/ffteamnames/managing-complex-state-from-dynamic-depth-charts-to-tactical-game-grids-1n56",
+    "pubDate": "Tue, 02 Dec 2025 01:48:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For years, developers have used AI as a tool  an API that generates text, code, or images when prompted. But the next stage of AI isn’t about better prompting. It’s about AI that can think, plan, act,"
+    "contentSnippet": "Hey dev.to community,\nWhether we are building data-heavy web applications or interactive games, one challenge remains constant: managing complex state. How we represent, update, and maintain the \"trut"
   },
   {
-    "title": "Week 9: Using Recoil in React!",
-    "link": "https://dev.to/nikhilsharma6/week-9-using-recoil-in-react-2m0j",
-    "pubDate": "Mon, 01 Dec 2025 18:28:41 +0000",
+    "title": "Mastering PowerPoint Lists: A Spire.Presentation for Java Tutorial",
+    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/mastering-powerpoint-lists-a-spirepresentation-for-java-tutorial-1423",
+    "pubDate": "Tue, 02 Dec 2025 01:38:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Back after 2 weeks of vacation!(it was actually a continuous battle with so many evaluations and exams at college). During this time I've been covering State Management with context API and Recoil! Le"
+    "contentSnippet": "Crafting effective presentations hinges on clear communication, and structured lists are indispensable for conveying information succinctly. Whether you're outlining key points, detailing steps, or pr"
   },
   {
-    "title": "🚀 Day 1: Introduction to Apache Spark",
-    "link": "https://dev.to/sandeepk27/day-1-introduction-to-apache-spark-3haa",
-    "pubDate": "Mon, 01 Dec 2025 18:27:43 +0000",
+    "title": "Dubai vs. Abu Dhabi: Which City is Better for New Year's Eve?",
+    "link": "https://dev.to/chenlanlan/dubai-vs-abu-dhabi-which-city-is-better-for-new-years-eve-29k9",
+    "pubDate": "Tue, 02 Dec 2025 01:33:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome to Day 1 of the 60 Day Spark Mastery Series!\nLet’s begin with the fundamentals.\n🌟 What is Apache Spark?\nApache Spark is a lightning-fast distributed computing engine used for processing massi"
+    "contentSnippet": "When it comes to ringing in the New Year in style, Dubai and Abu Dhabi stand out as two of the most sought-after destinations in the UAE. Each city offers a unique flavor of celebration, making it a t"
   },
   {
-    "title": "How to Search Non-Patent Literature for Prior Art",
-    "link": "https://dev.to/patentscanai/how-to-search-non-patent-literature-for-prior-art-4ag8",
-    "pubDate": "Mon, 01 Dec 2025 18:25:56 +0000",
+    "title": "Why We Don't Use Browser Extensions: The Clickjacking Problem",
+    "link": "https://dev.to/sourabh_katti_f87f3875e01/why-we-dont-use-browser-extensions-the-clickjacking-problem-379i",
+    "pubDate": "Tue, 02 Dec 2025 01:33:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today’s innovation-driven world, the difference between a strong patent and a vulnerable one often comes down to the quality of your prior art search. While most people start with patent databases,"
+    "contentSnippet": "At DEF CON 2025, security researchers disclosed a clickjacking vulnerability affecting the browser extensions of 1Password, Bitwarden, and LastPass. The attack allows malicious websites to steal autof"
   },
   {
-    "title": "Monetzly: A Game-Changer for AI Monetization in LLM Apps",
-    "link": "https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-ehf",
-    "pubDate": "Mon, 01 Dec 2025 18:20:46 +0000",
+    "title": "The Shai-Hulud Worm: How 500+ NPM Packages Became Credential-Stealing Malware",
+    "link": "https://dev.to/sourabh_katti_f87f3875e01/the-shai-hulud-worm-how-500-npm-packages-became-credential-stealing-malware-2ad1",
+    "pubDate": "Tue, 02 Dec 2025 01:31:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When Ads Become Helpful Suggestions Instead of Interruptions\n\n\nIn the rapidly evolving landscape of AI-powered applications, developers face a dual challenge: how to monetize their innovations without"
+    "contentSnippet": "In September 2025, security researchers discovered something unprecedented: a self-replicating worm spreading through the NPM package ecosystem, stealing developer credentials and automatically infect"
   },
   {
-    "title": "Simply Order (Part 8) – Querying Orders with Details: GraphQL in Action",
-    "link": "https://dev.to/hassan314159/simply-order-part-8-querying-orders-with-details-graphql-in-action-2nmb",
-    "pubDate": "Mon, 01 Dec 2025 18:20:23 +0000",
+    "title": "From a Single File to a Full Chrome Extension Using Kiro",
+    "link": "https://dev.to/ansellmaximilian/from-a-single-file-to-a-full-chrome-extension-using-kiro-4hld",
+    "pubDate": "Tue, 02 Dec 2025 01:09:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is the eighth article in our series, where we design a simple order solution for a hypothetical company called Simply Order. The company expects high traffic and needs a resilient, scalable, and "
+    "contentSnippet": "Quick Demo\n\n\n\n\n\n\n\n  \n  \n  Introduction\n\n\nThere have been an increasing variety of coding agents recently. Each one getting more integrated and comprehensive than the last. I've been lucky enough to ha"
   },
   {
-    "title": "From “Overqualified” to IT Jr: 6-month update on my career pivot #webdev #career #programming #productivity",
-    "link": "https://dev.to/guadalupe182/from-overqualified-to-it-jr-6-month-update-on-my-career-pivot-webdev-career-programming-3lkk",
-    "pubDate": "Mon, 01 Dec 2025 18:19:19 +0000",
+    "title": "Chip Design Breakthrough: Predicting Performance Before Layout",
+    "link": "https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p",
+    "pubDate": "Tue, 02 Dec 2025 01:02:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A few months ago I wrote about a really uncomfortable experience inside my own company:\n\nI applied internally to grow as a developer and ended up being called “overqualified” and even “unable to code”"
+    "contentSnippet": "Chip Design Breakthrough: Predicting Performance Before Layout\n\n\nTired of lengthy design cycles and performance surprises late in the game? Imagine knowing your chip's power consumption and speed befo"
   },
   {
     "title": "「AWS MCP Server」プレビュー開始。最新のAWS APIからナレッジベースまで包括的にAIからAWSを利用可能に",
@@ -112,11 +112,39 @@
     "contentSnippet": "Windows 95から30年。PCと私たちの生活はどう変わったのか？\nWindows 95が1995年11月23日に発売され、日本中で「インターネット・ブーム」が巻き起こってから30年が経ちました。当時と現在（2025年）のスペック、そして私たちのライフスタイルがどのよ..."
   },
   {
+    "title": "続・易しいアセンブリ",
+    "link": "https://zenn.dev/monicle/articles/7a1edbdac1a13f",
+    "pubDate": "Mon, 01 Dec 2025 04:08:34 GMT",
+    "source": "Zenn",
+    "contentSnippet": "WebAssemblyアドベントカレンダー1日目，兼モニクル Advent Calendar 20251日目の記事になります．\n\n はじめに\n\n Wasm 3.0\nさて，今年の9月にWasm 3.0が発表されました．これは Wasm 2.0以降新たに追加，実装されたWasmの仕様をまとめ，新たにWasm 3.0としてバージョニングしたものです．\nですので，Wasm 3.0が発表されたからといって何"
+  },
+  {
+    "title": "AIでデータ抽出するならBEAM＊を取り入れよう",
+    "link": "https://zenn.dev/gaudiy_blog/articles/03f029c82099cf",
+    "pubDate": "Mon, 01 Dec 2025 02:29:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは。株式会社GaudiyでAnalytics Engineerをしている星野（@mochigenmai）です。\nこの記事は #GauDev Advent Calendar 2025 の1日目の記事です。\nhttps://adventar.org/calendars/11616\n\n昨今、生成AIを用いたデータ抽出（Text-to-SQLやMCPでのセマンティックレイヤーの操作など）の構築にト"
+  },
+  {
     "title": "TanStack Startを試してみたけど、もうNext.jsには戻れない",
     "link": "https://zenn.dev/yt4/articles/tanstack-start-next-js",
     "pubDate": "Mon, 01 Dec 2025 02:23:18 GMT",
     "source": "Zenn",
     "contentSnippet": "英語圏の X で Next.js と TanStack Start を比較する投稿が話題になっていました。\n投稿の冒頭には「TanStack Start を試してみたけど、もう Next.js には戻れない」とあり、投稿主は TanStack Start を強く推奨しているように見えます。\nこの投稿に対し、多くのコメントが寄せられていました。\n興味深い議論だと感じたので、この記事では元の投稿と寄せ"
+  },
+  {
+    "title": "YAMLを数行変えただけでGithub Actionsの料金を70%削減できて実行時間まで減った話",
+    "link": "https://zenn.dev/counterworks/articles/573954dcfa8bb6",
+    "pubDate": "Mon, 01 Dec 2025 02:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n※この記事は「COUNTER WORKS Advent Calendar 2025」の1日目の記事です。\n\n\n 結論: Blacksmithのrunnerを使うといいよ！\n\nサードパーティであるBlacksmith製のrunnerを利用した所、1分あたりの単価が半額になった上に、実行時間も減り、結果コストも約70%削減できました。\n今回の結果は、正確には、Github Actions用yaml"
+  },
+  {
+    "title": "EMになって10年。10年前の自分に伝えたい8つのこと",
+    "link": "https://zenn.dev/openlogi/articles/d43f344f146274",
+    "pubDate": "Sun, 30 Nov 2025 23:17:33 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事はOPENLOGI Advent Calendarの1日目の記事です。\n私はマネジメントの仕事を始めてから、今年でちょうど10年になりました。最初は現場リーダーから始めて、EM、VPoE、執行役員と経験してきました。\nこの10年の間に、リリースが1年半遅れていたプロジェクトの立て直しや、CTOのいない組織の立て直しなど、いくつかの「なかなかハードな現場」を経験してきました。\n当然ですが、全"
   },
   {
     "title": "文系未経験がLinuCレベル1を3か月で取得した話",
@@ -131,6 +159,13 @@
     "pubDate": "2025-11-30T22:07:21.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025の1日目の記事になります。\n本日のテーマは\"kubernetes Deep Dive (etcd + Raft)\"です。私はいつも開発でkubernetes（k8s）を使っています。より深くk..."
+  },
+  {
+    "title": "【現場で使える】Linuxコマンド早見表",
+    "link": "https://qiita.com/takuya_nakanishi24/items/08685a6f50272c548f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:06:35.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n\n現場で実際に使用したLinuxコマンドを、自分用の備忘録も兼ねてまとめました。\n今回は使用頻度の多かった4つのコマンドをご紹介いたします。\nすぐに試せるようシンプルな例も添えています。\n\n使用コマンド\n\n・uname -n\n用途:ホスト名を表示\n書式:una..."
   },
   {
     "title": "ユーザ追加からパスワードポリシー設定までの実施作業",
@@ -161,18 +196,18 @@
     "contentSnippet": "目的\n最近リモートワークが主体になりつつある事でなかなか話をする機会が少なくなっています。仕事をする中で普段話さない人に質問したり話しかけるのって結構ハードル高い人って結構いると思います。なので今回はそのハードルを少しでも下れるような自分なりの雑談力について共有して聞きた..."
   },
   {
+    "title": "ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った",
+    "link": "https://qiita.com/alclimb/items/e303cf655373992f61f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:03:19.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに：エンジニアにとって「最高の目覚まし」とは\n朝、起きることができない。\n大音量のアラームも、光で起こす目覚ましライトも、計算問題を解かないと止まらないアプリも試しました。しかし、慣れてしまえば二度寝は容易です。脳が「これはただのアラームだ」と学習してしまうからです..."
+  },
+  {
     "title": "【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！",
     "link": "https://zenn.dev/tchen/articles/8999302b0953b3",
     "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT",
     "source": "Zenn",
     "contentSnippet": "こんにちは、t-chenです。\n[1]\n突然ですが、オンラインで誰でも利用できるNode.js環境を準備しました。vmモジュールを利用してサンドボックス化したので、安全なはずです。普段遣いしていていろいろな情報が詰まったPCでサーバーを動かしていますが、大丈夫でしょう。\n...\n[2]\nうわ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ハッキングされた〜〜〜〜〜〜〜〜〜〜〜\n\n VMモジュールとは？\n外部から"
-  },
-  {
-    "title": "突如削除されるLINEメッセージ💬にエンジニアリングで対抗してみた",
-    "link": "https://qiita.com/musutafakemaru/items/f5b326db7da0af609542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T21:55:52.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. 設計\n環境：Android(私のスマホがAndroidのため)\n開発環境：Android Studio(Kotlin)\n上述の通り、LINEから通知が来たらログを保管します。\n保管先として「LINE通知ログを保管するDB」をローカルに用意し、1レコードに「送信者」「..."
   },
   {
     "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
@@ -203,46 +238,11 @@
     "contentSnippet": "GitHubは、開発ツールとしてAIが導入されていくことで、プログラミング言語やフレームワークの選択にどのような影響を与えるかを考察したブログ記事「TypeScript, Python, and the AI feedback loop changing software development」（TypeScript、Python、そしてAIフィードバックループがソフトウェア開発を変えていく）を"
   },
   {
-    "title": "Swift 6.2からのConcurrency SafeなNotification",
-    "link": "https://zenn.dev/matsuji/articles/fa7fa7517282e3",
-    "pubDate": "Sun, 30 Nov 2025 15:30:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\niOSやmacOSのアプリケーションの開発をする上でNotificationCenterを使うタイミングは時々あります。\nNotificationCenterはグローバルに通知を飛ばすことができ、OSからのイベントやCore Dataの変更を購読したりできます。\nこのNotificationCenterですが、Objective-C時代のAPIを引きずっていて、現在のSwiftに最適化さ"
-  },
-  {
-    "title": "Cortex AISQLで住所の名寄せをやってみた",
-    "link": "https://zenn.dev/dataheroes/articles/71f5c46419c2f4",
-    "pubDate": "Sun, 30 Nov 2025 15:06:56 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本記事は、Snowflake Advent Calendar 2025 の 1 日目です。\n2025年10月1日に開催した第5回Snowflake中部ユーザー会で発表した内容に加筆再構成したものになります。\nですので、基本的に2025年9月末時点の情報に基づきます（一部最新情報反映あり）。AISQLは日々進化してくはずなので、最新情報は公式ドキュメントでご参照ください。\n!\n第5回Snowflak"
-  },
-  {
-    "title": "AIコーディング実践環境の構築方法【2025年12月】",
-    "link": "https://zenn.dev/mkj/articles/bf59c4c86d98a8",
-    "pubDate": "Sun, 30 Nov 2025 15:00:43 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は、松尾研究所Advent Calendar 2025の記事です。本記事ではAIコーディングを実践するための環境構築方法が分かります。具体的なポイントは以下となります。\n\n2025年12月時点での、Claude Code を中心としたAIコーディング環境の構築手順\nAIコーディングに必要なツールの概要、セットアップ方法、使い方\n仕様駆動開発でソフトウェア開発する流れと具体的な実践方法\n\n!"
-  },
-  {
-    "title": "アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。",
-    "link": "https://zenn.dev/watany/articles/ad14f8a352d62f",
-    "pubDate": "Sun, 30 Nov 2025 15:00:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこれから話すのは地雷の話で、踏むまではそれを知らない人もいるが一発の被弾が致命傷になる話だ。\n誰も話してくれないが、静かに起こっているアウトプットへの変化、そのムードについて書く。\nムードなので定量的な話ではないが、その辺は差し引いて意見の一つとして読んで欲しい。\n\n 「アウトプット最高！」の時代\nQiita、はてブ、Zennなどに書くのが当たり前の時代。書けば書くほど褒められる、という"
-  },
-  {
     "title": "CISSPに合格しました",
     "link": "https://qiita.com/kowaretyatta/items/a8b17843e91829cb8034?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-30T11:41:44.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n2025年11月11日CISSPに合格したので、どんな勉強したのかとかをまとめておきます\n\nモチベーション\n今年の４月に応用情報技術者試験を受け、なんとか合格\n次のステップの、情報処理安全確保支援士に向けてセキュリティ周りの勉強をしていたら\nなんかめっちゃ面白い..."
-  },
-  {
-    "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
-    "link": "https://qiita.com/quniquni/items/1e6bafbc6bfce74afe5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T08:49:28.000Z",
-    "source": "Qiita",
-    "contentSnippet": "React / Next.js に慣れてくると、次に悩むのはだいたい「設計レイヤー」まわりですよね。\n\nコンポーネントが太りやすい\n\nuseEffect が増えてロジックが迷子になる\n状態をどこに置くか毎回迷う\nHooks をどこまで分割すべきか分からない\n\nこのあたりのモ..."
   },
   {
     "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",

@@ -1,73 +1,73 @@
 [
   {
-    "title": "I Drop a Test, 5 Out of 6 SOTA LLMs Drop Their Pants Off",
-    "link": "https://dev.to/ryo_suwito/i-drop-a-test-5-out-of-6-sota-llms-drop-their-pants-off-5fd2",
-    "pubDate": "Wed, 03 Dec 2025 01:48:38 +0000",
+    "title": "Why Most Junior Developers Will Struggle in the AI Era",
+    "link": "https://dev.to/roshaan_tahir/why-most-junior-developers-will-struggle-in-the-ai-era-47fp",
+    "pubDate": "Wed, 03 Dec 2025 06:35:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Is intelligence about following instructions precisely, or about inferring what someone actually wants?\n\n\n\n\n\n\n\n  \n  \n  The Hypothesis\n\n\nbeen researching what makes an entity \"deeply\" intelligent. not "
+    "contentSnippet": "You open your editor, type a question into ChatGPT, and like magic, the answer pops up on your screen. It feels good. It feels fast. It feels… almost too easy. And that’s kind of the problem.\nWe’re in"
   },
   {
-    "title": "Agentic CI with Buildkite: Three practical examples",
-    "link": "https://dev.to/cnunciato/agentic-ci-with-buildkite-three-practical-examples-12bk",
-    "pubDate": "Wed, 03 Dec 2025 01:45:09 +0000",
+    "title": "SafeLine: The Must-Have WAF for SMEs",
+    "link": "https://dev.to/arina_cholee/safeline-the-must-have-waf-for-smes-363k",
+    "pubDate": "Wed, 03 Dec 2025 06:34:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you read our previous post about how AI is reshaping CI, then you're aware of the new building blocks we recently added to the Buildkite platform. We're calling these building blocks our agentic wo"
+    "contentSnippet": "SafeLine is a self-hosted Web Application Firewall (WAF) designed to protect websites and web applications from cyberattacks. Built with small and medium-sized enterprises (SMEs) in mind, SafeLine pro"
   },
   {
-    "title": "Mastering Jenkins: From Pipeline Rookie to DevOps Hero 🎭",
-    "link": "https://dev.to/tavernetech/mastering-jenkins-from-pipeline-rookie-to-devops-hero-3eof",
-    "pubDate": "Wed, 03 Dec 2025 01:43:51 +0000",
+    "title": "CRUD Isn’t a Lifestyle: Stop Turning It Into a Spiritual Journey",
+    "link": "https://dev.to/3m/crud-isnt-a-lifestyle-stop-turning-it-into-a-spiritual-journey-320a",
+    "pubDate": "Wed, 03 Dec 2025 06:32:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nWelcome to the world before proper CI/CD pipelines - a dark place where developers manually deployed code like digital cowboys, hoping their changes wouldn't explode in users' faces.\nEn"
+    "contentSnippet": "Let’s clear something up.\nCRUD is not a religious ritual.\nIt’s four actions:\nAdd a thing\nFetch a thing\nModify a thing\nRemove a thing\nYet somehow developers manage to turn this into an intergalactic ar"
   },
   {
-    "title": "How to Avoid Route 53 $0.50 / Month Charge per Hosting Zone using Free CloudFront Distribution",
-    "link": "https://dev.to/mxro/how-to-avoid-route-53-050-month-charge-per-hosting-zone-using-free-cloudfront-distribution-319k",
-    "pubDate": "Wed, 03 Dec 2025 01:42:11 +0000",
+    "title": "Day 53: Python Count Overlapping Substrings – The Hidden Limitation of str.count() and the Perfect Sliding Window Fix",
+    "link": "https://dev.to/shahrouzlogs/day-53-python-count-overlapping-substrings-the-hidden-limitation-of-strcount-and-the-perfect-3p97",
+    "pubDate": "Wed, 03 Dec 2025 06:31:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AWS Route 53 charges US$0.50 per hosted zone per month.\n\nEven when we otherwise use AWS services sparingly - Route 53 charges a fixed amount\nThis can quickly add up if you have multiple domains – espe"
+    "contentSnippet": "Welcome to Day 53 of the #80DaysOfChallenges journey! This intermediate challenge finally exposes one of Python's most surprising gotchas: str.count() does NOT count overlapping occurrences. Want to c"
   },
   {
-    "title": "I built a waitlist tool with viral mechanics",
-    "link": "https://dev.to/soyzamudio/i-built-a-waitlist-tool-with-viral-mechanics-7o4",
-    "pubDate": "Wed, 03 Dec 2025 01:40:14 +0000",
+    "title": "Next.js + Supabase Project Structure for Indie Development",
+    "link": "https://dev.to/pipipi-dev/nextjs-supabase-project-structure-for-indie-development-36od",
+    "pubDate": "Wed, 03 Dec 2025 06:26:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I built a waitlist tool with viral mechanics (because I was tired of paying $79/mo for basic features)\nBackground: I'm an indie hacker who's launched a few products. Every time I needed a waitlist, th"
+    "contentSnippet": "This is Day 3 of the Building a SaaS Solo - Design, Implementation, and Operations Advent Calendar 2025.\nYesterday's article covered \"Tech Selection for AI-Driven Development.\" Today, I'll explain the"
   },
   {
-    "title": "Advent of Agents - Day 2",
-    "link": "https://dev.to/liberifatali/advent-of-agents-day-2-4mnp",
-    "pubDate": "Wed, 03 Dec 2025 01:35:35 +0000",
+    "title": "The Future of Data Engineering: Automation, AI, and Code-Free Solutions",
+    "link": "https://dev.to/riparna_roychowdhury_0d2/the-future-of-data-engineering-automation-ai-and-code-free-solutions-jbd",
+    "pubDate": "Wed, 03 Dec 2025 06:25:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "4 lines of text = 1 working AI agent.\nNo coding. Just YAML.\nA working AI agent powered by Gemini 3\nGoogle Search integration\n\n\n\n\nuvx --from google-adk adk create --type=config my_agent\nuvx --from goog"
+    "contentSnippet": "Data engineering is evolving rapidly. Automation, artificial intelligence (AI), and low-code/no-code platforms are reshaping how organizations collect, process, and use data. These trends make operati"
   },
   {
-    "title": "Understanding Backend Architecture: A Complete Guide to Request Lifecycle",
-    "link": "https://dev.to/yuktisays/understanding-backend-architecture-a-complete-guide-to-request-lifecycle-55gp",
-    "pubDate": "Wed, 03 Dec 2025 01:34:52 +0000",
+    "title": "Introducing Uatu - An AI-Powered System Troubleshooting",
+    "link": "https://dev.to/mfund0/introducing-uatu-an-ai-powered-system-troubleshooting-5a84",
+    "pubDate": "Wed, 03 Dec 2025 06:21:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When building scalable and maintainable backend applications, proper architecture isn't just a nice-to-have—it's essential. In this article, we'll dive deep into the journey of an HTTP request through"
+    "contentSnippet": "Uatu is an AI agent that troubleshoots your servers using Claude. It connects symptoms across CPU, memory, network, and disk to find root causes.\n\n$ uatu\nYou: why is my server slow?\n\nUatu investigates"
   },
   {
-    "title": "Case Study: Training AI to Deliver Precision Prevention in Natural Healthcare",
-    "link": "https://dev.to/amit_gupta/case-study-training-ai-to-deliver-precision-prevention-in-natural-healthcare-1p5j",
-    "pubDate": "Wed, 03 Dec 2025 01:30:13 +0000",
+    "title": "We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI",
+    "link": "https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1",
+    "pubDate": "Wed, 03 Dec 2025 06:16:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most AI-in-healthcare conversations orbit diagnosis, triage, or billing automation. But the real moonshot is upstream: using AI to help people avoid disease in the first place. This case study explore"
+    "contentSnippet": "Most “free” marketing resources come with invisible strings.\nUpMails started in 2024 as an internal wiki for our micro-agency VectorForge. Every time we cracked a campaign, we documented the exact ste"
   },
   {
-    "title": "Day 1277 : Never Before",
-    "link": "https://dev.to/dwane/day-1277-never-before-9bp",
-    "pubDate": "Wed, 03 Dec 2025 01:29:22 +0000",
+    "title": "LLM Reasoning: Why Models Hallucinate and how to reduce it?",
+    "link": "https://dev.to/zeroshotanu/llm-reasoning-why-models-hallucinate-and-how-to-reduce-it-2joo",
+    "pubDate": "Wed, 03 Dec 2025 06:10:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "liner notes:\nProfessional : Had a pretty good day. I responded to some community questions. Met with some folks about the next steps for a project I've been building a workflow. I got a request for so"
+    "contentSnippet": "Large Language Models (LLMs) have become incredibly powerful at generating fluent, human-like text. But they come with a major flaw:\nIn this post, we’ll understand why hallucinations happen and explor"
   },
   {
-    "title": "Funmilola shoroye",
-    "link": "https://dev.to/shoroye_funmilola_/funmilola-shoroye-364i",
-    "pubDate": "Wed, 03 Dec 2025 01:02:47 +0000",
+    "title": "Integrate Voice AI with Salesforce for Lead Qualification",
+    "link": "https://dev.to/callstacktech/integrate-voice-ai-with-salesforce-for-lead-qualification-66a",
+    "pubDate": "Wed, 03 Dec 2025 06:08:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Check out this Pen I made!"
+    "contentSnippet": "Integrate Voice AI with Salesforce for Lead Qualification\n\n\n\n  \n  \n  TL;DR\n\n\nMost Salesforce voice integrations break when leads hang up mid-qualification—you lose partial data and can't resume. Here'"
   },
   {
     "title": "［速報］AWS、AIがフィードバックから学びつつ自律的に開発を行う「Kiro autonomous agent」発表",
@@ -110,6 +110,27 @@
     "pubDate": "2025-12-02T16:18:26.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Servicesは、.NET FrameworkとSQL Serverの構成によるレガシーなWindowsアプリケーションを、モダンな.NETのとAurora PostgreSQLの構成にコードもデータベースも変換するAIエージェント機能を搭載した「AWS Transform for full-stack Windows modernization」をリリースしました。 AW"
+  },
+  {
+    "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
+    "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
+    "pubDate": "Tue, 02 Dec 2025 15:04:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は、Qiita の TypeScript Advent Calendar 2025 の 2025-12-03 投稿分です。\n\n\n 概要\nTypeScript では、「ユーザー定義型ガード」という種類の関数が書けます。その一例をまず見てみましょう。\n\nguards/is-string.ts\n/**\n * ユーザー定義型ガード。入力値が `string` 型であるときに、真を返す。\n */"
+  },
+  {
+    "title": "HaskellerとRustaceanが知恵をあわせてプロダクトを3日で1000倍高速化した話",
+    "link": "https://zenn.dev/jij_inc/articles/2025-12-03-haskeller-and-rustacean-1000x-faster",
+    "pubDate": "Tue, 02 Dec 2025 15:00:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は Jij Advent Calendar 2025、Rust Advent Calendar 2025 シリーズ1、およびHaskell Advent Calendar 2025の3日目の記事です。\n\n 更新履歴\n\n2025-12-03 00:00 - 初版自動公開\n2025-12-03 08:40 - 軽微な誤字の修正\n\n\n はじめに：Haskeller × Rustacean = ∞"
+  },
+  {
+    "title": "月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。",
+    "link": "https://zenn.dev/dress_code/articles/89a5ceaa6eac37",
+    "pubDate": "Tue, 02 Dec 2025 12:00:30 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Dress Code Advent Calendar 2025、2日目の記事です🎉\n私がgit worktreeを使うに至るまでの話と、worktreeを使う際のおすすめのツールを紹介します。AI系の話はしません。\nよろしくお願いします！\nhttps://adventar.org/calendars/12017\n\n はじめに。\n「タイトル盛りすぎだろw」と思われそうですが、DRESS CODE（"
   },
   {
     "title": "AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した",
@@ -222,27 +243,6 @@
     "pubDate": "2025-12-01T12:21:45.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと高速なプライベート接続を実現する新サービス「AWS Interconnect - multicloud」のプレビュー開始を発表しました。 AWSサービスにより外部クラウドと高速接続 クラウドの普及によって、AWS、Microsoft Azure、Google Cloudなどの"
-  },
-  {
-    "title": "やったらあかんで！ AWSアンチパターン",
-    "link": "https://zenn.dev/isawa/articles/3e9f9aeba89bde",
-    "pubDate": "Mon, 01 Dec 2025 11:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "概要\nどうも、どすこいです！\n先日投稿した 「そのDockerfile、卒業しよう」実務で通用するベストプラクティス が多くの方に読んでいただき、本当にうれしく思っています。\n今回取り上げるテーマは、AWSにおけるアンチパターンです。\n「AWSは触れているけれど、正直ベストプラクティスが分からないまま何となく動かしている」\n「インフラは後から直せばいいと思っていたら、思った以上に深刻な状態になって"
-  },
-  {
-    "title": "AI エージェント開発で失敗しないための 10 のデザインパターン - フレームワークに依存しない設計の共通言語を定義する",
-    "link": "https://zenn.dev/loglass/articles/c7f4499ec8320b",
-    "pubDate": "Mon, 01 Dec 2025 08:56:22 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は 株式会社ログラス Productチーム Advent Calendar 2025 のシリーズ 1、1日目 の記事です。\n\nLoglass VPoT の川村（@k0j1iii）です。\nAI エージェントを作ってみたが、「制御が難しい」「中身がわからない」と感じた経験はないだろうか。LangGraph や AutoGen といったフレームワークの登場により、容易に AI エージェントを"
-  },
-  {
-    "title": "思考を減らしコードに集中するための tmux, Neovim 設定",
-    "link": "https://zenn.dev/layerx/articles/8c29b0367238b8",
-    "pubDate": "Mon, 01 Dec 2025 04:58:55 GMT",
-    "source": "Zenn",
-    "contentSnippet": "LayerX Tech Advent Calendar 2025 記念すべき1日目の記事です。めでたいですね。初日は @frkake さんの「OCR技術の変遷と日本語対応モデルの性能検証」との二本立てです。\nバクラク事業部 スタッフエンジニアの @izumin5210 です。\nPlatform Engineering 部 Enabling チームでいろいろなことをしています。\n最近は AI Age"
   },
   {
     "title": "コードレビューではgtrが便利！",

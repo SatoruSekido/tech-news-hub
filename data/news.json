@@ -1,73 +1,108 @@
 [
   {
-    "title": "Principais eventos de TI no Brasil em 2026: South Summit, Web Summit Rio e Gramado Summit",
-    "link": "https://dev.to/katarina/principais-eventos-de-ti-no-brasil-em-2026-south-summit-web-summit-rio-e-gramado-summit-1m33",
-    "pubDate": "Wed, 03 Dec 2025 12:52:26 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/mikeydorje/-1e5b",
+    "pubDate": "Wed, 03 Dec 2025 18:41:27 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Olá,\n1) South Summit Brazil 2026 (25 a 27 de março de 2026, Cais Mauá, Porto Alegre)\n2) Web Summit Rio 2026 (8 a 11 de junho de 2026, Rio de Janeiro)\n3) Gramado Summit 2026 (06 a 08 de maio, Gramado, "
+    "contentSnippet": "Why Toronto's Symphony Scene is the Mental Health Prescription You Didn't Know You Needed\nAdnan Obuz AI Strategy Consultant | Digital Transformation Expert ・ Dec 2\n#edwardobuz\n        #mentalhealth"
   },
   {
-    "title": "The Role of Excel in Business Intelligence(BI) and Data Driven Decision-Making",
-    "link": "https://dev.to/esther_bekeh_c7b219540e7e/the-role-of-excel-in-business-intelligencebi-and-data-driven-decision-making-56o7",
-    "pubDate": "Wed, 03 Dec 2025 12:47:18 +0000",
+    "title": "How I Finally Forced LLMs to Return Perfect JSON (2025 Edition) — No Hacks, No Regex, Just Clean Output",
+    "link": "https://dev.to/arfatapp/how-i-finally-forced-llms-to-return-perfect-json-2025-edition-no-hacks-no-regex-just-clean-5c5",
+    "pubDate": "Wed, 03 Dec 2025 18:39:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nMicrosoft Excel remains one of the most enduring and significant tools in the world of data analysis. Before the rise of sophisticated analytics platforms and business intelligence soft"
+    "contentSnippet": "If you’ve ever worked with LLMs in real applications — especially with LangChain + TypeScript — you probably know the frustration:\nBroken JSON\nExtra text wrapped around JSON\nRandom “creative” outputs\n"
   },
   {
-    "title": "Mastering Java Lambda Expressions: A Practical Guide for Modern Developers",
-    "link": "https://dev.to/ashish_sharda_a540db2e50e/mastering-java-lambda-expressions-a-practical-guide-for-modern-developers-c77",
-    "pubDate": "Wed, 03 Dec 2025 12:44:12 +0000",
+    "title": "Boost Your Learning with Hidden AI Tools for Students",
+    "link": "https://dev.to/jdkhan/boost-your-learning-with-hidden-ai-tools-for-students-346j",
+    "pubDate": "Wed, 03 Dec 2025 18:39:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Java has evolved dramatically since the days of verbose anonymous classes. With Java 8, the language embraced functional programming through lambda expressions—and today, they're foundational: Streams"
+    "contentSnippet": "Students and lifelong learners — struggling to keep up with lectures, assignments, or research? There’s a set of AI tools for students that can make your workflow smarter and faster.\nTools like Mem.ai"
   },
   {
-    "title": "Gmail Bug Report: How to Deal With Stuck Filter Chips That Won't Delete",
-    "link": "https://dev.to/souvikrs/gmail-bug-report-how-to-deal-with-stuck-filter-chips-that-wont-delete-2mam",
-    "pubDate": "Wed, 03 Dec 2025 12:42:38 +0000",
+    "title": "Embedding Serverless Dashboards in React",
+    "link": "https://dev.to/mdflaher/embedding-serverless-dashboards-in-react-2fn0",
+    "pubDate": "Wed, 03 Dec 2025 18:35:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Gmail Bug Report: Persistent Filter Chips That Won't Delete\n\n\nIf you're a Gmail power user, you may have encountered a frustrating UI bug where filter chips like 'is:starred' and 'is:drafts' appear at"
+    "contentSnippet": "I know how devs building web apps often need to embed dashboards and are looking for ones that are easy to integrate and include interactivity. Something else to consider is low-cost scalability, mean"
   },
   {
-    "title": "How I Made an Electron Window Draggable and Kept Mouse Enter/Leave Detection",
-    "link": "https://dev.to/saidfatah/how-i-made-an-electron-window-draggable-and-kept-mouse-enterleave-detection-1c0h",
-    "pubDate": "Wed, 03 Dec 2025 12:41:33 +0000",
+    "title": "Day 10: Mastering Terraform Expressions - Conditional Logic, Iteration, and Collection",
+    "link": "https://dev.to/andylovecloud/day-10-mastering-terraform-expressions-conditional-logic-iteration-and-collection-4igd",
+    "pubDate": "Wed, 03 Dec 2025 18:35:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "(this article requires you have some good understanding of how electron works) \nSad story: I wanted my app to be fully draggable and still change its height and width on mouse enter and mouse leave. B"
+    "contentSnippet": "This is Day 10, and we are diving deep into Terraform Expressions. Expressions are a fundamental concept, providing powerful, concise syntax that helps avoid rewriting code repeatedly. While similar i"
   },
   {
-    "title": "🌐 Setting Up Your Azure Environment: A Step-by-Step Walkthrough",
-    "link": "https://dev.to/adebayo_ganiyatoladunjoy/setting-up-your-azure-environment-a-step-by-step-walkthrough-43dc",
-    "pubDate": "Wed, 03 Dec 2025 12:39:30 +0000",
+    "title": "No Vibe No Code: Bootstrapping Ideas",
+    "link": "https://dev.to/kirodotdev/no-vibe-no-code-bootstrapping-ideas-o88",
+    "pubDate": "Wed, 03 Dec 2025 18:34:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🔹 Introduction\n\n\nGetting hands-on experience in cloud computing often starts with proper setup — especially when using Azure. Before you deploy virtual machines or manage storage, it’s important to c"
+    "contentSnippet": "1. The Core Problem: Too Many Ideas, Not Enough Finished Things\n\n\nI always have loads of ideas for projects. Often I start them, and most of the time I don't even finish them. My problem isn’t creativ"
   },
   {
-    "title": "FingerGo Typing Trainer (don't hunt, type!)",
-    "link": "https://dev.to/ashbuk/stop-hunting-start-typing-fingergo-typing-trainer-3ogp",
-    "pubDate": "Wed, 03 Dec 2025 12:39:25 +0000",
+    "title": "News Aggregator - AI-Powered Cross-Platform Development",
+    "link": "https://dev.to/varshithvhegde/news-aggregator-ai-powered-cross-platform-development-2l03",
+    "pubDate": "Wed, 03 Dec 2025 18:26:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Still Hunting for Keys on Your Keyboard?\n\n\nReal skill acquisition requires practice. And if you work on a computer, your practice almost always involves typing!\nBelieve me — as someone who switched fr"
+    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps - AI Acceleration\nI built a professional news aggregation application that demonstrates the power of AI-assisted development with Uno "
   },
   {
-    "title": "Speeding Laravel Response Times with Nginx FastCGI Cache",
-    "link": "https://dev.to/devops-make-it-run/speeding-laravel-response-times-with-nginx-fastcgi-cache-2029",
-    "pubDate": "Wed, 03 Dec 2025 12:36:21 +0000",
+    "title": "How to Build an Apollo Style Collaborative CRM with v0 and Velt🔥",
+    "link": "https://dev.to/astrodevil/how-to-build-an-apollo-style-collaborative-crm-with-v0-and-velt-2apk",
+    "pubDate": "Wed, 03 Dec 2025 18:24:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "MDX Content: # Achieving Fast Response Times with Laravel and Nginx\nAchieving very fast response times with a Laravel app behind Nginx is mostly about avoiding bootstrapping PHP/Laravel on every reque"
+    "contentSnippet": "Sales teams waste hours every day jumping between Slack, email, and their CRM just to figure out what happened with a deal. Who talked to the client last? What did they say? The context is scattered e"
   },
   {
-    "title": "Beyond Simple Forwarding – Practical Content Safety in AI Gateways",
-    "link": "https://dev.to/spacewander/beyond-simple-forwarding-practical-content-safety-in-ai-gateways-545a",
-    "pubDate": "Wed, 03 Dec 2025 12:21:25 +0000",
+    "title": "Build an AI Email Agent in 20 Minutes: A Complete Guide",
+    "link": "https://dev.to/heyarviind/build-an-ai-email-agent-in-20-minutes-a-complete-guide-33ka",
+    "pubDate": "Wed, 03 Dec 2025 18:23:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "(This article only discusses content safety for text generation, not multimodal.)\nConnecting AI inputs/outputs to a content‑safety filtering system is almost a must‑have feature for any AI gateway. Fo"
+    "contentSnippet": "Have you ever wished your support team could handle 90% of customer emails automatically? Or that you could respond to common questions in seconds instead of hours?\nToday, I'm showing you how to build"
   },
   {
-    "title": "OTP email verification and password reset",
-    "link": "https://dev.to/prudkohliad/otp-email-verification-and-password-reset-20pi",
-    "pubDate": "Wed, 03 Dec 2025 12:19:54 +0000",
+    "title": "Terraform Basics – Week 5: Exposing Infrastructure Data with Outputs",
+    "link": "https://dev.to/ozanguner/terraform-basics-week-5-exposing-infrastructure-data-with-outputs-5h6n",
+    "pubDate": "Wed, 03 Dec 2025 18:17:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I recently tried to implement a secure OTP-based email verification and password reset flow - only to realize how little concrete, end-to-end guidance is out there. Most write-ups simply skip the grit"
+    "contentSnippet": "Table of Contents\n1. Recap of Week 4\n2. What Are Output Values in Terraform ?\n3. Why Are They Useful and Where Do I Use Them ?\n4. Adding Outputs to Our Configuration\n5. Common Output Pitfalls and Tips"
+  },
+  {
+    "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",
+    "link": "https://www.publickey1.jp/blog/25/anthropicjavascriptbunclaude_code.html",
+    "pubDate": "2025-12-03T16:06:41.000Z",
+    "source": "Publickey",
+    "contentSnippet": "AIエージェントによるコーディングアシスタントを提供する「Claude Code」などを提供するAntrhopicは、JavaScriptランタイム「Bun」の買収を発表しました。 Bun is joining Anthropic!https://t.co/06NlXDZhNE— Bun (@bunjavascript) December 2, 2025  AnthropicはOpenAIやGoo"
+  },
+  {
+    "title": "AWS、マネージドデータベースを最大35％安く使える「Database Savings Plans for AWS Databases」発表",
+    "link": "https://www.publickey1.jp/blog/25/aws35database_savings_plans_for_aws_databases.html",
+    "pubDate": "2025-12-03T16:04:47.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社のマネージドデータベースサービスの価格を最大で35％安くできる「Database Savings Plans for AWS Databases」を発表しました。 Database Savings Plans for AWS DatabasesはAWSの"
+  },
+  {
+    "title": "Amazon S3が大幅強化、保存できるオブジェクトサイズが最大の50TBに拡大、バッチ処理速度は10倍速に",
+    "link": "https://www.publickey1.jp/blog/25/amazon_s350tb10.html",
+    "pubDate": "2025-12-03T16:02:48.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Amazon S3の最大容量と処理性能の大幅強化を発表しました。 Amazon S3はクラウドサービスの基盤となるオブジェクトストレージです。これまで、1オブジェクト当たりの最大容量は5TBが上限でしたが、今回これが50TBにまで拡大されました。 これにより"
+  },
+  {
+    "title": "AWS、独自のAI処理専用プロセッサ「AWS Trainium4」を発表。現行のTrainium3の6倍の性能、4倍のメモリ帯域幅を目指す",
+    "link": "https://www.publickey1.jp/blog/25/awsaiaws_trainium4trainium364.html",
+    "pubDate": "2025-12-03T16:01:04.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社が独自開発しているAI処理専用プロセッサ「AWS Trainium4」を発表しました。 2020年に最初のTrainiumを発表 AWSは2020年12月のAWS re:Invent 2020で、従来のプロセッサやGPUよりも高速で安価なAIのトレーニン"
+  },
+  {
+    "title": "AWS、Apple M3 Ultra/M4 Maxチップに対応したMacインスタンス発表",
+    "link": "https://www.publickey1.jp/blog/25/awsapple_m3_ultram4_maxmac.html",
+    "pubDate": "2025-12-03T15:58:42.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
   },
   {
     "title": "パッケージマネージャーで Runtime のバージョンを管理する",
@@ -140,13 +175,6 @@
     "contentSnippet": "Amazon Web Servicesは、サーバレス基盤「AWS Lambda」の新機能として、コンテナではなくEC2インスタンスでサーバレスアプリケーションを構築できる「AWS Lambda Managed Instances」をリリースしました。 AWS Lambdaは、あらかじめ関数として記述したコードをコンテナとして瞬時に起動し、アプリケーションとして提供するサーバレスコンピューティング基"
   },
   {
-    "title": "AWS、AIエージェントでレガシーなWindowsアプリをコードもDBもモダンな「.NET＋Aurora PostgreSQL」に自動変換。AWS Transformリリース",
-    "link": "https://www.publickey1.jp/blog/25/awsaiwindowsdbnetaurora_postgresqlaws_transform.html",
-    "pubDate": "2025-12-02T16:18:26.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Servicesは、.NET FrameworkとSQL Serverの構成によるレガシーなWindowsアプリケーションを、モダンな.NETのとAurora PostgreSQLの構成にコードもデータベースも変換するAIエージェント機能を搭載した「AWS Transform for full-stack Windows modernization」をリリースしました。 AW"
-  },
-  {
     "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
     "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
     "pubDate": "Tue, 02 Dec 2025 15:04:07 GMT",
@@ -217,32 +245,11 @@
     "contentSnippet": "これは私が決済系のシステム開発に携わっていた時の話\n個人や企業が特定されるような情報は伏せますが、数年前炎上の末にできあがった1つのシステムがありました。\nそれはそれはものすごいコードだったのです。\n\nどんなコードだったのか\nこのシステムは画面で値を入力し、次々と画面を遷..."
   },
   {
-    "title": "「AWS MCP Server」プレビュー開始。最新のAWS APIからナレッジベースまで包括的にAIからAWSを利用可能に",
-    "link": "https://www.publickey1.jp/blog/25/aws_mcp_serveraws_apiaiaws.html",
-    "pubDate": "2025-12-01T16:31:04.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Servicesは、AIを用いてAWSを利用するための新サービス「AWS MCP Server」のプレビュー提供を発表しました。 MCPとは一般に、生成AIやAIエージェントが外部のツールを呼び出して情報を取得したり操作したりする際に使われるプロトコルです。生成AIやAIエージェントがMCPクライアントとなり、情報提供や操作の対象となる側がMCPサーバとなります。 AWSはす"
-  },
-  {
-    "title": "AWS、コンテナアプリケーションのインフラ周りを自動設定してくれる「Amazon ECS Express Mode」提供開始",
-    "link": "https://www.publickey1.jp/blog/25/awsamazon_ecs_express_mode.html",
-    "pubDate": "2025-12-01T15:50:55.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、コンテナ化されたアプリケーションのデプロイやスケーリング、運用管理などを提供するフルマネージドサービス「Amazon ECS」（Amazon Elastic Container Service）の新機能として、複雑な設定を自動化することで迅速なデプロイを可能にする「Amazon ECS Express Mode」の提供を発表しました。 本来、コン"
-  },
-  {
     "title": "Kubernetesはなぜ難しいのか？",
     "link": "https://qiita.com/K5K/items/dcfb0f90277e07e487b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-01T13:08:37.000Z",
     "source": "Qiita",
     "contentSnippet": "この記事は人間が真心を込めて作成しました。\n安心してオーガニックな記事をお楽しみください。\n\nとうとう12月になってしまいました！\n毎年この時期は「やばい！今年何もできていない！」と焦っているような気がします。\nところでみなさん、Kubernetes使っていますか？\n..."
-  },
-  {
-    "title": "AWSがGoogle Cloudとの高速接続を発表、来年にはAzureとも接続。「AWS Interconnect」プレビュー開始",
-    "link": "https://www.publickey1.jp/blog/25/awsgoogle_cloudazureaws_interconnect.html",
-    "pubDate": "2025-12-01T12:21:45.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと高速なプライベート接続を実現する新サービス「AWS Interconnect - multicloud」のプレビュー開始を発表しました。 AWSサービスにより外部クラウドと高速接続 クラウドの普及によって、AWS、Microsoft Azure、Google Cloudなどの"
   },
   {
     "title": "コードレビューではgtrが便利！",
@@ -271,12 +278,5 @@
     "pubDate": "2025-11-30T22:03:19.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに：エンジニアにとって「最高の目覚まし」とは\n朝、起きることができない。\n大音量のアラームも、光で起こす目覚ましライトも、計算問題を解かないと止まらないアプリも試しました。しかし、慣れてしまえば二度寝は容易です。脳が「これはただのアラームだ」と学習してしまうからです..."
-  },
-  {
-    "title": "SwiftコードをAndroidネイティブにコンパイルできる「Skip Fuse」が個人開発者などに無料提供へ",
-    "link": "https://www.publickey1.jp/blog/25/swiftandroidskip_fuse.html",
-    "pubDate": "2025-11-30T15:42:59.000Z",
-    "source": "Publickey",
-    "contentSnippet": "SwiftコードでiOSアプリとAndroidアプリを開発できるツール「Skip」を提供しているGlimpse I/Oは、SwiftコードをAndroidネイティブなバイナリにコンパイルできる「Skip Fuse」を、個人など小規模開発者向けに無料提供することを明らかにしました。 一般に、iOSのアプリケーション開発にはSwift言語が、Androidのアプリ開発にはKotlin言語が用いられます"
   }
 ]

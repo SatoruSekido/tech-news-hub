@@ -1,73 +1,101 @@
 [
   {
-    "title": "CHW Monthly Activity Aggregation: Turning Visit Logs into Insight",
-    "link": "https://dev.to/oliver_samuel_028c6f65ad6/chw-monthly-activity-aggregation-turning-visit-logs-into-insight-4jm5",
-    "pubDate": "Tue, 02 Dec 2025 18:33:21 +0000",
+    "title": "I Drop a Test, 5 Out of 6 SOTA LLMs Drop Their Pants Off",
+    "link": "https://dev.to/ryo_suwito/i-drop-a-test-5-out-of-6-sota-llms-drop-their-pants-off-5fd2",
+    "pubDate": "Wed, 03 Dec 2025 01:48:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Community Health Workers (CHWs) generate a huge amount of visit-level data: every household visit, assessment, and follow-up. On its own, this raw data is hard to use. Our CHW Monthly Activity Aggrega"
+    "contentSnippet": "Is intelligence about following instructions precisely, or about inferring what someone actually wants?\n\n\n\n\n\n\n\n  \n  \n  The Hypothesis\n\n\nbeen researching what makes an entity \"deeply\" intelligent. not "
   },
   {
-    "title": "Building My First RAG System in One Week with Kiro IDE 🎃",
-    "link": "https://dev.to/syed_shahnizam_4d470b6e21/building-my-first-rag-system-in-one-week-with-kiro-ide-19ee",
-    "pubDate": "Tue, 02 Dec 2025 18:26:05 +0000",
+    "title": "Agentic CI with Buildkite: Three practical examples",
+    "link": "https://dev.to/cnunciato/agentic-ci-with-buildkite-three-practical-examples-12bk",
+    "pubDate": "Wed, 03 Dec 2025 01:45:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Submitted for Kiroween Hackathon 2024 - Skeleton Crew Category\nAs a junior apps developer, I'd never built a RAG (Retrieval Augmented Generation) system before. The concept seemed intimidating: vector"
+    "contentSnippet": "If you read our previous post about how AI is reshaping CI, then you're aware of the new building blocks we recently added to the Buildkite platform. We're calling these building blocks our agentic wo"
   },
   {
-    "title": "Your First Mini Terraform Project: Install, Configure, and Deploy on AWS",
-    "link": "https://dev.to/krisha_arya_55/your-first-mini-terraform-project-install-configure-and-deploy-on-aws-10j2",
-    "pubDate": "Tue, 02 Dec 2025 18:20:05 +0000",
+    "title": "Mastering Jenkins: From Pipeline Rookie to DevOps Hero 🎭",
+    "link": "https://dev.to/tavernetech/mastering-jenkins-from-pipeline-rookie-to-devops-hero-3eof",
+    "pubDate": "Wed, 03 Dec 2025 01:43:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🌟 What is Terraform?\nTerraform by HashiCorp is an Infrastructure as Code (IaC) tool used to:\n✔ Provision AWS / Azure / GCP resources\nIt uses its own DSL called HCL (HashiCorp Configuration Language)."
+    "contentSnippet": "Introduction\n\n\nWelcome to the world before proper CI/CD pipelines - a dark place where developers manually deployed code like digital cowboys, hoping their changes wouldn't explode in users' faces.\nEn"
   },
   {
-    "title": "->> Day-08 AWS Terraform Meta Arguments | count, depends_on, for_each",
-    "link": "https://dev.to/amit_kumar_7db8e36a64dd45/-day-08-aws-terraform-meta-arguments-count-dependson-foreach-2im0",
-    "pubDate": "Tue, 02 Dec 2025 18:12:35 +0000",
+    "title": "How to Avoid Route 53 $0.50 / Month Charge per Hosting Zone using Free CloudFront Distribution",
+    "link": "https://dev.to/mxro/how-to-avoid-route-53-050-month-charge-per-hosting-zone-using-free-cloudfront-distribution-319k",
+    "pubDate": "Wed, 03 Dec 2025 01:42:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Terraform gets much easier to use once you understand its meta arguments. These arguments help you decide how many resources to create, how they should be linked, and how Terraform keeps track of them"
+    "contentSnippet": "AWS Route 53 charges US$0.50 per hosted zone per month.\n\nEven when we otherwise use AWS services sparingly - Route 53 charges a fixed amount\nThis can quickly add up if you have multiple domains – espe"
   },
   {
-    "title": "8 Technical SEO Processes Every Developer Should Own in Modern SaaS Teams",
-    "link": "https://dev.to/liamtakahiro/8-technical-seo-processes-every-developer-should-own-in-modern-saas-teams-1i9k",
-    "pubDate": "Tue, 02 Dec 2025 18:10:55 +0000",
+    "title": "I built a waitlist tool with viral mechanics",
+    "link": "https://dev.to/soyzamudio/i-built-a-waitlist-tool-with-viral-mechanics-7o4",
+    "pubDate": "Wed, 03 Dec 2025 01:40:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Technical SEO is no longer just a marketing concern. In modern SaaS organizations, developers play a critical role in building scalable, discoverable, and high-performance websites. When dev teams col"
+    "contentSnippet": "I built a waitlist tool with viral mechanics (because I was tired of paying $79/mo for basic features)\nBackground: I'm an indie hacker who's launched a few products. Every time I needed a waitlist, th"
   },
   {
-    "title": "Easy Steps to Generate a Config Module in NestJS",
-    "link": "https://dev.to/rubenoalvarado/easy-steps-to-generate-a-config-module-in-nestjs-246n",
-    "pubDate": "Tue, 02 Dec 2025 18:09:23 +0000",
+    "title": "Advent of Agents - Day 2",
+    "link": "https://dev.to/liberifatali/advent-of-agents-day-2-4mnp",
+    "pubDate": "Wed, 03 Dec 2025 01:35:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I started with NestJS, I didn't understand modules, interceptors, guards, and other advanced techniques the framework offers. As a result, I built insecure applications with poor practices. Over "
+    "contentSnippet": "4 lines of text = 1 working AI agent.\nNo coding. Just YAML.\nA working AI agent powered by Gemini 3\nGoogle Search integration\n\n\n\n\nuvx --from google-adk adk create --type=config my_agent\nuvx --from goog"
   },
   {
-    "title": "What Burnout Taught Me About My Post-Hollywood Phone Problem",
-    "link": "https://dev.to/michael_esola_2b72a138c22/what-burnout-taught-me-about-my-post-hollywood-phone-problem-3mg7",
-    "pubDate": "Tue, 02 Dec 2025 18:03:45 +0000",
+    "title": "Understanding Backend Architecture: A Complete Guide to Request Lifecycle",
+    "link": "https://dev.to/yuktisays/understanding-backend-architecture-a-complete-guide-to-request-lifecycle-55gp",
+    "pubDate": "Wed, 03 Dec 2025 01:34:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When I was a motion picture literary agent in Beverly Hills, I averaged two hundred calls or more a day. My assistant fielded each one, booked meetings, and was the traffic controller keeping the plan"
+    "contentSnippet": "When building scalable and maintainable backend applications, proper architecture isn't just a nice-to-have—it's essential. In this article, we'll dive deep into the journey of an HTTP request through"
   },
   {
-    "title": "Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday",
-    "link": "https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb",
-    "pubDate": "Tue, 02 Dec 2025 18:00:39 +0000",
+    "title": "Case Study: Training AI to Deliver Precision Prevention in Natural Healthcare",
+    "link": "https://dev.to/amit_gupta/case-study-training-ai-to-deliver-precision-prevention-in-natural-healthcare-1p5j",
+    "pubDate": "Wed, 03 Dec 2025 01:30:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Self-healing systems are basically computer systems that can fix themselves automatically when something goes wrong. \nInstead of waiting for a human to notice a problem and manually fix it (\"reactive "
+    "contentSnippet": "Most AI-in-healthcare conversations orbit diagnosis, triage, or billing automation. But the real moonshot is upstream: using AI to help people avoid disease in the first place. This case study explore"
   },
   {
-    "title": "If It’s Hard to Read, It’s Hard to Build",
-    "link": "https://dev.to/lovestaco/if-its-hard-to-read-its-hard-to-build-19eg",
-    "pubDate": "Tue, 02 Dec 2025 18:00:21 +0000",
+    "title": "Day 1277 : Never Before",
+    "link": "https://dev.to/dwane/day-1277-never-before-9bp",
+    "pubDate": "Wed, 03 Dec 2025 01:29:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello, I'm Maneshwar. I'm working on FreeDevTools online currently building **one place for all dev tools, cheat codes, and TLDRs* — a free, open-source hub where developers can quickly find and use t"
+    "contentSnippet": "liner notes:\nProfessional : Had a pretty good day. I responded to some community questions. Met with some folks about the next steps for a project I've been building a workflow. I got a request for so"
   },
   {
-    "title": "New to Dev to community",
-    "link": "https://dev.to/jagtar_singh_11d201bd24a6/new-to-dev-to-community-206g",
-    "pubDate": "Tue, 02 Dec 2025 17:59:20 +0000",
+    "title": "Funmilola shoroye",
+    "link": "https://dev.to/shoroye_funmilola_/funmilola-shoroye-364i",
+    "pubDate": "Wed, 03 Dec 2025 01:02:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey Everyone\nI used to do coding from 2013-2018 after that explore the new opportunities started my start ups but got failed and I am againg starting programmer Journey.\nThe tech stack which I have ch"
+    "contentSnippet": "Check out this Pen I made!"
+  },
+  {
+    "title": "［速報］AWS、AIがフィードバックから学びつつ自律的に開発を行う「Kiro autonomous agent」発表",
+    "link": "https://www.publickey1.jp/blog/25/awsaikiro_autonomous_agent.html",
+    "pubDate": "2025-12-02T18:53:19.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、まるでチームメンバーのように自律的に開発を行うAIエージェント「Kiro autonomous agent」を発表しました。 Kiroは仕様駆動開発を特長とするAIコードエディタとして今年（2025年）7月にAWSからリリースされました。Kiro auton"
+  },
+  {
+    "title": "［速報］AWS、障害が発生すると人間より先にAIが調査分析、対処法まで報告「AWS DevOps Agent」プレビュー公開",
+    "link": "https://www.publickey1.jp/blog/25/awsaiaws_devops_agent.html",
+    "pubDate": "2025-12-02T18:48:57.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、障害に対して自動的に対応するAIエージェント「AWS DevOps Agent」のプレビュー公開を発表しました。 AWS DevOps Agentは人間が起動するのではなく、オンにしておくことで継続的にアラートを監視し、何らかのインシデントの発生を検知すると"
+  },
+  {
+    "title": "［速報］AWS、基盤モデルをユーザーが独自データで学習させてカスタマイズできる「Nova Forge」発表",
+    "link": "https://www.publickey1.jp/blog/25/awsnova_forge.html",
+    "pubDate": "2025-12-02T18:46:53.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社独自の基盤モデル「Amazon Nova 2」に対してユーザーが独自データを用いて学習させることでカスタマイズした基盤モデルを作成できる新サービス「Nova Forge」を発表しました。 Nova Forgeは、Amazon Nova 2の基盤モデルの学"
+  },
+  {
+    "title": "［速報］AWS、独自の基盤モデル「Amazon Nova 2」発表。マルチモーダルなNova 2 Omniも登場",
+    "link": "https://www.publickey1.jp/blog/25/awsamazon_nova_2nova_2_omni.html",
+    "pubDate": "2025-12-02T18:45:21.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社独自の基盤モデル「Amazon Nova 2」を発表しました。 Amazon Nova 2は段階的な推論とタスク分解により従来よりも拡張された思考をサポートし、低・中・高の3つの思考強度レベルを備えることで開発者が速度、知能、コストのバランスをコントロー"
   },
   {
     "title": "AWS、コンテナではなくEC2インスタンスでサーバレスを構築できる「AWS Lambda Managed Instances」リリース",
@@ -82,6 +110,27 @@
     "pubDate": "2025-12-02T16:18:26.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Servicesは、.NET FrameworkとSQL Serverの構成によるレガシーなWindowsアプリケーションを、モダンな.NETのとAurora PostgreSQLの構成にコードもデータベースも変換するAIエージェント機能を搭載した「AWS Transform for full-stack Windows modernization」をリリースしました。 AW"
+  },
+  {
+    "title": "AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した",
+    "link": "https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1",
+    "pubDate": "Tue, 02 Dec 2025 04:57:52 GMT",
+    "source": "Zenn",
+    "contentSnippet": "AgentのToolを公開されているMCPから自作に変更したら、Token使用料が9割削減できた話を書きます。\n\n 背景\n現在ko☆shi（こーし）という引き継ぎを自動化するAgentを社内プロダクトとして開発しています。\n\nこのAgentはGitHub、Asana、Slackをデータソースとして使用しており、Strands AgentsのMCP機能を使用して、各サービスの情報を取得しています。ユ"
+  },
+  {
+    "title": "目にやさしい仕様駆動開発「spec-workflow-mcp」がもたらすブルーベリー効果",
+    "link": "https://zenn.dev/layerx/articles/60b46a2e9ac94e",
+    "pubDate": "Tue, 02 Dec 2025 02:20:30 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は、LayerX Tech Advent Calendar 2025 の 2日目の記事です。\nhttps://tech.layerx.co.jp/entry/tech-advent-calendar-2025\n初日は @frkake さんの「OCR技術の変遷と日本語対応モデルの性能検証」と、@izumin5210 さんの「思考を減らしコードに集中するための tmux, Neovim 設定」"
+  },
+  {
+    "title": "Prompt Cachingを完全に理解してLLMコストを爆裂に下げる",
+    "link": "https://zenn.dev/ubie_dev/articles/ade17afebabaa9",
+    "pubDate": "Tue, 02 Dec 2025 02:10:50 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は Ubie Tech Advent Calendar 2025 の1日目の記事です。\n\nUbieのモバイルアプリ(iOS/Android)では、身体の悩みを相談できる医療AIエージェントを提供しています。toCでLLMプロダクトを提供する上では、コスト最適化が重要な課題となります。\nこの記事では、その中核となる技術のひとつであるPrompt Cachingのプラクティスを紹介します。"
   },
   {
     "title": "爆速CLI入門 ~最初に知りたかったTips~",
@@ -103,6 +152,20 @@
     "pubDate": "2025-12-01T22:08:12.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめまして、11月中旬にシステムアイに入社いたしました。佐藤です✌️\n私のキャリアは製造業での機械設計者として始まり、その後紆余曲折ありフリーランスエンジニアを経て今回初めて「バリバリのIT企業」で働くことになりました。\n入社してからの半月間、これまでの労働人生では想像..."
+  },
+  {
+    "title": "【初心者向け】AZ-900（Azure Fundamentals）を勉強してみたまとめ",
+    "link": "https://qiita.com/Show_k07/items/4a2ce76f99de3714d3a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:07:07.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは！\n最近クラウドに興味を持ち始め、Microsoft Azure の基礎資格 AZ-900に挑戦しています。\nこの記事では、「これからクラウドを学びたい」「AZ-900に興味があるけど難しそう…」という方向けに、初心者目線で学んだことをまとめていきます。\n\n0. ..."
+  },
+  {
+    "title": "現場で学んだ、viの基礎便利ワザと謎の落とし穴",
+    "link": "https://qiita.com/w-m/items/8fdd1bb24726194e721b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:05:51.000Z",
+    "source": "Qiita",
+    "contentSnippet": "学生の頃にちょっとだけLinuxを触ってたので、vi もなんとなく使える気でいたんですが、\n現場でで使い始めると「あれ？どうするんだこれ？」と戸惑うことだらけでした。\n同じように「実はviあんまりわかってない」って状態の人の参考になれば嬉しいです。\n\n🔒 編集したくないと..."
   },
   {
     "title": "スパゲティプログラムに3行追加したら決済ができなくなった話",
@@ -140,18 +203,18 @@
     "contentSnippet": "こんにちは、松尾研究所 データサイエンティストの浮田です。この記事は、松尾研究所Advent Calendar 2025の記事です。\nRAG (Retrieval-Augmented Generation) と聞くと、「ベクトルDBを構築する」という話に意識が向きがちです。もちろんベクトルDBはRAGの基盤になる重要な要素ですが、実際に使われるRAGプロダクトを作ろうとすると、ベクトルDB構築以外"
   },
   {
-    "title": "改めて Active Directory のセキュリティ対策を考えよう",
-    "link": "https://zenn.dev/microsoft/articles/active-directory-security-advent-calendar-2025-1",
-    "pubDate": "Mon, 01 Dec 2025 14:59:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに / アドベント カレンダーの企画趣旨\n2025 年も残り一ヶ月となりました。今年も様々なセキュリティ インシデントが話題にのぼりましたが、引き続き Active Directory (以下 AD) を狙った攻撃も数多く発生しているという話を各所で耳にしています。\nまた、昨今の大規模インシデントで世の中のセキュリティ意識が高まっている影響もあってか、先日 X で何気なくつぶやいた以下のポス"
-  },
-  {
     "title": "Kawaiiパワーで完全に理解！しっかりやり切るOAuthとOIDC入門 (執筆中)",
     "link": "https://zenn.dev/calloc134/books/sikkari-oauth-oidc",
     "pubDate": "Mon, 01 Dec 2025 14:45:10 GMT",
     "source": "Zenn",
     "contentSnippet": "OAuthとOIDCの基礎から実践までを丁寧に解説。セキュリティの基本概念、認可フロー、トークンの仕組み、実装例など。Kawaiiイラスト満載で楽しく学びましょう！現在OAuthまで執筆。"
+  },
+  {
+    "title": "Kubernetesはなぜ難しいのか？",
+    "link": "https://qiita.com/K5K/items/dcfb0f90277e07e487b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T13:08:37.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事は人間が真心を込めて作成しました。\n安心してオーガニックな記事をお楽しみください。\n\nとうとう12月になってしまいました！\n毎年この時期は「やばい！今年何もできていない！」と焦っているような気がします。\nところでみなさん、Kubernetes使っていますか？\n..."
   },
   {
     "title": "AWSがGoogle Cloudとの高速接続を発表、来年にはAzureとも接続。「AWS Interconnect」プレビュー開始",
@@ -168,6 +231,13 @@
     "contentSnippet": "概要\nどうも、どすこいです！\n先日投稿した 「そのDockerfile、卒業しよう」実務で通用するベストプラクティス が多くの方に読んでいただき、本当にうれしく思っています。\n今回取り上げるテーマは、AWSにおけるアンチパターンです。\n「AWSは触れているけれど、正直ベストプラクティスが分からないまま何となく動かしている」\n「インフラは後から直せばいいと思っていたら、思った以上に深刻な状態になって"
   },
   {
+    "title": "AI エージェント開発で失敗しないための 10 のデザインパターン - フレームワークに依存しない設計の共通言語を定義する",
+    "link": "https://zenn.dev/loglass/articles/c7f4499ec8320b",
+    "pubDate": "Mon, 01 Dec 2025 08:56:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は 株式会社ログラス Productチーム Advent Calendar 2025 のシリーズ 1、1日目 の記事です。\n\nLoglass VPoT の川村（@k0j1iii）です。\nAI エージェントを作ってみたが、「制御が難しい」「中身がわからない」と感じた経験はないだろうか。LangGraph や AutoGen といったフレームワークの登場により、容易に AI エージェントを"
+  },
+  {
     "title": "思考を減らしコードに集中するための tmux, Neovim 設定",
     "link": "https://zenn.dev/layerx/articles/8c29b0367238b8",
     "pubDate": "Mon, 01 Dec 2025 04:58:55 GMT",
@@ -175,46 +245,11 @@
     "contentSnippet": "LayerX Tech Advent Calendar 2025 記念すべき1日目の記事です。めでたいですね。初日は @frkake さんの「OCR技術の変遷と日本語対応モデルの性能検証」との二本立てです。\nバクラク事業部 スタッフエンジニアの @izumin5210 です。\nPlatform Engineering 部 Enabling チームでいろいろなことをしています。\n最近は AI Age"
   },
   {
-    "title": "Windows 95から30年。PCと私たちの生活はどう変わったのか？",
-    "link": "https://qiita.com/sapi_kawahara/items/92e16d42131c94c54cbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-01T04:43:29.000Z",
-    "source": "Qiita",
-    "contentSnippet": "Windows 95から30年。PCと私たちの生活はどう変わったのか？\nWindows 95が1995年11月23日に発売され、日本中で「インターネット・ブーム」が巻き起こってから30年が経ちました。当時と現在（2025年）のスペック、そして私たちのライフスタイルがどのよ..."
-  },
-  {
-    "title": "続・易しいアセンブリ",
-    "link": "https://zenn.dev/monicle/articles/7a1edbdac1a13f",
-    "pubDate": "Mon, 01 Dec 2025 04:08:34 GMT",
-    "source": "Zenn",
-    "contentSnippet": "WebAssemblyアドベントカレンダー1日目，兼モニクル Advent Calendar 20251日目の記事になります．\n\n はじめに\n\n Wasm 3.0\nさて，今年の9月にWasm 3.0が発表されました．これは Wasm 2.0以降新たに追加，実装されたWasmの仕様をまとめ，新たにWasm 3.0としてバージョニングしたものです．\nですので，Wasm 3.0が発表されたからといって何"
-  },
-  {
-    "title": "TanStack Startを試してみたけど、もうNext.jsには戻れない",
-    "link": "https://zenn.dev/yt4/articles/tanstack-start-next-js",
-    "pubDate": "Mon, 01 Dec 2025 02:23:18 GMT",
-    "source": "Zenn",
-    "contentSnippet": "英語圏の X で Next.js と TanStack Start を比較する投稿が話題になっていました。\n投稿の冒頭には「TanStack Start を試してみたけど、もう Next.js には戻れない」とあり、投稿主は TanStack Start を強く推奨しているように見えます。\nこの投稿に対し、多くのコメントが寄せられていました。\n興味深い議論だと感じたので、この記事では元の投稿と寄せ"
-  },
-  {
-    "title": "YAMLを数行変えただけでGithub Actionsの料金を70%削減できて実行時間まで減った話",
-    "link": "https://zenn.dev/counterworks/articles/573954dcfa8bb6",
-    "pubDate": "Mon, 01 Dec 2025 02:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n※この記事は「COUNTER WORKS Advent Calendar 2025」の1日目の記事です。\n\n\n 結論: Blacksmithのrunnerを使うといいよ！\n\nサードパーティであるBlacksmith製のrunnerを利用した所、1分あたりの単価が半額になった上に、実行時間も減り、結果コストも約70%削減できました。\n今回の結果は、正確には、Github Actions用yaml"
-  },
-  {
     "title": "コードレビューではgtrが便利！",
     "link": "https://qiita.com/Nozomuts/items/0f16c7de2a85a7aad6c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-01T01:20:10.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nGitHubのアップデートは頻繁に行われていて、GitHub上でのコードレビューもしやすくなってきてますね！\nただ、やっぱり手元のエディタで動かしながら確認したいことってありますよね\nでも、そのために現在の作業を stash したり、ブランチを切り替えて npm..."
-  },
-  {
-    "title": "オラ、ラマにコードレビューしてもらうわ",
-    "link": "https://qiita.com/ussy_k/items/0f48fb0fb6cbe0aedb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:05:01.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n昨年のアドベントカレンダーでは、技術というよりもマネジメント系の記事を投稿したので、今年は技術を書いていきます。\nAIに関しては、全然勉強不足ですが、温かく見てもらえるとありがたいです....\n【昨年の記事】\nリーダー1年目の懺悔\nありがたいことに、沢山の方々に..."
   },
   {
     "title": "客先のDBを間違えて削除した話",
@@ -243,40 +278,5 @@
     "pubDate": "2025-11-30T15:42:59.000Z",
     "source": "Publickey",
     "contentSnippet": "SwiftコードでiOSアプリとAndroidアプリを開発できるツール「Skip」を提供しているGlimpse I/Oは、SwiftコードをAndroidネイティブなバイナリにコンパイルできる「Skip Fuse」を、個人など小規模開発者向けに無料提供することを明らかにしました。 一般に、iOSのアプリケーション開発にはSwift言語が、Androidのアプリ開発にはKotlin言語が用いられます"
-  },
-  {
-    "title": "AIを使う開発者は自分の好みの言語よりも、AIのハルシネーションが少ないTypeScriptのような型付け言語を選ぶようになる。GitHubがAIによる変化を予想",
-    "link": "https://www.publickey1.jp/blog/25/aiaitypescriptgithubai.html",
-    "pubDate": "2025-11-30T15:40:07.000Z",
-    "source": "Publickey",
-    "contentSnippet": "GitHubは、開発ツールとしてAIが導入されていくことで、プログラミング言語やフレームワークの選択にどのような影響を与えるかを考察したブログ記事「TypeScript, Python, and the AI feedback loop changing software development」（TypeScript、Python、そしてAIフィードバックループがソフトウェア開発を変えていく）を"
-  },
-  {
-    "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
-    "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T06:56:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "AIがあるから資格勉強する気が出ない\n前に同僚がこんな話をしてくれました。\n「資格を取らなくてもAIと対話しながら仕様やサービスの選定ができれば良くない？」\n「資格取れても社内評価が上がるくらいだから」\nまあわかる。わかるけど、、\nこの「わかるけど、、」と思ったことが自分..."
-  },
-  {
-    "title": "自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始",
-    "link": "https://www.publickey1.jp/blog/25/kubernetesawsamazon_eks_mcp_server.html",
-    "pubDate": "2025-11-26T15:39:23.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、複雑なkubectlコマンドや深いKubernetesの専門知識を用いなくとも、自然言語でKubernetesに指示をして運用や管理を可能にするフルマネージドな新サービス「Amazon EKS MCP Server」のプレビュー公開を発表しました。 Amazon EKS（Amazon Elastic Kubernetes Service）は、AW"
-  },
-  {
-    "title": "Rubyの次バージョンは「Ruby 4.0」に。「Ruby 4.0 Preview2」がリリース",
-    "link": "https://www.publickey1.jp/blog/25/rubyruby_40ruby_40_preview2.html",
-    "pubDate": "2025-11-25T15:55:03.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Ruby開発チームは11月17日、Ruby 4.0 Preview Release 2」をリリースしました。 Rubyはまつもとゆきひろ氏により1993年に開発が始められたプログラミング言語です。シンプルで生産性の高いプログラムを書くことができることなどを特長とし、Ruby on Rails（Rails）と呼ばれるWebアプリケーションを容易に構築できるフレームワークを備えていることで人気のプログ"
-  },
-  {
-    "title": "マイクロソフト、データベースエンジンにAIを統合した「SQL Server 2025」正式版をリリース。T-SQLの正規表現関数、並行性向上による性能改善など",
-    "link": "https://www.publickey1.jp/blog/25/aisql_server_2025t-sql.html",
-    "pubDate": "2025-11-25T15:52:09.000Z",
-    "source": "Publickey",
-    "contentSnippet": "マイクロソフトは同社のリレーショナルデータベース製品の最新版「SQL Server 2025」正式版のリリースを発表しました。 DBエンジンにAIを統合 SQL Server 2025ではデータベースエンジンにAIが統合され、データに対してセマンティックサーチや自然言語での対話が可能となりました。 操作言語として使われている「Transact-SQL」（T-SQL）にAIモデル管理機能が組み込まれ"
   }
 ]

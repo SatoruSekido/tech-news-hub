@@ -1,73 +1,94 @@
 [
   {
-    "title": "Saving Terraform State in S3",
-    "link": "https://dev.to/woovi/saving-terraform-state-in-s3-4ja7",
-    "pubDate": "Thu, 04 Dec 2025 12:55:08 +0000",
+    "title": "Building Integral: A Full-Stack Productivity Suite with AI-Assisted Development",
+    "link": "https://dev.to/exyness/building-integral-a-full-stack-productivity-suite-with-ai-assisted-development-1een",
+    "pubDate": "Thu, 04 Dec 2025 18:31:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Terraform is a solution to provision infrastructure using code (IaC).\nYou can use S3 as the backend of the state like this\nterraform {\n  required_providers {\n    aws = {\n      source  = \"hashicorp/aws"
+    "contentSnippet": "Building Integral: How I Shipped a Full-Stack Productivity Suite in Weeks with AI-Assisted Development\n\n\n\nI just shipped Integral - a complete productivity platform with task management, budgeting, jo"
   },
   {
-    "title": "From Models to Autonomous Intelligence: My Learning Journey Through the 5-Day AI Agents Intensive",
-    "link": "https://dev.to/anjali_2346789/from-models-to-autonomous-intelligence-my-learning-journey-through-the-5-day-ai-agents-intensive-1lg8",
-    "pubDate": "Thu, 04 Dec 2025 12:49:35 +0000",
+    "title": "CAPS Chromium AI Plugin Skeleton",
+    "link": "https://dev.to/ariay/caps-chromium-ai-plugin-skeleton-9ae",
+    "pubDate": "Thu, 04 Dec 2025 18:24:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the Google AI Agents Writing Challenge: Learning Reflections\nWhen I registered for the 5-Day AI Agents Intensive course by Google & Kaggle, I expected another series on prompt"
+    "contentSnippet": "Here is a polished, ready-to-publish blog entry based on your project description. I have formatted it to work well on platforms like Dev.to, Medium, or Hashnode.\nProject Repository: CAPS-Chromium-AI-"
   },
   {
-    "title": "Building a Task Flow Builder",
-    "link": "https://dev.to/liv_mc_d4d89327f/building-a-task-flow-builder-2ml4",
-    "pubDate": "Thu, 04 Dec 2025 12:46:49 +0000",
+    "title": "SwiftUI #1: Proyecto plantilla",
+    "link": "https://dev.to/david_goyes_a488f58a17a53/proyecto-plantilla-de-swiftui-3nk1",
+    "pubDate": "Thu, 04 Dec 2025 18:24:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the Google AI Agents Writing Challenge: Learning Reflections\nBefore the AI agents Intensive, I thought of LLMs as finely tuned probabilistic models: systems that surface the n"
+    "contentSnippet": "Supongamos que quiero construir una aplicación llamada \"Memora\". Cuando uso la plantilla de Xcode para SwiftUI puedo ver que se genera un proyecto con la siguiente estructura:\nMemora\n| - Memora\n| | - "
   },
   {
-    "title": "Understanding CompTIA A+ Structure",
-    "link": "https://dev.to/lowell_95f0f399246560ba38/understanding-comptia-a-structure-4p1j",
-    "pubDate": "Thu, 04 Dec 2025 12:39:33 +0000",
+    "title": "Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow",
+    "link": "https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi",
+    "pubDate": "Thu, 04 Dec 2025 18:18:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The CompTIA A+ certification is often the first big milestone. It’s widely recognized as an entry-level credential that shows you have foundational skills in hardware, software, networking, troublesho"
+    "contentSnippet": "Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow\nThe Challenge\nI had 10 days to build something ambitious for the Kiroween Hackathon: an AI-powered fitness coach that wo"
   },
   {
-    "title": "My Journey With Agentic AI in the Google x Kaggle Hackathon: What I Built, What I Learned, and Why It Mattered",
-    "link": "https://dev.to/irwan_prabowo_30422f3846f/my-journey-with-agentic-ai-in-the-google-x-kaggle-hackathon-what-i-built-what-i-learned-and-why-48pd",
-    "pubDate": "Thu, 04 Dec 2025 12:39:22 +0000",
+    "title": "Integrando APIs REST externas",
+    "link": "https://dev.to/lucaspereiradesouzat/integrando-apis-rest-externas-22ea",
+    "pubDate": "Thu, 04 Dec 2025 18:16:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Joining the Google x Kaggle Agentic AI Hackathon was my first real step into building a complete Agentic AI application from scratch. I was excited, but also unsure where to begin. Between work respon"
+    "contentSnippet": "## Consumindo APIs Externas com Axios/Fetch: Guia Completo\nA comunicação com APIs externas é uma habilidade fundamental para qualquer desenvolvedor web moderno. Seja para buscar dados, enviar informaç"
   },
   {
-    "title": "Product Engineering for Fintech Startups: Accelerating Compliance and Growth",
-    "link": "https://dev.to/aspire-softserv/product-engineering-for-fintech-startups-accelerating-compliance-and-growth-4akg",
-    "pubDate": "Thu, 04 Dec 2025 12:39:21 +0000",
+    "title": "Day 10 : Conditionals, Dynamic Blocks & Splat Expressions",
+    "link": "https://dev.to/alafiz/day-10-conditionals-dynamic-blocks-splat-expressions-41ib",
+    "pubDate": "Thu, 04 Dec 2025 18:07:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "More than 60% of fintech startups face compliance hurdles within their first two years—delaying launches, increasing engineering costs, and weakening investor confidence. In an industry where regulati"
+    "contentSnippet": "Today was one of those days where everything just clicked. I didn’t just learn Terraform concepts, I finally felt like I understood why they matter and how they fit into real-world infrastructure. Com"
   },
   {
-    "title": "From Architect to Ecosystem Builder: My Journey into Solana, NFTs, and the Future of Web3",
-    "link": "https://dev.to/mibrahimwali/from-architect-to-ecosystem-builder-my-journey-into-solana-nfts-and-the-future-of-web3-5ee",
-    "pubDate": "Thu, 04 Dec 2025 12:36:37 +0000",
+    "title": "I Built My First AI Agent in 30 Minutes (No Code Required) - Here's How",
+    "link": "https://dev.to/blogai/i-built-my-first-ai-agent-in-30-minutes-no-code-required-heres-how-3lea",
+    "pubDate": "Thu, 04 Dec 2025 18:07:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey DEV Community 👋,\nI’m Ibrahim—a tech architect turned founder, building at the intersection of AI and blockchain. With over 15 years in software and now leading IrusSoft and NextChainX, I’ve spent"
+    "contentSnippet": "Hey Dev.to community! 👋\nA few months ago, I would have told you that building an AI agent required Python expertise, understanding LangChain, and managing API keys in environment files.\nTurns out, I "
   },
   {
-    "title": "My Journey Through the 5-Day AI Agents Intensive Course (Google Kaggle)",
-    "link": "https://dev.to/mr_hemasai_a01e8ca4b369b/my-journey-through-the-5-day-ai-agents-intensive-course-google-x-kaggle-2ag9",
-    "pubDate": "Thu, 04 Dec 2025 12:33:58 +0000",
+    "title": "Separating Class Responsibilities with Clprolf",
+    "link": "https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f",
+    "pubDate": "Thu, 04 Dec 2025 18:06:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nWhen I joined the 5-Day AI Agents Intensive Course, I honestly had no idea how deeply it would change my perspective on AI.\nI’ve used chatbots, prompts, and automation tools before — bu"
+    "contentSnippet": "Designing clean, well-structured classes is a central challenge in object-oriented programming.\ndeclensions — a simple way to express the nature of a class and the domain it belongs to.\nRather than re"
   },
   {
-    "title": "13 Best Remote Collaboration Tools to Supercharge Your Team in 2025",
-    "link": "https://dev.to/gambplays/13-best-remote-collaboration-tools-to-supercharge-your-team-in-2025-288c",
-    "pubDate": "Thu, 04 Dec 2025 12:32:14 +0000",
+    "title": "Como excluir um perfil de usuário pelo Registro do Windows (regedit)",
+    "link": "https://dev.to/carloseduardolemos/como-excluir-um-perfil-de-usuario-pelo-registro-do-windows-regedit-3noj",
+    "pubDate": "Thu, 04 Dec 2025 18:06:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction (H2)\n12 Best Remote Collaboration Tools in 2025\nH2: Slack\nKey features\nPersistent channels and direct messages\nThreaded conversations and reactions\nRich app marketplace and workflow autom"
+    "contentSnippet": "A exclusão de um perfil no Registro do Windows é útil quando o perfil está corrompido ou quando há rastros antigos que podem impactar desempenho ou configurações. O Registro é um componente crítico do"
   },
   {
-    "title": "Closures vs Objects: Understanding 'A Poor Man's' Through the Lens of IVP",
-    "link": "https://dev.to/yannick555/closures-vs-objects-understanding-a-poor-mans-through-the-lens-of-ivp-105j",
-    "pubDate": "Thu, 04 Dec 2025 12:26:40 +0000",
+    "title": "Microfrontends Without Frameworks: A Simple, Vanilla JavaScript Approach",
+    "link": "https://dev.to/vimgudy/microfrontends-without-frameworks-a-simple-vanilla-javascript-approach-2c0h",
+    "pubDate": "Thu, 04 Dec 2025 18:05:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "There is a famous programming koan by Anton van Straaten:\nThe venerable master Qc Na was walking with his student, Anton. Hoping to prompt the master into a discussion, Anton said \"Master, I have hear"
+    "contentSnippet": "The question: \"Can we build microfrontends using only vanilla JavaScript, HTML, and CSS (without frameworks like React/Vue or build tools like Webpack)?\"\nShort answer: Yes — absolutely!\nWe can build m"
+  },
+  {
+    "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",
+    "link": "https://www.publickey1.jp/blog/25/webgpuwebgpuweb.html",
+    "pubDate": "2025-12-04T15:13:47.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Webブラウザ上で高速なグラフィックス描画を行うWeb標準「WebGL」の後継として登場した「WebGPU」が、ChromeやFirefox、Safariなどの主要なWebブラウザすべてで利用可能になったことが明らかになりました。 WebGPUはGPU能力を最大限に発揮できるAPI WebGLがグラフィックス描画に特化したAPIであったのに対して、WebGPUは、高速なグラフィック描画だけでなくG"
+  },
+  {
+    "title": "AIエージェントを管理する「Microsoft Agent 365」／GitHubで最も使われている言語はTypeScript／MCP on Windowsプレビューほか。2025年11月の人気記事",
+    "link": "https://www.publickey1.jp/blog/25/aimicrosoft_agent_365githubtypescriptmcp_on_windows202511.html",
+    "pubDate": "2025-12-04T15:09:51.000Z",
+    "source": "Publickey",
+    "contentSnippet": "先日、久しぶりに整体に行ったところ、整体師さんから普段のストレッチのためにストレッチポールを勧められました。 ストレッチポールというのは長さ90cm、直径10cmくらいの柔らかい円柱です。これを床の上に置いて、その上に背骨を沿わせるように仰向けに寝てゴロゴロさせると、背中の筋肉がほぐれたり、ふだん縮こまっている胸の筋肉を伸ばせる効果があります。 本物のストレッチポールは1万円近くするのですが、近所"
+  },
+  {
+    "title": "【npm】11月21日以降にnpm installした人へ - Shai-Hulud感染チェック & 多層防御ガイド",
+    "link": "https://zenn.dev/hand_dot/articles/04542a91bc432e",
+    "pubDate": "Thu, 04 Dec 2025 02:36:44 GMT",
+    "source": "Zenn",
+    "contentSnippet": "npm史上最悪のサプライチェーン攻撃「Shai-Hulud 2.0」。正規パッケージのメンテナー認証情報を盗み、悪意あるバージョンをnpmに公開するという手口で、11月21日から急速に拡散しました。\nこの記事では2つのことを解説します：\n\n自分が被害にあっていないか確認する方法\n今後の被害を防ぐ多層防御アプローチ\n\n*この記事と同じ内容を動画でも解説していますので、動画の方が好きな方は下記からどう"
   },
   {
     "title": "高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜",
@@ -161,6 +182,13 @@
     "contentSnippet": "技術本を紹介したい！\nRecustomer株式会社でCTOをしている、眞鍋と申します。\nまだCTOとしては日が浅いのですが、\n先日、Startup CTO of the Year 2025 でオーディエンス賞をいただくなど、\n少しずつCTOらしい活動が増えてきました。\nhttps://prtimes.jp/main/html/rd/p/000000093.000046039.html\nどんな会社に"
   },
   {
+    "title": "パッケージマネージャーで Runtime のバージョンを管理する",
+    "link": "https://zenn.dev/ryo_manba/articles/devengines-runtime-management",
+    "pubDate": "Wed, 03 Dec 2025 00:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nNode.js のバージョン管理には、従来から nvm や nodenv といったツールが使われてきました。しかし最近では、パッケージマネージャー自体が Node.js や Deno などの Runtime のバージョンを管理する方法が登場しています。\nこの記事では、OpenJS Foundation で標準化が進められている devEngines という仕組みを紹介し、npm、pnpm"
+  },
+  {
     "title": "エンジニアこそヨガをやれ！",
     "link": "https://qiita.com/matsumon_/items/a1efab719d29a035648a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-02T22:05:36.000Z",
@@ -173,6 +201,13 @@
     "pubDate": "2025-12-02T21:14:09.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこちらは 本番環境などでやらかしちゃった人 Advent Calendar 2025 3日目の記事です 🥳\n\n客先のDBを間違えて削除した話 by lif_yumumu さん\nスパゲティプログラムに3行追加したら決済ができなくなった話 by ryo_s0127 ..."
+  },
+  {
+    "title": "Claude Code公式Pluginのすすめ",
+    "link": "https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins",
+    "pubDate": "Tue, 02 Dec 2025 21:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は tacoms Advent Calendar 2025 3日目の記事です。\n\nこんにちは、株式会社 tacoms で SRE をやっている はぶちん (@modokkin) です。\n気付けばあっという間に12月に入りましたね。ガーデナーにとってはそろそろ冬越しの準備が必要な時期ですが、手入れが楽になる一方で、しばらく遠のくと思うと寂しくもあります。\n寒くなってきたので、みなさまお身体に"
   },
   {
     "title": "［速報］AWS、AIがフィードバックから学びつつ自律的に開発を行う「Kiro autonomous agent」発表",
@@ -194,20 +229,6 @@
     "pubDate": "2025-12-02T18:46:53.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社独自の基盤モデル「Amazon Nova 2」に対してユーザーが独自データを用いて学習させることでカスタマイズした基盤モデルを作成できる新サービス「Nova Forge」を発表しました。 Nova Forgeは、Amazon Nova 2の基盤モデルの学"
-  },
-  {
-    "title": "［速報］AWS、独自の基盤モデル「Amazon Nova 2」発表。マルチモーダルなNova 2 Omniも登場",
-    "link": "https://www.publickey1.jp/blog/25/awsamazon_nova_2nova_2_omni.html",
-    "pubDate": "2025-12-02T18:45:21.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社独自の基盤モデル「Amazon Nova 2」を発表しました。 Amazon Nova 2は段階的な推論とタスク分解により従来よりも拡張された思考をサポートし、低・中・高の3つの思考強度レベルを備えることで開発者が速度、知能、コストのバランスをコントロー"
-  },
-  {
-    "title": "AWS、コンテナではなくEC2インスタンスでサーバレスを構築できる「AWS Lambda Managed Instances」リリース",
-    "link": "https://www.publickey1.jp/blog/25/awsec2aws_lambda_managed_instances.html",
-    "pubDate": "2025-12-02T16:23:54.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Servicesは、サーバレス基盤「AWS Lambda」の新機能として、コンテナではなくEC2インスタンスでサーバレスアプリケーションを構築できる「AWS Lambda Managed Instances」をリリースしました。 AWS Lambdaは、あらかじめ関数として記述したコードをコンテナとして瞬時に起動し、アプリケーションとして提供するサーバレスコンピューティング基"
   },
   {
     "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
@@ -250,27 +271,6 @@
     "pubDate": "2025-12-02T11:59:41.000Z",
     "source": "Qiita",
     "contentSnippet": "概要\n地方の公立高校に在籍する筆者が、文化祭の整理券システムを開発したときの話をまとめました。大勢の人に使ってもらうサービスを作ったのは初めてだったのですが、失敗含め自分にとって良い体験になりました。\n突っ込みどころも多いと思うので、ご指摘等ありましたらコメントしていただ..."
-  },
-  {
-    "title": "DRYにしすぎるとコードは干からびる",
-    "link": "https://zenn.dev/recustomer/articles/507cb85b321a63",
-    "pubDate": "Tue, 02 Dec 2025 07:00:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "前置き\n手前味噌ながら、弊社は高い開発生産性を評価され、Findy Team+ Award 2024, 2025 を2年連続で受賞した。華やかな受賞理由の裏側には様々な要因があるが、その中でも技術的な側面としてひっそりと、開発者が直接触れる作業領域に対して強く作用させていた力学のひとつが、本記事にて紹介する 「DRY との向き合い方(=境界設計)」 である。\n\n 「最短距離」で走るつもりが、最速で"
-  },
-  {
-    "title": "AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した",
-    "link": "https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1",
-    "pubDate": "Tue, 02 Dec 2025 04:57:52 GMT",
-    "source": "Zenn",
-    "contentSnippet": "AgentのToolを公開されているMCPから自作に変更したら、Token使用料が9割削減できた話を書きます。\n\n 背景\n現在ko☆shi（こーし）という引き継ぎを自動化するAgentを社内プロダクトとして開発しています。\n\nこのAgentはGitHub、Asana、Slackをデータソースとして使用しており、Strands AgentsのMCP機能を使用して、各サービスの情報を取得しています。ユ"
-  },
-  {
-    "title": "目にやさしい仕様駆動開発「spec-workflow-mcp」がもたらすブルーベリー効果",
-    "link": "https://zenn.dev/layerx/articles/60b46a2e9ac94e",
-    "pubDate": "Tue, 02 Dec 2025 02:20:30 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は、LayerX Tech Advent Calendar 2025 の 2日目の記事です。\nhttps://tech.layerx.co.jp/entry/tech-advent-calendar-2025\n初日は @frkake さんの「OCR技術の変遷と日本語対応モデルの性能検証」と、@izumin5210 さんの「思考を減らしコードに集中するための tmux, Neovim 設定」"
   },
   {
     "title": "Kubernetesはなぜ難しいのか？",

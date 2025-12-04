@@ -1,73 +1,87 @@
 [
   {
-    "title": "When the Spark is Done: The ADHD Energy Cycle No One Talks About ✨",
-    "link": "https://dev.to/anchildress1/when-the-spark-is-done-the-adhd-energy-cycle-no-one-talks-about-43fo",
-    "pubDate": "Thu, 04 Dec 2025 06:38:12 +0000",
+    "title": "Saving Terraform State in S3",
+    "link": "https://dev.to/woovi/saving-terraform-state-in-s3-4ja7",
+    "pubDate": "Thu, 04 Dec 2025 12:55:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 I almost don't want to write this post at all, but my brain apparently decided this is one thing I’m allowed to finish today. So, fine—here we are with another completely random topic. I was diagno"
+    "contentSnippet": "Terraform is a solution to provision infrastructure using code (IaC).\nYou can use S3 as the backend of the state like this\nterraform {\n  required_providers {\n    aws = {\n      source  = \"hashicorp/aws"
   },
   {
-    "title": "“My Learning Journey in the AI Agents Intensive Capstone Project”",
-    "link": "https://dev.to/hanumantha_reddygariank/my-learning-journey-in-the-ai-agents-intensive-capstone-project-2712",
-    "pubDate": "Thu, 04 Dec 2025 06:37:58 +0000",
+    "title": "From Models to Autonomous Intelligence: My Learning Journey Through the 5-Day AI Agents Intensive",
+    "link": "https://dev.to/anjali_2346789/from-models-to-autonomous-intelligence-my-learning-journey-through-the-5-day-ai-agents-intensive-1lg8",
+    "pubDate": "Thu, 04 Dec 2025 12:49:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the Google AI Agents Writing Challenge: Capstone Showcase\nI participated in the Kaggle AI Agents Intensive to explore AI agents and their real-world applications. For my capst"
+    "contentSnippet": "This is a submission for the Google AI Agents Writing Challenge: Learning Reflections\nWhen I registered for the 5-Day AI Agents Intensive course by Google & Kaggle, I expected another series on prompt"
   },
   {
-    "title": "Building Smart Café Faster with AI - Uno Platform + .NET + Copilot",
-    "link": "https://dev.to/aditya_kumar_ai00/building-smart-cafe-faster-with-ai-uno-platform-net-copilot-59ab",
-    "pubDate": "Thu, 04 Dec 2025 06:34:45 +0000",
+    "title": "Building a Task Flow Builder",
+    "link": "https://dev.to/liv_mc_d4d89327f/building-a-task-flow-builder-2ml4",
+    "pubDate": "Thu, 04 Dec 2025 12:46:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps — AI Acceleration.\nI built Smart Café, a cross-platform coffee shop app powered by Uno Platform and .NET. The app fetches menu items d"
+    "contentSnippet": "This is a submission for the Google AI Agents Writing Challenge: Learning Reflections\nBefore the AI agents Intensive, I thought of LLMs as finely tuned probabilistic models: systems that surface the n"
   },
   {
-    "title": "Part 5: The Comeback",
-    "link": "https://dev.to/palash90/part-5-the-comeback-52go",
-    "pubDate": "Thu, 04 Dec 2025 06:32:47 +0000",
+    "title": "Understanding CompTIA A+ Structure",
+    "link": "https://dev.to/lowell_95f0f399246560ba38/understanding-comptia-a-structure-4p1j",
+    "pubDate": "Thu, 04 Dec 2025 12:39:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "After failing in my last attempt at integrating the CUDA code into my library, I resorted to the CPU. The logistic regression program was running perfectly fine for a small 100-row, 2-column, dataset."
+    "contentSnippet": "The CompTIA A+ certification is often the first big milestone. It’s widely recognized as an entry-level credential that shows you have foundational skills in hardware, software, networking, troublesho"
   },
   {
-    "title": "Designing Smart Café in Real Time with Hot Design & Hot Design Agent",
-    "link": "https://dev.to/aditya_kumar_ai00/designing-smart-cafe-in-real-time-with-hot-design-hot-design-agent-2o6l",
-    "pubDate": "Thu, 04 Dec 2025 06:32:22 +0000",
+    "title": "My Journey With Agentic AI in the Google x Kaggle Hackathon: What I Built, What I Learned, and Why It Mattered",
+    "link": "https://dev.to/irwan_prabowo_30422f3846f/my-journey-with-agentic-ai-in-the-google-x-kaggle-hackathon-what-i-built-what-i-learned-and-why-48pd",
+    "pubDate": "Thu, 04 Dec 2025 12:39:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps — Hot Design Showcase.\nFor this challenge, I recreated the Smart Café app UI using Uno Platform’s Hot Design designer. I wanted to tra"
+    "contentSnippet": "Joining the Google x Kaggle Agentic AI Hackathon was my first real step into building a complete Agentic AI application from scratch. I was excited, but also unsure where to begin. Between work respon"
   },
   {
-    "title": "Part 4: The Setback and Heart Break",
-    "link": "https://dev.to/palash90/part-4-the-setback-and-heart-break-51kn",
-    "pubDate": "Thu, 04 Dec 2025 06:30:25 +0000",
+    "title": "Product Engineering for Fintech Startups: Accelerating Compliance and Growth",
+    "link": "https://dev.to/aspire-softserv/product-engineering-for-fintech-startups-accelerating-compliance-and-growth-4akg",
+    "pubDate": "Thu, 04 Dec 2025 12:39:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The GPU Matrix Multiplication program was a success; or so I thought. At that point, the inventory looked like the following:\nA rudimentary Tensor Library written in Rust\nGradient Descent implementati"
+    "contentSnippet": "More than 60% of fintech startups face compliance hurdles within their first two years—delaying launches, increasing engineering costs, and weakening investor confidence. In an industry where regulati"
   },
   {
-    "title": "A Single .NET Codebase, Three Platforms, One Stunning UI - Smart Café",
-    "link": "https://dev.to/aditya_kumar_ai00/a-single-net-codebase-three-platforms-one-stunning-ui-smart-cafe-1dhi",
-    "pubDate": "Thu, 04 Dec 2025 06:25:00 +0000",
+    "title": "From Architect to Ecosystem Builder: My Journey into Solana, NFTs, and the Future of Web3",
+    "link": "https://dev.to/mibrahimwali/from-architect-to-ecosystem-builder-my-journey-into-solana-nfts-and-the-future-of-web3-5ee",
+    "pubDate": "Thu, 04 Dec 2025 12:36:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps — WOW Factor.\nI built a cross-platform app called Smart Café, a coffee-shop themed application that mimics the experience of entering "
+    "contentSnippet": "Hey DEV Community 👋,\nI’m Ibrahim—a tech architect turned founder, building at the intersection of AI and blockchain. With over 15 years in software and now leading IrusSoft and NextChainX, I’ve spent"
   },
   {
-    "title": "Part 3: Accelerating Calculations using GPU",
-    "link": "https://dev.to/palash90/building-a-ml-library-from-scratch-in-rust-part-3-accelerating-calculations-from-cpu-to-gpu-with-270d",
-    "pubDate": "Thu, 04 Dec 2025 06:23:46 +0000",
+    "title": "My Journey Through the 5-Day AI Agents Intensive Course (Google Kaggle)",
+    "link": "https://dev.to/mr_hemasai_a01e8ca4b369b/my-journey-through-the-5-day-ai-agents-intensive-course-google-x-kaggle-2ag9",
+    "pubDate": "Thu, 04 Dec 2025 12:33:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The success of the logistic regression gave me a confidence boost, but the program's performance felt like a punch to the gut. The naive matrix multiplication module was taking forever to complete eve"
+    "contentSnippet": "Introduction\n\n\nWhen I joined the 5-Day AI Agents Intensive Course, I honestly had no idea how deeply it would change my perspective on AI.\nI’ve used chatbots, prompts, and automation tools before — bu"
   },
   {
-    "title": "Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm starts with GraalVM Native Image and REST API",
-    "link": "https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3",
-    "pubDate": "Thu, 04 Dec 2025 06:21:22 +0000",
+    "title": "13 Best Remote Collaboration Tools to Supercharge Your Team in 2025",
+    "link": "https://dev.to/gambplays/13-best-remote-collaboration-tools-to-supercharge-your-team-in-2025-288c",
+    "pubDate": "Thu, 04 Dec 2025 12:32:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nIn the part 8 of this article series, we learned how to develop a pure Quarkus REST application and deploy it on AWS Lambda.  We also measure the performance (cold and warm start time t"
+    "contentSnippet": "Introduction (H2)\n12 Best Remote Collaboration Tools in 2025\nH2: Slack\nKey features\nPersistent channels and direct messages\nThreaded conversations and reactions\nRich app marketplace and workflow autom"
   },
   {
-    "title": "Part 2: Making a Binary Classifier",
-    "link": "https://dev.to/palash90/making-a-ml-library-from-scratch-part-2-making-a-binary-classifier-3184",
-    "pubDate": "Thu, 04 Dec 2025 06:19:13 +0000",
+    "title": "Closures vs Objects: Understanding 'A Poor Man's' Through the Lens of IVP",
+    "link": "https://dev.to/yannick555/closures-vs-objects-understanding-a-poor-mans-through-the-lens-of-ivp-105j",
+    "pubDate": "Thu, 04 Dec 2025 12:26:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Making a Binary Classifier\n\n\nOnce I got the linear regression program working on a real dataset, my confidence was boosted. I immediately looked forward. The easiest next step was to integrate a sigmo"
+    "contentSnippet": "There is a famous programming koan by Anton van Straaten:\nThe venerable master Qc Na was walking with his student, Anton. Hoping to prompt the master into a discussion, Anton said \"Master, I have hear"
+  },
+  {
+    "title": "高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜",
+    "link": "https://qiita.com/drken/items/c853184ad95b9e9fd45d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T02:18:31.000Z",
+    "source": "Qiita",
+    "contentSnippet": "突然ですが、高校生向けのプログラミング大会である日本情報オリンピック（以下、JOI と呼びます）で、都道府県ごとの参加人数にどの程度の差があるかをご存知でしょうか。\n下のグラフは、2020 年までの、都道府県別の JOI への参加人数を示したものです（このページより）。東京..."
+  },
+  {
+    "title": "【3.14対応】Pythonをいろんな意味で高速化する個人的TIPS30選",
+    "link": "https://qiita.com/nukipei/items/cb095dcc167a7673294c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-03T22:26:48.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは。\n私は某SIerに入社し5年目となりますが、これまでざっくりと以下のような業務に取り組んでまいりました。\n\n数理最適化エンジンの開発、システム導入\n量子コンピュータ周辺技術のR&D\nAIエージェント/生成AIシステムの開発・導入\n\nまた、プライベート..."
   },
   {
     "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",
@@ -105,11 +119,39 @@
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
   },
   {
+    "title": "システム再起動で起動しなくなった話",
+    "link": "https://qiita.com/zzzzico/items/2f779dd0697eca8abd86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-03T15:27:32.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこの記事は 本番環境などでやらかしちゃった人 Advent Calendar 2025 4 日目の記事です。\n過去に経験した本番環境でのやらかしです。\n\nシステム再起動で起動しなくなった\n\nどういう状況？\nお客さんのシステムの運用保守を担当してました。\nそのシス..."
+  },
+  {
     "title": "新しくプログラミング言語を作る際に文字列型をどうするべきか",
     "link": "https://zenn.dev/mod_poppo/articles/strings-for-new-language",
     "pubDate": "Wed, 03 Dec 2025 13:12:38 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は「言語実装 Advent Calendar 2025」の3日目の記事です。\nこの記事は、新しくプログラミング言語を設計する際に文字列型をどうするべきかについて、私の持論をまとめたものです。\n以前「新しくプログラミング言語を作る際に数値型をどうするべきか」という記事を書きましたが、この記事はそれの文字列版です。\n推敲が足りずに同じことを何箇所かで繰り返している場合がありますが、冗長性だと思"
+  },
+  {
+    "title": "【AWS re:Invent 2025】CEOキーノートのBedrock AgentCoreアプデまとめ",
+    "link": "https://qiita.com/minorun365/items/d47eacbb53f74d16d626?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-03T12:07:18.000Z",
+    "source": "Qiita",
+    "contentSnippet": "現在、アメリカのラスベガスで開催されているAWS re:Invent 2025で発表された新機能の紹介です。\n\n本日未明はCEOのキーノートでした。大半がAgentic AI関連の発表でしたが、その中でもBedrock AgentCore関連のものをピックアップして紹介しま..."
+  },
+  {
+    "title": "スペック駆動開発（Spec‑Driven Development）とは？",
+    "link": "https://qiita.com/CoffeeCoffeeCoffee/items/4612e1ee34ce3b3fe49b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-03T06:50:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "スペック駆動開発とは？\nスペック駆動開発（Specification-Driven Development）とは、「何を作るべきか」を最初に明確な仕様（スペック）として定義し、その仕様を基準に実装・テスト・レビューを進める開発スタイルです。\n最近、ChatGPT や Cu..."
+  },
+  {
+    "title": "AI使いすぎで思考力が雑魚になる対策プロンプト-「Thinking Gym」",
+    "link": "https://qiita.com/WdknWdkn/items/c67c90d75e7ec942e60c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-03T05:49:05.000Z",
+    "source": "Qiita",
+    "contentSnippet": "冒頭\nAIホント凄い。日常的に触らない日はないし、とりあえずChatGPTにテキスト入力してから作業が開始する、みたいなこともかなり多くなって、アウトプットのベースの質が上がったなって体感がありますよね。\nそれでいて楽しい。自分の考えのちょっと斜め上とか整理した内容とかを..."
   },
   {
     "title": "CTOとして会社に置くと決めた、ありがたい技術書5選",
@@ -119,25 +161,11 @@
     "contentSnippet": "技術本を紹介したい！\nRecustomer株式会社でCTOをしている、眞鍋と申します。\nまだCTOとしては日が浅いのですが、\n先日、Startup CTO of the Year 2025 でオーディエンス賞をいただくなど、\n少しずつCTOらしい活動が増えてきました。\nhttps://prtimes.jp/main/html/rd/p/000000093.000046039.html\nどんな会社に"
   },
   {
-    "title": "「品質」改善とAI活用",
-    "link": "https://qiita.com/rihoyasui/items/cd5a0dd4decf9070818c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-02T22:07:12.000Z",
-    "source": "Qiita",
-    "contentSnippet": "プロジェクト管理の成功は、単に「納期」や「予算」を守ることだと考えがちです。しかし、真にプロジェクトの未来と組織の成長を左右するのは、目に見えにくい「品質」です。\n本記事では、なぜプロジェクト管理において品質管理が決定的に重要になるのかを解説し、明日から取り入れられる品質改..."
-  },
-  {
     "title": "エンジニアこそヨガをやれ！",
     "link": "https://qiita.com/matsumon_/items/a1efab719d29a035648a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-02T22:05:36.000Z",
     "source": "Qiita",
     "contentSnippet": "肩こりは技術的負債だ！\n初めまして。any株式会社でプロダクトマネージャーをしている、まつもん（@matsumon_）と申します。\nアドベントカレンダー3日目にして、ちょっとゆるっとした記事を書いてみようと思います。\n\n唐突ですが、エンジニアをはじめとしたデスクワーカ..."
-  },
-  {
-    "title": "1年間ほぼ毎日GitHubの草を生やし続けてみて気づいたこと",
-    "link": "https://qiita.com/zer0Cyber/items/9eb7f39c850f00feee11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-02T22:03:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "システムアイ Advent Calendar 2025 の3日目担当の zer0Cyber です。\n残り1ヶ月で今年も終わりか…としみじみしながらこの記事を書いていますが、\nみなさんの1年はどんな時間でしたか？\nエンジニアといえばGitHub。\nそしてGitHubといえば草..."
   },
   {
     "title": "コンセント配線で9万円を無駄にしかけた話",
@@ -250,33 +278,5 @@
     "pubDate": "2025-12-01T13:08:37.000Z",
     "source": "Qiita",
     "contentSnippet": "この記事は人間が真心を込めて作成しました。\n安心してオーガニックな記事をお楽しみください。\n\nとうとう12月になってしまいました！\n毎年この時期は「やばい！今年何もできていない！」と焦っているような気がします。\nところでみなさん、Kubernetes使っていますか？\n..."
-  },
-  {
-    "title": "コードレビューではgtrが便利！",
-    "link": "https://qiita.com/Nozomuts/items/0f16c7de2a85a7aad6c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-01T01:20:10.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nGitHubのアップデートは頻繁に行われていて、GitHub上でのコードレビューもしやすくなってきてますね！\nただ、やっぱり手元のエディタで動かしながら確認したいことってありますよね\nでも、そのために現在の作業を stash したり、ブランチを切り替えて npm..."
-  },
-  {
-    "title": "客先のDBを間違えて削除した話",
-    "link": "https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:04:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事は「 本番環境などでやらかしちゃった人 Advent Calendar 2025」の1日目です。\n\nはじめに\n「慣れてきた頃が一番危ない」\nあれ、ほんとです。\n当時の私は作業にも環境にも慣れてきて、油断が出始めていました。\n「いつもの作業だし、サクッと終わらせよう」..."
-  },
-  {
-    "title": "エンジニアの雑談力って大事",
-    "link": "https://qiita.com/sato_626/items/b07819166ee4a82155a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:04:50.000Z",
-    "source": "Qiita",
-    "contentSnippet": "目的\n最近リモートワークが主体になりつつある事でなかなか話をする機会が少なくなっています。仕事をする中で普段話さない人に質問したり話しかけるのって結構ハードル高い人って結構いると思います。なので今回はそのハードルを少しでも下れるような自分なりの雑談力について共有して聞きた..."
-  },
-  {
-    "title": "ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った",
-    "link": "https://qiita.com/alclimb/items/e303cf655373992f61f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:03:19.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに：エンジニアにとって「最高の目覚まし」とは\n朝、起きることができない。\n大音量のアラームも、光で起こす目覚ましライトも、計算問題を解かないと止まらないアプリも試しました。しかし、慣れてしまえば二度寝は容易です。脳が「これはただのアラームだ」と学習してしまうからです..."
   }
 ]

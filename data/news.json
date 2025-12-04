@@ -1,73 +1,73 @@
 [
   {
-    "title": "使用 faster-whisper批量转录的python脚本",
-    "link": "https://dev.to/dragon72463399/shi-yong-faster-whisperpi-liang-zhuan-lu-de-pythonjiao-ben-428c",
-    "pubDate": "Thu, 04 Dec 2025 02:02:00 +0000",
+    "title": "When the Spark is Done: The ADHD Energy Cycle No One Talks About ✨",
+    "link": "https://dev.to/anchildress1/when-the-spark-is-done-the-adhd-energy-cycle-no-one-talks-about-43fo",
+    "pubDate": "Thu, 04 Dec 2025 06:38:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"\"\"\n批量转录当前目录下的 .mp3 文件，使用 faster-whisper\n转录完成后立即删除原始 .mp3 文件，仅保留 .txt\n\"\"\"\nimport os\nimport sys\nimport logging\nimport argparse\nfrom pathlib import Path\nfrom faster_whisper import WhisperModel\n\n# ======"
+    "contentSnippet": "🦄 I almost don't want to write this post at all, but my brain apparently decided this is one thing I’m allowed to finish today. So, fine—here we are with another completely random topic. I was diagno"
   },
   {
-    "title": "Building a Remote MCP Server and Connecting It to Any MCP Client",
-    "link": "https://dev.to/david_jordananampapancc/building-a-remote-mcp-server-and-connecting-it-to-any-mcp-client-51f1",
-    "pubDate": "Thu, 04 Dec 2025 02:01:52 +0000",
+    "title": "“My Learning Journey in the AI Agents Intensive Capstone Project”",
+    "link": "https://dev.to/hanumantha_reddygariank/my-learning-journey-in-the-ai-agents-intensive-capstone-project-2712",
+    "pubDate": "Thu, 04 Dec 2025 06:37:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nThe Model Context Protocol (MCP) is a new standard that allows AI models—such as Claude, ChatGPT, or Gemini—to connect with external tools, APIs, and systems in a secure and controlled wa"
+    "contentSnippet": "This is a submission for the Google AI Agents Writing Challenge: Capstone Showcase\nI participated in the Kaggle AI Agents Intensive to explore AI agents and their real-world applications. For my capst"
   },
   {
-    "title": "How I Built a Production-Grade GPU-Ready Kubernetes Platform from Scratch",
-    "link": "https://dev.to/mateenali66/how-i-built-a-production-grade-gpu-ready-kubernetes-platform-from-scratch-4ed6",
-    "pubDate": "Thu, 04 Dec 2025 02:01:44 +0000",
+    "title": "Building Smart Café Faster with AI - Uno Platform + .NET + Copilot",
+    "link": "https://dev.to/aditya_kumar_ai00/building-smart-cafe-faster-with-ai-uno-platform-net-copilot-59ab",
+    "pubDate": "Thu, 04 Dec 2025 06:34:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR: I rebuilt an entire Kubernetes platform with GPU support, GitOps automation, and full observability. Deployment time dropped from 2 weeks to 30 minutes, and we went from 80% to 99.9% uptime.\nTh"
+    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps — AI Acceleration.\nI built Smart Café, a cross-platform coffee shop app powered by Uno Platform and .NET. The app fetches menu items d"
   },
   {
-    "title": "Run AutoMCP To Supercharge Your AI Agent with Libraries MCP Servers",
-    "link": "https://dev.to/snyk/run-automcp-to-supercharge-your-ai-agent-with-libraries-mcp-servers-50bj",
-    "pubDate": "Thu, 04 Dec 2025 02:00:37 +0000",
+    "title": "Part 5: The Comeback",
+    "link": "https://dev.to/palash90/part-5-the-comeback-52go",
+    "pubDate": "Thu, 04 Dec 2025 06:32:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Artificial Intelligence (AI) is transforming software development with agentic coding tools like GitHub Copilot and Cursor, leading the charge. These tools use AI to assist developers in writing code,"
+    "contentSnippet": "After failing in my last attempt at integrating the CUDA code into my library, I resorted to the CPU. The logistic regression program was running perfectly fine for a small 100-row, 2-column, dataset."
   },
   {
-    "title": "Security Advisory: Critical RCE Vulnerabilities in React Server Components & Next.js (CVE-2025-55182 / CVE-2025-66478)",
-    "link": "https://dev.to/snyk/security-advisory-critical-rce-vulnerabilities-in-react-server-components-nextjs-3lef",
-    "pubDate": "Thu, 04 Dec 2025 02:00:31 +0000",
+    "title": "Designing Smart Café in Real Time with Hot Design & Hot Design Agent",
+    "link": "https://dev.to/aditya_kumar_ai00/designing-smart-cafe-in-real-time-with-hot-design-hot-design-agent-2o6l",
+    "pubDate": "Thu, 04 Dec 2025 06:32:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\n\n\nOn December 3, 2025, coordinated disclosures revealed that multiple releases of React 19 and Next.js contain a critical flaw in the React Server Components (RSC) “Flight” protocol, allowing un"
+    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps — Hot Design Showcase.\nFor this challenge, I recreated the Smart Café app UI using Uno Platform’s Hot Design designer. I wanted to tra"
   },
   {
-    "title": "Intent-Driven Development: Define the System Before You Write the Code",
-    "link": "https://dev.to/copyleftdev/intent-driven-development-define-the-system-before-you-write-the-code-22pe",
-    "pubDate": "Thu, 04 Dec 2025 02:00:16 +0000",
+    "title": "Part 4: The Setback and Heart Break",
+    "link": "https://dev.to/palash90/part-4-the-setback-and-heart-break-51kn",
+    "pubDate": "Thu, 04 Dec 2025 06:30:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How I architected a complete event-driven system with 122 events, 8 RFCs, and 82 GitHub Issues—without writing a single line of implementation code.\nWe've all been there.\nYou get a feature request. Yo"
+    "contentSnippet": "The GPU Matrix Multiplication program was a success; or so I thought. At that point, the inventory looked like the following:\nA rudimentary Tensor Library written in Rust\nGradient Descent implementati"
   },
   {
-    "title": "The Week That Upgraded My Brain: Lessons from Google’s AI Agents Intensive",
-    "link": "https://dev.to/sagar_oraganti_8333c931e5/the-week-that-upgraded-my-brain-lessons-from-googles-ai-agents-intensive-5bl8",
-    "pubDate": "Thu, 04 Dec 2025 01:58:36 +0000",
+    "title": "A Single .NET Codebase, Three Platforms, One Stunning UI - Smart Café",
+    "link": "https://dev.to/aditya_kumar_ai00/a-single-net-codebase-three-platforms-one-stunning-ui-smart-cafe-1dhi",
+    "pubDate": "Thu, 04 Dec 2025 06:25:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "*My Learning Reflections from the Google + Kaggle 5-Day AI Agents Intensive\n\nThis is a submission for the Google AI Agents Writing Challenge\nOver the five days, I immersed myself in Google & Kaggle’s "
+    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps — WOW Factor.\nI built a cross-platform app called Smart Café, a coffee-shop themed application that mimics the experience of entering "
   },
   {
-    "title": "Solo Project: Designing a Fast and Simple YouTube Summarizing Agent",
-    "link": "https://dev.to/pypawan_kumar_de983e3215aa8/solo-project-designing-a-fast-and-simple-youtube-summarizing-agent-4o29",
-    "pubDate": "Thu, 04 Dec 2025 01:56:22 +0000",
+    "title": "Part 3: Accelerating Calculations using GPU",
+    "link": "https://dev.to/palash90/building-a-ml-library-from-scratch-in-rust-part-3-accelerating-calculations-from-cpu-to-gpu-with-270d",
+    "pubDate": "Thu, 04 Dec 2025 06:23:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "*# 🚀 My AI Agents Intensive Journey — Solo but Worth It\nI joined the AI Agents Intensive as a solo participant with one goal:\n\nbuild something real instead of just completing theory.\nFor my capstone,"
+    "contentSnippet": "The success of the logistic regression gave me a confidence boost, but the program's performance felt like a punch to the gut. The naive matrix multiplication module was taking forever to complete eve"
   },
   {
-    "title": "How to Spot Red Flags in AI Backed Business Models",
-    "link": "https://dev.to/jaideepparashar/how-to-spot-red-flags-in-ai-backed-business-models-27n0",
-    "pubDate": "Thu, 04 Dec 2025 01:50:43 +0000",
+    "title": "Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm starts with GraalVM Native Image and REST API",
+    "link": "https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3",
+    "pubDate": "Thu, 04 Dec 2025 06:21:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Right now, almost every startup pitch includes the same two words:\n“AI-powered.”\nBut here’s the uncomfortable truth:\nNot every AI-backed business is a real business. Some are just fragile experiments "
+    "contentSnippet": "Introduction\n\n\nIn the part 8 of this article series, we learned how to develop a pure Quarkus REST application and deploy it on AWS Lambda.  We also measure the performance (cold and warm start time t"
   },
   {
-    "title": "Ai agent writing challenge",
-    "link": "https://dev.to/koombi_boy_211a46278f1765/ai-agent-writing-challenge-2nff",
-    "pubDate": "Thu, 04 Dec 2025 01:44:44 +0000",
+    "title": "Part 2: Making a Binary Classifier",
+    "link": "https://dev.to/palash90/making-a-ml-library-from-scratch-part-2-making-a-binary-classifier-3184",
+    "pubDate": "Thu, 04 Dec 2025 06:19:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the Google AI Agents Writing Challenge: Learning Reflections\nCertificate Submission Version of your 5-day course experience.\n5-Day AI Agents Intensive Course – Experience Summ"
+    "contentSnippet": "Making a Binary Classifier\n\n\nOnce I got the linear regression program working on a real dataset, my confidence was boosted. I immediately looked forward. The easiest next step was to integrate a sigmo"
   },
   {
     "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",
@@ -105,18 +105,18 @@
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
   },
   {
+    "title": "新しくプログラミング言語を作る際に文字列型をどうするべきか",
+    "link": "https://zenn.dev/mod_poppo/articles/strings-for-new-language",
+    "pubDate": "Wed, 03 Dec 2025 13:12:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は「言語実装 Advent Calendar 2025」の3日目の記事です。\nこの記事は、新しくプログラミング言語を設計する際に文字列型をどうするべきかについて、私の持論をまとめたものです。\n以前「新しくプログラミング言語を作る際に数値型をどうするべきか」という記事を書きましたが、この記事はそれの文字列版です。\n推敲が足りずに同じことを何箇所かで繰り返している場合がありますが、冗長性だと思"
+  },
+  {
     "title": "CTOとして会社に置くと決めた、ありがたい技術書5選",
     "link": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
     "pubDate": "Wed, 03 Dec 2025 00:00:04 GMT",
     "source": "Zenn",
     "contentSnippet": "技術本を紹介したい！\nRecustomer株式会社でCTOをしている、眞鍋と申します。\nまだCTOとしては日が浅いのですが、\n先日、Startup CTO of the Year 2025 でオーディエンス賞をいただくなど、\n少しずつCTOらしい活動が増えてきました。\nhttps://prtimes.jp/main/html/rd/p/000000093.000046039.html\nどんな会社に"
-  },
-  {
-    "title": "パッケージマネージャーで Runtime のバージョンを管理する",
-    "link": "https://zenn.dev/ryo_manba/articles/devengines-runtime-management",
-    "pubDate": "Wed, 03 Dec 2025 00:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nNode.js のバージョン管理には、従来から nvm や nodenv といったツールが使われてきました。しかし最近では、パッケージマネージャー自体が Node.js や Deno などの Runtime のバージョンを管理する方法が登場しています。\nこの記事では、OpenJS Foundation で標準化が進められている devEngines という仕組みを紹介し、npm、pnpm"
   },
   {
     "title": "「品質」改善とAI活用",
@@ -210,6 +210,13 @@
     "contentSnippet": "はじめに\nClaude Code を使い始めて、こんな悩みはありませんか？\n\n「セットアップしたけど、次に何をすればいいの？」\n「便利な機能があるらしいけど、使いこなせていない」\n「MCP サーバーって便利そうだけど、試しに何から入れればいいの？」\n\nこの記事では、Claude Code on Amazon Bedrock の設定が完了した方が、Claude Code の基本的な操作方法を知り、「"
   },
   {
+    "title": "月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。",
+    "link": "https://zenn.dev/dress_code/articles/89a5ceaa6eac37",
+    "pubDate": "Tue, 02 Dec 2025 12:00:30 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Dress Code Advent Calendar 2025、2日目の記事です🎉\n私がgit worktreeを使うに至るまでの話と、worktreeを使う際のおすすめのツールを紹介します。AI系の話はしません。\nよろしくお願いします！\nhttps://adventar.org/calendars/12017\n\n はじめに。\n「タイトル盛りすぎだろw」と思われそうですが、DRESS CODE（"
+  },
+  {
     "title": "高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。",
     "link": "https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-02T11:59:41.000Z",
@@ -236,13 +243,6 @@
     "pubDate": "Tue, 02 Dec 2025 02:20:30 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は、LayerX Tech Advent Calendar 2025 の 2日目の記事です。\nhttps://tech.layerx.co.jp/entry/tech-advent-calendar-2025\n初日は @frkake さんの「OCR技術の変遷と日本語対応モデルの性能検証」と、@izumin5210 さんの「思考を減らしコードに集中するための tmux, Neovim 設定」"
-  },
-  {
-    "title": "Prompt Cachingを完全に理解してLLMコストを爆裂に下げる",
-    "link": "https://zenn.dev/ubie_dev/articles/ade17afebabaa9",
-    "pubDate": "Tue, 02 Dec 2025 02:10:50 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は Ubie Tech Advent Calendar 2025 の1日目の記事です。\n\nUbieのモバイルアプリ(iOS/Android)では、身体の悩みを相談できる医療AIエージェントを提供しています。toCでLLMプロダクトを提供する上では、コスト最適化が重要な課題となります。\nこの記事では、その中核となる技術のひとつであるPrompt Cachingのプラクティスを紹介します。"
   },
   {
     "title": "Kubernetesはなぜ難しいのか？",

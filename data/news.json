@@ -1,73 +1,73 @@
 [
   {
-    "title": "[Boost]",
-    "link": "https://dev.to/mikeydorje/-1e5b",
-    "pubDate": "Wed, 03 Dec 2025 18:41:27 +0000",
+    "title": "使用 faster-whisper批量转录的python脚本",
+    "link": "https://dev.to/dragon72463399/shi-yong-faster-whisperpi-liang-zhuan-lu-de-pythonjiao-ben-428c",
+    "pubDate": "Thu, 04 Dec 2025 02:02:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why Toronto's Symphony Scene is the Mental Health Prescription You Didn't Know You Needed\nAdnan Obuz AI Strategy Consultant | Digital Transformation Expert ・ Dec 2\n#edwardobuz\n        #mentalhealth"
+    "contentSnippet": "\"\"\"\n批量转录当前目录下的 .mp3 文件，使用 faster-whisper\n转录完成后立即删除原始 .mp3 文件，仅保留 .txt\n\"\"\"\nimport os\nimport sys\nimport logging\nimport argparse\nfrom pathlib import Path\nfrom faster_whisper import WhisperModel\n\n# ======"
   },
   {
-    "title": "How I Finally Forced LLMs to Return Perfect JSON (2025 Edition) — No Hacks, No Regex, Just Clean Output",
-    "link": "https://dev.to/arfatapp/how-i-finally-forced-llms-to-return-perfect-json-2025-edition-no-hacks-no-regex-just-clean-5c5",
-    "pubDate": "Wed, 03 Dec 2025 18:39:23 +0000",
+    "title": "Building a Remote MCP Server and Connecting It to Any MCP Client",
+    "link": "https://dev.to/david_jordananampapancc/building-a-remote-mcp-server-and-connecting-it-to-any-mcp-client-51f1",
+    "pubDate": "Thu, 04 Dec 2025 02:01:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever worked with LLMs in real applications — especially with LangChain + TypeScript — you probably know the frustration:\nBroken JSON\nExtra text wrapped around JSON\nRandom “creative” outputs\n"
+    "contentSnippet": "Introduction\nThe Model Context Protocol (MCP) is a new standard that allows AI models—such as Claude, ChatGPT, or Gemini—to connect with external tools, APIs, and systems in a secure and controlled wa"
   },
   {
-    "title": "Boost Your Learning with Hidden AI Tools for Students",
-    "link": "https://dev.to/jdkhan/boost-your-learning-with-hidden-ai-tools-for-students-346j",
-    "pubDate": "Wed, 03 Dec 2025 18:39:09 +0000",
+    "title": "How I Built a Production-Grade GPU-Ready Kubernetes Platform from Scratch",
+    "link": "https://dev.to/mateenali66/how-i-built-a-production-grade-gpu-ready-kubernetes-platform-from-scratch-4ed6",
+    "pubDate": "Thu, 04 Dec 2025 02:01:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Students and lifelong learners — struggling to keep up with lectures, assignments, or research? There’s a set of AI tools for students that can make your workflow smarter and faster.\nTools like Mem.ai"
+    "contentSnippet": "TL;DR: I rebuilt an entire Kubernetes platform with GPU support, GitOps automation, and full observability. Deployment time dropped from 2 weeks to 30 minutes, and we went from 80% to 99.9% uptime.\nTh"
   },
   {
-    "title": "Embedding Serverless Dashboards in React",
-    "link": "https://dev.to/mdflaher/embedding-serverless-dashboards-in-react-2fn0",
-    "pubDate": "Wed, 03 Dec 2025 18:35:50 +0000",
+    "title": "Run AutoMCP To Supercharge Your AI Agent with Libraries MCP Servers",
+    "link": "https://dev.to/snyk/run-automcp-to-supercharge-your-ai-agent-with-libraries-mcp-servers-50bj",
+    "pubDate": "Thu, 04 Dec 2025 02:00:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I know how devs building web apps often need to embed dashboards and are looking for ones that are easy to integrate and include interactivity. Something else to consider is low-cost scalability, mean"
+    "contentSnippet": "Artificial Intelligence (AI) is transforming software development with agentic coding tools like GitHub Copilot and Cursor, leading the charge. These tools use AI to assist developers in writing code,"
   },
   {
-    "title": "Day 10: Mastering Terraform Expressions - Conditional Logic, Iteration, and Collection",
-    "link": "https://dev.to/andylovecloud/day-10-mastering-terraform-expressions-conditional-logic-iteration-and-collection-4igd",
-    "pubDate": "Wed, 03 Dec 2025 18:35:39 +0000",
+    "title": "Security Advisory: Critical RCE Vulnerabilities in React Server Components & Next.js (CVE-2025-55182 / CVE-2025-66478)",
+    "link": "https://dev.to/snyk/security-advisory-critical-rce-vulnerabilities-in-react-server-components-nextjs-3lef",
+    "pubDate": "Thu, 04 Dec 2025 02:00:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is Day 10, and we are diving deep into Terraform Expressions. Expressions are a fundamental concept, providing powerful, concise syntax that helps avoid rewriting code repeatedly. While similar i"
+    "contentSnippet": "TL;DR\n\n\nOn December 3, 2025, coordinated disclosures revealed that multiple releases of React 19 and Next.js contain a critical flaw in the React Server Components (RSC) “Flight” protocol, allowing un"
   },
   {
-    "title": "No Vibe No Code: Bootstrapping Ideas",
-    "link": "https://dev.to/kirodotdev/no-vibe-no-code-bootstrapping-ideas-o88",
-    "pubDate": "Wed, 03 Dec 2025 18:34:20 +0000",
+    "title": "Intent-Driven Development: Define the System Before You Write the Code",
+    "link": "https://dev.to/copyleftdev/intent-driven-development-define-the-system-before-you-write-the-code-22pe",
+    "pubDate": "Thu, 04 Dec 2025 02:00:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. The Core Problem: Too Many Ideas, Not Enough Finished Things\n\n\nI always have loads of ideas for projects. Often I start them, and most of the time I don't even finish them. My problem isn’t creativ"
+    "contentSnippet": "How I architected a complete event-driven system with 122 events, 8 RFCs, and 82 GitHub Issues—without writing a single line of implementation code.\nWe've all been there.\nYou get a feature request. Yo"
   },
   {
-    "title": "News Aggregator - AI-Powered Cross-Platform Development",
-    "link": "https://dev.to/varshithvhegde/news-aggregator-ai-powered-cross-platform-development-2l03",
-    "pubDate": "Wed, 03 Dec 2025 18:26:26 +0000",
+    "title": "The Week That Upgraded My Brain: Lessons from Google’s AI Agents Intensive",
+    "link": "https://dev.to/sagar_oraganti_8333c931e5/the-week-that-upgraded-my-brain-lessons-from-googles-ai-agents-intensive-5bl8",
+    "pubDate": "Thu, 04 Dec 2025 01:58:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps - AI Acceleration\nI built a professional news aggregation application that demonstrates the power of AI-assisted development with Uno "
+    "contentSnippet": "*My Learning Reflections from the Google + Kaggle 5-Day AI Agents Intensive\n\nThis is a submission for the Google AI Agents Writing Challenge\nOver the five days, I immersed myself in Google & Kaggle’s "
   },
   {
-    "title": "How to Build an Apollo Style Collaborative CRM with v0 and Velt🔥",
-    "link": "https://dev.to/astrodevil/how-to-build-an-apollo-style-collaborative-crm-with-v0-and-velt-2apk",
-    "pubDate": "Wed, 03 Dec 2025 18:24:02 +0000",
+    "title": "Solo Project: Designing a Fast and Simple YouTube Summarizing Agent",
+    "link": "https://dev.to/pypawan_kumar_de983e3215aa8/solo-project-designing-a-fast-and-simple-youtube-summarizing-agent-4o29",
+    "pubDate": "Thu, 04 Dec 2025 01:56:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Sales teams waste hours every day jumping between Slack, email, and their CRM just to figure out what happened with a deal. Who talked to the client last? What did they say? The context is scattered e"
+    "contentSnippet": "*# 🚀 My AI Agents Intensive Journey — Solo but Worth It\nI joined the AI Agents Intensive as a solo participant with one goal:\n\nbuild something real instead of just completing theory.\nFor my capstone,"
   },
   {
-    "title": "Build an AI Email Agent in 20 Minutes: A Complete Guide",
-    "link": "https://dev.to/heyarviind/build-an-ai-email-agent-in-20-minutes-a-complete-guide-33ka",
-    "pubDate": "Wed, 03 Dec 2025 18:23:00 +0000",
+    "title": "How to Spot Red Flags in AI Backed Business Models",
+    "link": "https://dev.to/jaideepparashar/how-to-spot-red-flags-in-ai-backed-business-models-27n0",
+    "pubDate": "Thu, 04 Dec 2025 01:50:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Have you ever wished your support team could handle 90% of customer emails automatically? Or that you could respond to common questions in seconds instead of hours?\nToday, I'm showing you how to build"
+    "contentSnippet": "Right now, almost every startup pitch includes the same two words:\n“AI-powered.”\nBut here’s the uncomfortable truth:\nNot every AI-backed business is a real business. Some are just fragile experiments "
   },
   {
-    "title": "Terraform Basics – Week 5: Exposing Infrastructure Data with Outputs",
-    "link": "https://dev.to/ozanguner/terraform-basics-week-5-exposing-infrastructure-data-with-outputs-5h6n",
-    "pubDate": "Wed, 03 Dec 2025 18:17:04 +0000",
+    "title": "Ai agent writing challenge",
+    "link": "https://dev.to/koombi_boy_211a46278f1765/ai-agent-writing-challenge-2nff",
+    "pubDate": "Thu, 04 Dec 2025 01:44:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Table of Contents\n1. Recap of Week 4\n2. What Are Output Values in Terraform ?\n3. Why Are They Useful and Where Do I Use Them ?\n4. Adding Outputs to Our Configuration\n5. Common Output Pitfalls and Tips"
+    "contentSnippet": "This is a submission for the Google AI Agents Writing Challenge: Learning Reflections\nCertificate Submission Version of your 5-day course experience.\n5-Day AI Agents Intensive Course – Experience Summ"
   },
   {
     "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",
@@ -103,6 +103,13 @@
     "pubDate": "2025-12-03T15:58:42.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
+  },
+  {
+    "title": "CTOとして会社に置くと決めた、ありがたい技術書5選",
+    "link": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
+    "pubDate": "Wed, 03 Dec 2025 00:00:04 GMT",
+    "source": "Zenn",
+    "contentSnippet": "技術本を紹介したい！\nRecustomer株式会社でCTOをしている、眞鍋と申します。\nまだCTOとしては日が浅いのですが、\n先日、Startup CTO of the Year 2025 でオーディエンス賞をいただくなど、\n少しずつCTOらしい活動が増えてきました。\nhttps://prtimes.jp/main/html/rd/p/000000093.000046039.html\nどんな会社に"
   },
   {
     "title": "パッケージマネージャーで Runtime のバージョンを管理する",
@@ -186,7 +193,7 @@
     "link": "https://zenn.dev/jij_inc/articles/2025-12-03-haskeller-and-rustacean-1000x-faster",
     "pubDate": "Tue, 02 Dec 2025 15:00:03 GMT",
     "source": "Zenn",
-    "contentSnippet": "この記事は Jij Advent Calendar 2025、Rust Advent Calendar 2025 シリーズ1、およびHaskell Advent Calendar 2025の3日目の記事です。\n\n 更新履歴\n\n2025-12-03 00:00 - 初版自動公開\n2025-12-03 08:40 - 軽微な誤字の修正\n\n\n はじめに：Haskeller × Rustacean = ∞"
+    "contentSnippet": "この記事は Jij Advent Calendar 2025、Rust Advent Calendar 2025 シリーズ1、およびHaskell Advent Calendar 2025の3日目の記事です。\n\n 更新履歴\n\n2025-12-04 08:50 - 軽微な誤字の修正2\n2025-12-03 08:40 - 軽微な誤字の修正\n2025-12-03 00:00 - 初版自動公開\n\n\n は"
   },
   {
     "title": "新人のときに読みたかった ―『先輩データサイエンティストからの指南書』を読んで",
@@ -196,11 +203,25 @@
     "contentSnippet": "株式会社松尾研究所のごうやです。\n本記事は、松尾研究所 Advent Calendar 2025の記事です。\n株式会社ブレインパッドの浅野様から先輩データサイエンティストからの指南書をご恵贈賜りましたのでレビューします。\n\n はじめに\nデータサイエンティストとして働いていると、「分析はできたけど、その先どうするの？」と素朴な疑問が湧きました。手元のNotebookで精度の高いモデルができた。技術検"
   },
   {
-    "title": "月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。",
-    "link": "https://zenn.dev/dress_code/articles/89a5ceaa6eac37",
-    "pubDate": "Tue, 02 Dec 2025 12:00:30 GMT",
+    "title": "初心者が爆速で Claude Code を習得する 10 のステップ",
+    "link": "https://zenn.dev/aws_japan/articles/235df74854bad6",
+    "pubDate": "Tue, 02 Dec 2025 13:03:31 GMT",
     "source": "Zenn",
-    "contentSnippet": "Dress Code Advent Calendar 2025、2日目の記事です🎉\n私がgit worktreeを使うに至るまでの話と、worktreeを使う際のおすすめのツールを紹介します。AI系の話はしません。\nよろしくお願いします！\nhttps://adventar.org/calendars/12017\n\n はじめに。\n「タイトル盛りすぎだろw」と思われそうですが、DRESS CODE（"
+    "contentSnippet": "はじめに\nClaude Code を使い始めて、こんな悩みはありませんか？\n\n「セットアップしたけど、次に何をすればいいの？」\n「便利な機能があるらしいけど、使いこなせていない」\n「MCP サーバーって便利そうだけど、試しに何から入れればいいの？」\n\nこの記事では、Claude Code on Amazon Bedrock の設定が完了した方が、Claude Code の基本的な操作方法を知り、「"
+  },
+  {
+    "title": "高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。",
+    "link": "https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-02T11:59:41.000Z",
+    "source": "Qiita",
+    "contentSnippet": "概要\n地方の公立高校に在籍する筆者が、文化祭の整理券システムを開発したときの話をまとめました。大勢の人に使ってもらうサービスを作ったのは初めてだったのですが、失敗含め自分にとって良い体験になりました。\n突っ込みどころも多いと思うので、ご指摘等ありましたらコメントしていただ..."
+  },
+  {
+    "title": "DRYにしすぎるとコードは干からびる",
+    "link": "https://zenn.dev/recustomer/articles/507cb85b321a63",
+    "pubDate": "Tue, 02 Dec 2025 07:00:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "前置き\n手前味噌ながら、弊社は高い開発生産性を評価され、Findy Team+ Award 2024, 2025 を2年連続で受賞した。華やかな受賞理由の裏側には様々な要因があるが、その中でも技術的な側面としてひっそりと、開発者が直接触れる作業領域に対して強く作用させていた力学のひとつが、本記事にて紹介する 「DRY との向き合い方(=境界設計)」 である。\n\n 「最短距離」で走るつもりが、最速で"
   },
   {
     "title": "AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した",
@@ -222,27 +243,6 @@
     "pubDate": "Tue, 02 Dec 2025 02:10:50 GMT",
     "source": "Zenn",
     "contentSnippet": "!\nこの記事は Ubie Tech Advent Calendar 2025 の1日目の記事です。\n\nUbieのモバイルアプリ(iOS/Android)では、身体の悩みを相談できる医療AIエージェントを提供しています。toCでLLMプロダクトを提供する上では、コスト最適化が重要な課題となります。\nこの記事では、その中核となる技術のひとつであるPrompt Cachingのプラクティスを紹介します。"
-  },
-  {
-    "title": "爆速CLI入門 ~最初に知りたかったTips~",
-    "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner",
-    "pubDate": "Tue, 02 Dec 2025 00:32:58 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事はTechBullのアドカレ2日目の記事です。\n\n はじめに\n怠惰はプログラマの美徳である。\nCLIはそんな怠惰人間を支えてくれる最強の相棒である。\nキーボードだけで操作し、自動化を積み重ねていく。\nそんな世界へ踏み込もうとすると、最初の一歩で壁にぶつかる。\n本を開けば呪文のようなコマンドオプションが並び、由来もわからない。\nman や help があると言われても英語がつらい。\n何から手"
-  },
-  {
-    "title": "AI出力の品質が悪い？「レビューと改善を3回繰り返して」だけで圧倒的に品質が上がる",
-    "link": "https://zenn.dev/loglass/articles/c356dbc3062137",
-    "pubDate": "Tue, 02 Dec 2025 00:23:51 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、ログラスの松岡(@little_hand_s)です。\n\n\n 3行まとめ\n\nAIに 「レビューと改善を3回繰り返して」 と指示するだけで、アウトプットの品質が向上する\n本記事では、この手法を 「セルフレビュー反復」 と呼び、ドキュメント生成でもコーディングでも活用できる\nシンプルな指示から始めても効果が出る。レビュー基準を育てていくことで、さらに品質が向上する\n\n!\n本記事は「Claud"
-  },
-  {
-    "title": "スパゲティプログラムに3行追加したら決済ができなくなった話",
-    "link": "https://qiita.com/ryo_s0127/items/d5ee3d84237e62bc5cbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-01T22:05:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "これは私が決済系のシステム開発に携わっていた時の話\n個人や企業が特定されるような情報は伏せますが、数年前炎上の末にできあがった1つのシステムがありました。\nそれはそれはものすごいコードだったのです。\n\nどんなコードだったのか\nこのシステムは画面で値を入力し、次々と画面を遷..."
   },
   {
     "title": "Kubernetesはなぜ難しいのか？",

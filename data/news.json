@@ -1,73 +1,73 @@
 [
   {
-    "title": "Getting a NO from an open source maintainer",
-    "link": "https://dev.to/sean_k_3986f74eac06354e59/getting-a-no-from-an-open-source-maintainer-5b5j",
-    "pubDate": "Fri, 05 Dec 2025 12:35:47 +0000",
+    "title": "CipherMuse: The Haunted Fusion of AI, Encryption & Steganography🎃",
+    "link": "https://dev.to/gokul_d_3a23848cb37b295de/ciphermuse-the-haunted-fusion-of-ai-encryption-steganography-170i",
+    "pubDate": "Fri, 05 Dec 2025 18:35:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You think you're immune from rejections in reallife, zen and all, but getting a big NO from an opensource maintainer always hits differently"
+    "contentSnippet": "When AI art collides with military-grade encryption, you don’t just build an app — you summon a digital cryptkeeper.\nWhen Kiroween announced the “Frankenstein” theme, our minds instantly went wild. Wh"
   },
   {
-    "title": "AWS re:Invent 2025 - New Era of Platform Engineering – Agentic AI-Powered Self-Service (AIM359)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-new-era-of-platform-engineering-agentic-ai-powered-self-service-aim359-hii",
-    "pubDate": "Fri, 05 Dec 2025 12:34:23 +0000",
+    "title": "How i made BeeThreads and what doest it solve",
+    "link": "https://dev.to/samsantosb/how-i-made-beethreads-and-what-doest-it-solve-2fk0",
+    "pubDate": "Fri, 05 Dec 2025 18:35:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - New Era of Platform Engineering – Agentic AI-Powered Self-Service (AIM359)\nIn this video, Ruslan Kusov, Cloud COE Director at Sof"
+    "contentSnippet": "About 1 week ago i was thinking i would like i could make any sync code work as a Promise. Since Event Loop and V8 shares the same thread and it gives us a lot of problems with heavy CPU operations.\nT"
   },
   {
-    "title": "AWS re:Invent 2025 - Optimize for AWS with intelligent automation (AIM235)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-optimize-for-aws-with-intelligent-automation-aim235-1edj",
-    "pubDate": "Fri, 05 Dec 2025 12:19:23 +0000",
+    "title": "Behind the Screens: The Quiet Work That Shapes the Code",
+    "link": "https://dev.to/mzghosty/behind-the-screens-the-quiet-work-that-shapes-the-code-jpm",
+    "pubDate": "Fri, 05 Dec 2025 18:28:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Optimize for AWS with intelligent automation (AIM235)\nIn this video, the session explores performance and cost challenges of Agen"
+    "contentSnippet": "Most of the real work in development happens before the first line of code.  It is in the structure, the workflow, the decisions, and the way everything fits together behind the scenes.\nLast week, I w"
   },
   {
-    "title": "Implement Noise Suppression in JavaScript",
-    "link": "https://dev.to/khushi_nakra_eb3cba0ef3b5/real-time-noise-suppression-in-javascript-2o18",
-    "pubDate": "Fri, 05 Dec 2025 12:18:50 +0000",
+    "title": "AWS re:Invent 2025 - What's new with AWS Lambda (CNS376)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-with-aws-lambda-cns376-3ojp",
+    "pubDate": "Fri, 05 Dec 2025 18:26:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Noise suppression can significantly improve the audio quality in any web app. This tutorial shows how to integrate the Koala Noise Suppression Web SDK from Picovoice and run speech enhancement directl"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - What's new with AWS Lambda (CNS376)\nIn this video, the AWS Lambda product management lead presents 2025's transformational server"
   },
   {
-    "title": "✨ FSCSS Quick Tip — Using Arrays the Smart Way",
-    "link": "https://dev.to/fscss/fscss-quick-tip-using-arrays-the-smart-way-dmi",
-    "pubDate": "Fri, 05 Dec 2025 12:17:22 +0000",
+    "title": "Building EduCollab: How Kiro’s Multi-Feature Approach Revolutionized My Development Workflow",
+    "link": "https://dev.to/priyadarshini_r_9f9488a19/building-educollab-how-kiros-multi-feature-approach-revolutionized-my-development-workflow-35dp",
+    "pubDate": "Fri, 05 Dec 2025 18:26:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "FSCSS gives CSS superpowers, and one of my favorite features is how it handles arrays.\nToday, here’s a very short example showing two ways to create arrays in FSCSS.\nYou can declare an array using var"
+    "contentSnippet": "---\ntitle: \"Building EduCollab: How Kiro’s Multi-Feature Approach Revolutionized My Development Workflow\"\npublished: false\ndescription: \"How I built a production-ready educational collaboration platfo"
   },
   {
-    "title": "Js in loop",
-    "link": "https://dev.to/bharath_11/js-in-loop-14e0",
-    "pubDate": "Fri, 05 Dec 2025 12:17:18 +0000",
+    "title": "How I Built a 3D Product Configurator using Alpine.js & Three.js (No React required!)",
+    "link": "https://dev.to/espfra95/how-i-built-a-3d-product-configurator-using-alpinejs-threejs-no-react-required-ah6",
+    "pubDate": "Fri, 05 Dec 2025 18:23:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Loop:\n1. for Loop\nThe for loop repeats a block of code a specific number of times. It contains initialization, condition, and increment/decrement in one line.\nfor (let i = 1; i <= 3; i++) {\n    consol"
+    "contentSnippet": "The Goal\nInstead of reaching for heavy frameworks like React Three Fiber, I wanted to explore a lightweight, modular approach using Native ES Modules and Alpine.js for state management.\nLive Demo: htt"
   },
   {
-    "title": "Transformando WordPress en una Herramienta Sostenible: Plugins y Configuraciones Eco-Amigables",
-    "link": "https://dev.to/lontafara/transformando-wordpress-en-una-herramienta-sostenible-plugins-y-configuraciones-eco-amigables-25je",
-    "pubDate": "Fri, 05 Dec 2025 12:15:15 +0000",
+    "title": "🧟‍♂️ Stitching the Spirit: Engineering a \"Frankenstein\" AI Agent with Kiro & MCP",
+    "link": "https://dev.to/vaishnavi_mishra_9a68c0b2/stitching-the-spirit-engineering-a-frankenstein-ai-agent-with-kiro-mcp-4okb",
+    "pubDate": "Fri, 05 Dec 2025 18:22:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "En la era de la transformación digital, el impacto ambiental de la tecnología es un tema que debe ser considerado seriamente. Las plataformas de creación de sitios web, como WordPress, no son una exce"
+    "contentSnippet": "Most AI hackathon projects are just chatbots with a fancy wrapper. For Kiro-ween, the theme was 'Frankenstein,' so I took that literally. I didn't want another polished, polite chatbot. I wanted to st"
   },
   {
-    "title": "Efecto copos de nieve para dar a nuestra web un toque navideño",
-    "link": "https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01",
-    "pubDate": "Fri, 05 Dec 2025 12:11:43 +0000",
+    "title": "What’s Next — Freelancers & AI-Generated Documents: Emerging Risks & Smart Practices for 2026”",
+    "link": "https://dev.to/cyber8080/whats-next-freelancers-ai-generated-documents-emerging-risks-smart-practices-for-2026-38io",
+    "pubDate": "Fri, 05 Dec 2025 18:22:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hola, hoy os traigo un pequeño script que acabo de generar (si, si, con la ayuda inestimable de la IA, en este caso, Chat-GPT 5.1).\nCon este script tendremos en cualquier página un efecto de copos de "
+    "contentSnippet": "Introduction\n\n\nAs generative AI tools get smarter and more deeply integrated into everyday workflows, freelancers and small teams face a wave of new challenges — and opportunities. The previous post w"
   },
   {
-    "title": "Master Server-Sent Events (SSE) in Symfony 7.4",
-    "link": "https://dev.to/mattleads/master-server-sent-events-sse-in-symfony-74-15co",
-    "pubDate": "Fri, 05 Dec 2025 12:11:33 +0000",
+    "title": "I Built a Infinite Variation Knowledge Base That AI Can Query — Here's How Kiro Made It Possible 🎃",
+    "link": "https://dev.to/keshraf/i-built-a-infinite-variation-knowledge-base-that-ai-can-query-heres-how-kiro-made-it-possible-32d2",
+    "pubDate": "Fri, 05 Dec 2025 18:21:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I often see teams reach for WebSockets (via Socket.io or Pusher) when they simply need to update a UI with server-side state changes. While WebSockets are powerful, they are often overkill. If your re"
+    "contentSnippet": "How I used specs, hooks, steering, and MCP integrations to build NEXUS in a weekend\nEver clicked a link in your notes app and immediately forgot what you were looking at before? Yeah, me too. That fru"
   },
   {
-    "title": "How AWS Kiro Was Used to Build DreamWeen",
-    "link": "https://dev.to/jeanmarc_bah_474aa3fc1b6/how-aws-kiro-was-used-to-build-dreamween-2nmh",
-    "pubDate": "Fri, 05 Dec 2025 12:10:40 +0000",
+    "title": "My Journey Through the Google & Kaggle 5-Day AI Agents Intensive Course",
+    "link": "https://dev.to/dhanashree_pande/my-journey-through-the-google-kaggle-5-day-ai-agents-intensive-course-5fp5",
+    "pubDate": "Fri, 05 Dec 2025 18:18:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Project: DreamWeen - AI-Powered Dream Visualization Platform\n\nChallenge: Kiroween Hackathon 2025\n\nCategory: Costume Contest\nDevelopment Period: October - December 2025\n\nDreamWeen was built entirely us"
+    "contentSnippet": "I recently completed the Google x Kaggle 5-Day AI Agents Intensive. It was one of the most eye-opening learning experiences I’ve had this year. I joined because I kept hearing about “agentic AI,” but "
   },
   {
     "title": "“距離感を間違えない”コミュニケーション",

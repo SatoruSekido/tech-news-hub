@@ -1,73 +1,94 @@
 [
   {
-    "title": "Building a Stunning Travel Agency Landing Page with Uno Platform — My WOW Factor Challenge Submission 🤩",
-    "link": "https://dev.to/hadil/building-a-stunning-travel-agency-landing-page-with-uno-platform-my-wow-factor-challenge-4gio",
-    "pubDate": "Fri, 05 Dec 2025 06:39:54 +0000",
+    "title": "Getting a NO from an open source maintainer",
+    "link": "https://dev.to/sean_k_3986f74eac06354e59/getting-a-no-from-an-open-source-maintainer-5b5j",
+    "pubDate": "Fri, 05 Dec 2025 12:35:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps - WOW Factor\nAfter finishing my first project for the Uno Platform Hot Design Challenge, the Instagram-style profile page, I thought t"
+    "contentSnippet": "You think you're immune from rejections in reallife, zen and all, but getting a big NO from an opensource maintainer always hits differently"
   },
   {
-    "title": "Lightweight big data processing technology",
-    "link": "https://dev.to/esproc_spl/lightweight-big-data-processing-technology-hhl",
-    "pubDate": "Fri, 05 Dec 2025 06:37:49 +0000",
+    "title": "AWS re:Invent 2025 - New Era of Platform Engineering – Agentic AI-Powered Self-Service (AIM359)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-new-era-of-platform-engineering-agentic-ai-powered-self-service-aim359-hii",
+    "pubDate": "Fri, 05 Dec 2025 12:34:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The framework of modern big data application is roughly as follows:\n\nThis is a heavy solution.\nLike other technologies, this architecture has some drawbacks in practice:\nFirst, O&M is complex. Cluster"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - New Era of Platform Engineering – Agentic AI-Powered Self-Service (AIM359)\nIn this video, Ruslan Kusov, Cloud COE Director at Sof"
   },
   {
-    "title": "From Fresher to Cloud Architect: How to Start Your AWS Cloud Journey",
-    "link": "https://dev.to/aws-builders/from-fresher-to-cloud-architect-how-to-start-your-aws-cloud-journey-1l3i",
-    "pubDate": "Fri, 05 Dec 2025 06:34:12 +0000",
+    "title": "AWS re:Invent 2025 - Optimize for AWS with intelligent automation (AIM235)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-optimize-for-aws-with-intelligent-automation-aim235-1edj",
+    "pubDate": "Fri, 05 Dec 2025 12:19:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "👋 Hey there, tech enthusiasts! \nI'm Sarvar, a Cloud Architect with a passion for transforming complex technological challenges into elegant solutions. With extensive experience spanning Cloud Operati"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Optimize for AWS with intelligent automation (AIM235)\nIn this video, the session explores performance and cost challenges of Agen"
   },
   {
-    "title": "Five Days, Endless Possibilities: here is the five day summary and a capstone project",
-    "link": "https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia",
-    "pubDate": "Fri, 05 Dec 2025 06:17:11 +0000",
+    "title": "Implement Noise Suppression in JavaScript",
+    "link": "https://dev.to/khushi_nakra_eb3cba0ef3b5/real-time-noise-suppression-in-javascript-2o18",
+    "pubDate": "Fri, 05 Dec 2025 12:18:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a summary of what I learned in five day intensive course with google\nProperty\nThe notebook provides a hands-on introduction to building AI Agents using Google's Agent Development Kit (ADK). Th"
+    "contentSnippet": "Noise suppression can significantly improve the audio quality in any web app. This tutorial shows how to integrate the Koala Noise Suppression Web SDK from Picovoice and run speech enhancement directl"
   },
   {
-    "title": "Increasing Technical Onboarding Velocity for Your Engineering Team",
-    "link": "https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo",
-    "pubDate": "Fri, 05 Dec 2025 06:16:26 +0000",
+    "title": "✨ FSCSS Quick Tip — Using Arrays the Smart Way",
+    "link": "https://dev.to/fscss/fscss-quick-tip-using-arrays-the-smart-way-dmi",
+    "pubDate": "Fri, 05 Dec 2025 12:17:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TLDR\n\n\nProblem: Engineers change teams frequently, and slow onboarding wastes everyone's time.\nGoal: Minimise the time between git clone and first meaningful pull request.\nKey practices:\nSetup scripts"
+    "contentSnippet": "FSCSS gives CSS superpowers, and one of my favorite features is how it handles arrays.\nToday, here’s a very short example showing two ways to create arrays in FSCSS.\nYou can declare an array using var"
   },
   {
-    "title": "The Secret Life of Go: Goroutines and Channels",
-    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-goroutines-and-channels-2hib",
-    "pubDate": "Fri, 05 Dec 2025 06:16:19 +0000",
+    "title": "Js in loop",
+    "link": "https://dev.to/bharath_11/js-in-loop-14e0",
+    "pubDate": "Fri, 05 Dec 2025 12:17:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Chapter 8: Concurrency Without Fear\n\n\nWednesday morning arrived cold and bright. Ethan descended to the archive carrying coffee and a paper bag that smelled of cinnamon and cardamom.\nEleanor looked up"
+    "contentSnippet": "Loop:\n1. for Loop\nThe for loop repeats a block of code a specific number of times. It contains initialization, condition, and increment/decrement in one line.\nfor (let i = 1; i <= 3; i++) {\n    consol"
   },
   {
-    "title": "Mastering the Rhythm of Geometric Challenges: A Player's Guide",
-    "link": "https://dev.to/rosiespencer/mastering-the-rhythm-of-geometric-challenges-a-players-guide-5245",
-    "pubDate": "Fri, 05 Dec 2025 06:14:38 +0000",
+    "title": "Transformando WordPress en una Herramienta Sostenible: Plugins y Configuraciones Eco-Amigables",
+    "link": "https://dev.to/lontafara/transformando-wordpress-en-una-herramienta-sostenible-plugins-y-configuraciones-eco-amigables-25je",
+    "pubDate": "Fri, 05 Dec 2025 12:15:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the vast universe of rhythm-based platformers, few games capture the perfect blend of simplicity, challenge, and addictive gameplay quite like Geometry Dash. This deceptively straightforward game h"
+    "contentSnippet": "En la era de la transformación digital, el impacto ambiental de la tecnología es un tema que debe ser considerado seriamente. Las plataformas de creación de sitios web, como WordPress, no son una exce"
   },
   {
-    "title": "The Bronze Tier is Far From Gold: Avoiding Toxic Assets (And Other Medallion Architecture Lies)",
-    "link": "https://dev.to/aronchick/the-bronze-tier-is-far-from-gold-avoiding-toxic-assets-and-other-medallion-architecture-lies-4ld3",
-    "pubDate": "Fri, 05 Dec 2025 06:12:10 +0000",
+    "title": "Efecto copos de nieve para dar a nuestra web un toque navideño",
+    "link": "https://dev.to/drodero/efecto-copos-de-nieve-para-dar-a-nuestra-web-un-toque-navideno-3j01",
+    "pubDate": "Fri, 05 Dec 2025 12:11:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "LET'S SAY you're a hot new drone company. Doing, I don't know, crowd counting at festivals.\nOne 4K camera generates roughly 45 gigabytes of footage per hour. That’s your baseline. Add additional senso"
+    "contentSnippet": "Hola, hoy os traigo un pequeño script que acabo de generar (si, si, con la ayuda inestimable de la IA, en este caso, Chat-GPT 5.1).\nCon este script tendremos en cualquier página un efecto de copos de "
   },
   {
-    "title": "From Video to Voiceover in Seconds: Running MLX Swift on ARM-Based iOS Devices",
-    "link": "https://dev.to/yooi/from-video-to-voiceover-in-seconds-running-mlx-swift-on-arm-based-ios-devices-1md9",
-    "pubDate": "Fri, 05 Dec 2025 06:09:27 +0000",
+    "title": "Master Server-Sent Events (SSE) in Symfony 7.4",
+    "link": "https://dev.to/mattleads/master-server-sent-events-sse-in-symfony-74-15co",
+    "pubDate": "Fri, 05 Dec 2025 12:11:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I started exploring ARM-based AI applications - how generative AI and machine learning models can run locally on ARM devices. Video editing friction sparked the idea: how can I cut down the time to po"
+    "contentSnippet": "I often see teams reach for WebSockets (via Socket.io or Pusher) when they simply need to update a UI with server-side state changes. While WebSockets are powerful, they are often overkill. If your re"
   },
   {
-    "title": "Pushing Kiro to the Max: UX Schizophrenia & MCP Integration",
-    "link": "https://dev.to/tandivina/pushing-kiro-to-the-max-ux-schizophrenia-mcp-integration-3no5",
-    "pubDate": "Fri, 05 Dec 2025 06:08:16 +0000",
+    "title": "How AWS Kiro Was Used to Build DreamWeen",
+    "link": "https://dev.to/jeanmarc_bah_474aa3fc1b6/how-aws-kiro-was-used-to-build-dreamween-2nmh",
+    "pubDate": "Fri, 05 Dec 2025 12:10:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SEO is a nightmare. It’s a terrifying landscape of broken links, invisible meta tags, and cryptic Google algorithms.\nFor the Kiroween Hackathon, I decided to lean into that fear.\nHere is how I built a"
+    "contentSnippet": "Project: DreamWeen - AI-Powered Dream Visualization Platform\n\nChallenge: Kiroween Hackathon 2025\n\nCategory: Costume Contest\nDevelopment Period: October - December 2025\n\nDreamWeen was built entirely us"
+  },
+  {
+    "title": "“距離感を間違えない”コミュニケーション",
+    "link": "https://qiita.com/KURIeIGHT/items/5e8a857ff54ac1cb9ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T03:12:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "初めに\nコミュニケーション能力が大事だよねって話を、自分の言葉で改めてアウトプットしようと思います。\n今日は、私が日々の会話で意識しているポイントをまとめます。\n新人エンジニアや「コミュニケーションが苦手」な人に届けばうれしいです！\n\nコミュニケーションの“距離感”ってど..."
+  },
+  {
+    "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",
+    "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T01:53:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n私の元職場の上司は、IEEEのことを「イェ～～」と呼んでいた。\nパリピかよ。\n会議中に「その規格はイェ～～が決めていて……」と仰るものだから、こっちは笑いが止まらないのである。正解はご存知「アイトリプルイー」である。\nだが、よく考えたらIT業界には初見では読めな..."
+  },
+  {
+    "title": "客先本番環境のNASデータをすべてrmした事件",
+    "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:05:28.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n数年前にシステム開発をしており、そのときに客先NASのデータをすべてrmした話です。\nこのシステムは複数のサブシステムとNASで構成されていました。\n１つのサブシステムの開発を担当しており、不具合改修のためにアップデートを行った時の今回の事件を引き起こしました。..."
   },
   {
     "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",
@@ -91,11 +112,32 @@
     "contentSnippet": "1. はじめに：何が起きたのか\n2025年12月3日、Next.js および React Server Components (RSC) の通信プロトコルにおいて、認証不要でリモートコード実行 (RCE) が可能となる重大な脆弱性が公表されました。\n今回、特に事態を重くしている要因は以下の2点です。\n\n\n土台である React 起因の欠陥\nNext.js 固有の実装ミスではなく、その基盤である R"
   },
   {
+    "title": "朝起きたら、React・Next.js に重大脆弱性が発生！【CVE-2025-55182・66478】",
+    "link": "https://zenn.dev/gymynnym/articles/1ffbae5a18b404",
+    "pubDate": "Thu, 04 Dec 2025 11:48:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "React・Next.jsに発生した恐ろしい脆弱性\n\n はじめに\n\n\n翻訳 : React Server Components における重大な脆弱性（CVE-2025-55182）が、責任ある形で公開されました。この脆弱性は、React 19 およびそれを利用するフレームワーク（Next.js を含む、CVE-2025-66478）に影響します。\n\n今朝、Vercel からこのようなメールが届きま"
+  },
+  {
+    "title": "JSでギャルゲー！～JavaScriptでノベルゲームエンジン作った～",
+    "link": "https://zenn.dev/dgbt/articles/f36d356929a0b6",
+    "pubDate": "Thu, 04 Dec 2025 07:53:15 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は、https://speakerdeck.com/endohizumi/jsdegiyaruge-javascriptdenoberugeenzinzuo-tutatuta の本を、元に、アドベントカレンダー用に、追記・修正したものです。\n\n 初めに\nはいどーも、はじめましての方ははじめまして、ご存知の方はそうだよ。ヒズミさんだよ（「10割、はじめてだろ！」「全員じゃねーか！」）\n趣味と"
+  },
+  {
     "title": "TypeScript 7で消えるtsconfigのレガシー設定。target: es5やbaseUrlにサヨウナラ",
     "link": "https://zenn.dev/ubie_dev/articles/typescript7-goodbye-legacy",
     "pubDate": "Thu, 04 Dec 2025 07:33:41 GMT",
     "source": "Zenn",
     "contentSnippet": "TypeScript 7ではtarget: es5やbaseUrlといった長年のレガシーな設定が削除され、strict: trueが標準になるなどデフォルトの挙動が変更されます。本記事では、消えるレガシーな設定や挙動が変わる主要な設定について、設定の基本知識から代替案までを解説します。ご自身のtsconfig.jsonを更新する際の参考になれば幸いです。\n\n TypeScript 7とは\nそもそも"
+  },
+  {
+    "title": "MCPサーバーになってみた",
+    "link": "https://qiita.com/jugyo/items/12633900df47cecbf5c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T06:35:46.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nMCP（Model Context Protocol）は、AIエージェントが外部ツールと連携するためのプロトコルです。通常、MCPサーバーはデータベースへのアクセスやファイル操作など、プログラムが自動で処理を行います。\n今日は私がMCPサーバーになってみました。..."
   },
   {
     "title": "【npm】11月21日以降にnpm installした人へ - Shai-Hulud感染チェック & 多層防御ガイド",
@@ -133,13 +175,6 @@
     "contentSnippet": "皆さんこんにちは。この記事は株式会社カオナビ Advent Calendar 2025の4日目（シーズン3）の記事です。\nTypeScriptに関連する最近のニュースとしては、TypeScriptチームからネイティブ版（Go移植版）の現在のステータスが共有されましたね。\n\n..."
   },
   {
-    "title": "漏洩しても使えない？ DPoPが実現する『鉄壁のAWS CLI認証』",
-    "link": "https://qiita.com/sapi_kawahara/items/1cb5aed50ca172f124ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T22:07:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "AWS CLIに新機能が！\n2025年11月18日、AWS CLIに新しい認証コマンド aws login が追加されました。 この機能は、従来のクレデンシャルファイル（アクセスキーとシークレットキーの保存）に代わる、より安全な認証手段を提供するものです。\n\n本機能は..."
-  },
-  {
     "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",
     "link": "https://www.publickey1.jp/blog/25/anthropicjavascriptbunclaude_code.html",
     "pubDate": "2025-12-03T16:06:41.000Z",
@@ -175,13 +210,6 @@
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
   },
   {
-    "title": "Flutterフォームバリデーションの呪縛を解き放て！ZodArtで宣言的に書いてみた",
-    "link": "https://qiita.com/zzundalek/items/42af805719960ab56dcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T15:49:11.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事のコードは全部GitHubにあります 🎯\n\nFlutterでフォームバリデーションを書いたことのある方は納得していただけると思いますが、バリデーション & 値の取得　——　ボイラープレートコードが多くてコードの再利用性が低いのが現状の課題です。\nその苦労を少し..."
-  },
-  {
     "title": "システム再起動で起動しなくなった話",
     "link": "https://qiita.com/zzzzico/items/2f779dd0697eca8abd86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T15:27:32.000Z",
@@ -203,13 +231,6 @@
     "contentSnippet": "この記事は「言語実装 Advent Calendar 2025」の3日目の記事です。\nこの記事は、新しくプログラミング言語を設計する際に文字列型をどうするべきかについて、私の持論をまとめたものです。\n以前「新しくプログラミング言語を作る際に数値型をどうするべきか」という記事を書きましたが、この記事はそれの文字列版です。\n推敲が足りずに同じことを何箇所かで繰り返している場合がありますが、冗長性だと思"
   },
   {
-    "title": "スペック駆動開発（Spec‑Driven Development）とは？",
-    "link": "https://qiita.com/CoffeeCoffeeCoffee/items/4612e1ee34ce3b3fe49b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T06:50:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "スペック駆動開発とは？\nスペック駆動開発（Specification-Driven Development）とは、「何を作るべきか」を最初に明確な仕様（スペック）として定義し、その仕様を基準に実装・テスト・レビューを進める開発スタイルです。\n最近、ChatGPT や Cu..."
-  },
-  {
     "title": "AI使いすぎで思考力が雑魚になる対策プロンプト-「Thinking Gym」",
     "link": "https://qiita.com/WdknWdkn/items/c67c90d75e7ec942e60c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T05:49:05.000Z",
@@ -222,13 +243,6 @@
     "pubDate": "Wed, 03 Dec 2025 00:00:04 GMT",
     "source": "Zenn",
     "contentSnippet": "技術本を紹介したい！\nRecustomer株式会社でCTOをしている、眞鍋と申します。\nまだCTOとしては日が浅いのですが、\n先日、Startup CTO of the Year 2025 でオーディエンス賞をいただくなど、\n少しずつCTOらしい活動が増えてきました。\nhttps://prtimes.jp/main/html/rd/p/000000093.000046039.html\nどんな会社に"
-  },
-  {
-    "title": "コンセント配線で9万円を無駄にしかけた話",
-    "link": "https://qiita.com/waricoma/items/03d53fbbc1c5862e0140?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-02T21:14:09.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこちらは 本番環境などでやらかしちゃった人 Advent Calendar 2025 3日目の記事です 🥳\n\n客先のDBを間違えて削除した話 by lif_yumumu さん\nスパゲティプログラムに3行追加したら決済ができなくなった話 by ryo_s0127 ..."
   },
   {
     "title": "Claude Code公式Pluginのすすめ",
@@ -257,20 +271,6 @@
     "pubDate": "2025-12-02T18:46:53.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社独自の基盤モデル「Amazon Nova 2」に対してユーザーが独自データを用いて学習させることでカスタマイズした基盤モデルを作成できる新サービス「Nova Forge」を発表しました。 Nova Forgeは、Amazon Nova 2の基盤モデルの学"
-  },
-  {
-    "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
-    "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
-    "pubDate": "Tue, 02 Dec 2025 15:04:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は、Qiita の TypeScript Advent Calendar 2025 の 2025-12-03 投稿分です。\n\n\n 概要\nTypeScript では、「ユーザー定義型ガード」という種類の関数が書けます。その一例をまず見てみましょう。\n\nguards/is-string.ts\n/**\n * ユーザー定義型ガード。入力値が `string` 型であるときに、真を返す。\n */"
-  },
-  {
-    "title": "HaskellerとRustaceanが知恵をあわせてプロダクトを3日で1000倍高速化した話",
-    "link": "https://zenn.dev/jij_inc/articles/2025-12-03-haskeller-and-rustacean-1000x-faster",
-    "pubDate": "Tue, 02 Dec 2025 15:00:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は Jij Advent Calendar 2025、Rust Advent Calendar 2025 シリーズ1、およびHaskell Advent Calendar 2025の3日目の記事です。\n\n 更新履歴\n\n2025-12-04 08:50 - 軽微な誤字の修正2\n2025-12-03 08:40 - 軽微な誤字の修正\n2025-12-03 00:00 - 初版自動公開\n\n\n は"
   },
   {
     "title": "高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。",

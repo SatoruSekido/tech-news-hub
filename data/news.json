@@ -1,73 +1,73 @@
 [
   {
-    "title": "Building Integral: A Full-Stack Productivity Suite with AI-Assisted Development",
-    "link": "https://dev.to/exyness/building-integral-a-full-stack-productivity-suite-with-ai-assisted-development-1een",
-    "pubDate": "Thu, 04 Dec 2025 18:31:37 +0000",
+    "title": "ForgeKit: When One Creative Engine Becomes Two Worlds",
+    "link": "https://dev.to/kivodefly/forgekit-when-one-creative-engine-becomes-two-worlds-f7n",
+    "pubDate": "Fri, 05 Dec 2025 02:06:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building Integral: How I Shipped a Full-Stack Productivity Suite in Weeks with AI-Assisted Development\n\n\n\nI just shipped Integral - a complete productivity platform with task management, budgeting, jo"
+    "contentSnippet": "I’ve always liked making things.\nWhen I was a kid, I spent hours with papercraft books, clay models, and step-by-step craft guides, made mistakes, and slowly turned flat paper into something real. Tha"
   },
   {
-    "title": "CAPS Chromium AI Plugin Skeleton",
-    "link": "https://dev.to/ariay/caps-chromium-ai-plugin-skeleton-9ae",
-    "pubDate": "Thu, 04 Dec 2025 18:24:44 +0000",
+    "title": "Best Practices for Hardening Enterprise Linux Servers and Enhancing Cloud Security",
+    "link": "https://dev.to/balaramakrishna_althi_3fc/best-practices-for-hardening-enterprise-linux-servers-and-enhancing-cloud-security-8lh",
+    "pubDate": "Fri, 05 Dec 2025 02:04:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Here is a polished, ready-to-publish blog entry based on your project description. I have formatted it to work well on platforms like Dev.to, Medium, or Hashnode.\nProject Repository: CAPS-Chromium-AI-"
+    "contentSnippet": "Linux servers power a majority of enterprise workloads — from on-premise data centers to cloud platforms like AWS, Azure, and GCP. While Linux is inherently secure, misconfigurations, weak access cont"
   },
   {
-    "title": "SwiftUI #1: Proyecto plantilla",
-    "link": "https://dev.to/david_goyes_a488f58a17a53/proyecto-plantilla-de-swiftui-3nk1",
-    "pubDate": "Thu, 04 Dec 2025 18:24:29 +0000",
+    "title": "AI Remedy Maker: Why Personalized Natural Medicine Needs Algorithms (Not Guesswork)",
+    "link": "https://dev.to/amit_gupta/ai-remedy-maker-why-personalized-natural-medicine-needs-algorithms-not-guesswork-edn",
+    "pubDate": "Fri, 05 Dec 2025 02:03:54 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Supongamos que quiero construir una aplicación llamada \"Memora\". Cuando uso la plantilla de Xcode para SwiftUI puedo ver que se genera un proyecto con la siguiente estructura:\nMemora\n| - Memora\n| | - "
+    "contentSnippet": "Modern wellness has a strange habit: we take ancient remedies that were once deeply personalized, strip away the personalization, put them in a bottle, and congratulate ourselves for “being natural.”\n"
   },
   {
-    "title": "Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow",
-    "link": "https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi",
-    "pubDate": "Thu, 04 Dec 2025 18:18:13 +0000",
+    "title": "Ringer Movies: The Top Five Movies of 2025",
+    "link": "https://dev.to/popcorn_movies/ringer-movies-the-top-five-movies-of-2025-1npc",
+    "pubDate": "Fri, 05 Dec 2025 02:00:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow\nThe Challenge\nI had 10 days to build something ambitious for the Kiroween Hackathon: an AI-powered fitness coach that wo"
+    "contentSnippet": "The Top Five Movies of 2025\n\n\nSean Fennessey and Amanda Dobbins are back with guests Chris Ryan and Adam Nayman to kick off the year by diving into the biggest movie news—rumors about Warner Bros. bei"
   },
   {
-    "title": "Integrando APIs REST externas",
-    "link": "https://dev.to/lucaspereiradesouzat/integrando-apis-rest-externas-22ea",
-    "pubDate": "Thu, 04 Dec 2025 18:16:25 +0000",
+    "title": "Smaller Self Contained Units: Writing Code that AI Can Work With",
+    "link": "https://dev.to/muralisaripalli/smaller-self-contained-units-writing-code-that-ai-can-work-with-2el9",
+    "pubDate": "Fri, 05 Dec 2025 01:55:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "## Consumindo APIs Externas com Axios/Fetch: Guia Completo\nA comunicação com APIs externas é uma habilidade fundamental para qualquer desenvolvedor web moderno. Seja para buscar dados, enviar informaç"
+    "contentSnippet": "As AI becomes more involved in software development, an important question appears. How should software be shaped so that AI tools can contribute meaningfully\nModern AI systems can assist with coding "
   },
   {
-    "title": "Day 10 : Conditionals, Dynamic Blocks & Splat Expressions",
-    "link": "https://dev.to/alafiz/day-10-conditionals-dynamic-blocks-splat-expressions-41ib",
-    "pubDate": "Thu, 04 Dec 2025 18:07:45 +0000",
+    "title": "Improving Enterprise Uptime and Efficiency Through Linux Automation Using Ansible By: Balaramakrishna Alti",
+    "link": "https://dev.to/balaramakrishna_althi_3fc/improving-enterprise-uptime-and-efficiency-through-linux-automation-using-ansible-by-30a8",
+    "pubDate": "Fri, 05 Dec 2025 01:53:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today was one of those days where everything just clicked. I didn’t just learn Terraform concepts, I finally felt like I understood why they matter and how they fit into real-world infrastructure. Com"
+    "contentSnippet": "In modern IT environments, where businesses demand higher reliability, rapid deployment, and zero downtime, manual server administration is no longer enough. Linux administrators today must manage hun"
   },
   {
-    "title": "I Built My First AI Agent in 30 Minutes (No Code Required) - Here's How",
-    "link": "https://dev.to/blogai/i-built-my-first-ai-agent-in-30-minutes-no-code-required-heres-how-3lea",
-    "pubDate": "Thu, 04 Dec 2025 18:07:26 +0000",
+    "title": "How AI is Transforming Document Work Across Industries: Use Cases",
+    "link": "https://dev.to/deepakgupta/how-ai-is-transforming-document-work-across-industries-use-cases-5eld",
+    "pubDate": "Fri, 05 Dec 2025 01:35:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey Dev.to community! 👋\nA few months ago, I would have told you that building an AI agent required Python expertise, understanding LangChain, and managing API keys in environment files.\nTurns out, I "
+    "contentSnippet": "\"We're saving 135 hours per month just in our marketing team.\"\nThat's what the VP of Marketing told me about their AI document workflow. Not theoretical savings. Real, measurable time back in their da"
   },
   {
-    "title": "Separating Class Responsibilities with Clprolf",
-    "link": "https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f",
-    "pubDate": "Thu, 04 Dec 2025 18:06:42 +0000",
+    "title": "The Impact of Excel on Decision‑Making in Financial Institutions",
+    "link": "https://dev.to/oraka_esther_0a4875b337f6/the-impact-of-excel-on-decision-making-in-financial-institutions-2p95",
+    "pubDate": "Fri, 05 Dec 2025 01:25:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Designing clean, well-structured classes is a central challenge in object-oriented programming.\ndeclensions — a simple way to express the nature of a class and the domain it belongs to.\nRather than re"
+    "contentSnippet": "Introduction\n\n\nIn today’s fast‑paced evolving financial world, the ability to make quick, informed, and accurate decisions is critical. Financial institutions handle massive amounts of data daily, fro"
   },
   {
-    "title": "Como excluir um perfil de usuário pelo Registro do Windows (regedit)",
-    "link": "https://dev.to/carloseduardolemos/como-excluir-um-perfil-de-usuario-pelo-registro-do-windows-regedit-3noj",
-    "pubDate": "Thu, 04 Dec 2025 18:06:06 +0000",
+    "title": "[Boost]",
+    "link": "https://dev.to/snaghub/-2j90",
+    "pubDate": "Fri, 05 Dec 2025 01:24:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A exclusão de um perfil no Registro do Windows é útil quando o perfil está corrompido ou quando há rastros antigos que podem impactar desempenho ou configurações. O Registro é um componente crítico do"
+    "contentSnippet": "DotNet Basics: What are the three main types of errors in C#? 🐞\nJarryd ・ Jun 4\n#csharp\n        #microsoft\n        #dotnet\n        #programming"
   },
   {
-    "title": "Microfrontends Without Frameworks: A Simple, Vanilla JavaScript Approach",
-    "link": "https://dev.to/vimgudy/microfrontends-without-frameworks-a-simple-vanilla-javascript-approach-2c0h",
-    "pubDate": "Thu, 04 Dec 2025 18:05:20 +0000",
+    "title": "The Use of Excel in Automating Repetitive Business Processes",
+    "link": "https://dev.to/azeezah_onifade_a66d69f2c/the-use-of-excel-in-automating-repetitive-business-processes-j57",
+    "pubDate": "Fri, 05 Dec 2025 01:12:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The question: \"Can we build microfrontends using only vanilla JavaScript, HTML, and CSS (without frameworks like React/Vue or build tools like Webpack)?\"\nShort answer: Yes — absolutely!\nWe can build m"
+    "contentSnippet": "Introduction\n\n\nFor many businesses, repetitive tasks take up a lot of time. Preparing monthly reports, consolidating data from different sources, cleaning messy spreadsheets, reconciling numbers, and "
   },
   {
     "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",
@@ -84,6 +84,13 @@
     "contentSnippet": "先日、久しぶりに整体に行ったところ、整体師さんから普段のストレッチのためにストレッチポールを勧められました。 ストレッチポールというのは長さ90cm、直径10cmくらいの柔らかい円柱です。これを床の上に置いて、その上に背骨を沿わせるように仰向けに寝てゴロゴロさせると、背中の筋肉がほぐれたり、ふだん縮こまっている胸の筋肉を伸ばせる効果があります。 本物のストレッチポールは1万円近くするのですが、近所"
   },
   {
+    "title": "TypeScript 7で消えるtsconfigのレガシー設定。target: es5やbaseUrlにサヨウナラ",
+    "link": "https://zenn.dev/ubie_dev/articles/typescript7-goodbye-legacy",
+    "pubDate": "Thu, 04 Dec 2025 07:33:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TypeScript 7では、target: es5 や baseUrl といった長年のレガシーな設定が削除され、strict: true が標準になるなど、デフォルトの挙動が変更されます。本記事では、消えるレガシーな設定と、デフォルトの挙動が変わる設定について、そもそもの設定の基本知識から代替案までを解説します。ご自身のtsconfig.jsonを更新する際の参考になれば幸いです。\n\n Type"
+  },
+  {
     "title": "【npm】11月21日以降にnpm installした人へ - Shai-Hulud感染チェック & 多層防御ガイド",
     "link": "https://zenn.dev/hand_dot/articles/04542a91bc432e",
     "pubDate": "Thu, 04 Dec 2025 02:36:44 GMT",
@@ -98,11 +105,32 @@
     "contentSnippet": "突然ですが、高校生向けのプログラミング大会である日本情報オリンピック（以下、JOI と呼びます）で、都道府県ごとの参加人数にどの程度の差があるかをご存知でしょうか。\n下のグラフは、2020 年までの、都道府県別の JOI への参加人数を示したものです（このページより）。東京..."
   },
   {
+    "title": "【CBT化】令和８年度以降の応用情報／支援士／高度試験、気を付けたいこと",
+    "link": "https://zenn.dev/agent_grow/articles/b2d23780fec476",
+    "pubDate": "Wed, 03 Dec 2025 23:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は Agent Grow Advent Calendar 2025 の記事です。\n\n CBT化の発表\n2025年8月、IPAより情報処理技術者試験のCBT化について発表がありました。\n（詳細は下記リンクへ）\n応用情報技術者試験、高度試験及び情報処理安全確保支援士試験におけるCBT方式での実施について\n現在はITパスポートと基本情報、情報セキュリティマネジメントがCBT方式です。\nつまり、今"
+  },
+  {
     "title": "【3.14対応】Pythonをいろんな意味で高速化する個人的TIPS30選",
     "link": "https://qiita.com/nukipei/items/cb095dcc167a7673294c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T22:26:48.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは。\n私は某SIerに入社し5年目となりますが、これまでざっくりと以下のような業務に取り組んでまいりました。\n\n数理最適化エンジンの開発、システム導入\n量子コンピュータ周辺技術のR&D\nAIエージェント/生成AIシステムの開発・導入\n\nまた、プライベート..."
+  },
+  {
+    "title": "TypeScriptのネイティブ版をさっそく導入したらCIが止まりました",
+    "link": "https://qiita.com/uhyo/items/fa5d885e410323821cae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-03T22:07:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "皆さんこんにちは。この記事は株式会社カオナビ Advent Calendar 2025の4日目（シーズン3）の記事です。\nTypeScriptに関連する最近のニュースとしては、TypeScriptチームからネイティブ版（Go移植版）の現在のステータスが共有されましたね。\n\n..."
+  },
+  {
+    "title": "漏洩しても使えない？ DPoPが実現する『鉄壁のAWS CLI認証』",
+    "link": "https://qiita.com/sapi_kawahara/items/1cb5aed50ca172f124ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-03T22:07:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "AWS CLIに新機能が！\n2025年11月18日、AWS CLIに新しい認証コマンド aws login が追加されました。 この機能は、従来のクレデンシャルファイル（アクセスキーとシークレットキーの保存）に代わる、より安全な認証手段を提供するものです。\n\n本機能は..."
   },
   {
     "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",
@@ -140,6 +168,13 @@
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
   },
   {
+    "title": "Flutterフォームバリデーションの呪縛を解き放て！ZodArtで宣言的に書いてみた",
+    "link": "https://qiita.com/zzundalek/items/42af805719960ab56dcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-03T15:49:11.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事のコードは全部GitHubにあります 🎯\n\nFlutterでフォームバリデーションを書いたことのある方は納得していただけると思いますが、バリデーション & 値の取得　——　ボイラープレートコードが多くてコードの再利用性が低いのが現状の課題です。\nその苦労を少し..."
+  },
+  {
     "title": "システム再起動で起動しなくなった話",
     "link": "https://qiita.com/zzzzico/items/2f779dd0697eca8abd86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T15:27:32.000Z",
@@ -147,18 +182,18 @@
     "contentSnippet": "はじめに\nこの記事は 本番環境などでやらかしちゃった人 Advent Calendar 2025 4 日目の記事です。\n過去に経験した本番環境でのやらかしです。\n\nシステム再起動で起動しなくなった\n\nどういう状況？\nお客さんのシステムの運用保守を担当してました。\nそのシス..."
   },
   {
+    "title": "さくらのAppRun正式版がリリースされる、その前に",
+    "link": "https://zenn.dev/sakura_internet/articles/apprun-cli-20251204",
+    "pubDate": "Wed, 03 Dec 2025 13:57:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "簡単にアプリケーションをデプロイできるコンテナ実行環境、さくらのAppRun正式版リリースが2025年12月9日に迫っています。\nhttps://cloud.sakura.ad.jp/news/2025/11/07/apprun-service-release/\nhttps://cloud.sakura.ad.jp/lp/apprun/\nこのお知らせを見ていただくと分かるとおり、これまでβ版、CR"
+  },
+  {
     "title": "新しくプログラミング言語を作る際に文字列型をどうするべきか",
     "link": "https://zenn.dev/mod_poppo/articles/strings-for-new-language",
     "pubDate": "Wed, 03 Dec 2025 13:12:38 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は「言語実装 Advent Calendar 2025」の3日目の記事です。\nこの記事は、新しくプログラミング言語を設計する際に文字列型をどうするべきかについて、私の持論をまとめたものです。\n以前「新しくプログラミング言語を作る際に数値型をどうするべきか」という記事を書きましたが、この記事はそれの文字列版です。\n推敲が足りずに同じことを何箇所かで繰り返している場合がありますが、冗長性だと思"
-  },
-  {
-    "title": "【AWS re:Invent 2025】CEOキーノートのBedrock AgentCoreアプデまとめ",
-    "link": "https://qiita.com/minorun365/items/d47eacbb53f74d16d626?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T12:07:18.000Z",
-    "source": "Qiita",
-    "contentSnippet": "現在、アメリカのラスベガスで開催されているAWS re:Invent 2025で発表された新機能の紹介です。\n\n本日未明はCEOのキーノートでした。大半がAgentic AI関連の発表でしたが、その中でもBedrock AgentCore関連のものをピックアップして紹介しま..."
   },
   {
     "title": "スペック駆動開発（Spec‑Driven Development）とは？",
@@ -189,25 +224,11 @@
     "contentSnippet": "はじめに\nNode.js のバージョン管理には、従来から nvm や nodenv といったツールが使われてきました。しかし最近では、パッケージマネージャー自体が Node.js や Deno などの Runtime のバージョンを管理する方法が登場しています。\nこの記事では、OpenJS Foundation で標準化が進められている devEngines という仕組みを紹介し、npm、pnpm"
   },
   {
-    "title": "エンジニアこそヨガをやれ！",
-    "link": "https://qiita.com/matsumon_/items/a1efab719d29a035648a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-02T22:05:36.000Z",
-    "source": "Qiita",
-    "contentSnippet": "肩こりは技術的負債だ！\n初めまして。any株式会社でプロダクトマネージャーをしている、まつもん（@matsumon_）と申します。\nアドベントカレンダー3日目にして、ちょっとゆるっとした記事を書いてみようと思います。\n\n唐突ですが、エンジニアをはじめとしたデスクワーカ..."
-  },
-  {
     "title": "コンセント配線で9万円を無駄にしかけた話",
     "link": "https://qiita.com/waricoma/items/03d53fbbc1c5862e0140?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-02T21:14:09.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこちらは 本番環境などでやらかしちゃった人 Advent Calendar 2025 3日目の記事です 🥳\n\n客先のDBを間違えて削除した話 by lif_yumumu さん\nスパゲティプログラムに3行追加したら決済ができなくなった話 by ryo_s0127 ..."
-  },
-  {
-    "title": "Claude Code公式Pluginのすすめ",
-    "link": "https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins",
-    "pubDate": "Tue, 02 Dec 2025 21:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は tacoms Advent Calendar 2025 3日目の記事です。\n\nこんにちは、株式会社 tacoms で SRE をやっている はぶちん (@modokkin) です。\n気付けばあっという間に12月に入りましたね。ガーデナーにとってはそろそろ冬越しの準備が必要な時期ですが、手入れが楽になる一方で、しばらく遠のくと思うと寂しくもあります。\n寒くなってきたので、みなさまお身体に"
   },
   {
     "title": "［速報］AWS、AIがフィードバックから学びつつ自律的に開発を行う「Kiro autonomous agent」発表",
@@ -252,31 +273,10 @@
     "contentSnippet": "株式会社松尾研究所のごうやです。\n本記事は、松尾研究所 Advent Calendar 2025の記事です。\n株式会社ブレインパッドの浅野様から先輩データサイエンティストからの指南書をご恵贈賜りましたのでレビューします。\n\n はじめに\nデータサイエンティストとして働いていると、「分析はできたけど、その先どうするの？」と素朴な疑問が湧きました。手元のNotebookで精度の高いモデルができた。技術検"
   },
   {
-    "title": "初心者が爆速で Claude Code を習得する 10 のステップ",
-    "link": "https://zenn.dev/aws_japan/articles/235df74854bad6",
-    "pubDate": "Tue, 02 Dec 2025 13:03:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nClaude Code を使い始めて、こんな悩みはありませんか？\n\n「セットアップしたけど、次に何をすればいいの？」\n「便利な機能があるらしいけど、使いこなせていない」\n「MCP サーバーって便利そうだけど、試しに何から入れればいいの？」\n\nこの記事では、Claude Code on Amazon Bedrock の設定が完了した方が、Claude Code の基本的な操作方法を知り、「"
-  },
-  {
-    "title": "月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。",
-    "link": "https://zenn.dev/dress_code/articles/89a5ceaa6eac37",
-    "pubDate": "Tue, 02 Dec 2025 12:00:30 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Dress Code Advent Calendar 2025、2日目の記事です🎉\n私がgit worktreeを使うに至るまでの話と、worktreeを使う際のおすすめのツールを紹介します。AI系の話はしません。\nよろしくお願いします！\nhttps://adventar.org/calendars/12017\n\n はじめに。\n「タイトル盛りすぎだろw」と思われそうですが、DRESS CODE（"
-  },
-  {
     "title": "高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。",
     "link": "https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-02T11:59:41.000Z",
     "source": "Qiita",
     "contentSnippet": "概要\n地方の公立高校に在籍する筆者が、文化祭の整理券システムを開発したときの話をまとめました。大勢の人に使ってもらうサービスを作ったのは初めてだったのですが、失敗含め自分にとって良い体験になりました。\n突っ込みどころも多いと思うので、ご指摘等ありましたらコメントしていただ..."
-  },
-  {
-    "title": "Kubernetesはなぜ難しいのか？",
-    "link": "https://qiita.com/K5K/items/dcfb0f90277e07e487b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-01T13:08:37.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事は人間が真心を込めて作成しました。\n安心してオーガニックな記事をお楽しみください。\n\nとうとう12月になってしまいました！\n毎年この時期は「やばい！今年何もできていない！」と焦っているような気がします。\nところでみなさん、Kubernetes使っていますか？\n..."
   }
 ]

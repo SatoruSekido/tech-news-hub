@@ -1,73 +1,73 @@
 [
   {
-    "title": "CipherMuse: The Haunted Fusion of AI, Encryption & Steganography🎃",
-    "link": "https://dev.to/gokul_d_3a23848cb37b295de/ciphermuse-the-haunted-fusion-of-ai-encryption-steganography-170i",
-    "pubDate": "Fri, 05 Dec 2025 18:35:38 +0000",
+    "title": "Migrating from Ingress NGINX to Pomerium Ingress Controller",
+    "link": "https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6",
+    "pubDate": "Sat, 06 Dec 2025 01:57:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When AI art collides with military-grade encryption, you don’t just build an app — you summon a digital cryptkeeper.\nWhen Kiroween announced the “Frankenstein” theme, our minds instantly went wild. Wh"
+    "contentSnippet": "The Kubernetes community announced that Ingress NGINX will be retired in March 2026. After that, there won't be any more updates, bugfixes, or security patches. While your existing deployments will ke"
   },
   {
-    "title": "How i made BeeThreads and what doest it solve",
-    "link": "https://dev.to/samsantosb/how-i-made-beethreads-and-what-doest-it-solve-2fk0",
-    "pubDate": "Fri, 05 Dec 2025 18:35:32 +0000",
+    "title": "How I Built an MCP Server in 50 Lines of Python (Auto-Generated from OpenAPI)",
+    "link": "https://dev.to/durgaprasadbudhwani/how-i-built-an-mcp-server-in-50-lines-of-python-auto-generated-from-openapi-5apb",
+    "pubDate": "Sat, 06 Dec 2025 01:50:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "About 1 week ago i was thinking i would like i could make any sync code work as a Promise. Since Event Loop and V8 shares the same thread and it gives us a lot of problems with heavy CPU operations.\nT"
+    "contentSnippet": "The Model Context Protocol (MCP) is revolutionizing how AI assistants interact with external tools. But building MCP servers from scratch? That's tedious.\nIn this post, I'll show you how we built Conn"
   },
   {
-    "title": "Behind the Screens: The Quiet Work That Shapes the Code",
-    "link": "https://dev.to/mzghosty/behind-the-screens-the-quiet-work-that-shapes-the-code-jpm",
-    "pubDate": "Fri, 05 Dec 2025 18:28:24 +0000",
+    "title": "AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic (AIM374)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-create-hyper-personalized-voice-interactions-with-amazon-nova-sonic-aim374-3gdc",
+    "pubDate": "Sat, 06 Dec 2025 01:46:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most of the real work in development happens before the first line of code.  It is in the structure, the workflow, the decisions, and the way everything fits together behind the scenes.\nLast week, I w"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic (AIM374)\nIn this video, Veerdhawal Pande and Ankur Gandhe int"
   },
   {
-    "title": "AWS re:Invent 2025 - What's new with AWS Lambda (CNS376)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-whats-new-with-aws-lambda-cns376-3ojp",
-    "pubDate": "Fri, 05 Dec 2025 18:26:18 +0000",
+    "title": "AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding (AIM375)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-building-scalable-applications-with-text-and-multimodal-understanding-aim375-5fl9",
+    "pubDate": "Sat, 06 Dec 2025 01:41:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - What's new with AWS Lambda (CNS376)\nIn this video, the AWS Lambda product management lead presents 2025's transformational server"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding (AIM375)\nIn this video, Amazon AGI introduces Amazon Nova 2"
   },
   {
-    "title": "Building EduCollab: How Kiro’s Multi-Feature Approach Revolutionized My Development Workflow",
-    "link": "https://dev.to/priyadarshini_r_9f9488a19/building-educollab-how-kiros-multi-feature-approach-revolutionized-my-development-workflow-35dp",
-    "pubDate": "Fri, 05 Dec 2025 18:26:08 +0000",
+    "title": "AWS re:Invent 2025 - Customize models for agentic AI at scale with SageMaker AI and Bedrock (AIM381)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-customize-models-for-agentic-ai-at-scale-with-sagemaker-ai-and-bedrock-aim381-142m",
+    "pubDate": "Sat, 06 Dec 2025 01:37:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "---\ntitle: \"Building EduCollab: How Kiro’s Multi-Feature Approach Revolutionized My Development Workflow\"\npublished: false\ndescription: \"How I built a production-ready educational collaboration platfo"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Customize models for agentic AI at scale with SageMaker AI and Bedrock (AIM381)\nIn this video, Amit Modi and Shelbee demonstrate "
   },
   {
-    "title": "How I Built a 3D Product Configurator using Alpine.js & Three.js (No React required!)",
-    "link": "https://dev.to/espfra95/how-i-built-a-3d-product-configurator-using-alpinejs-threejs-no-react-required-ah6",
-    "pubDate": "Fri, 05 Dec 2025 18:23:00 +0000",
+    "title": "AWS re:Invent 2025 - Build AI your way with Amazon Nova customization (AIM382)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-build-ai-your-way-with-amazon-nova-customization-aim382-28al",
+    "pubDate": "Sat, 06 Dec 2025 01:31:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Goal\nInstead of reaching for heavy frameworks like React Three Fiber, I wanted to explore a lightweight, modular approach using Native ES Modules and Alpine.js for state management.\nLive Demo: htt"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Build AI your way with Amazon Nova customization (AIM382)\nIn this video, AWS solutions architect Veda Raman, Amazon product manag"
   },
   {
-    "title": "🧟‍♂️ Stitching the Spirit: Engineering a \"Frankenstein\" AI Agent with Kiro & MCP",
-    "link": "https://dev.to/vaishnavi_mishra_9a68c0b2/stitching-the-spirit-engineering-a-frankenstein-ai-agent-with-kiro-mcp-4okb",
-    "pubDate": "Fri, 05 Dec 2025 18:22:50 +0000",
+    "title": "Legend Of Imposters: How a Beginner Project Helped Me Battle Shame",
+    "link": "https://dev.to/ellieoconnor/legend-of-imposters-how-a-beginner-project-helped-me-battle-shame-jf6",
+    "pubDate": "Sat, 06 Dec 2025 01:29:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most AI hackathon projects are just chatbots with a fancy wrapper. For Kiro-ween, the theme was 'Frankenstein,' so I took that literally. I didn't want another polished, polite chatbot. I wanted to st"
+    "contentSnippet": "There are two wolves that live in Ellie – one with an endless desire to improve, learn, get really good at what I do, and put myself out there. The other - shame. \nWhy don't I know this stuff better?\n"
   },
   {
-    "title": "What’s Next — Freelancers & AI-Generated Documents: Emerging Risks & Smart Practices for 2026”",
-    "link": "https://dev.to/cyber8080/whats-next-freelancers-ai-generated-documents-emerging-risks-smart-practices-for-2026-38io",
-    "pubDate": "Fri, 05 Dec 2025 18:22:36 +0000",
+    "title": "AWS re:Invent 2025 - Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod (AIM362)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-ai-workloads-with-ultraservers-on-amazon-sagemaker-hyperpod-aim362-1cga",
+    "pubDate": "Sat, 06 Dec 2025 01:26:41 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nAs generative AI tools get smarter and more deeply integrated into everyday workflows, freelancers and small teams face a wave of new challenges — and opportunities. The previous post w"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod (AIM362)\nIn this video, Rekha Seshadrinathan and Paulo pre"
   },
   {
-    "title": "I Built a Infinite Variation Knowledge Base That AI Can Query — Here's How Kiro Made It Possible 🎃",
-    "link": "https://dev.to/keshraf/i-built-a-infinite-variation-knowledge-base-that-ai-can-query-heres-how-kiro-made-it-possible-32d2",
-    "pubDate": "Fri, 05 Dec 2025 18:21:22 +0000",
+    "title": "Three layer terraform architecture",
+    "link": "https://dev.to/jumptotech/three-layer-terraform-architecture-24g9",
+    "pubDate": "Sat, 06 Dec 2025 01:25:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How I used specs, hooks, steering, and MCP integrations to build NEXUS in a weekend\nEver clicked a link in your notes app and immediately forgot what you were looking at before? Yeah, me too. That fru"
+    "contentSnippet": "Prerequisites\nFolder Structure\nCreate this structure:\nterraform-3layer-aws/\nResource Modules (Lowest Layer)\n2.1 S3 Backend Bucket Module\nPath: resource-modules/storage/s3-backend/main.tf\nresource \"aws"
   },
   {
-    "title": "My Journey Through the Google & Kaggle 5-Day AI Agents Intensive Course",
-    "link": "https://dev.to/dhanashree_pande/my-journey-through-the-google-kaggle-5-day-ai-agents-intensive-course-5fp5",
-    "pubDate": "Fri, 05 Dec 2025 18:18:13 +0000",
+    "title": "Secure Your Python App Using Bandit as a SAST Tool",
+    "link": "https://dev.to/renzo_fernandoloyolavil/secure-your-python-app-using-bandit-as-a-sast-tool-1ofm",
+    "pubDate": "Sat, 06 Dec 2025 01:18:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I recently completed the Google x Kaggle 5-Day AI Agents Intensive. It was one of the most eye-opening learning experiences I’ve had this year. I joined because I kept hearing about “agentic AI,” but "
+    "contentSnippet": "Static Application Security Testing (SAST) tools help you detect vulnerabilities directly in your source code before the application is executed or deployed. In this article, you will see how to use B"
   },
   {
     "title": "“距離感を間違えない”コミュニケーション",
@@ -84,11 +84,53 @@
     "contentSnippet": "はじめに\n私の元職場の上司は、IEEEのことを「イェ～～」と呼んでいた。\nパリピかよ。\n会議中に「その規格はイェ～～が決めていて……」と仰るものだから、こっちは笑いが止まらないのである。正解はご存知「アイトリプルイー」である。\nだが、よく考えたらIT業界には初見では読めな..."
   },
   {
+    "title": "React2Shell (CVE-2025-55182) で気付いた React Server Components のセキュリティの盲点",
+    "link": "https://zenn.dev/storehero/articles/15636985eb876c",
+    "pubDate": "Fri, 05 Dec 2025 01:38:14 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n先日、Vercel から「Important Security Update for Next.js 15 & 16」という件名のメールが Gmail に届きました。\nリンク先の CVE ページを確認したところ、CVSS スコアが 10.0（Critical） と記載されており、すぐに対応が必要な深刻な問題であることがわかりました。\nCVSS スコアとは、脆弱性の深刻度を0.0〜10.0"
+  },
+  {
+    "title": "Flutter x Riverpodのアーキテクチャ考察",
+    "link": "https://zenn.dev/st43/articles/ca7feb21500a6c",
+    "pubDate": "Fri, 05 Dec 2025 01:08:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Commune Developers Advent Calendar 2025の5日目の記事です。\nわたくしは6年iOS開発をやっておりましたが、今年9月からFlutter開発をしております。\n3ヶ月ほどやった感想ですが、Riverpodが圧倒的に便利だなと感じています。\nRiverpod自体は以前から個人的に興味があって、ドキュメント読んで試してみたこともありました。\nそのときはまだピンと来てい"
+  },
+  {
+    "title": "エンジニアに必要な「読解力」とは？ 技術文書を構造化して\"秒\"で理解する技術",
+    "link": "https://zenn.dev/coconala/articles/engineer-reading-skill-structuring",
+    "pubDate": "Fri, 05 Dec 2025 01:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは。\n株式会社ココナラ 技術戦略室に所属している デミオ です。\nこちらは株式会社ココナラ Advent Calendar 2025 5日目の記事です。\n\n 導入\nエンジニアの日常業務を振り返ってみてください。IDEでコードを書いている時間よりも、画面上の文字を「読んでいる」時間の方が圧倒的に長くありませんか？\n技術ドキュメント、仕様書、APIリファレンス、GitHubのIssue、そして"
+  },
+  {
     "title": "客先本番環境のNASデータをすべてrmした事件",
     "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-04T22:05:28.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n数年前にシステム開発をしており、そのときに客先NASのデータをすべてrmした話です。\nこのシステムは複数のサブシステムとNASで構成されていました。\n１つのサブシステムの開発を担当しており、不具合改修のためにアップデートを行った時の今回の事件を引き起こしました。..."
+  },
+  {
+    "title": "入社して1ヶ月を振り返ってみた☺️",
+    "link": "https://qiita.com/k-shiba-chan/items/37766eca4d9157b0c11f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:05:10.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは！any株式会社でエンジニアをしている「しばちゃん @k-shiba-chan 」です！\nこの記事はanyプロダクトチームAdventCalendar2025、5日目です！\n\n2025年11月に入社し、1ヶ月が経過しました。\n自分の中で色々な変化・..."
+  },
+  {
+    "title": "ID管理と認証(Authn)技術の選定【マルチテナントSaaSにおけるエンジニアリング大全 Day5】",
+    "link": "https://qiita.com/ad-sho-loko/items/6fa7419e51c2978bc8ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:04:51.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n本記事は any Advent Calendar #2 「マルチテナントSaaSにおけるエンジニアリング大全」 Day5 の記事です。弊社anyのアドベントカレンダーをひとつ丸ごと占有して、ひとりアドベントカレンダーとして、筆者の「マルチテナントSaaSのエン..."
+  },
+  {
+    "title": "DBにSQLインジェクションしてみよう",
+    "link": "https://qiita.com/kk333/items/a9e79beaa678a0de8bc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:04:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nプログラマーとして2年目になった今日この頃、\n嬉しいことに最近ではコードを書く機会が増えてきています。\n書く機会が増えると気になってくるのがコードの最適化もそうなのですが、やはりセキュリティ面でしょう。\n特に気になっていたのが資格勉強や調べ事をしていると頻出する..."
   },
   {
     "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",
@@ -119,6 +161,13 @@
     "contentSnippet": "React・Next.jsに発生した恐ろしい脆弱性\n\n はじめに\n\n\n翻訳 : React Server Components における重大な脆弱性（CVE-2025-55182）が、責任ある形で公開されました。この脆弱性は、React 19 およびそれを利用するフレームワーク（Next.js を含む、CVE-2025-66478）に影響します。\n\n今朝、Vercel からこのようなメールが届きま"
   },
   {
+    "title": "AI時代におけるQA/テストエンジニアの道を考える",
+    "link": "https://zenn.dev/jam0824/articles/e3fb95122cf3a3",
+    "pubDate": "Thu, 04 Dec 2025 08:49:24 GMT",
+    "source": "Zenn",
+    "contentSnippet": "以下のQAキャリアのイベントでパネリストとして登壇することとなった。\n考えをまとめておかないと本番で散らかった考えを話してしまう。\nそれでは聴講者にも主催者にも迷惑をかけてしまうため、自分の考えを整理する。\n飽くまで僕の考えであるため「そんな考え方もあるんだ」程度で読んでいただきたい。\nhttps://knowledgework.connpass.com/event/372083/\n\n AI活用に"
+  },
+  {
     "title": "JSでギャルゲー！～JavaScriptでノベルゲームエンジン作った～",
     "link": "https://zenn.dev/dgbt/articles/f36d356929a0b6",
     "pubDate": "Thu, 04 Dec 2025 07:53:15 GMT",
@@ -147,6 +196,13 @@
     "contentSnippet": "npm史上最悪のサプライチェーン攻撃「Shai-Hulud 2.0」。正規パッケージのメンテナー認証情報を盗み、悪意あるバージョンをnpmに公開するという手口で、11月21日から急速に拡散しました。\nこの記事では2つのことを解説します：\n\n自分が被害にあっていないか確認する方法\n今後の被害を防ぐ多層防御アプローチ\n\n*この記事と同じ内容を動画でも解説していますので、動画の方が好きな方は下記からどう"
   },
   {
+    "title": "Web 標準動向 2025年11月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202511",
+    "pubDate": "Thu, 04 Dec 2025 02:33:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。\n\n はじめに\nサイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。\nhttps://blog.cybozu.io/entry/joining-w3c\n標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的"
+  },
+  {
     "title": "高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜",
     "link": "https://qiita.com/drken/items/c853184ad95b9e9fd45d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-04T02:18:31.000Z",
@@ -154,25 +210,11 @@
     "contentSnippet": "突然ですが、高校生向けのプログラミング大会である日本情報オリンピック（以下、JOI と呼びます）で、都道府県ごとの参加人数にどの程度の差があるかをご存知でしょうか。\n下のグラフは、2020 年までの、都道府県別の JOI への参加人数を示したものです（このページより）。東京..."
   },
   {
-    "title": "【CBT化】令和８年度以降の応用情報／支援士／高度試験、気を付けたいこと",
-    "link": "https://zenn.dev/agent_grow/articles/b2d23780fec476",
-    "pubDate": "Wed, 03 Dec 2025 23:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は Agent Grow Advent Calendar 2025 の記事です。\n\n CBT化の発表\n2025年8月、IPAより情報処理技術者試験のCBT化について発表がありました。\n（詳細は下記リンクへ）\n応用情報技術者試験、高度試験及び情報処理安全確保支援士試験におけるCBT方式での実施について\n現在はITパスポートと基本情報、情報セキュリティマネジメントがCBT方式です。\nつまり、今"
-  },
-  {
     "title": "【3.14対応】Pythonをいろんな意味で高速化する個人的TIPS30選",
     "link": "https://qiita.com/nukipei/items/cb095dcc167a7673294c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T22:26:48.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは。\n私は某SIerに入社し5年目となりますが、これまでざっくりと以下のような業務に取り組んでまいりました。\n\n数理最適化エンジンの開発、システム導入\n量子コンピュータ周辺技術のR&D\nAIエージェント/生成AIシステムの開発・導入\n\nまた、プライベート..."
-  },
-  {
-    "title": "TypeScriptのネイティブ版をさっそく導入したらCIが止まりました",
-    "link": "https://qiita.com/uhyo/items/fa5d885e410323821cae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T22:07:53.000Z",
-    "source": "Qiita",
-    "contentSnippet": "皆さんこんにちは。この記事は株式会社カオナビ Advent Calendar 2025の4日目（シーズン3）の記事です。\nTypeScriptに関連する最近のニュースとしては、TypeScriptチームからネイティブ版（Go移植版）の現在のステータスが共有されましたね。\n\n..."
   },
   {
     "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",
@@ -210,46 +252,11 @@
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
   },
   {
-    "title": "システム再起動で起動しなくなった話",
-    "link": "https://qiita.com/zzzzico/items/2f779dd0697eca8abd86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T15:27:32.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこの記事は 本番環境などでやらかしちゃった人 Advent Calendar 2025 4 日目の記事です。\n過去に経験した本番環境でのやらかしです。\n\nシステム再起動で起動しなくなった\n\nどういう状況？\nお客さんのシステムの運用保守を担当してました。\nそのシス..."
-  },
-  {
-    "title": "さくらのAppRun正式版がリリースされる、その前に",
-    "link": "https://zenn.dev/sakura_internet/articles/apprun-cli-20251204",
-    "pubDate": "Wed, 03 Dec 2025 13:57:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "簡単にアプリケーションをデプロイできるコンテナ実行環境、さくらのAppRun正式版リリースが2025年12月9日に迫っています。\nhttps://cloud.sakura.ad.jp/news/2025/11/07/apprun-service-release/\nhttps://cloud.sakura.ad.jp/lp/apprun/\nこのお知らせを見ていただくと分かるとおり、これまでβ版、CR"
-  },
-  {
-    "title": "新しくプログラミング言語を作る際に文字列型をどうするべきか",
-    "link": "https://zenn.dev/mod_poppo/articles/strings-for-new-language",
-    "pubDate": "Wed, 03 Dec 2025 13:12:38 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は「言語実装 Advent Calendar 2025」の3日目の記事です。\nこの記事は、新しくプログラミング言語を設計する際に文字列型をどうするべきかについて、私の持論をまとめたものです。\n以前「新しくプログラミング言語を作る際に数値型をどうするべきか」という記事を書きましたが、この記事はそれの文字列版です。\n推敲が足りずに同じことを何箇所かで繰り返している場合がありますが、冗長性だと思"
-  },
-  {
     "title": "AI使いすぎで思考力が雑魚になる対策プロンプト-「Thinking Gym」",
     "link": "https://qiita.com/WdknWdkn/items/c67c90d75e7ec942e60c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T05:49:05.000Z",
     "source": "Qiita",
     "contentSnippet": "冒頭\nAIホント凄い。日常的に触らない日はないし、とりあえずChatGPTにテキスト入力してから作業が開始する、みたいなこともかなり多くなって、アウトプットのベースの質が上がったなって体感がありますよね。\nそれでいて楽しい。自分の考えのちょっと斜め上とか整理した内容とかを..."
-  },
-  {
-    "title": "CTOとして会社に置くと決めた、ありがたい技術書5選",
-    "link": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
-    "pubDate": "Wed, 03 Dec 2025 00:00:04 GMT",
-    "source": "Zenn",
-    "contentSnippet": "技術本を紹介したい！\nRecustomer株式会社でCTOをしている、眞鍋と申します。\nまだCTOとしては日が浅いのですが、\n先日、Startup CTO of the Year 2025 でオーディエンス賞をいただくなど、\n少しずつCTOらしい活動が増えてきました。\nhttps://prtimes.jp/main/html/rd/p/000000093.000046039.html\nどんな会社に"
-  },
-  {
-    "title": "Claude Code公式Pluginのすすめ",
-    "link": "https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins",
-    "pubDate": "Tue, 02 Dec 2025 21:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は tacoms Advent Calendar 2025 3日目の記事です。\n\nこんにちは、株式会社 tacoms で SRE をやっている はぶちん (@modokkin) です。\n気付けばあっという間に12月に入りましたね。ガーデナーにとってはそろそろ冬越しの準備が必要な時期ですが、手入れが楽になる一方で、しばらく遠のくと思うと寂しくもあります。\n寒くなってきたので、みなさまお身体に"
   },
   {
     "title": "［速報］AWS、AIがフィードバックから学びつつ自律的に開発を行う「Kiro autonomous agent」発表",
@@ -271,12 +278,5 @@
     "pubDate": "2025-12-02T18:46:53.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社独自の基盤モデル「Amazon Nova 2」に対してユーザーが独自データを用いて学習させることでカスタマイズした基盤モデルを作成できる新サービス「Nova Forge」を発表しました。 Nova Forgeは、Amazon Nova 2の基盤モデルの学"
-  },
-  {
-    "title": "高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。",
-    "link": "https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-02T11:59:41.000Z",
-    "source": "Qiita",
-    "contentSnippet": "概要\n地方の公立高校に在籍する筆者が、文化祭の整理券システムを開発したときの話をまとめました。大勢の人に使ってもらうサービスを作ったのは初めてだったのですが、失敗含め自分にとって良い体験になりました。\n突っ込みどころも多いと思うので、ご指摘等ありましたらコメントしていただ..."
   }
 ]

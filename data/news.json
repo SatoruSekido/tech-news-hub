@@ -1,73 +1,73 @@
 [
   {
-    "title": "How I Connected AI Agents with Manufacturing Supply Chain",
-    "link": "https://dev.to/leonhardsuharjo/how-i-connected-ai-agents-with-manufacturing-supply-chain-4856",
-    "pubDate": "Sat, 06 Dec 2025 12:40:01 +0000",
+    "title": "END-TO-END Deployment Of Django App on AWS EKS Cluster",
+    "link": "https://dev.to/oncloud7/end-to-end-deployment-of-django-app-on-aws-eks-cluster-l6a",
+    "pubDate": "Sat, 06 Dec 2025 18:21:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building SuplaiCerdas: From Google-Kaggle’s AI Agents Course to Real-World Supply Chain Automation\n\n\n\n\n\n*Project view on Github @leonhardsuharjo\nWeeks ago, I had the opportunity to participate in the "
+    "contentSnippet": "Today, we are deploying a Django app on an EKS Cluster and will Learn How to create an EKS cluster and deploy the app on it.\n\n\nStep 1: Create a EC2 instance to run all the dependencies on the instance"
   },
   {
-    "title": "Finally, My Portfolio’s Blogging Section is Complete!",
-    "link": "https://dev.to/usama_dev/finally-my-portfolios-blogging-section-is-complete-4hdk",
-    "pubDate": "Sat, 06 Dec 2025 12:18:36 +0000",
+    "title": "Discover Monetzly: Your Path to Effective AI Monetization Strategies",
+    "link": "https://dev.to/monetzly/discover-monetzly-your-path-to-effective-ai-monetization-strategies-3d2n",
+    "pubDate": "Sat, 06 Dec 2025 18:16:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello everyone!\nToday, I’m really happy to share another milestone in my journey — finally, the last part of my portfolio is complete, and now only a day or two of final touch-ups are left. After that"
+    "contentSnippet": "Advertising is Evolving: Here’s Where It’s Heading in the AI Era\nAs developers, we’re witnessing an explosion of AI applications, each more innovative than the last. Yet despite their potential, many "
   },
   {
-    "title": "First Example Article",
-    "link": "https://dev.to/achiranadeeshan/first-example-article-4i8f",
-    "pubDate": "Sat, 06 Dec 2025 12:10:26 +0000",
+    "title": "I Built an AI News Agent with LangGraph (Open Source)\r\nGitHub: https://github.com/tejiri-code/pulse-ai",
+    "link": "https://dev.to/edjere_evelynoghenetejir/i-built-an-ai-news-agent-with-langgraph-open-source-github-32cn",
+    "pubDate": "Sat, 06 Dec 2025 18:16:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Created in purpose of testing DEV API directly importing to my portfolio website."
+    "contentSnippet": "GitHub - tejiri-code/pulse-ai\n          \n        \n          \n            Contribute to tejiri-code/pulse-ai development by creating an account on GitHub.\n          \n        \n            \n          git"
   },
   {
-    "title": "Building a Cost-Effective Autonomous Threat Containment System on AWS",
-    "link": "https://dev.to/lshw54/building-a-cost-effective-autonomous-threat-containment-system-on-aws-2mkk",
-    "pubDate": "Sat, 06 Dec 2025 12:10:06 +0000",
+    "title": "**Avoiding Hidden Biases in Transfer Learning: A Practical T",
+    "link": "https://dev.to/drcarlosruizviquez/avoiding-hidden-biases-in-transfer-learning-a-practical-t-4b5m",
+    "pubDate": "Sat, 06 Dec 2025 18:15:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This year at AWS re:Invent 2025, I didn't fly out to Las Vegas. Instead, I followed along remotely—streaming the keynotes live and keeping a close eye on the AWS Blog announcements. Watching Amazon Be"
+    "contentSnippet": "Avoiding Hidden Biases in Transfer Learning: A Practical Tip\nAs ML practitioners, we often rely on pre-trained models to speed up development and improve performance. However, transfer learning can al"
   },
   {
-    "title": "AWS re:Invent 2025 - Streamlining Telecom Cybersecurity Operations with AWS Generative AI (IND206)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-streamlining-telecom-cybersecurity-operations-with-aws-generative-ai-ind206-3m4p",
-    "pubDate": "Sat, 06 Dec 2025 12:09:24 +0000",
+    "title": "Make Liferay upgrades predictable. This guide explains how to fix legacy code, simplify modules, and prep for future releases. Read https://veriday.com/reduce-technical-debt-in-liferay-dxp-upgrades-veriday-guide/",
+    "link": "https://dev.to/devndrakushi_6049434ecdb0/make-liferay-upgrades-predictable-this-guide-explains-how-to-fix-legacy-code-simplify-modules-ab9",
+    "pubDate": "Sat, 06 Dec 2025 18:14:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Streamlining Telecom Cybersecurity Operations with AWS Generative AI (IND206)\nIn this video, Anwar Ali and Ray from AWS demonstra"
+    "contentSnippet": "How to Reduce Technical Debt During Liferay DXP Upgrades: A Modernization Guide\nVeriday ・ Dec 6\n#liferay\n        #webdev\n        #ai\n        #programming\n      \n    \n  \n\n\n\n\n\n    \n        \n          \n "
   },
   {
-    "title": "AWS re:Invent 2025 -From Print to AI: The Economist's Digital Evolution w/ AWS Architecture (IND399)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-from-print-to-ai-the-economists-digital-evolution-w-aws-architecture-ind399-13oh",
-    "pubDate": "Sat, 06 Dec 2025 12:09:20 +0000",
+    "title": "How to Reduce Technical Debt During Liferay DXP Upgrades: A Modernization Guide",
+    "link": "https://dev.to/veriday/how-to-reduce-technical-debt-during-liferay-dxp-upgrades-a-modernization-guide-15n5",
+    "pubDate": "Sat, 06 Dec 2025 18:12:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 -From Print to AI: The Economist's Digital Evolution w/ AWS Architecture (IND399)\nIn this video, Ahmed Raafat and Professor Bogdan "
+    "contentSnippet": "Liferay upgrades shouldn’t feel like rebuilding your platform from scratch.\nDive in here"
   },
   {
-    "title": "Inventive WordPress Theme Review: How It Stacks Up in 2025",
-    "link": "https://dev.to/sofi_morilla_c57a1e216ce6/inventive-wordpress-theme-review-how-it-stacks-up-in-2025-281i",
-    "pubDate": "Sat, 06 Dec 2025 12:05:25 +0000",
+    "title": "The Future of Web Development is Not AI",
+    "link": "https://dev.to/oleksiy_martynovollie_/the-future-of-web-development-is-not-ai-3o7m",
+    "pubDate": "Sat, 06 Dec 2025 18:10:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I Compared Inventive to Other Multi-Purpose Themes (So You Don’t Have To)\n\n\nI went into my last client build thinking, “Cool, it’s just another business site.” Two hours later I was knee-deep in theme"
+    "contentSnippet": "*ChatGPT isn't making you ship code faster. It’s just making your codebase more verbose.\n\nWe are obsessed with \"AI-generated apps.\" But we are ignoring the real bottleneck in web development. It isn't"
   },
   {
-    "title": "I built a tiny tool collection that speeds up my dev workflow",
-    "link": "https://dev.to/_bbc37479d9ce0b10b0ccb/i-built-a-tiny-tool-collection-that-speeds-up-my-dev-workflow-2p5e",
-    "pubDate": "Sat, 06 Dec 2025 12:04:48 +0000",
+    "title": "Embeddings != magic. Forget \"semantic\" = perfect. Similarity",
+    "link": "https://dev.to/nullure_ef11832f4ce3b466a/embeddings-magic-forget-semantic-perfect-similarity-2m70",
+    "pubDate": "Sat, 06 Dec 2025 18:10:14 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I built a tiny tool collection that speeds up my dev workflow"
+    "contentSnippet": "Embeddings != magic. Forget \"semantic\" = perfect. Similarity search is just one signal. Salience, recency & links matter too. Build smarter AI agents with OpenMemory's multi-sector memory. Self-hosted"
   },
   {
-    "title": "Automating 'Smarketing': How to Code Your Way to a Unified Revenue Engine",
-    "link": "https://dev.to/michaelaiglobal/automating-smarketing-how-to-code-your-way-to-a-unified-revenue-engine-84",
-    "pubDate": "Sat, 06 Dec 2025 12:01:15 +0000",
+    "title": "I Built an Autonomous AI News Agent with LangGraph (Open Source)",
+    "link": "https://dev.to/edjere_evelynoghenetejir/i-built-an-autonomous-ai-news-agent-with-langgraph-open-source-3of5",
+    "pubDate": "Sat, 06 Dec 2025 18:05:44 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As developers, we're obsessed with building clean, efficient systems. We despise data silos, brittle integrations, and processes held together by manual effort and duct tape. So why do we tolerate it "
+    "contentSnippet": "The Problem\n\n\nThe AI field moves at breakneck speed. Every day brings new ArXiv papers, trending GitHub repos, OpenAI announcements, and Anthropic updates. Keeping up is a full-time job.\nI built Pulse"
   },
   {
-    "title": "The Privacy Revolution in Your Pocket",
-    "link": "https://dev.to/rawveg/the-privacy-revolution-in-your-pocket-47go",
-    "pubDate": "Sat, 06 Dec 2025 12:00:00 +0000",
+    "title": "AWS IAM Best Practices — Building Secure Cloud Environments 🔐",
+    "link": "https://dev.to/prateekbka/aws-iam-best-practices-building-secure-cloud-environments-4db7",
+    "pubDate": "Sat, 06 Dec 2025 18:01:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The next time your phone translates a foreign menu, recognises your face, or suggests a clever photo edit, pause for a moment. That artificial intelligence isn't happening in some distant Google data "
+    "contentSnippet": "When moving fast in the cloud, Identity & Access Management (IAM) is often overlooked. Teams spin up resources quickly, add permissions just to make things work, and plan to optimize them “later.”\n\nIA"
   },
   {
     "title": "コスト削減 - EC2編 - 🚀",

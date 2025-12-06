@@ -1,73 +1,73 @@
 [
   {
-    "title": "Migrating from Ingress NGINX to Pomerium Ingress Controller",
-    "link": "https://dev.to/pomerium/migrating-from-ingress-nginx-to-pomerium-ingress-controller-47m6",
-    "pubDate": "Sat, 06 Dec 2025 01:57:00 +0000",
+    "title": "Smart Contracts and dApps on Ethereum (for Non‑Technical People)",
+    "link": "https://dev.to/ribhavmodi/day-6-smart-contracts-and-dapps-on-ethereum-for-non-technical-people-2mi3",
+    "pubDate": "Sat, 06 Dec 2025 06:22:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Kubernetes community announced that Ingress NGINX will be retired in March 2026. After that, there won't be any more updates, bugfixes, or security patches. While your existing deployments will ke"
+    "contentSnippet": "For the last couple of days, Ethereum has shown up as “a shared computer” and “a platform for decentralized apps”, not just “another coin like Bitcoin”. Day 6 is about the two ideas that make that pos"
   },
   {
-    "title": "How I Built an MCP Server in 50 Lines of Python (Auto-Generated from OpenAPI)",
-    "link": "https://dev.to/durgaprasadbudhwani/how-i-built-an-mcp-server-in-50-lines-of-python-auto-generated-from-openapi-5apb",
-    "pubDate": "Sat, 06 Dec 2025 01:50:00 +0000",
+    "title": "🔐Secure AWS Access Using Client VPN Endpoint — A Step-by-Step Guide (EasyRSA + ACM)",
+    "link": "https://dev.to/latchudevops/secure-aws-access-using-client-vpn-endpoint-a-step-by-step-guide-easyrsa-acm-3mh2",
+    "pubDate": "Sat, 06 Dec 2025 06:20:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Model Context Protocol (MCP) is revolutionizing how AI assistants interact with external tools. But building MCP servers from scratch? That's tedious.\nIn this post, I'll show you how we built Conn"
+    "contentSnippet": "Managing secure access to your AWS resources—without juggling IP whitelisting or exposing your infrastructure—is easier than you think. In this guide, you’ll learn how to create your own certificates "
   },
   {
-    "title": "AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic (AIM374)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-create-hyper-personalized-voice-interactions-with-amazon-nova-sonic-aim374-3gdc",
-    "pubDate": "Sat, 06 Dec 2025 01:46:20 +0000",
+    "title": "Quadratic Scaling, Power, Patience, and Mastery",
+    "link": "https://dev.to/bibimbop123/quadratic-scaling-power-patience-and-mastery-3h7p",
+    "pubDate": "Sat, 06 Dec 2025 06:18:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Create hyper-personalized voice interactions with Amazon Nova Sonic (AIM374)\nIn this video, Veerdhawal Pande and Ankur Gandhe int"
+    "contentSnippet": "This entire insight began with something simple: counting down 10 seconds over and over while working at Costco. In that repetitive rhythm, a deeper truth revealed itself — small cycles repeated consi"
   },
   {
-    "title": "AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding (AIM375)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-building-scalable-applications-with-text-and-multimodal-understanding-aim375-5fl9",
-    "pubDate": "Sat, 06 Dec 2025 01:41:13 +0000",
+    "title": "Arreglar pinchazos cerca de mi en Pozuelo de Alarcón",
+    "link": "https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-pozuelo-de-alarcon-ff",
+    "pubDate": "Sat, 06 Dec 2025 06:10:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Building scalable applications with text and multimodal understanding (AIM375)\nIn this video, Amazon AGI introduces Amazon Nova 2"
+    "contentSnippet": "Encontrar un lugar fiable para arreglar pinchazos cerca de mi en Pozuelo de Alarcón es fundamental cuando surge una emergencia en la carretera. Un pinchazo puede ocurrir en el momento menos esperado: "
   },
   {
-    "title": "AWS re:Invent 2025 - Customize models for agentic AI at scale with SageMaker AI and Bedrock (AIM381)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-customize-models-for-agentic-ai-at-scale-with-sagemaker-ai-and-bedrock-aim381-142m",
-    "pubDate": "Sat, 06 Dec 2025 01:37:55 +0000",
+    "title": "AWS re:Invent 2025 - From ideas to impact: Architecting with cloud best practices (ARC204)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-from-ideas-to-impact-architecting-with-cloud-best-practices-arc204-54fk",
+    "pubDate": "Sat, 06 Dec 2025 06:10:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Customize models for agentic AI at scale with SageMaker AI and Bedrock (AIM381)\nIn this video, Amit Modi and Shelbee demonstrate "
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - From ideas to impact: Architecting with cloud best practices (ARC204)\nIn this video, James Beaumont and Paul Moran present AWS Cl"
   },
   {
-    "title": "AWS re:Invent 2025 - Build AI your way with Amazon Nova customization (AIM382)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-build-ai-your-way-with-amazon-nova-customization-aim382-28al",
-    "pubDate": "Sat, 06 Dec 2025 01:31:07 +0000",
+    "title": "Embeddings memory! They're just *one* piece. True recall n",
+    "link": "https://dev.to/nullure_ef11832f4ce3b466a/embeddings-memory-theyre-just-one-piece-true-recall-n-5ab8",
+    "pubDate": "Sat, 06 Dec 2025 06:08:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Build AI your way with Amazon Nova customization (AIM382)\nIn this video, AWS solutions architect Veda Raman, Amazon product manag"
+    "contentSnippet": "Embeddings ≠ memory! They're just one piece. True recall needs structure, decay, & more. OpenMemory offers long-term memory for AI agents — self-hosted, local-first, open-source. github.com/CaviraOSS/"
   },
   {
-    "title": "Legend Of Imposters: How a Beginner Project Helped Me Battle Shame",
-    "link": "https://dev.to/ellieoconnor/legend-of-imposters-how-a-beginner-project-helped-me-battle-shame-jf6",
-    "pubDate": "Sat, 06 Dec 2025 01:29:05 +0000",
+    "title": "AWS re:Invent 2025 - Keynote with CEO Matt Garman",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-keynote-with-ceo-matt-garman-49o3",
+    "pubDate": "Sat, 06 Dec 2025 06:06:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "There are two wolves that live in Ellie – one with an endless desire to improve, learn, get really good at what I do, and put myself out there. The other - shame. \nWhy don't I know this stuff better?\n"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Keynote with CEO Matt Garman\nIn this video, AWS CEO Matt Garman announces AWS has grown to a $132 billion business with 20% year-"
   },
   {
-    "title": "AWS re:Invent 2025 - Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod (AIM362)",
-    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-ai-workloads-with-ultraservers-on-amazon-sagemaker-hyperpod-aim362-1cga",
-    "pubDate": "Sat, 06 Dec 2025 01:26:41 +0000",
+    "title": "pakistan cricket",
+    "link": "https://dev.to/sardar_malik_382ae36e45a4/pakistan-cricket-1f9c",
+    "pubDate": "Sat, 06 Dec 2025 05:59:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod (AIM362)\nIn this video, Rekha Seshadrinathan and Paulo pre"
+    "contentSnippet": ""
   },
   {
-    "title": "Three layer terraform architecture",
-    "link": "https://dev.to/jumptotech/three-layer-terraform-architecture-24g9",
-    "pubDate": "Sat, 06 Dec 2025 01:25:20 +0000",
+    "title": "AWS re:Invent 2025 - End-to-end foundation model lifecycle on AWS Trainium (AIM351)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-end-to-end-foundation-model-lifecycle-on-aws-trainium-aim351-13l2",
+    "pubDate": "Sat, 06 Dec 2025 05:56:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Prerequisites\nFolder Structure\nCreate this structure:\nterraform-3layer-aws/\nResource Modules (Lowest Layer)\n2.1 S3 Backend Bucket Module\nPath: resource-modules/storage/s3-backend/main.tf\nresource \"aws"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - End-to-end foundation model lifecycle on AWS Trainium (AIM351)\nIn this video, AWS presents Trainium3, their fourth-generation ML "
   },
   {
-    "title": "Secure Your Python App Using Bandit as a SAST Tool",
-    "link": "https://dev.to/renzo_fernandoloyolavil/secure-your-python-app-using-bandit-as-a-sast-tool-1ofm",
-    "pubDate": "Sat, 06 Dec 2025 01:18:08 +0000",
+    "title": "AWS re:Invent 2025 - Accelerate building Serverless apps with Amazon Q and MCP servers (CNS373)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-building-serverless-apps-with-amazon-q-and-mcp-servers-cns373-229o",
+    "pubDate": "Sat, 06 Dec 2025 05:52:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Static Application Security Testing (SAST) tools help you detect vulnerabilities directly in your source code before the application is executed or deployed. In this article, you will see how to use B"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Accelerate building Serverless apps with Amazon Q and MCP servers (CNS373)\nIn this video, AWS Solutions Architects Sean Kendall a"
   },
   {
     "title": "“距離感を間違えない”コミュニケーション",

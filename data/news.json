@@ -1,73 +1,94 @@
 [
   {
-    "title": "Testing Blog",
-    "link": "https://dev.to/inupurnomo/testing-blog-1l99",
-    "pubDate": "Sun, 07 Dec 2025 12:29:15 +0000",
+    "title": "Monkey Market",
+    "link": "https://dev.to/rmion/monkey-market-1bda",
+    "pubDate": "Sun, 07 Dec 2025 18:09:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Lorem Ipsum dolor sit amet.\ntestttttt.py"
+    "contentSnippet": "Advent of Code 2024 Day 22\n\n\n\n  \n  \n  Part 1\n\n\n\n  \n  \n  Another math gauntlet\n\n\nI get to program a bunch of math operations.\nSome will be part of several conditionals.\nI've done it before. I'm confide"
   },
   {
-    "title": "RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships",
-    "link": "https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683",
-    "pubDate": "Sun, 07 Dec 2025 12:25:24 +0000",
+    "title": "The Lovable.dev Migration Guide: Moving from personal GitHub to an organization (without breaking sync)",
+    "link": "https://dev.to/danielbetterdevelopers/the-lovabledev-migration-guide-moving-from-personal-github-to-an-organization-without-breaking-100n",
+    "pubDate": "Sun, 07 Dec 2025 18:06:40 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction — A Travel-Agency Diary with a Dash of Humor\n\n\nI didn’t plan to rebuild my tour booking website on a Tuesday. I planned to eat leftover noodles and quietly avoid tech debt. Then a client "
+    "contentSnippet": "You’ve built a Lovable app. It’s growing. You’re ready to move from your personal GitHub account to a GitHub Organization (maybe for the Pro plan, or just to collaborate with a team).\nNaturally, you o"
   },
   {
-    "title": "🤖AI for Everyone: How byLLM & A11yShape Are Redefining Inclusive Coding",
-    "link": "https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9",
-    "pubDate": "Sun, 07 Dec 2025 12:24:10 +0000",
+    "title": "RAG Workflow Pack: Diagrams and Checklists",
+    "link": "https://dev.to/dowhatmatters/rag-workflow-pack-diagrams-and-checklists-439m",
+    "pubDate": "Sun, 07 Dec 2025 18:06:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 AI for All: byLLM and A11yShape Bridge AI and Accessibility in Programming\n\n\nIn today’s rapidly evolving tech ecosystem, two groundbreaking tools are reshaping how we think about software developme"
+    "contentSnippet": "This past week, I published a sequence of posts on the real failure modes in Retrieval-Augmented Generation systems. Each post focused on a workflow that is often treated as trivial but is responsible"
   },
   {
-    "title": "SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries & String Plumbing in C#",
-    "link": "https://dev.to/sandy_bassi_cc2d82d21b407/safemapx-a-new-universal-pattern-to-eliminate-null-checks-ternaries-string-plumbing-in-c-3pp9",
-    "pubDate": "Sun, 07 Dec 2025 12:23:15 +0000",
+    "title": "Debugging Native Code in React Native: A Step-by-Step Guide (Android & iOS)",
+    "link": "https://dev.to/ajmal_hasan/debugging-native-code-in-react-native-a-step-by-step-guide-android-ios-14o3",
+    "pubDate": "Sun, 07 Dec 2025 18:06:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries & String Plumbing in C\n\n\nEvery engineer who has worked in large C# systems knows this pain:\nEndless if (x != null) ladders\n\nNeste"
+    "contentSnippet": "As React Native developers, we're comfortable with JavaScript debugging—Chrome DevTools, console logs, the usual suspects. But native code? That's where things get intimidating.\nHere's what I learned "
   },
   {
-    "title": "Monetzly: Transforming AI Conversations into Developer Revenue",
-    "link": "https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-3ec0",
-    "pubDate": "Sun, 07 Dec 2025 12:21:39 +0000",
+    "title": "Typical reinforcement learning process",
+    "link": "https://dev.to/dipti_moryani_08e62702314/typical-reinforcement-learning-process-4mgp",
+    "pubDate": "Sun, 07 Dec 2025 18:06:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Monetization Without Paywalls: The Future of AI Conversations\n\n\nThe biggest challenge in AI today? Monetization without killing user experience. As developers, we’ve all faced the dilemma of needing r"
+    "contentSnippet": "Machine learning algorithms are typically divided into three main categories:\nTable of Contents\nReinforcement Learning – A Real-Life Example\nTypical Reinforcement Learning Process\nCore Elements of Rei"
   },
   {
-    "title": "Day 8.Enable Stop Protection for EC2 Instance",
-    "link": "https://dev.to/thukhakyawe_cloud/day-8enable-stop-protection-for-ec2-instance-3imp",
-    "pubDate": "Sun, 07 Dec 2025 12:21:26 +0000",
+    "title": "🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations",
+    "link": "https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-4co7",
+    "pubDate": "Sun, 07 Dec 2025 18:03:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Lab Information\n\n\nAs part of the migration, there were some components added to the AWS account. Team created one of the EC2 instances where they need to make some changes now.\nThere is an EC2 instanc"
+    "contentSnippet": "Welcome to Day 7 of your Spark Mastery journey!\nToday is one of the most practical days because joins, unions, and aggregations are used in almost every pipeline you will ever build - be it feature en"
   },
   {
-    "title": "Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev",
-    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-41ka",
-    "pubDate": "Sun, 07 Dec 2025 12:17:57 +0000",
+    "title": "How to Debug LLM Failures: A Complete Guide for Reliable AI Applications",
+    "link": "https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-complete-guide-for-reliable-ai-applications-3g5h",
+    "pubDate": "Sun, 07 Dec 2025 18:00:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Unlocking the Power of Backend Development: Exploring Rust and Go with Web Developer Travis McCracken\nAs a passionate Web Developer, I’ve spent years honing my skills in backend development, leveragin"
+    "contentSnippet": "Building a prototype with a Large Language Model (LLM) is deceptively easy. A few lines of Python, an API key, and a prompt can yield impressive results in minutes. However, moving that prototype into"
   },
   {
-    "title": "n8n: Credential - Jira SW Cloud API",
-    "link": "https://dev.to/codebangkok/n8n-credential-jira-sw-cloud-api-n7f",
-    "pubDate": "Sun, 07 Dec 2025 12:17:37 +0000",
+    "title": "Built a Sharp Alternative That’s 36x Faster - And It Works with Both Bun AND Node.js",
+    "link": "https://dev.to/aissam_af7e3548e20435d720/built-a-sharp-alternative-thats-36x-faster-and-it-works-with-both-bun-and-nodejs-395o",
+    "pubDate": "Sun, 07 Dec 2025 18:00:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Prerequisite\nCreate Jira API Token\nGo to n8n website\nClick - (1)\nClick - Create credential (2)\n\n\n\nSearch - Jira SW Cloud API (1)\n\n\nClick - Continue (2)\n\n\n\nFill - Email (1)\n\n\nFill - API Token (2) from "
+    "contentSnippet": "TL;DR: I built bun-image-turbo, a Rust-powered image processing library that outperforms Sharp in most benchmarks. It's 36x faster at metadata extraction, 4.5x faster under concurrent load, and has bu"
   },
   {
-    "title": "How to implement Google OAuth in browser extension without “Tabs” permission",
-    "link": "https://dev.to/notearthian/how-to-implement-google-oauth-in-browser-extension-without-tabs-permission-327m",
-    "pubDate": "Sun, 07 Dec 2025 12:15:17 +0000",
+    "title": "🚩 Red flags series #2: God functions",
+    "link": "https://dev.to/mhamadelitawi/red-flags-series-2-god-functions-5d5b",
+    "pubDate": "Sun, 07 Dec 2025 18:00:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Handling authentication, specifically Google OAuth is a nightmare inside extension. You have to deal with chrome.identity, redirect URIs, and complex manifest.json configurations.\nBut there’s a super "
+    "contentSnippet": "📌 This post is one chapter in my Red Flags series. I’m exploring the mistakes, bad practices, and subtle issues we often overlook in day-to-day development. Stay tuned for upcoming posts!\nWhen one fu"
   },
   {
-    "title": "Adapter Pattern Explained with Real Examples",
-    "link": "https://dev.to/adrianbailador/adapter-pattern-explained-with-real-examples-314d",
-    "pubDate": "Sun, 07 Dec 2025 12:12:58 +0000",
+    "title": "How to Debug LLM Failures: A Practical Guide for AI Engineers",
+    "link": "https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-practical-guide-for-ai-engineers-5c0b",
+    "pubDate": "Sun, 07 Dec 2025 17:59:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You're integrating a third-party payment gateway into your application. Everything looks straightforward until you realize their SDK uses a completely different interface than what your codebase expec"
+    "contentSnippet": "In traditional software engineering, debugging is a deterministic process. If code fails, you set a breakpoint, inspect the variable state, identify the logic error, and patch it. The inputs and outpu"
+  },
+  {
+    "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",
+    "link": "https://www.publickey1.jp/blog/25/vercelwebvercel_for_platformsvercelsaas.html",
+    "pubDate": "2025-12-07T15:35:40.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Next.jsの開発で知られるVercelは、同社が提供する同名のサービス「Vercel」において、顧客ごとのマルチテナント構成やマルチプロジェクト構成が簡単に作れる新サービス「Vercel for Platforms」を発表しました。 Vercel for Platforms is here.Build multi-tenant or multi-project platforms with p"
+  },
+  {
+    "title": "AIエージェントをどのコードエディタでも使えるようにする「ACP（Agent Client Protocol）」、JetBrainsがベータ提供開始",
+    "link": "https://www.publickey1.jp/blog/25/aiacpagent_client_protocoljetbrainszeddocker.html",
+    "pubDate": "2025-12-07T15:34:09.000Z",
+    "source": "Publickey",
+    "contentSnippet": "JetBrainsは、AIエージェントをどのコードエディタでも使えるようにすることを目指す業界標準「ACP（Agent Client Protocol）」を、同社のコードエディタ製品群JetBrains IDEsでベータ版として実装したことを明らかにしました。 Integrating the agent you want into the IDE you love should be effort"
+  },
+  {
+    "title": "松尾研究所データサイエンスチームの組織文化について",
+    "link": "https://zenn.dev/mkj/articles/0138ac9d831689",
+    "pubDate": "Sat, 06 Dec 2025 15:00:28 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、松尾研究所 データサイエンスチーム（以降：松尾研DSチーム）の人事担当・松井です。\nこの記事は、松尾研究所 Advent Calendar 2025の記事です。\nテックブログとして少し異色かもしれませんが、「技術を支える文化」という視点で、人事から見たデータサイエンスチームのカルチャーを紹介してみようと思います。ポイントは下記です。\n\n心理的安全性：安心して挑戦できる土台\n学習意欲：技"
   },
   {
     "title": "結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)",
@@ -84,11 +105,11 @@
     "contentSnippet": "CodexについにSkillsが来たので徹底解説\n先日のアップデートでようやくCodexにも待望のSkillsが実装された。この機能を待ち望んでいた方も多いのではないだろうか。今回はこのSkillsをまだ活用していない方に向けて仕組みと利用例を徹底解説している。ぜひ参考にしていただけたら嬉しい。\nちなみにSkillsはCodex特有の仕組みではなく、もともとClaude Codeで実装されていた概"
   },
   {
-    "title": "Luaをコンパイル先とする言語処理系を作る際のTips",
-    "link": "https://zenn.dev/mod_poppo/articles/compiling-to-lua",
-    "pubDate": "Sat, 06 Dec 2025 03:40:16 GMT",
+    "title": "「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話",
+    "link": "https://zenn.dev/panda728/articles/d0b3d9e3404f33",
+    "pubDate": "Sat, 06 Dec 2025 05:33:28 GMT",
     "source": "Zenn",
-    "contentSnippet": "この記事は「Lua Advent Calendar 2025」および「言語実装 Advent Calendar 2025」の6日目の記事です。\nLuaは個人的には好きな言語ですが、静的な型システムの不在や、比較的冗長な記述などにより、人や用途によっては不満を感じることもあるかもしれません。Lua自体はオープンソースで提供されていますが、開発体制はクローズド寄りなので、ユーザーの希望が通るとも限りま"
+    "contentSnippet": "序文\nプログラミングを始めたばかりの頃、私たちはこう教わりました。\n「プログラムは、上から下へ動くものである」\nこれはCPUの仕組みから考えても正しく、直感的です。\nしかし、現在、私が取り組む「基幹システム移行」\nそこで苦しんでいる原因もまた「上から下への一本道」にあります。\n\n本記事では、\nなぜ私たちが直感的な「一本道」を捨てて、\n一見すると複雑な「アーキテクチャ（関心事の分離）」を選ぶのか。\n"
   },
   {
     "title": "TypeScript版のStrands Agents×HonoでAgentCore Runtimeへデプロイ！",
@@ -119,18 +140,18 @@
     "contentSnippet": "はじめに\nこの記事はMicrosoft Power BI Advent Calendar 2025の６日目の記事になります。\n\n内容\n　佐賀県の小売業にて情シスをしています。\n去年の始めまではPower BIのデータ準備・レポート作成等は私一人で行っていましたが、去..."
   },
   {
-    "title": "なぜ \"簡単\" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』",
-    "link": "https://zenn.dev/loglass/articles/6b56dac587f02e",
-    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n株式会社ログラス プロダクトチーム Advent Calendar 2025 のシリーズ 1、6日目の記事です。\n\n14年前の講演が、いま必要になる理由。生成AIがコードを量産できてしまう2025年、圧倒されてしまっていないでしょうか。コードレビューや品質確保に追われているかもしれません。\nこの\"複雑性の増大\"に対して鋭い洞察を与えるのが、Rich Hickey（リッチ・ヒッキー）による Si"
-  },
-  {
     "title": "技術力で殴る前に「問い」を研げ。",
     "link": "https://zenn.dev/shizumaru/articles/42664815ba973f",
     "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n本記事は 仮想通貨 Advent Calendar 2025 のシリーズ2の6日目の記事です。\nエンジニアやデータサイエンティストがクリプトトレードに参入する際、最も陥りやすい罠があります。それは、「高度なモデルや大量の特徴量を使えば、エッジ（優位性）が見つかる」という誤解です。\n\nとりあえず大量のインジケーターをLightGBMに突っ込む\n深層強化学習の論文を実装してみる\nグリッドサー"
+  },
+  {
+    "title": "なぜ \"簡単\" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』",
+    "link": "https://zenn.dev/loglass/articles/6b56dac587f02e",
+    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n株式会社ログラス プロダクトチーム Advent Calendar 2025 のシリーズ 1、6日目の記事です。\n\n14年前の講演が、いま必要になる理由。生成AIがコードを量産できてしまう2025年、圧倒されてしまっていないでしょうか。コードレビューや品質確保に追われているかもしれません。\nこの\"複雑性の増大\"に対して鋭い洞察を与えるのが、Rich Hickey（リッチ・ヒッキー）による Si"
   },
   {
     "title": "Tailscaleを利用して開発環境を整える",
@@ -159,13 +180,6 @@
     "pubDate": "Fri, 05 Dec 2025 15:00:03 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこの記事は「株式会社カオナビAdvent Calendar 2025」の6日目の記事です。\n昨年、株式会社カオナビの佐野さんが「ソフトウェアは捨てやすく作ろう」という記事を執筆しました。\nhttps://qiita.com/sanogemaru/items/40557c6db33dcec99cf1\n今回、その内容を踏まえ、ソフトウェアテストに焦点を当てて「捨てやすいテスト」について考察し"
-  },
-  {
-    "title": "セキュリティチェックシート回答生成の自動化に取り組んでいる話 〜RAGと運用改善で実現する効率化〜",
-    "link": "https://zenn.dev/globis/articles/07126d6680b7e3",
-    "pubDate": "Fri, 05 Dec 2025 15:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは！グロービスでセキュリティ推進、SIRT運営など全社セキュリティを担当していますnagamineです 。この記事は、GLOBIS Advent Calendar 2025の6日目の記事です。\n今回は、事業部門横断で取り組むセキュリティチェックシート（SCS）対応の効率化に向けた取り組みについて、事例を紹介したいと思います。\n\n 概要\nグロービスでは、オンライン学習サービス「グロ"
   },
   {
     "title": "ADサーバーが消えた日",
@@ -264,19 +278,5 @@
     "pubDate": "2025-12-02T18:53:19.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、まるでチームメンバーのように自律的に開発を行うAIエージェント「Kiro autonomous agent」を発表しました。 Kiroは仕様駆動開発を特長とするAIコードエディタとして今年（2025年）7月にAWSからリリースされました。Kiro auton"
-  },
-  {
-    "title": "［速報］AWS、障害が発生すると人間より先にAIが調査分析、対処法まで報告「AWS DevOps Agent」プレビュー公開",
-    "link": "https://www.publickey1.jp/blog/25/awsaiaws_devops_agent.html",
-    "pubDate": "2025-12-02T18:48:57.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、障害に対して自動的に対応するAIエージェント「AWS DevOps Agent」のプレビュー公開を発表しました。 AWS DevOps Agentは人間が起動するのではなく、オンにしておくことで継続的にアラートを監視し、何らかのインシデントの発生を検知すると"
-  },
-  {
-    "title": "［速報］AWS、基盤モデルをユーザーが独自データで学習させてカスタマイズできる「Nova Forge」発表",
-    "link": "https://www.publickey1.jp/blog/25/awsnova_forge.html",
-    "pubDate": "2025-12-02T18:46:53.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社独自の基盤モデル「Amazon Nova 2」に対してユーザーが独自データを用いて学習させることでカスタマイズした基盤モデルを作成できる新サービス「Nova Forge」を発表しました。 Nova Forgeは、Amazon Nova 2の基盤モデルの学"
   }
 ]

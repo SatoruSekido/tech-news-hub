@@ -1,73 +1,80 @@
 [
   {
-    "title": "END-TO-END Deployment Of Django App on AWS EKS Cluster",
-    "link": "https://dev.to/oncloud7/end-to-end-deployment-of-django-app-on-aws-eks-cluster-l6a",
-    "pubDate": "Sat, 06 Dec 2025 18:21:44 +0000",
+    "title": "AI Image Generator",
+    "link": "https://dev.to/hctor_prez_606770454b73/ai-image-generator-5297",
+    "pubDate": "Sun, 07 Dec 2025 02:16:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today, we are deploying a Django app on an EKS Cluster and will Learn How to create an EKS cluster and deploy the app on it.\n\n\nStep 1: Create a EC2 instance to run all the dependencies on the instance"
+    "contentSnippet": "This is a submission for the AI Challenge for Cross-Platform Apps - WOW Factor\nI created a template for an AI-powered image generator. What makes it special is its clean, aesthetically pleasing design"
   },
   {
-    "title": "Discover Monetzly: Your Path to Effective AI Monetization Strategies",
-    "link": "https://dev.to/monetzly/discover-monetzly-your-path-to-effective-ai-monetization-strategies-3d2n",
-    "pubDate": "Sat, 06 Dec 2025 18:16:44 +0000",
+    "title": "🚀 Supercharge Your Compose Performance with the Stability Insights Plugin!",
+    "link": "https://dev.to/francopaul/supercharge-your-compose-performance-with-the-stability-insights-plugin-77o",
+    "pubDate": "Sun, 07 Dec 2025 02:04:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Advertising is Evolving: Here’s Where It’s Heading in the AI Era\nAs developers, we’re witnessing an explosion of AI applications, each more innovative than the last. Yet despite their potential, many "
+    "contentSnippet": "If you're building Android apps with Jetpack Compose, you know that performance often comes down to one key concept: stability. When your composables receive unstable parameters, Compose can't be sure"
   },
   {
-    "title": "I Built an AI News Agent with LangGraph (Open Source)\r\nGitHub: https://github.com/tejiri-code/pulse-ai",
-    "link": "https://dev.to/edjere_evelynoghenetejir/i-built-an-ai-news-agent-with-langgraph-open-source-github-32cn",
-    "pubDate": "Sat, 06 Dec 2025 18:16:22 +0000",
+    "title": "Soft skills can be learned too",
+    "link": "https://dev.to/bridget_amana/soft-skills-can-be-learned-too-3n26",
+    "pubDate": "Sun, 07 Dec 2025 02:01:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GitHub - tejiri-code/pulse-ai\n          \n        \n          \n            Contribute to tejiri-code/pulse-ai development by creating an account on GitHub.\n          \n        \n            \n          git"
+    "contentSnippet": "There is nothing more frustrating than watching someone who seems naturally good with people. You see them enter a room and everything shifts a little. They connect easily, they say the right things w"
   },
   {
-    "title": "**Avoiding Hidden Biases in Transfer Learning: A Practical T",
-    "link": "https://dev.to/drcarlosruizviquez/avoiding-hidden-biases-in-transfer-learning-a-practical-t-4b5m",
-    "pubDate": "Sat, 06 Dec 2025 18:15:28 +0000",
+    "title": "Top Basic Interview Questions for Freshers (HR + Technical) — A Complete Beginner Guide",
+    "link": "https://dev.to/abhishek-nexgen-dev/top-basic-interview-questions-for-freshers-hr-technical-a-complete-beginner-guide-27bl",
+    "pubDate": "Sun, 07 Dec 2025 02:00:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Avoiding Hidden Biases in Transfer Learning: A Practical Tip\nAs ML practitioners, we often rely on pre-trained models to speed up development and improve performance. However, transfer learning can al"
+    "contentSnippet": "Landing your first job can feel overwhelming, especially when you don’t know what questions interviewers typically ask.\nthe most common HR and basic technical interview questions that almost every fre"
   },
   {
-    "title": "Make Liferay upgrades predictable. This guide explains how to fix legacy code, simplify modules, and prep for future releases. Read https://veriday.com/reduce-technical-debt-in-liferay-dxp-upgrades-veriday-guide/",
-    "link": "https://dev.to/devndrakushi_6049434ecdb0/make-liferay-upgrades-predictable-this-guide-explains-how-to-fix-legacy-code-simplify-modules-ab9",
-    "pubDate": "Sat, 06 Dec 2025 18:14:29 +0000",
+    "title": "AI Dominates Global Tech Scene with Major Investments, Product Launches, and Ethical Debates",
+    "link": "https://dev.to/stelixx-insights/ai-dominates-global-tech-scene-with-major-investments-product-launches-and-ethical-debates-2n61",
+    "pubDate": "Sun, 07 Dec 2025 02:00:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How to Reduce Technical Debt During Liferay DXP Upgrades: A Modernization Guide\nVeriday ・ Dec 6\n#liferay\n        #webdev\n        #ai\n        #programming\n      \n    \n  \n\n\n\n\n\n    \n        \n          \n "
+    "contentSnippet": "The AI landscape is experiencing explosive growth and intense competition, impacting everything from hardware manufacturing to software development and ethical considerations. This post delves into th"
   },
   {
-    "title": "How to Reduce Technical Debt During Liferay DXP Upgrades: A Modernization Guide",
-    "link": "https://dev.to/veriday/how-to-reduce-technical-debt-during-liferay-dxp-upgrades-a-modernization-guide-15n5",
-    "pubDate": "Sat, 06 Dec 2025 18:12:32 +0000",
+    "title": "My First Ethical Open Redirect Scanner: From Zero to Shipped",
+    "link": "https://dev.to/ethicals7s/my-first-ethical-open-redirect-scanner-from-zero-to-shipped-4h69",
+    "pubDate": "Sun, 07 Dec 2025 01:39:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Liferay upgrades shouldn’t feel like rebuilding your platform from scratch.\nDive in here"
+    "contentSnippet": "Hey dev community! I'm ethicals7s, a self-taught hacker grinding from zero—no mentors, just raw determination after losing my parents young. In a few intense days, I designed, coded, and shipped my fi"
   },
   {
-    "title": "The Future of Web Development is Not AI",
-    "link": "https://dev.to/oleksiy_martynovollie_/the-future-of-web-development-is-not-ai-3o7m",
-    "pubDate": "Sat, 06 Dec 2025 18:10:52 +0000",
+    "title": "Huebox.fr : Transformez vos images en palettes stylées en un clic",
+    "link": "https://dev.to/benjaminjacobdev/hueboxfr-transformez-vos-images-en-palettes-stylees-en-un-clic-of8",
+    "pubDate": "Sun, 07 Dec 2025 01:35:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "*ChatGPT isn't making you ship code faster. It’s just making your codebase more verbose.\n\nWe are obsessed with \"AI-generated apps.\" But we are ignoring the real bottleneck in web development. It isn't"
+    "contentSnippet": "Vous avez déjà eu une photo ou un visuel qui vous inspire… et vous vous êtes dit : “Si seulement je pouvais récupérer ces couleurs exactes pour mon design !” 🎨\nC’est exactement ce que Huebox.fr, créé"
   },
   {
-    "title": "Embeddings != magic. Forget \"semantic\" = perfect. Similarity",
-    "link": "https://dev.to/nullure_ef11832f4ce3b466a/embeddings-magic-forget-semantic-perfect-similarity-2m70",
-    "pubDate": "Sat, 06 Dec 2025 18:10:14 +0000",
+    "title": "DevPills #6 - SQLC: how to scaffold your database code",
+    "link": "https://dev.to/raulsilva/devpills-6-sqlc-how-to-scaffold-your-database-code-2996",
+    "pubDate": "Sun, 07 Dec 2025 01:35:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Embeddings != magic. Forget \"semantic\" = perfect. Similarity search is just one signal. Salience, recency & links matter too. Build smarter AI agents with OpenMemory's multi-sector memory. Self-hosted"
+    "contentSnippet": "1. Install\n\n\n\n\n\ngo install github.com/sqlc-dev/sqlc/cmd/sqlc@latest\n\nExample:\nversion: \"2\"\nsql:\n  - schema: \"db/schema/schema.sql\"\n    queries: \"db/queries\"\n    engine: \"postgresql\"\n    gen:\n      go:"
   },
   {
-    "title": "I Built an Autonomous AI News Agent with LangGraph (Open Source)",
-    "link": "https://dev.to/edjere_evelynoghenetejir/i-built-an-autonomous-ai-news-agent-with-langgraph-open-source-3of5",
-    "pubDate": "Sat, 06 Dec 2025 18:05:44 +0000",
+    "title": "Optimizing a 40-Year-Old Government Database: From 3s to 30ms",
+    "link": "https://dev.to/sam_sullivan_411184fbc70e/optimizing-a-40-year-old-government-database-from-3s-to-30ms-4lk3",
+    "pubDate": "Sun, 07 Dec 2025 01:29:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Problem\n\n\nThe AI field moves at breakneck speed. Every day brings new ArXiv papers, trending GitHub repos, OpenAI announcements, and Anthropic updates. Keeping up is a full-time job.\nI built Pulse"
+    "contentSnippet": "The National Highway Traffic Safety Administration maintains the most comprehensive vehicle database in existence. Every car sold in America since 1981, complete technical specifications, all publicly"
   },
   {
-    "title": "AWS IAM Best Practices — Building Secure Cloud Environments 🔐",
-    "link": "https://dev.to/prateekbka/aws-iam-best-practices-building-secure-cloud-environments-4db7",
-    "pubDate": "Sat, 06 Dec 2025 18:01:47 +0000",
+    "title": "When RHEL 9 Meets a Legacy Windows Server - A Crypto Policy Story",
+    "link": "https://dev.to/sebos/when-rhel-9-meets-a-legacy-windows-server-a-crypto-policy-story-456f",
+    "pubDate": "Sun, 07 Dec 2025 01:22:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When moving fast in the cloud, Identity & Access Management (IAM) is often overlooked. Teams spin up resources quickly, add permissions just to make things work, and plan to optimize them “later.”\n\nIA"
+    "contentSnippet": "Intro: A Compatibility Challenge\n\n\nRecently, I ran into one of those real-world IT problems that makes you stop and appreciate just how messy compatibility can be.\nThe setup was straightforward enough"
+  },
+  {
+    "title": "CodexについにSkillsが来たので徹底解説",
+    "link": "https://zenn.dev/aki_think/articles/978556f1652aa6",
+    "pubDate": "Sat, 06 Dec 2025 08:55:49 GMT",
+    "source": "Zenn",
+    "contentSnippet": "CodexについにSkillsが来たので徹底解説\n先日のアップデートでようやくCodexにも待望のSkillsが実装された。この機能を待ち望んでいた方も多いのではないだろうか。今回はこのSkillsをまだ活用していない方に向けて仕組みと利用例を徹底解説している。ぜひ参考にしていただけたら嬉しい。\nちなみにSkillsはCodex特有の仕組みではなく、もともとClaude Codeで実装されていた概"
   },
   {
     "title": "コスト削減 - EC2編 - 🚀",
@@ -84,6 +91,34 @@
     "contentSnippet": "この記事は「Lua Advent Calendar 2025」および「言語実装 Advent Calendar 2025」の6日目の記事です。\nLuaは個人的には好きな言語ですが、静的な型システムの不在や、比較的冗長な記述などにより、人や用途によっては不満を感じることもあるかもしれません。Lua自体はオープンソースで提供されていますが、開発体制はクローズド寄りなので、ユーザーの希望が通るとも限りま"
   },
   {
+    "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
+    "link": "https://qiita.com/Shiro_Shihi/items/1891c34595c9eff665f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T02:14:12.000Z",
+    "source": "Qiita",
+    "contentSnippet": "「レビューが怖い」新人エンジニアへ\n「レビューするの怖い」と思っていた過去の自分に教えたい、コードレビューが『最強の学習ツール』である3つの理由\n\nはじめに\nエンジニアになりたての頃、私はコードレビューがとても怖いものでした。\n\n「自分のような初心者が意見していいのだろう..."
+  },
+  {
+    "title": "サービスの本番データベースを吹き飛ばした話",
+    "link": "https://qiita.com/tampopo256/items/601dc79677fabb0a23d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T22:08:53.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事は「 本番環境などでやらかしちゃった人 Advent Calendar 2025 」の6日目です。\n私の前職で起こった出来事です。\nstg環境がいかに大切かを思い知らされたやらかしを共有したいと思います。\n\n本来あるべき姿\n普通の開発においてはこのような形になってい..."
+  },
+  {
+    "title": "2025年 社内Power BI普及活動について",
+    "link": "https://qiita.com/tsukapon/items/0b50f24f254f230c827b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T22:03:59.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこの記事はMicrosoft Power BI Advent Calendar 2025の６日目の記事になります。\n\n内容\n　佐賀県の小売業にて情シスをしています。\n去年の始めまではPower BIのデータ準備・レポート作成等は私一人で行っていましたが、去..."
+  },
+  {
+    "title": "なぜ \"簡単\" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』",
+    "link": "https://zenn.dev/loglass/articles/6b56dac587f02e",
+    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n株式会社ログラス プロダクトチーム Advent Calendar 2025 のシリーズ 1、6日目の記事です。\n\n14年前の講演が、いま必要になる理由。生成AIがコードを量産できてしまう2025年、圧倒されてしまっていないでしょうか。コードレビューや品質確保に追われているかもしれません。\nこの\"複雑性の増大\"に対して鋭い洞察を与えるのが、Rich Hickey（リッチ・ヒッキー）による Si"
+  },
+  {
     "title": "技術力で殴る前に「問い」を研げ。",
     "link": "https://zenn.dev/shizumaru/articles/42664815ba973f",
     "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT",
@@ -91,18 +126,25 @@
     "contentSnippet": "はじめに\n本記事は 仮想通貨 Advent Calendar 2025 のシリーズ2の6日目の記事です。\nエンジニアやデータサイエンティストがクリプトトレードに参入する際、最も陥りやすい罠があります。それは、「高度なモデルや大量の特徴量を使えば、エッジ（優位性）が見つかる」という誤解です。\n\nとりあえず大量のインジケーターをLightGBMに突っ込む\n深層強化学習の論文を実装してみる\nグリッドサー"
   },
   {
-    "title": "Physical AIに向けて：Robotic World Model (RWM)",
-    "link": "https://zenn.dev/cybernetics/articles/2bad5339dd9508",
-    "pubDate": "Fri, 05 Dec 2025 20:26:44 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nPhysical AIに挑んでいくための一つの大きなテーマとしてWorld Modelがある。今回はZürichの論文をテーマに最新の情報を追っていくこととした。Zürich工科大学はEnd2End強化学習で4脚実ロボットを制御し、現在の4脚や二足歩行ロボットの技術的基盤や方向性を示したパイオニアだと思っている。\n2017年「Asymmetric Actor Critic for Ima"
-  },
-  {
     "title": "Tailscaleを利用して開発環境を整える",
     "link": "https://zenn.dev/chamafoobar/articles/8ccdb552ef0acf",
     "pubDate": "Fri, 05 Dec 2025 16:08:31 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は仮想通貨botter Advent Calendar 2025の6日目の記事です。\nこんにちは、ちゃま(@chamafoobar)と申します。\n今回は「Tailscale」というサービスを利用してVPNを構築し、仮想通貨botter用の開発環境を整備する方法をご紹介します。\n!\nこの記事には暗号資産の話は全く出てきません。当然この記事を読んでも儲かりません。\n\n\n Tailscaleとは"
+  },
+  {
+    "title": "RAGを自分で実装したくなったらまずこれ見て【ruri-v3 × Faiss】",
+    "link": "https://zenn.dev/livetoon/articles/b273cdfc07c55c",
+    "pubDate": "Fri, 05 Dec 2025 15:27:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事はLivetoon Tech Advent Calendar 2025の６日目の記事です。\nhttps://adventar.org/calendars/12157\nCTOの長嶋が担当です。\n本日は、皆さんよく聞くRAGのお話です。\n\n 宣伝\nhttps://kai0.onelink.me/Hogh/AdventCalendar2025\n今回のアドベントカレンダーでは、LivetoonのA"
+  },
+  {
+    "title": "情シスの休日：個人ホームページを WordPress から Hugo + AWS へ移行して、コストを 1/100 にした話",
+    "link": "https://zenn.dev/shimosyan/articles/f9c35cb3736b25",
+    "pubDate": "Fri, 05 Dec 2025 15:21:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事はcorp-engr 情シスSlack（コーポレートエンジニア x 情シス）#1 Advent Calendar 2025の 6 日目の記事です。\n\nhttps://adventar.org/calendars/11540\n\n これはなに？\nこんにちは、しもしゃんです。\nWordPress といえば、情シス目線ではプラグイン込みの脆弱性管理が気になるところですよね。\n趣味で運営している"
   },
   {
     "title": "テストも捨てやすく作ろう",
@@ -126,18 +168,18 @@
     "contentSnippet": "※この記事は「本番環境などでやらかしちゃった人 Advent Calendar 2025」向けの体験談です。\n\nADサーバーが消えると、たくさん楽しいことが起きます。\n\n1. 登場人物\nまずは登場人物から。\n\nAさん：作業者。入社1年目。数回のメンテナンス作業経験あり。..."
   },
   {
-    "title": "序章：コスト削減 - コストと戦う未来の僕へ -",
-    "link": "https://qiita.com/ryu_ji_0501/items/a04bf2de7ac898b678fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T12:49:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "拝啓、コストと戦う未来の僕へ\nこんにちは。今年もアドベントカレンダーの季節がやってきました。\n毎年、この時期になると「さて今年は何を書こうか…」と悩むのですが、\n2025年は迷わず “インフラ” と “コスト” にしました。\nというのも、定期的に僕はインフラ費用とけっこう..."
-  },
-  {
     "title": "「新しい相関係数」について",
     "link": "https://qiita.com/Islay_tr/items/dd427ba86ba11bd25626?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T10:47:06.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n今回は、「新しい相関係数」と銘打ったインパクトのある論文を紹介します。\nこの論文で定義を見ただけだとイマイチぴんと来ないかもしれないので、図を使ってわかりやすく説明します。\n紹介する論文はこちら：\nChatterjee, Sourav. \"A new coeff..."
+  },
+  {
+    "title": "n8nを用いて社内業務のドラスティックな業務改善を狙おう！ ~導入編~",
+    "link": "https://zenn.dev/ubie_dev/articles/ccd18a2f911706",
+    "pubDate": "Fri, 05 Dec 2025 09:17:22 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は Ubie社内の生成AI推進活動！ Advent Calendar 2025 の5日目の記事です。\n\nUbie ソフトウェアエンジニアの syu_cream です。最近は社内生成AI活用周辺においてなんでもやるマンをやっています。\n今回の記事では、最近 Ubie で活用し始めている AI ワークフロー n8n について紹介していきます。\n\n はじめに\nみなさんの企業では社内でどれくら"
   },
   {
     "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",
@@ -147,39 +189,11 @@
     "contentSnippet": "はじめに\n私の元職場の上司は、IEEEのことを「イェ～～」と呼んでいた。\nパリピかよ。\n会議中に「その規格はイェ～～が決めていて……」と仰るものだから、こっちは笑いが止まらないのである。正解はご存知「アイトリプルイー」である。\nだが、よく考えたらIT業界には初見では読めな..."
   },
   {
-    "title": "React2Shell (CVE-2025-55182) で気付いた React Server Components のセキュリティの盲点",
-    "link": "https://zenn.dev/storehero/articles/15636985eb876c",
-    "pubDate": "Fri, 05 Dec 2025 01:38:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n先日、Vercel から「Important Security Update for Next.js 15 & 16」という件名のメールが Gmail に届きました。\nリンク先の CVE ページを確認したところ、CVSS スコアが 10.0（Critical） と記載されており、すぐに対応が必要な深刻な問題であることがわかりました。\nCVSS スコアとは、脆弱性の深刻度を0.0〜10.0"
-  },
-  {
-    "title": "Flutter x Riverpodのアーキテクチャ考察",
-    "link": "https://zenn.dev/st43/articles/ca7feb21500a6c",
-    "pubDate": "Fri, 05 Dec 2025 01:08:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Commune Developers Advent Calendar 2025の5日目の記事です。\nわたくしは6年iOS開発をやっておりましたが、今年9月からFlutter開発をしております。\n3ヶ月ほどやった感想ですが、Riverpodが圧倒的に便利だなと感じています。\nRiverpod自体は以前から個人的に興味があって、ドキュメント読んで試してみたこともありました。\nそのときはまだピンと来てい"
-  },
-  {
-    "title": "エンジニアに必要な「読解力」とは？ 技術文書を構造化して\"秒\"で理解する技術",
-    "link": "https://zenn.dev/coconala/articles/engineer-reading-skill-structuring",
-    "pubDate": "Fri, 05 Dec 2025 01:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは。\n株式会社ココナラ 技術戦略室に所属している デミオ です。\nこちらは株式会社ココナラ Advent Calendar 2025 5日目の記事です。\n\n 導入\nエンジニアの日常業務を振り返ってみてください。IDEでコードを書いている時間よりも、画面上の文字を「読んでいる」時間の方が圧倒的に長くありませんか？\n技術ドキュメント、仕様書、APIリファレンス、GitHubのIssue、そして"
-  },
-  {
     "title": "客先本番環境のNASデータをすべてrmした事件",
     "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-04T22:05:28.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n数年前にシステム開発をしており、そのときに客先NASのデータをすべてrmした話です。\nこのシステムは複数のサブシステムとNASで構成されていました。\n１つのサブシステムの開発を担当しており、不具合改修のためにアップデートを行った時の今回の事件を引き起こしました。..."
-  },
-  {
-    "title": "TypeScript開発者待望？！ Strands Agents TypeScript SDKを試してみた！",
-    "link": "https://zenn.dev/mashharuki/articles/strands_agent_ts_sdk-1",
-    "pubDate": "Thu, 04 Dec 2025 16:53:24 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事はStrands Agents TypeScripts SDK発表直後の記事となります。\nSDKの仕様については今後変更される可能性がありますのでご了承ください。\n\n\n はじめに\n皆さん、こんにちは！\n今ラスベガスで何が行われているかご存知ですか？？\nそう、 AWS re:Invent の真っ最中です！！\nhttps://reinvent.awsevents.com/\n!\nめちゃくちゃ"
   },
   {
     "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",
@@ -203,25 +217,11 @@
     "contentSnippet": "はじめに\nMCP（Model Context Protocol）は、AIエージェントが外部ツールと連携するためのプロトコルです。通常、MCPサーバーはデータベースへのアクセスやファイル操作など、プログラムが自動で処理を行います。\n今日は私がMCPサーバーになってみました。..."
   },
   {
-    "title": "高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜",
-    "link": "https://qiita.com/drken/items/c853184ad95b9e9fd45d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-04T02:18:31.000Z",
-    "source": "Qiita",
-    "contentSnippet": "突然ですが、高校生向けのプログラミング大会である日本情報オリンピック（以下、JOI と呼びます）で、都道府県ごとの参加人数にどの程度の差があるかをご存知でしょうか。\n下のグラフは、2020 年までの、都道府県別の JOI への参加人数を示したものです（このページより）。東京..."
-  },
-  {
     "title": "【3.14対応】Pythonをいろんな意味で高速化する個人的TIPS30選",
     "link": "https://qiita.com/nukipei/items/cb095dcc167a7673294c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T22:26:48.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nこんにちは。\n私は某SIerに入社し5年目となりますが、これまでざっくりと以下のような業務に取り組んでまいりました。\n\n数理最適化エンジンの開発、システム導入\n量子コンピュータ周辺技術のR&D\nAIエージェント/生成AIシステムの開発・導入\n\nまた、プライベート..."
-  },
-  {
-    "title": "TypeScriptのネイティブ版をさっそく導入したらCIが止まりました",
-    "link": "https://qiita.com/uhyo/items/fa5d885e410323821cae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T22:07:53.000Z",
-    "source": "Qiita",
-    "contentSnippet": "皆さんこんにちは。この記事は株式会社カオナビ Advent Calendar 2025の4日目（シーズン3）の記事です。\nTypeScriptに関連する最近のニュースとしては、TypeScriptチームからネイティブ版（Go移植版）の現在のステータスが共有されましたね。\n\n..."
   },
   {
     "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",

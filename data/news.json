@@ -1,73 +1,73 @@
 [
   {
-    "title": "Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack",
-    "link": "https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22",
-    "pubDate": "Sun, 07 Dec 2025 06:03:25 +0000",
+    "title": "Testing Blog",
+    "link": "https://dev.to/inupurnomo/testing-blog-1l99",
+    "pubDate": "Sun, 07 Dec 2025 12:29:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When building MyTreda (an inventory system for Nigerian small businesses), I realized Western SaaS tutorials don't cover my users' reality. My traders needed WhatsApp numbers for customer contact, not"
+    "contentSnippet": "Lorem Ipsum dolor sit amet.\ntestttttt.py"
   },
   {
-    "title": "The €82,000 Blind Spot That Almost Sank a SaaS Company",
-    "link": "https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6",
-    "pubDate": "Sun, 07 Dec 2025 06:02:48 +0000",
+    "title": "RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships",
+    "link": "https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683",
+    "pubDate": "Sun, 07 Dec 2025 12:25:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The €82,000 Blind Spot That Almost Sank a SaaS Company\n\n\nLast Tuesday, Alex, founder of a mid-sized project management SaaS, stared at his Q3 revenue report. Something felt off. After digging, he disc"
+    "contentSnippet": "Introduction — A Travel-Agency Diary with a Dash of Humor\n\n\nI didn’t plan to rebuild my tour booking website on a Tuesday. I planned to eat leftover noodles and quietly avoid tech debt. Then a client "
   },
   {
-    "title": "Is Tailwind actually slow?",
-    "link": "https://dev.to/yoskutik/is-tailwind-actually-slow-533d",
-    "pubDate": "Sun, 07 Dec 2025 06:00:00 +0000",
+    "title": "🤖AI for Everyone: How byLLM & A11yShape Are Redefining Inclusive Coding",
+    "link": "https://dev.to/usman_awan/ai-for-everyone-how-byllm-a11yshape-are-redefining-inclusive-coding-2fg9",
+    "pubDate": "Sun, 07 Dec 2025 12:24:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Tailwind managed to conquer the hearts of many developers and at the same time become the most despised CSS framework for many others. People love and hate it for a variety of reasons, but today I wan"
+    "contentSnippet": "🚀 AI for All: byLLM and A11yShape Bridge AI and Accessibility in Programming\n\n\nIn today’s rapidly evolving tech ecosystem, two groundbreaking tools are reshaping how we think about software developme"
   },
   {
-    "title": "GPUI Component: Because Desktop Apps Shouldn't Make You Cry",
-    "link": "https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp",
-    "pubDate": "Sun, 07 Dec 2025 06:00:00 +0000",
+    "title": "SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries & String Plumbing in C#",
+    "link": "https://dev.to/sandy_bassi_cc2d82d21b407/safemapx-a-new-universal-pattern-to-eliminate-null-checks-ternaries-string-plumbing-in-c-3pp9",
+    "pubDate": "Sun, 07 Dec 2025 12:23:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "GPUI Component is a Rust library that brings 60+ ready-to-use UI components to desktop development, combining the performance of native apps with React-style state management. Instead of wrestling wit"
+    "contentSnippet": "SafeMapX — A New Universal Pattern to Eliminate Null Checks, Ternaries & String Plumbing in C\n\n\nEvery engineer who has worked in large C# systems knows this pain:\nEndless if (x != null) ladders\n\nNeste"
   },
   {
-    "title": "Why Context Engineering Is Replacing Prompt Engineering",
-    "link": "https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-engineering-10nh",
-    "pubDate": "Sun, 07 Dec 2025 05:56:29 +0000",
+    "title": "Monetzly: Transforming AI Conversations into Developer Revenue",
+    "link": "https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-3ec0",
+    "pubDate": "Sun, 07 Dec 2025 12:21:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Prompt engineering isn’t the real AI power move anymore. \nMost teams are still obsessing over clever prompts. \nIt’s not about better sentences. \nWhen you give AI rich context, it stops acting like a g"
+    "contentSnippet": "Monetization Without Paywalls: The Future of AI Conversations\n\n\nThe biggest challenge in AI today? Monetization without killing user experience. As developers, we’ve all faced the dilemma of needing r"
   },
   {
-    "title": "Building a JIT Compiler from Scratch: Part 0 - How Computers Run Your Code",
-    "link": "https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-0-how-computers-run-your-code-2bp1",
-    "pubDate": "Sun, 07 Dec 2025 05:52:47 +0000",
+    "title": "Day 8.Enable Stop Protection for EC2 Instance",
+    "link": "https://dev.to/thukhakyawe_cloud/day-8enable-stop-protection-for-ec2-instance-3imp",
+    "pubDate": "Sun, 07 Dec 2025 12:21:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is the first part of the series on Building a JIT Compiler from Scratch. I have been exploring the world of compilers and interpreters for many years, from theory to many failed attempts. As a ho"
+    "contentSnippet": "Lab Information\n\n\nAs part of the migration, there were some components added to the AWS account. Team created one of the EC2 instances where they need to make some changes now.\nThere is an EC2 instanc"
   },
   {
-    "title": "The Ultimate Secret of UI/UX Design",
-    "link": "https://dev.to/olynex/the-ultimate-secret-of-uiux-design-13eh",
-    "pubDate": "Sun, 07 Dec 2025 05:52:33 +0000",
+    "title": "Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev",
+    "link": "https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-41ka",
+    "pubDate": "Sun, 07 Dec 2025 12:17:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "UI/UX Design is one of the most powerful skills in the digital world — yet most people look at it only from the visual side. Great colors, smooth typography, clean layouts… these things matter, but th"
+    "contentSnippet": "Unlocking the Power of Backend Development: Exploring Rust and Go with Web Developer Travis McCracken\nAs a passionate Web Developer, I’ve spent years honing my skills in backend development, leveragin"
   },
   {
-    "title": "Building Agentic AI: Amazon Nova Act and Strands Agents in Practice",
-    "link": "https://dev.to/elianalamhost/building-agentic-ai-amazon-nova-act-and-strands-agents-in-practice-27ec",
-    "pubDate": "Sun, 07 Dec 2025 05:39:26 +0000",
+    "title": "n8n: Credential - Jira SW Cloud API",
+    "link": "https://dev.to/codebangkok/n8n-credential-jira-sw-cloud-api-n7f",
+    "pubDate": "Sun, 07 Dec 2025 12:17:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AWS re:Invent 2025 - Building Agentic AI: Amazon Nova Act and Strands Agents in Practice (DEV327)\nLearn how to build AI agents applications from ground up with AWS\nIntroduction\nSession introduction on"
+    "contentSnippet": "Prerequisite\nCreate Jira API Token\nGo to n8n website\nClick - (1)\nClick - Create credential (2)\n\n\n\nSearch - Jira SW Cloud API (1)\n\n\nClick - Continue (2)\n\n\n\nFill - Email (1)\n\n\nFill - API Token (2) from "
   },
   {
-    "title": "The Deterministic Problem with Probabilistic AI Analytics",
-    "link": "https://dev.to/gigapress/the-deterministic-problem-with-probabilistic-ai-analytics-1n2",
-    "pubDate": "Sun, 07 Dec 2025 05:32:56 +0000",
+    "title": "How to implement Google OAuth in browser extension without “Tabs” permission",
+    "link": "https://dev.to/notearthian/how-to-implement-google-oauth-in-browser-extension-without-tabs-permission-327m",
+    "pubDate": "Sun, 07 Dec 2025 12:15:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TLDR: AI-powered analytics tools use probabilistic systems (LLMs, semantic search, RAG) to answer business questions that demand deterministic accuracy. Ask the same question twice with slightly diffe"
+    "contentSnippet": "Handling authentication, specifically Google OAuth is a nightmare inside extension. You have to deal with chrome.identity, redirect URIs, and complex manifest.json configurations.\nBut there’s a super "
   },
   {
-    "title": "Link Shopify to Amazon: A Practical Step-by-Step Guide for Developers and Founders",
-    "link": "https://dev.to/prateekshaweb/link-shopify-to-amazon-a-practical-step-by-step-guide-for-developers-and-founders-2n8m",
-    "pubDate": "Sun, 07 Dec 2025 05:30:21 +0000",
+    "title": "Adapter Pattern Explained with Real Examples",
+    "link": "https://dev.to/adrianbailador/adapter-pattern-explained-with-real-examples-314d",
+    "pubDate": "Sun, 07 Dec 2025 12:12:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hook — why this matters now\n\n\nIf you’re running a Shopify store and want to scale sales without doubling your operational overhead, linking Shopify to Amazon is low-hanging fruit. The integration lets"
+    "contentSnippet": "You're integrating a third-party payment gateway into your application. Everything looks straightforward until you realize their SDK uses a completely different interface than what your codebase expec"
   },
   {
     "title": "結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)",
@@ -84,18 +84,18 @@
     "contentSnippet": "CodexについにSkillsが来たので徹底解説\n先日のアップデートでようやくCodexにも待望のSkillsが実装された。この機能を待ち望んでいた方も多いのではないだろうか。今回はこのSkillsをまだ活用していない方に向けて仕組みと利用例を徹底解説している。ぜひ参考にしていただけたら嬉しい。\nちなみにSkillsはCodex特有の仕組みではなく、もともとClaude Codeで実装されていた概"
   },
   {
-    "title": "コスト削減 - EC2編 - 🚀",
-    "link": "https://qiita.com/ryu_ji_0501/items/93b3e9d63e702ea347d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T05:01:04.000Z",
-    "source": "Qiita",
-    "contentSnippet": "〜まずはここから削ろう。世代・サイズ・SPだけで数字が動く〜\n(前回)　序章：コスト削減 - コストと戦う未来の僕へ -\n\n前回に引き続き、第２弾です！\nEC2 は AWS の中でもっとも “削りやすい” サービス。\n常に動いているぶん、ちょっとした改善がそのまま請求額に効..."
-  },
-  {
     "title": "Luaをコンパイル先とする言語処理系を作る際のTips",
     "link": "https://zenn.dev/mod_poppo/articles/compiling-to-lua",
     "pubDate": "Sat, 06 Dec 2025 03:40:16 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は「Lua Advent Calendar 2025」および「言語実装 Advent Calendar 2025」の6日目の記事です。\nLuaは個人的には好きな言語ですが、静的な型システムの不在や、比較的冗長な記述などにより、人や用途によっては不満を感じることもあるかもしれません。Lua自体はオープンソースで提供されていますが、開発体制はクローズド寄りなので、ユーザーの希望が通るとも限りま"
+  },
+  {
+    "title": "TypeScript版のStrands Agents×HonoでAgentCore Runtimeへデプロイ！",
+    "link": "https://qiita.com/har1101/items/3cb163cc67d56d0e6417?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T03:27:03.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは、ふくちと申します。\nAWS re:Invent 2025にて、AWSが公開しているLLMアプリ開発フレームワーク「Strands Agents SDK」のTypeScript版対応開始が発表されました。\n\nこれまではPython版しか無かったのですが、ここに..."
   },
   {
     "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
@@ -182,11 +182,25 @@
     "contentSnippet": "はじめに\n今回は、「新しい相関係数」と銘打ったインパクトのある論文を紹介します。\nこの論文で定義を見ただけだとイマイチぴんと来ないかもしれないので、図を使ってわかりやすく説明します。\n紹介する論文はこちら：\nChatterjee, Sourav. \"A new coeff..."
   },
   {
+    "title": "“距離感を間違えない”コミュニケーション",
+    "link": "https://qiita.com/KURIeIGHT/items/5e8a857ff54ac1cb9ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T03:12:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "初めに\nコミュニケーション能力が大事だよねって話を、自分の言葉で改めてアウトプットしようと思います。\n今日は、私が日々の会話で意識しているポイントをまとめます。\n新人エンジニアや「コミュニケーションが苦手」な人に届けばうれしいです！\n\nコミュニケーションの“距離感”ってど..."
+  },
+  {
     "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",
     "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T01:53:47.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n私の元職場の上司は、IEEEのことを「イェ～～」と呼んでいた。\nパリピかよ。\n会議中に「その規格はイェ～～が決めていて……」と仰るものだから、こっちは笑いが止まらないのである。正解はご存知「アイトリプルイー」である。\nだが、よく考えたらIT業界には初見では読めな..."
+  },
+  {
+    "title": "Claude CodeのコンテキストにUX心理学を与えたら、UI/UXはどう変わるのか",
+    "link": "https://qiita.com/nori0724/items/5c1aa2a5d5327bb68b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:05:52.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事はHTアドベントカレンダー5日目の記事です。\n\nはじめに\n博報堂テクノロジーズでデータサイエンティストをしている髙橋です。データとテクノロジーを駆使してメディア・コンテンツを革新していくデータサイエンティスト集団であるAaaS Tech Lab に所属しています。\n..."
   },
   {
     "title": "客先本番環境のNASデータをすべてrmした事件",
@@ -208,20 +222,6 @@
     "pubDate": "2025-12-04T15:09:51.000Z",
     "source": "Publickey",
     "contentSnippet": "先日、久しぶりに整体に行ったところ、整体師さんから普段のストレッチのためにストレッチポールを勧められました。 ストレッチポールというのは長さ90cm、直径10cmくらいの柔らかい円柱です。これを床の上に置いて、その上に背骨を沿わせるように仰向けに寝てゴロゴロさせると、背中の筋肉がほぐれたり、ふだん縮こまっている胸の筋肉を伸ばせる効果があります。 本物のストレッチポールは1万円近くするのですが、近所"
-  },
-  {
-    "title": "MCPサーバーになってみた",
-    "link": "https://qiita.com/jugyo/items/12633900df47cecbf5c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-04T06:35:46.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nMCP（Model Context Protocol）は、AIエージェントが外部ツールと連携するためのプロトコルです。通常、MCPサーバーはデータベースへのアクセスやファイル操作など、プログラムが自動で処理を行います。\n今日は私がMCPサーバーになってみました。..."
-  },
-  {
-    "title": "【3.14対応】Pythonをいろんな意味で高速化する個人的TIPS30選",
-    "link": "https://qiita.com/nukipei/items/cb095dcc167a7673294c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T22:26:48.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは。\n私は某SIerに入社し5年目となりますが、これまでざっくりと以下のような業務に取り組んでまいりました。\n\n数理最適化エンジンの開発、システム導入\n量子コンピュータ周辺技術のR&D\nAIエージェント/生成AIシステムの開発・導入\n\nまた、プライベート..."
   },
   {
     "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",

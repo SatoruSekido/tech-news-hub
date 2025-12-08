@@ -1,73 +1,80 @@
 [
   {
-    "title": "Day 06: Understanding a Clean Terraform Project Structure",
-    "link": "https://dev.to/sreya_sharma_711168ec58fc/day-06-understanding-a-clean-terraform-project-structure-3hcn",
-    "pubDate": "Mon, 08 Dec 2025 12:49:06 +0000",
+    "title": "Sentence, Word & Subword Tokenisation Explained",
+    "link": "https://dev.to/chinmaynataraj/sentence-word-subword-tokenisation-explained-3nmo",
+    "pubDate": "Mon, 08 Dec 2025 18:35:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "On Day 06 of my Terraform learning journey, I focused on something that is easy to ignore early on but becomes extremely important as projects grow: project structure.\nWriting Terraform code is not ju"
+    "contentSnippet": "What is Tokenisation? (How Machines Break Text into Pieces)\nBefore any machine learning model can understand text, it must first break the text into smaller units.\nIn simple words:\nTokenisation = Conv"
   },
   {
-    "title": "Can CVE-2025-55182 (React Server Components Vulnerability) Create Files Like .sh, .gz, or XMRig Miners in Server Root?",
-    "link": "https://dev.to/talha_malik_89b5ad30df33d/can-cve-2025-55182-react-server-components-vulnerability-create-files-like-sh-gz-or-xmrig-5a99",
-    "pubDate": "Mon, 08 Dec 2025 12:47:55 +0000",
+    "title": "How simultaneously swapping unique IDs in Postgres",
+    "link": "https://dev.to/hashcode01/how-simultaneously-swapping-unique-ids-in-postgres-1ki5",
+    "pubDate": "Mon, 08 Dec 2025 18:29:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I am running a Next.js project (using React Server Components) with Magento 2 as backend.\n.sh shell scripts\n.gz or .tar.gz archives\nan XMRig miner binary\nauto-restart scripts\nWhile investigating, I ca"
+    "contentSnippet": "Hi friends\nHere's a quick tip for when you're working with Postgres, this came in clutch for me when I had to use DEFERRABLE INITIALLY IMMEDIATE\nI'm sharing this with a practical example where two row"
   },
   {
-    "title": "Reatom: State Management That Grows With You",
-    "link": "https://dev.to/artalar/reatom-state-management-that-grows-with-you-1i4",
-    "pubDate": "Mon, 08 Dec 2025 12:47:38 +0000",
+    "title": "AWS re:Invent 2025 - Lambda Managed Instances: EC2 Power with Serverless Simplicity (CNS382)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-lambda-managed-instances-ec2-power-with-serverless-simplicity-cns382-3jnm",
+    "pubDate": "Mon, 08 Dec 2025 18:21:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Fragmentation Problem\n\n\nModern frontend development has a familiar pattern:\nStart with simple useState hooks\nNeed shared state? Add Context\nContext re-renders too much? Add a state manager\nState m"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Lambda Managed Instances: EC2 Power with Serverless Simplicity (CNS382)\nIn this video, Stephen Liedig and Archana Srikanta introd"
   },
   {
-    "title": "How to Use Google Shopping Ads to Maximize Revenue",
-    "link": "https://dev.to/dbhatasana/how-to-use-google-shopping-ads-to-maximize-revenue-4gkm",
-    "pubDate": "Mon, 08 Dec 2025 12:47:07 +0000",
+    "title": "AWS re:Invent 2025 - Amazon Leo: Building a Low Earth Orbit Satellite Network on AWS (AMZ302)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-amazon-leo-building-a-low-earth-orbit-satellite-network-on-aws-amz302-46nb",
+    "pubDate": "Mon, 08 Dec 2025 18:21:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Google Shopping Ads have become one of the most powerful profit-driving channels for ecommerce businesses. With online shopping continuously growing and customer expectations shifting toward convenien"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Amazon Leo: Building a Low Earth Orbit Satellite Network on AWS (AMZ302)\nIn this video, Gary and Andy explain how Amazon Leo (Pro"
   },
   {
-    "title": "Understanding the S&P/ASX 200 Financials (XFJ): A Deep Dive into Australia’s Financial Powerhouse Sector",
-    "link": "https://dev.to/asxstocknews/understanding-the-spasx-200-financials-xfj-a-deep-dive-into-australias-financial-powerhouse-10p5",
-    "pubDate": "Mon, 08 Dec 2025 12:47:06 +0000",
+    "title": "Developer Meetup Badges Made Simple with BadgeFlow",
+    "link": "https://dev.to/badgeflow/developer-meetup-badges-made-simple-with-badgeflow-1ci5",
+    "pubDate": "Mon, 08 Dec 2025 18:20:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Australian share market is built on a strong foundation of diversified sectors, but none carries the strategic weight of the S&P/ASX 200 Financials (XFJ) index. As a major component of the benchma"
+    "contentSnippet": "💬 Why Badges Still Matter at Developer Events\n\n\nEven in a world of online communities, developer meetups, hackathons, and conferences are still where some of the best connections happen. You meet the"
   },
   {
-    "title": "Creating a Universal Hybrid Resource (Clearnet + Darknet). ||V2.0||",
-    "link": "https://dev.to/lag_lagendary/creating-a-universal-hybrid-resource-clearnet-darknet-4eh1",
-    "pubDate": "Mon, 08 Dec 2025 12:45:53 +0000",
+    "title": "Transform Conversations into Cash Flow with Monetzly's SDK Integration",
+    "link": "https://dev.to/monetzly/transform-conversations-into-cash-flow-with-monetzlys-sdk-integration-2f1p",
+    "pubDate": "Mon, 08 Dec 2025 18:20:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This architecture allows a single website to operate in two modes simultaneously:\nHiddenServiceDir /var/lib/tor/hidden_service/\nlisten 127.0.0.1:8080;\naccess_log off;\nroot /var/www/html;\nadd_header X-"
+    "contentSnippet": "Why 90% of AI Apps Fail to Monetize Effectively—and How You Can Be Different with Monetzly\n\n\nAs a developer in the rapidly evolving AI landscape, you've probably noticed a troubling statistic: 90% of "
   },
   {
-    "title": "How Agentic AI Is Transforming Intelligent Automation Across Industries",
-    "link": "https://dev.to/harshada_75eaf5c6bf7a194a/how-agentic-ai-is-transforming-intelligent-automation-across-industries-4bh",
-    "pubDate": "Mon, 08 Dec 2025 12:39:53 +0000",
+    "title": "🧠 How Machines Learn from Order: A Simple Guide to Sequential Models",
+    "link": "https://dev.to/chinmaynataraj/how-machines-learn-from-order-a-simple-guide-to-sequential-models-45c4",
+    "pubDate": "Mon, 08 Dec 2025 18:15:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As automation becomes essential in modern businesses, more organizations are turning to Agentic AI to streamline operations and enhance decision-making. Unlike traditional AI systems that follow prese"
+    "contentSnippet": "🧠 A Simple Guide to Sequential Models— A Beginner-Friendly Introduction to How Machines Learn from Order\n\n\nWhen we humans read a sentence, listen to music, or observe the weather, order matters.\nIn t"
   },
   {
-    "title": "Without DNS, The Internet Won't Exist",
-    "link": "https://dev.to/scofieldidehen/without-dns-the-internet-wont-exist-500h",
-    "pubDate": "Mon, 08 Dec 2025 12:38:04 +0000",
+    "title": "Z Image",
+    "link": "https://dev.to/leo_king_25a8aa998a261145/z-image-3jdd",
+    "pubDate": "Mon, 08 Dec 2025 18:12:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you are hearing this for the first time, this is the Internet’s Most Important System.\nThe Domain Name System is one of the most invisible technologies in the world, yet it powers almost every inte"
+    "contentSnippet": "About Z-Image https://z-image.net\n\n\nZ-Image is an efficient AI image generation platform developed by Alibaba's Tongyi-MAI team. Built on a 6-billion parameter foundation model, Z-Image combines cutti"
   },
   {
-    "title": "Securities vs. Commodities: Why Crypto Classification Matters More Than You Think",
-    "link": "https://dev.to/umang_suthar_9bad6f345a8a/securities-vs-commodities-why-crypto-classification-matters-more-than-you-think-4624",
-    "pubDate": "Mon, 08 Dec 2025 12:37:56 +0000",
+    "title": "AWS re:Invent 2025 - Architecture lessons: Three failures and how to prevent them (DEV341)",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-architecture-lessons-three-failures-and-how-to-prevent-them-dev341-389b",
+    "pubDate": "Mon, 08 Dec 2025 18:11:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you work with crypto, whether you're writing smart contracts, experimenting with token mechanics, or just following the ecosystem, there's one question that keeps resurfacing:\nIs a token a security"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Architecture lessons: Three failures and how to prevent them (DEV341)\nIn this video, Bruno Marangoni, a Latam Senior Solutions Ar"
   },
   {
-    "title": "The Story of Docker And a Newbie",
-    "link": "https://dev.to/vipulydv/the-story-of-docker-and-a-newbie-4m95",
-    "pubDate": "Mon, 08 Dec 2025 12:37:08 +0000",
+    "title": "AWS re:Invent 2025 - Monetizing agentic AI solutions: A Partner's guide for AI agents & tools-PEX112",
+    "link": "https://dev.to/kazuya_dev/aws-reinvent-2025-monetizing-agentic-ai-solutions-a-partners-guide-for-ai-agents-tools-pex112-5g7d",
+    "pubDate": "Mon, 08 Dec 2025 18:11:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Starting the Journey with Docker as a ML developer, Fed up of using Streamlit now... Takes a whole day to load a ml model that too need to be uploaded in huggingface website. But now, Enough of this a"
+    "contentSnippet": "🦄 Making great presentations more accessible.\n📖 AWS re:Invent 2025 - Monetizing agentic AI solutions: A Partner's guide for AI agents & tools-PEX112\nIn this video, Seenu Brahmarouthu and Leno Piperi"
+  },
+  {
+    "title": "Supabaseのバックエンドサービスを自社ブランドのBaaSとして提供できる「Supabase for Platforms」リリース。AIによる開発ツールを提供するベンダなどに向け",
+    "link": "https://www.publickey1.jp/blog/25/supabasebaassupabase_for_platformsai.html",
+    "pubDate": "2025-12-08T15:07:54.000Z",
+    "source": "Publickey",
+    "contentSnippet": "PostgreSQLをベースにしたBaaS（Backend as a Service）の「Supabase」を開発し提供しているSupabase社は、企業などがSupabaseのバックエンドサービスをそのままその企業ブランドのBaaSとしてユーザーに提供可能にする新サービス「Supabase for Platforms」のリリースを発表しました。 Today, we're launching Su"
   },
   {
     "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
@@ -77,11 +84,25 @@
     "contentSnippet": "SapeetでSWEをやっている渡辺です。\n最近は社内メンバーとARC Raidersにハマっています。\n自分も自作ARC（機械生命体）を作ってみたいと思い、Artificial Life（人工生命）に興味を持ちました（）。\n\nなぜ今 ALIFEなのか\nALIFE（Arti..."
   },
   {
+    "title": "実践フルAIコーディング",
+    "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
+    "pubDate": "Mon, 08 Dec 2025 02:11:42 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は 実践で フル AI コーディングするための考え方とノウハウを凝縮したものです。筆者が持ってるノウハウはほぼ全て書いたつもりです。\nAlgomatic アドベントカレンダー 12/8 です。\nhttps://note.com/algomatic_oa/m/mf9dd319ea130\nこの記事は、必要となる前提知識・考え方と、実践ノウハウと、AI デトックスについての三段構成になっています"
+  },
+  {
     "title": "AWS認定クラウドプラクティショナー　コツとコツコツと",
     "link": "https://qiita.com/hidesuke4129/items/1fe863acf94658519fd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-07T22:03:47.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n会社でAWS認定資格の取得を奨励しているとのことで、AWSが提供する認定資格制度の中で最も基礎的なレベルに位置付けられる、AWS認定クラウドプラクティショナーを受験し合格することができました。\n本資格の有効期限は３年間ということもあり、私が今回の学習と受験の体験..."
+  },
+  {
+    "title": "検証用お手軽ActiveDirectory環境をぽちぽちつくろう",
+    "link": "https://zenn.dev/ochandayo/articles/8f6ce02ccce94b",
+    "pubDate": "Sun, 07 Dec 2025 15:45:18 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こちらはYuruvent Advent Calendar 2025 7日目の記事です☃️\n\n はじめに\n用意されたものを触るのもいいですが、自分で用意することで新しい気付きがあったりします。\nまた、PowerShellやAnsibleを使えば楽ではありますがGUIでぽちぽちすることで「なんだこの項目」みたいな寄り道が発生したりして楽しかったりします。\nということで、Lets’ ぽちぽち！\n\n 想定"
   },
   {
     "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",
@@ -103,6 +124,13 @@
     "pubDate": "Sun, 07 Dec 2025 15:00:03 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nこの記事は Nostr Advent Calendar 2025 の8日目の記事です。\nこんにちは。皆さん Nostr はご存じでしょうか。分散型ソーシャルネットワーキングサービスの1つで、中央集権的なサーバを持たず、ユーザが自由にサーバを立てて参加できる仕組みになっています。\n簡単に説明した物を以下のリンクに書いてありますので、興味がある方はご覧ください。\nhttps://zenn.d"
+  },
+  {
+    "title": "世界で一番詳しい！ ElastiCache Serverless for Valkey を約1年実際に運用してわかったポイント",
+    "link": "https://zenn.dev/applibot_tech/articles/c8216b0bd61b2d",
+    "pubDate": "Sun, 07 Dec 2025 14:57:30 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nSREチームの中島です。現在は、株式会社アプリボットにて各種サービスの構築運用を行っています。\n本記事は、 CyberAgent Group SRE Advent Calendar 2025 / Applibot Advent Calendar 2025 7日目の記事になります。\n今回は、ElastiCache Serverless for Valkey を約1年ほど検証・運用してきた経"
   },
   {
     "title": "ターミナルでメモ管理 (Neovim, nb, zeno.zsh)",
@@ -147,6 +175,13 @@
     "contentSnippet": "はじめに\n「isEditing、isThread、showFooter、hideActions...」\nプロダクトが成長するにつれ、コンポーネントのPropsは肥大化します。気づけば15個以上のBoolean Propsが並び、内部は条件分岐の嵐——典型的なアンチパターンです。\nこの問題に対して、Fernando Rojo氏がReact Universe Conf 2025で発表した「Compos"
   },
   {
+    "title": "GitHub Copilot はサポートエンジニアこそが使い倒すべき！",
+    "link": "https://zenn.dev/microsoft/articles/12aa44e8a42fd7",
+    "pubDate": "Sun, 07 Dec 2025 10:14:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Azure IaaS サポートエンジニアから Azure 製品営業にロールチェンジしたTomoyaです。\n（IaaS には、Azure VM（OS含む）、Azure Storage 管理、Azure ハードウェア基盤などが含まれます）\n私個人が思っていることを綴った記事です。\n\n はじめに（結論）\nまず、結論から申し上げると、私は世の中のコードから生まれる全ての製品のサポート、職種名でいうとテクニ"
+  },
+  {
     "title": "息子さんのOSSの為に死亡証明書を下さい",
     "link": "https://zenn.dev/livetoon/articles/oss_death_or_alive",
     "pubDate": "Sun, 07 Dec 2025 07:52:27 GMT",
@@ -173,34 +208,6 @@
     "pubDate": "2025-12-06T15:54:14.000Z",
     "source": "Qiita",
     "contentSnippet": "本番環境でデータ量が増えた瞬間、アプリケーションが突然重くなる\nすべてのエンジニアが一度は直面するこの悪夢。その原因の多くは “気づかぬうちにDBを苦しめているSQL” です。\nこの記事では、実務で特に被害が大きかった 5つの致命的なSQLアンチパターン と、追加で バッ..."
-  },
-  {
-    "title": "結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)",
-    "link": "https://zenn.dev/calloc134/articles/poc-report-for-personal",
-    "pubDate": "Sat, 06 Dec 2025 12:31:34 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n当記事は、react2shell の PoC 攻撃手法についての調査です。\n\n 注意事項\n当記事の内容は、あくまで PoC 攻撃手法の研究目的です。\nまた、当記事の内容には間違い・認識違いが含まれる可能性があります。\n本番環境での動的な解析を実施しておらず、コードリーディングを中心とした調査であるためです。\nまた、コードによる裏取りは行っているものの、\n生成 AI によるハルシネーション"
-  },
-  {
-    "title": "8GBメモリでローカルLLMを動かす",
-    "link": "https://zenn.dev/kokoa0429/articles/e515ff57d56cc0",
-    "pubDate": "Sat, 06 Dec 2025 12:17:49 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は「Anthrotech Advent Calendar 2025」の6日目です。\n前回の記事は、 なかいあんこうさんの oraja時代のBMS新圧縮常識！？ です。\n\n 8GBメモリでローカルLLMを動かす\n\n はじめに\n「ローカルでLLMを動かしたい」——そう思って調べると、「RTX 4090が必要」「VRAM 24GB推奨」みたいな記事ばかり出てきて心が折れそうになりますよね。でも実"
-  },
-  {
-    "title": "CIでやりたい最低限のNodeセキュリティ対策",
-    "link": "https://zenn.dev/nislab/articles/typescript-security",
-    "pubDate": "Sat, 06 Dec 2025 09:06:57 GMT",
-    "source": "Zenn",
-    "contentSnippet": "私たちの研究室(NISLab)\nhttps://nisk.doshisha.ac.jp/\n\n アドベントカレンダー 5 日目~\nhttps://nislab-advendcallender-2025.vercel.app/\n\n 背景\nNode.js プロジェクト（React / Next.js / NestJS など）は、依存パッケージが多く更新も頻繁なため、脆弱性が混入しやすいという弱点がありま"
-  },
-  {
-    "title": "CodexについにSkillsが来たので徹底解説",
-    "link": "https://zenn.dev/aki_think/articles/978556f1652aa6",
-    "pubDate": "Sat, 06 Dec 2025 08:55:49 GMT",
-    "source": "Zenn",
-    "contentSnippet": "CodexについにSkillsが来たので徹底解説\n先日のアップデートでようやくCodexにも待望のSkillsが実装された。この機能を待ち望んでいた方も多いのではないだろうか。今回はこのSkillsをまだ活用していない方に向けて仕組みと利用例を徹底解説している。ぜひ参考にしていただけたら嬉しい。\nちなみにSkillsはCodex特有の仕組みではなく、もともとClaude Codeで実装されていた概"
   },
   {
     "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
@@ -271,12 +278,5 @@
     "pubDate": "2025-12-03T15:58:42.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
-  },
-  {
-    "title": "［速報］AWS、AIがフィードバックから学びつつ自律的に開発を行う「Kiro autonomous agent」発表",
-    "link": "https://www.publickey1.jp/blog/25/awsaikiro_autonomous_agent.html",
-    "pubDate": "2025-12-02T18:53:19.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、まるでチームメンバーのように自律的に開発を行うAIエージェント「Kiro autonomous agent」を発表しました。 Kiroは仕様駆動開発を特長とするAIコードエディタとして今年（2025年）7月にAWSからリリースされました。Kiro auton"
   }
 ]

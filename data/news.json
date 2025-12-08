@@ -1,73 +1,73 @@
 [
   {
-    "title": "The Evolution of Reactivity: How UI Updates Learned to Take Care of Themselves",
-    "link": "https://dev.to/luciano0322/the-evolution-of-reactivity-how-ui-updates-learned-to-take-care-of-themselves-3ehm",
-    "pubDate": "Mon, 08 Dec 2025 01:54:47 +0000",
+    "title": "Refactoring a Mature Airflow Project: A Practical Guide to Scaling from Solo Development to Team Collaboration",
+    "link": "https://dev.to/ajitkumar/refactoring-a-mature-airflow-project-a-practical-guide-to-scaling-from-solo-development-to-team-i4p",
+    "pubDate": "Mon, 08 Dec 2025 06:40:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Brief History\n\n\nBack in 2010, Knockout.js introduced the ideas of Observable and Computed to the frontend world.\nFrom that moment on, the core debate behind every major framework became:\nShould the "
+    "contentSnippet": "Running Apache Airflow for a year with ~10 DAGs is enough time to learn what hurts: inconsistent folder structures, copy-pasted business logic, “mystery DAGs” no one remembers writing, and configurati"
   },
   {
-    "title": "GitHub Actions: Automatizando seus Fluxos de Trabalho",
-    "link": "https://dev.to/ikauedev/github-actions-automatizando-seus-fluxos-de-trabalho-3eoe",
-    "pubDate": "Mon, 08 Dec 2025 01:49:37 +0000",
+    "title": "Perl 🐪 Weekly #750 - Perl Advent Calendar 2025",
+    "link": "https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga",
+    "pubDate": "Mon, 08 Dec 2025 06:26:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "O GitHub Actions revolucionou a forma como desenvolvedores implementam integração contínua e entrega contínua (CI/CD) em seus projetos. Lançado em 2019, esse sistema de automação nativo do GitHub perm"
+    "contentSnippet": "Originally published at Perl Weekly 750\nHi there,\nOne of the most enjoyable yearly customs in the community, the Perl Advent Calendar 2025, is being introduced this week. A new article, tutorial, or i"
   },
   {
-    "title": "The Brittleness Problem in Infrastructure Automation",
-    "link": "https://dev.to/smiller/the-brittleness-problem-in-infrastructure-automation-47ma",
-    "pubDate": "Mon, 08 Dec 2025 01:48:21 +0000",
+    "title": "Bounds vs. Frame and can frame be less than bounds?",
+    "link": "https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0",
+    "pubDate": "Mon, 08 Dec 2025 06:20:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why today’s automation keeps breaking—and how resource-oriented shells change everything\nInfrastructure automation was supposed to make our systems reliable, predictable, and self-healing.\nInstead, fo"
+    "contentSnippet": "Hello everyone, this is a continuation of the longread series on interview questions for iOS developer positions. Today, we'll discuss one of the frequently asked questions — and that is: can bounds b"
   },
   {
-    "title": "QLCM - Quantum Language and Consciousness Model",
-    "link": "https://dev.to/osmarylisbeth/qlcm-quantum-language-and-consciousness-model-45f9",
-    "pubDate": "Mon, 08 Dec 2025 01:43:42 +0000",
+    "title": "Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer",
+    "link": "https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop",
+    "pubDate": "Mon, 08 Dec 2025 06:18:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Theoretical Foundations and Experimental Implementation of QLCM\nOsmary Lisbeth Navarro Tovar\nIndependent Researcher, Quantum Communication and Consciousness Laboratory\nNovember 9, 2025\nMIT\n\n\n\n\n\n\n\n\n\nCo"
+    "contentSnippet": "We’ve reached a point in AI where the word agent is being applied to almost anything. Every product claims to be an agent: support bots, prompt templates, even plain chat UIs.\nBut developers responsib"
   },
   {
-    "title": "A beginner's guide to the Ideogram-V3-Turbo model by Ideogram-Ai on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ideogram-v3-turbo-model-by-ideogram-ai-on-replicate-j6c",
-    "pubDate": "Mon, 08 Dec 2025 01:42:43 +0000",
+    "title": "Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon",
+    "link": "https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon",
+    "pubDate": "Mon, 08 Dec 2025 06:17:59 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Ideogram-V3-Turbo maintained by Ideogram-Ai. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nideogram-v3-tur"
+    "contentSnippet": "Choosing where to get a tattoo is more than just picking a studio—it's choosing who you trust with something permanent, personal, and often deeply meaningful. If you’re in South London and searching f"
   },
   {
-    "title": "A beginner's guide to the Qwen-Image-Edit-Plus model by Qwen on Replicate",
-    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-edit-plus-model-by-qwen-on-replicate-56o2",
-    "pubDate": "Mon, 08 Dec 2025 01:42:08 +0000",
+    "title": "How to Build a Real-Time Video Calling App in Flutter Using ZEGOCLOUD (No WebRTC Needed)",
+    "link": "https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-video-calling-app-in-flutter-using-zegocloud-no-webrtc-needed-ml8",
+    "pubDate": "Mon, 08 Dec 2025 06:17:01 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This is a simplified guide to an AI model called Qwen-Image-Edit-Plus maintained by Qwen. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nThe qwen-image-edit"
+    "contentSnippet": "🔰 How to Build a Video Calling App in Flutter Using ZEGOCLOUD — Step by Step\n\n\n\n  \n  \n  📌 Introduction\n\n\nVideo calling has become an essential part of modern applications—whether for online educatio"
   },
   {
-    "title": "2025-12-07 Daily Ai News",
-    "link": "https://dev.to/dan_ledger_ce2886f0037972/2025-12-07-daily-ai-news-41j5",
-    "pubDate": "Mon, 08 Dec 2025 01:41:07 +0000",
+    "title": "The Art of Vibe Coding With Actual Discipline",
+    "link": "https://dev.to/raghavyuva/the-art-of-vibe-coding-with-actual-discipline-lo",
+    "pubDate": "Mon, 08 Dec 2025 06:14:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The AI landscape on December 6, 2025, pulsed with fierce competition and groundbreaking research, as OpenAI reportedly rushed GPT-5.2 to counter Google's Gemini 3, emphasizing superior reasoning, spee"
+    "contentSnippet": "Why speed feels great but structure keeps you sane\n\n\nEvery day I see developers firing off prompts to tools like Cursor, Claude Code, and every other AI Powered editor out there. The speed is addictiv"
   },
   {
-    "title": "How LSOLINK Tests Optical Transceivers to Ensure Quality and Compatibility?",
-    "link": "https://dev.to/lsolink/how-lsolink-tests-optical-transceivers-to-ensure-quality-and-compatibility-3pmf",
-    "pubDate": "Mon, 08 Dec 2025 01:36:12 +0000",
+    "title": "Scatter Plots: The \"By Hand\" Method vs. The 30-Second Shortcut",
+    "link": "https://dev.to/sujit_mali/python-scatter-plots-the-by-hand-method-vs-the-30-second-shortcut-21bk",
+    "pubDate": "Mon, 08 Dec 2025 06:14:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The development of optical communication technology has promoted optical modules to become the core components of data centers and modern communication networks. Their performance and compatibility ha"
+    "contentSnippet": "If you work with data in Python, matplotlib is basically muscle memory at this point. It is the grandfather of Python visualization libraries - powerful, flexible, and capable of doing almost anything"
   },
   {
-    "title": "Basic Concepts of C# Numeric Types — From Integers to SIMD, for LLM-Ready Thinking",
-    "link": "https://dev.to/cristiansifuentes/basic-concepts-of-c-numeric-types-from-integers-to-simd-for-llm-ready-thinking-1a63",
-    "pubDate": "Mon, 08 Dec 2025 01:34:19 +0000",
+    "title": "Recommendations for free online AI mindmap tools",
+    "link": "https://dev.to/processon/recommendations-for-free-online-ai-mindmap-tools-582h",
+    "pubDate": "Mon, 08 Dec 2025 06:13:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most C# developers use numeric types every day:\nint, long, float, double, decimal\n\nBut when you start asking deeper, precision- and performance-focused questions, things get interesting:\nWhat actually"
+    "contentSnippet": "Mindmap is a tool for transforming complex information into a visual structure, significantly improving creativity, memory, and work efficiency. Whether for brainstorming, note-taking, or project mana"
   },
   {
-    "title": "OSD Final week: My last set of contributions in the course",
-    "link": "https://dev.to/david_rivera_8d845b35931e/osd-final-week-my-last-set-of-contributions-in-the-course-8ac",
-    "pubDate": "Mon, 08 Dec 2025 01:28:07 +0000",
+    "title": "Agentic AI vs Traditional AI Development: What Businesses Need to Know",
+    "link": "https://dev.to/shivani_chavan_61cafdf0b0/agentic-ai-vs-traditional-ai-development-what-businesses-need-to-know-cej",
+    "pubDate": "Mon, 08 Dec 2025 06:13:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "It's almost the end of the semester; for the last release 0.4 of the OSD course at Seneca, we're tasked to deliver meaningful work in the shape of contributions to projects. Luckily, I know what to do"
+    "contentSnippet": "As AI adoption grows worldwide, companies are increasingly comparing agentic AI vs traditional AI development to understand which approach best fits their needs. While traditional AI has powered autom"
   },
   {
     "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",

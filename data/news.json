@@ -1,73 +1,87 @@
 [
   {
-    "title": "Refactoring a Mature Airflow Project: A Practical Guide to Scaling from Solo Development to Team Collaboration",
-    "link": "https://dev.to/ajitkumar/refactoring-a-mature-airflow-project-a-practical-guide-to-scaling-from-solo-development-to-team-i4p",
-    "pubDate": "Mon, 08 Dec 2025 06:40:00 +0000",
+    "title": "Day 06: Understanding a Clean Terraform Project Structure",
+    "link": "https://dev.to/sreya_sharma_711168ec58fc/day-06-understanding-a-clean-terraform-project-structure-3hcn",
+    "pubDate": "Mon, 08 Dec 2025 12:49:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Running Apache Airflow for a year with ~10 DAGs is enough time to learn what hurts: inconsistent folder structures, copy-pasted business logic, “mystery DAGs” no one remembers writing, and configurati"
+    "contentSnippet": "On Day 06 of my Terraform learning journey, I focused on something that is easy to ignore early on but becomes extremely important as projects grow: project structure.\nWriting Terraform code is not ju"
   },
   {
-    "title": "Perl 🐪 Weekly #750 - Perl Advent Calendar 2025",
-    "link": "https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga",
-    "pubDate": "Mon, 08 Dec 2025 06:26:48 +0000",
+    "title": "Can CVE-2025-55182 (React Server Components Vulnerability) Create Files Like .sh, .gz, or XMRig Miners in Server Root?",
+    "link": "https://dev.to/talha_malik_89b5ad30df33d/can-cve-2025-55182-react-server-components-vulnerability-create-files-like-sh-gz-or-xmrig-5a99",
+    "pubDate": "Mon, 08 Dec 2025 12:47:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Originally published at Perl Weekly 750\nHi there,\nOne of the most enjoyable yearly customs in the community, the Perl Advent Calendar 2025, is being introduced this week. A new article, tutorial, or i"
+    "contentSnippet": "I am running a Next.js project (using React Server Components) with Magento 2 as backend.\n.sh shell scripts\n.gz or .tar.gz archives\nan XMRig miner binary\nauto-restart scripts\nWhile investigating, I ca"
   },
   {
-    "title": "Bounds vs. Frame and can frame be less than bounds?",
-    "link": "https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0",
-    "pubDate": "Mon, 08 Dec 2025 06:20:12 +0000",
+    "title": "Reatom: State Management That Grows With You",
+    "link": "https://dev.to/artalar/reatom-state-management-that-grows-with-you-1i4",
+    "pubDate": "Mon, 08 Dec 2025 12:47:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello everyone, this is a continuation of the longread series on interview questions for iOS developer positions. Today, we'll discuss one of the frequently asked questions — and that is: can bounds b"
+    "contentSnippet": "The Fragmentation Problem\n\n\nModern frontend development has a familiar pattern:\nStart with simple useState hooks\nNeed shared state? Add Context\nContext re-renders too much? Add a state manager\nState m"
   },
   {
-    "title": "Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer",
-    "link": "https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop",
-    "pubDate": "Mon, 08 Dec 2025 06:18:03 +0000",
+    "title": "How to Use Google Shopping Ads to Maximize Revenue",
+    "link": "https://dev.to/dbhatasana/how-to-use-google-shopping-ads-to-maximize-revenue-4gkm",
+    "pubDate": "Mon, 08 Dec 2025 12:47:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "We’ve reached a point in AI where the word agent is being applied to almost anything. Every product claims to be an agent: support bots, prompt templates, even plain chat UIs.\nBut developers responsib"
+    "contentSnippet": "Google Shopping Ads have become one of the most powerful profit-driving channels for ecommerce businesses. With online shopping continuously growing and customer expectations shifting toward convenien"
   },
   {
-    "title": "Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon",
-    "link": "https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon",
-    "pubDate": "Mon, 08 Dec 2025 06:17:59 +0000",
+    "title": "Understanding the S&P/ASX 200 Financials (XFJ): A Deep Dive into Australia’s Financial Powerhouse Sector",
+    "link": "https://dev.to/asxstocknews/understanding-the-spasx-200-financials-xfj-a-deep-dive-into-australias-financial-powerhouse-10p5",
+    "pubDate": "Mon, 08 Dec 2025 12:47:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Choosing where to get a tattoo is more than just picking a studio—it's choosing who you trust with something permanent, personal, and often deeply meaningful. If you’re in South London and searching f"
+    "contentSnippet": "The Australian share market is built on a strong foundation of diversified sectors, but none carries the strategic weight of the S&P/ASX 200 Financials (XFJ) index. As a major component of the benchma"
   },
   {
-    "title": "How to Build a Real-Time Video Calling App in Flutter Using ZEGOCLOUD (No WebRTC Needed)",
-    "link": "https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-video-calling-app-in-flutter-using-zegocloud-no-webrtc-needed-ml8",
-    "pubDate": "Mon, 08 Dec 2025 06:17:01 +0000",
+    "title": "Creating a Universal Hybrid Resource (Clearnet + Darknet). ||V2.0||",
+    "link": "https://dev.to/lag_lagendary/creating-a-universal-hybrid-resource-clearnet-darknet-4eh1",
+    "pubDate": "Mon, 08 Dec 2025 12:45:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🔰 How to Build a Video Calling App in Flutter Using ZEGOCLOUD — Step by Step\n\n\n\n  \n  \n  📌 Introduction\n\n\nVideo calling has become an essential part of modern applications—whether for online educatio"
+    "contentSnippet": "This architecture allows a single website to operate in two modes simultaneously:\nHiddenServiceDir /var/lib/tor/hidden_service/\nlisten 127.0.0.1:8080;\naccess_log off;\nroot /var/www/html;\nadd_header X-"
   },
   {
-    "title": "The Art of Vibe Coding With Actual Discipline",
-    "link": "https://dev.to/raghavyuva/the-art-of-vibe-coding-with-actual-discipline-lo",
-    "pubDate": "Mon, 08 Dec 2025 06:14:49 +0000",
+    "title": "How Agentic AI Is Transforming Intelligent Automation Across Industries",
+    "link": "https://dev.to/harshada_75eaf5c6bf7a194a/how-agentic-ai-is-transforming-intelligent-automation-across-industries-4bh",
+    "pubDate": "Mon, 08 Dec 2025 12:39:53 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why speed feels great but structure keeps you sane\n\n\nEvery day I see developers firing off prompts to tools like Cursor, Claude Code, and every other AI Powered editor out there. The speed is addictiv"
+    "contentSnippet": "As automation becomes essential in modern businesses, more organizations are turning to Agentic AI to streamline operations and enhance decision-making. Unlike traditional AI systems that follow prese"
   },
   {
-    "title": "Scatter Plots: The \"By Hand\" Method vs. The 30-Second Shortcut",
-    "link": "https://dev.to/sujit_mali/python-scatter-plots-the-by-hand-method-vs-the-30-second-shortcut-21bk",
-    "pubDate": "Mon, 08 Dec 2025 06:14:29 +0000",
+    "title": "Without DNS, The Internet Won't Exist",
+    "link": "https://dev.to/scofieldidehen/without-dns-the-internet-wont-exist-500h",
+    "pubDate": "Mon, 08 Dec 2025 12:38:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you work with data in Python, matplotlib is basically muscle memory at this point. It is the grandfather of Python visualization libraries - powerful, flexible, and capable of doing almost anything"
+    "contentSnippet": "If you are hearing this for the first time, this is the Internet’s Most Important System.\nThe Domain Name System is one of the most invisible technologies in the world, yet it powers almost every inte"
   },
   {
-    "title": "Recommendations for free online AI mindmap tools",
-    "link": "https://dev.to/processon/recommendations-for-free-online-ai-mindmap-tools-582h",
-    "pubDate": "Mon, 08 Dec 2025 06:13:28 +0000",
+    "title": "Securities vs. Commodities: Why Crypto Classification Matters More Than You Think",
+    "link": "https://dev.to/umang_suthar_9bad6f345a8a/securities-vs-commodities-why-crypto-classification-matters-more-than-you-think-4624",
+    "pubDate": "Mon, 08 Dec 2025 12:37:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Mindmap is a tool for transforming complex information into a visual structure, significantly improving creativity, memory, and work efficiency. Whether for brainstorming, note-taking, or project mana"
+    "contentSnippet": "If you work with crypto, whether you're writing smart contracts, experimenting with token mechanics, or just following the ecosystem, there's one question that keeps resurfacing:\nIs a token a security"
   },
   {
-    "title": "Agentic AI vs Traditional AI Development: What Businesses Need to Know",
-    "link": "https://dev.to/shivani_chavan_61cafdf0b0/agentic-ai-vs-traditional-ai-development-what-businesses-need-to-know-cej",
-    "pubDate": "Mon, 08 Dec 2025 06:13:21 +0000",
+    "title": "The Story of Docker And a Newbie",
+    "link": "https://dev.to/vipulydv/the-story-of-docker-and-a-newbie-4m95",
+    "pubDate": "Mon, 08 Dec 2025 12:37:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As AI adoption grows worldwide, companies are increasingly comparing agentic AI vs traditional AI development to understand which approach best fits their needs. While traditional AI has powered autom"
+    "contentSnippet": "Starting the Journey with Docker as a ML developer, Fed up of using Streamlit now... Takes a whole day to load a ml model that too need to be uploaded in huggingface website. But now, Enough of this a"
+  },
+  {
+    "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
+    "link": "https://qiita.com/watanabe_masaru/items/a37506c1acda0307d8aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T04:34:09.000Z",
+    "source": "Qiita",
+    "contentSnippet": "SapeetでSWEをやっている渡辺です。\n最近は社内メンバーとARC Raidersにハマっています。\n自分も自作ARC（機械生命体）を作ってみたいと思い、Artificial Life（人工生命）に興味を持ちました（）。\n\nなぜ今 ALIFEなのか\nALIFE（Arti..."
+  },
+  {
+    "title": "AWS認定クラウドプラクティショナー　コツとコツコツと",
+    "link": "https://qiita.com/hidesuke4129/items/1fe863acf94658519fd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-07T22:03:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n会社でAWS認定資格の取得を奨励しているとのことで、AWSが提供する認定資格制度の中で最も基礎的なレベルに位置付けられる、AWS認定クラウドプラクティショナーを受験し合格することができました。\n本資格の有効期限は３年間ということもあり、私が今回の学習と受験の体験..."
   },
   {
     "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",
@@ -84,6 +98,55 @@
     "contentSnippet": "JetBrainsは、AIエージェントをどのコードエディタでも使えるようにすることを目指す業界標準「ACP（Agent Client Protocol）」を、同社のコードエディタ製品群JetBrains IDEsでベータ版として実装したことを明らかにしました。 Integrating the agent you want into the IDE you love should be effort"
   },
   {
+    "title": "誰でも作れる Nostr リレーサーバの作り方",
+    "link": "https://zenn.dev/mattn/articles/a1a67af88394b4",
+    "pubDate": "Sun, 07 Dec 2025 15:00:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこの記事は Nostr Advent Calendar 2025 の8日目の記事です。\nこんにちは。皆さん Nostr はご存じでしょうか。分散型ソーシャルネットワーキングサービスの1つで、中央集権的なサーバを持たず、ユーザが自由にサーバを立てて参加できる仕組みになっています。\n簡単に説明した物を以下のリンクに書いてありますので、興味がある方はご覧ください。\nhttps://zenn.d"
+  },
+  {
+    "title": "ターミナルでメモ管理 (Neovim, nb, zeno.zsh)",
+    "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-info-management",
+    "pubDate": "Sun, 07 Dec 2025 14:26:37 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事はミライトデザイン Advent Calendar 2025の7日目です。\n6日目はFrozenVoiceさんの「2025年に導入して満足度が高かったアイテム紹介」という記事でした。\n\n\n なぜターミナルでメモを?\nターミナルでメモを取る最大のメリットは カスタマイズ性 と CLIコマンドでの操作 です。\n自分好みのキーバインド、検索機能、ワークフローを自由に構築できます。\nたとえば以"
+  },
+  {
+    "title": "Qiita APIを使ってアドベントカレンダーを盛り上げてみた　2025年Claude Codeを使って",
+    "link": "https://qiita.com/sapi_kawahara/items/b3c3e18068742d89893c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-07T14:00:08.000Z",
+    "source": "Qiita",
+    "contentSnippet": "手作業の時代は終わりかな？\nふと、そんなことを思いました。\n昨年、私はPythonを駆使して記事を執筆しました。当時は「どう書くか」を自分の頭で構築することに面白みを感じていました。\n\nしかし、この1年で状況は一変しました。2025年、もはやAIを無視して技術を語るこ..."
+  },
+  {
+    "title": "Claude Codeで開発するシステムエンジニアの日常",
+    "link": "https://qiita.com/toyafone/items/5577d13615d31d85245c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-07T13:31:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "今日も自宅のデスクにつき、PCを立ち上げる。\nそして予定とタスクを確認し、テキストエディターと Claude Code を立ち上げる。\n\nClaude Code で開発するシステムエンジニアの日常\n\n1. 最初のタスク\n朝一番に確認するタスクは、機能ごとやレビューしやすい単..."
+  },
+  {
+    "title": "mizchi/js.mbt で TS の代わりに Moonbit を書く",
+    "link": "https://zenn.dev/mizchi/articles/introduce-mizchi-js",
+    "pubDate": "Sun, 07 Dec 2025 13:07:41 GMT",
+    "source": "Zenn",
+    "contentSnippet": "https://qiita.com/advent-calendar/2025/moonbit の7日目です。\nhttps://github.com/mizchi/js.mbt というMoonbitのJSバインディング集を作っています。Moonbit がインストールされていれば、 moon add mizchi/js　で使えるようになります。\nmizchi/js のサポート範囲では JS のブリッジ"
+  },
+  {
+    "title": "エンジニア出身PMが一次請けで失敗しまくった話",
+    "link": "https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55",
+    "pubDate": "Sun, 07 Dec 2025 11:21:31 GMT",
+    "source": "Zenn",
+    "contentSnippet": "PM界隈 Advent Calendar 2025の12月7日分担当のぴよです。このアドカレ、PMがいっぱい集まってて楽しいのと、ZennやQiitaじゃなくてnoteに書いてる人が多くて新鮮。\n\n はじめに\n私は元エンジニアで、二次請け以降のSIer案件でPMを何プロジェクトか経験し、現在はシステム開発会社を経営しています。経営しながらインフラ整備したりPMしたりしています。今回、初めて非IT系"
+  },
+  {
+    "title": "Compound Componentsで実現する「引き算のUI設計」",
+    "link": "https://zenn.dev/tsuboi/articles/d922a3e8c5f53e",
+    "pubDate": "Sun, 07 Dec 2025 10:26:46 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\n「isEditing、isThread、showFooter、hideActions...」\nプロダクトが成長するにつれ、コンポーネントのPropsは肥大化します。気づけば15個以上のBoolean Propsが並び、内部は条件分岐の嵐——典型的なアンチパターンです。\nこの問題に対して、Fernando Rojo氏がReact Universe Conf 2025で発表した「Compos"
+  },
+  {
     "title": "息子さんのOSSの為に死亡証明書を下さい",
     "link": "https://zenn.dev/livetoon/articles/oss_death_or_alive",
     "pubDate": "Sun, 07 Dec 2025 07:52:27 GMT",
@@ -91,25 +154,25 @@
     "contentSnippet": "この記事はLivetoon Tech Advent Calendar 2025の7日目の記事です。\nhttps://adventar.org/calendars/12157\n\n はじめに\nこんにちは！\nAIキャラクターアプリkaiwaを開発している株式会社Livetoonの開発マネージャーの土川です。\nkaiwaの公式サイト\nhttps://kai0.onelink.me/Hogh/AdventC"
   },
   {
-    "title": "大LLM時代に論文を読む/まとめるならカスタムGPTで",
-    "link": "https://zenn.dev/zozotech/articles/17a56e85d43529",
-    "pubDate": "Sat, 06 Dec 2025 22:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこれは ZOZO Advent Calendar 2025 シリーズ6の7日目の記事です。今年はなんとシリーズ12まであるそうです。ぜひ他の記事もご覧ください！\n\n日々の業務で追われる中、最近では効率的かつ効果的に論文を読むためにLLMを活用しています。本記事では、これまでの経験で培ってきたノウハウとカスタムGPTをあわせた論文読みテクニックをご紹介します。\n\n プロローグ\nAdvent Ca"
+    "title": "【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた",
+    "link": "https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T22:04:28.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n生まれたばかりの赤ちゃんは、まだ言葉を知らない。\n代わりに泣くことで、世界と会話しようとする。\nでも、その\"言葉\"を聞き取るのが、想像以上に難しい。\n眠いのか、お腹がすいたのか、ただ抱きしめてほしいだけなのか。\n毎回ゼロから推理ゲームが始まる。\n夜中の3時。\n泣..."
   },
   {
-    "title": "完了したと思っていたリプレイスに、ひそんでいた見落とし",
-    "link": "https://qiita.com/katokonigiry/items/59288f82042ae2741791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T17:40:02.000Z",
+    "title": "もう手動編集しない！GitHubラベルをファイル管理＆自動更新してみた",
+    "link": "https://qiita.com/hirotask/items/ad600ef69afdc007b503?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T22:04:15.000Z",
     "source": "Qiita",
-    "contentSnippet": "はじめに\n本番環境などでやらかしてしまった人Advent Calendar2025の7日目です！\n昨年も参加させていただきまして、自分の愚かさを世に放出してみました。\n\n昨年の記事はこちら👇\n\n今回も私の失敗談を自戒の念を込めて書き下ろします。\n中規模拠点のネットワ..."
+    "contentSnippet": "※ Nano Banana Pro にサムネ生成してもらいました。めっちゃいい感じ \n\nはじめに\n突然ですが、以下のように感じたことはありませんか？\n\nデフォルトのラベルが業務で使うとちょっと扱いづらい\nバックエンドを開発するリポジトリと、フロントエンドを開発するリポジト..."
   },
   {
     "title": "SQLアンチパターンを根本から理解する：実務で遭遇した“DBが泣く”5つのNGクエリと改善策",
     "link": "https://qiita.com/Shiro_Shihi/items/b1b582c4528c5dd802f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-06T15:54:14.000Z",
     "source": "Qiita",
-    "contentSnippet": "本番環境でデータ量が増えた瞬間、アプリケーションが突然重くなる──。すべてのエンジニアが一度は直面するこの悪夢。その原因の多くは “気づかぬうちにDBを苦しめているSQL” です。\nこの記事では、実務で特に被害が大きかった 5つの致命的なSQLアンチパターン を取り上げ、\n..."
+    "contentSnippet": "本番環境でデータ量が増えた瞬間、アプリケーションが突然重くなる\nすべてのエンジニアが一度は直面するこの悪夢。その原因の多くは “気づかぬうちにDBを苦しめているSQL” です。\nこの記事では、実務で特に被害が大きかった 5つの致命的なSQLアンチパターン と、追加で バッ..."
   },
   {
     "title": "結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)",
@@ -140,46 +203,11 @@
     "contentSnippet": "CodexについにSkillsが来たので徹底解説\n先日のアップデートでようやくCodexにも待望のSkillsが実装された。この機能を待ち望んでいた方も多いのではないだろうか。今回はこのSkillsをまだ活用していない方に向けて仕組みと利用例を徹底解説している。ぜひ参考にしていただけたら嬉しい。\nちなみにSkillsはCodex特有の仕組みではなく、もともとClaude Codeで実装されていた概"
   },
   {
-    "title": "「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話",
-    "link": "https://zenn.dev/panda728/articles/d0b3d9e3404f33",
-    "pubDate": "Sat, 06 Dec 2025 05:33:28 GMT",
-    "source": "Zenn",
-    "contentSnippet": "序文\nプログラミングを始めたばかりの頃、私たちはこう教わりました。\n「プログラムは、上から下へ動くものである」\nこれはCPUの仕組みから考えても正しく、直感的です。\nしかし、現在、私が取り組む「基幹システム移行」\nそこで苦しんでいる原因もまた「上から下への一本道」にあります。\n\n本記事では、\nなぜ私たちが直感的な「一本道」を捨てて、\n一見すると複雑な「アーキテクチャ（関心事の分離）」を選ぶのか。\n"
-  },
-  {
-    "title": "LLMのプロダクト利用とAI破産を回避する運用体制",
-    "link": "https://zenn.dev/ivry/articles/databricks-ai-query-cost-management",
-    "pubDate": "Sat, 06 Dec 2025 03:04:14 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、IVRy でデータエンジニアとして働いている松田 健司(@ken_3ba)と申します。今まで「マツケン」というあだ名しかつかなかったのですが、社内では長いからという理由でKJと呼ばれるようになりました。\n本記事は、IVRy Advent Calender「IVRy AIブログリレー Part2」6日目の記事です。\nhttps://adventar.org/calendars/11552"
-  },
-  {
     "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
     "link": "https://qiita.com/Shiro_Shihi/items/1891c34595c9eff665f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-06T02:14:12.000Z",
     "source": "Qiita",
     "contentSnippet": "「レビューが怖い」新人エンジニアへ\n「レビューするの怖い」と思っていた過去の自分に教えたい、コードレビューが『最強の学習ツール』である3つの理由\n\nはじめに\nエンジニアになりたての頃、私はコードレビューがとても怖いものでした。\n\n「自分のような初心者が意見していいのだろう..."
-  },
-  {
-    "title": "2025年 社内Power BI普及活動について",
-    "link": "https://qiita.com/tsukapon/items/0b50f24f254f230c827b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T22:03:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこの記事はMicrosoft Power BI Advent Calendar 2025の６日目の記事になります。\n\n内容\n　佐賀県の小売業にて情シスをしています。\n去年の始めまではPower BIのデータ準備・レポート作成等は私一人で行っていましたが、去..."
-  },
-  {
-    "title": "技術力で殴る前に「問い」を研げ。",
-    "link": "https://zenn.dev/shizumaru/articles/42664815ba973f",
-    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\n本記事は 仮想通貨 Advent Calendar 2025 のシリーズ2の6日目の記事です。\nエンジニアやデータサイエンティストがクリプトトレードに参入する際、最も陥りやすい罠があります。それは、「高度なモデルや大量の特徴量を使えば、エッジ（優位性）が見つかる」という誤解です。\n\nとりあえず大量のインジケーターをLightGBMに突っ込む\n深層強化学習の論文を実装してみる\nグリッドサー"
-  },
-  {
-    "title": "なぜ \"簡単\" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』",
-    "link": "https://zenn.dev/loglass/articles/6b56dac587f02e",
-    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n株式会社ログラス プロダクトチーム Advent Calendar 2025 のシリーズ 1、6日目の記事です。\n\n14年前の講演が、いま必要になる理由。生成AIがコードを量産できてしまう2025年、圧倒されてしまっていないでしょうか。コードレビューや品質確保に追われているかもしれません。\nこの\"複雑性の増大\"に対して鋭い洞察を与えるのが、Rich Hickey（リッチ・ヒッキー）による Si"
   },
   {
     "title": "ADサーバーが消えた日",
@@ -194,34 +222,6 @@
     "pubDate": "2025-12-05T10:47:06.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n今回は、「新しい相関係数」と銘打ったインパクトのある論文を紹介します。\nこの論文で定義を見ただけだとイマイチぴんと来ないかもしれないので、図を使ってわかりやすく説明します。\n紹介する論文はこちら：\nChatterjee, Sourav. \"A new coeff..."
-  },
-  {
-    "title": "たった1行のSELECT文でシステムを停止しかけた話",
-    "link": "https://qiita.com/shota0616/items/8fb4af919e758cca505e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T04:51:54.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n「SELECT文なんて読み取りだけだし、大した影響ないでしょ」\nそう思っていた時期が私にもありました。\n今回は、Django Adminで作成した機能によって、本番システムを停止しかけた経験を共有します。\n\n環境\n\nモノリス構成（Web、DB、Appが全て1つの..."
-  },
-  {
-    "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",
-    "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T01:53:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n私の元職場の上司は、IEEEのことを「イェ～～」と呼んでいた。\nパリピかよ。\n会議中に「その規格はイェ～～が決めていて……」と仰るものだから、こっちは笑いが止まらないのである。正解はご存知「アイトリプルイー」である。\nだが、よく考えたらIT業界には初見では読めな..."
-  },
-  {
-    "title": "Claude CodeのコンテキストにUX心理学を与えたら、UI/UXはどう変わるのか",
-    "link": "https://qiita.com/nori0724/items/5c1aa2a5d5327bb68b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-04T22:05:52.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事はHTアドベントカレンダー5日目の記事です。\n\nはじめに\n博報堂テクノロジーズでデータサイエンティストをしている髙橋です。データとテクノロジーを駆使してメディア・コンテンツを革新していくデータサイエンティスト集団であるAaaS Tech Lab に所属しています。\n..."
-  },
-  {
-    "title": "客先本番環境のNASデータをすべてrmした事件",
-    "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-04T22:05:28.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n数年前にシステム開発をしており、そのときに客先NASのデータをすべてrmした話です。\nこのシステムは複数のサブシステムとNASで構成されていました。\n１つのサブシステムの開発を担当しており、不具合改修のためにアップデートを行った時の今回の事件を引き起こしました。..."
   },
   {
     "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",

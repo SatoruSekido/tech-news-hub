@@ -1,73 +1,73 @@
 [
   {
-    "title": "Monkey Market",
-    "link": "https://dev.to/rmion/monkey-market-1bda",
-    "pubDate": "Sun, 07 Dec 2025 18:09:18 +0000",
+    "title": "The Evolution of Reactivity: How UI Updates Learned to Take Care of Themselves",
+    "link": "https://dev.to/luciano0322/the-evolution-of-reactivity-how-ui-updates-learned-to-take-care-of-themselves-3ehm",
+    "pubDate": "Mon, 08 Dec 2025 01:54:47 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Advent of Code 2024 Day 22\n\n\n\n  \n  \n  Part 1\n\n\n\n  \n  \n  Another math gauntlet\n\n\nI get to program a bunch of math operations.\nSome will be part of several conditionals.\nI've done it before. I'm confide"
+    "contentSnippet": "A Brief History\n\n\nBack in 2010, Knockout.js introduced the ideas of Observable and Computed to the frontend world.\nFrom that moment on, the core debate behind every major framework became:\nShould the "
   },
   {
-    "title": "The Lovable.dev Migration Guide: Moving from personal GitHub to an organization (without breaking sync)",
-    "link": "https://dev.to/danielbetterdevelopers/the-lovabledev-migration-guide-moving-from-personal-github-to-an-organization-without-breaking-100n",
-    "pubDate": "Sun, 07 Dec 2025 18:06:40 +0000",
+    "title": "GitHub Actions: Automatizando seus Fluxos de Trabalho",
+    "link": "https://dev.to/ikauedev/github-actions-automatizando-seus-fluxos-de-trabalho-3eoe",
+    "pubDate": "Mon, 08 Dec 2025 01:49:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You’ve built a Lovable app. It’s growing. You’re ready to move from your personal GitHub account to a GitHub Organization (maybe for the Pro plan, or just to collaborate with a team).\nNaturally, you o"
+    "contentSnippet": "O GitHub Actions revolucionou a forma como desenvolvedores implementam integração contínua e entrega contínua (CI/CD) em seus projetos. Lançado em 2019, esse sistema de automação nativo do GitHub perm"
   },
   {
-    "title": "RAG Workflow Pack: Diagrams and Checklists",
-    "link": "https://dev.to/dowhatmatters/rag-workflow-pack-diagrams-and-checklists-439m",
-    "pubDate": "Sun, 07 Dec 2025 18:06:25 +0000",
+    "title": "The Brittleness Problem in Infrastructure Automation",
+    "link": "https://dev.to/smiller/the-brittleness-problem-in-infrastructure-automation-47ma",
+    "pubDate": "Mon, 08 Dec 2025 01:48:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This past week, I published a sequence of posts on the real failure modes in Retrieval-Augmented Generation systems. Each post focused on a workflow that is often treated as trivial but is responsible"
+    "contentSnippet": "Why today’s automation keeps breaking—and how resource-oriented shells change everything\nInfrastructure automation was supposed to make our systems reliable, predictable, and self-healing.\nInstead, fo"
   },
   {
-    "title": "Debugging Native Code in React Native: A Step-by-Step Guide (Android & iOS)",
-    "link": "https://dev.to/ajmal_hasan/debugging-native-code-in-react-native-a-step-by-step-guide-android-ios-14o3",
-    "pubDate": "Sun, 07 Dec 2025 18:06:21 +0000",
+    "title": "QLCM - Quantum Language and Consciousness Model",
+    "link": "https://dev.to/osmarylisbeth/qlcm-quantum-language-and-consciousness-model-45f9",
+    "pubDate": "Mon, 08 Dec 2025 01:43:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As React Native developers, we're comfortable with JavaScript debugging—Chrome DevTools, console logs, the usual suspects. But native code? That's where things get intimidating.\nHere's what I learned "
+    "contentSnippet": "Theoretical Foundations and Experimental Implementation of QLCM\nOsmary Lisbeth Navarro Tovar\nIndependent Researcher, Quantum Communication and Consciousness Laboratory\nNovember 9, 2025\nMIT\n\n\n\n\n\n\n\n\n\nCo"
   },
   {
-    "title": "Typical reinforcement learning process",
-    "link": "https://dev.to/dipti_moryani_08e62702314/typical-reinforcement-learning-process-4mgp",
-    "pubDate": "Sun, 07 Dec 2025 18:06:11 +0000",
+    "title": "A beginner's guide to the Ideogram-V3-Turbo model by Ideogram-Ai on Replicate",
+    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-ideogram-v3-turbo-model-by-ideogram-ai-on-replicate-j6c",
+    "pubDate": "Mon, 08 Dec 2025 01:42:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Machine learning algorithms are typically divided into three main categories:\nTable of Contents\nReinforcement Learning – A Real-Life Example\nTypical Reinforcement Learning Process\nCore Elements of Rei"
+    "contentSnippet": "This is a simplified guide to an AI model called Ideogram-V3-Turbo maintained by Ideogram-Ai. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nideogram-v3-tur"
   },
   {
-    "title": "🔥 Day 7: Mastering Joins, Unions, and GroupBy in PySpark - The Core ETL Operations",
-    "link": "https://dev.to/sandeepk27/day-7-mastering-joins-unions-and-groupby-in-pyspark-the-core-etl-operations-4co7",
-    "pubDate": "Sun, 07 Dec 2025 18:03:18 +0000",
+    "title": "A beginner's guide to the Qwen-Image-Edit-Plus model by Qwen on Replicate",
+    "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen-image-edit-plus-model-by-qwen-on-replicate-56o2",
+    "pubDate": "Mon, 08 Dec 2025 01:42:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome to Day 7 of your Spark Mastery journey!\nToday is one of the most practical days because joins, unions, and aggregations are used in almost every pipeline you will ever build - be it feature en"
+    "contentSnippet": "This is a simplified guide to an AI model called Qwen-Image-Edit-Plus maintained by Qwen. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\nThe qwen-image-edit"
   },
   {
-    "title": "How to Debug LLM Failures: A Complete Guide for Reliable AI Applications",
-    "link": "https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-complete-guide-for-reliable-ai-applications-3g5h",
-    "pubDate": "Sun, 07 Dec 2025 18:00:34 +0000",
+    "title": "2025-12-07 Daily Ai News",
+    "link": "https://dev.to/dan_ledger_ce2886f0037972/2025-12-07-daily-ai-news-41j5",
+    "pubDate": "Mon, 08 Dec 2025 01:41:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a prototype with a Large Language Model (LLM) is deceptively easy. A few lines of Python, an API key, and a prompt can yield impressive results in minutes. However, moving that prototype into"
+    "contentSnippet": "The AI landscape on December 6, 2025, pulsed with fierce competition and groundbreaking research, as OpenAI reportedly rushed GPT-5.2 to counter Google's Gemini 3, emphasizing superior reasoning, spee"
   },
   {
-    "title": "Built a Sharp Alternative That’s 36x Faster - And It Works with Both Bun AND Node.js",
-    "link": "https://dev.to/aissam_af7e3548e20435d720/built-a-sharp-alternative-thats-36x-faster-and-it-works-with-both-bun-and-nodejs-395o",
-    "pubDate": "Sun, 07 Dec 2025 18:00:17 +0000",
+    "title": "How LSOLINK Tests Optical Transceivers to Ensure Quality and Compatibility?",
+    "link": "https://dev.to/lsolink/how-lsolink-tests-optical-transceivers-to-ensure-quality-and-compatibility-3pmf",
+    "pubDate": "Mon, 08 Dec 2025 01:36:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR: I built bun-image-turbo, a Rust-powered image processing library that outperforms Sharp in most benchmarks. It's 36x faster at metadata extraction, 4.5x faster under concurrent load, and has bu"
+    "contentSnippet": "The development of optical communication technology has promoted optical modules to become the core components of data centers and modern communication networks. Their performance and compatibility ha"
   },
   {
-    "title": "🚩 Red flags series #2: God functions",
-    "link": "https://dev.to/mhamadelitawi/red-flags-series-2-god-functions-5d5b",
-    "pubDate": "Sun, 07 Dec 2025 18:00:00 +0000",
+    "title": "Basic Concepts of C# Numeric Types — From Integers to SIMD, for LLM-Ready Thinking",
+    "link": "https://dev.to/cristiansifuentes/basic-concepts-of-c-numeric-types-from-integers-to-simd-for-llm-ready-thinking-1a63",
+    "pubDate": "Mon, 08 Dec 2025 01:34:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "📌 This post is one chapter in my Red Flags series. I’m exploring the mistakes, bad practices, and subtle issues we often overlook in day-to-day development. Stay tuned for upcoming posts!\nWhen one fu"
+    "contentSnippet": "Most C# developers use numeric types every day:\nint, long, float, double, decimal\n\nBut when you start asking deeper, precision- and performance-focused questions, things get interesting:\nWhat actually"
   },
   {
-    "title": "How to Debug LLM Failures: A Practical Guide for AI Engineers",
-    "link": "https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-practical-guide-for-ai-engineers-5c0b",
-    "pubDate": "Sun, 07 Dec 2025 17:59:55 +0000",
+    "title": "OSD Final week: My last set of contributions in the course",
+    "link": "https://dev.to/david_rivera_8d845b35931e/osd-final-week-my-last-set-of-contributions-in-the-course-8ac",
+    "pubDate": "Mon, 08 Dec 2025 01:28:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In traditional software engineering, debugging is a deterministic process. If code fails, you set a breakpoint, inspect the variable state, identify the logic error, and patch it. The inputs and outpu"
+    "contentSnippet": "It's almost the end of the semester; for the last release 0.4 of the OSD course at Seneca, we're tasked to deliver meaningful work in the shape of contributions to projects. Luckily, I know what to do"
   },
   {
     "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",
@@ -84,11 +84,32 @@
     "contentSnippet": "JetBrainsは、AIエージェントをどのコードエディタでも使えるようにすることを目指す業界標準「ACP（Agent Client Protocol）」を、同社のコードエディタ製品群JetBrains IDEsでベータ版として実装したことを明らかにしました。 Integrating the agent you want into the IDE you love should be effort"
   },
   {
-    "title": "松尾研究所データサイエンスチームの組織文化について",
-    "link": "https://zenn.dev/mkj/articles/0138ac9d831689",
-    "pubDate": "Sat, 06 Dec 2025 15:00:28 GMT",
+    "title": "息子さんのOSSの為に死亡証明書を下さい",
+    "link": "https://zenn.dev/livetoon/articles/oss_death_or_alive",
+    "pubDate": "Sun, 07 Dec 2025 07:52:27 GMT",
     "source": "Zenn",
-    "contentSnippet": "こんにちは、松尾研究所 データサイエンスチーム（以降：松尾研DSチーム）の人事担当・松井です。\nこの記事は、松尾研究所 Advent Calendar 2025の記事です。\nテックブログとして少し異色かもしれませんが、「技術を支える文化」という視点で、人事から見たデータサイエンスチームのカルチャーを紹介してみようと思います。ポイントは下記です。\n\n心理的安全性：安心して挑戦できる土台\n学習意欲：技"
+    "contentSnippet": "この記事はLivetoon Tech Advent Calendar 2025の7日目の記事です。\nhttps://adventar.org/calendars/12157\n\n はじめに\nこんにちは！\nAIキャラクターアプリkaiwaを開発している株式会社Livetoonの開発マネージャーの土川です。\nkaiwaの公式サイト\nhttps://kai0.onelink.me/Hogh/AdventC"
+  },
+  {
+    "title": "大LLM時代に論文を読む/まとめるならカスタムGPTで",
+    "link": "https://zenn.dev/zozotech/articles/17a56e85d43529",
+    "pubDate": "Sat, 06 Dec 2025 22:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこれは ZOZO Advent Calendar 2025 シリーズ6の7日目の記事です。今年はなんとシリーズ12まであるそうです。ぜひ他の記事もご覧ください！\n\n日々の業務で追われる中、最近では効率的かつ効果的に論文を読むためにLLMを活用しています。本記事では、これまでの経験で培ってきたノウハウとカスタムGPTをあわせた論文読みテクニックをご紹介します。\n\n プロローグ\nAdvent Ca"
+  },
+  {
+    "title": "完了したと思っていたリプレイスに、ひそんでいた見落とし",
+    "link": "https://qiita.com/katokonigiry/items/59288f82042ae2741791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T17:40:02.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n本番環境などでやらかしてしまった人Advent Calendar2025の7日目です！\n昨年も参加させていただきまして、自分の愚かさを世に放出してみました。\n\n昨年の記事はこちら👇\n\n今回も私の失敗談を自戒の念を込めて書き下ろします。\n中規模拠点のネットワ..."
+  },
+  {
+    "title": "SQLアンチパターンを根本から理解する：実務で遭遇した“DBが泣く”5つのNGクエリと改善策",
+    "link": "https://qiita.com/Shiro_Shihi/items/b1b582c4528c5dd802f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T15:54:14.000Z",
+    "source": "Qiita",
+    "contentSnippet": "本番環境でデータ量が増えた瞬間、アプリケーションが突然重くなる──。すべてのエンジニアが一度は直面するこの悪夢。その原因の多くは “気づかぬうちにDBを苦しめているSQL” です。\nこの記事では、実務で特に被害が大きかった 5つの致命的なSQLアンチパターン を取り上げ、\n..."
   },
   {
     "title": "結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)",
@@ -96,6 +117,20 @@
     "pubDate": "Sat, 06 Dec 2025 12:31:34 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\n当記事は、react2shell の PoC 攻撃手法についての調査です。\n\n 注意事項\n当記事の内容は、あくまで PoC 攻撃手法の研究目的です。\nまた、当記事の内容には間違い・認識違いが含まれる可能性があります。\n本番環境での動的な解析を実施しておらず、コードリーディングを中心とした調査であるためです。\nまた、コードによる裏取りは行っているものの、\n生成 AI によるハルシネーション"
+  },
+  {
+    "title": "8GBメモリでローカルLLMを動かす",
+    "link": "https://zenn.dev/kokoa0429/articles/e515ff57d56cc0",
+    "pubDate": "Sat, 06 Dec 2025 12:17:49 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は「Anthrotech Advent Calendar 2025」の6日目です。\n前回の記事は、 なかいあんこうさんの oraja時代のBMS新圧縮常識！？ です。\n\n 8GBメモリでローカルLLMを動かす\n\n はじめに\n「ローカルでLLMを動かしたい」——そう思って調べると、「RTX 4090が必要」「VRAM 24GB推奨」みたいな記事ばかり出てきて心が折れそうになりますよね。でも実"
+  },
+  {
+    "title": "CIでやりたい最低限のNodeセキュリティ対策",
+    "link": "https://zenn.dev/nislab/articles/typescript-security",
+    "pubDate": "Sat, 06 Dec 2025 09:06:57 GMT",
+    "source": "Zenn",
+    "contentSnippet": "私たちの研究室(NISLab)\nhttps://nisk.doshisha.ac.jp/\n\n アドベントカレンダー 5 日目~\nhttps://nislab-advendcallender-2025.vercel.app/\n\n 背景\nNode.js プロジェクト（React / Next.js / NestJS など）は、依存パッケージが多く更新も頻繁なため、脆弱性が混入しやすいという弱点がありま"
   },
   {
     "title": "CodexについにSkillsが来たので徹底解説",
@@ -112,11 +147,11 @@
     "contentSnippet": "序文\nプログラミングを始めたばかりの頃、私たちはこう教わりました。\n「プログラムは、上から下へ動くものである」\nこれはCPUの仕組みから考えても正しく、直感的です。\nしかし、現在、私が取り組む「基幹システム移行」\nそこで苦しんでいる原因もまた「上から下への一本道」にあります。\n\n本記事では、\nなぜ私たちが直感的な「一本道」を捨てて、\n一見すると複雑な「アーキテクチャ（関心事の分離）」を選ぶのか。\n"
   },
   {
-    "title": "TypeScript版のStrands Agents×HonoでAgentCore Runtimeへデプロイ！",
-    "link": "https://qiita.com/har1101/items/3cb163cc67d56d0e6417?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T03:27:03.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは、ふくちと申します。\nAWS re:Invent 2025にて、AWSが公開しているLLMアプリ開発フレームワーク「Strands Agents SDK」のTypeScript版対応開始が発表されました。\n\nこれまではPython版しか無かったのですが、ここに..."
+    "title": "LLMのプロダクト利用とAI破産を回避する運用体制",
+    "link": "https://zenn.dev/ivry/articles/databricks-ai-query-cost-management",
+    "pubDate": "Sat, 06 Dec 2025 03:04:14 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、IVRy でデータエンジニアとして働いている松田 健司(@ken_3ba)と申します。今まで「マツケン」というあだ名しかつかなかったのですが、社内では長いからという理由でKJと呼ばれるようになりました。\n本記事は、IVRy Advent Calender「IVRy AIブログリレー Part2」6日目の記事です。\nhttps://adventar.org/calendars/11552"
   },
   {
     "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
@@ -124,13 +159,6 @@
     "pubDate": "2025-12-06T02:14:12.000Z",
     "source": "Qiita",
     "contentSnippet": "「レビューが怖い」新人エンジニアへ\n「レビューするの怖い」と思っていた過去の自分に教えたい、コードレビューが『最強の学習ツール』である3つの理由\n\nはじめに\nエンジニアになりたての頃、私はコードレビューがとても怖いものでした。\n\n「自分のような初心者が意見していいのだろう..."
-  },
-  {
-    "title": "サービスの本番データベースを吹き飛ばした話",
-    "link": "https://qiita.com/tampopo256/items/601dc79677fabb0a23d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T22:08:53.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事は「 本番環境などでやらかしちゃった人 Advent Calendar 2025 」の6日目です。\n私の前職で起こった出来事です。\nstg環境がいかに大切かを思い知らされたやらかしを共有したいと思います。\n\n本来あるべき姿\n普通の開発においてはこのような形になってい..."
   },
   {
     "title": "2025年 社内Power BI普及活動について",
@@ -154,34 +182,6 @@
     "contentSnippet": "!\n株式会社ログラス プロダクトチーム Advent Calendar 2025 のシリーズ 1、6日目の記事です。\n\n14年前の講演が、いま必要になる理由。生成AIがコードを量産できてしまう2025年、圧倒されてしまっていないでしょうか。コードレビューや品質確保に追われているかもしれません。\nこの\"複雑性の増大\"に対して鋭い洞察を与えるのが、Rich Hickey（リッチ・ヒッキー）による Si"
   },
   {
-    "title": "Tailscaleを利用して開発環境を整える",
-    "link": "https://zenn.dev/chamafoobar/articles/8ccdb552ef0acf",
-    "pubDate": "Fri, 05 Dec 2025 16:08:31 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は仮想通貨botter Advent Calendar 2025の6日目の記事です。\nこんにちは、ちゃま(@chamafoobar)と申します。\n今回は「Tailscale」というサービスを利用してVPNを構築し、仮想通貨botter用の開発環境を整備する方法をご紹介します。\n!\nこの記事には暗号資産の話は全く出てきません。当然この記事を読んでも儲かりません。\n\n\n Tailscaleとは"
-  },
-  {
-    "title": "RAGを自分で実装したくなったらまずこれ見て【ruri-v3 × Faiss】",
-    "link": "https://zenn.dev/livetoon/articles/b273cdfc07c55c",
-    "pubDate": "Fri, 05 Dec 2025 15:27:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事はLivetoon Tech Advent Calendar 2025の６日目の記事です。\nhttps://adventar.org/calendars/12157\nCTOの長嶋が担当です。\n本日は、皆さんよく聞くRAGのお話です。\n\n 宣伝\nhttps://kai0.onelink.me/Hogh/AdventCalendar2025\n今回のアドベントカレンダーでは、LivetoonのA"
-  },
-  {
-    "title": "情シスの休日：個人ホームページを WordPress から Hugo + AWS へ移行して、コストを 1/100 にした話",
-    "link": "https://zenn.dev/shimosyan/articles/f9c35cb3736b25",
-    "pubDate": "Fri, 05 Dec 2025 15:21:10 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事はcorp-engr 情シスSlack（コーポレートエンジニア x 情シス）#1 Advent Calendar 2025の 6 日目の記事です。\n\nhttps://adventar.org/calendars/11540\n\n これはなに？\nこんにちは、しもしゃんです。\nWordPress といえば、情シス目線ではプラグイン込みの脆弱性管理が気になるところですよね。\n趣味で運営している"
-  },
-  {
-    "title": "テストも捨てやすく作ろう",
-    "link": "https://zenn.dev/55_ymzn/articles/make-tests-disposable",
-    "pubDate": "Fri, 05 Dec 2025 15:00:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこの記事は「株式会社カオナビAdvent Calendar 2025」の6日目の記事です。\n昨年、株式会社カオナビの佐野さんが「ソフトウェアは捨てやすく作ろう」という記事を執筆しました。\nhttps://qiita.com/sanogemaru/items/40557c6db33dcec99cf1\n今回、その内容を踏まえ、ソフトウェアテストに焦点を当てて「捨てやすいテスト」について考察し"
-  },
-  {
     "title": "ADサーバーが消えた日",
     "link": "https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T14:30:43.000Z",
@@ -196,11 +196,11 @@
     "contentSnippet": "はじめに\n今回は、「新しい相関係数」と銘打ったインパクトのある論文を紹介します。\nこの論文で定義を見ただけだとイマイチぴんと来ないかもしれないので、図を使ってわかりやすく説明します。\n紹介する論文はこちら：\nChatterjee, Sourav. \"A new coeff..."
   },
   {
-    "title": "“距離感を間違えない”コミュニケーション",
-    "link": "https://qiita.com/KURIeIGHT/items/5e8a857ff54ac1cb9ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T03:12:52.000Z",
+    "title": "たった1行のSELECT文でシステムを停止しかけた話",
+    "link": "https://qiita.com/shota0616/items/8fb4af919e758cca505e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T04:51:54.000Z",
     "source": "Qiita",
-    "contentSnippet": "初めに\nコミュニケーション能力が大事だよねって話を、自分の言葉で改めてアウトプットしようと思います。\n今日は、私が日々の会話で意識しているポイントをまとめます。\n新人エンジニアや「コミュニケーションが苦手」な人に届けばうれしいです！\n\nコミュニケーションの“距離感”ってど..."
+    "contentSnippet": "はじめに\n「SELECT文なんて読み取りだけだし、大した影響ないでしょ」\nそう思っていた時期が私にもありました。\n今回は、Django Adminで作成した機能によって、本番システムを停止しかけた経験を共有します。\n\n環境\n\nモノリス構成（Web、DB、Appが全て1つの..."
   },
   {
     "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",

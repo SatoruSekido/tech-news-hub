@@ -1,73 +1,94 @@
 [
   {
-    "title": "Proto-Danksharding (EIP-4844) & Danksharding",
-    "link": "https://dev.to/omniradhanexus/proto-danksharding-eip-4844-danksharding-38be",
-    "pubDate": "Tue, 09 Dec 2025 12:48:17 +0000",
+    "title": "Day 13 : Understanding Terraform Data Sources Like a Human, Not a Robot",
+    "link": "https://dev.to/alafiz/day-13-understanding-terraform-data-sources-like-a-human-not-a-robot-4p04",
+    "pubDate": "Tue, 09 Dec 2025 18:25:17 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Ethereum is evolving — and this time, the upgrade isn’t small.\nProto-Danksharding (EIP-4844) & Danksharding are the upgrades that could finally make Ethereum fast, scalable & cheap enough for globa"
+    "contentSnippet": "Today’s session was one of those “lightbulb days” in Terraform the point where things finally click. Day 13 was all about Terraform Data Sources and honestly, this is one of the core concepts that sep"
   },
   {
-    "title": "🚀 I Built a Solo Leveling–Inspired Life RPG System Using Python + Flask",
-    "link": "https://dev.to/shaik_aziz_ab0fc49d024c0b/i-built-a-solo-leveling-inspired-life-rpg-system-using-python-flask-3j4h",
-    "pubDate": "Tue, 09 Dec 2025 12:47:54 +0000",
+    "title": "True Parallelism in R Using the parallel Package",
+    "link": "https://dev.to/dipti_moryani_08e62702314/true-parallelism-in-r-using-the-parallel-package-1m0i",
+    "pubDate": "Tue, 09 Dec 2025 18:23:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I turned my daily life into an RPG using Python + Flask\nI’ve always been a fan of Solo Leveling — especially the idea of the System that tracks your stats, quests, and level-ups.\nSo I decided to build"
+    "contentSnippet": "Modern computers no longer rely on a single processor. Most laptops and servers today ship with multi-core CPUs and large amounts of memory. Yet, many R scripts still run sequentially—using only a fra"
   },
   {
-    "title": "Why Does Your Business Need a Reliable OneDrive Migration Tool?",
-    "link": "https://dev.to/xantheclay/why-does-your-business-need-a-reliable-onedrive-migration-tool-512i",
-    "pubDate": "Tue, 09 Dec 2025 12:47:38 +0000",
+    "title": "Day 9: Spark SQL Deep Dive - Temp Views, Query Execution & Optimization Tips for Data Engineers",
+    "link": "https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh",
+    "pubDate": "Tue, 09 Dec 2025 18:18:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When businesses grow in size, the amount of data stored on cloud storage, such as OneDrive, also increases. Therefore, the migration process will involve complexity and risk of data loss. An error-fre"
+    "contentSnippet": "Welcome to Day 9 of the Spark Mastery Series!\nEven if you're a Python engineer, SQL is STILL the easiest and fastest way to express business logic. Spark SQL allows you to use familiar SQL syntax whil"
   },
   {
-    "title": "How I stopped a $2,000 AWS bill using 4 lines of Python (Open Source)",
-    "link": "https://dev.to/davidahmann/how-i-stopped-a-2000-aws-bill-using-4-lines-of-python-open-source-4pip",
-    "pubDate": "Tue, 09 Dec 2025 12:47:18 +0000",
+    "title": "I built an AI-powered Portfolio Tracker",
+    "link": "https://dev.to/julienesn/i-built-an-ai-powered-portfolio-tracker-2oen",
+    "pubDate": "Tue, 09 Dec 2025 18:16:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The $2,000 \"Ouch\" Moment\n\n\nA few months ago, I was rushing to fix a connectivity issue for a client. I spun up a NAT Gateway in Terraform, deployed it, and high-fived the team. Ticket closed.\n30 days "
+    "contentSnippet": "Hello devs! \nI've been tracking my investments in Excel for years, but manual entry was killing me. So I decided to build my own \"Bloomberg Terminal\" for personal finance.\nMost portfolio apps require "
   },
   {
-    "title": "The Hidden Value of Energy Data: How Smart Insights Drive Margins, ESG Ratings & Operational Resilience",
-    "link": "https://dev.to/greenovative/the-hidden-value-of-energy-data-how-smart-insights-drive-margins-esg-ratings-operational-15hl",
-    "pubDate": "Tue, 09 Dec 2025 12:42:11 +0000",
+    "title": "Fixing \"Network Error\" in React Native When Connecting to QA Servers with HTTPS",
+    "link": "https://dev.to/iraycd/fixing-network-error-in-react-native-when-connecting-to-qa-servers-with-https-56d6",
+    "pubDate": "Tue, 09 Dec 2025 18:14:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Energy Intelligence: The Strategic Shift Every Enterprise Can’t Afford to Delay\n No visibility between energy & production variability\n No financial correlation between energy waste & margin impact\n N"
+    "contentSnippet": "You're developing a React Native app using React Native CLI, testing on a physical device, and trying to connect to your QA server (like https://qa.example.com/api/). You keep getting this frustrating"
   },
   {
-    "title": "Optimize AWS Costs: One Load Balancer, Multiple Apps",
-    "link": "https://dev.to/danmuso/optimize-aws-costs-one-load-balancer-multiple-apps-4neg",
-    "pubDate": "Tue, 09 Dec 2025 12:40:54 +0000",
+    "title": "💥 When Your Game Plays YOU: The Algorithm Behind Marvel Rivals",
+    "link": "https://dev.to/blaze_faisal/when-your-game-plays-you-the-algorithm-behind-marvel-rivals-1efj",
+    "pubDate": "Tue, 09 Dec 2025 18:13:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Problem\n\n\nRunning separate Application Load Balancers (ALBs) for each application costs $16-18/month per ALB. With 5 apps, that's $80-90/month just for load balancers.\nUse a single ALB with path-b"
+    "contentSnippet": "Gamers… gather around.\n\n\nIf you’ve ever won 4 games in a row and then suddenly got slapped harder than a level-1 enemy in Elden Ring…\nIf your win rate magically floats around 50% no matter what…\n\n*Con"
   },
   {
-    "title": "New AI web standards and scraping trends in 2026: rethinking robots.txt",
-    "link": "https://dev.to/astro-official/new-ai-web-standards-and-scraping-trends-in-2026-rethinking-robotstxt-3730",
-    "pubDate": "Tue, 09 Dec 2025 12:38:39 +0000",
+    "title": "Boosting Authorization Rates: Partnering Strategies and Intelligent Retries",
+    "link": "https://dev.to/rapyd/boosting-authorization-rates-partnering-strategies-and-intelligent-retries-5all",
+    "pubDate": "Tue, 09 Dec 2025 18:13:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For three decades, robots.txt has been the main mechanism websites use to signal how automated crawlers should behave. It was created in 1994 for a very different web made of lightweight HTML pages, p"
+    "contentSnippet": "By: Adeyinka Adegbenro\nAuthorization rates measure the ratio of successful payments to total attempts. For instance, if a merchant processes one hundred payments and seventy of them are successful, th"
   },
   {
-    "title": "How I Built a Disaster Resource Coordination Agent (DRCA) with Google Gemini",
-    "link": "https://dev.to/deeksha_mahara_44401ff158/how-i-built-a-disaster-resource-coordination-agent-drca-with-google-gemini-1m4j",
-    "pubDate": "Tue, 09 Dec 2025 12:38:22 +0000",
+    "title": "🚀 Breaking the Blockade: How We Taught Kafka to \"Speak\" Like a Synchronous API",
+    "link": "https://dev.to/sara_yona_f2c0fc36f1392c8/breaking-the-blockade-how-we-taught-kafka-to-speak-like-a-synchronous-api-4jho",
+    "pubDate": "Tue, 09 Dec 2025 18:10:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction-\nMy Capstone Project, DRCA (Disaster Resource Coordination Agent), is a multi-agent system designed to streamline rescue operations by coordinating logistics, geolocation, and resource al"
+    "contentSnippet": "Imagine the situation: Our system, let's call it \"BSDFlow\", is a modern, impressive Event-Driven monster. Everything happens asynchronously, reliably, and scalably through Kafka. Every entity creation"
   },
   {
-    "title": "Exploring How Redis and CloudFront Speed Up Fintech Applications",
-    "link": "https://dev.to/ertnbrk/exploring-how-redis-and-cloudfront-speed-up-fintech-applications-kk",
-    "pubDate": "Tue, 09 Dec 2025 12:37:21 +0000",
+    "title": "Why I Chose Monorepo: From Copy-Paste Hell to 2.8s Builds",
+    "link": "https://dev.to/saswatapal/why-i-chose-monorepo-from-copy-paste-hell-to-28s-builds-5b2h",
+    "pubDate": "Tue, 09 Dec 2025 18:09:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "1. Introduction: Why Performance Still Feels Like a Business Problem\n\n\nAs someone who's still early in their fintech/SaaS journey, most of the conversations I encountered at first were always about fe"
+    "contentSnippet": "Why I Chose Monorepo: From Copy-Paste Hell to 2.8s Builds\n\n\nFriday, 11:47 PM. Portfolio site: white screen. Button component broke.\nI'd updated the variant prop in my UI library repo. Pushed it. Forgo"
   },
   {
-    "title": "Built a Rock-Solid E2E Tests for KubeStellar: A 3-Month Journey",
-    "link": "https://dev.to/arpit529srivatava/built-a-rock-solid-e2e-tests-for-kubestellar-a-3-month-journey-5f89",
-    "pubDate": "Tue, 09 Dec 2025 12:35:44 +0000",
+    "title": "What if claude-code lived inside your browser?",
+    "link": "https://dev.to/alentodorov/what-if-claude-code-lived-inside-your-browser-2e2h",
+    "pubDate": "Tue, 09 Dec 2025 17:59:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Picture this: a control tower orchestrating dozens of airports simultaneously with flawless precision. Sounds impressive, right? That's exactly what KubeStellar does for Kubernetes clusters and it mak"
+    "contentSnippet": "I’ve built a browser extension that allows you to theme your visited websites just by prompting. It takes your request and uses openai’s codex-mini to generate the JS and CSS needed to apply the chang"
+  },
+  {
+    "title": "「あなたが修正するのは自分だけのバグではない」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（後編）",
+    "link": "https://www.publickey1.jp/blog/25/open_source_summit_japan.html",
+    "pubDate": "2025-12-09T15:55:32.000Z",
+    "source": "Publickey",
+    "contentSnippet": "昨日（2025年12月9日）、都内で開催されたLinux Foundation主催によるイベント「Open Source Summit Japan」の基調講演にLinuxの作者として知られるリーナス・トーバルズ氏が登壇しました。 同氏によると東京で同氏が基調講演に登場するのは7回目。同氏の基調講演は対談形式で行われるのが常であり、今回もベライゾンのOpen Source Program Offic"
+  },
+  {
+    "title": "「AIは過剰に宣伝されているが、ツールとしては大いに信じている」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（前編）",
+    "link": "https://www.publickey1.jp/blog/25/aiopen_source_summit_japan.html",
+    "pubDate": "2025-12-09T15:51:08.000Z",
+    "source": "Publickey",
+    "contentSnippet": "昨日（2025年12月9日）、都内で開催されたLinux Foundation主催によるイベント「Open Source Summit Japan」の基調講演にLinuxの作者として知られるリーナス・トーバルズ氏が登壇しました。 同氏によると東京で同氏が基調講演に登場するのは7回目。同氏の基調講演は対談形式で行われるのが常であり、今回もベライゾンのOpen Source Program Offic"
+  },
+  {
+    "title": "Kafka開発元のConfluentをIBMが買収。AI向けデータプラットフォームを強化へ",
+    "link": "https://www.publickey1.jp/blog/25/kafkaconfluentibmai.html",
+    "pubDate": "2025-12-09T15:07:58.000Z",
+    "source": "Publickey",
+    "contentSnippet": "オープンソースの分散メッセージングシステムであるApache kafkaの作者らが立ち上げた企業であるConfluentを、IBMが買収することが発表されました。買収額は110億ドル（1ドル150円換算で約1兆6500億円）です。 IBMはこれによりエンタープライズ向けのデータプラットフォームの強化を目論みます。 We are excited that Confluent has entered "
   },
   {
     "title": "Cap'n Webについて",
@@ -257,26 +278,5 @@
     "pubDate": "2025-12-03T16:04:47.000Z",
     "source": "Publickey",
     "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社のマネージドデータベースサービスの価格を最大で35％安くできる「Database Savings Plans for AWS Databases」を発表しました。 Database Savings Plans for AWS DatabasesはAWSの"
-  },
-  {
-    "title": "Amazon S3が大幅強化、保存できるオブジェクトサイズが最大の50TBに拡大、バッチ処理速度は10倍速に",
-    "link": "https://www.publickey1.jp/blog/25/amazon_s350tb10.html",
-    "pubDate": "2025-12-03T16:02:48.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Amazon S3の最大容量と処理性能の大幅強化を発表しました。 Amazon S3はクラウドサービスの基盤となるオブジェクトストレージです。これまで、1オブジェクト当たりの最大容量は5TBが上限でしたが、今回これが50TBにまで拡大されました。 これにより"
-  },
-  {
-    "title": "AWS、独自のAI処理専用プロセッサ「AWS Trainium4」を発表。現行のTrainium3の6倍の性能、4倍のメモリ帯域幅を目指す",
-    "link": "https://www.publickey1.jp/blog/25/awsaiaws_trainium4trainium364.html",
-    "pubDate": "2025-12-03T16:01:04.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社が独自開発しているAI処理専用プロセッサ「AWS Trainium4」を発表しました。 2020年に最初のTrainiumを発表 AWSは2020年12月のAWS re:Invent 2020で、従来のプロセッサやGPUよりも高速で安価なAIのトレーニン"
-  },
-  {
-    "title": "AWS、Apple M3 Ultra/M4 Maxチップに対応したMacインスタンス発表",
-    "link": "https://www.publickey1.jp/blog/25/awsapple_m3_ultram4_maxmac.html",
-    "pubDate": "2025-12-03T15:58:42.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、Appleシリコンに対応した新しいMacインスンタンス「Amazon EC2 M3 Ultra Macインスタンス」と「Amazon EC2 M4 Max Macインスタンス」を発表しました。 MacインスタンスはAppleのMacを使用したサービスであり、"
   }
 ]

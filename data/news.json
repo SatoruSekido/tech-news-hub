@@ -1,73 +1,73 @@
 [
   {
-    "title": "La Création Web : Du Concept à la Conversion",
-    "link": "https://dev.to/metalya/la-creation-web-du-concept-a-la-conversion-4gmb",
-    "pubDate": "Wed, 10 Dec 2025 06:35:26 +0000",
+    "title": "🚀 New React Challenge: Digital Segment Clock",
+    "link": "https://dev.to/duffmancc/new-react-challenge-digital-segment-clock-2dg0",
+    "pubDate": "Wed, 10 Dec 2025 12:49:39 +0000",
     "source": "DEV.to",
-    "contentSnippet": "\"Un site web n'est pas une brochure. C'est un outil de croissance.\"\n\n\nLancer un site web en 2025 n'est plus une option, c'est un impératif de survie. Cependant, l'époque où il suffisait de choisir un "
+    "contentSnippet": "Level up your React skills with our latest beginner-friendly challenge! Build a real-time digital clock using seven-segment-style digits.\nNo subscription required, completely free! ✅\nGreat for practic"
   },
   {
-    "title": "Tired of Heavyweight Hadoop/Spark? Meet SPL: The Lightweight Contender.",
-    "link": "https://dev.to/esproc_spl/tired-of-heavyweight-hadoopspark-meet-spl-the-lightweight-contender-l0h",
-    "pubDate": "Wed, 10 Dec 2025 06:33:30 +0000",
+    "title": "Stop Writing a Kafka Consumer for Every Topic – Make It Generic in .NET",
+    "link": "https://dev.to/__d3ec2d533ada03/stop-writing-a-kafka-consumer-for-every-topic-make-it-generic-in-net-3i26",
+    "pubDate": "Wed, 10 Dec 2025 12:41:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "With the advent of the era of big data, the amount of data continues to grow. In this case, it is difficult and costly to expand the capacity of database running on a traditional small computer, makin"
+    "contentSnippet": "How I Built a Generic Kafka Consumer in .NET with Strategy Pattern\nEver found yourself writing a separate Kafka consumer for every single topic? Yeah… me too. 😅\nWhen I started working on our project,"
   },
   {
-    "title": "A Practical Guide to How Real-Time Chat & Video Platforms Work",
-    "link": "https://dev.to/businmeed/a-practical-guide-to-how-real-time-chat-video-platforms-work-iib",
-    "pubDate": "Wed, 10 Dec 2025 06:32:34 +0000",
+    "title": "I made a Nuxt 4 complete boilerplate and a few people seem to really like it",
+    "link": "https://dev.to/tom_han/i-made-a-nuxt-4-complete-boilerplate-and-a-few-people-seem-to-really-like-it-4b3l",
+    "pubDate": "Wed, 10 Dec 2025 12:38:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "(Plus some lessons I learned while building my own WebRTC SDK at weblivehub.com)\nWhen developers first step into real-time communication — random chat sites, group chat rooms, or video chat — they oft"
+    "contentSnippet": "Hey everyone,\nAfter rebuilding the same Nuxt setup again and again for different projects, I decided to make a proper starter kit once and for all.\nI built ShipAhead, a Nuxt 4 SaaS boilerplate that co"
   },
   {
-    "title": "Wave-Encoded Data Systems: An Alternative Abstraction for Data Representation",
-    "link": "https://dev.to/hejhdiss/wave-encoded-data-systems-an-alternative-abstraction-for-data-representation-3jda",
-    "pubDate": "Wed, 10 Dec 2025 06:20:33 +0000",
+    "title": "Stop Your Dev Environment from Breaking: Docker Done Right",
+    "link": "https://dev.to/tamar_fuks/stop-your-dev-environment-from-breaking-docker-done-right-bo8",
+    "pubDate": "Wed, 10 Dec 2025 12:37:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A Conceptual Framework Exploring Wave-Based Data Models\nAuthor: @hejhdiss (Muhamed Shafin P)\n\nLicense: Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0)\nThis article introduces Wave-Encoded D"
+    "contentSnippet": "Stop Your Dev Environment from Breaking: Docker Done Right\n\n\nMost development environments fail for surprisingly simple reasons. A missing dependency, a version mismatch, or a service that wasn’t star"
   },
   {
-    "title": "Smartphones 2025 : Le Comparatif Définitif",
-    "link": "https://dev.to/metalya/smartphones-2025-le-comparatif-definitif-40h8",
-    "pubDate": "Wed, 10 Dec 2025 06:20:08 +0000",
+    "title": "📊 The 2025 Tech Stack Shake-Up: Why Next.js, Python & Postgres Are Taking Over the World 😉",
+    "link": "https://dev.to/usman_awan/the-2025-tech-stack-shake-up-why-nextjs-python-postgres-are-taking-over-the-world-4d6p",
+    "pubDate": "Wed, 10 Dec 2025 12:32:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Smartphones 2025 : L'Année de la Maturité Technologique\n\n\nSi les années précédentes ont été marquées par des évolutions incrémentales, 2025 restera dans l'histoire de la téléphonie mobile comme l'anné"
+    "contentSnippet": "🚀 Tech Stacks in 2025: The AI-Driven Evolution of Frontend, Backend, Databases & Full-Stack Development\n\n\n\n  \n  \n  🔑 Key Points Overview\n\n\n\n\nFrontend: Research suggests React continues to lead due t"
   },
   {
-    "title": "How to Send eSignature Documents from Bubble.io",
-    "link": "https://dev.to/boldsign/how-to-send-esignature-documents-from-bubbleio-aee",
-    "pubDate": "Wed, 10 Dec 2025 06:15:34 +0000",
+    "title": "Elegant and Meaningful Housewarming Gifts That Add Personality to Every New Home",
+    "link": "https://dev.to/smithwilliam/elegant-and-meaningful-housewarming-gifts-that-add-personality-to-every-new-home-52g",
+    "pubDate": "Wed, 10 Dec 2025 12:30:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In this step-by-step guide, I’ll guide you through the process of using BoldSign APIs in Bubble.io. This integration grants you access to a premium eSignature solution, achieved with minimal coding. W"
+    "contentSnippet": "When someone steps into a new home for the first time, they’re stepping into a new chapter one defined by comfort, identity, and a sense of belonging. The right gift should go beyond aesthetics; it sh"
   },
   {
-    "title": "Comment Faire des Photos Dignes d'un Pro avec un Smartphone ?",
-    "link": "https://dev.to/metalya/comment-faire-des-photos-dignes-dun-pro-avec-un-smartphone--kf1",
-    "pubDate": "Wed, 10 Dec 2025 06:15:02 +0000",
+    "title": "Fine-Tuning Llama 3 with PEFT",
+    "link": "https://dev.to/richard_abishai/fine-tuning-llama-3-with-peft-l3e",
+    "pubDate": "Wed, 10 Dec 2025 12:30:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Comment Faire des Photos Dignes d'un Pro avec un Smartphone ? (Le Guide Ultime)\n\n\nC'est une phrase que l'on entend souvent : \"Si seulement j'avais un meilleur appareil photo, je ferais de meilleures i"
+    "contentSnippet": "Efficient parameter tuning for smarter, faster large language models.\nFine-tuning large models like Llama 3 no longer means retraining billions of parameters.\n\nThanks to PEFT (Parameter-Efficient Fine"
   },
   {
-    "title": "How to Integrate Wearables (Fitbit, Apple Watch) in Fitness Apps",
-    "link": "https://dev.to/kamal_deeppareek_f5bb5d8/how-to-integrate-wearables-fitbit-apple-watch-in-fitness-apps-38oc",
-    "pubDate": "Wed, 10 Dec 2025 06:13:07 +0000",
+    "title": "Why AI Projects Will Struggle Even More in 2026 (And How Teams Can Get Ahead Now)",
+    "link": "https://dev.to/amanda_brooks_62bc9e0d44d/why-ai-projects-will-struggle-even-more-in-2026-and-how-teams-can-get-ahead-now-46nd",
+    "pubDate": "Wed, 10 Dec 2025 12:29:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The global fitness technology market is booming, and wearable devices like Fitbit, Apple Watch, Garmin, and Samsung Gear are leading this transformation. As users increasingly rely on real-time health"
+    "contentSnippet": "AI is growing fast, and 2026 is set to be an even bigger year for real world AI adoption. But with this growth comes a quiet problem that many teams are not prepared for. It is not model accuracy. It "
   },
   {
-    "title": "Comment Monter son PC Gamer de A à Z ?",
-    "link": "https://dev.to/metalya/comment-monter-son-pc-gamer-de-a-a-z--1nij",
-    "pubDate": "Wed, 10 Dec 2025 06:09:57 +0000",
+    "title": "Top 10 API Call Security Mistakes Developers Still Make in 2025",
+    "link": "https://dev.to/mridudixit15/top-10-api-call-security-mistakes-developers-still-make-in-2025-439p",
+    "pubDate": "Wed, 10 Dec 2025 12:29:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Comment Monter son PC Gamer de A à Z ? Le Guide Ultime pour ne rien casser (Édition 2025)\n\n\nIl y a un mythe tenace qui circule : monter son propre ordinateur serait une tâche réservée aux ingénieurs o"
+    "contentSnippet": "Introduction\n\n\nEven in 2025, API call security remains one of the biggest weaknesses in modern applications. With more frontend-heavy apps, more third-party integrations, and more public APIs, develop"
   },
   {
-    "title": "Comment Avoir un Wi-Fi Ultra-Rapide dans Toute la Maison ?",
-    "link": "https://dev.to/metalya/comment-avoir-un-wi-fi-ultra-rapide-dans-toute-la-maison--3d7k",
-    "pubDate": "Wed, 10 Dec 2025 06:04:51 +0000",
+    "title": "React2Shell: Understanding the Critical RCE Vulnerability in React Server Components (CVE-2025-55182)",
+    "link": "https://dev.to/scofieldidehen/react2shell-understanding-the-critical-rce-vulnerability-in-react-server-components-381p",
+    "pubDate": "Wed, 10 Dec 2025 12:28:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Comment Avoir un Wi-Fi Ultra-Rapide dans Toute la Maison ? Le Guide Définitif pour Tuer le Lag\n\n\nNous payons des forfaits Fibre coûteux pour des débits théoriques de 1 ou 2 Gbit/s. Pourtant, une fois "
+    "contentSnippet": "When a vulnerability shakes the entire web ecosystem, it is rarely because of something sophisticated. History shows that the most catastrophic exploits usually come from simple assumptions that devel"
   },
   {
     "title": "OpenAI、Google、MS、Anthropic、AWSらがAIエージェントの普及と相互運用を促進する団体「Agentic AI Foundation」（AAIF）設立。Linux Foundation傘下で",
@@ -75,6 +75,41 @@
     "pubDate": "2025-12-10T03:11:39.000Z",
     "source": "Publickey",
     "contentSnippet": "Linux Foundationは、Amazon Web Services（AWS）、Anthropic、Block、Bloomberg、Cloudflare、Google、Microsoft、OpenAIなどのプラチナメンバーによるAIエージェントの普及や開発、相互運用などを促進するための中立的な団体「Agentic AI Foundation」（AAIF）の設立を発表しました。 Agentic"
+  },
+  {
+    "title": "Vueユーザーから見るReact Tokyoコミュニティ",
+    "link": "https://zenn.dev/yamanoku/articles/react-tokyo-advent-calender-2025",
+    "pubDate": "Wed, 10 Dec 2025 01:00:01 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事はReact Tokyo Advent Calendar 2025の10日目の記事です。\n\nこんにちは、yamanokuです。本日はReact Tokyoのアドベントカレンダー企画ということで、コミュニティ参加者から見たReact Tokyoの取り組みの印象と考えてみたことについてを書いてみました。あくまでも、運営メンバーではなく一個人の解釈としてお読みいただけると幸いです。\nReac"
+  },
+  {
+    "title": "OpenAPIに設計を集約してドキュメントを一元管理する実践ガイド",
+    "link": "https://qiita.com/Mr_hana/items/432d83cf2df584c2e651?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T22:09:25.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nOpenAPIを用いてAPIファーストな開発を行っているとモックサーバーやコードの自動生成、テストの自動化など多くのメリットがあります。そうすると徐々に設計ドキュメントも一箇所にまとめたい欲求にかられます。\nもやもやポイント\n\nドキュメントの乖離 実装変更時に..."
+  },
+  {
+    "title": "あまり、法律を気にせずAIを使ってきたことに気付いた　〜今後ウォッチすべき情報ソースまで含めて考える〜",
+    "link": "https://qiita.com/Mikey/items/cb921d2079b761d3c1bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T22:06:57.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025 の10日目の記事です。\n昨日は@tr-10kさんの 「エンジニア未経験が1週間で生成AIを使って『毎日のToDoを自動生成してくれるタスク管理アプリ』を作ってみた」 という記事でした。\n同じ..."
+  },
+  {
+    "title": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」",
+    "link": "https://qiita.com/shota_hanawa/items/e242d826570e4292e388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T22:06:56.000Z",
+    "source": "Qiita",
+    "contentSnippet": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」\n\nはじめに\nこの記事では、AWS × dbt × Snowflake を用いたデータ基盤構築プロジェクトで、\n要件定義〜設計に4ヶ月、実装はわずか2週間 という、\n「いやバランスおかしくない？」という..."
+  },
+  {
+    "title": "一気通貫の意味を知れ！〜『ドメイン駆動設計をはじめよう』ではじめる業務分析〜",
+    "link": "https://qiita.com/krakazcyrano/items/973eb49bc06217cdee0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T22:03:47.000Z",
+    "source": "Qiita",
+    "contentSnippet": "この記事は Hubble Advent Calendar 2025 の10日目の記事です。\n\nはじめに\n2025年7月よりHubbleでバックエンドエンジニアをしている @krakazcyrano です。\n入社以来、Hubble の機能エンハンスを主なミッションとする Va..."
   },
   {
     "title": "「あなたが修正するのは自分だけのバグではない」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（後編）",
@@ -98,11 +133,25 @@
     "contentSnippet": "オープンソースの分散メッセージングシステムであるApache kafkaの作者らが立ち上げた企業であるConfluentを、IBMが買収することが発表されました。買収額は110億ドル（1ドル150円換算で約1兆6500億円）です。 IBMはこれによりエンタープライズ向けのデータプラットフォームの強化を目論みます。 We are excited that Confluent has entered "
   },
   {
+    "title": "cspsc - 実はプリンタは計算機だったのかもしれない",
+    "link": "https://qiita.com/tmyt/items/994d1552497dd5202aa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T15:01:59.000Z",
+    "source": "Qiita",
+    "contentSnippet": "tl;dr\n\nC#のサブセットを定義した。そしてRoslynを活用してPostScriptへのコンパイラを実装した\nコンパイラサービスをHTTPで実装し、Cloudflare Containersで公開した\nプリンタは貴重な計算資源！ご家庭のプリンタにもっと計算させよう！..."
+  },
+  {
     "title": "3年ぶりにアプリをアップデートしたことの振り返り",
     "link": "https://zenn.dev/naoya_maeda/articles/af86652c1ba611",
     "pubDate": "Tue, 09 Dec 2025 15:00:02 GMT",
     "source": "Zenn",
     "contentSnippet": "本記事は、『エンジニアと人生 Advent Calendar 2025』10日目の記事です。\nhttps://adventar.org/calendars/12244\n本記事では、僕が約3年ぶりにアプリをアップデートしたことについて振り返っています。\n前半では、個人開発を始めたきっかけや現在リリースしているアプリの紹介を、後半では今回アップデートしたアプリの開発内容や振り返りをまとめています。技術"
+  },
+  {
+    "title": "Claude Codeプラグインを社内で作って、2ヶ月経過した",
+    "link": "https://zenn.dev/ubie_dev/articles/5c510ab1d7e6f3",
+    "pubDate": "Tue, 09 Dec 2025 14:57:03 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、Ubieでソフトウェアエンジニアをしているshirajiです。\n(ちょっとここ1,2週間年内リリースするものが立て込んでて、なぜ12/9担当になったのか？と後悔してます。残り1時間で12/10です。)\nこの記事は、Ubie Advent Calendar 2025 の12/9の記事です。\nClaude Codeって便利ですよね。ここ最近compactの頻度が激しくて、ちょっと乗り換えか"
   },
   {
     "title": "ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager",
@@ -112,11 +161,32 @@
     "contentSnippet": "LayerX Tech Advent Calendar 2025の9日目の記事です。\nバクラク事業部 ソフトウェアエンジニアの @upamune です。\n今日は、ローカル開発のシークレット設定をいい感じにした話をします。\n\n\n ローカル開発環境のシークレット設定、手動でやっていませんか？\n「シークレットは1Passwordにあるので設定してください」\n開発環境のセットアップでこのようなことを言った"
   },
   {
+    "title": "コードミスで自社メールサーバーを受信不能にした話",
+    "link": "https://qiita.com/tampopo256/items/f70bdbb84c9d50959888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T05:33:03.000Z",
+    "source": "Qiita",
+    "contentSnippet": "コードミスで自社メールサーバーを受信不能にした話\n― たった4行を書かなかったせいで会社のメールが全滅した ―\nこの記事は\n本番環境などでやらかしちゃった人 Advent Calendar 2025\nの 9日目 の記事です。\n今回は、\n「4行の if 文を入れ忘れた結果、..."
+  },
+  {
+    "title": "Tailscaleを社内VPNとして採用できるかという観点で試してみた",
+    "link": "https://qiita.com/ryoma-debari/items/225bb4843510619a2f64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T05:15:01.000Z",
+    "source": "Qiita",
+    "contentSnippet": "💻 TailscaleというVPNを試してみた\nこの記事は一休.com Advent Calendar 2025の6日目の記事です。\n\n一休の情シスで社内ネットワークを担当している出張です。この記事ではTailscaleという製品についてお話ししたいと思います。\n\n..."
+  },
+  {
     "title": "マネジメントを知らないエンジニアが本を読んで感じたこと",
     "link": "https://zenn.dev/studist/articles/newbie-management-learn",
     "pubDate": "Tue, 09 Dec 2025 03:00:00 GMT",
     "source": "Zenn",
     "contentSnippet": "はじめに\nTeachme Player開発チームの山川 (@jyamakawa) です。\n私たちのチームでは今年だけでも2人のメンバーが新しく加わりました。\nそれに伴い、入社オンボーディングやプロジェクト参画・コードベース理解の支援など、コーディング以外の業務を担うことが増えてきました。\nコードを書く以外のことはあまりやってこないで仕事をしてきましたが、エンジニアであれば「必要なのであれば学ぶ」姿"
+  },
+  {
+    "title": "10年前の自分に捧ぐ進化の石：縛りプレイをやめよう",
+    "link": "https://zenn.dev/coconala/articles/5b39d5f5804e76",
+    "pubDate": "Tue, 09 Dec 2025 01:17:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは！\n株式会社ココナラの 大瀧貢です。\nデータやAIと向き合う世界で奮闘すること10年、何度か「非連続的な成長を遂げたな」と自分自身で感じた瞬間がありました。\n私自身は経験から学んでしまった部分も多いのですが、 「10年前の自分が読んだら、成長に必要な経験値をカットできたかもな」と思える考え方を記事としてまとめてみます。\n読んだ方が悩みを解決し、明日から望む自分になれる...「進化の石のよ"
   },
   {
     "title": "Cap'n Webについて",
@@ -133,20 +203,6 @@
     "contentSnippet": "この記事はJapan AWS Top Engineers Advent Calendar 2025のDay9 の記事です。\nhttps://qiita.com/advent-calendar/2025/aws-top-engineers\n\n 対象読者\n\n\nAmazon Web Services（AWS）でバックアップ戦略を検討している方\n\n\nランサムウェア対策としてのバックアップ設計を検討している"
   },
   {
-    "title": "設定ファイルの変更を横着して、普段と違うテキストエディタを使った結果",
-    "link": "https://qiita.com/xx_mana/items/530a4ef34f1d21410d2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T22:10:02.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは。\n本番環境などでやらかしちゃった人 Advent Calendar 2025\nhttps://qiita.com/advent-calendar/2025/yarakashi\n私も長年システムに携わるにあたって、それなりにやらかしてしまうこと、ありま..."
-  },
-  {
-    "title": "Google CloudのロードバランサーとCDNのコスト計算で困った話",
-    "link": "https://qiita.com/yurikashiwagi/items/657e8645fe316942022d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T22:07:19.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1.はじめに\n本記事では、Google CloudのCloud Load BalancingとCloud CDNのランニングコストを計算するときに、間違えた点と料金計算ツールが何を計算しているのか、を記載します。\n本記事は、Googleの方に質問した回答をもとに記載してい..."
-  },
-  {
     "title": "良いコードとは ~ 具体的にどう実装するの ~",
     "link": "https://qiita.com/yusuke_ando_vj/items/7c3ae472d2ab37001144?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-08T22:06:42.000Z",
@@ -154,25 +210,11 @@
     "contentSnippet": "前置き\n初めてQiitaに投稿しました。。\nせっかく書くなら汎用性高そうな題材がいいかなと思い\n色々まとめていたら長文となってしまいました笑\n最後まで読んでいただけると嬉しいです！\n※ 全く関係ないですが、仙台に来たらぜひ喜久福、エキソンパイを購入してください！！\nほっ..."
   },
   {
-    "title": "PoCやディープダイブから学んだ喜びの源泉",
-    "link": "https://qiita.com/takaaki-maeda6/items/8e3b6d19c0d9779ef342?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T22:05:46.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこんにちは、anyプロダクトチームでPdMをしているmaedaです！\n今年もアドベントカレンダーの季節がやってきました🎄\nこの記事は、anyプロダクトチームAdventCalendar2025、9日目の記事となります。\n\nQastの開発について\n\n早速です..."
-  },
-  {
     "title": "TypeScriptエラーハンドリング進化の軌跡",
     "link": "https://qiita.com/touka-io/items/2a75c0558e3b206c7433?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-08T22:03:56.000Z",
     "source": "Qiita",
     "contentSnippet": "こんにちは、関数型プログラミングを嗜んでいるフルスタックエンジニアのトウカです。アドベントカレンダー初参加なので、温かい目で読んでいただけると幸いです。\n\nはじめに\n皆さんはこんな経験ありませんか？本番環境で突然アプリがクラッシュ。ログを見ると TypeError: Can..."
-  },
-  {
-    "title": "AI駆動でFlutter開発を行ったときに得意だと思ったこと。不得意だと思ったこと。",
-    "link": "https://qiita.com/namatya/items/78e6583a3980a1f8ad37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T20:46:13.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n元々日常使いでは、ChatGPTを利用していたのですが、自社プロジェクトでClaude Codeを使用する機会があり\n大きなプロジェクトでも、開発でClaudeCodeを利用しています。そのときに思ったAI自動化楽だったなってところと、ここはAIに任せるより、自..."
   },
   {
     "title": "新しい相関係数の理論的性質",
@@ -196,39 +238,11 @@
     "contentSnippet": "!\nこの記事は Bitkey Developers Advent Calendar 2025 の 9 日目です．\n\n!\nこの記事は情報の提供のみを目的としています．この方法を用いたことにより発生したいかなる損害について，私および弊社は責任を負いません．\n\n\n はじめに\n弊社ビットキーでは，フロントエンドはもちろんのこと，バックエンドに至るまで TypeScript を活用しています．言語を統一する"
   },
   {
-    "title": "音声合成の日本語化手法が一般化した話",
-    "link": "https://zenn.dev/mkj/articles/0576d194771c08",
-    "pubDate": "Mon, 08 Dec 2025 15:00:06 GMT",
-    "source": "Zenn",
-    "contentSnippet": "株式会社松尾研究所で働いている栗原です。本記事は、松尾研究所 Advent Calendar 2025の記事です。\n!\n入社エントリーに記載しましたが、この記事ではAI日本語音声合成について解説していきます。音声合成について、知識が無くても読めるようにしています。テックブログという事もあり、フランクに書いています。\n\n\n はじめに\n日本語音声合成は、ディープラーニングを用いた音声合成手法が登場して"
-  },
-  {
-    "title": "バンドラー 2025 まとめ | まだ \"vite\" 使ってるの？",
-    "link": "https://zenn.dev/nakasyou/articles/give_up_vite",
-    "pubDate": "Mon, 08 Dec 2025 13:08:35 GMT",
-    "source": "Zenn",
-    "contentSnippet": "未踏ジュニア Advent Calendar 2025 の記事です。\nhttps://adventar.org/calendars/11697\n\n 対象読者\n\nJS のバンドラーやツールチェーンに興味がある人\n今年の歴史を振り返りたい人\nツールチェーンを選定したい人\n\n\n 背景\n今年は未踏ジュニアという U-18 のクリエイター支援プログラムで Web ベースの画像編集アプリケーションを作成してい"
-  },
-  {
-    "title": "低レイヤー開発者が注目すべきRustのアップデート 2025年版",
-    "link": "https://zenn.dev/garasubo/articles/cfcf8bb6a16dca",
-    "pubDate": "Mon, 08 Dec 2025 11:30:37 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事はRust Advent Calendar 2025の8日目の記事です。\nRustの言語機能は6週間ごとに新バージョンがリリースされています。\n私はアップデートのたびに勝手にリリースパーティというイベントでアップデートの内容を解説しています。\nhttps://estie.connpass.com/event/373737/\n今年は1.84.0から1.91.0までリリースされています。それぞ"
-  },
-  {
     "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
     "link": "https://qiita.com/watanabe_masaru/items/a37506c1acda0307d8aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-08T04:34:09.000Z",
     "source": "Qiita",
     "contentSnippet": "SapeetでSWEをやっている渡辺です。\n最近は社内メンバーとARC Raidersにハマっています。\n自分も自作ARC（機械生命体）を作ってみたいと思い、Artificial Life（人工生命）に興味を持ちました（）。\n\nなぜ今 ALIFEなのか\nALIFE（Arti..."
-  },
-  {
-    "title": "エンジニア未経験が1週間で生成AIを使って「毎日のToDoを自動生成してくれるタスク管理アプリ」を作ってみた",
-    "link": "https://qiita.com/tr-10k/items/e5a93587d08aac103f1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T02:16:39.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025 の9日目の記事です。\n昨日は @mossan_hoshi さんの 「AIコーディングの極意 ～AIは〇〇と思え～」 という記事でした。\nAIが全部やってくれる時代ではなく、AIと協働する時代..."
   },
   {
     "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",
@@ -243,20 +257,6 @@
     "pubDate": "2025-12-07T15:34:09.000Z",
     "source": "Publickey",
     "contentSnippet": "JetBrainsは、AIエージェントをどのコードエディタでも使えるようにすることを目指す業界標準「ACP（Agent Client Protocol）」を、同社のコードエディタ製品群JetBrains IDEsでベータ版として実装したことを明らかにしました。 Integrating the agent you want into the IDE you love should be effort"
-  },
-  {
-    "title": "よく使うサクラエディタ便利機能紹介",
-    "link": "https://qiita.com/sato_3/items/4df102692aa2e0f61213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T22:04:42.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n最近私がサクラエディタを使っているところを見て、「そんな機能あったんだ！」と驚かれることが何度かありました。\nそこで意外とサクラエディタを使いこなしている人って少ないのでは、と思ったので今回は個人的に仕事でよく使っている機能を紹介します。\n\n矩形選択\naltキー..."
-  },
-  {
-    "title": "【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた",
-    "link": "https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T22:04:28.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n生まれたばかりの赤ちゃんは、まだ言葉を知らない。\n代わりに泣くことで、世界と会話しようとする。\nでも、その\"言葉\"を聞き取るのが、想像以上に難しい。\n眠いのか、お腹がすいたのか、ただ抱きしめてほしいだけなのか。\n毎回ゼロから推理ゲームが始まる。\n夜中の3時。\n泣..."
   },
   {
     "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",

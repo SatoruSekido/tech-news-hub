@@ -1,73 +1,73 @@
 [
   {
-    "title": "Day 13 : Understanding Terraform Data Sources Like a Human, Not a Robot",
-    "link": "https://dev.to/alafiz/day-13-understanding-terraform-data-sources-like-a-human-not-a-robot-4p04",
-    "pubDate": "Tue, 09 Dec 2025 18:25:17 +0000",
+    "title": "My Playbook: Turning Personal Productivity Into Global Leverage",
+    "link": "https://dev.to/jaideepparashar/my-playbook-turning-personal-productivity-into-global-leverage-4lad",
+    "pubDate": "Wed, 10 Dec 2025 02:06:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today’s session was one of those “lightbulb days” in Terraform the point where things finally click. Day 13 was all about Terraform Data Sources and honestly, this is one of the core concepts that sep"
+    "contentSnippet": "For most people, productivity is about doing more tasks in less time.\nFor me, productivity is about something very different:\nHow one person’s effort can create results at a global scale.\nThat shift, "
   },
   {
-    "title": "True Parallelism in R Using the parallel Package",
-    "link": "https://dev.to/dipti_moryani_08e62702314/true-parallelism-in-r-using-the-parallel-package-1m0i",
-    "pubDate": "Tue, 09 Dec 2025 18:23:18 +0000",
+    "title": "How to Auto-Generate Open Graph Images for Your Blog (No Design Skills Needed)",
+    "link": "https://dev.to/malachi_stark_/how-to-auto-generate-open-graph-images-for-your-blog-no-design-skills-needed-2lca",
+    "pubDate": "Wed, 10 Dec 2025 01:39:38 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern computers no longer rely on a single processor. Most laptops and servers today ship with multi-core CPUs and large amounts of memory. Yet, many R scripts still run sequentially—using only a fra"
+    "contentSnippet": "You know those preview cards that show up when you share a link on Twitter or LinkedIn? Those are Open Graph images, and they can make or break your click-through rate.\nBut making them manually in Fig"
   },
   {
-    "title": "Day 9: Spark SQL Deep Dive - Temp Views, Query Execution & Optimization Tips for Data Engineers",
-    "link": "https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh",
-    "pubDate": "Tue, 09 Dec 2025 18:18:30 +0000",
+    "title": "Why Your DIY LED Strips Die Too Soon (And My $15 Fix That Lasted 2 Years)",
+    "link": "https://dev.to/emma-suntech/why-your-diy-led-strips-die-too-soon-and-my-15-fix-that-lasted-2-years-2ln4",
+    "pubDate": "Wed, 10 Dec 2025 01:36:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome to Day 9 of the Spark Mastery Series!\nEven if you're a Python engineer, SQL is STILL the easiest and fastest way to express business logic. Spark SQL allows you to use familiar SQL syntax whil"
+    "contentSnippet": "Hey makers,\nHeat Buildup: 60 LEDs/m drawing 12A peaks? Junction temps hit 85°C without sinks. Data: Ambient 25°C → strip temp 62°C after 1hr (measured with MLX90614 IR sensor).\nQuick fix math: For a 5"
   },
   {
-    "title": "I built an AI-powered Portfolio Tracker",
-    "link": "https://dev.to/julienesn/i-built-an-ai-powered-portfolio-tracker-2oen",
-    "pubDate": "Tue, 09 Dec 2025 18:16:43 +0000",
+    "title": "day3: kube controller manager",
+    "link": "https://dev.to/cattkaizen/day3-kube-controller-manager-4gfh",
+    "pubDate": "Wed, 10 Dec 2025 01:34:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hello devs! \nI've been tracking my investments in Excel for years, but manual entry was killing me. So I decided to build my own \"Bloomberg Terminal\" for personal finance.\nMost portfolio apps require "
+    "contentSnippet": "The Kube Controller Manager manages the various controllers in Kubernetes.\nControllers are:\nA controller is a process that continually monitors the state of various components within the system, and i"
   },
   {
-    "title": "Fixing \"Network Error\" in React Native When Connecting to QA Servers with HTTPS",
-    "link": "https://dev.to/iraycd/fixing-network-error-in-react-native-when-connecting-to-qa-servers-with-https-56d6",
-    "pubDate": "Tue, 09 Dec 2025 18:14:04 +0000",
+    "title": "Shadcn Builder: No-Code Form Generator for React",
+    "link": "https://dev.to/jqueryscript/shadcn-builder-no-code-form-generator-for-react-3ohf",
+    "pubDate": "Wed, 10 Dec 2025 01:31:37 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You're developing a React Native app using React Native CLI, testing on a physical device, and trying to connect to your QA server (like https://qa.example.com/api/). You keep getting this frustrating"
+    "contentSnippet": "Shadcn Builder: A visual form builder that exports clean React + TypeScript code\nBuilt for developers who work with shadcn/ui and want to skip repetitive form setup. \nDrag components onto a canvas, co"
   },
   {
-    "title": "💥 When Your Game Plays YOU: The Algorithm Behind Marvel Rivals",
-    "link": "https://dev.to/blaze_faisal/when-your-game-plays-you-the-algorithm-behind-marvel-rivals-1efj",
-    "pubDate": "Tue, 09 Dec 2025 18:13:50 +0000",
+    "title": "How to Install Z-Image Turbo Locally",
+    "link": "https://dev.to/hugh1st/how-to-install-z-image-turbo-locally-4aa8",
+    "pubDate": "Wed, 10 Dec 2025 01:30:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Gamers… gather around.\n\n\nIf you’ve ever won 4 games in a row and then suddenly got slapped harder than a level-1 enemy in Elden Ring…\nIf your win rate magically floats around 50% no matter what…\n\n*Con"
+    "contentSnippet": "This guide explains how to set up Z-Image Turbo on your local machine. This powerful model uses a 6B-parameter architecture to generate high-quality images with exceptional text rendering capabilities"
   },
   {
-    "title": "Boosting Authorization Rates: Partnering Strategies and Intelligent Retries",
-    "link": "https://dev.to/rapyd/boosting-authorization-rates-partnering-strategies-and-intelligent-retries-5all",
-    "pubDate": "Tue, 09 Dec 2025 18:13:02 +0000",
+    "title": "OptWin 1.1 release announcement - Optimize Windows",
+    "link": "https://dev.to/ahmetly_/optwin-11-release-announcement-optimize-windows-48dc",
+    "pubDate": "Wed, 10 Dec 2025 01:28:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "By: Adeyinka Adegbenro\nAuthorization rates measure the ratio of successful payments to total attempts. For instance, if a merchant processes one hundred payments and seventy of them are successful, th"
+    "contentSnippet": "I just shipped OptWin 1.1, an updated version of my free and fully open-source web app that generates custom Windows optimization scripts based on user-selected tweaks.\nWhat’s new in OptWin 1.1\n• Clea"
   },
   {
-    "title": "🚀 Breaking the Blockade: How We Taught Kafka to \"Speak\" Like a Synchronous API",
-    "link": "https://dev.to/sara_yona_f2c0fc36f1392c8/breaking-the-blockade-how-we-taught-kafka-to-speak-like-a-synchronous-api-4jho",
-    "pubDate": "Tue, 09 Dec 2025 18:10:06 +0000",
+    "title": "Setting up ALS (Ada Language Server) for Sublime Text",
+    "link": "https://dev.to/sabedoesthings/setting-up-als-ada-language-server-for-sublime-text-10m8",
+    "pubDate": "Wed, 10 Dec 2025 01:24:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Imagine the situation: Our system, let's call it \"BSDFlow\", is a modern, impressive Event-Driven monster. Everything happens asynchronously, reliably, and scalably through Kafka. Every entity creation"
+    "contentSnippet": "Installing the Ada Language Server\n\n\nFirst you want to download the Ada Language Server. Where you can get here and download for which operating system you have.\nNow you need to add it to your PATH. F"
   },
   {
-    "title": "Why I Chose Monorepo: From Copy-Paste Hell to 2.8s Builds",
-    "link": "https://dev.to/saswatapal/why-i-chose-monorepo-from-copy-paste-hell-to-28s-builds-5b2h",
-    "pubDate": "Tue, 09 Dec 2025 18:09:28 +0000",
+    "title": "Introducing Claude Code Documentation Standards: Automated Documentation with Built-in Linting",
+    "link": "https://dev.to/nasrulhazim/introducing-claude-code-documentation-standards-automated-documentation-with-built-in-linting-51c",
+    "pubDate": "Wed, 10 Dec 2025 01:23:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Why I Chose Monorepo: From Copy-Paste Hell to 2.8s Builds\n\n\nFriday, 11:47 PM. Portfolio site: white screen. Button component broke.\nI'd updated the variant prop in my UI library repo. Pushed it. Forgo"
+    "contentSnippet": "Keeping documentation tidy, readable, and easy to navigate shouldn’t feel like a chore. But in most projects, it eventually becomes one. Different people write differently, folders get messy, and soon"
   },
   {
-    "title": "What if claude-code lived inside your browser?",
-    "link": "https://dev.to/alentodorov/what-if-claude-code-lived-inside-your-browser-2e2h",
-    "pubDate": "Tue, 09 Dec 2025 17:59:56 +0000",
+    "title": "Building a shadcn/ui Style Component Library for Korean Government Design System",
+    "link": "https://dev.to/odada-o/building-a-shadcnui-style-component-library-for-korean-government-design-system-4fle",
+    "pubDate": "Wed, 10 Dec 2025 01:16:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’ve built a browser extension that allows you to theme your visited websites just by prompting. It takes your request and uses openai’s codex-mini to generate the JS and CSS needed to apply the chang"
+    "contentSnippet": "shadcn/ui changed how we think about component libraries. Instead of installing a package, you copy the source code into your project. You own it. You customize it.\nI built HANUI using the same approa"
   },
   {
     "title": "「あなたが修正するのは自分だけのバグではない」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（後編）",
@@ -91,6 +91,13 @@
     "contentSnippet": "オープンソースの分散メッセージングシステムであるApache kafkaの作者らが立ち上げた企業であるConfluentを、IBMが買収することが発表されました。買収額は110億ドル（1ドル150円換算で約1兆6500億円）です。 IBMはこれによりエンタープライズ向けのデータプラットフォームの強化を目論みます。 We are excited that Confluent has entered "
   },
   {
+    "title": "マネジメントを知らないエンジニアが本を読んで感じたこと",
+    "link": "https://zenn.dev/studist/articles/newbie-management-learn",
+    "pubDate": "Tue, 09 Dec 2025 03:00:00 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nTeachme Player開発チームの山川 (@jyamakawa) です。\n私たちのチームでは今年だけでも2人のメンバーが新しく加わりました。\nそれに伴い、入社オンボーディングやプロジェクト参画・コードベース理解の支援など、コーディング以外の業務を担うことが増えてきました。\nコードを書く以外のことはあまりやってこないで仕事をしてきましたが、エンジニアであれば「必要なのであれば学ぶ」姿"
+  },
+  {
     "title": "Cap'n Webについて",
     "link": "https://zenn.dev/yusukebe/articles/3c18e280eaa490",
     "pubDate": "Tue, 09 Dec 2025 00:03:58 GMT",
@@ -98,11 +105,39 @@
     "contentSnippet": "Cap'n Webが面白いのでその紹介です。\n\n Cap'n Web概要\nCap'n WebはJavaScriptネイティブなRPCの実装でcapnwebというnpmライブラリが提供されています。作者がCloudflare Workersを作ったKentonなんで注目しています。実際レポジトリもCloudflareのorgにあります。\nhttps://github.com/cloudflare/c"
   },
   {
+    "title": "ランサムウェア対策としてのバックアップ戦略＠AWS",
+    "link": "https://zenn.dev/nttdata_tech/articles/aws-backup-ransomware-321110",
+    "pubDate": "Mon, 08 Dec 2025 22:13:17 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事はJapan AWS Top Engineers Advent Calendar 2025のDay9 の記事です。\nhttps://qiita.com/advent-calendar/2025/aws-top-engineers\n\n 対象読者\n\n\nAmazon Web Services（AWS）でバックアップ戦略を検討している方\n\n\nランサムウェア対策としてのバックアップ設計を検討している"
+  },
+  {
+    "title": "設定ファイルの変更を横着して、普段と違うテキストエディタを使った結果",
+    "link": "https://qiita.com/xx_mana/items/530a4ef34f1d21410d2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T22:10:02.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは。\n本番環境などでやらかしちゃった人 Advent Calendar 2025\nhttps://qiita.com/advent-calendar/2025/yarakashi\n私も長年システムに携わるにあたって、それなりにやらかしてしまうこと、ありま..."
+  },
+  {
     "title": "Google CloudのロードバランサーとCDNのコスト計算で困った話",
     "link": "https://qiita.com/yurikashiwagi/items/657e8645fe316942022d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-08T22:07:19.000Z",
     "source": "Qiita",
     "contentSnippet": "1.はじめに\n本記事では、Google CloudのCloud Load BalancingとCloud CDNのランニングコストを計算するときに、間違えた点と料金計算ツールが何を計算しているのか、を記載します。\n本記事は、Googleの方に質問した回答をもとに記載してい..."
+  },
+  {
+    "title": "良いコードとは ~ 具体的にどう実装するの ~",
+    "link": "https://qiita.com/yusuke_ando_vj/items/7c3ae472d2ab37001144?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T22:06:42.000Z",
+    "source": "Qiita",
+    "contentSnippet": "前置き\n初めてQiitaに投稿しました。。\nせっかく書くなら汎用性高そうな題材がいいかなと思い\n色々まとめていたら長文となってしまいました笑\n最後まで読んでいただけると嬉しいです！\n※ 全く関係ないですが、仙台に来たらぜひ喜久福、エキソンパイを購入してください！！\nほっ..."
+  },
+  {
+    "title": "PoCやディープダイブから学んだ喜びの源泉",
+    "link": "https://qiita.com/takaaki-maeda6/items/8e3b6d19c0d9779ef342?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T22:05:46.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこんにちは、anyプロダクトチームでPdMをしているmaedaです！\n今年もアドベントカレンダーの季節がやってきました🎄\nこの記事は、anyプロダクトチームAdventCalendar2025、9日目の記事となります。\n\nQastの開発について\n\n早速です..."
   },
   {
     "title": "TypeScriptエラーハンドリング進化の軌跡",
@@ -140,6 +175,13 @@
     "contentSnippet": "!\nこの記事は Bitkey Developers Advent Calendar 2025 の 9 日目です．\n\n!\nこの記事は情報の提供のみを目的としています．この方法を用いたことにより発生したいかなる損害について，私および弊社は責任を負いません．\n\n\n はじめに\n弊社ビットキーでは，フロントエンドはもちろんのこと，バックエンドに至るまで TypeScript を活用しています．言語を統一する"
   },
   {
+    "title": "音声合成の日本語化手法が一般化した話",
+    "link": "https://zenn.dev/mkj/articles/0576d194771c08",
+    "pubDate": "Mon, 08 Dec 2025 15:00:06 GMT",
+    "source": "Zenn",
+    "contentSnippet": "株式会社松尾研究所で働いている栗原です。本記事は、松尾研究所 Advent Calendar 2025の記事です。\n!\n入社エントリーに記載しましたが、この記事ではAI日本語音声合成について解説していきます。音声合成について、知識が無くても読めるようにしています。テックブログという事もあり、フランクに書いています。\n\n\n はじめに\n日本語音声合成は、ディープラーニングを用いた音声合成手法が登場して"
+  },
+  {
     "title": "バンドラー 2025 まとめ | まだ \"vite\" 使ってるの？",
     "link": "https://zenn.dev/nakasyou/articles/give_up_vite",
     "pubDate": "Mon, 08 Dec 2025 13:08:35 GMT",
@@ -152,6 +194,13 @@
     "pubDate": "Mon, 08 Dec 2025 11:30:37 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事はRust Advent Calendar 2025の8日目の記事です。\nRustの言語機能は6週間ごとに新バージョンがリリースされています。\n私はアップデートのたびに勝手にリリースパーティというイベントでアップデートの内容を解説しています。\nhttps://estie.connpass.com/event/373737/\n今年は1.84.0から1.91.0までリリースされています。それぞ"
+  },
+  {
+    "title": "$1で最大8時間の動画を話者分離・文字起こし・LLM分析するAWSパイプラインを作った",
+    "link": "https://zenn.dev/ekusiadadus/articles/ek-transcript-stepfunctions-1dollar",
+    "pubDate": "Mon, 08 Dec 2025 08:10:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "TL;DR\n\n\n月額固定費 約$2（Secrets Manager + ECR + ログ）で話者分離付き文字起こしパイプラインを構築\n\nAWS Step Functions + Lambda のフルサーバーレス構成\n\npyannote.audio 3.1 で話者分離、faster-whisper で文字起こし、gpt-5-mini でLLM分析\n8時間の動画処理が 約$2.3（x86、無料枠なし）"
   },
   {
     "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
@@ -175,27 +224,6 @@
     "contentSnippet": "この記事は 実践で フル AI コーディングするための考え方とノウハウを凝縮したものです。筆者が持ってるノウハウはほぼ全て書いたつもりです。\nAlgomatic アドベントカレンダー 12/8 です。\nhttps://note.com/algomatic_oa/m/mf9dd319ea130\nこの記事は、必要となる前提知識・考え方と、実践ノウハウと、AI デトックスについての三段構成になっています"
   },
   {
-    "title": "「その処理、本当に並列ですか？」Node.js, Python, Ruby, Goで踏み抜くCPUバウンドの罠",
-    "link": "https://zenn.dev/hacobell_dev/articles/learning-multithreading-in-several-languages",
-    "pubDate": "Mon, 08 Dec 2025 00:30:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は「Hacobell Developers Advent Calendar」ー 8日目の記事です。\n\n はじめに\n「あの言語の並行処理って、結局どう動くんだっけ？」\n日々の開発業務に追われる中で、ふと立ち止まってしまうことはありませんか？現代のアプリケーション開発において、マルチコアCPUの性能を最大限に引き出し、ユーザーに快適なレスポンスを返すために並行処理の理解は不可欠です。\nしかし、"
-  },
-  {
-    "title": "美しいLinuxデスクトップで開発をしませんか？",
-    "link": "https://zenn.dev/kiku_sui/articles/31e599360be2db",
-    "pubDate": "Mon, 08 Dec 2025 00:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "初めまして、株式会社mikan Backendエンジニアのkikusuiと申します。\nmikan Advent Calendarの8日目を担当させてもらいます。\n前日は弊社バックエンドエンジニアの和田さんがデータベースのパフォーマンス周りに関して素晴らしい記事を上げてくださっていましたが、自分は技術観点ではありつつ趣味に振り切った記事にしようと思います。\nhttps://adventar.org/"
-  },
-  {
-    "title": "検証用お手軽ActiveDirectory環境をぽちぽちつくろう",
-    "link": "https://zenn.dev/ochandayo/articles/8f6ce02ccce94b",
-    "pubDate": "Sun, 07 Dec 2025 15:45:18 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こちらはYuruvent Advent Calendar 2025 7日目の記事です☃️\n\n はじめに\n用意されたものを触るのもいいですが、自分で用意することで新しい気付きがあったりします。\nまた、PowerShellやAnsibleを使えば楽ではありますがGUIでぽちぽちすることで「なんだこの項目」みたいな寄り道が発生したりして楽しかったりします。\nということで、Lets’ ぽちぽち！\n\n 想定"
-  },
-  {
     "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",
     "link": "https://www.publickey1.jp/blog/25/vercelwebvercel_for_platformsvercelsaas.html",
     "pubDate": "2025-12-07T15:35:40.000Z",
@@ -210,27 +238,6 @@
     "contentSnippet": "JetBrainsは、AIエージェントをどのコードエディタでも使えるようにすることを目指す業界標準「ACP（Agent Client Protocol）」を、同社のコードエディタ製品群JetBrains IDEsでベータ版として実装したことを明らかにしました。 Integrating the agent you want into the IDE you love should be effort"
   },
   {
-    "title": "Go 1.26で生まれ変わるimage/jpegパッケージ",
-    "link": "https://zenn.dev/koya_iwamura/articles/c47b41bd7459a7",
-    "pubDate": "Sun, 07 Dec 2025 15:20:39 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\n本記事は Go Advent Calendar 2025 の7日目の記事です\n\n2026年2月リリース予定のGo 1.26で、image/jpegパッケージの内部実装が大きく更新されます。この変更により後方互換性が崩れることはほぼないのですが、その裏側には興味深い変更が加えられていました。\n本記事では、image/jpegパッケージがなぜ更新されるのか、何が改善されるのかを紹介します。\n\n ラ"
-  },
-  {
-    "title": "メールサーバーを爆撃して部門長宛のメールを消失させた話",
-    "link": "https://qiita.com/infinity0206/items/7c2114370ba49a3dab85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-07T09:39:35.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事は「本番環境などでやらかしちゃった人 Advent Calendar 2025」の8日目です。\n\nはじめに\n今日は、新卒1年目のときに“激ヤバプログラム”をリリースしてしまい、メールサーバー爆撃機になった話をします。\n7年前の記憶を辿っているので多少脚色があるかもし..."
-  },
-  {
-    "title": "あえて100点より90点を目指す：UIデザインにおける視覚調整の考え方",
-    "link": "https://qiita.com/kskwtnk/items/727adbad00d962cf1abb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T22:08:56.000Z",
-    "source": "Qiita",
-    "contentSnippet": "概要\nグラフィックデザインの文脈でよく共有される視覚調整のTips、見たことある人も多いのではないでしょうか。\n\n「形状の違うもの、例えば四角・円・三角を並べるとき、円と三角は余白を詰めて少し大きくした方が視覚的に揃って見える」\nこれはグラフィックデザインでは正しいテクニ..."
-  },
-  {
     "title": "よく使うサクラエディタ便利機能紹介",
     "link": "https://qiita.com/sato_3/items/4df102692aa2e0f61213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-06T22:04:42.000Z",
@@ -243,13 +250,6 @@
     "pubDate": "2025-12-06T22:04:28.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n生まれたばかりの赤ちゃんは、まだ言葉を知らない。\n代わりに泣くことで、世界と会話しようとする。\nでも、その\"言葉\"を聞き取るのが、想像以上に難しい。\n眠いのか、お腹がすいたのか、ただ抱きしめてほしいだけなのか。\n毎回ゼロから推理ゲームが始まる。\n夜中の3時。\n泣..."
-  },
-  {
-    "title": "SQLアンチパターンを根本から理解する：実務で遭遇した“DBが泣く”5つのNGクエリと改善策",
-    "link": "https://qiita.com/Shiro_Shihi/items/b1b582c4528c5dd802f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T15:54:14.000Z",
-    "source": "Qiita",
-    "contentSnippet": "本番環境でデータ量が増えた瞬間、アプリケーションが突然重くなる\nすべてのエンジニアが一度は直面するこの悪夢。その原因の多くは “気づかぬうちにDBを苦しめているSQL” です。\nこの記事では、実務で特に被害が大きかった 5つの致命的なSQLアンチパターン と、追加で バッ..."
   },
   {
     "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",

@@ -1,73 +1,80 @@
 [
   {
-    "title": "My Playbook: Turning Personal Productivity Into Global Leverage",
-    "link": "https://dev.to/jaideepparashar/my-playbook-turning-personal-productivity-into-global-leverage-4lad",
-    "pubDate": "Wed, 10 Dec 2025 02:06:05 +0000",
+    "title": "La Création Web : Du Concept à la Conversion",
+    "link": "https://dev.to/metalya/la-creation-web-du-concept-a-la-conversion-4gmb",
+    "pubDate": "Wed, 10 Dec 2025 06:35:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For most people, productivity is about doing more tasks in less time.\nFor me, productivity is about something very different:\nHow one person’s effort can create results at a global scale.\nThat shift, "
+    "contentSnippet": "\"Un site web n'est pas une brochure. C'est un outil de croissance.\"\n\n\nLancer un site web en 2025 n'est plus une option, c'est un impératif de survie. Cependant, l'époque où il suffisait de choisir un "
   },
   {
-    "title": "How to Auto-Generate Open Graph Images for Your Blog (No Design Skills Needed)",
-    "link": "https://dev.to/malachi_stark_/how-to-auto-generate-open-graph-images-for-your-blog-no-design-skills-needed-2lca",
-    "pubDate": "Wed, 10 Dec 2025 01:39:38 +0000",
+    "title": "Tired of Heavyweight Hadoop/Spark? Meet SPL: The Lightweight Contender.",
+    "link": "https://dev.to/esproc_spl/tired-of-heavyweight-hadoopspark-meet-spl-the-lightweight-contender-l0h",
+    "pubDate": "Wed, 10 Dec 2025 06:33:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "You know those preview cards that show up when you share a link on Twitter or LinkedIn? Those are Open Graph images, and they can make or break your click-through rate.\nBut making them manually in Fig"
+    "contentSnippet": "With the advent of the era of big data, the amount of data continues to grow. In this case, it is difficult and costly to expand the capacity of database running on a traditional small computer, makin"
   },
   {
-    "title": "Why Your DIY LED Strips Die Too Soon (And My $15 Fix That Lasted 2 Years)",
-    "link": "https://dev.to/emma-suntech/why-your-diy-led-strips-die-too-soon-and-my-15-fix-that-lasted-2-years-2ln4",
-    "pubDate": "Wed, 10 Dec 2025 01:36:50 +0000",
+    "title": "A Practical Guide to How Real-Time Chat & Video Platforms Work",
+    "link": "https://dev.to/businmeed/a-practical-guide-to-how-real-time-chat-video-platforms-work-iib",
+    "pubDate": "Wed, 10 Dec 2025 06:32:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey makers,\nHeat Buildup: 60 LEDs/m drawing 12A peaks? Junction temps hit 85°C without sinks. Data: Ambient 25°C → strip temp 62°C after 1hr (measured with MLX90614 IR sensor).\nQuick fix math: For a 5"
+    "contentSnippet": "(Plus some lessons I learned while building my own WebRTC SDK at weblivehub.com)\nWhen developers first step into real-time communication — random chat sites, group chat rooms, or video chat — they oft"
   },
   {
-    "title": "day3: kube controller manager",
-    "link": "https://dev.to/cattkaizen/day3-kube-controller-manager-4gfh",
-    "pubDate": "Wed, 10 Dec 2025 01:34:19 +0000",
+    "title": "Wave-Encoded Data Systems: An Alternative Abstraction for Data Representation",
+    "link": "https://dev.to/hejhdiss/wave-encoded-data-systems-an-alternative-abstraction-for-data-representation-3jda",
+    "pubDate": "Wed, 10 Dec 2025 06:20:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Kube Controller Manager manages the various controllers in Kubernetes.\nControllers are:\nA controller is a process that continually monitors the state of various components within the system, and i"
+    "contentSnippet": "A Conceptual Framework Exploring Wave-Based Data Models\nAuthor: @hejhdiss (Muhamed Shafin P)\n\nLicense: Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0)\nThis article introduces Wave-Encoded D"
   },
   {
-    "title": "Shadcn Builder: No-Code Form Generator for React",
-    "link": "https://dev.to/jqueryscript/shadcn-builder-no-code-form-generator-for-react-3ohf",
-    "pubDate": "Wed, 10 Dec 2025 01:31:37 +0000",
+    "title": "Smartphones 2025 : Le Comparatif Définitif",
+    "link": "https://dev.to/metalya/smartphones-2025-le-comparatif-definitif-40h8",
+    "pubDate": "Wed, 10 Dec 2025 06:20:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Shadcn Builder: A visual form builder that exports clean React + TypeScript code\nBuilt for developers who work with shadcn/ui and want to skip repetitive form setup. \nDrag components onto a canvas, co"
+    "contentSnippet": "Smartphones 2025 : L'Année de la Maturité Technologique\n\n\nSi les années précédentes ont été marquées par des évolutions incrémentales, 2025 restera dans l'histoire de la téléphonie mobile comme l'anné"
   },
   {
-    "title": "How to Install Z-Image Turbo Locally",
-    "link": "https://dev.to/hugh1st/how-to-install-z-image-turbo-locally-4aa8",
-    "pubDate": "Wed, 10 Dec 2025 01:30:04 +0000",
+    "title": "How to Send eSignature Documents from Bubble.io",
+    "link": "https://dev.to/boldsign/how-to-send-esignature-documents-from-bubbleio-aee",
+    "pubDate": "Wed, 10 Dec 2025 06:15:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "This guide explains how to set up Z-Image Turbo on your local machine. This powerful model uses a 6B-parameter architecture to generate high-quality images with exceptional text rendering capabilities"
+    "contentSnippet": "In this step-by-step guide, I’ll guide you through the process of using BoldSign APIs in Bubble.io. This integration grants you access to a premium eSignature solution, achieved with minimal coding. W"
   },
   {
-    "title": "OptWin 1.1 release announcement - Optimize Windows",
-    "link": "https://dev.to/ahmetly_/optwin-11-release-announcement-optimize-windows-48dc",
-    "pubDate": "Wed, 10 Dec 2025 01:28:11 +0000",
+    "title": "Comment Faire des Photos Dignes d'un Pro avec un Smartphone ?",
+    "link": "https://dev.to/metalya/comment-faire-des-photos-dignes-dun-pro-avec-un-smartphone--kf1",
+    "pubDate": "Wed, 10 Dec 2025 06:15:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I just shipped OptWin 1.1, an updated version of my free and fully open-source web app that generates custom Windows optimization scripts based on user-selected tweaks.\nWhat’s new in OptWin 1.1\n• Clea"
+    "contentSnippet": "Comment Faire des Photos Dignes d'un Pro avec un Smartphone ? (Le Guide Ultime)\n\n\nC'est une phrase que l'on entend souvent : \"Si seulement j'avais un meilleur appareil photo, je ferais de meilleures i"
   },
   {
-    "title": "Setting up ALS (Ada Language Server) for Sublime Text",
-    "link": "https://dev.to/sabedoesthings/setting-up-als-ada-language-server-for-sublime-text-10m8",
-    "pubDate": "Wed, 10 Dec 2025 01:24:50 +0000",
+    "title": "How to Integrate Wearables (Fitbit, Apple Watch) in Fitness Apps",
+    "link": "https://dev.to/kamal_deeppareek_f5bb5d8/how-to-integrate-wearables-fitbit-apple-watch-in-fitness-apps-38oc",
+    "pubDate": "Wed, 10 Dec 2025 06:13:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Installing the Ada Language Server\n\n\nFirst you want to download the Ada Language Server. Where you can get here and download for which operating system you have.\nNow you need to add it to your PATH. F"
+    "contentSnippet": "The global fitness technology market is booming, and wearable devices like Fitbit, Apple Watch, Garmin, and Samsung Gear are leading this transformation. As users increasingly rely on real-time health"
   },
   {
-    "title": "Introducing Claude Code Documentation Standards: Automated Documentation with Built-in Linting",
-    "link": "https://dev.to/nasrulhazim/introducing-claude-code-documentation-standards-automated-documentation-with-built-in-linting-51c",
-    "pubDate": "Wed, 10 Dec 2025 01:23:18 +0000",
+    "title": "Comment Monter son PC Gamer de A à Z ?",
+    "link": "https://dev.to/metalya/comment-monter-son-pc-gamer-de-a-a-z--1nij",
+    "pubDate": "Wed, 10 Dec 2025 06:09:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Keeping documentation tidy, readable, and easy to navigate shouldn’t feel like a chore. But in most projects, it eventually becomes one. Different people write differently, folders get messy, and soon"
+    "contentSnippet": "Comment Monter son PC Gamer de A à Z ? Le Guide Ultime pour ne rien casser (Édition 2025)\n\n\nIl y a un mythe tenace qui circule : monter son propre ordinateur serait une tâche réservée aux ingénieurs o"
   },
   {
-    "title": "Building a shadcn/ui Style Component Library for Korean Government Design System",
-    "link": "https://dev.to/odada-o/building-a-shadcnui-style-component-library-for-korean-government-design-system-4fle",
-    "pubDate": "Wed, 10 Dec 2025 01:16:25 +0000",
+    "title": "Comment Avoir un Wi-Fi Ultra-Rapide dans Toute la Maison ?",
+    "link": "https://dev.to/metalya/comment-avoir-un-wi-fi-ultra-rapide-dans-toute-la-maison--3d7k",
+    "pubDate": "Wed, 10 Dec 2025 06:04:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "shadcn/ui changed how we think about component libraries. Instead of installing a package, you copy the source code into your project. You own it. You customize it.\nI built HANUI using the same approa"
+    "contentSnippet": "Comment Avoir un Wi-Fi Ultra-Rapide dans Toute la Maison ? Le Guide Définitif pour Tuer le Lag\n\n\nNous payons des forfaits Fibre coûteux pour des débits théoriques de 1 ou 2 Gbit/s. Pourtant, une fois "
+  },
+  {
+    "title": "OpenAI、Google、MS、Anthropic、AWSらがAIエージェントの普及と相互運用を促進する団体「Agentic AI Foundation」（AAIF）設立。Linux Foundation傘下で",
+    "link": "https://www.publickey1.jp/blog/25/openaigooglemsanthropicawsaiagentic_ai_foundationaaiflinux_foundation.html",
+    "pubDate": "2025-12-10T03:11:39.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Linux Foundationは、Amazon Web Services（AWS）、Anthropic、Block、Bloomberg、Cloudflare、Google、Microsoft、OpenAIなどのプラチナメンバーによるAIエージェントの普及や開発、相互運用などを促進するための中立的な団体「Agentic AI Foundation」（AAIF）の設立を発表しました。 Agentic"
   },
   {
     "title": "「あなたが修正するのは自分だけのバグではない」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（後編）",
@@ -89,6 +96,20 @@
     "pubDate": "2025-12-09T15:07:58.000Z",
     "source": "Publickey",
     "contentSnippet": "オープンソースの分散メッセージングシステムであるApache kafkaの作者らが立ち上げた企業であるConfluentを、IBMが買収することが発表されました。買収額は110億ドル（1ドル150円換算で約1兆6500億円）です。 IBMはこれによりエンタープライズ向けのデータプラットフォームの強化を目論みます。 We are excited that Confluent has entered "
+  },
+  {
+    "title": "3年ぶりにアプリをアップデートしたことの振り返り",
+    "link": "https://zenn.dev/naoya_maeda/articles/af86652c1ba611",
+    "pubDate": "Tue, 09 Dec 2025 15:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "本記事は、『エンジニアと人生 Advent Calendar 2025』10日目の記事です。\nhttps://adventar.org/calendars/12244\n本記事では、僕が約3年ぶりにアプリをアップデートしたことについて振り返っています。\n前半では、個人開発を始めたきっかけや現在リリースしているアプリの紹介を、後半では今回アップデートしたアプリの開発内容や振り返りをまとめています。技術"
+  },
+  {
+    "title": "ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager",
+    "link": "https://zenn.dev/layerx/articles/762ecd4494694f",
+    "pubDate": "Tue, 09 Dec 2025 10:24:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "LayerX Tech Advent Calendar 2025の9日目の記事です。\nバクラク事業部 ソフトウェアエンジニアの @upamune です。\n今日は、ローカル開発のシークレット設定をいい感じにした話をします。\n\n\n ローカル開発環境のシークレット設定、手動でやっていませんか？\n「シークレットは1Passwordにあるので設定してください」\n開発環境のセットアップでこのようなことを言った"
   },
   {
     "title": "マネジメントを知らないエンジニアが本を読んで感じたこと",
@@ -196,13 +217,6 @@
     "contentSnippet": "この記事はRust Advent Calendar 2025の8日目の記事です。\nRustの言語機能は6週間ごとに新バージョンがリリースされています。\n私はアップデートのたびに勝手にリリースパーティというイベントでアップデートの内容を解説しています。\nhttps://estie.connpass.com/event/373737/\n今年は1.84.0から1.91.0までリリースされています。それぞ"
   },
   {
-    "title": "$1で最大8時間の動画を話者分離・文字起こし・LLM分析するAWSパイプラインを作った",
-    "link": "https://zenn.dev/ekusiadadus/articles/ek-transcript-stepfunctions-1dollar",
-    "pubDate": "Mon, 08 Dec 2025 08:10:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "TL;DR\n\n\n月額固定費 約$2（Secrets Manager + ECR + ログ）で話者分離付き文字起こしパイプラインを構築\n\nAWS Step Functions + Lambda のフルサーバーレス構成\n\npyannote.audio 3.1 で話者分離、faster-whisper で文字起こし、gpt-5-mini でLLM分析\n8時間の動画処理が 約$2.3（x86、無料枠なし）"
-  },
-  {
     "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
     "link": "https://qiita.com/watanabe_masaru/items/a37506c1acda0307d8aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-08T04:34:09.000Z",
@@ -215,13 +229,6 @@
     "pubDate": "2025-12-08T02:16:39.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025 の9日目の記事です。\n昨日は @mossan_hoshi さんの 「AIコーディングの極意 ～AIは〇〇と思え～」 という記事でした。\nAIが全部やってくれる時代ではなく、AIと協働する時代..."
-  },
-  {
-    "title": "実践フルAIコーディング",
-    "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
-    "pubDate": "Mon, 08 Dec 2025 02:11:42 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は 実践で フル AI コーディングするための考え方とノウハウを凝縮したものです。筆者が持ってるノウハウはほぼ全て書いたつもりです。\nAlgomatic アドベントカレンダー 12/8 です。\nhttps://note.com/algomatic_oa/m/mf9dd319ea130\nこの記事は、必要となる前提知識・考え方と、実践ノウハウと、AI デトックスについての三段構成になっています"
   },
   {
     "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",
@@ -271,12 +278,5 @@
     "pubDate": "2025-12-03T16:06:41.000Z",
     "source": "Publickey",
     "contentSnippet": "AIエージェントによるコーディングアシスタントを提供する「Claude Code」などを提供するAntrhopicは、JavaScriptランタイム「Bun」の買収を発表しました。 Bun is joining Anthropic!https://t.co/06NlXDZhNE— Bun (@bunjavascript) December 2, 2025  AnthropicはOpenAIやGoo"
-  },
-  {
-    "title": "AWS、マネージドデータベースを最大35％安く使える「Database Savings Plans for AWS Databases」発表",
-    "link": "https://www.publickey1.jp/blog/25/aws35database_savings_plans_for_aws_databases.html",
-    "pubDate": "2025-12-03T16:04:47.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Amazon Web Services（AWS）は、日本時間12月3日未明から開催中の年次イベント「AWS re:Invent 2025」で、同社のマネージドデータベースサービスの価格を最大で35％安くできる「Database Savings Plans for AWS Databases」を発表しました。 Database Savings Plans for AWS DatabasesはAWSの"
   }
 ]

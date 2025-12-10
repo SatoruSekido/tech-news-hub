@@ -1,73 +1,87 @@
 [
   {
-    "title": "🚀 New React Challenge: Digital Segment Clock",
-    "link": "https://dev.to/duffmancc/new-react-challenge-digital-segment-clock-2dg0",
-    "pubDate": "Wed, 10 Dec 2025 12:49:39 +0000",
+    "title": "Functional Composition in JavaScript",
+    "link": "https://dev.to/travisfont/functional-composition-in-javascript-3n6j",
+    "pubDate": "Wed, 10 Dec 2025 18:33:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Level up your React skills with our latest beginner-friendly challenge! Build a real-time digital clock using seven-segment-style digits.\nNo subscription required, completely free! ✅\nGreat for practic"
+    "contentSnippet": "Also known as function pipelines.\nInstead of writing: Math.sqrt(minusOne(double(square(42))));\nIt can be rewritten to be more readable and modular by looping through an array of functions.\nDefining si"
   },
   {
-    "title": "Stop Writing a Kafka Consumer for Every Topic – Make It Generic in .NET",
-    "link": "https://dev.to/__d3ec2d533ada03/stop-writing-a-kafka-consumer-for-every-topic-make-it-generic-in-net-3i26",
-    "pubDate": "Wed, 10 Dec 2025 12:41:12 +0000",
+    "title": "re:Invent Special Update from AWS CDK",
+    "link": "https://dev.to/aws/reinvent-special-update-from-aws-cdk-2af9",
+    "pubDate": "Wed, 10 Dec 2025 18:22:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How I Built a Generic Kafka Consumer in .NET with Strategy Pattern\nEver found yourself writing a separate Kafka consumer for every single topic? Yeah… me too. 😅\nWhen I started working on our project,"
+    "contentSnippet": "Index\n\n\n\nTL;DR\nA Message of Gratitude\nMajor Features\nCDK Mixins - Developer Preview\nAI-Powered Development\nService L2 Constructs\nCommunity Highlights\nCommunity Meetings\nCommunity Generated Content\nCon"
   },
   {
-    "title": "I made a Nuxt 4 complete boilerplate and a few people seem to really like it",
-    "link": "https://dev.to/tom_han/i-made-a-nuxt-4-complete-boilerplate-and-a-few-people-seem-to-really-like-it-4b3l",
-    "pubDate": "Wed, 10 Dec 2025 12:38:29 +0000",
+    "title": "Beyond Vanilla RAG: The 7 Modern RAG Architectures Every AI Engineer Must Know",
+    "link": "https://dev.to/naresh_007/beyond-vanilla-rag-the-7-modern-rag-architectures-every-ai-engineer-must-know-4l0c",
+    "pubDate": "Wed, 10 Dec 2025 18:21:58 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey everyone,\nAfter rebuilding the same Nuxt setup again and again for different projects, I decided to make a proper starter kit once and for all.\nI built ShipAhead, a Nuxt 4 SaaS boilerplate that co"
+    "contentSnippet": "TL;DR\nVanilla RAG, Self-RAG, Corrective RAG, Graph RAG, Hybrid RAG, Agentic RAG, and Multi-Agent RAG. Each solves a different weakness in traditional retrieval, from hallucination control to personali"
   },
   {
-    "title": "Stop Your Dev Environment from Breaking: Docker Done Right",
-    "link": "https://dev.to/tamar_fuks/stop-your-dev-environment-from-breaking-docker-done-right-bo8",
-    "pubDate": "Wed, 10 Dec 2025 12:37:46 +0000",
+    "title": "Continuous Integration with GitLab: A Complete Walkthrough Using a Real Node.js Project",
+    "link": "https://dev.to/anusha_kuppili/continuous-integration-with-gitlab-a-complete-walkthrough-using-a-real-nodejs-project-59ip",
+    "pubDate": "Wed, 10 Dec 2025 18:14:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Stop Your Dev Environment from Breaking: Docker Done Right\n\n\nMost development environments fail for surprisingly simple reasons. A missing dependency, a version mismatch, or a service that wasn’t star"
+    "contentSnippet": "Modern teams rely on CI/CD to keep development fast, safe, and consistent. In this guide, we’ll walk through a real GitLab CI/CD pipeline built for a Node.js application—the Solar System project. You’"
   },
   {
-    "title": "📊 The 2025 Tech Stack Shake-Up: Why Next.js, Python & Postgres Are Taking Over the World 😉",
-    "link": "https://dev.to/usman_awan/the-2025-tech-stack-shake-up-why-nextjs-python-postgres-are-taking-over-the-world-4d6p",
-    "pubDate": "Wed, 10 Dec 2025 12:32:02 +0000",
+    "title": "Java vs Swift in 2025: The One Choice That Can Make or Break Your App",
+    "link": "https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90",
+    "pubDate": "Wed, 10 Dec 2025 18:08:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "🚀 Tech Stacks in 2025: The AI-Driven Evolution of Frontend, Backend, Databases & Full-Stack Development\n\n\n\n  \n  \n  🔑 Key Points Overview\n\n\n\n\nFrontend: Research suggests React continues to lead due t"
+    "contentSnippet": "If you’ve ever worked on an app that went over budget, missed every deadline, and somehow still performed meh in production, you already know the truth developers hate admitting: choosing the wrong la"
   },
   {
-    "title": "Elegant and Meaningful Housewarming Gifts That Add Personality to Every New Home",
-    "link": "https://dev.to/smithwilliam/elegant-and-meaningful-housewarming-gifts-that-add-personality-to-every-new-home-52g",
-    "pubDate": "Wed, 10 Dec 2025 12:30:22 +0000",
+    "title": "MCP Isn’t Hard, Here’s the Easiest Beginner-Friendly MCP MASTERCLASS EVER🤗 (PART 1)",
+    "link": "https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-1-4pel",
+    "pubDate": "Wed, 10 Dec 2025 18:02:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When someone steps into a new home for the first time, they’re stepping into a new chapter one defined by comfort, identity, and a sense of belonging. The right gift should go beyond aesthetics; it sh"
+    "contentSnippet": "Welcome Back\n\n\nI have been away for a while, caught up with work and life moving faster than expected. But amid the pressure, I kept feeling that pull to come back to what I truly enjoy. Sharing knowl"
   },
   {
-    "title": "Fine-Tuning Llama 3 with PEFT",
-    "link": "https://dev.to/richard_abishai/fine-tuning-llama-3-with-peft-l3e",
-    "pubDate": "Wed, 10 Dec 2025 12:30:00 +0000",
+    "title": "MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler.",
+    "link": "https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-34gm",
+    "pubDate": "Wed, 10 Dec 2025 18:02:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Efficient parameter tuning for smarter, faster large language models.\nFine-tuning large models like Llama 3 no longer means retraining billions of parameters.\n\nThanks to PEFT (Parameter-Efficient Fine"
+    "contentSnippet": "MAWA - A programming language as simple in syntax as Python but as impressive as Assembler, it could be called Modern Assembler.\nAlthough I have talked about MAWA before, I haven't gone into much deta"
   },
   {
-    "title": "Why AI Projects Will Struggle Even More in 2026 (And How Teams Can Get Ahead Now)",
-    "link": "https://dev.to/amanda_brooks_62bc9e0d44d/why-ai-projects-will-struggle-even-more-in-2026-and-how-teams-can-get-ahead-now-46nd",
-    "pubDate": "Wed, 10 Dec 2025 12:29:35 +0000",
+    "title": "🚩 Red flags series #4: Pull request monsters",
+    "link": "https://dev.to/mhamadelitawi/red-flags-series-4-pull-request-monsters-1o0j",
+    "pubDate": "Wed, 10 Dec 2025 18:00:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "AI is growing fast, and 2026 is set to be an even bigger year for real world AI adoption. But with this growth comes a quiet problem that many teams are not prepared for. It is not model accuracy. It "
+    "contentSnippet": "📌 This post is one chapter in my Red Flags series. I’m exploring the mistakes, bad practices, and subtle issues we often overlook in day-to-day development. Stay tuned for upcoming posts!\nWhen one pu"
   },
   {
-    "title": "Top 10 API Call Security Mistakes Developers Still Make in 2025",
-    "link": "https://dev.to/mridudixit15/top-10-api-call-security-mistakes-developers-still-make-in-2025-439p",
-    "pubDate": "Wed, 10 Dec 2025 12:29:08 +0000",
+    "title": "I Analyzed 22,000+ Job Postings in Google SERPs – Here Are the Top Job Boards in 2025",
+    "link": "https://dev.to/jabbs/i-analyzed-22000-job-postings-in-google-serps-here-are-the-top-job-boards-in-2025-223p",
+    "pubDate": "Wed, 10 Dec 2025 17:57:42 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nEven in 2025, API call security remains one of the biggest weaknesses in modern applications. With more frontend-heavy apps, more third-party integrations, and more public APIs, develop"
+    "contentSnippet": "Step 1) Gather job & company data\n\n\nI queried our active job listings and selected the most recent job posting from each of 22,346 companies. Here is the distribution of company sizes:\nSize           "
   },
   {
-    "title": "React2Shell: Understanding the Critical RCE Vulnerability in React Server Components (CVE-2025-55182)",
-    "link": "https://dev.to/scofieldidehen/react2shell-understanding-the-critical-rce-vulnerability-in-react-server-components-381p",
-    "pubDate": "Wed, 10 Dec 2025 12:28:32 +0000",
+    "title": "O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend",
+    "link": "https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb",
+    "pubDate": "Wed, 10 Dec 2025 17:56:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When a vulnerability shakes the entire web ecosystem, it is rarely because of something sophisticated. History shows that the most catastrophic exploits usually come from simple assumptions that devel"
+    "contentSnippet": "✨ INTRODUÇÃO\n\n\nTrabalhar em uma Big Tech sempre parece uma espécie de “porta para um novo mundo”. \nvocê escreve código, e sim como você passa a pensar tecnologia, produto e impacto em escala.\nDepois d"
+  },
+  {
+    "title": "Claude CodeにSlackでコーディングタスクを依頼可能に。Anthropicがリサーチプレビュー公開",
+    "link": "https://www.publickey1.jp/blog/25/claude_codeslackanthropic.html",
+    "pubDate": "2025-12-10T15:12:04.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Claude Codeを提供するAnthropicは、ClaudeとSlackを連携させる「Claude app for Slack」の機能を拡張し、Claude Codeに対してSlackでデバッグ作業やコードレビューなどを依頼可能にする機能をリサーチプレビューとして提供したと発表しました。 You can now delegate tasks to Claude Code directly f"
+  },
+  {
+    "title": "さくらのクラウド、「AppRun」正式提供開始。自動的にスケールするコンテナ実行基盤。仮想マシンを専有する「専有型」が登場",
+    "link": "https://www.publickey1.jp/blog/25/apprun_2.html",
+    "pubDate": "2025-12-10T15:08:30.000Z",
+    "source": "Publickey",
+    "contentSnippet": "さくらインターネットは、同社のクラウドサービス「さくらのクラウド」で「AppRun」の正式提供の開始を発表しました。 AppRunは、コンテナ化されたアプリケーションを簡単にデプロイし、自動的にスケーリングを行うコンテナ実行基盤を提供するサービスです。Amazon Web Services（AWS）のApp RunnerやGoogle CloudのCloud Runに相当すると言えます。 コンテナ"
   },
   {
     "title": "OpenAI、Google、MS、Anthropic、AWSらがAIエージェントの普及と相互運用を促進する団体「Agentic AI Foundation」（AAIF）設立。Linux Foundation傘下で",
@@ -264,19 +278,5 @@
     "pubDate": "2025-12-04T15:13:47.000Z",
     "source": "Publickey",
     "contentSnippet": "Webブラウザ上で高速なグラフィックス描画を行うWeb標準「WebGL」の後継として登場した「WebGPU」が、ChromeやFirefox、Safariなどの主要なWebブラウザすべてで利用可能になったことが明らかになりました。 WebGPUはGPU能力を最大限に発揮できるAPI WebGLがグラフィックス描画に特化したAPIであったのに対して、WebGPUは、高速なグラフィック描画だけでなくG"
-  },
-  {
-    "title": "AIエージェントを管理する「Microsoft Agent 365」／GitHubで最も使われている言語はTypeScript／MCP on Windowsプレビューほか。2025年11月の人気記事",
-    "link": "https://www.publickey1.jp/blog/25/aimicrosoft_agent_365githubtypescriptmcp_on_windows202511.html",
-    "pubDate": "2025-12-04T15:09:51.000Z",
-    "source": "Publickey",
-    "contentSnippet": "先日、久しぶりに整体に行ったところ、整体師さんから普段のストレッチのためにストレッチポールを勧められました。 ストレッチポールというのは長さ90cm、直径10cmくらいの柔らかい円柱です。これを床の上に置いて、その上に背骨を沿わせるように仰向けに寝てゴロゴロさせると、背中の筋肉がほぐれたり、ふだん縮こまっている胸の筋肉を伸ばせる効果があります。 本物のストレッチポールは1万円近くするのですが、近所"
-  },
-  {
-    "title": "AnthropicがJavaScriptランタイムのBunの買収を発表。Claude Codeのランタイムとしての高速性を評価",
-    "link": "https://www.publickey1.jp/blog/25/anthropicjavascriptbunclaude_code.html",
-    "pubDate": "2025-12-03T16:06:41.000Z",
-    "source": "Publickey",
-    "contentSnippet": "AIエージェントによるコーディングアシスタントを提供する「Claude Code」などを提供するAntrhopicは、JavaScriptランタイム「Bun」の買収を発表しました。 Bun is joining Anthropic!https://t.co/06NlXDZhNE— Bun (@bunjavascript) December 2, 2025  AnthropicはOpenAIやGoo"
   }
 ]

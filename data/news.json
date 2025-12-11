@@ -1,73 +1,80 @@
 [
   {
-    "title": "🌩️From Cyber Cafés to Cloud Computing",
-    "link": "https://dev.to/itsmeananyasrivastava/from-cyber-cafes-to-cloud-computing-1ceg",
-    "pubDate": "Thu, 11 Dec 2025 06:23:57 +0000",
+    "title": "Taming Opus 4.5's Efficiency: Using TodoWrite to Keep Claude Code on Track",
+    "link": "https://dev.to/shinpr/taming-opus-45s-efficiency-using-todowrite-to-keep-claude-code-on-track-1ee5",
+    "pubDate": "Thu, 11 Dec 2025 12:54:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Before laptops became common, I used to visit cyber cafés whenever I needed the internet. Those shared machines were my portal to the digital universe.\nYears later, when I heard about cloud computing,"
+    "contentSnippet": "I've been using Claude Code with Opus 4.5 for a while now, and there's one thing that kept driving me crazy: it skips steps. Steps I actually needed.\nAccording to Anthropic's docs, Opus 4.5 is designe"
   },
   {
-    "title": "How git clone Really Works: A Deep Dive into Git’s Object Database",
-    "link": "https://dev.to/zopdev/how-git-clone-really-works-a-deep-dive-into-gits-object-database-24j7",
-    "pubDate": "Thu, 11 Dec 2025 06:22:30 +0000",
+    "title": "Personal Expense Dashboard: Top 10 Metrics and KPIs to Track",
+    "link": "https://dev.to/boldbi/personal-expense-dashboard-top-10-metrics-and-kpis-to-track-1jfd",
+    "pubDate": "Thu, 11 Dec 2025 12:50:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Most developers use git clone daily, but very few understand what truly happens under the hood. Behind that single command lies a complex process of object negotiation, delta compression, and graph re"
+    "contentSnippet": "Introduction\nManaging personal finances can feel overwhelming—especially when expenses pile up and savings seem elusive. The Bold BI® personal expense dashboard enables you to visualize your spending "
   },
   {
-    "title": "Global Server Load Balancing (GSLB): Modern Application Delivery-এর Global Backbone",
-    "link": "https://dev.to/abusayem/global-server-load-balancing-gslb-modern-application-delivery-er-global-backbone-10l9",
-    "pubDate": "Thu, 11 Dec 2025 06:18:22 +0000",
+    "title": "How Soft2bet Turns Gamification Into Growth With Proven Performance Data",
+    "link": "https://dev.to/tigra_nubira_010e82342503/how-soft2bet-turns-gamification-into-growth-with-proven-performance-data-5h1p",
+    "pubDate": "Thu, 11 Dec 2025 12:50:06 +0000",
     "source": "DEV.to",
-    "contentSnippet": "আজকের digital world-এ organizations চায় তাদের IT systems 24/7 available থাকুক। এখন applications আর এক জায়গায় host করা হয় না—private datacenter, public cloud আর hybrid cloud মিলিয়ে multi-region archite"
+    "contentSnippet": "Chronicles of Adaptive Play: A Scientific Voyage Into Data-Driven Engagement\n\n\n\n  \n  \n  The Laboratory of Interactive Momentum\n\n\nIn a parallel corner of the digital universe—where behavioral economics"
   },
   {
-    "title": "AI Engineering: Advent of AI with goose Day 8",
-    "link": "https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-8-50me",
-    "pubDate": "Thu, 11 Dec 2025 06:16:35 +0000",
+    "title": "What cultural insights influence Online Brand Communication for global audiences?",
+    "link": "https://dev.to/pella_dynamics_0d1458df5e/what-cultural-insights-influence-online-brand-communication-for-global-audiences-305m",
+    "pubDate": "Thu, 11 Dec 2025 12:45:51 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Day 8: Vendor Directory Magic – From Unorganized Data to Emerald Glassmorphic Directory Web Application for Organization\nWhat if you could take a chaotic, typo‑ridden vendor list and instantly transfo"
+    "contentSnippet": "Online Brand Communication\nUnderstanding the power of Online Brand Communication inside today’s digital ecosystem creates a strong foundation for every brand. Media Realitions Management also plays a "
   },
   {
-    "title": "Custom Email Notifications Using AWS SES and the BoldSign API",
-    "link": "https://dev.to/boldsign/custom-email-notifications-using-aws-ses-and-the-boldsign-api-39jf",
-    "pubDate": "Thu, 11 Dec 2025 06:07:53 +0000",
+    "title": "The Cargo Cult",
+    "link": "https://dev.to/linkbenjamin/the-cargo-cult-8ie",
+    "pubDate": "Thu, 11 Dec 2025 12:45:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In this blog, we will explore how to send custom email notifications with the BoldSign API using Amazon Web Services (AWS) and ASP.NET Core. We will go through step-by-step instructions and look at co"
+    "contentSnippet": "Hey friends!  \nYou ever notice how people sometimes copy the shape of a good practice without actually understanding the reason behind it? We have a name for this phenomeon: it's called cargo culting."
   },
   {
-    "title": "Navigating the Data Compliance Landscape: A Strategic Guide for Modern Organizations",
-    "link": "https://dev.to/zopdev/navigating-the-data-compliance-landscape-a-strategic-guide-for-modern-organizations-4k2l",
-    "pubDate": "Thu, 11 Dec 2025 06:06:54 +0000",
+    "title": "Easy way to Integrate Swagger with Node.js REST APIs",
+    "link": "https://dev.to/vp-22/easy-way-to-integrate-swagger-with-nodejs-rest-apis-oh2",
+    "pubDate": "Thu, 11 Dec 2025 12:45:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In today's hyper-connected digital ecosystem, organizations face an unprecedented challenge: navigating an increasingly complex web of data compliance requirements while maintaining operational effici"
+    "contentSnippet": "Swagger is one of the simplest ways to document REST APIs. It provides an interactive UI where developers can test endpoints, understand inputs and outputs, and integrate your API faster.\nThis guide c"
   },
   {
-    "title": "[Threat Thinker] Trying LLM-Based Threat Modeling",
-    "link": "https://dev.to/melonattacker/threat-thinker-trying-llm-based-threat-modeling-17o3",
-    "pubDate": "Thu, 11 Dec 2025 06:06:45 +0000",
+    "title": "Convert Figma layers to code in Tailwind CSS with Flowbite MCP",
+    "link": "https://dev.to/themesberg/convert-figma-layers-to-code-in-tailwind-css-with-flowbite-mcp-50ec",
+    "pubDate": "Thu, 11 Dec 2025 12:43:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\n\n\nHi, I’m JJ (yuasa), a security engineer.\nIn this post, I’ll try out Threat Thinker, an automated threat modeling tool that uses LLMs, on several different systems. From an AWS-based sys"
+    "contentSnippet": "In this guide you will learn how to install the Flowbite MCP server and convert Figma design files in your MCP client such as Cursor, Windsurf or Claude and generate code in Tailwind CSS and based on "
   },
   {
-    "title": "React Performance Anti-Patterns: 5 Mistakes That Kill Your App's Speed!",
-    "link": "https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j",
-    "pubDate": "Thu, 11 Dec 2025 06:05:06 +0000",
+    "title": "2026年加密支付网关横评：商家选型避坑指南",
+    "link": "https://dev.to/justqueue/2026nian-jia-mi-zhi-fu-wang-guan-heng-ping-shang-jia-xuan-xing-bi-keng-zhi-nan-2973",
+    "pubDate": "Thu, 11 Dec 2025 12:39:07 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Is your React app dragging its feet, but you can't pinpoint the cause?\nYou might think you're following the best practices, but some common development patterns are actually degrading your app’s perfo"
+    "contentSnippet": "本文首发于 blog.payin.com\n\n网上关于加密支付网关的文章，十篇有九篇都在堆功能：\"这个支持300种币！那个手续费才0.5%！\"\n但真正重要的问题，没人告诉你：你的钱，到底在谁手里？\n2014年，Mt. Gox一夜崩塌，4.5亿美元用户资金灰飞烟灭。2022年，FTX轰然倒下，数十亿美元打了水漂。这些虽然是交易所，但道理是一样的：把钱交给别人保管，你永远不知道明天会发生什么。\n这篇文章"
   },
   {
-    "title": "The 5 Risks of Agentic AI Most Organizations Aren’t Ready For",
-    "link": "https://dev.to/infutrix/the-5-risks-of-agentic-ai-most-organizations-arent-ready-for-481g",
-    "pubDate": "Thu, 11 Dec 2025 06:04:41 +0000",
+    "title": "USDT vs USDC：商家到底该选哪个？（2026深度解析）",
+    "link": "https://dev.to/justqueue/usdt-vs-usdcshang-jia-dao-di-gai-xuan-na-ge-2026shen-du-jie-xi--m5",
+    "pubDate": "Thu, 11 Dec 2025 12:39:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every major AI leap brings excitement and anxiety. “What could go wrong?” is the question that often shadows innovation.\nWith agentic AI, that question becomes even more urgent.\nUnlike traditional AI "
+    "contentSnippet": "本文首发于 blog.payin.com\n\n准备接受稳定币收款的商家，都会遇到这个问题：USDT、USDC，还是两个都要？\n这不是小事。这两个稳定币加起来占了2500亿美元市场的90%。表面上看都是锚定美元、到处能用，但深挖下去，差别大了去了。\n这篇文章从商家实际需求出发，帮你搞清楚：哪个更安全？哪个用户多？哪个合规风险小？最后给你一个明确的答案。\n建议：两个都接。 原因如下：\n\n\n\n对比项\nUS"
   },
   {
-    "title": "This New AI Agent Can Literally Use a Computer for You",
-    "link": "https://dev.to/aiwithapex/this-new-ai-agent-can-literally-use-a-computer-for-you-141f",
-    "pubDate": "Thu, 11 Dec 2025 05:56:43 +0000",
+    "title": "The Hidden Costs of Accessibility Audits: A Project Manager’s Guide",
+    "link": "https://dev.to/a11ynews/the-hidden-costs-of-accessibility-audits-a-project-managers-guide-1855",
+    "pubDate": "Thu, 11 Dec 2025 12:39:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Old school automation is dying. “Computer-use” AI is taking over. Here's how to adapt before your competitors do ↓\nMost teams still think AI can only read the web and draft text.\nI recently discovered"
+    "contentSnippet": "Pair accessibility audits with your standard QA process. It reduces the chance of late‑phase surprises that derail both your budget and your timeline.\n\n\n\n  \n  \n  Why Accessibility Audits Matter for Pr"
+  },
+  {
+    "title": "テセウスのTransformer",
+    "link": "https://zenn.dev/shot4410/articles/5354ce65907e15",
+    "pubDate": "Thu, 11 Dec 2025 04:02:48 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は CyberAgent AI Lab Advent Calendar 2025 の11日目の記事です。\n10日目：2025年キャラクター系の論文一言まとめ(ACL, EMNLP)\n12日目：\n\n\n はじめに\nサイバーエージェント AI Lab NLP チームの高瀬です。自然言語処理や機械学習分野で研究をしていまして、最近はTransformerの性質に関する研究が多いです。\nさて、大"
   },
   {
     "title": "Google、すべてのサービスに生成AIと接続できるフルマネージドなMCPサーバを提供すると宣言。まずはGoogleマップ、BigQuery、Google Compute Engineで利用可能に",
@@ -75,6 +82,55 @@
     "pubDate": "2025-12-10T23:56:31.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、Geminiなどの生成AIと同社のクラウドサービスを接続できるMCPサーバを今後すべての同社のサービスで提供すると発表しました。   Google’s existing API infrastructure is now enhanced to support MCP, providing a unified layer across all Google and Google C"
+  },
+  {
+    "title": "現場エンジニアではない人事が、それでもQiitaを読む理由",
+    "link": "https://qiita.com/w_koichiro/items/5e334171c424783c0cc0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T23:19:05.000Z",
+    "source": "Qiita",
+    "contentSnippet": "コード以外にも伝わっている\nエンジニアではない立場で、Qiitaを見ている人間がいます。\nKDDIアジャイル開発センターで採用担当をしている渡邊です。\n普段は、ソフトウェアエンジニアやスクラムマスターなど、技術職の採用を担当しています。\nその中で、候補者の方のQiita記..."
+  },
+  {
+    "title": "新卒エンジニアが vibe coding して分かったこと",
+    "link": "https://qiita.com/Gingnose/items/430040181e6211331061?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T22:08:54.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n新卒エンジニアとして 2025 年の 4 月に入社して以来、ほとんど未経験でプロジェクトの開発に配属されたため当然のように AI に鞭を打って開発を行っていました。このやり方は後から vibe coding と呼ばれていることを知りました。vibe coding..."
+  },
+  {
+    "title": "AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話",
+    "link": "https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T22:07:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "※最初に少しだけ\nこの記事で出てくる“AI営業”という言葉は、\n「提案書づくりにAIを積極利用している営業の方」 を示す便宜的な呼び名です。\n深い意味はなく、読みやすさのためのタグのようなものです。\n\n■ 1. AIが“自分の理解をほんの少し越えた提案”を生成してしま..."
+  },
+  {
+    "title": "New Relic Go Agent 完全理解・実践導入ガイド",
+    "link": "https://zenn.dev/mpyw/articles/new-relic-go-agent-struggle",
+    "pubDate": "Wed, 10 Dec 2025 21:47:23 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nGo ではタブインデントが推奨されていますが，この記事では Web ブラウザ上での見やすさに配慮して半角スペースを採用しています。\n\n!\nこの記事は Forkwell の普段は絶対読まないメルマガで配信されていた\nおい、テックブログを書け - Speaker Deck\nが目に留まり，どうしても頭から離れなくなってしまったので，発散してスッキリするために仕方なく書きました。いつから俺の筆はこんな"
+  },
+  {
+    "title": "調整さんのスケジュールを自動生成するLINE Botを作った話",
+    "link": "https://qiita.com/namatya/items/3ffb9c5335c8c0c79412?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T21:43:20.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nシステムアイアドベントカレンダー11日目です。アドベントカレンダーへの参加は今年で3年目になりますが、みなさん、今年の目標は達成できましたか？\n個人に課していた目標でアドベントカレンダーまでに、Qiitaの記事投稿をする目標を立てていたのですが、\n結局、アドベン..."
+  },
+  {
+    "title": "Reactカスタムフックが可読性を損なうとき",
+    "link": "https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability",
+    "pubDate": "Wed, 10 Dec 2025 17:24:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は React Advent Calender 2025 11 日目の投稿です。\n\n 可読性の高いカスタムフックを考える\nReact 開発において、「ロジックはカスタムフックに切り出す」というプラクティスは、私たちの思考に深く根付いています。しかし、筆者の経験上、「なんとなく」でカスタムフックに切り出されたロジックは、かえってコードの可読性を下げることが多いと感じています。コンポーネントの"
+  },
+  {
+    "title": "モ。〜モデル選定のヒントについて〜",
+    "link": "https://qiita.com/haruty/items/cfcf881b9ef3db6e3b36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T16:31:49.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nはじめまして。\nSapeetでSWEをやっている淺井です。\n昨今のAIブームを皮切りに、LLMを使ったサービスのリリース報告は枚挙にいとまがありません。\nエンタープライズはもちろん、個人開発の領域でもこれらの仕組みを組み込んだ新規サービスに挑戦したい、という声は..."
   },
   {
     "title": "Claude CodeにSlackでコーディングタスクを依頼可能に。Anthropicがリサーチプレビュー公開",
@@ -133,39 +189,11 @@
     "contentSnippet": "クラスを、オブジェクトを、なんとなく理解したと思えたとき、クラスが召喚石で、オブジェクトがバハムートで、newがバハムート呼び出すことで、メソッドがバハムートのメガフレアみたいなもんかなと思いました。\nそれを例として後輩に教えていたら、一部の人にツボったみたいで、普段ほぼ聞..."
   },
   {
-    "title": "OpenAPIに設計を集約してドキュメントを一元管理する実践ガイド",
-    "link": "https://qiita.com/Mr_hana/items/432d83cf2df584c2e651?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:09:25.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nOpenAPIを用いてAPIファーストな開発を行っているとモックサーバーやコードの自動生成、テストの自動化など多くのメリットがあります。そうすると徐々に設計ドキュメントも一箇所にまとめたい欲求にかられます。\nもやもやポイント\n\nドキュメントの乖離 実装変更時に..."
-  },
-  {
-    "title": "フレッツ光を Catalyst スイッチで収容してみよう",
-    "link": "https://qiita.com/matagawa/items/11b2510bf3b42cb8484a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:07:49.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nこの記事はシスコの有志による Cisco Systems Japan Advent Calendar 2025 の 10 日目 (シリーズ 2) として投稿しています。\n\n📅 これまでのカレンダーの一覧\n\n2017 年版: https://qiita.com/..."
-  },
-  {
-    "title": "あまり、法律を気にせずAIを使ってきたことに気付いた　〜今後ウォッチすべき情報ソースまで含めて考える〜",
-    "link": "https://qiita.com/Mikey/items/cb921d2079b761d3c1bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:06:57.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025 の10日目の記事です。\n昨日は@tr-10kさんの 「エンジニア未経験が1週間で生成AIを使って『毎日のToDoを自動生成してくれるタスク管理アプリ』を作ってみた」 という記事でした。\n同じ..."
-  },
-  {
     "title": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」",
     "link": "https://qiita.com/shota_hanawa/items/e242d826570e4292e388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-09T22:06:56.000Z",
     "source": "Qiita",
     "contentSnippet": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」\n\nはじめに\nこの記事では、AWS × dbt × Snowflake を用いたデータ基盤構築プロジェクトで、\n要件定義〜設計に4ヶ月、実装はわずか2週間 という、\n「いやバランスおかしくない？」という..."
-  },
-  {
-    "title": "一気通貫の意味を知れ！〜『ドメイン駆動設計をはじめよう』ではじめる業務分析〜",
-    "link": "https://qiita.com/krakazcyrano/items/973eb49bc06217cdee0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:03:47.000Z",
-    "source": "Qiita",
-    "contentSnippet": "この記事は Hubble Advent Calendar 2025 の10日目の記事です。\n\nはじめに\n2025年7月よりHubbleでバックエンドエンジニアをしている @krakazcyrano です。\n入社以来、Hubble の機能エンハンスを主なミッションとする Va..."
   },
   {
     "title": "「あなたが修正するのは自分だけのバグではない」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（後編）",
@@ -217,32 +245,11 @@
     "contentSnippet": "こんにちは、Ubieでソフトウェアエンジニアをしているshirajiです。\n(ちょっとここ1,2週間年内リリースするものが立て込んでて、なぜ12/9担当になったのか？と後悔してます。残り1時間で12/10です。)\nこの記事は、Ubie Advent Calendar 2025 の12/9の記事です。\nClaude Codeって便利ですよね。ここ最近compactの頻度が激しくて、ちょっと乗り換えか"
   },
   {
-    "title": "ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager",
-    "link": "https://zenn.dev/layerx/articles/762ecd4494694f",
-    "pubDate": "Tue, 09 Dec 2025 10:24:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "LayerX Tech Advent Calendar 2025の9日目の記事です。\nバクラク事業部 ソフトウェアエンジニアの @upamune です。\n今日は、ローカル開発のシークレット設定をいい感じにした話をします。\n\n\n ローカル開発環境のシークレット設定、手動でやっていませんか？\n「シークレットは1Passwordにあるので設定してください」\n開発環境のセットアップでこのようなことを言った"
-  },
-  {
     "title": "2025年12月版: MCP、Subagent、Skills… エージェント拡張技術が次々出てきて追いきれない人のためのガイド",
     "link": "https://qiita.com/jugyo/items/afd684d7eeb0bf194843?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-09T03:48:52.000Z",
     "source": "Qiita",
     "contentSnippet": "このエントリーは with Advent Calendar 2025 の 9日目の記事になります。\n\nMCP、Subagent、Skills、Code execution、Advanced tool use… ここ1年ほどで、エージェントを拡張する技術が次々と登場しています..."
-  },
-  {
-    "title": "マネジメントを知らないエンジニアが本を読んで感じたこと",
-    "link": "https://zenn.dev/studist/articles/newbie-management-learn",
-    "pubDate": "Tue, 09 Dec 2025 03:00:00 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nTeachme Player開発チームの山川 (@jyamakawa) です。\n私たちのチームでは今年だけでも2人のメンバーが新しく加わりました。\nそれに伴い、入社オンボーディングやプロジェクト参画・コードベース理解の支援など、コーディング以外の業務を担うことが増えてきました。\nコードを書く以外のことはあまりやってこないで仕事をしてきましたが、エンジニアであれば「必要なのであれば学ぶ」姿"
-  },
-  {
-    "title": "Cap'n Webについて",
-    "link": "https://zenn.dev/yusukebe/articles/3c18e280eaa490",
-    "pubDate": "Tue, 09 Dec 2025 00:03:58 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Cap'n Webが面白いのでその紹介です。\n\n Cap'n Web概要\nCap'n WebはJavaScriptネイティブなRPCの実装でcapnwebというnpmライブラリが提供されています。作者がCloudflare Workersを作ったKentonなんで注目しています。実際レポジトリもCloudflareのorgにあります。\nhttps://github.com/cloudflare/c"
   },
   {
     "title": "TypeScriptエラーハンドリング進化の軌跡",
@@ -257,13 +264,6 @@
     "pubDate": "2025-12-08T15:07:54.000Z",
     "source": "Publickey",
     "contentSnippet": "PostgreSQLをベースにしたBaaS（Backend as a Service）の「Supabase」を開発し提供しているSupabase社は、企業などがSupabaseのバックエンドサービスをそのままその企業ブランドのBaaSとしてユーザーに提供可能にする新サービス「Supabase for Platforms」のリリースを発表しました。 Today, we're launching Su"
-  },
-  {
-    "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
-    "link": "https://qiita.com/watanabe_masaru/items/a37506c1acda0307d8aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T04:34:09.000Z",
-    "source": "Qiita",
-    "contentSnippet": "SapeetでSWEをやっている渡辺です。\n最近は社内メンバーとARC Raidersにハマっています。\n自分も自作ARC（機械生命体）を作ってみたいと思い、Artificial Life（人工生命）に興味を持ちました（）。\n\nなぜ今 ALIFEなのか\nALIFE（Arti..."
   },
   {
     "title": "Vercel、Webアプリで顧客ごとのマルチテナント構成が簡単に作れる「Vercel for Platforms」発表。VercelがSaaS基盤に進化へ",

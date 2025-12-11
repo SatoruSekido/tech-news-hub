@@ -1,73 +1,80 @@
 [
   {
-    "title": "Taming Opus 4.5's Efficiency: Using TodoWrite to Keep Claude Code on Track",
-    "link": "https://dev.to/shinpr/taming-opus-45s-efficiency-using-todowrite-to-keep-claude-code-on-track-1ee5",
-    "pubDate": "Thu, 11 Dec 2025 12:54:19 +0000",
+    "title": "Today I Split My First Huge Component from the Course Into Clean, Reusable Components",
+    "link": "https://dev.to/usama_dev/today-i-split-my-first-huge-component-from-the-course-into-clean-reusable-components-2lgf",
+    "pubDate": "Thu, 11 Dec 2025 18:38:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've been using Claude Code with Opus 4.5 for a while now, and there's one thing that kept driving me crazy: it skips steps. Steps I actually needed.\nAccording to Anthropic's docs, Opus 4.5 is designe"
+    "contentSnippet": "Today I worked on one of the most important exercises in my React course:\nsplitting a huge component into multiple smaller, meaningful components.\nThe course gave me one large file with all the UI and"
   },
   {
-    "title": "Personal Expense Dashboard: Top 10 Metrics and KPIs to Track",
-    "link": "https://dev.to/boldbi/personal-expense-dashboard-top-10-metrics-and-kpis-to-track-1jfd",
-    "pubDate": "Thu, 11 Dec 2025 12:50:52 +0000",
+    "title": "Today I Split My First Huge Component from the Course Into Clean, Reusable Components",
+    "link": "https://dev.to/usama_dev/today-i-split-my-first-huge-component-from-the-course-into-clean-reusable-components-3161",
+    "pubDate": "Thu, 11 Dec 2025 18:38:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Introduction\nManaging personal finances can feel overwhelming—especially when expenses pile up and savings seem elusive. The Bold BI® personal expense dashboard enables you to visualize your spending "
+    "contentSnippet": "Today I worked on one of the most important exercises in my React course:\nsplitting a huge component into multiple smaller, meaningful components.\nThe course gave me one large file with all the UI and"
   },
   {
-    "title": "How Soft2bet Turns Gamification Into Growth With Proven Performance Data",
-    "link": "https://dev.to/tigra_nubira_010e82342503/how-soft2bet-turns-gamification-into-growth-with-proven-performance-data-5h1p",
-    "pubDate": "Thu, 11 Dec 2025 12:50:06 +0000",
+    "title": ".NET Performance Optimization: Fixing a 15-Second E-Commerce Page Load",
+    "link": "https://dev.to/mashrulhaque/net-performance-optimization-fixing-a-15-second-e-commerce-page-load-46nm",
+    "pubDate": "Thu, 11 Dec 2025 18:25:21 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Chronicles of Adaptive Play: A Scientific Voyage Into Data-Driven Engagement\n\n\n\n  \n  \n  The Laboratory of Interactive Momentum\n\n\nIn a parallel corner of the digital universe—where behavioral economics"
+    "contentSnippet": "A real-world case study of rescuing an enterprise e-commerce platform from performance hell, complete with war room panic, 63 SQL queries per page load, and the joy of watching response times drop fro"
   },
   {
-    "title": "What cultural insights influence Online Brand Communication for global audiences?",
-    "link": "https://dev.to/pella_dynamics_0d1458df5e/what-cultural-insights-influence-online-brand-communication-for-global-audiences-305m",
-    "pubDate": "Thu, 11 Dec 2025 12:45:51 +0000",
+    "title": "DB Connection Pools: The Chefs Behind Your App’s Kitchen",
+    "link": "https://dev.to/rijultp/db-connection-pools-the-chefs-behind-your-apps-kitchen-218l",
+    "pubDate": "Thu, 11 Dec 2025 18:19:19 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Online Brand Communication\nUnderstanding the power of Online Brand Communication inside today’s digital ecosystem creates a strong foundation for every brand. Media Realitions Management also plays a "
+    "contentSnippet": "When developing code that involves connecting to databases, you may come across a term called DB pools.\nLet’s understand it.\nIt is basically a reusable collection of open connections to a database.\nIn"
   },
   {
-    "title": "The Cargo Cult",
-    "link": "https://dev.to/linkbenjamin/the-cargo-cult-8ie",
-    "pubDate": "Thu, 11 Dec 2025 12:45:00 +0000",
+    "title": "How I Got Caller ID Working in Canada Using RingCentral, Twilio, and ElevenLabs",
+    "link": "https://dev.to/colbygarland/using-ringcentral-twilio-and-elevenlabs-in-canada-to-get-caller-id-d89",
+    "pubDate": "Thu, 11 Dec 2025 18:18:35 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hey friends!  \nYou ever notice how people sometimes copy the shape of a good practice without actually understanding the reason behind it? We have a name for this phenomeon: it's called cargo culting."
+    "contentSnippet": "Background\n\n\nElevenLabs is “the most realistic voice AI platform” (their words), and it really is fantastic. I have been using it to automatically call people, leave messages, and run outbound phone w"
   },
   {
-    "title": "Easy way to Integrate Swagger with Node.js REST APIs",
-    "link": "https://dev.to/vp-22/easy-way-to-integrate-swagger-with-nodejs-rest-apis-oh2",
-    "pubDate": "Thu, 11 Dec 2025 12:45:00 +0000",
+    "title": "DuckDB: how to fine tune parameters?",
+    "link": "https://dev.to/sharmaprash/duckdb-how-to-fine-tune-parameters-39h8",
+    "pubDate": "Thu, 11 Dec 2025 18:18:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Swagger is one of the simplest ways to document REST APIs. It provides an interactive UI where developers can test endpoints, understand inputs and outputs, and integrate your API faster.\nThis guide c"
+    "contentSnippet": "DuckDB has rapidly gained popularity as an in-process, analytical database that delivers blazing-fast SQL queries without requiring a separate server. While its out-of-the-box performance is impressiv"
   },
   {
-    "title": "Convert Figma layers to code in Tailwind CSS with Flowbite MCP",
-    "link": "https://dev.to/themesberg/convert-figma-layers-to-code-in-tailwind-css-with-flowbite-mcp-50ec",
-    "pubDate": "Thu, 11 Dec 2025 12:43:36 +0000",
+    "title": "OWASP Top Ten 2025 Quiz 2 Week 1 (51 Questions)",
+    "link": "https://dev.to/fosres/owasp-top-ten-2025-quiz-2-week-1-34lc",
+    "pubDate": "Thu, 11 Dec 2025 18:16:18 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In this guide you will learn how to install the Flowbite MCP server and convert Figma design files in your MCP client such as Cursor, Windsurf or Claude and generate code in Tailwind CSS and based on "
+    "contentSnippet": "51 Questions That Will Prepare You For Your AppSec Phone Interview\n\n\nThe following questions prepare you for the AppSec Engineer phone\ninterview--where you are tested on your conceptual mastery of\nApp"
   },
   {
-    "title": "2026年加密支付网关横评：商家选型避坑指南",
-    "link": "https://dev.to/justqueue/2026nian-jia-mi-zhi-fu-wang-guan-heng-ping-shang-jia-xuan-xing-bi-keng-zhi-nan-2973",
-    "pubDate": "Thu, 11 Dec 2025 12:39:07 +0000",
+    "title": "Is GCC right when it accepts a C++ template struct having a member with a wrong default initializer?",
+    "link": "https://dev.to/sharmaprash/is-gcc-right-when-it-accepts-a-c-template-struct-having-a-member-with-a-wrong-default-initializer-4067",
+    "pubDate": "Thu, 11 Dec 2025 18:15:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "本文首发于 blog.payin.com\n\n网上关于加密支付网关的文章，十篇有九篇都在堆功能：\"这个支持300种币！那个手续费才0.5%！\"\n但真正重要的问题，没人告诉你：你的钱，到底在谁手里？\n2014年，Mt. Gox一夜崩塌，4.5亿美元用户资金灰飞烟灭。2022年，FTX轰然倒下，数十亿美元打了水漂。这些虽然是交易所，但道理是一样的：把钱交给别人保管，你永远不知道明天会发生什么。\n这篇文章"
+    "contentSnippet": "Have you ever written C++ template code that compiled fine with GCC but failed with Clang or MSVC? You're not alone. A recent StackOverflow question highlights a subtle but important compiler discrepa"
   },
   {
-    "title": "USDT vs USDC：商家到底该选哪个？（2026深度解析）",
-    "link": "https://dev.to/justqueue/usdt-vs-usdcshang-jia-dao-di-gai-xuan-na-ge-2026shen-du-jie-xi--m5",
-    "pubDate": "Thu, 11 Dec 2025 12:39:03 +0000",
+    "title": "Day-15: VPC Peering using AWS Terraform",
+    "link": "https://dev.to/bhaskara_tejabulusu_b4bf/day-15-vpc-peering-using-aws-terraform-2j75",
+    "pubDate": "Thu, 11 Dec 2025 18:15:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "本文首发于 blog.payin.com\n\n准备接受稳定币收款的商家，都会遇到这个问题：USDT、USDC，还是两个都要？\n这不是小事。这两个稳定币加起来占了2500亿美元市场的90%。表面上看都是锚定美元、到处能用，但深挖下去，差别大了去了。\n这篇文章从商家实际需求出发，帮你搞清楚：哪个更安全？哪个用户多？哪个合规风险小？最后给你一个明确的答案。\n建议：两个都接。 原因如下：\n\n\n\n对比项\nUS"
+    "contentSnippet": "Day 15: VPC Peering with Terraform\n\n\n\n  \n  \n  Introduction\n\n\nToday, we're diving into one of the most powerful networking concepts in AWS: VPC Peering. This tutorial will guide you through creating a "
   },
   {
-    "title": "The Hidden Costs of Accessibility Audits: A Project Manager’s Guide",
-    "link": "https://dev.to/a11ynews/the-hidden-costs-of-accessibility-audits-a-project-managers-guide-1855",
-    "pubDate": "Thu, 11 Dec 2025 12:39:00 +0000",
+    "title": "GitHub Actions for Modern Deployments",
+    "link": "https://dev.to/aws-builders/github-actions-for-modern-deployments-5amc",
+    "pubDate": "Thu, 11 Dec 2025 18:15:04 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Pair accessibility audits with your standard QA process. It reduces the chance of late‑phase surprises that derail both your budget and your timeline.\n\n\n\n  \n  \n  Why Accessibility Audits Matter for Pr"
+    "contentSnippet": "Published: December 11, 2024 • 10 min read\nGitHub Actions has revolutionized how we approach Continuous Integration and Continuous Deployment (CI/CD). With its native integration into GitHub repositor"
+  },
+  {
+    "title": "Google、MCPサーバの発見や管理のためのレジストリ「Cloud API Registry」プレビュー公開",
+    "link": "https://www.publickey1.jp/blog/25/googlemcpcloud_api_registry.html",
+    "pubDate": "2025-12-11T15:23:29.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Googleは、Googleや社内で提供されているMCP（Model Context Protocol）サーバや関連ツールの発見、管理、利用、監視などを統合的に可能にするレジストリサービス「Cloud API Registry」のプレビュー公開を発表しました。 GoogleがMCPサーバを多数投入 MCPとは一般に、生成AIやAIエージェントが外部のツールを呼び出して情報を取得したり操作したりする"
   },
   {
     "title": "テセウスのTransformer",
@@ -271,12 +278,5 @@
     "pubDate": "2025-12-07T15:35:40.000Z",
     "source": "Publickey",
     "contentSnippet": "Next.jsの開発で知られるVercelは、同社が提供する同名のサービス「Vercel」において、顧客ごとのマルチテナント構成やマルチプロジェクト構成が簡単に作れる新サービス「Vercel for Platforms」を発表しました。 Vercel for Platforms is here.Build multi-tenant or multi-project platforms with p"
-  },
-  {
-    "title": "AIエージェントをどのコードエディタでも使えるようにする「ACP（Agent Client Protocol）」、JetBrainsがベータ提供開始",
-    "link": "https://www.publickey1.jp/blog/25/aiacpagent_client_protocoljetbrainszeddocker.html",
-    "pubDate": "2025-12-07T15:34:09.000Z",
-    "source": "Publickey",
-    "contentSnippet": "JetBrainsは、AIエージェントをどのコードエディタでも使えるようにすることを目指す業界標準「ACP（Agent Client Protocol）」を、同社のコードエディタ製品群JetBrains IDEsでベータ版として実装したことを明らかにしました。 Integrating the agent you want into the IDE you love should be effort"
   }
 ]

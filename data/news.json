@@ -1,73 +1,80 @@
 [
   {
-    "title": "Functional Composition in JavaScript",
-    "link": "https://dev.to/travisfont/functional-composition-in-javascript-3n6j",
-    "pubDate": "Wed, 10 Dec 2025 18:33:29 +0000",
+    "title": ".slice()、.reverse()",
+    "link": "https://dev.to/nikimunger/slice-reverse-3h2k",
+    "pubDate": "Thu, 11 Dec 2025 02:06:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Also known as function pipelines.\nInstead of writing: Math.sqrt(minusOne(double(square(42))));\nIt can be rewritten to be more readable and modular by looping through an array of functions.\nDefining si"
+    "contentSnippet": ".slice()\n\n\n.slice() 是 JavaScript 中 数组和字符串都支持的一个方法，用来 截取一部分内容，返回一个新值（不修改原值）。\n语法：\narr.slice(start, end)\n\nstart：开始位置（包含）\nend：结束位置（不包含）\n都是可选参数\n不会改变原数组\n返回一个新数组\n示例:\n基本使用\n   const arr = [10, 20, 30, 40, 50];"
   },
   {
-    "title": "re:Invent Special Update from AWS CDK",
-    "link": "https://dev.to/aws/reinvent-special-update-from-aws-cdk-2af9",
-    "pubDate": "Wed, 10 Dec 2025 18:22:15 +0000",
+    "title": "5 Database Query Optimization Tips That Actually Work",
+    "link": "https://dev.to/mark_redding_fb1c365503df/5-database-query-optimization-tips-that-actually-work-16kh",
+    "pubDate": "Thu, 11 Dec 2025 01:55:03 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Index\n\n\n\nTL;DR\nA Message of Gratitude\nMajor Features\nCDK Mixins - Developer Preview\nAI-Powered Development\nService L2 Constructs\nCommunity Highlights\nCommunity Meetings\nCommunity Generated Content\nCon"
+    "contentSnippet": "After years of managing database-driven applications, I've learned that query optimization can make or break your application's performance. Here are five practical tips I use regularly.\nThis seems ob"
   },
   {
-    "title": "Beyond Vanilla RAG: The 7 Modern RAG Architectures Every AI Engineer Must Know",
-    "link": "https://dev.to/naresh_007/beyond-vanilla-rag-the-7-modern-rag-architectures-every-ai-engineer-must-know-4l0c",
-    "pubDate": "Wed, 10 Dec 2025 18:21:58 +0000",
+    "title": "Accelerating PHP Development with Cursor AI",
+    "link": "https://dev.to/mark_redding_fb1c365503df/accelerating-php-development-with-cursor-ai-ln1",
+    "pubDate": "Thu, 11 Dec 2025 01:53:26 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TL;DR\nVanilla RAG, Self-RAG, Corrective RAG, Graph RAG, Hybrid RAG, Agentic RAG, and Multi-Agent RAG. Each solves a different weakness in traditional retrieval, from hallucination control to personali"
+    "contentSnippet": "As a manager overseeing projects at Best Name Badges, I've recently been exploring how AI-powered development tools can streamline our PHP workflows. Cursor AI has been a game-changer for our team.\nCu"
   },
   {
-    "title": "Continuous Integration with GitLab: A Complete Walkthrough Using a Real Node.js Project",
-    "link": "https://dev.to/anusha_kuppili/continuous-integration-with-gitlab-a-complete-walkthrough-using-a-real-nodejs-project-59ip",
-    "pubDate": "Wed, 10 Dec 2025 18:14:57 +0000",
+    "title": "My Newsletter: Growth, Fun, Slow & Steady",
+    "link": "https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4kja",
+    "pubDate": "Thu, 11 Dec 2025 01:52:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Modern teams rely on CI/CD to keep development fast, safe, and consistent. In this guide, we’ll walk through a real GitLab CI/CD pipeline built for a Node.js application—the Solar System project. You’"
+    "contentSnippet": "Beehiiv just dropped their 2025 rewind stats for my newsletter, One Tip a Week, and honestly, I’m pretty happy with the numbers. It’s been a year of consistent growth which is pretty awesome for a new"
   },
   {
-    "title": "Java vs Swift in 2025: The One Choice That Can Make or Break Your App",
-    "link": "https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90",
-    "pubDate": "Wed, 10 Dec 2025 18:08:04 +0000",
+    "title": "How to Merge Word Documents in C#",
+    "link": "https://dev.to/yahey/how-to-merge-word-documents-in-c-28hj",
+    "pubDate": "Thu, 11 Dec 2025 01:42:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you’ve ever worked on an app that went over budget, missed every deadline, and somehow still performed meh in production, you already know the truth developers hate admitting: choosing the wrong la"
+    "contentSnippet": "In today's data-driven world, efficiently managing and combining documents is a common necessity for many applications. Whether you're generating comprehensive reports, assembling legal contracts, or "
   },
   {
-    "title": "MCP Isn’t Hard, Here’s the Easiest Beginner-Friendly MCP MASTERCLASS EVER🤗 (PART 1)",
-    "link": "https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-1-4pel",
-    "pubDate": "Wed, 10 Dec 2025 18:02:43 +0000",
+    "title": "How to Programmatically Split Word Documents in Java using Spire.Doc",
+    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-programmatically-split-word-documents-in-java-using-spiredoc-41ha",
+    "pubDate": "Thu, 11 Dec 2025 01:38:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Welcome Back\n\n\nI have been away for a while, caught up with work and life moving faster than expected. But amid the pressure, I kept feeling that pull to come back to what I truly enjoy. Sharing knowl"
+    "contentSnippet": "Dealing with large or complex Word documents often presents a significant challenge for developers. Whether it's extracting specific chapters, processing individual sections, or distributing portions "
   },
   {
-    "title": "MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler.",
-    "link": "https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-34gm",
-    "pubDate": "Wed, 10 Dec 2025 18:02:06 +0000",
+    "title": "A two-dimensional array is like a big grid of boxes",
+    "link": "https://dev.to/kingyou/a-two-dimensional-array-is-like-a-big-grid-of-boxes-2dn7",
+    "pubDate": "Thu, 11 Dec 2025 01:35:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "MAWA - A programming language as simple in syntax as Python but as impressive as Assembler, it could be called Modern Assembler.\nAlthough I have talked about MAWA before, I haven't gone into much deta"
+    "contentSnippet": "A two-dimensional array is like a big grid of boxes, just like a chessboard or a classroom seating chart where kids sit in rows and columns.\nIt's a bunch of items lined up in rows that go side to side"
   },
   {
-    "title": "🚩 Red flags series #4: Pull request monsters",
-    "link": "https://dev.to/mhamadelitawi/red-flags-series-4-pull-request-monsters-1o0j",
-    "pubDate": "Wed, 10 Dec 2025 18:00:00 +0000",
+    "title": "Cortex-A SBCs vs. Traditional “Linux Boards”: A Practical Engineering Comparison",
+    "link": "https://dev.to/jasonliu112/cortex-a-sbcs-vs-traditional-linux-boards-a-practical-engineering-comparison-124d",
+    "pubDate": "Thu, 11 Dec 2025 01:33:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "📌 This post is one chapter in my Red Flags series. I’m exploring the mistakes, bad practices, and subtle issues we often overlook in day-to-day development. Stay tuned for upcoming posts!\nWhen one pu"
+    "contentSnippet": "When engineers talk about a “Linux board,” they often refer to very different classes of hardware. A modern ARM Cortex-A single-board computer and an older Linux-capable board may both boot Linux, but"
   },
   {
-    "title": "I Analyzed 22,000+ Job Postings in Google SERPs – Here Are the Top Job Boards in 2025",
-    "link": "https://dev.to/jabbs/i-analyzed-22000-job-postings-in-google-serps-here-are-the-top-job-boards-in-2025-223p",
-    "pubDate": "Wed, 10 Dec 2025 17:57:42 +0000",
+    "title": "HANUI - Copy-Paste React Components for Korean Government Design System",
+    "link": "https://dev.to/odada-o/hanui-copy-paste-react-components-for-korean-government-design-system-35gf",
+    "pubDate": "Thu, 11 Dec 2025 01:27:49 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Step 1) Gather job & company data\n\n\nI queried our active job listings and selected the most recent job posting from each of 22,346 companies. Here is the distribution of company sizes:\nSize           "
+    "contentSnippet": "Building a Korean government website? You need to follow KRDS (Korean Government Design System).\nThe problem: KRDS provides a 200+ page PDF guide. Colors, spacing, typography, components - all specifi"
   },
   {
-    "title": "O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend",
-    "link": "https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb",
-    "pubDate": "Wed, 10 Dec 2025 17:56:51 +0000",
+    "title": "Svelte Bash: A Lightweight Terminal Component for Svelte 5 (Autoplay, VFS, Themes, Custom Commands)",
+    "link": "https://dev.to/yusufcengiz/svelte-bash-a-lightweight-terminal-component-for-svelte-5-autoplay-vfs-themes-custom-commands-412a",
+    "pubDate": "Thu, 11 Dec 2025 01:17:31 +0000",
     "source": "DEV.to",
-    "contentSnippet": "✨ INTRODUÇÃO\n\n\nTrabalhar em uma Big Tech sempre parece uma espécie de “porta para um novo mundo”. \nvocê escreve código, e sim como você passa a pensar tecnologia, produto e impacto em escala.\nDepois d"
+    "contentSnippet": "If you're building with Svelte 5 and you’ve ever needed a clean, lightweight, fully-typed terminal UI, I built something you might like.\nMeet Svelte Bash — a zero-dependency, ~4kb gzipped, highly cust"
+  },
+  {
+    "title": "Google、すべてのサービスに生成AIと接続できるフルマネージドなMCPサーバを提供すると宣言。まずはGoogleマップ、BigQuery、Google Compute Engineで利用可能に",
+    "link": "https://www.publickey1.jp/blog/25/googleaimcpgooglebigquerygoogle_compute_engine.html",
+    "pubDate": "2025-12-10T23:56:31.000Z",
+    "source": "Publickey",
+    "contentSnippet": "Googleは、Geminiなどの生成AIと同社のクラウドサービスを接続できるMCPサーバを今後すべての同社のサービスで提供すると発表しました。   Google’s existing API infrastructure is now enhanced to support MCP, providing a unified layer across all Google and Google C"
   },
   {
     "title": "Claude CodeにSlackでコーディングタスクを依頼可能に。Anthropicがリサーチプレビュー公開",
@@ -84,6 +91,13 @@
     "contentSnippet": "さくらインターネットは、同社のクラウドサービス「さくらのクラウド」で「AppRun」の正式提供の開始を発表しました。 AppRunは、コンテナ化されたアプリケーションを簡単にデプロイし、自動的にスケーリングを行うコンテナ実行基盤を提供するサービスです。Amazon Web Services（AWS）のApp RunnerやGoogle CloudのCloud Runに相当すると言えます。 コンテナ"
   },
   {
+    "title": "アスタリスクはもう古い！？モダンC言語でのポインター型の記法",
+    "link": "https://zenn.dev/mod_poppo/articles/c-pointer-notation",
+    "pubDate": "Wed, 10 Dec 2025 11:16:45 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は「C Advent Calendar 2025」の11日目の記事です。\nこの記事は半分ジョークで半分本気です。\n\n C言語のポインター型の表記の問題\nC言語でのポインター型の表記にはアスタリスク * が使われます。例えば、int へのポインターなら int * という具合です。しかし、C言語のポインター型の記法には2つの問題点があります：\n問題点その1：複数の変数を宣言したときに非直感的"
+  },
+  {
     "title": "OpenAI、Google、MS、Anthropic、AWSらがAIエージェントの普及と相互運用を促進する団体「Agentic AI Foundation」（AAIF）設立。Linux Foundation傘下で",
     "link": "https://www.publickey1.jp/blog/25/openaigooglemsanthropicawsaiagentic_ai_foundationaaiflinux_foundation.html",
     "pubDate": "2025-12-10T03:11:39.000Z",
@@ -98,11 +112,25 @@
     "contentSnippet": "!\nこの記事はReact Tokyo Advent Calendar 2025の10日目の記事です。\n\nこんにちは、yamanokuです。本日はReact Tokyoのアドベントカレンダー企画ということで、コミュニティ参加者から見たReact Tokyoの取り組みの印象と考えてみたことについてを書いてみました。あくまでも、運営メンバーではなく一個人の解釈としてお読みいただけると幸いです。\nReac"
   },
   {
+    "title": "バハムート駆動開発をやってください",
+    "link": "https://qiita.com/RealFlair/items/f9edf19495275f36e784?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T22:09:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "クラスを、オブジェクトを、なんとなく理解したと思えたとき、クラスが召喚石で、オブジェクトがバハムートで、newがバハムート呼び出すことで、メソッドがバハムートのメガフレアみたいなもんかなと思いました。\nそれを例として後輩に教えていたら、一部の人にツボったみたいで、普段ほぼ聞..."
+  },
+  {
     "title": "OpenAPIに設計を集約してドキュメントを一元管理する実践ガイド",
     "link": "https://qiita.com/Mr_hana/items/432d83cf2df584c2e651?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-09T22:09:25.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\nOpenAPIを用いてAPIファーストな開発を行っているとモックサーバーやコードの自動生成、テストの自動化など多くのメリットがあります。そうすると徐々に設計ドキュメントも一箇所にまとめたい欲求にかられます。\nもやもやポイント\n\nドキュメントの乖離 実装変更時に..."
+  },
+  {
+    "title": "フレッツ光を Catalyst スイッチで収容してみよう",
+    "link": "https://qiita.com/matagawa/items/11b2510bf3b42cb8484a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T22:07:49.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこの記事はシスコの有志による Cisco Systems Japan Advent Calendar 2025 の 10 日目 (シリーズ 2) として投稿しています。\n\n📅 これまでのカレンダーの一覧\n\n2017 年版: https://qiita.com/..."
   },
   {
     "title": "あまり、法律を気にせずAIを使ってきたことに気付いた　〜今後ウォッチすべき情報ソースまで含めて考える〜",
@@ -175,18 +203,11 @@
     "contentSnippet": "LayerX Tech Advent Calendar 2025の9日目の記事です。\nバクラク事業部 ソフトウェアエンジニアの @upamune です。\n今日は、ローカル開発のシークレット設定をいい感じにした話をします。\n\n\n ローカル開発環境のシークレット設定、手動でやっていませんか？\n「シークレットは1Passwordにあるので設定してください」\n開発環境のセットアップでこのようなことを言った"
   },
   {
-    "title": "コードミスで自社メールサーバーを受信不能にした話",
-    "link": "https://qiita.com/tampopo256/items/f70bdbb84c9d50959888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T05:33:03.000Z",
+    "title": "2025年12月版: MCP、Subagent、Skills… エージェント拡張技術が次々出てきて追いきれない人のためのガイド",
+    "link": "https://qiita.com/jugyo/items/afd684d7eeb0bf194843?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-09T03:48:52.000Z",
     "source": "Qiita",
-    "contentSnippet": "コードミスで自社メールサーバーを受信不能にした話\n― たった4行を書かなかったせいで会社のメールが全滅した ―\nこの記事は\n本番環境などでやらかしちゃった人 Advent Calendar 2025\nの 9日目 の記事です。\n今回は、\n「4行の if 文を入れ忘れた結果、..."
-  },
-  {
-    "title": "Tailscaleを社内VPNとして採用できるかという観点で試してみた",
-    "link": "https://qiita.com/ryoma-debari/items/225bb4843510619a2f64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T05:15:01.000Z",
-    "source": "Qiita",
-    "contentSnippet": "💻 TailscaleというVPNを試してみた\nこの記事は一休.com Advent Calendar 2025の6日目の記事です。\n\n一休の情シスで社内ネットワークを担当している出張です。この記事ではTailscaleという製品についてお話ししたいと思います。\n\n..."
+    "contentSnippet": "このエントリーは with Advent Calendar 2025 の 9日目の記事になります。\n\nMCP、Subagent、Skills、Code execution、Advanced tool use… ここ1年ほどで、エージェントを拡張する技術が次々と登場しています..."
   },
   {
     "title": "マネジメントを知らないエンジニアが本を読んで感じたこと",
@@ -210,18 +231,18 @@
     "contentSnippet": "Cap'n Webが面白いのでその紹介です。\n\n Cap'n Web概要\nCap'n WebはJavaScriptネイティブなRPCの実装でcapnwebというnpmライブラリが提供されています。作者がCloudflare Workersを作ったKentonなんで注目しています。実際レポジトリもCloudflareのorgにあります。\nhttps://github.com/cloudflare/c"
   },
   {
+    "title": "「とりあえずNext.js」をやめてBetter-T-Stackを試してみた",
+    "link": "https://zenn.dev/appleworld/articles/567515443c85a3",
+    "pubDate": "Mon, 08 Dec 2025 22:30:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "株式会社アップルワールドのrikuです。\n※この記事はアップルワールド Advent Calendar 2025の9日目の記事です。\n\n はじめに\n2025年12月3日に起きたNext.jsおよびRSCのセキュリティ問題を受けて、弊社のフロントエンド技術選定について真剣に考える必要が出てきました。\n今回の問題については各所で再三触れられているため、ここでは詳細を割愛します。\n\n\n弊社では今まで利用"
+  },
+  {
     "title": "ランサムウェア対策としてのバックアップ戦略＠AWS",
     "link": "https://zenn.dev/nttdata_tech/articles/aws-backup-ransomware-321110",
     "pubDate": "Mon, 08 Dec 2025 22:13:17 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事はJapan AWS Top Engineers Advent Calendar 2025のDay9 の記事です。\nhttps://qiita.com/advent-calendar/2025/aws-top-engineers\n\n 対象読者\n\n\nAmazon Web Services（AWS）でバックアップ戦略を検討している方\n\n\nランサムウェア対策としてのバックアップ設計を検討している"
-  },
-  {
-    "title": "良いコードとは ~ 具体的にどう実装するの ~",
-    "link": "https://qiita.com/yusuke_ando_vj/items/7c3ae472d2ab37001144?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T22:06:42.000Z",
-    "source": "Qiita",
-    "contentSnippet": "前置き\n初めてQiitaに投稿しました。。\nせっかく書くなら汎用性高そうな題材がいいかなと思い\n色々まとめていたら長文となってしまいました笑\n最後まで読んでいただけると嬉しいです！\n※ 全く関係ないですが、仙台に来たらぜひ喜久福、エキソンパイを購入してください！！\nほっ..."
   },
   {
     "title": "TypeScriptエラーハンドリング進化の軌跡",
@@ -231,25 +252,11 @@
     "contentSnippet": "こんにちは、関数型プログラミングを嗜んでいるフルスタックエンジニアのトウカです。アドベントカレンダー初参加なので、温かい目で読んでいただけると幸いです。\n\nはじめに\n皆さんはこんな経験ありませんか？本番環境で突然アプリがクラッシュ。ログを見ると TypeError: Can..."
   },
   {
-    "title": "新しい相関係数の理論的性質",
-    "link": "https://zenn.dev/falconnnmmm/articles/4eecd8a5c3253a",
-    "pubDate": "Mon, 08 Dec 2025 16:23:21 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nあるデータの組み合わせが手元にあるとき、それらがどれほど依存関係にあるのか？というのはデータを触っていると自然に湧いてくる疑問だと思う。\nデータの依存関係を見る時、「相関係数」なるものを計算するのは大半の人が行うと思うが、この相関係数は「ピアソンの相関係数」を指すことがほとんどであろう。この相関係数は Y = aX + b という線形の関係を捉えることはできる。\nと、ここまで書いてたのだ"
-  },
-  {
     "title": "Supabaseのバックエンドサービスを自社ブランドのBaaSとして提供できる「Supabase for Platforms」リリース。AIによる開発ツールを提供するベンダなどに向け",
     "link": "https://www.publickey1.jp/blog/25/supabasebaassupabase_for_platformsai.html",
     "pubDate": "2025-12-08T15:07:54.000Z",
     "source": "Publickey",
     "contentSnippet": "PostgreSQLをベースにしたBaaS（Backend as a Service）の「Supabase」を開発し提供しているSupabase社は、企業などがSupabaseのバックエンドサービスをそのままその企業ブランドのBaaSとしてユーザーに提供可能にする新サービス「Supabase for Platforms」のリリースを発表しました。 Today, we're launching Su"
-  },
-  {
-    "title": "Node.js のコンパイルキャッシュで Cloud Run のコールドスタートを速くする",
-    "link": "https://zenn.dev/bitkey_dev/articles/nodejs-compile-cache",
-    "pubDate": "Mon, 08 Dec 2025 15:00:12 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は Bitkey Developers Advent Calendar 2025 の 9 日目です．\n\n!\nこの記事は情報の提供のみを目的としています．この方法を用いたことにより発生したいかなる損害について，私および弊社は責任を負いません．\n\n\n はじめに\n弊社ビットキーでは，フロントエンドはもちろんのこと，バックエンドに至るまで TypeScript を活用しています．言語を統一する"
   },
   {
     "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
@@ -271,12 +278,5 @@
     "pubDate": "2025-12-07T15:34:09.000Z",
     "source": "Publickey",
     "contentSnippet": "JetBrainsは、AIエージェントをどのコードエディタでも使えるようにすることを目指す業界標準「ACP（Agent Client Protocol）」を、同社のコードエディタ製品群JetBrains IDEsでベータ版として実装したことを明らかにしました。 Integrating the agent you want into the IDE you love should be effort"
-  },
-  {
-    "title": "Webブラウザ上でGPUプログラミングを可能にする「WebGPU」、主要なWebブラウザすべてで利用可能に",
-    "link": "https://www.publickey1.jp/blog/25/webgpuwebgpuweb.html",
-    "pubDate": "2025-12-04T15:13:47.000Z",
-    "source": "Publickey",
-    "contentSnippet": "Webブラウザ上で高速なグラフィックス描画を行うWeb標準「WebGL」の後継として登場した「WebGPU」が、ChromeやFirefox、Safariなどの主要なWebブラウザすべてで利用可能になったことが明らかになりました。 WebGPUはGPU能力を最大限に発揮できるAPI WebGLがグラフィックス描画に特化したAPIであったのに対して、WebGPUは、高速なグラフィック描画だけでなくG"
   }
 ]

@@ -1,73 +1,73 @@
 [
   {
-    "title": "Today I Split My First Huge Component from the Course Into Clean, Reusable Components",
-    "link": "https://dev.to/usama_dev/today-i-split-my-first-huge-component-from-the-course-into-clean-reusable-components-2lgf",
-    "pubDate": "Thu, 11 Dec 2025 18:38:50 +0000",
+    "title": "Building a Modern Image Gallery with Next.js 16, TypeScript & Unsplash API",
+    "link": "https://dev.to/bishoy_semsem/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-134m",
+    "pubDate": "Fri, 12 Dec 2025 02:09:43 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today I worked on one of the most important exercises in my React course:\nsplitting a huge component into multiple smaller, meaningful components.\nThe course gave me one large file with all the UI and"
+    "contentSnippet": "Here's the thing about image galleries: they look simple until you actually build one for production. Then you're suddenly dealing with layout shifts, slow loads, SEO nightmares, and users complaining"
   },
   {
-    "title": "Today I Split My First Huge Component from the Course Into Clean, Reusable Components",
-    "link": "https://dev.to/usama_dev/today-i-split-my-first-huge-component-from-the-course-into-clean-reusable-components-3161",
-    "pubDate": "Thu, 11 Dec 2025 18:38:50 +0000",
+    "title": "Descubre Bluestar Linux: Un Sistema Operativo Versátil",
+    "link": "https://dev.to/epubgratis/descubre-bluestar-linux-un-sistema-operativo-versatil-6dk",
+    "pubDate": "Fri, 12 Dec 2025 02:09:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Today I worked on one of the most important exercises in my React course:\nsplitting a huge component into multiple smaller, meaningful components.\nThe course gave me one large file with all the UI and"
+    "contentSnippet": "Bluestar Linux es un sistema operativo que pertenece a la familia Linux y se basa en Arch Linux, reconocido por su robustez y flexibilidad. Este software, desarrollado en Estados Unidos, ofrece una ex"
   },
   {
-    "title": ".NET Performance Optimization: Fixing a 15-Second E-Commerce Page Load",
-    "link": "https://dev.to/mashrulhaque/net-performance-optimization-fixing-a-15-second-e-commerce-page-load-46nm",
-    "pubDate": "Thu, 11 Dec 2025 18:25:21 +0000",
+    "title": "# Release 0.4 Week 2: Fixing a Windows Bug in Nextcloud Desktop Client",
+    "link": "https://dev.to/hsachdeva9/-release-04-week-2-fixing-a-windows-bug-in-nextcloud-desktop-client-28f7",
+    "pubDate": "Fri, 12 Dec 2025 02:09:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "A real-world case study of rescuing an enterprise e-commerce platform from performance hell, complete with war room panic, 63 SQL queries per page load, and the joy of watching response times drop fro"
+    "contentSnippet": "Moving to a New Challenge\n\n\nAfter submitting my pull request for OpenCTI, I wanted to take on something different for the second half of Release 0.4. I decided to explore the Nextcloud Desktop Client,"
   },
   {
-    "title": "DB Connection Pools: The Chefs Behind Your App’s Kitchen",
-    "link": "https://dev.to/rijultp/db-connection-pools-the-chefs-behind-your-apps-kitchen-218l",
-    "pubDate": "Thu, 11 Dec 2025 18:19:19 +0000",
+    "title": "Stop Evaluating AI Agents Like ML Models: A Paradigm Shift for Developers",
+    "link": "https://dev.to/imshashank/stop-evaluating-ai-agents-like-ml-models-a-paradigm-shift-for-developers-4pgf",
+    "pubDate": "Fri, 12 Dec 2025 02:09:00 +0000",
     "source": "DEV.to",
-    "contentSnippet": "When developing code that involves connecting to databases, you may come across a term called DB pools.\nLet’s understand it.\nIt is basically a reusable collection of open connections to a database.\nIn"
+    "contentSnippet": "The Flaw in Our Thinking\n\n\nFor years, we've been conditioned to evaluate machine learning models with a standard set of metrics: accuracy, precision, recall, F1-score. We feed the model an input, chec"
   },
   {
-    "title": "How I Got Caller ID Working in Canada Using RingCentral, Twilio, and ElevenLabs",
-    "link": "https://dev.to/colbygarland/using-ringcentral-twilio-and-elevenlabs-in-canada-to-get-caller-id-d89",
-    "pubDate": "Thu, 11 Dec 2025 18:18:35 +0000",
+    "title": "How to Create, Read, or Update Excel Documents in C#",
+    "link": "https://dev.to/yahey/how-to-create-read-or-update-excel-documents-in-c-51mg",
+    "pubDate": "Fri, 12 Dec 2025 02:07:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Background\n\n\nElevenLabs is “the most realistic voice AI platform” (their words), and it really is fantastic. I have been using it to automatically call people, leave messages, and run outbound phone w"
+    "contentSnippet": "In the dynamic world of modern application development, data reigns supreme. Whether it's financial reports, inventory lists, or analytical summaries, Excel remains a ubiquitous format for data storag"
   },
   {
-    "title": "DuckDB: how to fine tune parameters?",
-    "link": "https://dev.to/sharmaprash/duckdb-how-to-fine-tune-parameters-39h8",
-    "pubDate": "Thu, 11 Dec 2025 18:18:25 +0000",
+    "title": "Release 0.4: Contributing a New Feature to OpenCTI - A Cyber Threat Intelligence Platform",
+    "link": "https://dev.to/hsachdeva9/release-04-contributing-a-new-feature-to-opencti-a-cyber-threat-intelligence-platform-14o1",
+    "pubDate": "Fri, 12 Dec 2025 02:00:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "DuckDB has rapidly gained popularity as an in-process, analytical database that delivers blazing-fast SQL queries without requiring a separate server. While its out-of-the-box performance is impressiv"
+    "contentSnippet": "Finding My Way to OpenCTI\n\n\nWhen I started planning what I wanted to work on for Release 0.4, I knew I wanted something that would challenge me and align with my interests. I had already contributed a"
   },
   {
-    "title": "OWASP Top Ten 2025 Quiz 2 Week 1 (51 Questions)",
-    "link": "https://dev.to/fosres/owasp-top-ten-2025-quiz-2-week-1-34lc",
-    "pubDate": "Thu, 11 Dec 2025 18:16:18 +0000",
+    "title": "Building an AI cost-optimizer (routing + caching + VSCode SDK). Looking for feedback.",
+    "link": "https://dev.to/mohd_zaki_0f1543d6bd21ea2/building-an-ai-cost-optimizer-routing-caching-vscode-sdk-looking-for-feedback-10p5",
+    "pubDate": "Fri, 12 Dec 2025 01:50:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "51 Questions That Will Prepare You For Your AppSec Phone Interview\n\n\nThe following questions prepare you for the AppSec Engineer phone\ninterview--where you are tested on your conceptual mastery of\nApp"
+    "contentSnippet": "👋 Hey devs — Looking for feedback on my AI cost-optimization + “AI Slop Prevention” tool\nI'm Zach, and I’ve been building AI features for a while now.\n💸 The problem (from a developer’s perspective)\n"
   },
   {
-    "title": "Is GCC right when it accepts a C++ template struct having a member with a wrong default initializer?",
-    "link": "https://dev.to/sharmaprash/is-gcc-right-when-it-accepts-a-c-template-struct-having-a-member-with-a-wrong-default-initializer-4067",
-    "pubDate": "Thu, 11 Dec 2025 18:15:28 +0000",
+    "title": "The Silent Productivity Killer in Your Coding Workflow (And How I Finally Fixed It)",
+    "link": "https://dev.to/deleanmafra/the-silent-productivity-killer-in-your-coding-workflow-and-how-i-finally-fixed-it-5fd3",
+    "pubDate": "Fri, 12 Dec 2025 01:49:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Have you ever written C++ template code that compiled fine with GCC but failed with Clang or MSVC? You're not alone. A recent StackOverflow question highlights a subtle but important compiler discrepa"
+    "contentSnippet": "Every developer has that one thing in their workflow that quietly drains hours without us noticing. For some people, it’s context switching. For others, it’s debugging rabbit holes.\nFor me? It was som"
   },
   {
-    "title": "Day-15: VPC Peering using AWS Terraform",
-    "link": "https://dev.to/bhaskara_tejabulusu_b4bf/day-15-vpc-peering-using-aws-terraform-2j75",
-    "pubDate": "Thu, 11 Dec 2025 18:15:22 +0000",
+    "title": "How to Add Background in Word Document: A Comprehensive Guide",
+    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-add-background-in-word-document-a-comprehensive-guide-8fl",
+    "pubDate": "Fri, 12 Dec 2025 01:43:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Day 15: VPC Peering with Terraform\n\n\n\n  \n  \n  Introduction\n\n\nToday, we're diving into one of the most powerful networking concepts in AWS: VPC Peering. This tutorial will guide you through creating a "
+    "contentSnippet": "Setting a custom background in your Word documents can significantly enhance their visual appeal and reinforce brand identity. Whether it's a subtle color, a dynamic gradient, or a striking image, a w"
   },
   {
-    "title": "GitHub Actions for Modern Deployments",
-    "link": "https://dev.to/aws-builders/github-actions-for-modern-deployments-5amc",
-    "pubDate": "Thu, 11 Dec 2025 18:15:04 +0000",
+    "title": "I Built a Community for Government Exam Aspirants Using the Forem",
+    "link": "https://dev.to/muraridevv/i-built-a-community-for-government-exam-aspirants-using-the-forem-3lpg",
+    "pubDate": "Fri, 12 Dec 2025 01:38:15 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Published: December 11, 2024 • 10 min read\nGitHub Actions has revolutionized how we approach Continuous Integration and Continuous Deployment (CI/CD). With its native integration into GitHub repositor"
+    "contentSnippet": "I’ve always felt that government exam aspirants in India don’t have a clean, focused, supportive space online. Everything is scattered across Telegram groups, WhatsApp broadcasts, random PDFs, and noi"
   },
   {
     "title": "Google、MCPサーバの発見や管理のためのレジストリ「Cloud API Registry」プレビュー公開",
@@ -75,6 +75,20 @@
     "pubDate": "2025-12-11T15:23:29.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、Googleや社内で提供されているMCP（Model Context Protocol）サーバや関連ツールの発見、管理、利用、監視などを統合的に可能にするレジストリサービス「Cloud API Registry」のプレビュー公開を発表しました。 GoogleがMCPサーバを多数投入 MCPとは一般に、生成AIやAIエージェントが外部のツールを呼び出して情報を取得したり操作したりする"
+  },
+  {
+    "title": "AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)",
+    "link": "https://zenn.dev/himara2/articles/755a0a2c4678c0",
+    "pubDate": "Thu, 11 Dec 2025 10:48:10 GMT",
+    "source": "Zenn",
+    "contentSnippet": "Claude CodeやCodexの登場でコーディングは体感3倍くらい早くなりました。しかしプロダクト開発自体の速度アップは1.x倍くらいに留まっている気がします。\nその原因は「プロダクト作りはコーディング以外にも色々やることがあるから」だと思い、コーディング以外でのAI活用を今年色々試したのでまとめてみます。\nなお、このZennは「小さなチーム 大きな仕事」というタイトルで以前発表したものの再編"
+  },
+  {
+    "title": "View TransitionでわかるNext.jsとAstroの設計思想",
+    "link": "https://zenn.dev/ignorant_kenji/articles/6f501784ee2812",
+    "pubDate": "Thu, 11 Dec 2025 05:32:13 GMT",
+    "source": "Zenn",
+    "contentSnippet": "PLAID Designer's Advent Calendar 11日目の記事です。こんにちは。株式会社プレイドのDirection & Development Unit所属のデザインエンジニア、ケンジです。\n\n はじめに\nウェブフロントエンド開発のエコシステムは成熟期を迎えました。「シングルページアプリケーション（SPA）」と「マルチページアプリケーション（MPA）」という長年の二項対立。この"
   },
   {
     "title": "テセウスのTransformer",
@@ -126,6 +140,13 @@
     "contentSnippet": "はじめに\nシステムアイアドベントカレンダー11日目です。アドベントカレンダーへの参加は今年で3年目になりますが、みなさん、今年の目標は達成できましたか？\n個人に課していた目標でアドベントカレンダーまでに、Qiitaの記事投稿をする目標を立てていたのですが、\n結局、アドベン..."
   },
   {
+    "title": "CLAUDE.mdの肥大化を防ぐ！.claude/rules/で動的にルールを読み込む方法",
+    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_dynamic_rules",
+    "pubDate": "Wed, 10 Dec 2025 18:38:07 GMT",
+    "source": "Zenn",
+    "contentSnippet": "こんにちは、とまだです。\nClaude Codeを使っていると、プロジェクトごとのルールをCLAUDE.mdに書いていくことが多いと思います。\n「TypeScriptのコーディング規約」「テストの書き方」「APIの設計ルール」...気づいたらCLAUDE.mdが数百行になっていた、なんてことはありませんか？\nCLAUDE.mdが大きくなると、起動時に全てがコンテキストに読み込まれます。つまり、常に"
+  },
+  {
     "title": "Reactカスタムフックが可読性を損なうとき",
     "link": "https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability",
     "pubDate": "Wed, 10 Dec 2025 17:24:08 GMT",
@@ -154,11 +175,32 @@
     "contentSnippet": "さくらインターネットは、同社のクラウドサービス「さくらのクラウド」で「AppRun」の正式提供の開始を発表しました。 AppRunは、コンテナ化されたアプリケーションを簡単にデプロイし、自動的にスケーリングを行うコンテナ実行基盤を提供するサービスです。Amazon Web Services（AWS）のApp RunnerやGoogle CloudのCloud Runに相当すると言えます。 コンテナ"
   },
   {
+    "title": "証明書の自動更新のすすめ − Step Functions × DigiCert API で運用ゼロを実現",
+    "link": "https://qiita.com/chotone/items/a560ae8eab9ec6403e10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T14:35:57.000Z",
+    "source": "Qiita",
+    "contentSnippet": "💡 はじめに\nみなさんはSSL/TLSサーバ証明書の有効期限が短縮されることをご存知でしょうか？\n\n証明書の最長有効期間が、次のとおり短縮されます。\n本日から 2026 年 3 月 14 日までは、TLS 証明書の最長有効期間を 397 日とする。\n2026 年 3 月 ..."
+  },
+  {
     "title": "生成AI時代だからこそ、Vim as an IME",
     "link": "https://zenn.dev/dog/articles/vim-as-an-ime",
     "pubDate": "Wed, 10 Dec 2025 14:04:32 GMT",
     "source": "Zenn",
     "contentSnippet": "生成AI時代だからこそ、Vim as an IME\nFirenvim を導入しました。\nFirenvim とは、Firefox や Chrome のテキストボックスの上に Neovim をオーバーレイし、テキストエリアにある内容を Neovim の一時バッファに送ってくれる機能です。もちろん、そのバッファを保存（:w）すると、ブラウザのテキストエリアに即座に反映してくれます。\n今回は、このツールを"
+  },
+  {
+    "title": "Antigravity を使って自作 WEB アプリの脆弱性診断を行ってみたメモ",
+    "link": "https://zenn.dev/junpei_katayama/articles/self-vulnerability-check",
+    "pubDate": "Wed, 10 Dec 2025 13:48:49 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nX でドット絵交換 WEB アプリなるものを見かけました。\nhttps://x.com/logicsky_pixel/status/1997005807595278748?s=20\nアイデアが素敵だな～と思っていたのですが、先日サービスの終了が宣言されました 😢\nhttps://x.com/Kyora_san/status/1997707973993681363?s=20\n顛末を見てみ"
+  },
+  {
+    "title": "Zabbixで円周率の近似値を求めてみた",
+    "link": "https://qiita.com/nuon0414/items/d673b4ae6c3ce41953ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T11:19:09.000Z",
+    "source": "Qiita",
+    "contentSnippet": "こんにちは。はじめてQiitaでZabbixの記事を投稿します。\nアドベントカレンダー14日に投稿予定でしたが、本日10日の投稿者がいなさそうだったので、前倒しで投稿しています。\n今回は、Zabbixで円周率を求めてみたくなった（？）ので、やってみました。\n\n1.円周率とは..."
   },
   {
     "title": "アスタリスクはもう古い！？モダンC言語でのポインター型の記法",
@@ -180,20 +222,6 @@
     "pubDate": "2025-12-10T03:11:39.000Z",
     "source": "Publickey",
     "contentSnippet": "Linux Foundationは、Amazon Web Services（AWS）、Anthropic、Block、Bloomberg、Cloudflare、Google、Microsoft、OpenAIなどのプラチナメンバーによるAIエージェントの普及や開発、相互運用などを促進するための中立的な団体「Agentic AI Foundation」（AAIF）の設立を発表しました。 Agentic"
-  },
-  {
-    "title": "Vueユーザーから見るReact Tokyoコミュニティ",
-    "link": "https://zenn.dev/yamanoku/articles/react-tokyo-advent-calender-2025",
-    "pubDate": "Wed, 10 Dec 2025 01:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事はReact Tokyo Advent Calendar 2025の10日目の記事です。\n\nこんにちは、yamanokuです。本日はReact Tokyoのアドベントカレンダー企画ということで、コミュニティ参加者から見たReact Tokyoの取り組みの印象と考えてみたことについてを書いてみました。あくまでも、運営メンバーではなく一個人の解釈としてお読みいただけると幸いです。\nReac"
-  },
-  {
-    "title": "バハムート駆動開発をやってください",
-    "link": "https://qiita.com/RealFlair/items/f9edf19495275f36e784?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:09:50.000Z",
-    "source": "Qiita",
-    "contentSnippet": "クラスを、オブジェクトを、なんとなく理解したと思えたとき、クラスが召喚石で、オブジェクトがバハムートで、newがバハムート呼び出すことで、メソッドがバハムートのメガフレアみたいなもんかなと思いました。\nそれを例として後輩に教えていたら、一部の人にツボったみたいで、普段ほぼ聞..."
   },
   {
     "title": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」",
@@ -222,34 +250,6 @@
     "pubDate": "2025-12-09T15:07:58.000Z",
     "source": "Publickey",
     "contentSnippet": "オープンソースの分散メッセージングシステムであるApache kafkaの作者らが立ち上げた企業であるConfluentを、IBMが買収することが発表されました。買収額は110億ドル（1ドル150円換算で約1兆6500億円）です。 IBMはこれによりエンタープライズ向けのデータプラットフォームの強化を目論みます。 We are excited that Confluent has entered "
-  },
-  {
-    "title": "cspsc - 実はプリンタは計算機だったのかもしれない",
-    "link": "https://qiita.com/tmyt/items/994d1552497dd5202aa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T15:01:59.000Z",
-    "source": "Qiita",
-    "contentSnippet": "tl;dr\n\nC#のサブセットを定義した。そしてRoslynを活用してPostScriptへのコンパイラを実装した\nコンパイラサービスをHTTPで実装し、Cloudflare Containersで公開した\nプリンタは貴重な計算資源！ご家庭のプリンタにもっと計算させよう！..."
-  },
-  {
-    "title": "Claude Code × MCP × Notion で「Jupyter Notebookから分析レポート」ことはじめ",
-    "link": "https://zenn.dev/mkj/articles/0f7ba3695874ee",
-    "pubDate": "Tue, 09 Dec 2025 15:00:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "株式会社松尾研究所の大岡です。この記事は、松尾研究所 Advent Calendar 2025の記事です。今回は、Jupyter NotebookからNotion上に分析レポートを自動生成することに挑戦してみます。Notionを利用していなくても、ConfluenceやObsidianも公式からMCP[1]が発表されているので、現場で試してみようかな、という気持ちになっていただけたら嬉しいです。\n"
-  },
-  {
-    "title": "3年ぶりにアプリをアップデートしたことの振り返り",
-    "link": "https://zenn.dev/naoya_maeda/articles/af86652c1ba611",
-    "pubDate": "Tue, 09 Dec 2025 15:00:02 GMT",
-    "source": "Zenn",
-    "contentSnippet": "本記事は、『エンジニアと人生 Advent Calendar 2025』10日目の記事です。\nhttps://adventar.org/calendars/12244\n本記事では、僕が約3年ぶりにアプリをアップデートしたことについて振り返っています。\n前半では、個人開発を始めたきっかけや現在リリースしているアプリの紹介を、後半では今回アップデートしたアプリの開発内容や振り返りをまとめています。技術"
-  },
-  {
-    "title": "Claude Codeプラグインを社内で作って、2ヶ月経過した",
-    "link": "https://zenn.dev/ubie_dev/articles/5c510ab1d7e6f3",
-    "pubDate": "Tue, 09 Dec 2025 14:57:03 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、Ubieでソフトウェアエンジニアをしているshirajiです。\n(ちょっとここ1,2週間年内リリースするものが立て込んでて、なぜ12/9担当になったのか？と後悔してます。残り1時間で12/10です。)\nこの記事は、Ubie Advent Calendar 2025 の12/9の記事です。\nClaude Codeって便利ですよね。ここ最近compactの頻度が激しくて、ちょっと乗り換えか"
   },
   {
     "title": "2025年12月版: MCP、Subagent、Skills… エージェント拡張技術が次々出てきて追いきれない人のためのガイド",

@@ -1,73 +1,80 @@
 [
   {
-    "title": "Building a Modern Image Gallery with Next.js 16, TypeScript & Unsplash API",
-    "link": "https://dev.to/bishoy_semsem/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-134m",
-    "pubDate": "Fri, 12 Dec 2025 02:09:43 +0000",
+    "title": "Day 62: Python Longest Subarray with Target Sum - O(n) Prefix Sum & HashMap Guide (LeetCode Vibes)",
+    "link": "https://dev.to/shahrouzlogs/day-62-python-longest-subarray-with-target-sum-on-prefix-sum-hashmap-guide-leetcode-vibes-4n7b",
+    "pubDate": "Fri, 12 Dec 2025 06:31:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Here's the thing about image galleries: they look simple until you actually build one for production. Then you're suddenly dealing with layout shifts, slow loads, SEO nightmares, and users complaining"
+    "contentSnippet": "Welcome to Day 62 of the #80DaysOfChallenges journey! This intermediate challenge solves the longest subarray with exact target sum using the powerhouse combo of prefix sums and a hashmap for O(n) tim"
   },
   {
-    "title": "Descubre Bluestar Linux: Un Sistema Operativo Versátil",
-    "link": "https://dev.to/epubgratis/descubre-bluestar-linux-un-sistema-operativo-versatil-6dk",
-    "pubDate": "Fri, 12 Dec 2025 02:09:33 +0000",
+    "title": "The \"Distributed State Tax\" and Why We Don't Always Need Redis: Introducing C3",
+    "link": "https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8",
+    "pubDate": "Fri, 12 Dec 2025 06:22:13 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Bluestar Linux es un sistema operativo que pertenece a la familia Linux y se basa en Arch Linux, reconocido por su robustez y flexibilidad. Este software, desarrollado en Estados Unidos, ofrece una ex"
+    "contentSnippet": "One of the hardest lessons in software architecture is learning that every decoupling creates a new communication cost. We call this the \"Distributed State Tax\".\nIn a monolithic application, sharing d"
   },
   {
-    "title": "# Release 0.4 Week 2: Fixing a Windows Bug in Nextcloud Desktop Client",
-    "link": "https://dev.to/hsachdeva9/-release-04-week-2-fixing-a-windows-bug-in-nextcloud-desktop-client-28f7",
-    "pubDate": "Fri, 12 Dec 2025 02:09:15 +0000",
+    "title": "[AWS] 3. EC2 - Solutions Architect Associate Level",
+    "link": "https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b",
+    "pubDate": "Fri, 12 Dec 2025 06:18:46 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Moving to a New Challenge\n\n\nAfter submitting my pull request for OpenCTI, I wanted to take on something different for the second half of Release 0.4. I decided to explore the Nextcloud Desktop Client,"
+    "contentSnippet": "Private IP vs Public IP (IPv4)\n\n\n\n\nNetworking has two sorts of IPs. IPv4 and IPv6.\nIPv4: 1.160.10.240\n\nIPv6: 3ffe: 1900:4545:3:200:f8ff:fe21:67cf\n\n\n\n\n\n\n\nIn this course, we will only be using IPv4.\n\n\n\n"
   },
   {
-    "title": "Stop Evaluating AI Agents Like ML Models: A Paradigm Shift for Developers",
-    "link": "https://dev.to/imshashank/stop-evaluating-ai-agents-like-ml-models-a-paradigm-shift-for-developers-4pgf",
-    "pubDate": "Fri, 12 Dec 2025 02:09:00 +0000",
+    "title": "Remote SSH Access to Windows from Debian: Complete Setup and Fixes",
+    "link": "https://dev.to/siddharth_magesh_e12b8505/remote-ssh-access-to-windows-from-debian-complete-setup-and-fixes-3e5d",
+    "pubDate": "Fri, 12 Dec 2025 06:18:36 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Flaw in Our Thinking\n\n\nFor years, we've been conditioned to evaluate machine learning models with a standard set of metrics: accuracy, precision, recall, F1-score. We feed the model an input, chec"
+    "contentSnippet": "Remote SSH Access to a Windows Machine from Debian: Full Setup, Fixes, and Lessons Learned\n\n\nI wanted to remotely access my Windows laptop (with GPU) from my Debian machine using SSH. However, Windows"
   },
   {
-    "title": "How to Create, Read, or Update Excel Documents in C#",
-    "link": "https://dev.to/yahey/how-to-create-read-or-update-excel-documents-in-c-51mg",
-    "pubDate": "Fri, 12 Dec 2025 02:07:33 +0000",
+    "title": "The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript",
+    "link": "https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412",
+    "pubDate": "Fri, 12 Dec 2025 06:18:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In the dynamic world of modern application development, data reigns supreme. Whether it's financial reports, inventory lists, or analytical summaries, Excel remains a ubiquitous format for data storag"
+    "contentSnippet": "Introduction\n\n\nModern CSS in 2025 lets you replace many \"glue\" scripts with clean, declarative styling, cutting bundle size and complexity while improving performance and accessibility. This guide wal"
   },
   {
-    "title": "Release 0.4: Contributing a New Feature to OpenCTI - A Cyber Threat Intelligence Platform",
-    "link": "https://dev.to/hsachdeva9/release-04-contributing-a-new-feature-to-opencti-a-cyber-threat-intelligence-platform-14o1",
-    "pubDate": "Fri, 12 Dec 2025 02:00:45 +0000",
+    "title": "Your ERP is a Goldmine. Stop Needing a PhD to Dig for Gold.",
+    "link": "https://dev.to/xccelerance_technologies_/your-erp-is-a-goldmine-stop-needing-a-phd-to-dig-for-gold-19id",
+    "pubDate": "Fri, 12 Dec 2025 06:16:50 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Finding My Way to OpenCTI\n\n\nWhen I started planning what I wanted to work on for Release 0.4, I knew I wanted something that would challenge me and align with my interests. I had already contributed a"
+    "contentSnippet": "An illustration showing a conversational AI interface unlocking data from a complex ERP system.\nFor decades, the promise of Enterprise Resource Planning (ERP) has been a “single source of truth.” But "
   },
   {
-    "title": "Building an AI cost-optimizer (routing + caching + VSCode SDK). Looking for feedback.",
-    "link": "https://dev.to/mohd_zaki_0f1543d6bd21ea2/building-an-ai-cost-optimizer-routing-caching-vscode-sdk-looking-for-feedback-10p5",
-    "pubDate": "Fri, 12 Dec 2025 01:50:57 +0000",
+    "title": "Implementasi Visual Design & UX pada FIMO: Analisis Heuristik, Benchmarking, dan Evolusi Desain",
+    "link": "https://dev.to/maulana_seto_2280dfc88c71/implementasi-visual-design-ux-pada-fimo-analisis-heuristik-benchmarking-dan-evolusi-desain-1hph",
+    "pubDate": "Fri, 12 Dec 2025 06:16:12 +0000",
     "source": "DEV.to",
-    "contentSnippet": "👋 Hey devs — Looking for feedback on my AI cost-optimization + “AI Slop Prevention” tool\nI'm Zach, and I’ve been building AI features for a while now.\n💸 The problem (from a developer’s perspective)\n"
+    "contentSnippet": "Dalam pengembangan aplikasi modern, antarmuka pengguna (UI) bukan sekadar tentang estetika, melainkan tentang bagaimana menjembatani model mental pengguna dengan fungsionalitas sistem. Dokumen ini men"
   },
   {
-    "title": "The Silent Productivity Killer in Your Coding Workflow (And How I Finally Fixed It)",
-    "link": "https://dev.to/deleanmafra/the-silent-productivity-killer-in-your-coding-workflow-and-how-i-finally-fixed-it-5fd3",
-    "pubDate": "Fri, 12 Dec 2025 01:49:08 +0000",
+    "title": "Mushroom Revenue",
+    "link": "https://dev.to/bibimbop123/mushroom-revenue-kbk",
+    "pubDate": "Fri, 12 Dec 2025 06:16:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every developer has that one thing in their workflow that quietly drains hours without us noticing. For some people, it’s context switching. For others, it’s debugging rabbit holes.\nFor me? It was som"
+    "contentSnippet": "Ambitions of a Dried Pink Oyster Merchant!\nThis chart shows price per pound for fresh and dried mushrooms, along with yield, flushes, total fresh weight, growth speed, and markets to give a clear view"
   },
   {
-    "title": "How to Add Background in Word Document: A Comprehensive Guide",
-    "link": "https://dev.to/lu_liu_e3fc806354d9a952b7/how-to-add-background-in-word-document-a-comprehensive-guide-8fl",
-    "pubDate": "Fri, 12 Dec 2025 01:43:02 +0000",
+    "title": "Mushroom Revenue",
+    "link": "https://dev.to/bibimbop123/mushroom-revenue-489j",
+    "pubDate": "Fri, 12 Dec 2025 06:16:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Setting a custom background in your Word documents can significantly enhance their visual appeal and reinforce brand identity. Whether it's a subtle color, a dynamic gradient, or a striking image, a w"
+    "contentSnippet": "Ambitions of a Dried Pink Oyster Merchant!\nThis chart shows price per pound for fresh and dried mushrooms, along with yield, flushes, total fresh weight, growth speed, and markets to give a clear view"
   },
   {
-    "title": "I Built a Community for Government Exam Aspirants Using the Forem",
-    "link": "https://dev.to/muraridevv/i-built-a-community-for-government-exam-aspirants-using-the-forem-3lpg",
-    "pubDate": "Fri, 12 Dec 2025 01:38:15 +0000",
+    "title": "9 Low-Cost AI Tools Every SaaS Team Should Be Using in 2025",
+    "link": "https://dev.to/sonu_goswami/9-low-cost-ai-tools-every-saas-team-should-be-using-in-2025-5ajj",
+    "pubDate": "Fri, 12 Dec 2025 06:15:10 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’ve always felt that government exam aspirants in India don’t have a clean, focused, supportive space online. Everything is scattered across Telegram groups, WhatsApp broadcasts, random PDFs, and noi"
+    "contentSnippet": "Most SaaS founders think they need “big budget AI” to ship faster.\nlow-cost tools that quietly eliminate operational bottlenecks.\nBelow is a streamlined AI toolkit designed to help small SaaS teams bu"
+  },
+  {
+    "title": "詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌",
+    "link": "https://zenn.dev/sohosai/articles/3ac46af14abd96",
+    "pubDate": "Thu, 11 Dec 2025 17:31:43 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事はjsys Advent Calendar 2025の10日目の記事です。すみません、大遅刻しました。\n前日はれたすけ（@letasuu1） さんによる「冬は全身が鍋」でした。一人暮らしの私も最近鍋をやっていて、楽で美味しいので良いです。まあ、現時点で投稿されていなそうですが......明日は Centra（@centra_linux） さんによる「そぽ祭りには実はサイネージがあった！？！"
   },
   {
     "title": "Google、MCPサーバの発見や管理のためのレジストリ「Cloud API Registry」プレビュー公開",
@@ -75,6 +82,13 @@
     "pubDate": "2025-12-11T15:23:29.000Z",
     "source": "Publickey",
     "contentSnippet": "Googleは、Googleや社内で提供されているMCP（Model Context Protocol）サーバや関連ツールの発見、管理、利用、監視などを統合的に可能にするレジストリサービス「Cloud API Registry」のプレビュー公開を発表しました。 GoogleがMCPサーバを多数投入 MCPとは一般に、生成AIやAIエージェントが外部のツールを呼び出して情報を取得したり操作したりする"
+  },
+  {
+    "title": "Claude Codeのコンテキストを節約する",
+    "link": "https://zenn.dev/karaage0703/articles/1f30a572ff8460",
+    "pubDate": "Thu, 11 Dec 2025 13:33:29 GMT",
+    "source": "Zenn",
+    "contentSnippet": "増え続けるコンテキスト\nAIコーディング実践環境の構築方法【2025年12月】という記事も書きましたが、AIコーディングツールとして、私は現在Claude Codeをメインで使用しています。\nそしてAIコーディングしていて、一番ストレスフルな瞬間…それは何といってもこれ\nCompacting Conversation...\n使用しているコンテキストが一杯になったときに出てくる無慈悲なメッセージ。し"
   },
   {
     "title": "AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)",
@@ -96,6 +110,20 @@
     "pubDate": "Thu, 11 Dec 2025 04:02:48 GMT",
     "source": "Zenn",
     "contentSnippet": "!\nこの記事は CyberAgent AI Lab Advent Calendar 2025 の11日目の記事です。\n10日目：2025年キャラクター系の論文一言まとめ(ACL, EMNLP)\n12日目：\n\n\n はじめに\nサイバーエージェント AI Lab NLP チームの高瀬です。自然言語処理や機械学習分野で研究をしていまして、最近はTransformerの性質に関する研究が多いです。\nさて、大"
+  },
+  {
+    "title": "Storybook風SlackApp UIのプレビューツール『slack-blockbook』を作ってみた！",
+    "link": "https://zenn.dev/layerx/articles/11368a2ad2b5d1",
+    "pubDate": "Thu, 11 Dec 2025 02:00:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "LayerX Tech Advent Calendar 2025の11日目の記事です。\nバクラク事業部 でバクラク勤怠を作っているソフトウェアエンジニアの @tiger です。\n今日はSlack Block KitのStorybook風プレビューツール slack-blockbook を作成したので紹介させてください！\nhttps://www.npmjs.com/package/@layerx/s"
+  },
+  {
+    "title": "RAGで非構造データを整理する手法「BookRAG」",
+    "link": "https://zenn.dev/knowledgesense/articles/f7f9a9b38f6add",
+    "pubDate": "Thu, 11 Dec 2025 01:15:54 GMT",
+    "source": "Zenn",
+    "contentSnippet": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、非構造データから構造データとナレッジグラフを構成して、質問に応じた検索手法を実行することで高い精度を実現する手法「BookRAG」を紹介します。\nhttps://arxiv.org/abs/2512.03413\n\n\n サマリー\nRAGはこれまでチャンク化した文書を検索するや、ナレッジグラフを構築して検索する手法など様々な手法が提案さ"
   },
   {
     "title": "Google、すべてのサービスに生成AIと接続できるフルマネージドなMCPサーバを提供すると宣言。まずはGoogleマップ、BigQuery、Google Compute Engineで利用可能に",
@@ -182,39 +210,11 @@
     "contentSnippet": "💡 はじめに\nみなさんはSSL/TLSサーバ証明書の有効期限が短縮されることをご存知でしょうか？\n\n証明書の最長有効期間が、次のとおり短縮されます。\n本日から 2026 年 3 月 14 日までは、TLS 証明書の最長有効期間を 397 日とする。\n2026 年 3 月 ..."
   },
   {
-    "title": "生成AI時代だからこそ、Vim as an IME",
-    "link": "https://zenn.dev/dog/articles/vim-as-an-ime",
-    "pubDate": "Wed, 10 Dec 2025 14:04:32 GMT",
-    "source": "Zenn",
-    "contentSnippet": "生成AI時代だからこそ、Vim as an IME\nFirenvim を導入しました。\nFirenvim とは、Firefox や Chrome のテキストボックスの上に Neovim をオーバーレイし、テキストエリアにある内容を Neovim の一時バッファに送ってくれる機能です。もちろん、そのバッファを保存（:w）すると、ブラウザのテキストエリアに即座に反映してくれます。\n今回は、このツールを"
-  },
-  {
-    "title": "Antigravity を使って自作 WEB アプリの脆弱性診断を行ってみたメモ",
-    "link": "https://zenn.dev/junpei_katayama/articles/self-vulnerability-check",
-    "pubDate": "Wed, 10 Dec 2025 13:48:49 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nX でドット絵交換 WEB アプリなるものを見かけました。\nhttps://x.com/logicsky_pixel/status/1997005807595278748?s=20\nアイデアが素敵だな～と思っていたのですが、先日サービスの終了が宣言されました 😢\nhttps://x.com/Kyora_san/status/1997707973993681363?s=20\n顛末を見てみ"
-  },
-  {
     "title": "Zabbixで円周率の近似値を求めてみた",
     "link": "https://qiita.com/nuon0414/items/d673b4ae6c3ce41953ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-10T11:19:09.000Z",
     "source": "Qiita",
     "contentSnippet": "こんにちは。はじめてQiitaでZabbixの記事を投稿します。\nアドベントカレンダー14日に投稿予定でしたが、本日10日の投稿者がいなさそうだったので、前倒しで投稿しています。\n今回は、Zabbixで円周率を求めてみたくなった（？）ので、やってみました。\n\n1.円周率とは..."
-  },
-  {
-    "title": "アスタリスクはもう古い！？モダンC言語でのポインター型の記法",
-    "link": "https://zenn.dev/mod_poppo/articles/c-pointer-notation",
-    "pubDate": "Wed, 10 Dec 2025 11:16:45 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は「C Advent Calendar 2025」の11日目の記事です。\nこの記事は半分ジョークで半分本気です。\n\n C言語のポインター型の表記の問題\nC言語でのポインター型の表記にはアスタリスク * が使われます。例えば、int へのポインターなら int * という具合です。しかし、C言語のポインター型の記法には2つの問題点があります：\n問題点その1：複数の変数を宣言したときに非直感的"
-  },
-  {
-    "title": "【備忘録】なぜ日本のITは「技術トレンド」に遅れるのか？経営者と話してわかった構造の闇",
-    "link": "https://zenn.dev/croco_82/articles/e7ee28b8556c83",
-    "pubDate": "Wed, 10 Dec 2025 06:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "はじめに\nこんにちは、駆け出しエンジニアの croco です。\n先日、あるIT企業の経営者の方と「日本のIT産業の課題」について深くお話しする機会がありました。そこで突きつけられたのは、「なぜ日本企業は新しい技術（AIやクラウドなど）のキャッチアップが遅いのか？」という問いに対する、あまりに根深い構造的な理由でした。\n技術力不足でも、やる気不足でもない。「業界の構造そのもの」が技術の進化を阻んでい"
   },
   {
     "title": "OpenAI、Google、MS、Anthropic、AWSらがAIエージェントの普及と相互運用を促進する団体「Agentic AI Foundation」（AAIF）設立。Linux Foundation傘下で",

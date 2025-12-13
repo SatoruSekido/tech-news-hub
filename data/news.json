@@ -1,73 +1,87 @@
 [
   {
-    "title": "The Joy of Code in the Age of Vibe Engineering",
-    "link": "https://dev.to/jjn1056/the-joy-of-code-in-the-age-of-vibe-engineering-49j2",
-    "pubDate": "Sat, 13 Dec 2025 01:44:23 +0000",
+    "title": "Auto-stop EC2 on low CPU, then auto-start on HTTPS request — how to keep a “front door” while the instance is off?",
+    "link": "https://dev.to/jawherkassas/auto-stop-ec2-on-low-cpu-then-auto-start-on-https-request-how-to-keep-a-front-door-while-the-58f",
+    "pubDate": "Sat, 13 Dec 2025 06:28:30 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I’ve always liked programming because I could get the machine to bend to my will.\nProgramming has a puzzle-like pleasure to it. Breaking a messy problem down into smaller and smaller pieces. Staring a"
+    "contentSnippet": "Hi everyone,\nI’m trying to deploy an application on a single EC2 instance and reduce costs by stopping the instance when it’s idle, then automatically starting it again when someone calls my API over "
   },
   {
-    "title": "Making TypeScript Tools Safer and Smarter",
-    "link": "https://dev.to/oleksandrakordonets/making-typescript-tools-safer-and-smarter-4pgk",
-    "pubDate": "Sat, 13 Dec 2025 01:38:25 +0000",
+    "title": "Stuck for Hours? The 'Productive Struggle' Rule for LeetCode",
+    "link": "https://dev.to/alex_hunter_44f4c9ed6671e/stuck-for-hours-the-productive-struggle-rule-for-leetcode-2ab6",
+    "pubDate": "Sat, 13 Dec 2025 06:21:55 +0000",
     "source": "DEV.to",
-    "contentSnippet": "For the past few weeks, my main goal in my open-source contributions was to work on tools that real TypeScript developers use every day, and to challenge myself with issues that were not just styling "
+    "contentSnippet": "Originally published on LeetCopilot Blog\nStaring at the screen for 2 hours isn't grit—it's wasted time. Here is the exact skill-based time limit for when to peek at the solution.\nYou've been staring a"
   },
   {
-    "title": "Feature Gating: How We Built a Freemium SaaS Without Duplicating Components",
-    "link": "https://dev.to/aniefon_umanah_ac5f21311c/feature-gating-how-we-built-a-freemium-saas-without-duplicating-components-1lo6",
-    "pubDate": "Sat, 13 Dec 2025 01:27:52 +0000",
+    "title": "Mind Goes Blank on LeetCode? Here's Your Escape Plan",
+    "link": "https://dev.to/alex_hunter_44f4c9ed6671e/mind-goes-blank-on-leetcode-heres-your-escape-plan-472m",
+    "pubDate": "Sat, 13 Dec 2025 06:21:05 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The problem with most feature-gating implementations? They end up scattering billing checks throughout your codebase like landmines. You've got if (user.plan === 'pro') everywhere, making it impossibl"
+    "contentSnippet": "Originally published on LeetCopilot Blog\nYou understand the problem but have zero idea how to start. That paralysis is fixable. Here's a step-by-step process to get unstuck.\nYou open a new problem. Yo"
   },
   {
-    "title": "Debounce vs Throttle in JavaScript (Explained Simply with Code)",
-    "link": "https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm",
-    "pubDate": "Sat, 13 Dec 2025 01:08:11 +0000",
+    "title": "Cloud Architecture Mistakes I Made So You Don't Have To",
+    "link": "https://dev.to/aman_kulshrestha_815f0a2f/cloud-architecture-mistakes-i-made-so-you-dont-have-to-23hl",
+    "pubDate": "Sat, 13 Dec 2025 06:15:56 +0000",
     "source": "DEV.to",
-    "contentSnippet": "If you work with JavaScript long enough, you’ll face this problem:\nSome events fire too frequently.\nExamples:\ninput → every key press\nscroll → dozens of times per second\nresize → continuously while dr"
+    "contentSnippet": "I've been building cloud infrastructure for 5+ years. Here are the expensive lessons I learned—so you can skip the pain.\nMy first startup? I built a Kubernetes cluster for 50 users.\nWhat I should've d"
   },
   {
-    "title": "How I Detected and Stopped a Real-World RCE Attack on My Next.js App (CVE-2025-55182 / React2Shell)",
-    "link": "https://dev.to/jeromedh/how-i-detected-and-stopped-a-real-world-rce-attack-on-my-nextjs-app-cve-2025-55182-react2shell-2pmd",
-    "pubDate": "Sat, 13 Dec 2025 01:00:34 +0000",
+    "title": "TFT LCD Technology Explained: Principles, Panel Types, and Real-World Applications",
+    "link": "https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-technology-explained-principles-panel-types-and-real-world-applications-56gl",
+    "pubDate": "Sat, 13 Dec 2025 06:15:20 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Last week I experienced one of the most eye-opening security incidents in my time building web apps.\nremote code execution (RCE), and the root cause was a newly disclosed vulnerability in React Server"
+    "contentSnippet": "TFT LCD (Thin-Film Transistor Liquid Crystal Display) is one of the most widely adopted display technologies in modern electronic systems. It serves as the visual interface for devices ranging from sm"
   },
   {
-    "title": "Why Your UEBA Isn’t Working (and how to fix it)",
-    "link": "https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59",
-    "pubDate": "Sat, 13 Dec 2025 00:51:23 +0000",
+    "title": "What Actually Determines a File's Type",
+    "link": "https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0",
+    "pubDate": "Sat, 13 Dec 2025 06:13:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "UEBA (User Entity Behavior Analysis) is a security layer that uses machine learning and analytics to detect threats by analyzing patterns in user and entity behavior.\nHere’s an oversimplified example "
+    "contentSnippet": "Every file format has a specification, “an agreed-upon structure that defines how the bytes in that file are organized”. Just like we have standards for internet protocols, we have standards for file "
   },
   {
-    "title": "How to Connect VAPI to Google Calendar for Appointment Scheduling",
-    "link": "https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj",
-    "pubDate": "Sat, 13 Dec 2025 00:46:45 +0000",
+    "title": "Java Keywords",
+    "link": "https://dev.to/lakshmi_g_74c225d5ca0b272/java-keywords-2n22",
+    "pubDate": "Sat, 13 Dec 2025 06:10:32 +0000",
     "source": "DEV.to",
-    "contentSnippet": "How to Connect VAPI to Google Calendar for Appointment Scheduling\n\n\n\n  \n  \n  TL;DR\n\n\nMost calendar integrations break when OAuth tokens expire mid-call or timezone mismatches corrupt availability chec"
+    "contentSnippet": "abstract   ,  assert   ,    boolean  ,    break    ,    byte\ncase     ,    catch    ,    char    ,     class    ,    const*\ncontinue  ,   default   ,   do     ,      double     ,  else\nenum      ,   e"
   },
   {
-    "title": "The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge",
-    "link": "https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59",
-    "pubDate": "Sat, 13 Dec 2025 00:44:02 +0000",
+    "title": "Safeguarding Your React Native App: Protecting Screens for Unauthorized Users",
+    "link": "https://dev.to/rogasper/safeguarding-your-react-native-app-protecting-screens-for-unauthorized-users-2npb",
+    "pubDate": "Sat, 13 Dec 2025 06:09:24 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Behind the Code: The Anti-Framework Idea\n\n\nBefore we dive into the madness, a word for the developers.\nFUBARos is built with 0% Frameworks, 0% Tailwind, and 100% Vanilla JavaScript.\nIn an era where \"H"
+    "contentSnippet": "Developing a mobile application often involves managing user authentication and ensuring that sensitive parts of your app are only accessible to logged-in users. In this blog post, we'll dive into how"
   },
   {
-    "title": "Improving navigation in long Google AI Studio chats with a userscript",
-    "link": "https://dev.to/axl_43df979e16ffa14c/improving-navigation-in-long-google-ai-studio-chats-with-a-userscript-3pbl",
-    "pubDate": "Sat, 13 Dec 2025 00:43:11 +0000",
+    "title": "Automating Dockerized App Deployment with a Bash Script",
+    "link": "https://dev.to/ifeanyi_nworji/automating-dockerized-app-deployment-with-a-bash-script-41im",
+    "pubDate": "Sat, 13 Dec 2025 06:06:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Working with long chat sessions in Google AI Studio exposes several usability issues, including inefficient navigation, loss of context, and limited keyboard control.\nTo address this, I wrote a usersc"
+    "contentSnippet": "DevOps is all about automation, reliability, and efficiency. In Stage 1 of my DevOps internship, I built a robust Bash script to automate the deployment of a Dockerized application to a remote Linux s"
   },
   {
-    "title": "𝗚𝗿𝗮𝘁𝗲𝗳𝘂𝗹 𝘁𝗼 𝗯𝗲 𝗥𝗮𝗻𝗸𝗲𝗱 𝗔𝗺𝗼𝗻𝗴 𝘁𝗵𝗲 𝗠𝗼𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗨𝘀𝗲𝗿𝘀 𝗶𝗻 𝗡𝗶𝗴𝗲𝗿𝗶𝗮 🇳🇬💻",
-    "link": "https://dev.to/engripaye/-35da",
-    "pubDate": "Sat, 13 Dec 2025 00:35:57 +0000",
+    "title": "Vibe Coding Is Empty: Why The Future Belongs To Devs Who Think, Not Just Type",
+    "link": "https://dev.to/aiwithapex/vibe-coding-is-empty-why-the-future-belongs-to-devs-who-think-not-just-type-2pkh",
+    "pubDate": "Sat, 13 Dec 2025 05:56:28 +0000",
     "source": "DEV.to",
-    "contentSnippet": "𝗧𝗼𝗽 𝟴 on the list — proof that consistency beats motivation.\nOpen-source builds real skills.\nMore building. More learning. More impact. 🚀"
+    "contentSnippet": "Vibe coding is fun until you realize you’re just copy‑pasting code you don’t understand.\nI’ve noticed a quiet shift in software work.\nAI can already write, fix, and debug a lot of your code.\nWhat it c"
+  },
+  {
+    "title": "runtime/secret でGoのランタイムから秘匿情報を消す",
+    "link": "https://zenn.dev/mattn/articles/64d85241fd3726",
+    "pubDate": "Fri, 12 Dec 2025 15:00:04 GMT",
+    "source": "Zenn",
+    "contentSnippet": "はじめに\nこの記事は、Google Developer Experts Advent Calendar 2025 13日目の記事です。\n先日、Go の tip に入った面白い新機能についての話をしようと思います。\nhttps://github.com/golang/go/commit/a3fb92a7100f3f2824d483ee0cbcf1264584b3e4\nこのコミットで、runtime/"
+  },
+  {
+    "title": "シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている",
+    "link": "https://zenn.dev/moneyforward/articles/0a9e517a02ddbd",
+    "pubDate": "Fri, 12 Dec 2025 08:48:08 GMT",
+    "source": "Zenn",
+    "contentSnippet": "1. はじめに\n!\nシフトレフトという言葉に感じていた違和感\n\nここ数年、「シフトレフト」という言葉を耳にする機会が増えました。\nテスト、QA、セキュリティ、運用――\n何かにつけて「シフトレフトしよう」という言葉が使われます。\n一方で、正直なところずっと違和感もありました。\n話を聞いていると、人によって指しているものが違います。\nテストを早く書くことを指す人もいれば、\nQAを設計段階から巻き込むこ"
   },
   {
     "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
@@ -82,6 +96,13 @@
     "pubDate": "Fri, 12 Dec 2025 00:00:02 GMT",
     "source": "Zenn",
     "contentSnippet": "記事を書いた目的・動機\nGraphQLはREST APIの上位互換ではなく、「使いどころを見極めて使えば便利」「使いどころを間違えるとしんどい」系の技術だと思っています。\n「じゃあどういう時に使うべきなの?」と言われたときに、一言で答えるのは難しいので、今後のために記事にまとめようと思いました。\n!\n私は普段Ruby on Railsをメインで書いています。本記事の主張の多くは、言語やフレームワー"
+  },
+  {
+    "title": "クロックパズルを単因子論で解く",
+    "link": "https://zenn.dev/lotz/articles/93f73c17145819",
+    "pubDate": "Thu, 11 Dec 2025 22:47:16 GMT",
+    "source": "Zenn",
+    "contentSnippet": "これは「Haskell Advent Calendar 2025」12日目の記事です。\n\nタイトルにクロックパズルと銘打ちましたが、このパズルの本当の名前を私は知りません（知ってたら教えて下さい）。パズルというのは例えば、以下のように\n\n左、中央、右にそれぞれ3時間と4時間と5時間を計る時計があり、時計の針は 1,2,3 を指しているとします。それぞれの押しボタンを押すと時計の針は以下のように動き"
   },
   {
     "title": "T2セキュリティチップ搭載のMacBook Pro （2019）にLinux Mintを入れてみた話",
@@ -180,27 +201,6 @@
     "pubDate": "Thu, 11 Dec 2025 05:32:13 GMT",
     "source": "Zenn",
     "contentSnippet": "PLAID Designer's Advent Calendar 11日目の記事です。こんにちは。株式会社プレイドのDirection & Development Unit所属のデザインエンジニア、ケンジです。\n\n はじめに\nウェブフロントエンド開発のエコシステムは成熟期を迎えました。「シングルページアプリケーション（SPA）」と「マルチページアプリケーション（MPA）」という長年の二項対立。この"
-  },
-  {
-    "title": "テセウスのTransformer",
-    "link": "https://zenn.dev/shot4410/articles/5354ce65907e15",
-    "pubDate": "Thu, 11 Dec 2025 04:02:48 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は CyberAgent AI Lab Advent Calendar 2025 の11日目の記事です。\n10日目：2025年キャラクター系の論文一言まとめ(ACL, EMNLP)\n12日目：できるだけ横着して研究発表にいい感じに質問してくれるツールを作ってみる\n\n\n はじめに\nサイバーエージェント AI Lab NLP チームの高瀬です。自然言語処理や機械学習分野で研究をしていまして"
-  },
-  {
-    "title": "Storybook風SlackApp UIのプレビューツール『slack-blockbook』を作ってみた！",
-    "link": "https://zenn.dev/layerx/articles/11368a2ad2b5d1",
-    "pubDate": "Thu, 11 Dec 2025 02:00:05 GMT",
-    "source": "Zenn",
-    "contentSnippet": "LayerX Tech Advent Calendar 2025の11日目の記事です。\nバクラク事業部 でバクラク勤怠を作っているソフトウェアエンジニアの @tiger です。\n今日はSlack Block KitのStorybook風プレビューツール slack-blockbook を作成したので紹介させてください！\nhttps://www.npmjs.com/package/@layerx/s"
-  },
-  {
-    "title": "Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話",
-    "link": "https://zenn.dev/stafes_blog/articles/d7457519a2daec",
-    "pubDate": "Thu, 11 Dec 2025 01:00:01 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nこの記事は、スターフェスティバル Advent Calendar 2025の11日目です。\n\nこんにちは。\nここ1ヶ月くらい、Obsidian × Claude Code メインで日々の情報整理に使ってみて、思った以上に自分に合っていると感じたので、そのあたりを書きます。\n\n 日々の情報整理を改善しようと思った背景\n組織横断のプロジェクトと、それ以外の大小さまざまなタスクが日々発生していて、プ"
   },
   {
     "title": "Google、すべてのサービスに生成AIと接続できるフルマネージドなMCPサーバを提供すると宣言。まずはGoogleマップ、BigQuery、Google Compute Engineで利用可能に",

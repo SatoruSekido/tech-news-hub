@@ -1,73 +1,87 @@
 [
   {
-    "title": "LiteLLM Broke at 300 RPS in Production. Here's How We Fixed It",
-    "link": "https://dev.to/debmckinney/litellm-broke-at-300-rps-in-production-heres-how-we-fixed-it-5ej",
-    "pubDate": "Fri, 12 Dec 2025 18:14:53 +0000",
+    "title": "The Joy of Code in the Age of Vibe Engineering",
+    "link": "https://dev.to/jjn1056/the-joy-of-code-in-the-age-of-vibe-engineering-49j2",
+    "pubDate": "Sat, 13 Dec 2025 01:44:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Incident\n\n\nTuesday, 2:47 PM\n2:53 PM\n2:58 PM\n3:05 PM\nThis happened three times that week.\nWhat We Thought the Problem Was\n“Maybe we need more replicas”\n“Let’s add a load balancer”\n“Probably need be"
+    "contentSnippet": "I’ve always liked programming because I could get the machine to bend to my will.\nProgramming has a puzzle-like pleasure to it. Breaking a messy problem down into smaller and smaller pieces. Staring a"
   },
   {
-    "title": "I got tired of Audit tools that just list problems, so I built one that writes the fixes (and roasts you)",
-    "link": "https://dev.to/mariuscg/i-got-tired-of-audit-tools-that-just-list-problems-so-i-built-one-that-writes-the-fixes-and-25bh",
-    "pubDate": "Fri, 12 Dec 2025 18:08:48 +0000",
+    "title": "Making TypeScript Tools Safer and Smarter",
+    "link": "https://dev.to/oleksandrakordonets/making-typescript-tools-safer-and-smarter-4pgk",
+    "pubDate": "Sat, 13 Dec 2025 01:38:25 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The Problem We've all been there. You run a Lighthouse audit or check PageSpeed Insights. It gives you a red score and a vague list of complaints:\n\"Eliminate render-blocking resources\"\n\"Ensure text re"
+    "contentSnippet": "For the past few weeks, my main goal in my open-source contributions was to work on tools that real TypeScript developers use every day, and to challenge myself with issues that were not just styling "
   },
   {
-    "title": "Build a YouTube Live Clone with Next.js, Clerk, and TailwindCSS - Part Two",
-    "link": "https://dev.to/tropicolx/build-a-youtube-live-clone-with-nextjs-clerk-and-tailwindcss-part-two-5cfo",
-    "pubDate": "Fri, 12 Dec 2025 18:00:58 +0000",
+    "title": "Feature Gating: How We Built a Freemium SaaS Without Duplicating Components",
+    "link": "https://dev.to/aniefon_umanah_ac5f21311c/feature-gating-how-we-built-a-freemium-saas-without-duplicating-components-1lo6",
+    "pubDate": "Sat, 13 Dec 2025 01:27:52 +0000",
     "source": "DEV.to",
-    "contentSnippet": "In part one of this two-part series, we focused on building the foundation of our YouTube Live clone by:\nConfiguring Prisma for our database\n\nAdding authentication with Clerk\n\nIntegrating Stream into "
+    "contentSnippet": "The problem with most feature-gating implementations? They end up scattering billing checks throughout your codebase like landmines. You've got if (user.plan === 'pro') everywhere, making it impossibl"
   },
   {
-    "title": "Why I Built My Personal Developer Portfolio (and What You Can Learn From It)",
-    "link": "https://dev.to/badhonai/why-i-built-my-personal-developer-portfolio-and-what-you-can-learn-from-it-2oib",
-    "pubDate": "Fri, 12 Dec 2025 17:58:05 +0000",
+    "title": "Debounce vs Throttle in JavaScript (Explained Simply with Code)",
+    "link": "https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm",
+    "pubDate": "Sat, 13 Dec 2025 01:08:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "As developers, our portfolio is more than a showcase — it's our identity. I built badhon.online to create a clean, fast, and modern place that represents my work in frontend, mobile development, UI/UX"
+    "contentSnippet": "If you work with JavaScript long enough, you’ll face this problem:\nSome events fire too frequently.\nExamples:\ninput → every key press\nscroll → dozens of times per second\nresize → continuously while dr"
   },
   {
-    "title": "An Analysis of Arbitrage Markets Across Ethereum, Solana, Optimism, and Starknet (2024-2025)",
-    "link": "https://dev.to/extropy/an-analysis-of-arbitrage-markets-across-ethereum-solana-optimism-and-starknet-2024-2025-269i",
-    "pubDate": "Fri, 12 Dec 2025 17:57:01 +0000",
+    "title": "How I Detected and Stopped a Real-World RCE Attack on My Next.js App (CVE-2025-55182 / React2Shell)",
+    "link": "https://dev.to/jeromedh/how-i-detected-and-stopped-a-real-world-rce-attack-on-my-nextjs-app-cve-2025-55182-react2shell-2pmd",
+    "pubDate": "Sat, 13 Dec 2025 01:00:34 +0000",
     "source": "DEV.to",
-    "contentSnippet": "The maturation of public blockchains into global financial layers has fundamentally altered the nature of arbitrage. In the nascent years of DeFi  arbitrage was a game of simple scripts and public mem"
+    "contentSnippet": "Last week I experienced one of the most eye-opening security incidents in my time building web apps.\nremote code execution (RCE), and the root cause was a newly disclosed vulnerability in React Server"
   },
   {
-    "title": "Build a YouTube Live Clone with Next.js, Clerk, and TailwindCSS - Part One",
-    "link": "https://dev.to/tropicolx/build-a-youtube-live-clone-with-nextjs-clerk-and-tailwindcss-part-one-37ke",
-    "pubDate": "Fri, 12 Dec 2025 17:56:55 +0000",
+    "title": "Why Your UEBA Isn’t Working (and how to fix it)",
+    "link": "https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59",
+    "pubDate": "Sat, 13 Dec 2025 00:51:23 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ever wondered how livestream platforms broadcast real-time video to thousands of viewers?\nIn this two-part series, you'll learn how to build a YouTube Live clone using Next.js, TailwindCSS, and Stream"
+    "contentSnippet": "UEBA (User Entity Behavior Analysis) is a security layer that uses machine learning and analytics to detect threats by analyzing patterns in user and entity behavior.\nHere’s an oversimplified example "
   },
   {
-    "title": "📅 Day 14 | AWS NACL — Subnet-Level Security in AWS 🔐",
-    "link": "https://dev.to/sudarshan_yadav/day-14-aws-nacl-subnet-level-security-in-aws-22lj",
-    "pubDate": "Fri, 12 Dec 2025 17:56:43 +0000",
+    "title": "How to Connect VAPI to Google Calendar for Appointment Scheduling",
+    "link": "https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj",
+    "pubDate": "Sat, 13 Dec 2025 00:46:45 +0000",
     "source": "DEV.to",
-    "contentSnippet": "📅 Day 14 | AWS NACL — Subnet-Level Security in AWS 🔐\n\n\nNACL (Network Access Control List) is a subnet-level firewall in AWS VPC.\n\nIt controls what traffic is allowed in and out of each subnet, actin"
+    "contentSnippet": "How to Connect VAPI to Google Calendar for Appointment Scheduling\n\n\n\n  \n  \n  TL;DR\n\n\nMost calendar integrations break when OAuth tokens expire mid-call or timezone mismatches corrupt availability chec"
   },
   {
-    "title": "LogWard 0.3.0: Full SIEM Dashboard, C# SDK, and Our Roadmap",
-    "link": "https://dev.to/polliog/logward-030-full-siem-dashboard-c-sdk-and-our-roadmap-1k1f",
-    "pubDate": "Fri, 12 Dec 2025 17:50:37 +0000",
+    "title": "The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge",
+    "link": "https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59",
+    "pubDate": "Sat, 13 Dec 2025 00:44:02 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Three weeks after launching 0.2.4, we're excited to announce LogWard 0.3.0 — our biggest release yet, focused on application security and observability for .NET teams.\nIf you're new to LogWard: it's a"
+    "contentSnippet": "Behind the Code: The Anti-Framework Idea\n\n\nBefore we dive into the madness, a word for the developers.\nFUBARos is built with 0% Frameworks, 0% Tailwind, and 100% Vanilla JavaScript.\nIn an era where \"H"
   },
   {
-    "title": "Building a Browser-Based Voice-to-Text App with the Web Speech API",
-    "link": "https://dev.to/digitalwareshub/building-a-browser-based-voice-to-text-app-with-the-web-speech-api-2ni4",
-    "pubDate": "Fri, 12 Dec 2025 17:49:43 +0000",
+    "title": "Improving navigation in long Google AI Studio chats with a userscript",
+    "link": "https://dev.to/axl_43df979e16ffa14c/improving-navigation-in-long-google-ai-studio-chats-with-a-userscript-3pbl",
+    "pubDate": "Sat, 13 Dec 2025 00:43:11 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Building a Browser-Based Voice-to-Text App with the Web Speech API\n\n\nI recently built a voice-to-text tool that works entirely in the browser — no backend required for the core functionality. Here's w"
+    "contentSnippet": "Working with long chat sessions in Google AI Studio exposes several usability issues, including inefficient navigation, loss of context, and limited keyboard control.\nTo address this, I wrote a usersc"
   },
   {
-    "title": "How to Turn Ecommerce Reports Into Actionable Business Insights",
-    "link": "https://dev.to/zoolatech/how-to-turn-ecommerce-reports-into-actionable-business-insights-4795",
-    "pubDate": "Fri, 12 Dec 2025 17:49:25 +0000",
+    "title": "𝗚𝗿𝗮𝘁𝗲𝗳𝘂𝗹 𝘁𝗼 𝗯𝗲 𝗥𝗮𝗻𝗸𝗲𝗱 𝗔𝗺𝗼𝗻𝗴 𝘁𝗵𝗲 𝗠𝗼𝘀𝘁 𝗔𝗰𝘁𝗶𝘃𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗨𝘀𝗲𝗿𝘀 𝗶𝗻 𝗡𝗶𝗴𝗲𝗿𝗶𝗮 🇳🇬💻",
+    "link": "https://dev.to/engripaye/-35da",
+    "pubDate": "Sat, 13 Dec 2025 00:35:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Ecommerce teams rarely suffer from a lack of data. If anything, the modern challenge is the opposite: we have dashboards full of charts, weekly exports of performance reports, and automated alerts fir"
+    "contentSnippet": "𝗧𝗼𝗽 𝟴 on the list — proof that consistency beats motivation.\nOpen-source builds real skills.\nMore building. More learning. More impact. 🚀"
+  },
+  {
+    "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
+    "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
+    "pubDate": "Fri, 12 Dec 2025 03:46:38 GMT",
+    "source": "Zenn",
+    "contentSnippet": "この記事は LayerX Tech Advent Calendar 2025 12 日目の記事です。\n前回は@tigerさんのslack-blockbookというslack  appのUI確認を爆速にするライブラリについての記事でした。\n\nこんにちは。株式会社LayerXソフトウェアエンジニアのyataです。\n皆さん、もちろん緯度経度は好きですよね？\n今回は、緯度経度と住所を用いた開発に取り組んだ"
+  },
+  {
+    "title": "GraphQLを採用するか迷ったときに読む記事",
+    "link": "https://zenn.dev/d0ne1s/articles/bfa82af01f8c2f",
+    "pubDate": "Fri, 12 Dec 2025 00:00:02 GMT",
+    "source": "Zenn",
+    "contentSnippet": "記事を書いた目的・動機\nGraphQLはREST APIの上位互換ではなく、「使いどころを見極めて使えば便利」「使いどころを間違えるとしんどい」系の技術だと思っています。\n「じゃあどういう時に使うべきなの?」と言われたときに、一言で答えるのは難しいので、今後のために記事にまとめようと思いました。\n!\n私は普段Ruby on Railsをメインで書いています。本記事の主張の多くは、言語やフレームワー"
   },
   {
     "title": "T2セキュリティチップ搭載のMacBook Pro （2019）にLinux Mintを入れてみた話",
@@ -98,6 +112,13 @@
     "contentSnippet": "はじめに\n本記事では、Excel関数のみでデータの内部結合を実現する方法をご紹介します。\nテーブルの構造がきれいな場合は各レコードに対して1対1でデータを結合させるため、XLOOKUP関数のみで対応可能です。\nしかし1対多の関係のような、1つのレコードの結合先に複数の一致..."
   },
   {
+    "title": "面倒だから作った！Google Calendarの予定をGASでスプレッドシートに書き出して作業時間を集計",
+    "link": "https://qiita.com/tomosu_engine/items/35e17c0995c44e7ac6ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T22:05:21.000Z",
+    "source": "Qiita",
+    "contentSnippet": "1. はじめに\nこの記事では、私が個人的に構築・運用している「Google Calendarとスプレッドシートで作業時間を集計する仕組み」をご紹介します。\n\n🫀 動機は「面倒臭い」と「やってみたい」の気持ちから\nエンジニアになってから、業務のタスク管理はBacklogを使..."
+  },
+  {
     "title": "LLMさんにボディビル大会までの1年間の減量データを分析してもらった",
     "link": "https://qiita.com/mercy-333/items/c5dc9402c8d6095ee5e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-11T22:04:58.000Z",
@@ -105,11 +126,25 @@
     "contentSnippet": "はじめに\n2025年、何をやったかなと振り返ってみたところ、\nそういえばボディビル大会に出場しました。\n大会は見事に予選落ちだったのですが、\n以下のデータがあったため、折角なので分析してみようと思います。\n\n減量期間は約1年間\n体重データ(ほぼ毎日)\n自撮り写真(ほぼ毎..."
   },
   {
+    "title": "log.debug() だけでは見えなかった世界を OpenTelemetry が見せてくれた話",
+    "link": "https://qiita.com/kyojinnaapyon/items/cf5efe38f9ab280ca5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T17:42:07.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025 の12日目の記事です。\n昨日は@yang_zaiqi さんの「AI時代のチームリーダー進化論」という記事でした。\nAI時代のリーダーに求められる役割やスキルを非常に明確に示し、「AIを使う側..."
+  },
+  {
     "title": "詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌",
     "link": "https://zenn.dev/sohosai/articles/3ac46af14abd96",
     "pubDate": "Thu, 11 Dec 2025 17:31:43 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事はjsys Advent Calendar 2025の10日目の記事です。すみません、大遅刻しました。\n前日はれたすけ（@letasuu1） さんによる「冬は全身が鍋」でした。一人暮らしの私も最近鍋をやっていて、楽で美味しいので良いです。まあ、現時点で投稿されていなそうですが......明日は Centra（@centra_linux） さんによる「そぽ祭りには実はサイネージがあった！？！"
+  },
+  {
+    "title": "「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう",
+    "link": "https://zenn.dev/livetoon/articles/04dccf642d324c",
+    "pubDate": "Thu, 11 Dec 2025 16:40:50 GMT",
+    "source": "Zenn",
+    "contentSnippet": "FastAPI + htmxが最強説 - Pythonエンジニアがモック作るならReactは不要、Streamlitも捨てよう\nこの記事はLivetoon Tech Advent Calendar 2025の12日目の記事です。\nhttps://adventar.org/calendars/12157\n\n 宣伝\nhttps://kai0.onelink.me/Hogh/AdventCalendar"
   },
   {
     "title": "Google、MCPサーバの発見や管理のためのレジストリ「Cloud API Registry」プレビュー公開",
@@ -175,39 +210,11 @@
     "contentSnippet": "Googleは、Geminiなどの生成AIと同社のクラウドサービスを接続できるMCPサーバを今後すべての同社のサービスで提供すると発表しました。   Google’s existing API infrastructure is now enhanced to support MCP, providing a unified layer across all Google and Google C"
   },
   {
-    "title": "現場エンジニアではない人事が、それでもQiitaを読む理由",
-    "link": "https://qiita.com/w_koichiro/items/5e334171c424783c0cc0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T23:19:05.000Z",
-    "source": "Qiita",
-    "contentSnippet": "コード以外にも伝わっている\nエンジニアではない立場で、Qiitaを見ている人間がいます。\nKDDIアジャイル開発センターで採用担当をしている渡邊です。\n普段は、ソフトウェアエンジニアやスクラムマスターなど、技術職の採用を担当しています。\nその中で、候補者の方のQiita記..."
-  },
-  {
     "title": "AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話",
     "link": "https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-10T22:07:24.000Z",
     "source": "Qiita",
     "contentSnippet": "※最初に少しだけ\nこの記事で出てくる“AI営業”という言葉は、\n「提案書づくりにAIを積極利用している営業の方」 を示す便宜的な呼び名です。\n深い意味はなく、読みやすさのためのタグのようなものです。\n\n■ 1. AIが“自分の理解をほんの少し越えた提案”を生成してしま..."
-  },
-  {
-    "title": "New Relic Go Agent 完全理解・実践導入ガイド",
-    "link": "https://zenn.dev/mpyw/articles/new-relic-go-agent-struggle",
-    "pubDate": "Wed, 10 Dec 2025 21:47:23 GMT",
-    "source": "Zenn",
-    "contentSnippet": "!\nGo ではタブインデントが推奨されていますが，この記事では Web ブラウザ上での見やすさに配慮して半角スペースを採用しています。\n\n!\nこの記事は Forkwell の普段は絶対読まないメルマガで配信されていた\nおい、テックブログを書け - Speaker Deck\nが目に留まり，どうしても頭から離れなくなってしまったので，発散してスッキリするために仕方なく書きました。いつから俺の筆はこんな"
-  },
-  {
-    "title": "CLAUDE.mdの肥大化を防ぐ！.claude/rules/で動的にルールを読み込む方法",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_dynamic_rules",
-    "pubDate": "Wed, 10 Dec 2025 18:38:07 GMT",
-    "source": "Zenn",
-    "contentSnippet": "こんにちは、とまだです。\nClaude Codeを使っていると、プロジェクトごとのルールをCLAUDE.mdに書いていくことが多いと思います。\n「TypeScriptのコーディング規約」「テストの書き方」「APIの設計ルール」...気づいたらCLAUDE.mdが数百行になっていた、なんてことはありませんか？\nCLAUDE.mdが大きくなると、起動時に全てがコンテキストに読み込まれます。つまり、常に"
-  },
-  {
-    "title": "Reactカスタムフックが可読性を損なうとき",
-    "link": "https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability",
-    "pubDate": "Wed, 10 Dec 2025 17:24:08 GMT",
-    "source": "Zenn",
-    "contentSnippet": "この記事は React Advent Calender 2025 11 日目の投稿です。\n\n 可読性の高いカスタムフックを考える\nReact 開発において、「ロジックはカスタムフックに切り出す」というプラクティスは、私たちの思考に深く根付いています。しかし、筆者の経験上、「なんとなく」でカスタムフックに切り出されたロジックは、かえってコードの可読性を下げることが多いと感じています。コンポーネントの"
   },
   {
     "title": "Claude CodeにSlackでコーディングタスクを依頼可能に。Anthropicがリサーチプレビュー公開",
@@ -222,13 +229,6 @@
     "pubDate": "2025-12-10T15:08:30.000Z",
     "source": "Publickey",
     "contentSnippet": "さくらインターネットは、同社のクラウドサービス「さくらのクラウド」で「AppRun」の正式提供の開始を発表しました。 AppRunは、コンテナ化されたアプリケーションを簡単にデプロイし、自動的にスケーリングを行うコンテナ実行基盤を提供するサービスです。Amazon Web Services（AWS）のApp RunnerやGoogle CloudのCloud Runに相当すると言えます。 コンテナ"
-  },
-  {
-    "title": "Zabbixで円周率の近似値を求めてみた",
-    "link": "https://qiita.com/nuon0414/items/d673b4ae6c3ce41953ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T11:19:09.000Z",
-    "source": "Qiita",
-    "contentSnippet": "こんにちは。はじめてQiitaでZabbixの記事を投稿します。\nアドベントカレンダー14日に投稿予定でしたが、本日10日の投稿者がいなさそうだったので、前倒しで投稿しています。\n今回は、Zabbixで円周率を求めてみたくなった（？）ので、やってみました。\n\n1.円周率とは..."
   },
   {
     "title": "OpenAI、Google、MS、Anthropic、AWSらがAIエージェントの普及と相互運用を促進する団体「Agentic AI Foundation」（AAIF）設立。Linux Foundation傘下で",

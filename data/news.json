@@ -1,73 +1,101 @@
 [
   {
-    "title": "Auto-stop EC2 on low CPU, then auto-start on HTTPS request — how to keep a “front door” while the instance is off?",
-    "link": "https://dev.to/jawherkassas/auto-stop-ec2-on-low-cpu-then-auto-start-on-https-request-how-to-keep-a-front-door-while-the-58f",
-    "pubDate": "Sat, 13 Dec 2025 06:28:30 +0000",
+    "title": "Configuring HTTP Proxy for gRPC in C# Without Environment Variables",
+    "link": "https://dev.to/akashp1712/configuring-http-proxy-for-grpc-in-c-without-environment-variables-4a9n",
+    "pubDate": "Sat, 13 Dec 2025 12:50:48 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Hi everyone,\nI’m trying to deploy an application on a single EC2 instance and reduce costs by stopping the instance when it’s idle, then automatically starting it again when someone calls my API over "
+    "contentSnippet": "Configuring HTTP Proxy for gRPC in C# Without Environment Variables\n\n\n\n  \n  \n  The Challenge\n\n\nYou have a gRPC client in C# using Grpc.Core that needs to route traffic through an HTTP proxy. Sounds si"
   },
   {
-    "title": "Stuck for Hours? The 'Productive Struggle' Rule for LeetCode",
-    "link": "https://dev.to/alex_hunter_44f4c9ed6671e/stuck-for-hours-the-productive-struggle-rule-for-leetcode-2ab6",
-    "pubDate": "Sat, 13 Dec 2025 06:21:55 +0000",
+    "title": "December countdown calendar",
+    "link": "https://dev.to/preetha_vaishnavi_2b82358/december-countdown-calendar-5h12",
+    "pubDate": "Sat, 13 Dec 2025 12:49:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Originally published on LeetCopilot Blog\nStaring at the screen for 2 hours isn't grit—it's wasted time. Here is the exact skill-based time limit for when to peek at the solution.\nYou've been staring a"
+    "contentSnippet": "Check out this Pen I made!"
   },
   {
-    "title": "Mind Goes Blank on LeetCode? Here's Your Escape Plan",
-    "link": "https://dev.to/alex_hunter_44f4c9ed6671e/mind-goes-blank-on-leetcode-heres-your-escape-plan-472m",
-    "pubDate": "Sat, 13 Dec 2025 06:21:05 +0000",
+    "title": "Modern web development tools 2025 - Mastering Modern Web Coding Tools...",
+    "link": "https://dev.to/ash_dubai/modern-web-development-tools-2025-mastering-modern-web-coding-tools-k8b",
+    "pubDate": "Sat, 13 Dec 2025 12:49:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Originally published on LeetCopilot Blog\nYou understand the problem but have zero idea how to start. That paralysis is fixable. Here's a step-by-step process to get unstuck.\nYou open a new problem. Yo"
+    "contentSnippet": "Mastering Modern Web Coding Tools 2025\n\n\nAre you feeling overwhelmed by how fast web technology changes? It seems like a new framework or tool pops up every other week. Staying on top of everything is"
   },
   {
-    "title": "Cloud Architecture Mistakes I Made So You Don't Have To",
-    "link": "https://dev.to/aman_kulshrestha_815f0a2f/cloud-architecture-mistakes-i-made-so-you-dont-have-to-23hl",
-    "pubDate": "Sat, 13 Dec 2025 06:15:56 +0000",
+    "title": "Master Java ArrayList Methods: A Complete Guide with Examples & Real Use Cases",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/master-java-arraylist-methods-a-complete-guide-with-examples-real-use-cases-3i0g",
+    "pubDate": "Sat, 13 Dec 2025 12:48:29 +0000",
     "source": "DEV.to",
-    "contentSnippet": "I've been building cloud infrastructure for 5+ years. Here are the expensive lessons I learned—so you can skip the pain.\nMy first startup? I built a Kubernetes cluster for 50 users.\nWhat I should've d"
+    "contentSnippet": "Mastering Java ArrayList: Your Ultimate Guide to Dynamic Data Handling\n\n\nAlright, let's talk about one of those Java tools that you'll literally use in almost every project you build—ArrayList. If you"
   },
   {
-    "title": "TFT LCD Technology Explained: Principles, Panel Types, and Real-World Applications",
-    "link": "https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-technology-explained-principles-panel-types-and-real-world-applications-56gl",
-    "pubDate": "Sat, 13 Dec 2025 06:15:20 +0000",
+    "title": "Java Arrays .length Explained: Complete Guide with Examples",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-arrays-length-explained-complete-guide-with-examples-3h2h",
+    "pubDate": "Sat, 13 Dec 2025 12:46:08 +0000",
     "source": "DEV.to",
-    "contentSnippet": "TFT LCD (Thin-Film Transistor Liquid Crystal Display) is one of the most widely adopted display technologies in modern electronic systems. It serves as the visual interface for devices ranging from sm"
+    "contentSnippet": "Java Arrays: Demystifying .length – Your Ultimate Guide to Mastering Array Lengths\n\n\nHey there, fellow coders! 👋 Ever found yourself staring at Java code, wondering about that little .length thing ha"
   },
   {
-    "title": "What Actually Determines a File's Type",
-    "link": "https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0",
-    "pubDate": "Sat, 13 Dec 2025 06:13:45 +0000",
+    "title": "Rapid Prototyping with No-Code Tools: Build AI Voice Agents",
+    "link": "https://dev.to/callstacktech/rapid-prototyping-with-no-code-tools-build-ai-voice-agents-4pfl",
+    "pubDate": "Sat, 13 Dec 2025 12:45:22 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Every file format has a specification, “an agreed-upon structure that defines how the bytes in that file are organized”. Just like we have standards for internet protocols, we have standards for file "
+    "contentSnippet": "Rapid Prototyping with No-Code Tools: Build AI Voice Agents\n\n\n\n  \n  \n  TL;DR\n\n\nMost no-code voice agents break when they hit real conversation logic—conditional routing, dynamic data lookups, multi-st"
   },
   {
-    "title": "Java Keywords",
-    "link": "https://dev.to/lakshmi_g_74c225d5ca0b272/java-keywords-2n22",
-    "pubDate": "Sat, 13 Dec 2025 06:10:32 +0000",
+    "title": "LLMs Need a Contract Layer — Introducing FACET v2.0",
+    "link": "https://dev.to/rokoss21/llms-need-a-contract-layer-introducing-facet-v20-4n1n",
+    "pubDate": "Sat, 13 Dec 2025 12:45:09 +0000",
     "source": "DEV.to",
-    "contentSnippet": "abstract   ,  assert   ,    boolean  ,    break    ,    byte\ncase     ,    catch    ,    char    ,     class    ,    const*\ncontinue  ,   default   ,   do     ,      double     ,  else\nenum      ,   e"
+    "contentSnippet": "For the past few years, we’ve been trying to build reliable systems on top of LLMs using prompts, templates, retries, validation layers, guardrails, and a pile of patches. But the truth is simple and "
   },
   {
-    "title": "Safeguarding Your React Native App: Protecting Screens for Unauthorized Users",
-    "link": "https://dev.to/rogasper/safeguarding-your-react-native-app-protecting-screens-for-unauthorized-users-2npb",
-    "pubDate": "Sat, 13 Dec 2025 06:09:24 +0000",
+    "title": "Git: Managing Multiple Accounts",
+    "link": "https://dev.to/danillog/git-managing-multiple-accounts-3mib",
+    "pubDate": "Sat, 13 Dec 2025 12:44:16 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Developing a mobile application often involves managing user authentication and ensuring that sensitive parts of your app are only accessible to logged-in users. In this blog post, we'll dive into how"
+    "contentSnippet": "Every developer who has ever dealt with a personal project, a job, and perhaps a freelance project on the same machine knows the pain of accidentally git commit with the wrong email. Git allows you to"
   },
   {
-    "title": "Automating Dockerized App Deployment with a Bash Script",
-    "link": "https://dev.to/ifeanyi_nworji/automating-dockerized-app-deployment-with-a-bash-script-41im",
-    "pubDate": "Sat, 13 Dec 2025 06:06:16 +0000",
+    "title": "Java Arrays.fill() Explained: Your Ultimate Guide to Array Initialization",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraysfill-explained-your-ultimate-guide-to-array-initialization-16n6",
+    "pubDate": "Sat, 13 Dec 2025 12:43:33 +0000",
     "source": "DEV.to",
-    "contentSnippet": "DevOps is all about automation, reliability, and efficiency. In Stage 1 of my DevOps internship, I built a robust Bash script to automate the deployment of a Dockerized application to a remote Linux s"
+    "contentSnippet": "Java Arrays.fill() Demystified: Your Shortcut to Effortless Array Setup\n\n\nLet’s be real. In the world of Java programming, we’ve all been there. You create an array, and then you need to set every sin"
   },
   {
-    "title": "Vibe Coding Is Empty: Why The Future Belongs To Devs Who Think, Not Just Type",
-    "link": "https://dev.to/aiwithapex/vibe-coding-is-empty-why-the-future-belongs-to-devs-who-think-not-just-type-2pkh",
-    "pubDate": "Sat, 13 Dec 2025 05:56:28 +0000",
+    "title": "3 Questions That Can Transform Any Call",
+    "link": "https://dev.to/ridd0/3-questions-that-can-transform-any-call-25p1",
+    "pubDate": "Sat, 13 Dec 2025 12:42:57 +0000",
     "source": "DEV.to",
-    "contentSnippet": "Vibe coding is fun until you realize you’re just copy‑pasting code you don’t understand.\nI’ve noticed a quiet shift in software work.\nAI can already write, fix, and debug a lot of your code.\nWhat it c"
+    "contentSnippet": "Learn how to lead more effective and meaningful conversations with clients and teams. Discover three powerful questions that can transform any meeting, build trust, and reveal what truly matters.\nTher"
+  },
+  {
+    "title": "その日、なぜお客様のサーバーは止まってしまったのか",
+    "link": "https://qiita.com/KMKZ/items/f0d939cc81048fcde6af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T22:07:50.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nこちらは「本番環境などでやらかしてしまった人 Advent Calendar2025」の13日目の記事です。\n知ってしまえばしょうもない話ですが、ちょっとした不注意が問題を引き起こしてしまったことへの戒めです。\nもうずいぶん昔の話ですので、どうぞお気軽に笑ってく..."
+  },
+  {
+    "title": "【Gemini】コード差分を「フローチャート」にしてロジック確認を爆速化する方法",
+    "link": "https://qiita.com/yyy0123/items/a95496ecd624e95b80f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T22:04:20.000Z",
+    "source": "Qiita",
+    "contentSnippet": "どうもこんにちは。普段はQAエンジニアとして自社サービスのSaaSの品質管理をしています。\n突然ですが、みなさんは開発物のロジック確認、どのようにされていますか？\n特に複雑な条件分岐やループ処理が入ったソースコードの差分をレビューする際、「頭の中だけでロジックを追うのが辛い..."
+  },
+  {
+    "title": "問題を自分で解決する」から「チームで問題を解決できるようにする」へ——クリティカルシンキングで再考するエンジニアチームマネジメント",
+    "link": "https://qiita.com/WANG_YUQUAN/items/87b5bbdb19892a095743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T22:04:20.000Z",
+    "source": "Qiita",
+    "contentSnippet": "TRIAL＆RetailAI Advent Calendar 2025 の13日目の記事です。\n昨日は@kyojinnaapyon さんの「log.debug() だけでは見えなかった世界を OpenTelemetry が見せてくれた話」という記事でした。\n\nこの記事は..."
+  },
+  {
+    "title": "初老を超えたエンジニアの現実2025",
+    "link": "https://zenn.dev/moshjp/articles/0bcfeba3bba295",
+    "pubDate": "Fri, 12 Dec 2025 16:00:05 GMT",
+    "source": "Zenn",
+    "contentSnippet": "MOSHでソフトウェアエンジニアをしている masuyama です。\nこの記事はMOSHアドベントカレンダー13日目の記事です。\nhttps://adventar.org/calendars/11936\n本日はネタ枠なので、気楽に読んでください。\n\n 前置き\n今年はドラクエ1, 2がリメイクされました。中学生のころ、ドラクエ1を友達の家で、ドラクエ2を駄菓子屋据え置きのファミコン[1]でプレイした"
   },
   {
     "title": "runtime/secret でGoのランタイムから秘匿情報を消す",
@@ -77,11 +105,32 @@
     "contentSnippet": "はじめに\nこの記事は、Google Developer Experts Advent Calendar 2025 13日目の記事です。\n先日、Go の tip に入った面白い新機能についての話をしようと思います。\nhttps://github.com/golang/go/commit/a3fb92a7100f3f2824d483ee0cbcf1264584b3e4\nこのコミットで、runtime/"
   },
   {
-    "title": "シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている",
-    "link": "https://zenn.dev/moneyforward/articles/0a9e517a02ddbd",
-    "pubDate": "Fri, 12 Dec 2025 08:48:08 GMT",
+    "title": "セキュリティエンジニアの知識地図：読んでみた！",
+    "link": "https://qiita.com/loverboy/items/7dc19dd27bc7449f7aee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T14:15:24.000Z",
+    "source": "Qiita",
+    "contentSnippet": "セッキュリティエンジニアの知識地図\n\nTL;DR\n以下に 3 行でまとめます。\n\n本書の対象者はセキュリティエンジニアを目指すけど何をしていいかわからないという人むけです。\n何を学べるか？セキュリティエンジニアの種類やどう言ったキャリアパスがあるのか、どういう学習方法があ..."
+  },
+  {
+    "title": "AIに「愛」は伝わるのか",
+    "link": "https://qiita.com/makimuramakoto/items/337f35e3d10f8cee6a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T09:41:05.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\n私は普段、業務でLLMを使い倒しています。\n来る日も来る日もコードを書かせたり、エラーログを読ませたり…まさに「酷使」という言葉がぴったりな日々です。\n時々「いつも文句も言わずに働いてくれてありがたいな」と思い、何気なくお礼を言ってみたくなります。\n\n👨‍💻 ..."
+  },
+  {
+    "title": "🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想",
+    "link": "https://zenn.dev/myui/articles/64f31faaf1488c",
+    "pubDate": "Fri, 12 Dec 2025 08:47:40 GMT",
     "source": "Zenn",
-    "contentSnippet": "1. はじめに\n!\nシフトレフトという言葉に感じていた違和感\n\nここ数年、「シフトレフト」という言葉を耳にする機会が増えました。\nテスト、QA、セキュリティ、運用――\n何かにつけて「シフトレフトしよう」という言葉が使われます。\n一方で、正直なところずっと違和感もありました。\n話を聞いていると、人によって指しているものが違います。\nテストを早く書くことを指す人もいれば、\nQAを設計段階から巻き込むこ"
+    "contentSnippet": "🌟 はじめに: AIエージェント時代のワークフローと「理想と現実のギャップ」\nLLMの台頭により、システム開発の現場では「AIエージェント」をどのように業務や自社製品に組み込むかが喫緊の関心事となっています。\n一方で、いざプロダクション環境でエージェントを動かそうとすると、既存のツールと要件の間に 「理想と現実のギャップ」 を感じることはないでしょうか？\n\n「自律的に動くエージェントは魅力的だが"
+  },
+  {
+    "title": "PleasanterAPIのブリッジ機能ライブラリを作りました",
+    "link": "https://qiita.com/oosugi-t/items/7098f636983f7ce089ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T08:01:59.000Z",
+    "source": "Qiita",
+    "contentSnippet": "はじめに\nPleasanterのテーブル構造やAPI仕様を意識することなく、統一的なインターフェースでデータを操作できるNuGetパッケージ「PleasanterBridge」を作成いたしました。\n\nパッケージ概要\nPleasanterBridge は、Pleasante..."
   },
   {
     "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
@@ -89,6 +138,20 @@
     "pubDate": "Fri, 12 Dec 2025 03:46:38 GMT",
     "source": "Zenn",
     "contentSnippet": "この記事は LayerX Tech Advent Calendar 2025 12 日目の記事です。\n前回は@tigerさんのslack-blockbookというslack  appのUI確認を爆速にするライブラリについての記事でした。\n\nこんにちは。株式会社LayerXソフトウェアエンジニアのyataです。\n皆さん、もちろん緯度経度は好きですよね？\n今回は、緯度経度と住所を用いた開発に取り組んだ"
+  },
+  {
+    "title": "Go 1.25 testing/synctestの使い所とは? もう非同期処理を含むテストで悩まない",
+    "link": "https://zenn.dev/ubie_dev/articles/38a4dd255866ff",
+    "pubDate": "Fri, 12 Dec 2025 01:09:32 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\nこの記事は Go Advent Calendar 2025 11日目 と Ubie Tech Advent Calendar 2025 11日目の記事です。すみませんが遅刻してしまいました。\n\nこんにちは @glassmonekey です。\nhttps://x.com/glassmonekey\n先日のGo Conference 2025ではencoding/json/v2についてトークをしまし"
+  },
+  {
+    "title": "一種類の記号だけで個数を数える方法は「1進法」ではない",
+    "link": "https://qiita.com/hibit/items/8f0e0f57e35711474a79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T00:34:06.000Z",
+    "source": "Qiita",
+    "contentSnippet": "導入\n　$2$ 進法があります。\n\n$1 \\rightarrow 1$\n$2 \\rightarrow 10$\n$3 \\rightarrow 11$\n$4 \\rightarrow 100$\n$5 \\rightarrow 101$\n$\\vdots$\n\n　では、$1$ 進法では..."
   },
   {
     "title": "GraphQLを採用するか迷ったときに読む記事",
@@ -105,53 +168,11 @@
     "contentSnippet": "これは「Haskell Advent Calendar 2025」12日目の記事です。\n\nタイトルにクロックパズルと銘打ちましたが、このパズルの本当の名前を私は知りません（知ってたら教えて下さい）。パズルというのは例えば、以下のように\n\n左、中央、右にそれぞれ3時間と4時間と5時間を計る時計があり、時計の針は 1,2,3 を指しているとします。それぞれの押しボタンを押すと時計の針は以下のように動き"
   },
   {
-    "title": "T2セキュリティチップ搭載のMacBook Pro （2019）にLinux Mintを入れてみた話",
-    "link": "https://qiita.com/hirotask/items/5d9a2f6ea8e1484e04d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:08:46.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n大学の時に使っていた MacBook Pro がずっと家にあったのですが、購入からもう6年くらい経ち、ビンテージモデルの仲間入りしてすっかり型落ち品になってしまいました。\nしかし、シールをたくさん貼っていたり、長く使っていて少し愛着があるので Linux を入れ..."
-  },
-  {
-    "title": "基礎を学んだ現場と教訓",
-    "link": "https://qiita.com/a_any/items/0bafc5f56ba78b61fb3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:06:56.000Z",
-    "source": "Qiita",
-    "contentSnippet": "初めに\n当筆者はいつでも心は新人だと思っている、入社6年目の常駐型SEです。\n新人の間、基礎を学んだ現場2件と、仕事をする上で学んだ個人的な教訓を記載しました。\n\n学んだ現場\n\n1. ヘルプデスク\n\n業務について\n\n対応フロー\n受付→回答or聞き取り→調査→(必要であ..."
-  },
-  {
-    "title": "EC2起動時にユーザーデータを利用して初期設定を自動化する",
-    "link": "https://qiita.com/g-nawa/items/49112e81ab9b535081f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:06:15.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nEC2インスタンス起動時に設定できるユーザーデータを利用して、普段インスタンス起動後に実施している各種パッケージのインストールやConfigファイルの設定の自動化を試してみたいと思います。\n\n流れ\n\n目標\n前提条件\n実機設定\n実機確認\n\n目標\nRHEL9.6に..."
-  },
-  {
-    "title": "Excel関数のみでデータの内部結合を実現する方法",
-    "link": "https://qiita.com/Yuki_Ishikawa/items/7c3f121c03c3f8912f3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:05:27.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n本記事では、Excel関数のみでデータの内部結合を実現する方法をご紹介します。\nテーブルの構造がきれいな場合は各レコードに対して1対1でデータを結合させるため、XLOOKUP関数のみで対応可能です。\nしかし1対多の関係のような、1つのレコードの結合先に複数の一致..."
-  },
-  {
-    "title": "面倒だから作った！Google Calendarの予定をGASでスプレッドシートに書き出して作業時間を集計",
-    "link": "https://qiita.com/tomosu_engine/items/35e17c0995c44e7ac6ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:05:21.000Z",
-    "source": "Qiita",
-    "contentSnippet": "1. はじめに\nこの記事では、私が個人的に構築・運用している「Google Calendarとスプレッドシートで作業時間を集計する仕組み」をご紹介します。\n\n🫀 動機は「面倒臭い」と「やってみたい」の気持ちから\nエンジニアになってから、業務のタスク管理はBacklogを使..."
-  },
-  {
-    "title": "LLMさんにボディビル大会までの1年間の減量データを分析してもらった",
-    "link": "https://qiita.com/mercy-333/items/c5dc9402c8d6095ee5e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:04:58.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\n2025年、何をやったかなと振り返ってみたところ、\nそういえばボディビル大会に出場しました。\n大会は見事に予選落ちだったのですが、\n以下のデータがあったため、折角なので分析してみようと思います。\n\n減量期間は約1年間\n体重データ(ほぼ毎日)\n自撮り写真(ほぼ毎..."
-  },
-  {
-    "title": "log.debug() だけでは見えなかった世界を OpenTelemetry が見せてくれた話",
-    "link": "https://qiita.com/kyojinnaapyon/items/cf5efe38f9ab280ca5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T17:42:07.000Z",
-    "source": "Qiita",
-    "contentSnippet": "はじめに\nTRIAL＆RetailAI Advent Calendar 2025 の12日目の記事です。\n昨日は@yang_zaiqi さんの「AI時代のチームリーダー進化論」という記事でした。\nAI時代のリーダーに求められる役割やスキルを非常に明確に示し、「AIを使う側..."
+    "title": "今Go言語を採用する理由をなるべく定量的に考えてみる",
+    "link": "https://zenn.dev/it_tsumugi/articles/894d59963a9cbb",
+    "pubDate": "Thu, 11 Dec 2025 19:17:42 GMT",
+    "source": "Zenn",
+    "contentSnippet": "!\n本記事は、Go Advent Calendar 2025 12 日目の記事です。\n\n\n はじめに\nGo 言語はシンプルな言語仕様であることからキャッチアップコストが低く、コンパイラ言語であることから実行速度が速いなどメリットも多いです。また、近年では AI Coding も盛んに行われており、静的型付言語である Go 言語は相性も良さそうです。私の実務経験の長さとしては Go 言語が一番長いこ"
   },
   {
     "title": "詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌",
@@ -175,32 +196,11 @@
     "contentSnippet": "Googleは、Googleや社内で提供されているMCP（Model Context Protocol）サーバや関連ツールの発見、管理、利用、監視などを統合的に可能にするレジストリサービス「Cloud API Registry」のプレビュー公開を発表しました。 GoogleがMCPサーバを多数投入 MCPとは一般に、生成AIやAIエージェントが外部のツールを呼び出して情報を取得したり操作したりする"
   },
   {
-    "title": "Claude Codeのコンテキストを節約する",
-    "link": "https://zenn.dev/karaage0703/articles/1f30a572ff8460",
-    "pubDate": "Thu, 11 Dec 2025 13:33:29 GMT",
-    "source": "Zenn",
-    "contentSnippet": "増え続けるコンテキスト\nAIコーディング実践環境の構築方法【2025年12月】という記事も書きましたが、AIコーディングツールとして、私は現在Claude Codeをメインで使用しています。\nそしてAIコーディングしていて、一番ストレスフルな瞬間…それは何といってもこれ\nCompacting Conversation...\n使用しているコンテキストが一杯になったときに出てくる無慈悲なメッセージ。し"
-  },
-  {
     "title": "メンタルの話",
     "link": "https://qiita.com/hachiyama/items/bfccbb1a24940433a269?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-11T12:09:40.000Z",
     "source": "Qiita",
     "contentSnippet": "はじめに\n社会人も6年目になり、曲がりなりにも経験してきたと思います。\n日々働く中で、特に会社組織では社員の「メンタル」に関する話題がよくあがります。\n今日はそんな「メンタル」について、個人的な考えを書いてみようと思います。\n\nこの記事の内容はすべて個人の思考と経験に基..."
-  },
-  {
-    "title": "AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)",
-    "link": "https://zenn.dev/himara2/articles/755a0a2c4678c0",
-    "pubDate": "Thu, 11 Dec 2025 10:48:10 GMT",
-    "source": "Zenn",
-    "contentSnippet": "Claude CodeやCodexの登場でコーディングは体感3倍くらい早くなりました。しかしプロダクト開発自体の速度アップは1.x倍くらいに留まっている気がします。\nその原因は「プロダクト作りはコーディング以外にも色々やることがあるから」だと思い、コーディング以外でのAI活用を今年色々試したのでまとめてみます。\nなお、このZennは「小さなチーム 大きな仕事」というタイトルで以前発表したものの再編"
-  },
-  {
-    "title": "View TransitionでわかるNext.jsとAstroの設計思想",
-    "link": "https://zenn.dev/ignorant_kenji/articles/6f501784ee2812",
-    "pubDate": "Thu, 11 Dec 2025 05:32:13 GMT",
-    "source": "Zenn",
-    "contentSnippet": "PLAID Designer's Advent Calendar 11日目の記事です。こんにちは。株式会社プレイドのDirection & Development Unit所属のデザインエンジニア、ケンジです。\n\n はじめに\nウェブフロントエンド開発のエコシステムは成熟期を迎えました。「シングルページアプリケーション（SPA）」と「マルチページアプリケーション（MPA）」という長年の二項対立。この"
   },
   {
     "title": "Google、すべてのサービスに生成AIと接続できるフルマネージドなMCPサーバを提供すると宣言。まずはGoogleマップ、BigQuery、Google Compute Engineで利用可能に",
@@ -231,18 +231,18 @@
     "contentSnippet": "さくらインターネットは、同社のクラウドサービス「さくらのクラウド」で「AppRun」の正式提供の開始を発表しました。 AppRunは、コンテナ化されたアプリケーションを簡単にデプロイし、自動的にスケーリングを行うコンテナ実行基盤を提供するサービスです。Amazon Web Services（AWS）のApp RunnerやGoogle CloudのCloud Runに相当すると言えます。 コンテナ"
   },
   {
+    "title": "Next.jsの脆弱性を数日放置したら暗号通貨マイナーを仕込まれた話",
+    "link": "https://qiita.com/KeppyNaushika/items/53936b0ef3f87104e398?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T13:38:09.000Z",
+    "source": "Qiita",
+    "contentSnippet": "やったら動作が遅いなと思ったら、いつの間にか CPU 使用率が100%に。\nこれはもしや...と思ったら、まさにでした。\nPM2にログが残っていたのが救い。\n後は、Claude Code におまかせしました。\n以下、備忘録：\n\nはじめに\n2025年12月、運用していた複数の..."
+  },
+  {
     "title": "OpenAI、Google、MS、Anthropic、AWSらがAIエージェントの普及と相互運用を促進する団体「Agentic AI Foundation」（AAIF）設立。Linux Foundation傘下で",
     "link": "https://www.publickey1.jp/blog/25/openaigooglemsanthropicawsaiagentic_ai_foundationaaiflinux_foundation.html",
     "pubDate": "2025-12-10T03:11:39.000Z",
     "source": "Publickey",
     "contentSnippet": "Linux Foundationは、Amazon Web Services（AWS）、Anthropic、Block、Bloomberg、Cloudflare、Google、Microsoft、OpenAIなどのプラチナメンバーによるAIエージェントの普及や開発、相互運用などを促進するための中立的な団体「Agentic AI Foundation」（AAIF）の設立を発表しました。 Agentic"
-  },
-  {
-    "title": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」",
-    "link": "https://qiita.com/shota_hanawa/items/e242d826570e4292e388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:06:56.000Z",
-    "source": "Qiita",
-    "contentSnippet": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」\n\nはじめに\nこの記事では、AWS × dbt × Snowflake を用いたデータ基盤構築プロジェクトで、\n要件定義〜設計に4ヶ月、実装はわずか2週間 という、\n「いやバランスおかしくない？」という..."
   },
   {
     "title": "「あなたが修正するのは自分だけのバグではない」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（後編）",
